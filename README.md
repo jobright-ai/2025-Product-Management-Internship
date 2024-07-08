@@ -76,8 +76,8 @@ This job repository provides daily updates and tracks the latest Intern jobs in 
 | ↳ | **[Product Research Assistant- Work From Home Remote Job](https://jobright.ai/jobs/info/6688fb22c140bf9444331704)** |  New York, NY  | ON_SITE | N/A |  | 2024-07-05 |
 | ↳ | **[Product Research Assistant- Remote](https://jobright.ai/jobs/info/6688fb22c140bf944433171d)** |  New York, NY  | ON_SITE | N/A |  | 2024-07-05 |
 | ↳ | **[App Reviewer ( Remote)](https://jobright.ai/jobs/info/6688fb22c140bf944433172a)** |  New York, NY  | ON_SITE | N/A |  | 2024-07-05 |
-| **[Recruiter.com](https://www.recruiter.com)** | **[Product Research Assistant- Remote](https://jobright.ai/jobs/info/6687677d0f96546b2bfaf68f)** |  New York, NY  | ON_SITE | N/A |  | 2024-07-04 |
-| ↳ | **[Product Research Assistant- Work From Home Remote Job](https://jobright.ai/jobs/info/6687677d0f96546b2bfaf690)** |  New York, NY  | ON_SITE | N/A |  | 2024-07-04 |
+| **[Recruiter.com](https://www.recruiter.com)** | **[Product Research Assistant- Work From Home Remote Job](https://jobright.ai/jobs/info/6687677d0f96546b2bfaf690)** |  New York, NY  | ON_SITE | N/A |  | 2024-07-04 |
+| ↳ | **[Product Research Assistant- Remote](https://jobright.ai/jobs/info/6687677d0f96546b2bfaf68f)** |  New York, NY  | ON_SITE | N/A |  | 2024-07-04 |
 | ↳ | **[Product Analyst Junior Assistant ( Remote)](https://jobright.ai/jobs/info/6687677d0f96546b2bfaf6bf)** |  New York, NY  | ON_SITE | N/A |  | 2024-07-04 |
 | ↳ | **[Product Research Assistant- Remote](https://jobright.ai/jobs/info/6687677d0f96546b2bfaf6e0)** |  New York, NY  | ON_SITE | N/A |  | 2024-07-04 |
 | ↳ | **[Product Research Panelist - Remote](https://jobright.ai/jobs/info/668767810f96546b2bfaf70a)** |  New York, NY  | ON_SITE | N/A |  | 2024-07-04 |
@@ -88,11 +88,11 @@ This job repository provides daily updates and tracks the latest Intern jobs in 
 | ↳ | **[Product Management Hydronic Solutions Intern Summer 2024](https://jobright.ai/jobs/info/6648a6767bc7ce4b0498d28b)** |  Fort Worth, TX  | ON_SITE | $ 18 - $ 22, hourly |  | 2024-07-04 |
 | **[Recruiter.com](https://www.recruiter.com)** | **[Product Research Assistant- Remote](https://jobright.ai/jobs/info/6686a7c9d4be2b4f08f251dd)** |  United States  | REMOTE | N/A |  | 2024-07-04 |
 | ↳ | **[Product Research Assistant- Remote](https://jobright.ai/jobs/info/6686a7c9d4be2b4f08f251fb)** |  United States  | REMOTE | N/A |  | 2024-07-04 |
-| **[Recruiter.com](https://www.recruiter.com)** | **[Product Research Assistant- Remote](https://jobright.ai/jobs/info/66858a0f0ae1f988330e02c5)** |  New York, NY  | REMOTE | N/A |  | 2024-07-03 |
-| ↳ | **[Product Analyst Junior Assistant ( Remote)](https://jobright.ai/jobs/info/66858a0f0ae1f988330e02ba)** |  New York, NY  | REMOTE | N/A |  | 2024-07-03 |
+| **[Recruiter.com](https://www.recruiter.com)** | **[Product Analyst Junior Assistant ( Remote)](https://jobright.ai/jobs/info/66858a0f0ae1f988330e02ba)** |  New York, NY  | REMOTE | N/A |  | 2024-07-03 |
+| ↳ | **[Product Research Assistant- Remote](https://jobright.ai/jobs/info/66858a0f0ae1f988330e02c5)** |  New York, NY  | REMOTE | N/A |  | 2024-07-03 |
 | ↳ | **[Product Research Panelist - Remote](https://jobright.ai/jobs/info/66858a0f0ae1f988330e02f1)** |  New York, NY  | REMOTE | N/A |  | 2024-07-03 |
-| ↳ | **[Product Research Assistant- Remote](https://jobright.ai/jobs/info/66857e172d5369a6ba26217a)** |  New York, NY  | REMOTE | N/A |  | 2024-07-03 |
 | ↳ | **[Product Researcher - Remote](https://jobright.ai/jobs/info/66857e172d5369a6ba26217d)** |  New York, NY  | REMOTE | N/A |  | 2024-07-03 |
+| ↳ | **[Product Research Assistant- Remote](https://jobright.ai/jobs/info/66857e172d5369a6ba26217a)** |  New York, NY  | REMOTE | N/A |  | 2024-07-03 |
 | ↳ | **[Product Research Assistant- Remote](https://jobright.ai/jobs/info/6686411ed07d259df164f342)** |  New York, NY  | ON_SITE | N/A |  | 2024-07-03 |
 | ↳ | **[Product Research Assistant- Work From Home Remote Job](https://jobright.ai/jobs/info/66857e172d5369a6ba2621e2)** |  New York, NY  | REMOTE | N/A |  | 2024-07-03 |
 | ↳ | **[Product Research Assistant- Remote](https://jobright.ai/jobs/info/66857e1d2d5369a6ba2621ec)** |  New York, NY  | REMOTE | N/A |  | 2024-07-03 |
