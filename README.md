@@ -10,10 +10,10 @@ This job repository provides daily updates and tracks the latest Intern jobs in 
 
 <div align="center">
 <p>
-    <a href="https://jobright.ai/?utm_source={utm_source_code}"><b>👇 Land your dream jobs with a seasoned AI career co-pilot 👇</b></a>
+    <a href="https://jobright.ai/?utm_source=1047"><b>👇 Land your dream jobs with a seasoned AI career co-pilot 👇</b></a>
     <br>
     <br>
-    <a href="https://jobright.ai/?utm_source={utm_source_code}">
+    <a href="https://jobright.ai/?utm_source=1047">
         <img src="./static/img/jrbtn.svg" alt="jobright.ai">
     </a>
     <br>
@@ -97,8 +97,8 @@ This job repository provides daily updates and tracks the latest Intern jobs in 
 | **[Credible](http://www.credible.com)** | **[Product Manager - Student Loans](https://jobright.ai/jobs/info/6676c2a7c9dc0237d722bd44?utm_source=1047&utm_campaign=git)** |  United States  | Remote | $100000-$125000 yearly | 2024-06-15 |
 | **[Super.com](https://www.super.com)** | **[Product Intern, Fintech - 12 Months](https://jobright.ai/jobs/info/6675b9a0044b6b83ef0d31d4?utm_source=1047&utm_campaign=git)** |  New York, United States  | On Site | $39-$45.60 hourly | 2024-06-14 |
 | ↳ | **[Product Intern, Fintech - 12 Months](https://jobright.ai/jobs/info/66759f1e86a9490f868ba829?utm_source=1047&utm_campaign=git)** |  Los Angeles, CA  | On Site | $32.50-$38 hourly | 2024-06-14 |
-| **[Super.com](https://www.super.com)** | **[Product Intern, Fintech - 12 Months](https://jobright.ai/jobs/info/6669cced5ed2cb838e220aa4?utm_source=1047&utm_campaign=git)** |  Los Angeles  | On Site | $32.50-$38 hourly | 2024-06-12 |
-| ↳ | **[Product Intern, Fintech - 12 Months](https://jobright.ai/jobs/info/667c5c8c9f61c590ee1592c2?utm_source=1047&utm_campaign=git)** |  New York  | On Site | $39-$45.60 hourly | 2024-06-12 |
+| **[Super.com](https://www.super.com)** | **[Product Intern, Fintech - 12 Months](https://jobright.ai/jobs/info/667c5c8c9f61c590ee1592c2?utm_source=1047&utm_campaign=git)** |  New York  | On Site | $39-$45.60 hourly | 2024-06-12 |
+| ↳ | **[Product Intern, Fintech - 12 Months](https://jobright.ai/jobs/info/6669cced5ed2cb838e220aa4?utm_source=1047&utm_campaign=git)** |  Los Angeles  | On Site | $32.50-$38 hourly | 2024-06-12 |
 | **[Ossia](http://Ossia.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/66679ad849717280c92ad2de?utm_source=1047&utm_campaign=git)** |  Redmond, WA  | On Site | $20-$25 hourly | 2024-06-10 |
 | **[Multiverse](https://www.multiverse.io)** | **[Product Analyst Apprentice at Fiserv](https://jobright.ai/jobs/info/666753f1373b1e8d00c49096?utm_source=1047&utm_campaign=git)** |  Hagerstown, MD  | On Site |  | 2024-06-10 |
 | **[Rakuten Americas](http://rakuten.us)** | **[Co-Op: Product Management](https://jobright.ai/jobs/info/6667d50f0e75e6484ca40425?utm_source=1047&utm_campaign=git)** |  Seattle, Washington  | On Site | $30-$40 hourly | 2024-06-06 |
