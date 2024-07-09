@@ -6,20 +6,14 @@ This job repository provides daily updates and tracks the latest Intern jobs in 
 
 ✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_source=1047). We curate opportunities that best match your skills and experience from 100,000+ high-quality positions added daily.
 
-✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_source={{utm_source_code}}). We curate opportunities that best match your skills and experience from 100,000+ high-quality positions added daily.
-
 ---
 
 <div align="center">
 <p>
-    <a href="https://jobright.ai/?utm_source=1047"><b>👇 Land your dream jobs with a seasoned AI career co-pilot 👇</b></a>
-
-    <a href="https://jobright.ai/?utm_source={{utm_source_code}}"><b>👇 Land your dream jobs with a seasoned AI career co-pilot 👇</b></a>
+    <a href="https://jobright.ai/?utm_source={utm_source_code}"><b>👇 Land your dream jobs with a seasoned AI career co-pilot 👇</b></a>
     <br>
     <br>
-    <a href="https://jobright.ai/?utm_source=1047">
-
-    <a href="https://jobright.ai/?utm_source={{utm_source_code}}">
+    <a href="https://jobright.ai/?utm_source={utm_source_code}">
         <img src="./static/img/jrbtn.svg" alt="jobright.ai">
     </a>
     <br>
