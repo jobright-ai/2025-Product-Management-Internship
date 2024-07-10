@@ -55,7 +55,7 @@ For a complete list, see the full spreadsheet below:
 
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
-| Company | Job Title | Location & Work Model | Salary | Date Posted |
+| Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Muuto](http://www.muuto.com)** | **[Intern Product Development - Lighting - Muuto Copenhagen](https://jobright.ai/jobs/info/6677b26ad57a2b58a480c9e7?utm_source=1047&utm_campaign=git)** | Denmark, IA | On Site | Jul 09 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Cloud Identity Access Governance Product Manager](https://jobright.ai/jobs/info/668d2274e99837e100f913d7?utm_source=1047&utm_campaign=git)** | Palo Alto, CA | Hybrid | Jul 09 |
