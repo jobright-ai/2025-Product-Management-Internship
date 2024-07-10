@@ -3,7 +3,7 @@
 
 
 
-This job repository is your go-to resource for discovering and sharing the latest internships opportunities in:  and Product Design
+This job repository is your go-to resource for discovering and sharing the latest internships opportunities in:  and Product Design.
 
 
 ✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_source=1047&utm_campaign=git). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
@@ -39,11 +39,11 @@ This job repository is your go-to resource for discovering and sharing the lates
 </p>
 
 ---
-<h3>
-Due to capacity constraints, only internship jobs posted within the last 7 days are listed here.
+<h4>
+Only jobs posted in the last 7 days are listed due to capacity constraints.
 <br>
-For a comprehensive list of all available internships, please refer to the full spreadsheet bellowed:
-</h3>
+For a complete list, see the full spreadsheet below:
+</h4>
 <a href="https://docs.google.com/spreadsheets/d/1YhCc56aBbm1h-oiGbAEtRlc2IVW-CRqN_fJjsRBPHpk/edit?gid=0#gid=0">
     <img src="./static/img/excel_icon.png" alt="excel_icon", style="width: 20%; height: 20%;">
 </a>
