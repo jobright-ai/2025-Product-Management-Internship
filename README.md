@@ -57,6 +57,8 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sirius XM](http://siriusxm.com)** | **[Fall Intern, Product Management – Merchandising – Part Time](https://jobright.ai/jobs/info/6674f5783c33a89311af6f29?utm_source=1047&utm_campaign=git)** | New York, NY | Hybrid | Jul 12 |
+| ↳ | **[Fall Intern, Product Management Automotive - Part Time](https://jobright.ai/jobs/info/66753f4cb0803f5d74de6d09?utm_source=1047&utm_campaign=git)** | New York, NY | On Site | Jul 12 |
 | **[Travelers Insurance](https://www.travelers.com)** | **[Product Management Development Program (PMDP) Pricing Analyst](https://jobright.ai/jobs/info/6690abb9d0a327234d9ab765?utm_source=1047&utm_campaign=git)** | Hartford, CT | Hybrid | Jul 11 |
 | **[rag & bone](http://www.rag-bone.com)** | **[Fall 2024 Internship - Product Development](https://jobright.ai/jobs/info/6690c8f150a8322cf99b81eb?utm_source=1047&utm_campaign=git)** | New York, NY | On Site | Jul 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Product Development Internship Program - Summer 2025](https://jobright.ai/jobs/info/669091552e3fd4c3a3015d75?utm_source=1047&utm_campaign=git)** | McLean, VA | Hybrid | Jul 11 |
@@ -99,9 +101,7 @@ For a complete list, see the full spreadsheet below:
 | **[Klein Tools](https://www.kleintools.com/)** | **[International Associate Product Manager](https://jobright.ai/jobs/info/66502709a84f87e434e09e7f?utm_source=1047&utm_campaign=git)** | Mansfield, TX | On Site | Jun 22 |
 | **[Harris Corp - composite aero-structures division](https://www.l3harris.com/)** | **[Product Management (New Grad- Lynchburg, VA)](https://jobright.ai/jobs/info/665922e2dc30f127d7d727d1?utm_source=1047&utm_campaign=git)** | Lynchburg, VA | On Site | Jun 22 |
 | **[NJEDA](https://www.njeda.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/66398341e381682510f6e9ae?utm_source=1047&utm_campaign=git)** | Middlesex County, NJ | On Site | Jun 21 |
-| **[Sirius XM](http://siriusxm.com)** | **[Fall Intern, Product Management Automotive - Part Time](https://jobright.ai/jobs/info/66753f4cb0803f5d74de6d09?utm_source=1047&utm_campaign=git)** | New York, NY | On Site | Jun 21 |
-| ↳ | **[Fall Intern, Product Management Automotive - Part Time](https://jobright.ai/jobs/info/6674ffa238794d4dc1cab8c6?utm_source=1047&utm_campaign=git)** | Farmington, MI | Hybrid | Jun 21 |
-| ↳ | **[Fall Intern, Product Management – Merchandising – Part Time](https://jobright.ai/jobs/info/6674f5783c33a89311af6f29?utm_source=1047&utm_campaign=git)** | New York, NY | Hybrid | Jun 21 |
+| **[Sirius XM](http://siriusxm.com)** | **[Fall Intern, Product Management Automotive - Part Time](https://jobright.ai/jobs/info/6674ffa238794d4dc1cab8c6?utm_source=1047&utm_campaign=git)** | Farmington, MI | Hybrid | Jun 21 |
 | **[Relay](https://relaypro.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/667db779eade89152c970173?utm_source=1047&utm_campaign=git)** | Raleigh, NC | Hybrid | Jun 21 |
 | **[FRAME](https://www.frame-store.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/667110aa5fe2d9628c330898?utm_source=1047&utm_campaign=git)** | Culver City, CA | On Site | Jun 18 |
 | **[Credible](http://www.credible.com)** | **[Product Manager - Student Loans](https://jobright.ai/jobs/info/6676c2a7c9dc0237d722bd44?utm_source=1047&utm_campaign=git)** | United States | Remote | Jun 15 |
