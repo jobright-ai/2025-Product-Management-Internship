@@ -59,7 +59,6 @@ For a complete list, see the full spreadsheet below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Crisis Prevention Institute](http://www.crisisprevention.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6691e1487ab0371a6692f750?utm_source=1047&utm_campaign=git)** | Milwaukee, WI | On Site | Jul 12 |
 | **[Sirius XM](http://siriusxm.com)** | **[Fall Intern, Product Management Automotive - Part Time](https://jobright.ai/jobs/info/6674ffa238794d4dc1cab8c6?utm_source=1047&utm_campaign=git)** | Farmington, MI | Hybrid | Jul 12 |
-| ↳ | **[Fall Intern, Product Management Automotive - Part Time](https://jobright.ai/jobs/info/66753f4cb0803f5d74de6d09?utm_source=1047&utm_campaign=git)** | New York, NY | On Site | Jul 12 |
 | **[rag & bone](http://www.rag-bone.com)** | **[Fall 2024 Internship - Product Development](https://jobright.ai/jobs/info/6690c8f150a8322cf99b81eb?utm_source=1047&utm_campaign=git)** | New York, NY | On Site | Jul 11 |
 | **[Valmont](http://www.valmont.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/669111732cfdcaa4f7cf8cbf?utm_source=1047&utm_campaign=git)** | Omaha, NE | On Site | Jul 11 |
 | **[Rakuten Americas](http://rakuten.us)** | **[Co-Op: Product Management](https://jobright.ai/jobs/info/6677ce0674ec1a95a89afdb7?utm_source=1047&utm_campaign=git)** | Seattle, WA | On Site | Jul 10 |
@@ -84,8 +83,7 @@ For a complete list, see the full spreadsheet below:
 | **[StepStone Group](https://www.stepstoneglobal.com)** | **[Product Management Junior Analyst](https://jobright.ai/jobs/info/668ea712273b8b676938171f?utm_source=1047&utm_campaign=git)** | La Jolla Shores, CA | On Site | Jun 26 |
 | ↳ | **[Product Management Junior Analyst](https://jobright.ai/jobs/info/668e71585006a3dce367aeb6?utm_source=1047&utm_campaign=git)** | NYC Metro Area | On Site | Jun 26 |
 | **[Nestlé](https://www.nestle.com)** | **[2024 Diversity Leadership Symposium: 2025 Nestlé USA Product Development Intern](https://jobright.ai/jobs/info/66630286844de51657841220?utm_source=1047&utm_campaign=git)** | Arlington, VA | On Site | Jun 26 |
-| **[HP](http://www.hp.com)** | **[Service Product Manager](https://jobright.ai/jobs/info/668d29b6e9464a99e8cacdec?utm_source=1047&utm_campaign=git)** | Boise, ID | On Site | Jun 25 |
-| ↳ | **[Service Product Manager](https://jobright.ai/jobs/info/6683ec8a0980a1d175d129c7?utm_source=1047&utm_campaign=git)** | Vancouver, WA | On Site | Jun 25 |
+| **[HP](http://www.hp.com)** | **[Service Product Manager](https://jobright.ai/jobs/info/6683ec8a0980a1d175d129c7?utm_source=1047&utm_campaign=git)** | Vancouver, WA | On Site | Jun 25 |
 | **[Nestlé](https://www.nestle.com)** | **[2024 Diversity Leadership Symposium: 2025 Nestlé USA Product Development Intern](https://jobright.ai/jobs/info/665ded6103a11bc5a4c8ddb5?utm_source=1047&utm_campaign=git)** | Solon, OH | Hybrid | Jun 25 |
 | **[InComm Payments](https://www.incomm.com)** | **[Fraud Product Intern](https://jobright.ai/jobs/info/6679b26567c58f13394f6a23?utm_source=1047&utm_campaign=git)** | Columbus, GA | On Site | Jun 24 |
 | **[HP](http://www.hp.com)** | **[Service Product Manager](https://jobright.ai/jobs/info/668a7c4c7804bc93ed496b87?utm_source=1047&utm_campaign=git)** | Spring, TX | On Site | Jun 23 |
