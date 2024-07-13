@@ -57,9 +57,9 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crisis Prevention Institute](http://www.crisisprevention.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6691e1487ab0371a6692f750?utm_source=1047&utm_campaign=git)** | Milwaukee, WI | On Site | Jul 12 |
 | **[Sirius XM](http://siriusxm.com)** | **[Fall Intern, Product Management Automotive - Part Time](https://jobright.ai/jobs/info/6674ffa238794d4dc1cab8c6?utm_source=1047&utm_campaign=git)** | Farmington, MI | Hybrid | Jul 12 |
 | ↳ | **[Fall Intern, Product Management Automotive - Part Time](https://jobright.ai/jobs/info/66753f4cb0803f5d74de6d09?utm_source=1047&utm_campaign=git)** | New York, NY | On Site | Jul 12 |
-| **[Travelers Insurance](https://www.travelers.com)** | **[Product Management Development Program (PMDP) Pricing Analyst](https://jobright.ai/jobs/info/6690abb9d0a327234d9ab765?utm_source=1047&utm_campaign=git)** | Hartford, CT | Hybrid | Jul 11 |
 | **[rag & bone](http://www.rag-bone.com)** | **[Fall 2024 Internship - Product Development](https://jobright.ai/jobs/info/6690c8f150a8322cf99b81eb?utm_source=1047&utm_campaign=git)** | New York, NY | On Site | Jul 11 |
 | **[Valmont](http://www.valmont.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/669111732cfdcaa4f7cf8cbf?utm_source=1047&utm_campaign=git)** | Omaha, NE | On Site | Jul 11 |
 | **[Rakuten Americas](http://rakuten.us)** | **[Co-Op: Product Management](https://jobright.ai/jobs/info/6677ce0674ec1a95a89afdb7?utm_source=1047&utm_campaign=git)** | Seattle, WA | On Site | Jul 10 |
@@ -67,7 +67,7 @@ For a complete list, see the full spreadsheet below:
 | **[Valmont](http://www.valmont.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/668e9d611da84ac4a0202e59?utm_source=1047&utm_campaign=git)** | Omaha NE | On Site | Jul 10 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Cloud Identity Access Governance Product Manager](https://jobright.ai/jobs/info/668d2274e99837e100f913d7?utm_source=1047&utm_campaign=git)** | Palo Alto, CA | Hybrid | Jul 09 |
 | **[AmesburyTruth](http://amesburytruth.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/668a72fc39a102a5d248bc5a?utm_source=1047&utm_campaign=git)** | Owatonna, MN | On Site | Jul 08 |
-| **[Mitsubishi Electric Trane HVAC US](https://metahvac.com/)** | **[Product Management CO-OP - Controls Products - REQ # 860](https://jobright.ai/jobs/info/6675ea3ea266c24fd0a153f3?utm_source=1047&utm_campaign=git)** | Suwanee, GA | On Site | Jul 06 |
+| **[Mitsubishi Electric Trane HVAC US](https://metahvac.com/)** | **[Product Management CO-OP - Controls Products - REQ # 860](https://jobright.ai/jobs/info/668937256599156dd09e7ac8?utm_source=1047&utm_campaign=git)** | Suwanee, GA | On Site | Jul 06 |
 | **[JP Morgan Chase](http://www.jpmorganchase.com)** | **[2025 Asset Management Product Summer Analyst Program](https://jobright.ai/jobs/info/668fcffb228dfafddafff504?utm_source=1047&utm_campaign=git)** | New York, NY | On Site | Jul 04 |
 | **[Watts Water Technologies](https://www.watts.com)** | **[Product Management Hydronic Solutions Intern Summer 2024](https://jobright.ai/jobs/info/666ec7d4668a284a9d271c14?utm_source=1047&utm_campaign=git)** | Blauvelt, NY | On Site | Jul 04 |
 | ↳ | **[Product Management Hydronic Solutions Intern Summer 2024](https://jobright.ai/jobs/info/6648a6767bc7ce4b0498d28b?utm_source=1047&utm_campaign=git)** | Fort Worth, TX | On Site | Jul 04 |
