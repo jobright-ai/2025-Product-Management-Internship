@@ -57,6 +57,8 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Amazon Robotics - Tech Product Manager Co-op - Fall 2024](https://jobright.ai/jobs/info/667494b33990c28f4c6c5660?utm_source=1047&utm_campaign=git)** | North Reading, MA | On Site | Jul 13 |
+| **[Harris Corp - composite aero-structures division](https://www.l3harris.com/)** | **[Product Management (New Grad- Lynchburg, VA)](https://jobright.ai/jobs/info/665922e2dc30f127d7d727d1?utm_source=1047&utm_campaign=git)** | Lynchburg, VA | On Site | Jul 13 |
 | **[Crisis Prevention Institute](http://www.crisisprevention.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6691e1487ab0371a6692f750?utm_source=1047&utm_campaign=git)** | Milwaukee, WI | On Site | Jul 12 |
 | **[rag & bone](http://www.rag-bone.com)** | **[Fall 2024 Internship - Product Development](https://jobright.ai/jobs/info/6690c8f150a8322cf99b81eb?utm_source=1047&utm_campaign=git)** | New York, NY | On Site | Jul 11 |
 | **[Valmont](http://www.valmont.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/669111732cfdcaa4f7cf8cbf?utm_source=1047&utm_campaign=git)** | Omaha, NE | On Site | Jul 11 |
@@ -89,9 +91,7 @@ For a complete list, see the full spreadsheet below:
 | **[HP](http://www.hp.com)** | **[Service Product Manager](https://jobright.ai/jobs/info/668a7c4c7804bc93ed496b87?utm_source=1047&utm_campaign=git)** | Spring, TX | On Site | Jun 23 |
 | **[Cummins Inc.](https://www.cummins.com/)** | **[School To Work - Product Management  - Fall](https://jobright.ai/jobs/info/6676d8324ffdc62f7b6794a3?utm_source=1047&utm_campaign=git)** | Florence, KY | On Site | Jun 22 |
 | **[Credible](http://www.credible.com)** | **[Senior Product Manager - Student Loans](https://jobright.ai/jobs/info/667670a0a0e238a9a3a4ae35?utm_source=1047&utm_campaign=git)** | United States | Remote | Jun 22 |
-| **[Amazon](https://amazon.com)** | **[Amazon Robotics - Tech Product Manager Co-op - Fall 2024](https://jobright.ai/jobs/info/667494b33990c28f4c6c5660?utm_source=1047&utm_campaign=git)** | North Reading, MA | On Site | Jun 22 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[International Associate Product Manager](https://jobright.ai/jobs/info/66502709a84f87e434e09e7f?utm_source=1047&utm_campaign=git)** | Mansfield, TX | On Site | Jun 22 |
-| **[Harris Corp - composite aero-structures division](https://www.l3harris.com/)** | **[Product Management (New Grad- Lynchburg, VA)](https://jobright.ai/jobs/info/665922e2dc30f127d7d727d1?utm_source=1047&utm_campaign=git)** | Lynchburg, VA | On Site | Jun 22 |
 | **[NJEDA](https://www.njeda.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/66398341e381682510f6e9ae?utm_source=1047&utm_campaign=git)** | Middlesex County, NJ | On Site | Jun 21 |
 | **[Relay](https://relaypro.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/667db779eade89152c970173?utm_source=1047&utm_campaign=git)** | Raleigh, NC | Hybrid | Jun 21 |
 | **[FRAME](https://www.frame-store.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/667110aa5fe2d9628c330898?utm_source=1047&utm_campaign=git)** | Culver City, CA | On Site | Jun 18 |
