@@ -71,7 +71,6 @@ For a complete list, see the full spreadsheet below:
 | **[Entergy Corporation](https://www.entergy.com)** | **[(Spring 2025) Student Intern - Customer Research (Utility)](https://jobright.ai/jobs/info/66843bd528541b6ce54b59a0?utm_source=1047&utm_campaign=git)** | New Orleans, LA | On Site | Jul 07 |
 | **[Zagg](http://www.zagg.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/669260f01674e72499411929?utm_source=1047&utm_campaign=git)** | Midvale, UT | On Site | Jul 06 |
 | **[Mitsubishi Electric Trane HVAC US](https://metahvac.com/)** | **[Product Management CO-OP - Controls Products - REQ # 860](https://jobright.ai/jobs/info/668937256599156dd09e7ac8?utm_source=1047&utm_campaign=git)** | Suwanee, GA | On Site | Jul 06 |
-| **[JP Morgan Chase](http://www.jpmorganchase.com)** | **[2025 Asset Management Product Summer Analyst Program](https://jobright.ai/jobs/info/668fcffb228dfafddafff504?utm_source=1047&utm_campaign=git)** | New York, NY | On Site | Jul 04 |
 | **[Watts Water Technologies](https://www.watts.com)** | **[Product Management Hydronic Solutions Intern Summer 2024](https://jobright.ai/jobs/info/666ec7d4668a284a9d271c14?utm_source=1047&utm_campaign=git)** | Blauvelt, NY | On Site | Jul 04 |
 | ↳ | **[Product Management Hydronic Solutions Intern Summer 2024](https://jobright.ai/jobs/info/6648a6767bc7ce4b0498d28b?utm_source=1047&utm_campaign=git)** | Fort Worth, TX | On Site | Jul 04 |
 | **[Entergy Corporation](https://www.entergy.com)** | **[Customer Research Intern (Utility) (Spring 2025)](https://jobright.ai/jobs/info/668434f5c8cf1076acabaf50?utm_source=1047&utm_campaign=git)** | New Orleans, LA | Hybrid | Jul 02 |
@@ -82,9 +81,7 @@ For a complete list, see the full spreadsheet below:
 | **[Council on Foreign Relations](https://www.cfr.org/)** | **[Internship, Digital Services, Product, Fall 2024](https://jobright.ai/jobs/info/667ccefbfa9e91319de96b04?utm_source=1047&utm_campaign=git)** | New York, NY | On Site | Jun 27 |
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/667dfcec63c037a1350fd5ec?utm_source=1047&utm_campaign=git)** | New York, NY | On Site | Jun 27 |
 | **[ISlide](https://www.islideusa.com/)** | **[Fall 2024 Product Management and Inventory Intern](https://jobright.ai/jobs/info/667c6f308d1fb16bd6ad64af?utm_source=1047&utm_campaign=git)** | Boston, MA | On Site | Jun 26 |
-| **[HP](http://www.hp.com)** | **[Service Product Manager](https://jobright.ai/jobs/info/668ea7f27e0796ce6d8cf72c?utm_source=1047&utm_campaign=git)** | Boise, ID | On Site | Jun 26 |
-| **[StepStone Group](https://www.stepstoneglobal.com)** | **[Product Management Junior Analyst](https://jobright.ai/jobs/info/668ea712273b8b676938171f?utm_source=1047&utm_campaign=git)** | La Jolla Shores, CA | On Site | Jun 26 |
-| ↳ | **[Product Management Junior Analyst](https://jobright.ai/jobs/info/668e71585006a3dce367aeb6?utm_source=1047&utm_campaign=git)** | NYC Metro Area | On Site | Jun 26 |
+| **[StepStone Group](https://www.stepstoneglobal.com)** | **[Product Management Junior Analyst](https://jobright.ai/jobs/info/668e71585006a3dce367aeb6?utm_source=1047&utm_campaign=git)** | NYC Metro Area | On Site | Jun 26 |
 | **[Nestlé](https://www.nestle.com)** | **[2024 Diversity Leadership Symposium: 2025 Nestlé USA Product Development Intern](https://jobright.ai/jobs/info/66630286844de51657841220?utm_source=1047&utm_campaign=git)** | Arlington, VA | On Site | Jun 26 |
 | **[HP](http://www.hp.com)** | **[Service Product Manager](https://jobright.ai/jobs/info/6683ec8a0980a1d175d129c7?utm_source=1047&utm_campaign=git)** | Vancouver, WA | On Site | Jun 25 |
 | **[Nestlé](https://www.nestle.com)** | **[2024 Diversity Leadership Symposium: 2025 Nestlé USA Product Development Intern](https://jobright.ai/jobs/info/665ded6103a11bc5a4c8ddb5?utm_source=1047&utm_campaign=git)** | Solon, OH | Hybrid | Jun 25 |
@@ -96,6 +93,4 @@ For a complete list, see the full spreadsheet below:
 | **[Relay](https://relaypro.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/667db779eade89152c970173?utm_source=1047&utm_campaign=git)** | Raleigh, NC | Hybrid | Jun 21 |
 | **[FRAME](https://www.frame-store.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/667110aa5fe2d9628c330898?utm_source=1047&utm_campaign=git)** | Culver City, CA | On Site | Jun 18 |
 | **[Credible](http://www.credible.com)** | **[Product Manager - Student Loans](https://jobright.ai/jobs/info/6676c2a7c9dc0237d722bd44?utm_source=1047&utm_campaign=git)** | United States | Remote | Jun 15 |
-| **[Super.com](https://www.super.com)** | **[Product Intern, Fintech - 12 Months](https://jobright.ai/jobs/info/6675b9a0044b6b83ef0d31d4?utm_source=1047&utm_campaign=git)** | New York, United States | On Site | Jun 14 |
-| ↳ | **[Product Intern, Fintech - 12 Months](https://jobright.ai/jobs/info/66759f1e86a9490f868ba829?utm_source=1047&utm_campaign=git)** | Los Angeles, CA | On Site | Jun 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
