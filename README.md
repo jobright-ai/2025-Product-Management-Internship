@@ -57,10 +57,11 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cummins Inc.](https://www.cummins.com/)** | **[School To Work - Product Management  - Fall](https://jobright.ai/jobs/info/6676d8324ffdc62f7b6794a3?utm_source=1047&utm_campaign=git)** | Florence, KY | On Site | Jul 14 |
+| **[Empresa Confidencial](https://www.linkedin.com/company/90947033)** | **[Pasantía de Product Content](https://jobright.ai/jobs/info/66954e8ea046c7d768486e1c?utm_source=1047&utm_campaign=git)** | United States | Remote | Jul 15 |
+| **[Cummins Inc.](https://www.cummins.com/)** | **[School to Work - Associate Product Manager - 12 Months](https://jobright.ai/jobs/info/66954b6e092dd0811e080f51?utm_source=1047&utm_campaign=git)** | Troy, MI | On Site | Jul 15 |
+| ↳ | **[School To Work - Product Management  - Fall](https://jobright.ai/jobs/info/66953864a8e2a2a8f300d2c8?utm_source=1047&utm_campaign=git)** | Florence, KY | On Site | Jul 15 |
 | **[Amazon](https://amazon.com)** | **[Amazon Robotics - Tech Product Manager Co-op - Fall 2024](https://jobright.ai/jobs/info/667494b33990c28f4c6c5660?utm_source=1047&utm_campaign=git)** | North Reading, MA | On Site | Jul 13 |
 | **[Harris Corp - composite aero-structures division](https://www.l3harris.com/)** | **[Product Management (New Grad- Lynchburg, VA)](https://jobright.ai/jobs/info/665922e2dc30f127d7d727d1?utm_source=1047&utm_campaign=git)** | Lynchburg, VA | On Site | Jul 13 |
-| **[Crisis Prevention Institute](http://www.crisisprevention.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6691e1487ab0371a6692f750?utm_source=1047&utm_campaign=git)** | Milwaukee, WI | On Site | Jul 12 |
 | **[rag & bone](http://www.rag-bone.com)** | **[Fall 2024 Internship - Product Development](https://jobright.ai/jobs/info/6690c8f150a8322cf99b81eb?utm_source=1047&utm_campaign=git)** | New York, NY | On Site | Jul 11 |
 | **[Valmont](http://www.valmont.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/669111732cfdcaa4f7cf8cbf?utm_source=1047&utm_campaign=git)** | Omaha, NE | On Site | Jul 11 |
 | **[Rakuten Americas](http://rakuten.us)** | **[Co-Op: Product Management](https://jobright.ai/jobs/info/6677ce0674ec1a95a89afdb7?utm_source=1047&utm_campaign=git)** | Seattle, WA | On Site | Jul 10 |
@@ -68,14 +69,12 @@ For a complete list, see the full spreadsheet below:
 | **[Valmont](http://www.valmont.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/668e9d611da84ac4a0202e59?utm_source=1047&utm_campaign=git)** | Omaha NE | On Site | Jul 10 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Cloud Identity Access Governance Product Manager](https://jobright.ai/jobs/info/668d2274e99837e100f913d7?utm_source=1047&utm_campaign=git)** | Palo Alto, CA | Hybrid | Jul 09 |
 | **[JP Morgan Chase](http://www.jpmorganchase.com)** | **[2025 Asset Management Product Summer Analyst Program](https://jobright.ai/jobs/info/66950a487e648a439ae4f7be?utm_source=1047&utm_campaign=git)** | New York, NY | On Site | Jul 08 |
-| **[Copart](http://www.copart.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6695064ebcbe61834e60b148?utm_source=1047&utm_campaign=git)** | Dallas, TX | On Site | Jul 08 |
 | **[AmesburyTruth](http://amesburytruth.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6693b650a955ace455aa3db3?utm_source=1047&utm_campaign=git)** | Owatonna, MN | On Site | Jul 08 |
 | **[Entergy Corporation](https://www.entergy.com)** | **[(Spring 2025) Student Intern - Customer Research (Utility)](https://jobright.ai/jobs/info/66843bd528541b6ce54b59a0?utm_source=1047&utm_campaign=git)** | New Orleans, LA | On Site | Jul 07 |
-| **[Mitsubishi Electric Trane HVAC US](https://metahvac.com/)** | **[Product Management CO-OP - Controls Products - REQ # 860](https://jobright.ai/jobs/info/6675ea3ea266c24fd0a153f3?utm_source=1047&utm_campaign=git)** | Suwanee, GA | On Site | Jul 06 |
+| **[Mitsubishi Electric Trane HVAC US](https://metahvac.com/)** | **[Product Management CO-OP - Controls Products - REQ # 860](https://jobright.ai/jobs/info/668937256599156dd09e7ac8?utm_source=1047&utm_campaign=git)** | Suwanee, GA | On Site | Jul 06 |
 | **[Watts Water Technologies](https://www.watts.com)** | **[Product Management Hydronic Solutions Intern Summer 2024](https://jobright.ai/jobs/info/666ec7d4668a284a9d271c14?utm_source=1047&utm_campaign=git)** | Blauvelt, NY | On Site | Jul 04 |
 | ↳ | **[Product Management Hydronic Solutions Intern Summer 2024](https://jobright.ai/jobs/info/6648a6767bc7ce4b0498d28b?utm_source=1047&utm_campaign=git)** | Fort Worth, TX | On Site | Jul 04 |
 | **[Entergy Corporation](https://www.entergy.com)** | **[Customer Research Intern (Utility) (Spring 2025)](https://jobright.ai/jobs/info/668434f5c8cf1076acabaf50?utm_source=1047&utm_campaign=git)** | New Orleans, LA | Hybrid | Jul 02 |
-| **[Zagg](http://www.zagg.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6694ff090a69649d3e779b25?utm_source=1047&utm_campaign=git)** | Midvale, UT | On Site | Jul 01 |
 | **[JP Morgan Chase](http://www.jpmorganchase.com)** | **[2025 Chase Leadership Development Program - Summer Analyst](https://jobright.ai/jobs/info/6687f91ee012f36c74fd8dcf?utm_source=1047&utm_campaign=git)** | Columbus, OH | On Site | Jun 28 |
 | **[Cummins Inc.](https://www.cummins.com/)** | **[School to Work - Associate Product Manager - 12 Months](https://jobright.ai/jobs/info/6677cc1074ec1a95a89adc39?utm_source=1047&utm_campaign=git)** | Troy, MI | Hybrid | Jun 28 |
 | **[Relay](https://relaypro.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/667de2d3fe5da1320ba8078e?utm_source=1047&utm_campaign=git)** | Raleigh, NC | Hybrid | Jun 27 |
@@ -91,6 +90,5 @@ For a complete list, see the full spreadsheet below:
 | **[Credible](http://www.credible.com)** | **[Senior Product Manager - Student Loans](https://jobright.ai/jobs/info/667670a0a0e238a9a3a4ae35?utm_source=1047&utm_campaign=git)** | United States | Remote | Jun 22 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[International Associate Product Manager](https://jobright.ai/jobs/info/66502709a84f87e434e09e7f?utm_source=1047&utm_campaign=git)** | Mansfield, TX | On Site | Jun 22 |
 | **[NJEDA](https://www.njeda.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/66398341e381682510f6e9ae?utm_source=1047&utm_campaign=git)** | Middlesex County, NJ | On Site | Jun 21 |
-| **[Relay](https://relaypro.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/667db779eade89152c970173?utm_source=1047&utm_campaign=git)** | Raleigh, NC | Hybrid | Jun 21 |
 | **[FRAME](https://www.frame-store.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/667110aa5fe2d9628c330898?utm_source=1047&utm_campaign=git)** | Culver City, CA | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
