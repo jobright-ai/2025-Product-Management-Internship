@@ -57,9 +57,9 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JP Morgan Chase](http://www.jpmorganchase.com)** | **[2025 Chase Leadership Development Program - Summer Analyst](https://jobright.ai/jobs/info/66985879c78f72e176341f78?utm_source=1047&utm_campaign=git)** | Columbus, OH | On Site | Jul 17 |
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Product Development Internship (Fall 2024)](https://jobright.ai/jobs/info/669754201c31daf5410d4cc7?utm_source=1047&utm_campaign=git)** | New York, NY | On Site | Jul 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Business Risk Integrated Control) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6697228ff11ecbc261d9110d?utm_source=1047&utm_campaign=git)** | San Jose, CA | On Site | Jul 16 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[(Fall) Product Development Co-Op: June to December 2024](https://jobright.ai/jobs/info/6696f4b018172036dded42e9?utm_source=1047&utm_campaign=git)** | Needham, MA | On Site | Jul 16 |
 | **[InComm Payments](https://www.incomm.com)** | **[Fraud Product Intern](https://jobright.ai/jobs/info/6679b26567c58f13394f6a23?utm_source=1047&utm_campaign=git)** | Columbus, GA | On Site | Jul 16 |
 | **[Empresa Confidencial](https://www.linkedin.com/company/90947033)** | **[Pasantía de Product Content](https://jobright.ai/jobs/info/66954e8ea046c7d768486e1c?utm_source=1047&utm_campaign=git)** | United States | Remote | Jul 15 |
 | **[Cummins Inc.](https://www.cummins.com/)** | **[School to Work - Associate Product Manager - 12 Months](https://jobright.ai/jobs/info/66954b6e092dd0811e080f51?utm_source=1047&utm_campaign=git)** | Troy, MI | On Site | Jul 15 |
@@ -74,14 +74,10 @@ For a complete list, see the full spreadsheet below:
 | **[Valmont](http://www.valmont.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/668e9d611da84ac4a0202e59?utm_source=1047&utm_campaign=git)** | Omaha NE | On Site | Jul 10 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Cloud Identity Access Governance Product Manager](https://jobright.ai/jobs/info/668d2274e99837e100f913d7?utm_source=1047&utm_campaign=git)** | Palo Alto, CA | Hybrid | Jul 09 |
 | **[AmesburyTruth](http://amesburytruth.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6693b650a955ace455aa3db3?utm_source=1047&utm_campaign=git)** | Owatonna, MN | On Site | Jul 08 |
-| **[Entergy Corporation](https://www.entergy.com)** | **[(Spring 2025) Student Intern - Customer Research (Utility)](https://jobright.ai/jobs/info/66843bd528541b6ce54b59a0?utm_source=1047&utm_campaign=git)** | New Orleans, LA | On Site | Jul 07 |
-| **[Mitsubishi Electric Trane HVAC US](https://metahvac.com/)** | **[Product Management CO-OP - Controls Products - REQ # 860](https://jobright.ai/jobs/info/668937256599156dd09e7ac8?utm_source=1047&utm_campaign=git)** | Suwanee, GA | On Site | Jul 06 |
+| **[Mitsubishi Electric Trane HVAC US](https://metahvac.com/)** | **[Product Management CO-OP - Controls Products - REQ # 860](https://jobright.ai/jobs/info/6675ea3ea266c24fd0a153f3?utm_source=1047&utm_campaign=git)** | Suwanee, GA | On Site | Jul 06 |
 | **[Watts Water Technologies](https://www.watts.com)** | **[Product Management Hydronic Solutions Intern Summer 2024](https://jobright.ai/jobs/info/666ec7d4668a284a9d271c14?utm_source=1047&utm_campaign=git)** | Blauvelt, NY | On Site | Jul 04 |
 | ↳ | **[Product Management Hydronic Solutions Intern Summer 2024](https://jobright.ai/jobs/info/6648a6767bc7ce4b0498d28b?utm_source=1047&utm_campaign=git)** | Fort Worth, TX | On Site | Jul 04 |
-| **[Copart](http://www.copart.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6697ae8b7a2f0aa23b8b6f8d?utm_source=1047&utm_campaign=git)** | Dallas, TX | On Site | Jul 03 |
-| **[Zagg](http://www.zagg.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6697a6d0620f4ec9da97a174?utm_source=1047&utm_campaign=git)** | Midvale, UT | On Site | Jul 03 |
 | **[Entergy Corporation](https://www.entergy.com)** | **[Customer Research Intern (Utility) (Spring 2025)](https://jobright.ai/jobs/info/668434f5c8cf1076acabaf50?utm_source=1047&utm_campaign=git)** | New Orleans, LA | Hybrid | Jul 02 |
-| **[JP Morgan Chase](http://www.jpmorganchase.com)** | **[2025 Chase Leadership Development Program - Summer Analyst](https://jobright.ai/jobs/info/6687f91ee012f36c74fd8dcf?utm_source=1047&utm_campaign=git)** | Columbus, OH | On Site | Jun 28 |
 | **[Life Alive Café](http://www.lifealive.com)** | **[Innovation and Product Development Intern](https://jobright.ai/jobs/info/667cfaa6dfea4cf625833e55?utm_source=1047&utm_campaign=git)** | Cambridge, MA | On Site | Jun 27 |
 | **[Council on Foreign Relations](https://www.cfr.org/)** | **[Internship, Digital Services, Product, Fall 2024](https://jobright.ai/jobs/info/667ccefbfa9e91319de96b04?utm_source=1047&utm_campaign=git)** | New York, NY | On Site | Jun 27 |
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/667dfcec63c037a1350fd5ec?utm_source=1047&utm_campaign=git)** | New York, NY | On Site | Jun 27 |
