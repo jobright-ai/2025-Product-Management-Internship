@@ -57,7 +57,6 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[JP Morgan Chase](http://www.jpmorganchase.com)** | **[2025 Chase Leadership Development Program - Summer Analyst](https://jobright.ai/jobs/info/66985879c78f72e176341f78?utm_source=1047&utm_campaign=git)** | Columbus, OH | On Site | Jul 17 |
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Product Development Internship (Fall 2024)](https://jobright.ai/jobs/info/669754201c31daf5410d4cc7?utm_source=1047&utm_campaign=git)** | New York, NY | On Site | Jul 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Business Risk Integrated Control) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6697228ff11ecbc261d9110d?utm_source=1047&utm_campaign=git)** | San Jose, CA | On Site | Jul 16 |
 | **[InComm Payments](https://www.incomm.com)** | **[Fraud Product Intern](https://jobright.ai/jobs/info/6679b26567c58f13394f6a23?utm_source=1047&utm_campaign=git)** | Columbus, GA | On Site | Jul 16 |
