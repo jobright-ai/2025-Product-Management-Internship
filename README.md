@@ -57,10 +57,14 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ap Ads and Gaming) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/669a5a2035fab870f631eedb?utm_source=1047&utm_campaign=git)** | San Jose, CA | On Site | Jul 19 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Project Hire/Internal Assignment-Product Design Coordinator](https://jobright.ai/jobs/info/669a51528a0f6d643a248612?utm_source=1047&utm_campaign=git)** | Glendale, CA | On Site | Jul 19 |
+| **[Gravity Sketch](http://gravitysketch.com)** | **[Intern - Product support & content creation](https://jobright.ai/jobs/info/669a3c605c09b01669ee38d9?utm_source=1047&utm_campaign=git)** | North Carolina, United States | On Site | Jul 19 |
 | **[Nestlé](https://www.nestle.com)** | **[Product Development Intern- Summer 2025](https://jobright.ai/jobs/info/6698e2945d7477e8f3743609?utm_source=1047&utm_campaign=git)** | Arlington, VA | Hybrid | Jul 18 |
 | ↳ | **[Product Development Intern- Summer 2025](https://jobright.ai/jobs/info/6698e2945d7477e8f37436b2?utm_source=1047&utm_campaign=git)** | Solon, OH | Hybrid | Jul 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ads Privacy & Targeting) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6698a1bc55add7f45fc70db4?utm_source=1047&utm_campaign=git)** | San Jose, CA | On Site | Jul 18 |
 | **[Sunwater Capital](http://sunwatercapital.com)** | **[Sunwater Institute Product Research Intern](https://jobright.ai/jobs/info/6699835aa75f4fb1c1378d2f?utm_source=1047&utm_campaign=git)** | North Bethesda, MD | Hybrid | Jul 18 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[(Fall) Product Development Co-Op: June to December 2024](https://jobright.ai/jobs/info/669a594ae048947cf93a4d8b?utm_source=1047&utm_campaign=git)** | Needham, MA | On Site | Jul 17 |
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Product Development Internship (Fall 2024)](https://jobright.ai/jobs/info/669754201c31daf5410d4cc7?utm_source=1047&utm_campaign=git)** | New York, NY | On Site | Jul 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Business Risk Integrated Control) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6697228ff11ecbc261d9110d?utm_source=1047&utm_campaign=git)** | San Jose, CA | On Site | Jul 16 |
 | **[InComm Payments](https://www.incomm.com)** | **[Product / IT Intern](https://jobright.ai/jobs/info/6679b26567c58f13394f6a23?utm_source=1047&utm_campaign=git)** | Columbus, GA | On Site | Jul 16 |
@@ -79,7 +83,10 @@ For a complete list, see the full spreadsheet below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Cloud Identity Access Governance Product Manager](https://jobright.ai/jobs/info/668d2274e99837e100f913d7?utm_source=1047&utm_campaign=git)** | Palo Alto, CA | Hybrid | Jul 09 |
 | **[AmesburyTruth](http://amesburytruth.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6693b650a955ace455aa3db3?utm_source=1047&utm_campaign=git)** | Owatonna, MN | On Site | Jul 08 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[CNN Mobile Product Design Intern: NYC - Fall 2024](https://jobright.ai/jobs/info/66929285b8b019ec90670039?utm_source=1047&utm_campaign=git)** | New York, United States | On Site | Jul 06 |
-| **[Mitsubishi Electric Trane HVAC US](https://metahvac.com/)** | **[Product Management CO-OP - Controls Products - REQ # 860](https://jobright.ai/jobs/info/668937256599156dd09e7ac8?utm_source=1047&utm_campaign=git)** | Suwanee, GA | On Site | Jul 06 |
+| **[Mitsubishi Electric Trane HVAC US](https://metahvac.com/)** | **[Product Management CO-OP - Controls Products - REQ # 860](https://jobright.ai/jobs/info/6675ea3ea266c24fd0a153f3?utm_source=1047&utm_campaign=git)** | Suwanee, GA | On Site | Jul 06 |
+| **[JP Morgan Chase](http://www.jpmorganchase.com)** | **[2025 Asset Management Product Summer Analyst Program](https://jobright.ai/jobs/info/669a5e586b08a5b9f5cc41d9?utm_source=1047&utm_campaign=git)** | New York, NY | On Site | Jul 05 |
+| **[Copart](http://www.copart.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/669a561a1d5bb2bbf78ac8f2?utm_source=1047&utm_campaign=git)** | Dallas, TX | On Site | Jul 05 |
+| **[Zagg](http://www.zagg.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/669a491004ee6c4ed8197dba?utm_source=1047&utm_campaign=git)** | Midvale, UT | On Site | Jul 05 |
 | **[Relay](https://relaypro.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66992f6a4b629452f53c3d99?utm_source=1047&utm_campaign=git)** | Raleigh, NC | Hybrid | Jul 04 |
 | **[Watts Water Technologies](https://www.watts.com)** | **[Product Management Hydronic Solutions Intern Summer 2024](https://jobright.ai/jobs/info/666ec7d4668a284a9d271c14?utm_source=1047&utm_campaign=git)** | Blauvelt, NY | On Site | Jul 04 |
 | ↳ | **[Product Management Hydronic Solutions Intern Summer 2024](https://jobright.ai/jobs/info/6648a6767bc7ce4b0498d28b?utm_source=1047&utm_campaign=git)** | Fort Worth, TX | On Site | Jul 04 |
