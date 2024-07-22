@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Peppr](https://www.peppr.com/)** | **[Product Operations Intern- Restaurant Management System](https://jobright.ai/jobs/info/669dfe4dd9edf717c2dabf63?utm_source=1047&utm_campaign=git)** | DFW Metroplex | On Site | Jul 22 |
 | **[Dematic](http://www.dematic.com)** | **[Product Cybersecurity Intern](https://jobright.ai/jobs/info/6677d2bd97271e26801e331d?utm_source=1047&utm_campaign=git)** | Grand Rapids, MI | On Site | Jul 21 |
 | **[Dematic](http://www.dematic.com)** | **[Product Cybersecurity Intern](https://jobright.ai/jobs/info/669d0edd882781b0ee6b93d4?utm_source=1047&utm_campaign=git)** | Grand Rapids, MI | On Site | Jul 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ap Ads and Gaming) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/669a5a2035fab870f631eedb?utm_source=1047&utm_campaign=git)** | San Jose, CA | On Site | Jul 19 |
