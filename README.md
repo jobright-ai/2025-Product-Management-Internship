@@ -57,6 +57,8 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dematic](http://www.dematic.com)** | **[Product Cybersecurity Intern](https://jobright.ai/jobs/info/6677d2bd97271e26801e331d?utm_source=1047&utm_campaign=git)** | Grand Rapids, MI | On Site | Jul 21 |
+| **[Dematic](http://www.dematic.com)** | **[Product Cybersecurity Intern](https://jobright.ai/jobs/info/669d0edd882781b0ee6b93d4?utm_source=1047&utm_campaign=git)** | Grand Rapids, MI | On Site | Jul 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ap Ads and Gaming) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/669a5a2035fab870f631eedb?utm_source=1047&utm_campaign=git)** | San Jose, CA | On Site | Jul 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Project Hire/Internal Assignment-Product Design Coordinator](https://jobright.ai/jobs/info/669a51528a0f6d643a248612?utm_source=1047&utm_campaign=git)** | Glendale, CA | On Site | Jul 19 |
 | **[Gravity Sketch](http://gravitysketch.com)** | **[Intern - Product support & content creation](https://jobright.ai/jobs/info/669a3c605c09b01669ee38d9?utm_source=1047&utm_campaign=git)** | North Carolina, United States | On Site | Jul 19 |
@@ -64,7 +66,7 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Product Development Intern- Summer 2025](https://jobright.ai/jobs/info/6698e2945d7477e8f37436b2?utm_source=1047&utm_campaign=git)** | Solon, OH | Hybrid | Jul 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ads Privacy & Targeting) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6698a1bc55add7f45fc70db4?utm_source=1047&utm_campaign=git)** | San Jose, CA | On Site | Jul 18 |
 | **[Sunwater Capital](http://sunwatercapital.com)** | **[Sunwater Institute Product Research Intern](https://jobright.ai/jobs/info/6699835aa75f4fb1c1378d2f?utm_source=1047&utm_campaign=git)** | North Bethesda, MD | Hybrid | Jul 18 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[(Fall) Product Development Co-Op: June to December 2024](https://jobright.ai/jobs/info/669a594ae048947cf93a4d8b?utm_source=1047&utm_campaign=git)** | Needham, MA | On Site | Jul 17 |
+| **[JP Morgan Chase](http://www.jpmorganchase.com)** | **[2025 Chase Leadership Development Program - Summer Analyst](https://jobright.ai/jobs/info/669d1200571e11e63edcc999?utm_source=1047&utm_campaign=git)** | Columbus, OH | On Site | Jul 17 |
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Product Development Internship (Fall 2024)](https://jobright.ai/jobs/info/669754201c31daf5410d4cc7?utm_source=1047&utm_campaign=git)** | New York, NY | On Site | Jul 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Business Risk Integrated Control) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6697228ff11ecbc261d9110d?utm_source=1047&utm_campaign=git)** | San Jose, CA | On Site | Jul 16 |
 | **[InComm Payments](https://www.incomm.com)** | **[Product / IT Intern](https://jobright.ai/jobs/info/6679b26567c58f13394f6a23?utm_source=1047&utm_campaign=git)** | Columbus, GA | On Site | Jul 16 |
@@ -86,18 +88,15 @@ For a complete list, see the full spreadsheet below:
 | **[JP Morgan Chase](http://www.jpmorganchase.com)** | **[2025 Asset Management Product Summer Analyst Program](https://jobright.ai/jobs/info/669cff0ec6404e366f2fa1b9?utm_source=1047&utm_campaign=git)** | New York, NY | On Site | Jul 07 |
 | **[Watts Water Technologies](https://www.watts.com)** | **[Product Management Hydronic Solutions Intern Summer 2024](https://jobright.ai/jobs/info/669ce6b518954c9f46ca69ff?utm_source=1047&utm_campaign=git)** | Blauvelt, NY | On Site | Jul 07 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[CNN Mobile Product Design Intern: NYC - Fall 2024](https://jobright.ai/jobs/info/66929285b8b019ec90670039?utm_source=1047&utm_campaign=git)** | New York, United States | On Site | Jul 06 |
-| **[Mitsubishi Electric Trane HVAC US](https://metahvac.com/)** | **[Product Management CO-OP - Controls Products - REQ # 860](https://jobright.ai/jobs/info/6675ea3ea266c24fd0a153f3?utm_source=1047&utm_campaign=git)** | Suwanee, GA | On Site | Jul 06 |
+| **[Mitsubishi Electric Trane HVAC US](https://metahvac.com/)** | **[Product Management CO-OP - Controls Products - REQ # 860](https://jobright.ai/jobs/info/668937256599156dd09e7ac8?utm_source=1047&utm_campaign=git)** | Suwanee, GA | On Site | Jul 06 |
 | **[Relay](https://relaypro.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66992f6a4b629452f53c3d99?utm_source=1047&utm_campaign=git)** | Raleigh, NC | Hybrid | Jul 04 |
 | **[Mattel](http://www.mattel.com)** | **[Summer 2024 Undergraduate - Franchise CP](https://jobright.ai/jobs/info/668490fd23fbc70f728ba096?utm_source=1047&utm_campaign=git)** | El Segundo, CA | On Site | Jul 02 |
 | **[Entergy Corporation](https://www.entergy.com)** | **[Customer Research Intern (Utility) (Spring 2025)](https://jobright.ai/jobs/info/668434f5c8cf1076acabaf50?utm_source=1047&utm_campaign=git)** | New Orleans, LA | Hybrid | Jul 02 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Mobile Product Design Intern: NYC - Fall 2024](https://jobright.ai/jobs/info/66839d8b84f17aa9184d2d3a?utm_source=1047&utm_campaign=git)** | New York, NY | Hybrid | Jul 02 |
-| **[Dematic](http://www.dematic.com)** | **[Product Cybersecurity Intern](https://jobright.ai/jobs/info/6677d2bd97271e26801e331d?utm_source=1047&utm_campaign=git)** | Grand Rapids, MI | On Site | Jun 29 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[(Fall) Culinary (Ninja Test Kitchen) Co-op: July to December 2024](https://jobright.ai/jobs/info/664648561942052896de9e7e?utm_source=1047&utm_campaign=git)** | Needham, MA | On Site | Jun 28 |
 | **[KION GROUP](http://www.kiongroup.com/)** | **[Product Cybersecurity Intern](https://jobright.ai/jobs/info/667f15691074e518685ce0be?utm_source=1047&utm_campaign=git)** | Grand Rapids, MI, United States | On Site | Jun 28 |
 | **[Life Alive Café](http://www.lifealive.com)** | **[Innovation and Product Development Intern](https://jobright.ai/jobs/info/667cfaa6dfea4cf625833e55?utm_source=1047&utm_campaign=git)** | Cambridge, MA | On Site | Jun 27 |
 | **[Council on Foreign Relations](https://www.cfr.org/)** | **[Internship, Digital Services, Product, Fall 2024](https://jobright.ai/jobs/info/667ccefbfa9e91319de96b04?utm_source=1047&utm_campaign=git)** | New York, NY | On Site | Jun 27 |
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/667dfcec63c037a1350fd5ec?utm_source=1047&utm_campaign=git)** | New York, NY | On Site | Jun 27 |
 | **[Credible](http://www.credible.com)** | **[Senior Product Manager - Student Loans](https://jobright.ai/jobs/info/667670a0a0e238a9a3a4ae35?utm_source=1047&utm_campaign=git)** | United States | Remote | Jun 22 |
-| **[Klein Tools](https://www.kleintools.com/)** | **[International Associate Product Manager](https://jobright.ai/jobs/info/66502709a84f87e434e09e7f?utm_source=1047&utm_campaign=git)** | Mansfield, TX | On Site | Jun 22 |
-| **[NJEDA](https://www.njeda.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/66398341e381682510f6e9ae?utm_source=1047&utm_campaign=git)** | Middlesex County, NJ | On Site | Jun 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
