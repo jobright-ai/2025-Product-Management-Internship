@@ -57,6 +57,8 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Web Ads and Open-Loop E-Commerce) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/669fa2820978d429047d37c1?utm_source=1047&utm_campaign=git)** | San Jose, CA | On Site | Jul 23 |
+| **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Mobile Product Design Intern: NYC - Fall 2024](https://jobright.ai/jobs/info/66839d8b84f17aa9184d2d3a?utm_source=1047&utm_campaign=git)** | New York, NY | On Site | Jul 23 |
 | **[Nestlé](https://www.nestle.com)** | **[Product Development Internship- R&D 2025](https://jobright.ai/jobs/info/669ee15c955da1e92eb3ea86?utm_source=1047&utm_campaign=git)** | Solon, OH | On Site | Jul 22 |
 | **[Bayerische Motoren Werke](http://www.bmwgroup.com)** | **[Intern, Product Development - Navigation](https://jobright.ai/jobs/info/669ed7d4d1d9c7ae91affa26?utm_source=1047&utm_campaign=git)** | Woodcliff Lake, NJ | Hybrid | Jul 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Partnerships MBA Intern (Monetization Product Partnerships) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/669e4f2d4761975356c352be?utm_source=1047&utm_campaign=git)** | San Francisco, CA | On Site | Jul 22 |
@@ -91,5 +93,4 @@ For a complete list, see the full spreadsheet below:
 | **[HealthStream](http://www.healthstream.com)** | **[Fall Intern, Product Management](https://jobright.ai/jobs/info/668fd7dfd38b7377a4fa9063?utm_source=1047&utm_campaign=git)** | Nashville, TN | Hybrid | Jul 10 |
 | **[Valmont](http://www.valmont.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/668e9d611da84ac4a0202e59?utm_source=1047&utm_campaign=git)** | Omaha NE | On Site | Jul 10 |
 | **[United Parcel Service](http://www.ups.com)** | **[Summer 2024 Undergraduate - Franchise CP](https://jobright.ai/jobs/info/668ec466c916c3695aa7a6c1?utm_source=1047&utm_campaign=git)** | El Segundo, CA | On Site | Jul 09 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Cloud Identity Access Governance Product Manager](https://jobright.ai/jobs/info/668d2274e99837e100f913d7?utm_source=1047&utm_campaign=git)** | Palo Alto, CA | Hybrid | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
