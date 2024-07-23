@@ -57,6 +57,8 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nestlé](https://www.nestle.com)** | **[Product Development Internship- R&D 2025](https://jobright.ai/jobs/info/669ee15c955da1e92eb3ea86?utm_source=1047&utm_campaign=git)** | Solon, OH | On Site | Jul 22 |
+| **[Bayerische Motoren Werke](http://www.bmwgroup.com)** | **[Intern, Product Development - Navigation](https://jobright.ai/jobs/info/669ed7d4d1d9c7ae91affa26?utm_source=1047&utm_campaign=git)** | Woodcliff Lake, NJ | Hybrid | Jul 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Partnerships MBA Intern (Monetization Product Partnerships) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/669e4f2d4761975356c352be?utm_source=1047&utm_campaign=git)** | San Francisco, CA | On Site | Jul 22 |
 | ↳ | **[Product Partnerships MBA Intern (Monetization Product Partnerships) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/669e4676ca3e6aa92c887d94?utm_source=1047&utm_campaign=git)** | New York, United States | On Site | Jul 22 |
 | ↳ | **[Product Operations Intern (Trust & Safety- Product Business Partner ) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/669e40964ef9507440b48310?utm_source=1047&utm_campaign=git)** | San Jose, CA | On Site | Jul 22 |
