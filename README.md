@@ -91,4 +91,5 @@ For a complete list, see the full spreadsheet below:
 | **[HealthStream](http://www.healthstream.com)** | **[Fall Intern, Product Management](https://jobright.ai/jobs/info/668fd7dfd38b7377a4fa9063?utm_source=1047&utm_campaign=git)** | Nashville, TN | Hybrid | Jul 10 |
 | **[Valmont](http://www.valmont.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/668e9d611da84ac4a0202e59?utm_source=1047&utm_campaign=git)** | Omaha NE | On Site | Jul 10 |
 | **[United Parcel Service](http://www.ups.com)** | **[Summer 2024 Undergraduate - Franchise CP](https://jobright.ai/jobs/info/668ec466c916c3695aa7a6c1?utm_source=1047&utm_campaign=git)** | El Segundo, CA | On Site | Jul 09 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Cloud Identity Access Governance Product Manager](https://jobright.ai/jobs/info/668d2274e99837e100f913d7?utm_source=1047&utm_campaign=git)** | Palo Alto, CA | Hybrid | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
