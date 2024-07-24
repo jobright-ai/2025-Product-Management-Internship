@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Harris Corp - composite aero-structures division](https://www.l3harris.com/)** | **[Assoc, Product Management (Lynchburg, VA)](https://jobright.ai/jobs/info/66a0f51cf57f1c3ae4c326c5?utm_source=1047&utm_campaign=git)** | Lynchburg, VA | On Site | Jul 24 |
 | **[InComm Payments](https://www.incomm.com)** | **[Product Implementation Intern](https://jobright.ai/jobs/info/66a039c02987217d073ecac6?utm_source=1047&utm_campaign=git)** | Atlanta, GA | Hybrid | Jul 23 |
 | **[Cartier](http://www.cartier.com)** | **[V.I.E - Fragrance Product Executive - Miami](https://jobright.ai/jobs/info/669fcb76d18a1aa0a307f960?utm_source=1047&utm_campaign=git)** | Miami, FL | Hybrid | Jul 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Web Ads and Open-Loop E-Commerce) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/669fcde99720391081d195f0?utm_source=1047&utm_campaign=git)** | New York, United States | On Site | Jul 23 |
@@ -94,5 +95,4 @@ For a complete list, see the full spreadsheet below:
 | **[Sterling-Rice Group](http://www.srg.com)** | **[Innovation Intern](https://jobright.ai/jobs/info/6690cfbab9480c9896c8edcd?utm_source=1047&utm_campaign=git)** | Boulder, CO | Hybrid | Jul 11 |
 | **[Valmont](http://www.valmont.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/669111732cfdcaa4f7cf8cbf?utm_source=1047&utm_campaign=git)** | Omaha, NE | On Site | Jul 11 |
 | **[Rakuten Americas](http://rakuten.us)** | **[Co-Op: Product Management](https://jobright.ai/jobs/info/6677ce0674ec1a95a89afdb7?utm_source=1047&utm_campaign=git)** | Seattle, WA | On Site | Jul 10 |
-| **[HealthStream](http://www.healthstream.com)** | **[Fall Intern, Product Management](https://jobright.ai/jobs/info/668fd7dfd38b7377a4fa9063?utm_source=1047&utm_campaign=git)** | Nashville, TN | Hybrid | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
