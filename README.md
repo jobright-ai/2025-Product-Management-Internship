@@ -57,11 +57,13 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Strategy Intern (Web Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66a23c165c14cdf3ee23df15?utm_source=1047&utm_campaign=git)** | New York, United States | On Site | Jul 25 |
+| **[Peppr](https://www.peppr.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/66a23889ecab4402ba8f2c69?utm_source=1047&utm_campaign=git)** | Dallas, TX | On Site | Jul 25 |
 | **[Whalesync](https://www.whalesync.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/66a1edb9757b9c9fcf407812?utm_source=1047&utm_campaign=git)** | United States | Remote | Jul 25 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern- Digital Platforms Product Owner and Project Coordination](https://jobright.ai/jobs/info/66a1da283d7ed6eb23d88254?utm_source=1047&utm_campaign=git)** | Newtown Square, PA | On Site | Jul 25 |
 | **[New York Life Insurance](http://www.newyorklife.com)** | **[2025 Technology Summer Internship Program - Technology Analyst](https://jobright.ai/jobs/info/66a1db7b4a1c47d6614d8a11?utm_source=1047&utm_campaign=git)** | New York, NY | Hybrid | Jul 25 |
 | **[Open Network Exchange](https://www.onecompany.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/66a19896ae0b78373854c501?utm_source=1047&utm_campaign=git)** | Scottsdale, AZ | On Site | Jul 24 |
-| **[Harris Corp - composite aero-structures division](https://www.l3harris.com/)** | **[Assoc, Product Management (Lynchburg, VA)](https://jobright.ai/jobs/info/66a14c07b48bc70bd7410b52?utm_source=1047&utm_campaign=git)** | Lynchburg, VA | On Site | Jul 24 |
+| **[Harris Corp - composite aero-structures division](https://www.l3harris.com/)** | **[Assoc, Product Management (Lynchburg, VA)](https://jobright.ai/jobs/info/66a0f51cf57f1c3ae4c326c5?utm_source=1047&utm_campaign=git)** | Lynchburg, VA | On Site | Jul 24 |
 | **[InComm Payments](https://www.incomm.com)** | **[Product Implementation Intern](https://jobright.ai/jobs/info/66a039c02987217d073ecac6?utm_source=1047&utm_campaign=git)** | Atlanta, GA | Hybrid | Jul 23 |
 | **[Cartier](http://www.cartier.com)** | **[V.I.E - Fragrance Product Executive - Miami](https://jobright.ai/jobs/info/669fcb76d18a1aa0a307f960?utm_source=1047&utm_campaign=git)** | Miami, FL | Hybrid | Jul 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Web Ads and Open-Loop E-Commerce) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/669fcde99720391081d195f0?utm_source=1047&utm_campaign=git)** | New York, United States | On Site | Jul 23 |
@@ -95,5 +97,4 @@ For a complete list, see the full spreadsheet below:
 | **[Tesa](http://www.tesa.com)** | **[Working Student (m/f/x) Direct to consumer eCommerce IT](https://jobright.ai/jobs/info/6687f4010825ab5c18ac4789?utm_source=1047&utm_campaign=git)** | Greater Hamburg Area | On Site | Jul 12 |
 | **[rag & bone](http://www.rag-bone.com)** | **[Fall 2024 Internship - Product Development](https://jobright.ai/jobs/info/6690c8f150a8322cf99b81eb?utm_source=1047&utm_campaign=git)** | New York, NY | On Site | Jul 11 |
 | **[Sterling-Rice Group](http://www.srg.com)** | **[Innovation Intern](https://jobright.ai/jobs/info/6690cfbab9480c9896c8edcd?utm_source=1047&utm_campaign=git)** | Boulder, CO | Hybrid | Jul 11 |
-| **[Valmont](http://www.valmont.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/669111732cfdcaa4f7cf8cbf?utm_source=1047&utm_campaign=git)** | Omaha, NE | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
