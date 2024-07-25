@@ -57,6 +57,9 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Whalesync](https://www.whalesync.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/66a1edb9757b9c9fcf407812?utm_source=1047&utm_campaign=git)** | United States | Remote | Jul 25 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern- Digital Platforms Product Owner and Project Coordination](https://jobright.ai/jobs/info/66a1da283d7ed6eb23d88254?utm_source=1047&utm_campaign=git)** | Newtown Square, PA | On Site | Jul 25 |
+| **[New York Life Insurance](http://www.newyorklife.com)** | **[2025 Technology Summer Internship Program - Technology Analyst](https://jobright.ai/jobs/info/66a1db7b4a1c47d6614d8a11?utm_source=1047&utm_campaign=git)** | New York, NY | Hybrid | Jul 25 |
 | **[Open Network Exchange](https://www.onecompany.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/66a19896ae0b78373854c501?utm_source=1047&utm_campaign=git)** | Scottsdale, AZ | On Site | Jul 24 |
 | **[Harris Corp - composite aero-structures division](https://www.l3harris.com/)** | **[Assoc, Product Management (Lynchburg, VA)](https://jobright.ai/jobs/info/66a14c07b48bc70bd7410b52?utm_source=1047&utm_campaign=git)** | Lynchburg, VA | On Site | Jul 24 |
 | **[InComm Payments](https://www.incomm.com)** | **[Product Implementation Intern](https://jobright.ai/jobs/info/66a039c02987217d073ecac6?utm_source=1047&utm_campaign=git)** | Atlanta, GA | Hybrid | Jul 23 |
