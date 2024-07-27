@@ -57,17 +57,19 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cryoport](http://cryoport.com)** | **[Product Management and Marketing Internship](https://jobright.ai/jobs/info/66a415fa245df7d0f6632b2a?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Jul 26 |
+| **[Copeland](https://www.copeland.com)** | **[Co Op Product Management](https://jobright.ai/jobs/info/66a41716e30efe1dc24e6825?utm_campaign=1047&utm_source=git)** | Sidney, OH | On Site | Jul 26 |
+| **[Harris Corp - composite aero-structures division](https://www.l3harris.com/)** | **[Product Management Intern D (Salt Lake City, UT)](https://jobright.ai/jobs/info/66a3f4c85fcbfa8457ce11bd?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Jul 26 |
 | **[Watts Water Technologies](https://www.watts.com)** | **[Product Management Hydronic Solutions Intern Summer 2024](https://jobright.ai/jobs/info/669ce6b518954c9f46ca69ff?utm_campaign=1047&utm_source=git)** | Blauvelt, NY | On Site | Jul 26 |
 | ↳ | **[Product Management Hydronic Solutions Intern Summer 2024](https://jobright.ai/jobs/info/669d0a8204c007d24af47f24?utm_campaign=1047&utm_source=git)** | Fort Worth, TX | On Site | Jul 26 |
-| **[Amazon](https://amazon.com)** | **[Brand Specialist (French speaker), Amazon Vendor Services](https://jobright.ai/jobs/info/66a2e493c70989c2664e35fd?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jul 25 |
+| **[Tillster](http://tillster.com/)** | **[Product Intern](https://jobright.ai/jobs/info/66a3f4e35fcbfa8457ce1478?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Jul 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Global Product Solutions and Operations Intern (Core Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66a2560b81ad172a3785491c?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jul 25 |
 | ↳ | **[Product Strategy Intern (Web Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66a23c165c14cdf3ee23df15?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jul 25 |
 | **[Peppr](https://www.peppr.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/66a23889ecab4402ba8f2c69?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jul 25 |
 | **[Whalesync](https://www.whalesync.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/66a1edb9757b9c9fcf407812?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 25 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern- Digital Platforms Product Owner and Project Coordination](https://jobright.ai/jobs/info/66a1da283d7ed6eb23d88254?utm_campaign=1047&utm_source=git)** | Newtown Square, PA | On Site | Jul 25 |
 | **[New York Life Insurance](http://www.newyorklife.com)** | **[2025 Technology Summer Internship Program - Technology Analyst](https://jobright.ai/jobs/info/66a1db7b4a1c47d6614d8a11?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jul 25 |
 | **[Open Network Exchange](https://www.onecompany.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/66a19896ae0b78373854c501?utm_campaign=1047&utm_source=git)** | Scottsdale, AZ | On Site | Jul 24 |
-| **[Harris Corp - composite aero-structures division](https://www.l3harris.com/)** | **[Assoc, Product Management (Lynchburg, VA)](https://jobright.ai/jobs/info/66a14c07b48bc70bd7410b52?utm_campaign=1047&utm_source=git)** | Lynchburg, VA | On Site | Jul 24 |
+| **[Harris Corp - composite aero-structures division](https://www.l3harris.com/)** | **[Assoc, Product Management (Lynchburg, VA)](https://jobright.ai/jobs/info/66a0f51cf57f1c3ae4c326c5?utm_campaign=1047&utm_source=git)** | Lynchburg, VA | On Site | Jul 24 |
 | **[InComm Payments](https://www.incomm.com)** | **[Product Implementation Intern](https://jobright.ai/jobs/info/66a039c02987217d073ecac6?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Jul 23 |
 | **[Cartier](http://www.cartier.com)** | **[V.I.E - Fragrance Product Executive - Miami](https://jobright.ai/jobs/info/669fcb76d18a1aa0a307f960?utm_campaign=1047&utm_source=git)** | Miami, FL | Hybrid | Jul 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Web Ads and Open-Loop E-Commerce) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/669fcde99720391081d195f0?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jul 23 |
@@ -95,7 +97,6 @@ For a complete list, see the full spreadsheet below:
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Product Development Internship (Fall 2024)](https://jobright.ai/jobs/info/669754201c31daf5410d4cc7?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jul 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Business Risk Integrated Control) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6697228ff11ecbc261d9110d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 16 |
 | **[InComm Payments](https://www.incomm.com)** | **[Product / IT Intern](https://jobright.ai/jobs/info/6679b26567c58f13394f6a23?utm_campaign=1047&utm_source=git)** | Columbus, GA | On Site | Jul 16 |
-| **[Empresa Confidencial](https://www.linkedin.com/company/90947033)** | **[Pasantía de Product Content](https://jobright.ai/jobs/info/66954e8ea046c7d768486e1c?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 15 |
 | **[Cummins Inc.](https://www.cummins.com/)** | **[School To Work - Product Management  - Fall](https://jobright.ai/jobs/info/66953864a8e2a2a8f300d2c8?utm_campaign=1047&utm_source=git)** | Florence, KY | On Site | Jul 15 |
 | **[Amazon](https://amazon.com)** | **[Amazon Robotics - Tech Product Manager Co-op - Fall 2024](https://jobright.ai/jobs/info/667494b33990c28f4c6c5660?utm_campaign=1047&utm_source=git)** | North Reading, MA | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
