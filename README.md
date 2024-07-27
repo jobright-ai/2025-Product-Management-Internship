@@ -60,8 +60,6 @@ For a complete list, see the full spreadsheet below:
 | **[Cryoport](http://cryoport.com)** | **[Product Management and Marketing Internship](https://jobright.ai/jobs/info/66a415fa245df7d0f6632b2a?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Jul 26 |
 | **[Copeland](https://www.copeland.com)** | **[Co Op Product Management](https://jobright.ai/jobs/info/66a41716e30efe1dc24e6825?utm_campaign=1047&utm_source=git)** | Sidney, OH | On Site | Jul 26 |
 | **[Harris Corp - composite aero-structures division](https://www.l3harris.com/)** | **[Product Management Intern D (Salt Lake City, UT)](https://jobright.ai/jobs/info/66a3f4c85fcbfa8457ce11bd?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Jul 26 |
-| **[Watts Water Technologies](https://www.watts.com)** | **[Product Management Hydronic Solutions Intern Summer 2024](https://jobright.ai/jobs/info/669ce6b518954c9f46ca69ff?utm_campaign=1047&utm_source=git)** | Blauvelt, NY | On Site | Jul 26 |
-| ↳ | **[Product Management Hydronic Solutions Intern Summer 2024](https://jobright.ai/jobs/info/669d0a8204c007d24af47f24?utm_campaign=1047&utm_source=git)** | Fort Worth, TX | On Site | Jul 26 |
 | **[Tillster](http://tillster.com/)** | **[Product Intern](https://jobright.ai/jobs/info/66a3f4e35fcbfa8457ce1478?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Jul 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Global Product Solutions and Operations Intern (Core Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66a2560b81ad172a3785491c?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jul 25 |
 | ↳ | **[Product Strategy Intern (Web Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66a23c165c14cdf3ee23df15?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jul 25 |
@@ -98,5 +96,4 @@ For a complete list, see the full spreadsheet below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Business Risk Integrated Control) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6697228ff11ecbc261d9110d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 16 |
 | **[InComm Payments](https://www.incomm.com)** | **[Product / IT Intern](https://jobright.ai/jobs/info/6679b26567c58f13394f6a23?utm_campaign=1047&utm_source=git)** | Columbus, GA | On Site | Jul 16 |
 | **[Cummins Inc.](https://www.cummins.com/)** | **[School To Work - Product Management  - Fall](https://jobright.ai/jobs/info/66953864a8e2a2a8f300d2c8?utm_campaign=1047&utm_source=git)** | Florence, KY | On Site | Jul 15 |
-| **[Amazon](https://amazon.com)** | **[Amazon Robotics - Tech Product Manager Co-op - Fall 2024](https://jobright.ai/jobs/info/667494b33990c28f4c6c5660?utm_campaign=1047&utm_source=git)** | North Reading, MA | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
