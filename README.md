@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ad Signal Product)- 2025 Summer/Fall (BS/MS/MBA/PhD)](https://jobright.ai/jobs/info/66a81b30fa706e9dba460f00?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 29 |
 | **[Cryoport](http://cryoport.com)** | **[Product Management and Marketing Internship](https://jobright.ai/jobs/info/66a415fa245df7d0f6632b2a?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Jul 26 |
 | **[Copeland](https://www.copeland.com)** | **[Co Op Product Management](https://jobright.ai/jobs/info/66a41716e30efe1dc24e6825?utm_campaign=1047&utm_source=git)** | Sidney, OH | On Site | Jul 26 |
 | **[Harris Corp - composite aero-structures division](https://www.l3harris.com/)** | **[Product Management Intern D (Salt Lake City, UT)](https://jobright.ai/jobs/info/66a3f4c85fcbfa8457ce11bd?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Jul 26 |
@@ -96,5 +97,4 @@ For a complete list, see the full spreadsheet below:
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Product Development Internship (Fall 2024)](https://jobright.ai/jobs/info/669754201c31daf5410d4cc7?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jul 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Business Risk Integrated Control) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6697228ff11ecbc261d9110d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 16 |
 | **[InComm Payments](https://www.incomm.com)** | **[Product / IT Intern](https://jobright.ai/jobs/info/6679b26567c58f13394f6a23?utm_campaign=1047&utm_source=git)** | Columbus, GA | On Site | Jul 16 |
-| **[Cummins Inc.](https://www.cummins.com/)** | **[School To Work - Product Management  - Fall](https://jobright.ai/jobs/info/66953864a8e2a2a8f300d2c8?utm_campaign=1047&utm_source=git)** | Florence, KY | On Site | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
