@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Macy's](http://www.macysjobs.com)** | **[2024 Corporate Summer Internship Program - Supply Chain: Product Development/Sourcing](https://jobright.ai/jobs/info/66a8a60de31e1f82e2e60f01?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ad Signal Product)- 2025 Summer/Fall (BS/MS/MBA/PhD)](https://jobright.ai/jobs/info/66a81b30fa706e9dba460f00?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 29 |
 | **[Cryoport](http://cryoport.com)** | **[Product Management and Marketing Internship](https://jobright.ai/jobs/info/66a415fa245df7d0f6632b2a?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Jul 26 |
 | **[Copeland](https://www.copeland.com)** | **[Co Op Product Management](https://jobright.ai/jobs/info/66a41716e30efe1dc24e6825?utm_campaign=1047&utm_source=git)** | Sidney, OH | On Site | Jul 26 |
@@ -70,13 +71,11 @@ For a complete list, see the full spreadsheet below:
 | **[Whalesync](https://www.whalesync.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/66a1edb9757b9c9fcf407812?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 25 |
 | **[New York Life Insurance](http://www.newyorklife.com)** | **[2025 Technology Summer Internship Program - Technology Analyst](https://jobright.ai/jobs/info/66a1db7b4a1c47d6614d8a11?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jul 25 |
 | **[Open Network Exchange](https://www.onecompany.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/66a19896ae0b78373854c501?utm_campaign=1047&utm_source=git)** | Scottsdale, AZ | On Site | Jul 24 |
-| **[Harris Corp - composite aero-structures division](https://www.l3harris.com/)** | **[Assoc, Product Management (Lynchburg, VA)](https://jobright.ai/jobs/info/66a14c07b48bc70bd7410b52?utm_campaign=1047&utm_source=git)** | Lynchburg, VA | On Site | Jul 24 |
 | **[InComm Payments](https://www.incomm.com)** | **[Product Implementation Intern](https://jobright.ai/jobs/info/66a039c02987217d073ecac6?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Jul 23 |
 | **[Cartier](http://www.cartier.com)** | **[V.I.E - Fragrance Product Executive - Miami](https://jobright.ai/jobs/info/669fcb76d18a1aa0a307f960?utm_campaign=1047&utm_source=git)** | Miami, FL | Hybrid | Jul 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Web Ads and Open-Loop E-Commerce) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/669fcde99720391081d195f0?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jul 23 |
 | ↳ | **[Product Manager MBA Intern (Web Ads and Open-Loop E-Commerce) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/669fa2820978d429047d37c1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 23 |
 | ↳ | **[Product Manager Intern (Search Ads) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/669fba05a5eef26fc63282d7?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 23 |
-| **[Nestlé](https://www.nestle.com)** | **[Product Development Internship- R&D 2025](https://jobright.ai/jobs/info/669ee15c955da1e92eb3ea86?utm_campaign=1047&utm_source=git)** | Solon, OH | On Site | Jul 22 |
 | **[Bayerische Motoren Werke](http://www.bmwgroup.com)** | **[Intern, Product Development - Navigation](https://jobright.ai/jobs/info/669ed7d4d1d9c7ae91affa26?utm_campaign=1047&utm_source=git)** | Woodcliff Lake, NJ | Hybrid | Jul 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Partnerships MBA Intern (Monetization Product Partnerships) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/669e4f2d4761975356c352be?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jul 22 |
 | ↳ | **[Product Partnerships MBA Intern (Monetization Product Partnerships) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/669e4676ca3e6aa92c887d94?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jul 22 |
@@ -88,7 +87,6 @@ For a complete list, see the full spreadsheet below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Project Hire/Internal Assignment-Product Design Coordinator](https://jobright.ai/jobs/info/669a51528a0f6d643a248612?utm_campaign=1047&utm_source=git)** | Glendale, CA | On Site | Jul 19 |
 | **[Gravity Sketch](http://gravitysketch.com)** | **[Intern - Product support & content creation](https://jobright.ai/jobs/info/669a3c605c09b01669ee38d9?utm_campaign=1047&utm_source=git)** | North Carolina, United States | On Site | Jul 19 |
 | **[Cummins Inc.](https://www.cummins.com/)** | **[School to Work - Associate Product Manager](https://jobright.ai/jobs/info/66954b6e092dd0811e080f51?utm_campaign=1047&utm_source=git)** | Troy, MI | On Site | Jul 19 |
-| **[JP Morgan Chase](http://www.jpmorganchase.com)** | **[2025 Chase Leadership Development Program - Summer Analyst (New York)](https://jobright.ai/jobs/info/66a27b6310e34507ec383df4?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jul 18 |
 | **[Nestlé](https://www.nestle.com)** | **[Product Development Intern- Summer 2025](https://jobright.ai/jobs/info/6698e2945d7477e8f3743609?utm_campaign=1047&utm_source=git)** | Arlington, VA | Hybrid | Jul 18 |
 | ↳ | **[Product Development Intern- Summer 2025](https://jobright.ai/jobs/info/6698e2945d7477e8f37436b2?utm_campaign=1047&utm_source=git)** | Solon, OH | Hybrid | Jul 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ads Privacy & Targeting) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6698a1bc55add7f45fc70db4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 18 |
