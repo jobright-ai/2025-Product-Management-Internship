@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Strategy Intern (Global Business Solutions-Monetization Strategy and Operations-System Strategy and Operations-Americas and Global functions GTM) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/66a8c55a71ad7ddf94e6b907?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jul 30 |
 | **[Macy's](http://www.macysjobs.com)** | **[2024 Corporate Summer Internship Program - Supply Chain: Product Development/Sourcing](https://jobright.ai/jobs/info/66a8a60de31e1f82e2e60f01?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ad Signal Product)- 2025 Summer/Fall (BS/MS/MBA/PhD)](https://jobright.ai/jobs/info/66a81b30fa706e9dba460f00?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 29 |
 | **[Cryoport](http://cryoport.com)** | **[Product Management and Marketing Internship](https://jobright.ai/jobs/info/66a415fa245df7d0f6632b2a?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Jul 26 |
@@ -94,5 +95,4 @@ For a complete list, see the full spreadsheet below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[(Fall) Product Development Co-Op: June to December 2024](https://jobright.ai/jobs/info/669e4416a6c9e437302fbb2e?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Jul 17 |
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Product Development Internship (Fall 2024)](https://jobright.ai/jobs/info/669754201c31daf5410d4cc7?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jul 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Business Risk Integrated Control) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6697228ff11ecbc261d9110d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 16 |
-| **[InComm Payments](https://www.incomm.com)** | **[Product / IT Intern](https://jobright.ai/jobs/info/6679b26567c58f13394f6a23?utm_campaign=1047&utm_source=git)** | Columbus, GA | On Site | Jul 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
