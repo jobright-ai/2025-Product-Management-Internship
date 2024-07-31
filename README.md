@@ -57,7 +57,11 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ads Platform)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66aa1a6d3f222fa8f7a44bf5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 31 |
+| ↳ | **[Product Manager MBA Intern ((Lead Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66aa1a6d3f222fa8f7a44c11?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 31 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Cloud Identity Access Governance Product Manager](https://jobright.ai/jobs/info/668d2274e99837e100f913d7?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jul 31 |
 | **[Sage Group](http://www.sage.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/66a973b245a3934f8fb80cea?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Jul 30 |
+| **[JP Morgan Chase](http://www.jpmorganchase.com)** | **[2025 Asset Management Product Summer Analyst Program](https://jobright.ai/jobs/info/66aa2a0f0339a6572b86a5cf?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ad Signal Product)- 2025 Summer/Fall (BS/MS/MBA/PhD)](https://jobright.ai/jobs/info/66a81b30fa706e9dba460f00?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 29 |
 | **[Cryoport](http://cryoport.com)** | **[Product Management and Marketing Internship](https://jobright.ai/jobs/info/66a415fa245df7d0f6632b2a?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Jul 26 |
 | **[Copeland](https://www.copeland.com)** | **[Co Op Product Management](https://jobright.ai/jobs/info/66a41716e30efe1dc24e6825?utm_campaign=1047&utm_source=git)** | Sidney, OH | On Site | Jul 26 |
@@ -86,8 +90,6 @@ For a complete list, see the full spreadsheet below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Project Hire/Internal Assignment-Product Design Coordinator](https://jobright.ai/jobs/info/669a51528a0f6d643a248612?utm_campaign=1047&utm_source=git)** | Glendale, CA | On Site | Jul 19 |
 | **[Gravity Sketch](http://gravitysketch.com)** | **[Intern - Product support & content creation](https://jobright.ai/jobs/info/669a3c605c09b01669ee38d9?utm_campaign=1047&utm_source=git)** | North Carolina, United States | On Site | Jul 19 |
 | **[Cummins Inc.](https://www.cummins.com/)** | **[School to Work - Associate Product Manager](https://jobright.ai/jobs/info/66954b6e092dd0811e080f51?utm_campaign=1047&utm_source=git)** | Troy, MI | On Site | Jul 19 |
-| **[Nestlé](https://www.nestle.com)** | **[Product Development Intern- Summer 2025](https://jobright.ai/jobs/info/6698e2945d7477e8f37436b2?utm_campaign=1047&utm_source=git)** | Solon, OH | Hybrid | Jul 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ads Privacy & Targeting) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6698a1bc55add7f45fc70db4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 18 |
 | **[Sunwater Capital](http://sunwatercapital.com)** | **[Sunwater Institute Product Research Intern](https://jobright.ai/jobs/info/6699835aa75f4fb1c1378d2f?utm_campaign=1047&utm_source=git)** | North Bethesda, MD | Hybrid | Jul 18 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[(Fall) Product Development Co-Op: June to December 2024](https://jobright.ai/jobs/info/669e4416a6c9e437302fbb2e?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
