@@ -57,6 +57,8 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Brand Innovation)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66ab68aa665ebbd4c2364aef?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 01 |
+| **[Valmont](http://www.valmont.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/669111732cfdcaa4f7cf8cbf?utm_campaign=1047&utm_source=git)** | Omaha, NE | On Site | Aug 01 |
 | **[GEICO](http://www.geico.com)** | **[Special Lines Product Analyst Intern](https://jobright.ai/jobs/info/66ab042945c83ce1238b9582?utm_campaign=1047&utm_source=git)** | Chevy Chase, MD | Hybrid | Aug 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ads Platform)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66aa1a6d3f222fa8f7a44bf5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 31 |
 | ↳ | **[Product Manager MBA Intern ((Lead Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66aa1a6d3f222fa8f7a44c11?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 31 |
@@ -64,6 +66,7 @@ For a complete list, see the full spreadsheet below:
 | **[HealthStream](http://www.healthstream.com)** | **[Fall Intern, Product Management](https://jobright.ai/jobs/info/668fd7dfd38b7377a4fa9063?utm_campaign=1047&utm_source=git)** | Nashville, TN | Hybrid | Jul 31 |
 | **[GEICO](http://www.geico.com)** | **[Special Lines Product Analyst Intern](https://jobright.ai/jobs/info/66aadf8b0004c6a26707e597?utm_campaign=1047&utm_source=git)** | Chevy Chase, MD | Hybrid | Jul 31 |
 | **[Sage Group](http://www.sage.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/66a973b245a3934f8fb80cea?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Jul 30 |
+| **[JP Morgan Chase](http://www.jpmorganchase.com)** | **[2025 Asset Management Product Summer Analyst Program](https://jobright.ai/jobs/info/66ab8cebcbeeacebe0ad16ff?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[Measured Tones Institute of Quran](https://yaseen.measuredtones.com/)** | **[Product Owner](https://jobright.ai/jobs/info/66aacd497f2a406d0cd14f25?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ad Signal Product)- 2025 Summer/Fall (BS/MS/MBA/PhD)](https://jobright.ai/jobs/info/66a81b30fa706e9dba460f00?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 29 |
 | **[Cryoport](http://cryoport.com)** | **[Product Management and Marketing Internship](https://jobright.ai/jobs/info/66a415fa245df7d0f6632b2a?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Jul 26 |
