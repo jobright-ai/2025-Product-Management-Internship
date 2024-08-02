@@ -76,6 +76,7 @@ For a complete list, see the full spreadsheet below:
 | **[HealthStream](http://www.healthstream.com)** | **[Fall Intern, Product Management](https://jobright.ai/jobs/info/668fd7dfd38b7377a4fa9063?utm_campaign=1047&utm_source=git)** | Nashville, TN | Hybrid | Jul 31 |
 | **[GEICO](http://www.geico.com)** | **[Special Lines Product Analyst Intern](https://jobright.ai/jobs/info/66aadf8b0004c6a26707e597?utm_campaign=1047&utm_source=git)** | Chevy Chase, MD | Hybrid | Jul 31 |
 | **[Sage Group](http://www.sage.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/66a973b245a3934f8fb80cea?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Jul 30 |
+| **[JP Morgan Chase](http://www.jpmorganchase.com)** | **[2025 Asset Management Product Summer Analyst Program](https://jobright.ai/jobs/info/66acdc5dd6d678557d6edf41?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ad Signal Product)- 2025 Summer/Fall (BS/MS/MBA/PhD)](https://jobright.ai/jobs/info/66a81b30fa706e9dba460f00?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 29 |
 | **[Cryoport](http://cryoport.com)** | **[Product Management and Marketing Internship](https://jobright.ai/jobs/info/66a415fa245df7d0f6632b2a?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Jul 26 |
 | **[Copeland](https://www.copeland.com)** | **[Co Op Product Management](https://jobright.ai/jobs/info/66a41716e30efe1dc24e6825?utm_campaign=1047&utm_source=git)** | Sidney, OH | On Site | Jul 26 |
