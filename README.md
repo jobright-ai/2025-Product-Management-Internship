@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prudential Financial](http://www.prudential.com)** | **[Prudential: 2025 Technology & Data, Data Analytics & Business Systems Internship Program](https://jobright.ai/jobs/info/66ac9c54acb0e37f0e3ac3e6?utm_campaign=1047&utm_source=git)** | Newark, NJ | Hybrid | Aug 02 |
 | **[ByteDance](http://bytedance.com)** | **[Product Manager Intern (PDI-CSP-PM)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/66ac9454b3297a4e03db81b5?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Aug 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Moderation)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66ac629e9b8cebb04371cd57?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Aug 02 |
 | **[PGIM](https://www.pgim.com)** | **[Prudential: 2025 Technology & Data, Data Analytics & Business Systems Internship Program](https://jobright.ai/jobs/info/66ac8a25b556873e6d502369?utm_campaign=1047&utm_source=git)** | Newark, NJ, USA | On Site | Aug 02 |
