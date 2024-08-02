@@ -57,7 +57,9 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TikTok](https://www.tiktok.com)** | **[Global Product Solutions and Operations MBA Intern (Closed Loop Monetization)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66acb8e8f21cf708e2b4cf49?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Aug 02 |
+| **[TikTok](https://www.tiktok.com)** | **[Global Product Solutions and Operations MBA Intern (Lead Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66accdaabcfe7b9629d5ec61?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Aug 02 |
+| ↳ | **[Product Manager MBA Intern (TikTok Shop Seller Experience)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66accdaabcfe7b9629d5ec58?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Aug 02 |
+| ↳ | **[Global Product Solutions and Operations MBA Intern (Closed Loop Monetization)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66acb8e8f21cf708e2b4cf49?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Aug 02 |
 | **[HP](http://www.hp.com)** | **[Product Data Lead Intern](https://jobright.ai/jobs/info/66acb88e237b9c3b8adfa54c?utm_campaign=1047&utm_source=git)** | Spring, TX | Hybrid | Aug 02 |
 | **[Prudential Financial](http://www.prudential.com)** | **[Prudential: 2025 Technology & Data, Data Analytics & Business Systems Internship Program](https://jobright.ai/jobs/info/66ac9c54acb0e37f0e3ac3e6?utm_campaign=1047&utm_source=git)** | Newark, NJ | Hybrid | Aug 02 |
 | **[ByteDance](http://bytedance.com)** | **[Product Manager Intern (PDI-CSP-PM)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/66ac9454b3297a4e03db81b5?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Aug 02 |
