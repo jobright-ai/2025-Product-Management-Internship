@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ByteDance](http://bytedance.com)** | **[Product Manager Intern (PDI-CSP-PM)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/66ac9454b3297a4e03db81b5?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Aug 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Moderation)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66ac629e9b8cebb04371cd57?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Aug 02 |
 | **[PGIM](https://www.pgim.com)** | **[Prudential: 2025 Technology & Data, Data Analytics & Business Systems Internship Program](https://jobright.ai/jobs/info/66ac8a25b556873e6d502369?utm_campaign=1047&utm_source=git)** | Newark, NJ, USA | On Site | Aug 02 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 Intern - Associate Product Manager (APM)](https://jobright.ai/jobs/info/66abc65d0078786fdb985358?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Aug 01 |
@@ -95,5 +96,4 @@ For a complete list, see the full spreadsheet below:
 | **[Dematic](http://www.dematic.com)** | **[Product Cybersecurity Intern](https://jobright.ai/jobs/info/669d0edd882781b0ee6b93d4?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI | On Site | Jul 20 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[(Fall) Culinary (Ninja Test Kitchen) Co-op: July to December 2024](https://jobright.ai/jobs/info/664648561942052896de9e7e?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Jul 20 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Project Hire/Internal Assignment-Product Design Coordinator](https://jobright.ai/jobs/info/669a51528a0f6d643a248612?utm_campaign=1047&utm_source=git)** | Glendale, CA | On Site | Jul 19 |
-| **[Gravity Sketch](http://gravitysketch.com)** | **[Intern - Product support & content creation](https://jobright.ai/jobs/info/669a3c605c09b01669ee38d9?utm_campaign=1047&utm_source=git)** | North Carolina, United States | On Site | Jul 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
