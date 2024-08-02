@@ -96,5 +96,4 @@ For a complete list, see the full spreadsheet below:
 | **[Dematic](http://www.dematic.com)** | **[Product Cybersecurity Intern](https://jobright.ai/jobs/info/6677d2bd97271e26801e331d?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI | On Site | Jul 21 |
 | **[Dematic](http://www.dematic.com)** | **[Product Cybersecurity Intern](https://jobright.ai/jobs/info/669d0edd882781b0ee6b93d4?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI | On Site | Jul 20 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[(Fall) Culinary (Ninja Test Kitchen) Co-op: July to December 2024](https://jobright.ai/jobs/info/664648561942052896de9e7e?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Jul 20 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Project Hire/Internal Assignment-Product Design Coordinator](https://jobright.ai/jobs/info/669a51528a0f6d643a248612?utm_campaign=1047&utm_source=git)** | Glendale, CA | On Site | Jul 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
