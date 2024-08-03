@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Qurate Retail Group](https://www.qurateretailgroup.com/)** | **[Paid Intern- Home Product Development](https://jobright.ai/jobs/info/66adad806e76a962e84a7a54?utm_campaign=1047&utm_source=git)** | West Chester, PA | On Site | Aug 03 |
 | **[Harris Corp - composite aero-structures division](https://www.l3harris.com/)** | **[Product Management Intern D](https://jobright.ai/jobs/info/66ad1fafbfd6d682d163d43f?utm_campaign=1047&utm_source=git)** | Lynchburg, VA | On Site | Aug 02 |
 | ↳ | **[Intern C, Product Management](https://jobright.ai/jobs/info/66ad1fafbfd6d682d163d43a?utm_campaign=1047&utm_source=git)** | Lynchburg, VA | On Site | Aug 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Global Product Solutions and Operations MBA Intern (Lead Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66accdaabcfe7b9629d5ec61?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Aug 02 |
@@ -65,6 +66,7 @@ For a complete list, see the full spreadsheet below:
 | **[HP](http://www.hp.com)** | **[Product Data Lead Intern](https://jobright.ai/jobs/info/66acb88e237b9c3b8adfa54c?utm_campaign=1047&utm_source=git)** | Spring, TX | Hybrid | Aug 02 |
 | **[Prudential Financial](http://www.prudential.com)** | **[Prudential: 2025 Technology & Data, Data Analytics & Business Systems Internship Program](https://jobright.ai/jobs/info/66ad9cb33d3e1fee27f5e887?utm_campaign=1047&utm_source=git)** | Newark, NJ | Hybrid | Aug 02 |
 | **[ByteDance](http://bytedance.com)** | **[Product Manager Intern (PDI-CSP-PM)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/66ac9454b3297a4e03db81b5?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Aug 02 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Moderation)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66adab3a61a7ac5d3177e889?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Aug 02 |
 | **[PGIM](https://www.pgim.com)** | **[Prudential: 2025 Technology & Data, Data Analytics & Business Systems Internship Program](https://jobright.ai/jobs/info/66ac8a25b556873e6d502369?utm_campaign=1047&utm_source=git)** | Newark, NJ, USA | On Site | Aug 02 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 Intern - Associate Product Manager (APM)](https://jobright.ai/jobs/info/66abc65d0078786fdb985358?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Aug 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Brand Innovation)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66ab68aa665ebbd4c2364aef?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 01 |
