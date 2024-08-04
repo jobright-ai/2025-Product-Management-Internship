@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Klein Tools](https://www.kleintools.com/)** | **[International Associate Product Manager](https://jobright.ai/jobs/info/66af610ebc22d6f20a97bb9c?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Aug 04 |
 | **[Tesa](http://www.tesa.com)** | **[Working Student (m/f/x) Direct to consumer eCommerce IT](https://jobright.ai/jobs/info/6687f4010825ab5c18ac4789?utm_campaign=1047&utm_source=git)** | Greater Hamburg Area | On Site | Aug 03 |
 | **[Rakuten Americas](http://rakuten.us)** | **[Co-Op: Product Management](https://jobright.ai/jobs/info/6677ce0674ec1a95a89afdb7?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Aug 03 |
 | **[Qurate Retail Group](https://www.qurateretailgroup.com/)** | **[Paid Intern- Home Product Development](https://jobright.ai/jobs/info/66adad806e76a962e84a7a54?utm_campaign=1047&utm_source=git)** | West Chester, PA | On Site | Aug 03 |
@@ -65,7 +66,8 @@ For a complete list, see the full spreadsheet below:
 | **[Prudential Financial](http://www.prudential.com)** | **[Prudential: 2025 Technology & Data, Data Analytics & Business Systems Internship Program](https://jobright.ai/jobs/info/66ae465655964dcd7bc19d03?utm_campaign=1047&utm_source=git)** | Newark, NJ | On Site | Aug 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Global Product Solutions and Operations MBA Intern (Lead Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66accdaabcfe7b9629d5ec61?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Aug 02 |
 | ↳ | **[Product Manager MBA Intern (TikTok Shop Seller Experience)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66accdaabcfe7b9629d5ec58?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Aug 02 |
-| ↳ | **[Global Product Solutions and Operations MBA Intern (Closed Loop Monetization)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66acb8e8f21cf708e2b4cf49?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Aug 02 |
+| **[HP](http://www.hp.com)** | **[Product Data Lead Intern](https://jobright.ai/jobs/info/66af61f2e081ca94fe1e9f69?utm_campaign=1047&utm_source=git)** | Spring, TX | On Site | Aug 02 |
+| **[TikTok](https://www.tiktok.com)** | **[Global Product Solutions and Operations MBA Intern (Closed Loop Monetization)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66acb8e8f21cf708e2b4cf49?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Aug 02 |
 | **[ByteDance](http://bytedance.com)** | **[Product Manager Intern (PDI-CSP-PM)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/66ac9454b3297a4e03db81b5?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Aug 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Moderation)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66adab3a61a7ac5d3177e889?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Aug 02 |
 | **[PGIM](https://www.pgim.com)** | **[Prudential: 2025 Technology & Data, Data Analytics & Business Systems Internship Program](https://jobright.ai/jobs/info/66ac8a25b556873e6d502369?utm_campaign=1047&utm_source=git)** | Newark, NJ, USA | On Site | Aug 02 |
