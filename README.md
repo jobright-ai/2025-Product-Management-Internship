@@ -101,5 +101,4 @@ For a complete list, see the full spreadsheet below:
 | **[Bayerische Motoren Werke](http://www.bmwgroup.com)** | **[Intern, Product Development - Navigation](https://jobright.ai/jobs/info/669ed7d4d1d9c7ae91affa26?utm_campaign=1047&utm_source=git)** | Woodcliff Lake, NJ | Hybrid | Jul 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Partnerships MBA Intern (Monetization Product Partnerships) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/669e4f2d4761975356c352be?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jul 22 |
 | ↳ | **[Product Partnerships MBA Intern (Monetization Product Partnerships) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/669e4676ca3e6aa92c887d94?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jul 22 |
-| **[Dematic](http://www.dematic.com)** | **[Product Cybersecurity Intern](https://jobright.ai/jobs/info/6677d2bd97271e26801e331d?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
