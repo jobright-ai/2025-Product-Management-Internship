@@ -57,14 +57,14 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[U.S. Bancorp](http://www.usbank.com)** | **[2025 Product Management Summer Intern](https://jobright.ai/jobs/info/66b3f0360e6696e59ee10d6d?utm_campaign=1047&utm_source=git)** | Multi Location
+| **[U.S. Bancorp](http://www.usbank.com)** | **[2025 Product Management Summer Intern](https://jobright.ai/jobs/info/66b3f5eade85680dc379f2a2?utm_campaign=1047&utm_source=git)** | Multi Location
+Minneapolis, MN
 Charlotte, NC
-Atlanta, GA
-Minneapolis, MN | Hybrid | Aug 07 |
-| **[Clarivate Analytics](http://clarivate.com)** | **[Product Management Analyst - Futures Business Intern](https://jobright.ai/jobs/info/66b3bd274e6e87e9f8bbef3f?utm_campaign=1047&utm_source=git)** | Multi Location
-Alexandria, VA
-USA - Alexandria, VA | Hybrid | Aug 07 |
+Atlanta, GA | Hybrid | Aug 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Business Risk Integrated Control) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6697228ff11ecbc261d9110d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 07 |
+| **[Clarivate Analytics](http://clarivate.com)** | **[Product Management Analyst - Futures Business Intern](https://jobright.ai/jobs/info/66b3c0b9d2f4c95ab62e02f7?utm_campaign=1047&utm_source=git)** | Multi Location
+USA - Alexandria, VA
+Alexandria, VA | On Site | Aug 07 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate- 2025 - Global Commercial Services Product Management Summer Internship New York, NY](https://jobright.ai/jobs/info/66b29b94e56a43eef61f4933?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Aug 06 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[Campus Undergraduate- 2025 - Global Commercial Services Product Management Summer Internship New York, NY](https://jobright.ai/jobs/info/66b28ef446c72da2f5950e46?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Aug 06 |
 | **[Cummins Inc.](https://www.cummins.com/)** | **[School to Work - Associate Product Manager](https://jobright.ai/jobs/info/66954b6e092dd0811e080f51?utm_campaign=1047&utm_source=git)** | Troy, MI | On Site | Aug 06 |
@@ -74,9 +74,6 @@ USA - Alexandria, VA | Hybrid | Aug 07 |
 | **[KWI](https://www.kwi.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/66b13172b72a949db9d90590?utm_campaign=1047&utm_source=git)** | Melville, NY | Hybrid | Aug 05 |
 | **[Podium](https://www.podium.com)** | **[Product Manager, Mobile](https://jobright.ai/jobs/info/66b106d4e5736bdde990199e?utm_campaign=1047&utm_source=git)** | Lehi, UT | On Site | Aug 05 |
 | **[Tesa](http://www.tesa.com)** | **[Working Student (m/f/x) Direct to consumer eCommerce IT](https://jobright.ai/jobs/info/6687f4010825ab5c18ac4789?utm_campaign=1047&utm_source=git)** | Greater Hamburg Area | On Site | Aug 03 |
-| **[Rakuten Americas](http://rakuten.us)** | **[Co-Op: Product Management](https://jobright.ai/jobs/info/6677ce0674ec1a95a89afdb7?utm_campaign=1047&utm_source=git)** | Multi Location
-Seattle, WA
-Seattle, Washington | On Site | Aug 03 |
 | **[Qurate Retail Group](https://www.qurateretailgroup.com/)** | **[Paid Intern- Home Product Development](https://jobright.ai/jobs/info/66adad806e76a962e84a7a54?utm_campaign=1047&utm_source=git)** | West Chester, PA | On Site | Aug 03 |
 | **[Harris Corp - composite aero-structures division](https://www.l3harris.com/)** | **[Product Management Intern D](https://jobright.ai/jobs/info/66ad1fafbfd6d682d163d43f?utm_campaign=1047&utm_source=git)** | Lynchburg, VA | On Site | Aug 02 |
 | ↳ | **[Intern C, Product Management](https://jobright.ai/jobs/info/66ad1fafbfd6d682d163d43a?utm_campaign=1047&utm_source=git)** | Lynchburg, VA | On Site | Aug 02 |
@@ -90,9 +87,6 @@ Seattle, Washington | On Site | Aug 03 |
 | **[Cornerstone Careers](http://www.ccsginc.com)** | **[Paid Intern- Home Product Development](https://jobright.ai/jobs/info/66ae35ee8ffbb48a1c6e845e?utm_campaign=1047&utm_source=git)** | USA, PA, West Chester | On Site | Aug 02 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 Intern - Associate Product Manager (APM)](https://jobright.ai/jobs/info/66abc65d0078786fdb985358?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Aug 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Brand Innovation)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66ab68aa665ebbd4c2364aef?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 01 |
-| **[Valmont](http://www.valmont.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/669111732cfdcaa4f7cf8cbf?utm_campaign=1047&utm_source=git)** | Multi Location
-Omaha, NE
-Omaha NE | On Site | Aug 01 |
 | **[HP](http://www.hp.com)** | **[Product Data Lead Intern](https://jobright.ai/jobs/info/66ac2c3e5f77296f8d81ac78?utm_campaign=1047&utm_source=git)** | Spring, Texas, United States of America | On Site | Aug 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ads Platform)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66aa1a6d3f222fa8f7a44bf5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 31 |
 | ↳ | **[Product Manager MBA Intern ((Lead Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66aa1a6d3f222fa8f7a44c11?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 31 |
