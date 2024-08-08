@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ads Privacy & Targeting) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6698a1bc55add7f45fc70db4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 08 |
 | **[Entrepreneurs of Tomorrow](http://www.entrepreneursoftomorrow.org)** | **[Product Development Intern (Unpaid)](https://jobright.ai/jobs/info/66b4632b83a15ee165b68850?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 08 |
 | **[U.S. Bancorp](http://www.usbank.com)** | **[2025 Product Management Summer Intern](https://jobright.ai/jobs/info/66b3f5eade85680dc379f2a2?utm_campaign=1047&utm_source=git)** | Multi Location
 Minneapolis, MN
@@ -89,6 +90,7 @@ Seattle, Washington | On Site | Aug 03 |
 | **[PGIM](https://www.pgim.com)** | **[Prudential: 2025 Technology & Data, Data Analytics & Business Systems Internship Program](https://jobright.ai/jobs/info/66ac8a25b556873e6d502369?utm_campaign=1047&utm_source=git)** | Newark, NJ, USA | On Site | Aug 02 |
 | **[Cornerstone Careers](http://www.ccsginc.com)** | **[Paid Intern- Home Product Development](https://jobright.ai/jobs/info/66ae35ee8ffbb48a1c6e845e?utm_campaign=1047&utm_source=git)** | USA, PA, West Chester | On Site | Aug 02 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 Intern - Associate Product Manager (APM)](https://jobright.ai/jobs/info/66abc65d0078786fdb985358?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Aug 01 |
+| **[JP Morgan Chase](http://www.jpmorganchase.com)** | **[2025 Asset Management Product Summer Analyst Program](https://jobright.ai/jobs/info/66b4b2b0b05156bd85088285?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Brand Innovation)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66ab68aa665ebbd4c2364aef?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 01 |
 | **[HP](http://www.hp.com)** | **[Product Data Lead Intern](https://jobright.ai/jobs/info/66ac2c3e5f77296f8d81ac78?utm_campaign=1047&utm_source=git)** | Spring, Texas, United States of America | On Site | Aug 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ads Platform)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66aa1a6d3f222fa8f7a44bf5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 31 |
@@ -97,11 +99,9 @@ Seattle, Washington | On Site | Aug 03 |
 | **[Sage Group](http://www.sage.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/66a973b245a3934f8fb80cea?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Jul 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ad Signal Product)- 2025 Summer/Fall (BS/MS/MBA/PhD)](https://jobright.ai/jobs/info/66a81b30fa706e9dba460f00?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 29 |
 | **[Harris Corp - composite aero-structures division](https://www.l3harris.com/)** | **[Product Management Intern D (Salt Lake City, UT)](https://jobright.ai/jobs/info/66a3f4c85fcbfa8457ce11bd?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Jul 26 |
-| **[Watts Water Technologies](https://www.watts.com)** | **[Product Management Hydronic Solutions Intern Summer 2024](https://jobright.ai/jobs/info/66a4e0facefb4ca8819858e5?utm_campaign=1047&utm_source=git)** | Multi Location
-Blauvelt, NY
-Fort Worth, TX | On Site | Jul 26 |
+| **[Watts Water Technologies](https://www.watts.com)** | **[Product Management Hydronic Solutions Intern Summer 2024](https://jobright.ai/jobs/info/66a4f763eb88ef8eb155008f?utm_campaign=1047&utm_source=git)** | Multi Location
+Fort Worth, TX
+Blauvelt, NY | On Site | Jul 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (App Ads and Gaming) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/669a5a2035fab870f631eedb?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 26 |
 | **[Tillster](http://tillster.com/)** | **[Product Intern](https://jobright.ai/jobs/info/66a3f4e35fcbfa8457ce1478?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Jul 26 |
-| **[TikTok](https://www.tiktok.com)** | **[Global Product Solutions and Operations Intern (Core Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66a2560b81ad172a3785491c?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jul 25 |
-| ↳ | **[Product Strategy Intern (Web Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66a23c165c14cdf3ee23df15?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
