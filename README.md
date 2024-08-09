@@ -62,10 +62,9 @@ For a complete list, see the full spreadsheet below:
 | **[EBSCO](http://www.ebsco.de)** | **[Product Management Intern](https://jobright.ai/jobs/info/66b4ffbb43e69ab0636eb065?utm_campaign=1047&utm_source=git)** | Ipswich, MA | On Site | Aug 08 |
 | **[EBSCO Industries](http://www.ebscoind.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/66b4ffbb43e69ab0636eb0fd?utm_campaign=1047&utm_source=git)** | Ipswich, MA | On Site | Aug 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ads Privacy & Targeting) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6698a1bc55add7f45fc70db4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 08 |
-| **[U.S. Bancorp](http://www.usbank.com)** | **[2025 Product Management Summer Intern](https://jobright.ai/jobs/info/66b3fc9e818aa6e3888c2e45?utm_campaign=1047&utm_source=git)** | Multi Location
-Atlanta, GA
-Minneapolis, MN | Hybrid | Aug 07 |
-| **[HP](http://www.hp.com)** | **[Product Data Lead Intern](https://jobright.ai/jobs/info/66b4d6432d64f42185ee04b6?utm_campaign=1047&utm_source=git)** | Spring, TX | On Site | Aug 07 |
+| **[U.S. Bancorp](http://www.usbank.com)** | **[2025 Product Management Summer Intern](https://jobright.ai/jobs/info/66b3f5eade85680dc379f2a2?utm_campaign=1047&utm_source=git)** | Multi Location
+Minneapolis, MN
+Atlanta, GA | Hybrid | Aug 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Business Risk Integrated Control) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6697228ff11ecbc261d9110d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 07 |
 | **[Clarivate Analytics](http://clarivate.com)** | **[Product Management Analyst - Futures Business Intern](https://jobright.ai/jobs/info/66b3c0b9d2f4c95ab62e02f7?utm_campaign=1047&utm_source=git)** | Multi Location
 USA - Alexandria, VA
@@ -77,6 +76,9 @@ Alexandria, VA | On Site | Aug 07 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[Campus Undergraduate – 2025 US Consumer Services Product Development Summer Internship New York, NY](https://jobright.ai/jobs/info/66b1762e754be12cc5131200?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Aug 06 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate – 2025 US Consumer Services Product Development Summer Internship New York, NY](https://jobright.ai/jobs/info/66b148be1989281ef3c27097?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Aug 05 |
 | **[Podium](https://www.podium.com)** | **[Product Manager, Mobile](https://jobright.ai/jobs/info/66b106d4e5736bdde990199e?utm_campaign=1047&utm_source=git)** | Lehi, UT | On Site | Aug 05 |
+| **[Rakuten Americas](http://rakuten.us)** | **[Co-Op: Product Management](https://jobright.ai/jobs/info/6677ce0674ec1a95a89afdb7?utm_campaign=1047&utm_source=git)** | Multi Location
+Seattle, WA
+Seattle, Washington | On Site | Aug 03 |
 | **[Qurate Retail Group](https://www.qurateretailgroup.com/)** | **[Paid Intern- Home Product Development](https://jobright.ai/jobs/info/66adad806e76a962e84a7a54?utm_campaign=1047&utm_source=git)** | West Chester, PA | On Site | Aug 03 |
 | **[Harris Corp - composite aero-structures division](https://www.l3harris.com/)** | **[Product Management Intern D](https://jobright.ai/jobs/info/66ad1fafbfd6d682d163d43f?utm_campaign=1047&utm_source=git)** | Lynchburg, VA | On Site | Aug 02 |
 | ↳ | **[Intern C, Product Management](https://jobright.ai/jobs/info/66ad1fafbfd6d682d163d43a?utm_campaign=1047&utm_source=git)** | Lynchburg, VA | On Site | Aug 02 |
@@ -89,7 +91,6 @@ Alexandria, VA | On Site | Aug 07 |
 | **[PGIM](https://www.pgim.com)** | **[Prudential: 2025 Technology & Data, Data Analytics & Business Systems Internship Program](https://jobright.ai/jobs/info/66ac8a25b556873e6d502369?utm_campaign=1047&utm_source=git)** | Newark, NJ, USA | On Site | Aug 02 |
 | **[Cornerstone Careers](http://www.ccsginc.com)** | **[Paid Intern- Home Product Development](https://jobright.ai/jobs/info/66ae35ee8ffbb48a1c6e845e?utm_campaign=1047&utm_source=git)** | USA, PA, West Chester | On Site | Aug 02 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 Intern - Associate Product Manager (APM)](https://jobright.ai/jobs/info/66abc65d0078786fdb985358?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Aug 01 |
-| **[JP Morgan Chase](http://www.jpmorganchase.com)** | **[2025 Asset Management Product Summer Analyst Program](https://jobright.ai/jobs/info/66b4b2b0b05156bd85088285?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Brand Innovation)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66ab68aa665ebbd4c2364aef?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ads Platform)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66aa1a6d3f222fa8f7a44bf5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 31 |
 | ↳ | **[Product Manager MBA Intern ((Lead Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66aa1a6d3f222fa8f7a44c11?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 31 |
@@ -100,5 +101,4 @@ Alexandria, VA | On Site | Aug 07 |
 | **[Watts Water Technologies](https://www.watts.com)** | **[Product Management Hydronic Solutions Intern Summer 2024](https://jobright.ai/jobs/info/66a4f763eb88ef8eb155008f?utm_campaign=1047&utm_source=git)** | Multi Location
 Fort Worth, TX
 Blauvelt, NY | On Site | Jul 26 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (App Ads and Gaming) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/669a5a2035fab870f631eedb?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
