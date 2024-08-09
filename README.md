@@ -62,15 +62,15 @@ For a complete list, see the full spreadsheet below:
 | **[EBSCO](http://www.ebsco.de)** | **[Product Management Intern](https://jobright.ai/jobs/info/66b4ffbb43e69ab0636eb065?utm_campaign=1047&utm_source=git)** | Ipswich, MA | On Site | Aug 08 |
 | **[EBSCO Industries](http://www.ebscoind.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/66b4ffbb43e69ab0636eb0fd?utm_campaign=1047&utm_source=git)** | Ipswich, MA | On Site | Aug 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ads Privacy & Targeting) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6698a1bc55add7f45fc70db4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 08 |
-| **[U.S. Bancorp](http://www.usbank.com)** | **[2025 Product Management Summer Intern](https://jobright.ai/jobs/info/66b3fc9e818aa6e3888c2e45?utm_campaign=1047&utm_source=git)** | Multi Location
-Atlanta, GA
-Minneapolis, MN | Hybrid | Aug 07 |
+| **[U.S. Bancorp](http://www.usbank.com)** | **[2025 Product Management Summer Intern](https://jobright.ai/jobs/info/66b3f5eade85680dc379f2a2?utm_campaign=1047&utm_source=git)** | Multi Location
+Minneapolis, MN
+Atlanta, GA | Hybrid | Aug 07 |
+| **[Clarivate Analytics](http://clarivate.com)** | **[Product Management Analyst - Futures Business Intern](https://jobright.ai/jobs/info/66b3bd274e6e87e9f8bbef3f?utm_campaign=1047&utm_source=git)** | Multi Location
+Alexandria, VA
+USA - Alexandria, VA | Hybrid | Aug 07 |
 | **[JP Morgan Chase](http://www.jpmorganchase.com)** | **[2025 Chase Leadership Development Program - Summer Analyst (New York)](https://jobright.ai/jobs/info/66b4fd6e25d9ed2e540c6bb2?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Aug 07 |
 | **[HP](http://www.hp.com)** | **[Product Data Lead Intern](https://jobright.ai/jobs/info/66b4d6432d64f42185ee04b6?utm_campaign=1047&utm_source=git)** | Spring, TX | On Site | Aug 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Business Risk Integrated Control) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6697228ff11ecbc261d9110d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 07 |
-| **[Clarivate Analytics](http://clarivate.com)** | **[Product Management Analyst - Futures Business Intern](https://jobright.ai/jobs/info/66b3c0b9d2f4c95ab62e02f7?utm_campaign=1047&utm_source=git)** | Multi Location
-USA - Alexandria, VA
-Alexandria, VA | On Site | Aug 07 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate- 2025 - Global Commercial Services Product Management Summer Internship New York, NY](https://jobright.ai/jobs/info/66b29b94e56a43eef61f4933?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Aug 06 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[Campus Undergraduate- 2025 - Global Commercial Services Product Management Summer Internship New York, NY](https://jobright.ai/jobs/info/66b28ef446c72da2f5950e46?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Aug 06 |
 | **[Cummins Inc.](https://www.cummins.com/)** | **[School to Work - Associate Product Manager](https://jobright.ai/jobs/info/66954b6e092dd0811e080f51?utm_campaign=1047&utm_source=git)** | Troy, MI | On Site | Aug 06 |
