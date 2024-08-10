@@ -59,14 +59,14 @@ For a complete list, see the full spreadsheet below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Co-Op, Digital Product Mgmt](https://jobright.ai/jobs/info/66b67317dc774d6b704ffa2b?utm_campaign=1047&utm_source=git)** | Beverly, MA | On Site | Aug 09 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66b666e4de44cfe992011f20?utm_campaign=1047&utm_source=git)** | Bridgeton, MO | On Site | Aug 09 |
-| **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/66b64ffe157c49d41227d061?utm_campaign=1047&utm_source=git)** | Multi Location
-Golden Valley, MN
+| **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/66b65b6e788eaf2adbfdc0ed?utm_campaign=1047&utm_source=git)** | Multi Location
 Apex, NC
-Brookfield, WI
-North Aurora, IL
 Delavan, WI
+North Aurora, IL
+Brookfield, WI
 Manitowoc, WI
-New Brighton, MN | On Site | Aug 09 |
+New Brighton, MN
+Golden Valley, MN | On Site | Aug 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manger Intern (Seller Growth) - 2025 Start (MBA)](https://jobright.ai/jobs/info/66b613c9b6a41cebf81af50e?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Aug 09 |
 | ↳ | **[Product Manager Intern (Lead Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66b613c9b6a41cebf81af4f6?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Aug 09 |
 | **[Walmart](http://www.walmart.com)** | **[2025 Summer Undergraduate Intern: Sam's Club Product Management](https://jobright.ai/jobs/info/66b66805aca1d7908652df75?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Aug 09 |
@@ -75,13 +75,12 @@ New Brighton, MN | On Site | Aug 09 |
 | **[EBSCO](http://www.ebsco.de)** | **[Product Management Intern](https://jobright.ai/jobs/info/66b4ffbb43e69ab0636eb065?utm_campaign=1047&utm_source=git)** | Ipswich, MA | On Site | Aug 08 |
 | **[EBSCO Industries](http://www.ebscoind.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/66b4ffbb43e69ab0636eb0fd?utm_campaign=1047&utm_source=git)** | Ipswich, MA | On Site | Aug 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ads Privacy & Targeting) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6698a1bc55add7f45fc70db4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 08 |
-| **[U.S. Bancorp](http://www.usbank.com)** | **[2025 Product Management Summer Intern](https://jobright.ai/jobs/info/66b3f5eade85680dc379f2a2?utm_campaign=1047&utm_source=git)** | Multi Location
-Minneapolis, MN
-Atlanta, GA | Hybrid | Aug 07 |
+| **[U.S. Bancorp](http://www.usbank.com)** | **[2025 Product Management Summer Intern](https://jobright.ai/jobs/info/66b3fc9e818aa6e3888c2e45?utm_campaign=1047&utm_source=git)** | Multi Location
+Atlanta, GA
+Minneapolis, MN | Hybrid | Aug 07 |
 | **[Clarivate Analytics](http://clarivate.com)** | **[Product Management Analyst - Futures Business Intern](https://jobright.ai/jobs/info/66b3bd274e6e87e9f8bbef3f?utm_campaign=1047&utm_source=git)** | Multi Location
 Alexandria, VA
 USA - Alexandria, VA | Hybrid | Aug 07 |
-| **[JP Morgan Chase](http://www.jpmorganchase.com)** | **[2025 Chase Leadership Development Program - Summer Analyst (New York)](https://jobright.ai/jobs/info/66b65fa89424375f08972acf?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Aug 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Business Risk Integrated Control) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6697228ff11ecbc261d9110d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 07 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate- 2025 - Global Commercial Services Product Management Summer Internship New York, NY](https://jobright.ai/jobs/info/66b29b94e56a43eef61f4933?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Aug 06 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[Campus Undergraduate- 2025 - Global Commercial Services Product Management Summer Internship New York, NY](https://jobright.ai/jobs/info/66b28ef446c72da2f5950e46?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Aug 06 |
