@@ -57,10 +57,14 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TikTok](https://www.tiktok.com)** | **[Product Partnerships MBA Intern (Monetization Product Partnerships) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/669e4f2d4761975356c352be?utm_campaign=1047&utm_source=git)** | Multi Location
-San Francisco, CA
-New York, United States | On Site | Aug 13 |
-| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Fall Product Developer/Researcher Intern Unpaid at Female Founded Startup](https://jobright.ai/jobs/info/66bad2e067e278d84bf74a07?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | On Site | Aug 13 |
+| **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate - 2025 - Global Merchant & Network Services, Product Development Summer Internship Phoenix, AZ](https://jobright.ai/jobs/info/66bbd99eca0474a992666904?utm_campaign=1047&utm_source=git)** | Phoenix, AZ | Hybrid | Aug 13 |
+| **[Delta Air Lines](http://www.delta.com)** | **[Co-op, Product Development - Cargo (Spring 2025)](https://jobright.ai/jobs/info/66bb8082d8fc3c155b1d0c68?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Aug 13 |
+| **[Koch Industries](https://www.kochind.com)** | **[Business Systems Analyst/Product Analyst Intern Summer 2025](https://jobright.ai/jobs/info/66bb819c6f395bada6384be8?utm_campaign=1047&utm_source=git)** | Multi Location
+Wichita, KS
+Scottsdale, AZ | On Site | Aug 13 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Partnerships MBA Intern (Monetization Product Partnerships) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/669e4676ca3e6aa92c887d94?utm_campaign=1047&utm_source=git)** | Multi Location
+New York, United States
+San Francisco, CA | On Site | Aug 13 |
 | **[GEICO](http://www.geico.com)** | **[Pricing & Product Analyst (Former Interns Only)](https://jobright.ai/jobs/info/66ba9442d6d1c383649da0e2?utm_campaign=1047&utm_source=git)** | Chevy Chase, MD | Hybrid | Aug 12 |
 | **[Procter & Gamble Company](https://us.pg.com/)** | **[Digital Product Manager Internship](https://jobright.ai/jobs/info/66bab8a7e859cbc2362405b3?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Aug 12 |
 | **[Tencent](https://www.tencent.com/en-us)** | **[Product Management Intern](https://jobright.ai/jobs/info/66baa0e62eb2a21582c6f705?utm_campaign=1047&utm_source=git)** | Multi Location
@@ -70,14 +74,14 @@ US-Palo Alto | On Site | Aug 12 |
 | **[GEICO](http://www.geico.com)** | **[Insurance Product Management Analyst (Former Interns Only)](https://jobright.ai/jobs/info/66bad9919b1a5cda935f0f31?utm_campaign=1047&utm_source=git)** | Chevy Chase, MD | Hybrid | Aug 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (App Ads and Gaming) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/669a5a2035fab870f631eedb?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 10 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Co-Op, Digital Product Mgmt](https://jobright.ai/jobs/info/66b67317dc774d6b704ffa2b?utm_campaign=1047&utm_source=git)** | Beverly, MA | On Site | Aug 09 |
-| **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/66b64ffe157c49d41227d061?utm_campaign=1047&utm_source=git)** | Multi Location
-Golden Valley, MN
+| **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/66b65b6e788eaf2adbfdc0f6?utm_campaign=1047&utm_source=git)** | Multi Location
 Delavan, WI
 North Aurora, IL
 Apex, NC
+Golden Valley, MN
 Brookfield, WI
-Manitowoc, WI
-New Brighton, MN | On Site | Aug 09 |
+New Brighton, MN
+Manitowoc, WI | On Site | Aug 09 |
 | **[Databricks](https://databricks.com)** | **[Product Management Intern (Summer 2025)](https://jobright.ai/jobs/info/66b8bded73d4ded8cfba1b83?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Aug 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manger Intern (Seller Growth) - 2025 Start (MBA)](https://jobright.ai/jobs/info/66b613c9b6a41cebf81af50e?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Aug 09 |
 | ↳ | **[Product Manager Intern (Lead Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66b613c9b6a41cebf81af4f6?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Aug 09 |
@@ -88,13 +92,10 @@ New Brighton, MN | On Site | Aug 09 |
 | **[U.S. Bancorp](http://www.usbank.com)** | **[2025 Product Management Summer Intern](https://jobright.ai/jobs/info/66b3f5eade85680dc379f2a2?utm_campaign=1047&utm_source=git)** | Multi Location
 Minneapolis, MN
 Atlanta, GA | Hybrid | Aug 07 |
-| **[JP Morgan Chase](http://www.jpmorganchase.com)** | **[2025 Chase Leadership Development Program - Summer Analyst (New York)](https://jobright.ai/jobs/info/66b7bb360af9ce23fe38af3f?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Aug 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Business Risk Integrated Control) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6697228ff11ecbc261d9110d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 07 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate- 2025 - Global Commercial Services Product Management Summer Internship New York, NY](https://jobright.ai/jobs/info/66b29b94e56a43eef61f4933?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Aug 06 |
-| **[myGwork](https://www.mygwork.com/en/)** | **[Campus Undergraduate- 2025 - Global Commercial Services Product Management Summer Internship New York, NY](https://jobright.ai/jobs/info/66b28ef446c72da2f5950e46?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Aug 06 |
 | **[Cummins Inc.](https://www.cummins.com/)** | **[School to Work - Associate Product Manager](https://jobright.ai/jobs/info/66954b6e092dd0811e080f51?utm_campaign=1047&utm_source=git)** | Troy, MI | On Site | Aug 06 |
 | ↳ | **[School To Work - Product Management  - Fall](https://jobright.ai/jobs/info/66953864a8e2a2a8f300d2c8?utm_campaign=1047&utm_source=git)** | Florence, KY | On Site | Aug 06 |
-| **[myGwork](https://www.mygwork.com/en/)** | **[Campus Undergraduate – 2025 US Consumer Services Product Development Summer Internship New York, NY](https://jobright.ai/jobs/info/66b1762e754be12cc5131200?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Aug 06 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate – 2025 US Consumer Services Product Development Summer Internship New York, NY](https://jobright.ai/jobs/info/66b148be1989281ef3c27097?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Aug 05 |
 | **[Podium](https://www.podium.com)** | **[Product Manager, Mobile](https://jobright.ai/jobs/info/66b106d4e5736bdde990199e?utm_campaign=1047&utm_source=git)** | Lehi, UT | On Site | Aug 05 |
 | **[JP Morgan Chase](http://www.jpmorganchase.com)** | **[2025 Asset Management Product Summer Analyst Program](https://jobright.ai/jobs/info/66b763420161b11b0c283b10?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Aug 03 |
