@@ -57,6 +57,11 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Figma](http://figma.com)** | **[Product Research - Intern (2025)](https://jobright.ai/jobs/info/66c3b64a4c4ce934bef2c180?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Aug 19 |
+| **[Copeland](https://www.copeland.com)** | **[Product Management Co-op (Spring 2025 Term - January Start)](https://jobright.ai/jobs/info/66c3c107897fdd18ad92f52e?utm_campaign=1047&utm_source=git)** | Sidney, OH | On Site | Aug 19 |
+| **[US Foods](https://www.usfoods.com/)** | **[Intern - Product Analyst (Hybrid: Onsite & Remote)](https://jobright.ai/jobs/info/66c3793a26690f94d872af0d?utm_campaign=1047&utm_source=git)** | Rosemont, IL | Hybrid | Aug 19 |
+| **[Union Home Mortgage](https://www.uhm.com/)** | **[Products Intern](https://jobright.ai/jobs/info/66c384f11597d599e6d22290?utm_campaign=1047&utm_source=git)** | Strongsville, OH | On Site | Aug 19 |
+| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Product Strategies Intern (Onsite/Hybrid)](https://jobright.ai/jobs/info/66c35920f98441b686c8e5ef?utm_campaign=1047&utm_source=git)** | Green Bay, WI | Hybrid | Aug 19 |
 | **[JP Morgan Chase](http://www.jpmorganchase.com)** | **[2025 Asset Management Product Summer Analyst Program](https://jobright.ai/jobs/info/66c0d149f1bc29b2dd299ded?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Aug 17 |
 | **[Harris Corp - composite aero-structures division](https://www.l3harris.com/)** | **[Product Management Intern D (Salt Lake City, UT)](https://jobright.ai/jobs/info/66a3f4c85fcbfa8457ce11bd?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Aug 17 |
 | **[Skydio](https://www.skydio.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66bfd7e46d56dae18cde2028?utm_campaign=1047&utm_source=git)** | San Mateo, CA | On Site | Aug 16 |
@@ -80,11 +85,6 @@ For a complete list, see the full spreadsheet below:
 | **[InComm Payments](https://www.incomm.com)** | **[Product Implementation Intern](https://jobright.ai/jobs/info/66a039c02987217d073ecac6?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Aug 14 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate - 2025 - Global Merchant & Network Services, Product Development Summer Internship Phoenix, AZ](https://jobright.ai/jobs/info/66bbd99eca0474a992666904?utm_campaign=1047&utm_source=git)** | Phoenix, AZ | Hybrid | Aug 13 |
 | **[Delta Air Lines](http://www.delta.com)** | **[Co-op, Product Development - Cargo (Spring 2025)](https://jobright.ai/jobs/info/66bb8082d8fc3c155b1d0c68?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Aug 13 |
-| **[Koch Industries](https://www.kochind.com)** | **[Business Systems Analyst/Product Analyst Intern Summer 2025](https://jobright.ai/jobs/info/66bb819c6f395bada6384d1a?utm_campaign=1047&utm_source=git)** | Scottsdale, AZ | On Site | Aug 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Partnerships MBA Intern (Monetization Product Partnerships) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/669e4676ca3e6aa92c887d94?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Aug 13 |
 | ↳ | **[Product Partnerships MBA Intern (Monetization Product Partnerships) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/669e4f2d4761975356c352be?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Aug 13 |
-| **[Hudl](http://www.hudl.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/66bfbaf348b6fb703f2dc5ca?utm_campaign=1047&utm_source=git)** | Lincoln, NE | On Site | Aug 12 |
-| **[GEICO](http://www.geico.com)** | **[Pricing & Product Analyst (Former Interns Only)](https://jobright.ai/jobs/info/66ba9442d6d1c383649da0e2?utm_campaign=1047&utm_source=git)** | Chevy Chase, MD | Hybrid | Aug 12 |
-| **[Procter & Gamble Company](https://us.pg.com/)** | **[Digital Product Manager Internship](https://jobright.ai/jobs/info/66bab8a7e859cbc2362405b3?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Aug 12 |
-| **[Tencent](https://www.tencent.com/en-us)** | **[Product Management Intern](https://jobright.ai/jobs/info/66baa0e62eb2a21582c6f705?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
