@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark AI](https://www.genpark.ai)** | **[Product Management Intern](https://jobright.ai/jobs/info/66c3cb756b0e05ae19be6c29?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | Hybrid | Aug 19 |
 | **[Figma](http://figma.com)** | **[Product Research - Intern (2025)](https://jobright.ai/jobs/info/66c3b64a4c4ce934bef2c180?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Aug 19 |
 | **[Copeland](https://www.copeland.com)** | **[Product Management Co-op (Spring 2025 Term - January Start)](https://jobright.ai/jobs/info/66c3c107897fdd18ad92f52e?utm_campaign=1047&utm_source=git)** | Sidney, OH | On Site | Aug 19 |
 | **[US Foods](https://www.usfoods.com/)** | **[Intern - Product Analyst (Hybrid: Onsite & Remote)](https://jobright.ai/jobs/info/66c3793a26690f94d872af0d?utm_campaign=1047&utm_source=git)** | Rosemont, IL | Hybrid | Aug 19 |
