@@ -6,16 +6,16 @@
 **This job repository is your go-to resource for discovering and sharing the latest internships opportunities in:**  and Product Design.
 
 
-✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_campaign={utm_source_code}&utm_source=git). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
+✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_campaign=1047&utm_source=git). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
 
 ---
 
 <div align="center">
 <p>
-    <a href="https://jobright.ai/?utm_campaign={utm_source_code}&utm_source=git"><b>👇 Land your dream jobs with a seasoned AI career co-pilot 👇</b></a>
+    <a href="https://jobright.ai/?utm_campaign=1047&utm_source=git"><b>👇 Land your dream jobs with a seasoned AI career co-pilot 👇</b></a>
     <br>
     <br>
-    <a href="https://jobright.ai/?utm_campaign={utm_source_code}&utm_source=git">
+    <a href="https://jobright.ai/?utm_campaign=1047&utm_source=git">
         <img src="./static/img/jrbtn.svg" alt="jobright.ai">
     </a>
     <br>
@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AdeptID](https://www.adept-id.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/66c4104d6447c90972ad1552?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Aug 19 |
 | **[Figma](http://figma.com)** | **[Product Research - Intern (2025)](https://jobright.ai/jobs/info/66c3b64a4c4ce934bef2c180?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Aug 19 |
 | **[Copeland](https://www.copeland.com)** | **[Product Management Co-op (Spring 2025 Term - January Start)](https://jobright.ai/jobs/info/66c3c107897fdd18ad92f52e?utm_campaign=1047&utm_source=git)** | Sidney, OH | On Site | Aug 19 |
 | **[US Foods](https://www.usfoods.com/)** | **[Intern - Product Analyst (Hybrid: Onsite & Remote)](https://jobright.ai/jobs/info/66c3793a26690f94d872af0d?utm_campaign=1047&utm_source=git)** | Rosemont, IL | Hybrid | Aug 19 |
@@ -88,10 +89,10 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Partnerships MBA Intern (Monetization Product Partnerships) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/669e4676ca3e6aa92c887d94?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Aug 13 |
 | ↳ | **[Product Partnerships MBA Intern (Monetization Product Partnerships) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/669e4f2d4761975356c352be?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Aug 13 |
 | **[Hudl](http://www.hudl.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/66bfbaf348b6fb703f2dc5ca?utm_campaign=1047&utm_source=git)** | Lincoln, NE | On Site | Aug 12 |
-| **[GEICO](http://www.geico.com)** | **[Insurance Product Management Analyst (Former Interns Only)](https://jobright.ai/jobs/info/66ba9442d6d1c383649da0d5?utm_campaign=1047&utm_source=git)** | Chevy Chase, MD | Hybrid | Aug 12 |
 | **[Procter & Gamble Company](https://us.pg.com/)** | **[Digital Product Manager Internship](https://jobright.ai/jobs/info/66bab8a7e859cbc2362405b3?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Aug 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Closed-Loop Monetization Product) - Summer 2025 (MBA)](https://jobright.ai/jobs/info/66ba0b48100403066eeb3d8f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 12 |
 | **[Tencent](https://www.tencent.com/en-us)** | **[Product Management Intern](https://jobright.ai/jobs/info/66ba583843ab7afb71ab08e3?utm_campaign=1047&utm_source=git)** | US-Palo Alto | On Site | Aug 11 |
+| **[GEICO](http://www.geico.com)** | **[Insurance Product Management Analyst (Former Interns Only)](https://jobright.ai/jobs/info/66bad9919b1a5cda935f0f31?utm_campaign=1047&utm_source=git)** | Chevy Chase, MD | Hybrid | Aug 11 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/66c0d5129cf2d3b22408fdb8?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Aug 10 |
 | **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/66bf6841fe9b91da11ef2e8f?utm_campaign=1047&utm_source=git)** | Brookfield, WI | On Site | Aug 10 |
 | **[Sam's Club](http://www.samsclub.com)** | **[2025 Summer Undergraduate Intern: Sam's Club Product Management](https://jobright.ai/jobs/info/66c0b14b3e9b2ff0616fd0bf?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Aug 10 |
