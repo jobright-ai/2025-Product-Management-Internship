@@ -44,8 +44,7 @@ Only jobs posted in the last <span style="color: red; font-weight: bold; font-si
 <br>
 For a complete list, see the full spreadsheet below:
 </h4>
-<a href="https://intern-list.com/?selectedKey={selectKey}&utm_source=&utm_campaign=Product Management">
-<a href="https://intern-list.com/?selectedKey=📦%20Product%20Management&utm_source=&utm_campaign={utm_campaign_str}">
+<a href="https://intern-list.com/?selectedKey=📦%20Product%20Management&utm_source=&utm_campaign=Product Management">
     <img src="./static/img/airtable.png" alt="excel_icon", style="width: 40%; height: 40%;">
 </a>
 </div>
