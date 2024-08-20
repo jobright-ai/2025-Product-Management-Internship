@@ -16,7 +16,7 @@
     <br>
     <br>
     <a href="https://jobright.ai/?utm_campaign={utm_source_code}&utm_source=git">
-        <img src="./static/img/airtable.jpg" alt="jobright.ai">
+        <img src="./static/img/jrbtn.svg" alt="jobright.ai">
     </a>
     <br>
     <br>
@@ -46,8 +46,7 @@ For a complete list, see the full spreadsheet below:
 </h4>
 <a href="https://intern-list.com/?selectedKey={selectKey}&utm_source=&utm_campaign=Product Management">
 <a href="https://intern-list.com/?selectedKey=📦%20Product%20Management&utm_source=&utm_campaign={utm_campaign_str}">
-<a href="https://intern-list.com/?selectedKey={selectKey}&utm_source=&utm_campaign={utm_campaign_str}">
-    <img src="./static/img/excel_icon.png" alt="excel_icon", style="width: 20%; height: 20%;">
+    <img src="./static/img/airtable.pjg" alt="excel_icon", style="width: 20%; height: 20%;">
 </a>
 </div>
 
