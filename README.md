@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TE Connectivity](http://www.te.com)** | **[Product Management (Intern)](https://jobright.ai/jobs/info/66c6333798d496021315fa36?utm_campaign=1047&utm_source=git)** | Middletown, PA | On Site | Aug 21 |
+| **[Klein Tools](https://www.kleintools.com/)** | **[International Associate Product Manager](https://jobright.ai/jobs/info/66c62e688ed08f472cb7a5fa?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Aug 21 |
 | **[InComm Payments](https://www.incomm.com)** | **[Product Implementation Intern](https://jobright.ai/jobs/info/66a039c02987217d073ecac6?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Aug 21 |
 | **[Walmart](http://www.walmart.com)** | **[2024 Intern Conversion - 2025 FT: Product Manager II](https://jobright.ai/jobs/info/66c58009099223da1b5d01f0?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Aug 20 |
 | **[British Petroleum](https://www.bp.com)** | **[Summer Internship  - I&E - Digital Product Management (EC)  - US - Houston, TX](https://jobright.ai/jobs/info/66c58ce760d9888eff9e162d?utm_campaign=1047&utm_source=git)** | United States of America - Texas - Houston | Hybrid | Aug 20 |
-| **[Copart](http://www.copart.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/66c540a617e670de8122cac0?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Aug 20 |
 | **[JLL Technologies](https://www.jllt.com/)** | **[Product Specialist Internship](https://jobright.ai/jobs/info/66c552be308e79c9bcc13cd1?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Aug 20 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2025 Guardian Summer Intern, Life and Annuity Product Development](https://jobright.ai/jobs/info/66c4b3fc9eebfeb7f86d503c?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Aug 20 |
 | **[Token Metrics](http://tokenmetrics.com)** | **[Crypto Product Manager Intern (Non-USA - Remote)](https://jobright.ai/jobs/info/66c48083a0378e025a67324d?utm_campaign=1047&utm_source=git)** | Oregon, United States | On Site | Aug 20 |
@@ -91,5 +92,4 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Assoc Billing Solutions Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265087?utm_campaign=1047&utm_source=git)** | Maryland Heights, MO | On Site | Aug 15 |
 | **[TE Connectivity](http://www.te.com)** | **[DIGITAL PRODUCT MANAGER (INTERN)](https://jobright.ai/jobs/info/66bea77938f981cf6b1b1e55?utm_campaign=1047&utm_source=git)** | Pennsylvania, United States | On Site | Aug 15 |
 | **[New York Life Insurance](http://www.newyorklife.com)** | **[2025 Technology Summer Internship Program - Technology Analyst](https://jobright.ai/jobs/info/66a1db7b4a1c47d6614d8a11?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Aug 15 |
-| **[Chartwell Studio](https://chartwellstudio.com)** | **[Product and Operations Intern](https://jobright.ai/jobs/info/66c567510062f373c0cbc451?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Aug 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
