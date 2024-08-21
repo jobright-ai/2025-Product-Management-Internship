@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark AI](https://www.genpark.ai)** | **[Product Development Intern](https://jobright.ai/jobs/info/66c546afb8ec8eecf4818405?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | Hybrid | Aug 20 |
+| **[Copart](http://www.copart.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/66c540a617e670de8122cac0?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Aug 20 |
+| **[JLL Technologies](https://www.jllt.com/)** | **[Product Specialist Internship](https://jobright.ai/jobs/info/66c552be308e79c9bcc13cd1?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Aug 20 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2025 Guardian Summer Intern, Life and Annuity Product Development](https://jobright.ai/jobs/info/66c4b3fc9eebfeb7f86d503c?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Aug 20 |
 | **[Token Metrics](http://tokenmetrics.com)** | **[Crypto Product Manager Intern (Non-USA - Remote)](https://jobright.ai/jobs/info/66c48083a0378e025a67324d?utm_campaign=1047&utm_source=git)** | Oregon, United States | On Site | Aug 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ad Signal Product)- 2025 Summer/Fall (BS/MS/MBA/PhD)](https://jobright.ai/jobs/info/66a81b30fa706e9dba460f00?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 20 |
-| **[Cozy Billionaires Properties LLC](https://linktr.ee/cozybillionaires)** | **[Product Manager Intern](https://jobright.ai/jobs/info/66c4986fcb615f5853ee150f?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 20 |
+| **[HCA](http://hcahealthcare.com)** | **[Intern Product Analyst](https://jobright.ai/jobs/info/66c54d958f6f6239f92e3ba6?utm_campaign=1047&utm_source=git)** | Nashville, TN | On Site | Aug 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (Global E-Commerce-Governance and Experience-AMS-Scenario Governance and Experience)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66c5246e93950544f36d929f?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Aug 19 |
 | **[AdeptID](https://www.adept-id.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/66c4104d6447c90972ad1552?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Aug 19 |
+| **[Walmart](http://www.walmart.com)** | **[2024 Intern Conversion - 2025 FT: Product Manager II](https://jobright.ai/jobs/info/66c540a617e670de8122cb1a?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Aug 19 |
 | **[Figma](http://figma.com)** | **[Product Research - Intern (2025)](https://jobright.ai/jobs/info/66c3b64a4c4ce934bef2c180?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Aug 19 |
 | **[Copeland](https://www.copeland.com)** | **[Product Management Co-op (Spring 2025 Term - January Start)](https://jobright.ai/jobs/info/66c3c107897fdd18ad92f52e?utm_campaign=1047&utm_source=git)** | Sidney, OH | On Site | Aug 19 |
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Multifamily Digital Product Analysis Intern - Summer 2025 (Hybrid- 3 Days in Office)](https://jobright.ai/jobs/info/66c51e01b52a9c9c0225bfa1?utm_campaign=1047&utm_source=git)** | McLean, VA | Hybrid | Aug 19 |
@@ -85,9 +89,4 @@ For a complete list, click the following sortable link below:
 | **[TE Connectivity](http://www.te.com)** | **[DIGITAL PRODUCT MANAGER (INTERN)](https://jobright.ai/jobs/info/66bea77938f981cf6b1b1e55?utm_campaign=1047&utm_source=git)** | Pennsylvania, United States | On Site | Aug 15 |
 | **[New York Life Insurance](http://www.newyorklife.com)** | **[2025 Technology Summer Internship Program - Technology Analyst](https://jobright.ai/jobs/info/66a1db7b4a1c47d6614d8a11?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Aug 15 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66bd00b75188d1ea61f84ce3?utm_campaign=1047&utm_source=git)** | Bridgeton, MO | On Site | Aug 14 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Web Ads and Open-Loop E-Commerce) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/669fa2820978d429047d37c1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 14 |
-| ↳ | **[Product Manager MBA Intern (Web Ads and Open-Loop E-Commerce) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/669fcde99720391081d195f0?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Aug 14 |
-| **[Cartier](http://www.cartier.com)** | **[V.I.E - Fragrance Product Executive - Miami](https://jobright.ai/jobs/info/669fcb76d18a1aa0a307f960?utm_campaign=1047&utm_source=git)** | Miami, FL | Hybrid | Aug 14 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Search Ads) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/669fba05a5eef26fc63282d7?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 14 |
-| **[InComm Payments](https://www.incomm.com)** | **[Product Implementation Intern](https://jobright.ai/jobs/info/66a039c02987217d073ecac6?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Aug 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
