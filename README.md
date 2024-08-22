@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Procter & Gamble Company](https://us.pg.com/)** | **[Digital Product Manager Internship](https://jobright.ai/jobs/info/66c6940c558c87b2234026db?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Aug 21 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2025 Summer Internship (US) - Product Management New Development](https://jobright.ai/jobs/info/66c660951f4165027802774c?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Aug 21 |
 | **[USAA](https://www.usaa.com)** | **[Digital Technical Product Management Intern](https://jobright.ai/jobs/info/66c64317706230d12d7d2774?utm_campaign=1047&utm_source=git)** | San Antonio, TX | On Site | Aug 21 |
 | ↳ | **[Product Management Analyst Intern](https://jobright.ai/jobs/info/66c64934afbe66bbdb40e81e?utm_campaign=1047&utm_source=git)** | San Antonio, TX | Hybrid | Aug 21 |
@@ -70,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ad Signal Product)- 2025 Summer/Fall (BS/MS/MBA/PhD)](https://jobright.ai/jobs/info/66a81b30fa706e9dba460f00?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 20 |
 | **[HCA](http://hcahealthcare.com)** | **[Intern Product Analyst](https://jobright.ai/jobs/info/66c54d958f6f6239f92e3ba6?utm_campaign=1047&utm_source=git)** | Nashville, TN | On Site | Aug 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (Global E-Commerce-Governance and Experience-AMS-Scenario Governance and Experience)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66c5246e93950544f36d929f?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Aug 19 |
-| **[AdeptID](https://www.adept-id.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/66c4104d6447c90972ad1552?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Aug 19 |
 | **[Walmart](http://www.walmart.com)** | **[2024 Intern Conversion - 2025 FT: Product Manager II](https://jobright.ai/jobs/info/66c540a617e670de8122cb1a?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Aug 19 |
 | **[Figma](http://figma.com)** | **[Product Research - Intern (2025)](https://jobright.ai/jobs/info/66c3b64a4c4ce934bef2c180?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Aug 19 |
 | **[Copeland](https://www.copeland.com)** | **[Product Management Co-op (Spring 2025 Term - January Start)](https://jobright.ai/jobs/info/66c3c107897fdd18ad92f52e?utm_campaign=1047&utm_source=git)** | Sidney, OH | On Site | Aug 19 |
@@ -83,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2025 Guardian Summer Intern, Annuity Product Management](https://jobright.ai/jobs/info/66bfb271d89c7aaa2f839ba1?utm_campaign=1047&utm_source=git)** | Holmdel, NJ | Hybrid | Aug 17 |
 | **[Skydio](https://www.skydio.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66bfd7e46d56dae18cde2028?utm_campaign=1047&utm_source=git)** | San Mateo, CA | On Site | Aug 16 |
 | **[Hudl](http://www.hudl.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/66bfca99f4b694fd4c8ce5d9?utm_campaign=1047&utm_source=git)** | Lincoln, NE | On Site | Aug 16 |
-| **[Oracle](https://www.oracle.com)** | **[Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/66bf84b94e941210aee7cea2?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 16 |
 | **[PIMCO](http://www.pimco.com)** | **[2025 Summer Intern - Product Strategy Analyst, US](https://jobright.ai/jobs/info/66c0d1af1dceb623e279b5fc?utm_campaign=1047&utm_source=git)** | Newport Beach, CA | On Site | Aug 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategy Intern (Web Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66a23c165c14cdf3ee23df15?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Aug 16 |
 | **[Watts Water Technologies](https://www.watts.com)** | **[Product Management Hydronic Solutions Intern Summer 2024](https://jobright.ai/jobs/info/66a4f763eb88ef8eb155008f?utm_campaign=1047&utm_source=git)** | Fort Worth, TX | On Site | Aug 16 |
@@ -92,5 +91,4 @@ For a complete list, click the following sortable link below:
 | **[PhotoGrid](https://www.photogrid.app/)** | **[AI Product Operations Specialist](https://jobright.ai/jobs/info/66bf08ea6139d299e1d3665f?utm_campaign=1047&utm_source=git)** | Los Angeles County, CA | Hybrid | Aug 16 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Assoc Billing Solutions Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265087?utm_campaign=1047&utm_source=git)** | Maryland Heights, MO | On Site | Aug 15 |
 | **[TE Connectivity](http://www.te.com)** | **[DIGITAL PRODUCT MANAGER (INTERN)](https://jobright.ai/jobs/info/66bea77938f981cf6b1b1e55?utm_campaign=1047&utm_source=git)** | Pennsylvania, United States | On Site | Aug 15 |
-| **[New York Life Insurance](http://www.newyorklife.com)** | **[2025 Technology Summer Internship Program - Technology Analyst](https://jobright.ai/jobs/info/66a1db7b4a1c47d6614d8a11?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
