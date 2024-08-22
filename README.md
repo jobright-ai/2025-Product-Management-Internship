@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ads Platform)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66aa1a6d3f222fa8f7a44bf5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 22 |
+| ↳ | **[Product Manager MBA Intern (Lead Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66aa1a6d3f222fa8f7a44c11?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 22 |
 | **[Procter & Gamble Company](https://us.pg.com/)** | **[Digital Product Manager Internship](https://jobright.ai/jobs/info/66c6940c558c87b2234026db?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Aug 21 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2025 Summer Internship (US) - Product Management New Development](https://jobright.ai/jobs/info/66c660951f4165027802774c?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Aug 21 |
 | **[USAA](https://www.usaa.com)** | **[Digital Technical Product Management Intern](https://jobright.ai/jobs/info/66c64317706230d12d7d2774?utm_campaign=1047&utm_source=git)** | San Antonio, TX | On Site | Aug 21 |
@@ -69,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2025 Guardian Summer Intern, Life and Annuity Product Development](https://jobright.ai/jobs/info/66c4b3fc9eebfeb7f86d503c?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Aug 20 |
 | **[Token Metrics](http://tokenmetrics.com)** | **[Crypto Product Manager Intern (Non-USA - Remote)](https://jobright.ai/jobs/info/66c48083a0378e025a67324d?utm_campaign=1047&utm_source=git)** | Oregon, United States | On Site | Aug 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ad Signal Product)- 2025 Summer/Fall (BS/MS/MBA/PhD)](https://jobright.ai/jobs/info/66a81b30fa706e9dba460f00?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 20 |
-| **[HCA](http://hcahealthcare.com)** | **[Intern Product Analyst](https://jobright.ai/jobs/info/66c54d958f6f6239f92e3ba6?utm_campaign=1047&utm_source=git)** | Nashville, TN | On Site | Aug 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (Global E-Commerce-Governance and Experience-AMS-Scenario Governance and Experience)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66c5246e93950544f36d929f?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Aug 19 |
 | **[Walmart](http://www.walmart.com)** | **[2024 Intern Conversion - 2025 FT: Product Manager II](https://jobright.ai/jobs/info/66c540a617e670de8122cb1a?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Aug 19 |
 | **[Figma](http://figma.com)** | **[Product Research - Intern (2025)](https://jobright.ai/jobs/info/66c3b64a4c4ce934bef2c180?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Aug 19 |
@@ -78,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[US Foods](https://www.usfoods.com/)** | **[Intern - Product Analyst (Hybrid: Onsite & Remote)](https://jobright.ai/jobs/info/66c3793a26690f94d872af0d?utm_campaign=1047&utm_source=git)** | Rosemont, IL | Hybrid | Aug 19 |
 | **[Union Home Mortgage](https://www.uhm.com/)** | **[Products Intern](https://jobright.ai/jobs/info/66c384f11597d599e6d22290?utm_campaign=1047&utm_source=git)** | Strongsville, OH | On Site | Aug 19 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Product Strategies Intern (Onsite/Hybrid)](https://jobright.ai/jobs/info/66c35920f98441b686c8e5ef?utm_campaign=1047&utm_source=git)** | Green Bay, WI | Hybrid | Aug 19 |
-| **[JP Morgan Chase](http://www.jpmorganchase.com)** | **[2025 Asset Management Product Summer Analyst Program](https://jobright.ai/jobs/info/66c0d149f1bc29b2dd299ded?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Aug 17 |
 | **[Harris Corp - composite aero-structures division](https://www.l3harris.com/)** | **[Product Management Intern D (Salt Lake City, UT)](https://jobright.ai/jobs/info/66a3f4c85fcbfa8457ce11bd?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Aug 17 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2025 Guardian Summer Intern, Annuity Product Management](https://jobright.ai/jobs/info/66bfb271d89c7aaa2f839ba1?utm_campaign=1047&utm_source=git)** | Holmdel, NJ | Hybrid | Aug 17 |
 | **[Skydio](https://www.skydio.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66bfd7e46d56dae18cde2028?utm_campaign=1047&utm_source=git)** | San Mateo, CA | On Site | Aug 16 |
