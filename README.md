@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zebra Technologies](https://www.zebra.com)** | **[2025 Summer Internship (US) - Product Management New Development](https://jobright.ai/jobs/info/66c660951f4165027802774c?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Aug 21 |
+| **[USAA](https://www.usaa.com)** | **[Digital Technical Product Management Intern](https://jobright.ai/jobs/info/66c64317706230d12d7d2774?utm_campaign=1047&utm_source=git)** | San Antonio, TX | On Site | Aug 21 |
+| ↳ | **[Product Management Analyst Intern](https://jobright.ai/jobs/info/66c64934afbe66bbdb40e81e?utm_campaign=1047&utm_source=git)** | San Antonio, TX | Hybrid | Aug 21 |
 | **[TE Connectivity](http://www.te.com)** | **[Product Management (Intern)](https://jobright.ai/jobs/info/66c6333798d496021315fa36?utm_campaign=1047&utm_source=git)** | Middletown, PA | On Site | Aug 21 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[International Associate Product Manager](https://jobright.ai/jobs/info/66c62e688ed08f472cb7a5fa?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Aug 21 |
 | **[InComm Payments](https://www.incomm.com)** | **[Product Implementation Intern](https://jobright.ai/jobs/info/66a039c02987217d073ecac6?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Aug 21 |
 | **[Walmart](http://www.walmart.com)** | **[2024 Intern Conversion - 2025 FT: Product Manager II](https://jobright.ai/jobs/info/66c58009099223da1b5d01f0?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Aug 20 |
-| **[British Petroleum](https://www.bp.com)** | **[Summer Internship  - I&E - Digital Product Management (EC)  - US - Houston, TX](https://jobright.ai/jobs/info/66c58ce760d9888eff9e162d?utm_campaign=1047&utm_source=git)** | United States of America - Texas - Houston | Hybrid | Aug 20 |
 | **[JLL Technologies](https://www.jllt.com/)** | **[Product Specialist Internship](https://jobright.ai/jobs/info/66c552be308e79c9bcc13cd1?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Aug 20 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2025 Guardian Summer Intern, Life and Annuity Product Development](https://jobright.ai/jobs/info/66c4b3fc9eebfeb7f86d503c?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Aug 20 |
 | **[Token Metrics](http://tokenmetrics.com)** | **[Crypto Product Manager Intern (Non-USA - Remote)](https://jobright.ai/jobs/info/66c48083a0378e025a67324d?utm_campaign=1047&utm_source=git)** | Oregon, United States | On Site | Aug 20 |
@@ -77,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Union Home Mortgage](https://www.uhm.com/)** | **[Products Intern](https://jobright.ai/jobs/info/66c384f11597d599e6d22290?utm_campaign=1047&utm_source=git)** | Strongsville, OH | On Site | Aug 19 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Product Strategies Intern (Onsite/Hybrid)](https://jobright.ai/jobs/info/66c35920f98441b686c8e5ef?utm_campaign=1047&utm_source=git)** | Green Bay, WI | Hybrid | Aug 19 |
 | **[JP Morgan Chase](http://www.jpmorganchase.com)** | **[2025 Asset Management Product Summer Analyst Program](https://jobright.ai/jobs/info/66c0d149f1bc29b2dd299ded?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Aug 17 |
-| **[The International Real Estate Corporation](www.irecorporation.com)** | **[Product Sourcing Intern/Analyst](https://jobright.ai/jobs/info/66c561eb60544c52d762dae5?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Aug 17 |
 | **[Harris Corp - composite aero-structures division](https://www.l3harris.com/)** | **[Product Management Intern D (Salt Lake City, UT)](https://jobright.ai/jobs/info/66a3f4c85fcbfa8457ce11bd?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Aug 17 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2025 Guardian Summer Intern, Annuity Product Management](https://jobright.ai/jobs/info/66bfb271d89c7aaa2f839ba1?utm_campaign=1047&utm_source=git)** | Holmdel, NJ | Hybrid | Aug 17 |
 | **[Skydio](https://www.skydio.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66bfd7e46d56dae18cde2028?utm_campaign=1047&utm_source=git)** | San Mateo, CA | On Site | Aug 16 |
