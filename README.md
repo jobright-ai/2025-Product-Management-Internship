@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Microsoft](https://www.microsoft.com)** | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7ae4f584c75fe0dc33666?utm_campaign=1047&utm_source=git)** | USA | On Site | Aug 22 |
+| **[JP Morgan Chase](http://www.jpmorganchase.com)** | **[2025 Asset Management Product Summer Analyst Program](https://jobright.ai/jobs/info/66c79cceb0ec0df61d037ffc?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Aug 22 |
+| **[DriveTime](https://www.drivetime.com)** | **[Product Management Intern (Summer 2025)](https://jobright.ai/jobs/info/66c7a8b82e8ce1fb3cd8f582?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Aug 22 |
+| ↳ | **[Product Management Intern (Summer 2025)](https://jobright.ai/jobs/info/66c7a8b82e8ce1fb3cd8f736?utm_campaign=1047&utm_source=git)** | Tempe, AZ | On Site | Aug 22 |
 | **[Valmont](http://www.valmont.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/669111732cfdcaa4f7cf8cbf?utm_campaign=1047&utm_source=git)** | Omaha, NE | On Site | Aug 22 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Lead Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66aa1a6d3f222fa8f7a44c11?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 22 |
-| ↳ | **[Product Manager MBA Intern (Ads Platform)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66aa1a6d3f222fa8f7a44bf5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 22 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ads Platform)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66aa1a6d3f222fa8f7a44bf5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 22 |
+| ↳ | **[Product Manager MBA Intern (Lead Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66aa1a6d3f222fa8f7a44c11?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 22 |
 | **[Procter & Gamble Company](https://us.pg.com/)** | **[Digital Product Manager Internship](https://jobright.ai/jobs/info/66c6940c558c87b2234026db?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Aug 21 |
 | **[DriveTime](https://www.drivetime.com)** | **[Product Management Intern (Summer 2025)](https://jobright.ai/jobs/info/66c7833fc0ecaba6d03dace1?utm_campaign=1047&utm_source=git)** | 1720 W Rio Salado Pkwy Tempe, AZ 85281 | On Site | Aug 21 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2025 Summer Internship (US) - Product Management New Development](https://jobright.ai/jobs/info/66c660951f4165027802774c?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Aug 21 |
@@ -90,6 +94,4 @@ For a complete list, click the following sortable link below:
 | **[Watts Water Technologies](https://www.watts.com)** | **[Product Management Hydronic Solutions Intern Summer 2024](https://jobright.ai/jobs/info/66a4f763eb88ef8eb155008f?utm_campaign=1047&utm_source=git)** | Fort Worth, TX | On Site | Aug 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Global Product Solutions and Operations Intern (Core Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66a2560b81ad172a3785491c?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Aug 16 |
 | **[Watts Water Technologies](https://www.watts.com)** | **[Product Management Hydronic Solutions Intern Summer 2024](https://jobright.ai/jobs/info/66a4e0facefb4ca8819858e5?utm_campaign=1047&utm_source=git)** | Blauvelt, NY | On Site | Aug 16 |
-| **[PhotoGrid](https://www.photogrid.app/)** | **[AI Product Operations Specialist](https://jobright.ai/jobs/info/66bf08ea6139d299e1d3665f?utm_campaign=1047&utm_source=git)** | Los Angeles County, CA | Hybrid | Aug 16 |
-| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Assoc Billing Solutions Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265087?utm_campaign=1047&utm_source=git)** | Maryland Heights, MO | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
