@@ -80,21 +80,21 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f68e?utm_campaign=1047&utm_source=git)** | Utah, United States | On Site | Aug 22 |
 | ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f696?utm_campaign=1047&utm_source=git)** | Maine, United States | On Site | Aug 22 |
 | ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f69b?utm_campaign=1047&utm_source=git)** | Nebraska, United States | On Site | Aug 22 |
-| ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f69d?utm_campaign=1047&utm_source=git)** | Virginia, United States | On Site | Aug 22 |
 | ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f69e?utm_campaign=1047&utm_source=git)** | Massachusetts, United States | On Site | Aug 22 |
+| ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f69d?utm_campaign=1047&utm_source=git)** | Virginia, United States | On Site | Aug 22 |
 | ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f69f?utm_campaign=1047&utm_source=git)** | Hawaii, United States | On Site | Aug 22 |
 | ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f6a2?utm_campaign=1047&utm_source=git)** | New Mexico, United States | On Site | Aug 22 |
 | ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f6b9?utm_campaign=1047&utm_source=git)** | Missouri, United States | On Site | Aug 22 |
 | ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f6b5?utm_campaign=1047&utm_source=git)** | Delaware, United States | On Site | Aug 22 |
 | ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f6bd?utm_campaign=1047&utm_source=git)** | Georgia, United States | On Site | Aug 22 |
-| ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f6c1?utm_campaign=1047&utm_source=git)** | Oklahoma, United States | On Site | Aug 22 |
 | ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f6be?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Aug 22 |
-| ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f6c7?utm_campaign=1047&utm_source=git)** | Indiana, United States | On Site | Aug 22 |
+| ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f6c1?utm_campaign=1047&utm_source=git)** | Oklahoma, United States | On Site | Aug 22 |
 | ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f6c4?utm_campaign=1047&utm_source=git)** | Nevada, United States | On Site | Aug 22 |
+| ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f6c7?utm_campaign=1047&utm_source=git)** | Indiana, United States | On Site | Aug 22 |
 | ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f6c9?utm_campaign=1047&utm_source=git)** | Texas, United States | On Site | Aug 22 |
 | ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f6cd?utm_campaign=1047&utm_source=git)** | Colorado, United States | On Site | Aug 22 |
-| ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f6d1?utm_campaign=1047&utm_source=git)** | Pennsylvania, United States | On Site | Aug 22 |
 | ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f6d3?utm_campaign=1047&utm_source=git)** | Florida, United States | On Site | Aug 22 |
+| ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f6d1?utm_campaign=1047&utm_source=git)** | Pennsylvania, United States | On Site | Aug 22 |
 | ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f6d0?utm_campaign=1047&utm_source=git)** | Washington, DC | On Site | Aug 22 |
 | ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f6d9?utm_campaign=1047&utm_source=git)** | Wisconsin, United States | On Site | Aug 22 |
 | ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f6d7?utm_campaign=1047&utm_source=git)** | Minnesota, United States | On Site | Aug 22 |
@@ -112,7 +112,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f703?utm_campaign=1047&utm_source=git)** | Mississippi, United States | On Site | Aug 22 |
 | ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f707?utm_campaign=1047&utm_source=git)** | Louisiana, United States | On Site | Aug 22 |
 | ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f70a?utm_campaign=1047&utm_source=git)** | Alaska, United States | On Site | Aug 22 |
-| ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7ae4f584c75fe0dc33666?utm_campaign=1047&utm_source=git)** | USA | On Site | Aug 22 |
+| **[Madhappy](https://www.madhappy.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/66c8dc83538badb2ab26b9bd?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Aug 22 |
+| **[JP Morgan Chase](http://www.jpmorganchase.com)** | **[2025 Asset Management Product Summer Analyst Program](https://jobright.ai/jobs/info/66c899fd46512616a47cd99a?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Aug 22 |
+| **[Microsoft](https://www.microsoft.com)** | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7ae4f584c75fe0dc33666?utm_campaign=1047&utm_source=git)** | USA | On Site | Aug 22 |
 | **[DriveTime](https://www.drivetime.com)** | **[Product Management Intern (Summer 2025)](https://jobright.ai/jobs/info/66c7a8b82e8ce1fb3cd8f582?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Aug 22 |
 | ↳ | **[Product Management Intern (Summer 2025)](https://jobright.ai/jobs/info/66c7a8b82e8ce1fb3cd8f736?utm_campaign=1047&utm_source=git)** | Tempe, AZ | On Site | Aug 22 |
 | **[Valmont](http://www.valmont.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/669111732cfdcaa4f7cf8cbf?utm_campaign=1047&utm_source=git)** | Omaha, NE | On Site | Aug 22 |
@@ -141,6 +143,4 @@ For a complete list, click the following sortable link below:
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Product Strategies Intern (Onsite/Hybrid)](https://jobright.ai/jobs/info/66c35920f98441b686c8e5ef?utm_campaign=1047&utm_source=git)** | Green Bay, WI | Hybrid | Aug 19 |
 | **[Harris Corp - composite aero-structures division](https://www.l3harris.com/)** | **[Product Management Intern D (Salt Lake City, UT)](https://jobright.ai/jobs/info/66a3f4c85fcbfa8457ce11bd?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Aug 17 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2025 Guardian Summer Intern, Annuity Product Management](https://jobright.ai/jobs/info/66bfb271d89c7aaa2f839ba1?utm_campaign=1047&utm_source=git)** | Holmdel, NJ | Hybrid | Aug 17 |
-| **[Skydio](https://www.skydio.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66bfd7e46d56dae18cde2028?utm_campaign=1047&utm_source=git)** | San Mateo, CA | On Site | Aug 16 |
-| **[Hudl](http://www.hudl.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/66bfca99f4b694fd4c8ce5d9?utm_campaign=1047&utm_source=git)** | Lincoln, NE | On Site | Aug 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
