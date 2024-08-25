@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Token Metrics](http://tokenmetrics.com)** | **[Crypto SaaS Product Manager Intern (Nigeria-Remote)](https://jobright.ai/jobs/info/66ca701060fb6b45e44eb0a3?utm_campaign=1047&utm_source=git)** | Oregon, United States | On Site | Aug 24 |
+| **[GenPark AI](https://www.genpark.ai)** | **[Product Specialist](https://jobright.ai/jobs/info/66caa956111791cb327c8d53?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | Hybrid | Aug 24 |
+| **[Token Metrics](http://tokenmetrics.com)** | **[Crypto SaaS Product Manager Intern (South Africa-Remote)](https://jobright.ai/jobs/info/66ca7f8523fa766022879f3d?utm_campaign=1047&utm_source=git)** | Oregon, United States | On Site | Aug 24 |
+| ↳ | **[Crypto SaaS Product Manager Intern (London-Remote)](https://jobright.ai/jobs/info/66ca89b14ed3c4a27e3630f1?utm_campaign=1047&utm_source=git)** | Oregon, United States | On Site | Aug 24 |
+| ↳ | **[Crypto SaaS Product Manager Intern (Greece-Remote)](https://jobright.ai/jobs/info/66ca7f8523fa766022879fa6?utm_campaign=1047&utm_source=git)** | Oregon, United States | On Site | Aug 24 |
+| ↳ | **[Crypto SaaS Product Manager Intern (Mumbai-Remote)](https://jobright.ai/jobs/info/66ca7f8523fa766022879fb3?utm_campaign=1047&utm_source=git)** | Oregon, United States | On Site | Aug 24 |
+| ↳ | **[Crypto SaaS Product Manager Intern (Nigeria-Remote)](https://jobright.ai/jobs/info/66ca701060fb6b45e44eb0a3?utm_campaign=1047&utm_source=git)** | Oregon, United States | On Site | Aug 24 |
 | ↳ | **[Crypto SaaS Product Manager Intern (Colombia-Remote)](https://jobright.ai/jobs/info/66ca701060fb6b45e44eb0b2?utm_campaign=1047&utm_source=git)** | Oregon, United States | On Site | Aug 24 |
 | ↳ | **[Crypto SaaS Product Manager Intern (Indonesia-Remote)](https://jobright.ai/jobs/info/66ca701060fb6b45e44eb0d1?utm_campaign=1047&utm_source=git)** | Oregon, United States | On Site | Aug 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Global Product Solutions and Operations MBA Intern (Closed Loop Monetization)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66acb8e8f21cf708e2b4cf49?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Aug 24 |
@@ -98,13 +103,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f6bd?utm_campaign=1047&utm_source=git)** | Georgia, United States | On Site | Aug 22 |
 | ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f6be?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Aug 22 |
 | ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f6c1?utm_campaign=1047&utm_source=git)** | Oklahoma, United States | On Site | Aug 22 |
-| ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f6c7?utm_campaign=1047&utm_source=git)** | Indiana, United States | On Site | Aug 22 |
 | ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f6c4?utm_campaign=1047&utm_source=git)** | Nevada, United States | On Site | Aug 22 |
+| ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f6c7?utm_campaign=1047&utm_source=git)** | Indiana, United States | On Site | Aug 22 |
 | ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f6c9?utm_campaign=1047&utm_source=git)** | Texas, United States | On Site | Aug 22 |
 | ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f6cd?utm_campaign=1047&utm_source=git)** | Colorado, United States | On Site | Aug 22 |
 | ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f6d0?utm_campaign=1047&utm_source=git)** | Washington, DC | On Site | Aug 22 |
-| ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f6d3?utm_campaign=1047&utm_source=git)** | Florida, United States | On Site | Aug 22 |
 | ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f6d1?utm_campaign=1047&utm_source=git)** | Pennsylvania, United States | On Site | Aug 22 |
+| ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f6d3?utm_campaign=1047&utm_source=git)** | Florida, United States | On Site | Aug 22 |
 | ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f6d7?utm_campaign=1047&utm_source=git)** | Minnesota, United States | On Site | Aug 22 |
 | ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f6d9?utm_campaign=1047&utm_source=git)** | Wisconsin, United States | On Site | Aug 22 |
 | ↳ | **[Product Manager: Microsoft Leap](https://jobright.ai/jobs/info/66c7f2258d115e966451f6dc?utm_campaign=1047&utm_source=git)** | Rhode Island, United States | On Site | Aug 22 |
@@ -138,9 +143,9 @@ For a complete list, click the following sortable link below:
 | **[Klein Tools](https://www.kleintools.com/)** | **[International Associate Product Manager](https://jobright.ai/jobs/info/66c62e688ed08f472cb7a5fa?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Aug 21 |
 | **[InComm Payments](https://www.incomm.com)** | **[Product Implementation Intern](https://jobright.ai/jobs/info/66a039c02987217d073ecac6?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Aug 21 |
 | **[Walmart](http://www.walmart.com)** | **[2024 Intern Conversion - 2025 FT: Product Manager II](https://jobright.ai/jobs/info/66c58009099223da1b5d01f0?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Aug 20 |
+| **[Token Metrics](http://tokenmetrics.com)** | **[Crypto SaaS Product Manager Intern (Pakistan-Remote)](https://jobright.ai/jobs/info/66c48083a0378e025a67324d?utm_campaign=1047&utm_source=git)** | Oregon, United States | On Site | Aug 20 |
 | **[JLL Technologies](https://www.jllt.com/)** | **[Product Specialist Internship](https://jobright.ai/jobs/info/66c552be308e79c9bcc13cd1?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Aug 20 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2025 Guardian Summer Intern, Life and Annuity Product Development](https://jobright.ai/jobs/info/66c4b3fc9eebfeb7f86d503c?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Aug 20 |
-| **[Token Metrics](http://tokenmetrics.com)** | **[Crypto Product Manager Intern (Non-USA - Remote)](https://jobright.ai/jobs/info/66c48083a0378e025a67324d?utm_campaign=1047&utm_source=git)** | Oregon, United States | On Site | Aug 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ad Signal Product)- 2025 Summer/Fall (BS/MS/MBA/PhD)](https://jobright.ai/jobs/info/66a81b30fa706e9dba460f00?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (Global E-Commerce-Governance and Experience-AMS-Scenario Governance and Experience)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66c5246e93950544f36d929f?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Aug 19 |
 | **[Walmart](http://www.walmart.com)** | **[2024 Intern Conversion - 2025 FT: Product Manager II](https://jobright.ai/jobs/info/66c540a617e670de8122cb1a?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Aug 19 |
