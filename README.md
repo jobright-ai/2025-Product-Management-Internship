@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66e2794790c298796cf89f90?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Sep 11 |
 | **[Blackstone Group](http://blackstone.com)** | **[Product Manager Summer Analyst](https://jobright.ai/jobs/info/66e24a1ed69ecadd2c019f3e?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Sep 11 |
-| **[Emerson](http://www.emerson.com)** | **[Product Management Engineering Intern](https://jobright.ai/jobs/info/66e2313960e13adae274a4ec?utm_campaign=1047&utm_source=git)** | Chanhassen, MN | On Site | Sep 11 |
-| ↳ | **[Product Management Engineering Co-op](https://jobright.ai/jobs/info/66e2313960e13adae274a4f4?utm_campaign=1047&utm_source=git)** | Shakopee, MN | On Site | Sep 11 |
+| **[Emerson](http://www.emerson.com)** | **[Product Management Engineering Co-op](https://jobright.ai/jobs/info/66e2313960e13adae274a4f4?utm_campaign=1047&utm_source=git)** | Shakopee, MN | On Site | Sep 11 |
+| ↳ | **[Product Management Engineering Intern](https://jobright.ai/jobs/info/66e2313960e13adae274a4ec?utm_campaign=1047&utm_source=git)** | Chanhassen, MN | On Site | Sep 11 |
 | **[JLG Industries](http://www.jlg.com/en)** | **[Aftermarket Product Management Intern](https://jobright.ai/jobs/info/66e23dd66ad63857eb1a43ec?utm_campaign=1047&utm_source=git)** | McConnellsburg, PA | Hybrid | Sep 11 |
 | **[Western National Insurance](https://wnins.com)** | **[Insurance Product Development Intern](https://jobright.ai/jobs/info/66d8d434af39d5f52a42f636?utm_campaign=1047&utm_source=git)** | Edina, MN | On Site | Sep 11 |
 | **[JLG Industries](http://www.jlg.com/en)** | **[Aftermarket Product Management Intern](https://jobright.ai/jobs/info/66e2391b51dab3f73d37e79e?utm_campaign=1047&utm_source=git)** | Hagerstown, MD | Hybrid | Sep 11 |
@@ -120,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategy MBA Intern (Web Ads)](https://jobright.ai/jobs/info/66e18521bb7c5c770a2b0efe?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Sep 07 |
 | **[Cox Communications](http://www.cox.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66e17ab09c52e95399ac82f0?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Sep 07 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/66e0285613bc6fdfc6df5ee1?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Sep 07 |
-| **[Henkel](http://www.henkel.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66db2722e513cf581c084b6c?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | On Site | Sep 07 |
 | **[Hudl](http://www.hudl.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/66bfca99f4b694fd4c8ce5d9?utm_campaign=1047&utm_source=git)** | Lincoln, NE | On Site | Sep 07 |
 | **[Harris Corp - composite aero-structures division](https://www.l3harris.com/)** | **[Product Management Intern D](https://jobright.ai/jobs/info/66a3f4c85fcbfa8457ce11bd?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Sep 07 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[Guardian Summer Intern, Annuity Product Management](https://jobright.ai/jobs/info/66bfb271d89c7aaa2f839ba1?utm_campaign=1047&utm_source=git)** | Holmdel, NJ | Hybrid | Sep 07 |
@@ -139,10 +139,10 @@ For a complete list, click the following sortable link below:
 | **[The Estée Lauder Companies Inc.](http://www.elcompanies.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/66d97a78933d8ef1c6a556dc?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Sep 06 |
 | **[Enterprise Holdings](http://www.enterpriseholdings.com)** | **[Product Management Internship - Summer 2025](https://jobright.ai/jobs/info/66db76e4d7b301943d9f16ca?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Sep 06 |
 | **[COUNTRY Financial®](https://www.countryfinancial.com)** | **[Product Internship](https://jobright.ai/jobs/info/66db3889ab12c2fe0b1302e9?utm_campaign=1047&utm_source=git)** | Bloomington, IL | On Site | Sep 06 |
+| **[Henkel](http://www.henkel.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66db2722e513cf581c084b6c?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | Hybrid | Sep 06 |
 | **[Corning Incorporated](https://www.corning.com/)** | **[Product Line Management Intern](https://jobright.ai/jobs/info/66db3ef7d33990a61730859d?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Sep 06 |
 | **[NewRez](https://www.newrez.com)** | **[2025 Summer Internship – Product Development](https://jobright.ai/jobs/info/66e1a4b3a19bee7abd912af3?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Sep 06 |
 | **[Protagonist](http://www.protagonist.io)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/66e02f33dad3ae0fd3b10980?utm_campaign=1047&utm_source=git)** | Washington, DC | On Site | Sep 06 |
-| **[Spectrum](https://www.spectrum.com)** | **[Assoc Billing Solutions Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265087?utm_campaign=1047&utm_source=git)** | Maryland Heights, MO | On Site | Sep 06 |
 | **[PIMCO](http://www.pimco.com)** | **[Product Strategy Analyst Intern](https://jobright.ai/jobs/info/66c0d1af1dceb623e279b5fc?utm_campaign=1047&utm_source=git)** | Newport Beach, CA | On Site | Sep 06 |
 | **[State Employees Credit Union](https://www.ncsecu.org)** | **[Intern – Card Product & Portfolio Strategy](https://jobright.ai/jobs/info/66d780fb247b0daf10fc4579?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Sep 05 |
 | **[BrandSafway](https://www.brandsafway.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/66daa2e67e4d44f968907a7e?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Sep 05 |
@@ -155,6 +155,4 @@ For a complete list, click the following sortable link below:
 | **[Veeam Software](http://www.veeam.com)** | **[Product Strategy Intern - Summer 2025](https://jobright.ai/jobs/info/66da3192e9226523c04209d6?utm_campaign=1047&utm_source=git)** | Ohio, United States | On Site | Sep 05 |
 | **[State Employees Credit Union](https://www.ncsecu.org)** | **[Intern – Card Product & Portfolio Strategy](https://jobright.ai/jobs/info/66d771ee0307f1b71fe0f995?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Sep 05 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Product Development Co-Op](https://jobright.ai/jobs/info/66da00996c193ddc90c6efe6?utm_campaign=1047&utm_source=git)** | Raynham, MA | On Site | Sep 05 |
-| **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Strategic Product Planning](https://jobright.ai/jobs/info/66d9e5e6ed68ac5dce11c30f?utm_campaign=1047&utm_source=git)** | Greensboro, NC | On Site | Sep 05 |
-| **[Nike](http://www.nike.com)** | **[Footwear Product Creation Undergraduate Internship](https://jobright.ai/jobs/info/66e045ab305cdde0de47e2d0?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
