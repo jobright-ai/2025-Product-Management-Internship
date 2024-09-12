@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Emerson](http://www.emerson.com)** | **[Product Management Engineering Co-op](https://jobright.ai/jobs/info/66e2313960e13adae274a4f4?utm_campaign=1047&utm_source=git)** | Shakopee, MN | On Site | Sep 11 |
-| ↳ | **[Product Management Engineering Intern](https://jobright.ai/jobs/info/66e2313960e13adae274a4ec?utm_campaign=1047&utm_source=git)** | Chanhassen, MN | On Site | Sep 11 |
+| **[Blackstone Group](http://blackstone.com)** | **[Product Manager Summer Analyst](https://jobright.ai/jobs/info/66e24a1ed69ecadd2c019f3e?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Sep 11 |
+| **[Emerson](http://www.emerson.com)** | **[Product Management Engineering Intern](https://jobright.ai/jobs/info/66e2313960e13adae274a4ec?utm_campaign=1047&utm_source=git)** | Chanhassen, MN | On Site | Sep 11 |
+| ↳ | **[Product Management Engineering Co-op](https://jobright.ai/jobs/info/66e2313960e13adae274a4f4?utm_campaign=1047&utm_source=git)** | Shakopee, MN | On Site | Sep 11 |
+| **[JLG Industries](http://www.jlg.com/en)** | **[Aftermarket Product Management Intern](https://jobright.ai/jobs/info/66e23dd66ad63857eb1a43ec?utm_campaign=1047&utm_source=git)** | McConnellsburg, PA | Hybrid | Sep 11 |
+| **[Western National Insurance](https://wnins.com)** | **[Insurance Product Development Intern](https://jobright.ai/jobs/info/66d8d434af39d5f52a42f636?utm_campaign=1047&utm_source=git)** | Edina, MN | On Site | Sep 11 |
+| **[JLG Industries](http://www.jlg.com/en)** | **[Aftermarket Product Management Intern](https://jobright.ai/jobs/info/66e2391b51dab3f73d37e79e?utm_campaign=1047&utm_source=git)** | Hagerstown, MD | Hybrid | Sep 11 |
 | **[M. A. Mortenson Company](https://www.mortenson.com)** | **[Product Solutions Intern](https://jobright.ai/jobs/info/66e227104bb9fc5b4e8080e4?utm_campaign=1047&utm_source=git)** | Minnesota, United States | On Site | Sep 11 |
 | **[Moen Incorporated](https://www.moen.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66e2233d7fda0d43e8ca9ada?utm_campaign=1047&utm_source=git)** | North Olmsted, OH | On Site | Sep 11 |
 | ↳ | **[Category Management Intern](https://jobright.ai/jobs/info/66e2233d7fda0d43e8ca9ae7?utm_campaign=1047&utm_source=git)** | North Olmsted, OH | On Site | Sep 11 |
@@ -70,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Mobile Product Strategy](https://jobright.ai/jobs/info/66e1ccabce9e749214874868?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | Hybrid | Sep 11 |
 | ↳ | **[2025 Summer Intern: WiFi Product Team](https://jobright.ai/jobs/info/66e1ccabce9e749214874860?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | Hybrid | Sep 11 |
 | ↳ | **[2025 Summer Intern: Mobile Product](https://jobright.ai/jobs/info/66e1ccabce9e749214874853?utm_campaign=1047&utm_source=git)** | Stamford, CT | Hybrid | Sep 11 |
-| **[Johnson Financial Group](https://www.johnsonfinancialgroup.com/)** | **[Treasury/Product Management Internship Summer 2025](https://jobright.ai/jobs/info/66e1f5ff7ddf2abc7589d0bb?utm_campaign=1047&utm_source=git)** | Racine, WI | Hybrid | Sep 11 |
 | **[Walmart](http://www.walmart.com)** | **[Product Manager II](https://jobright.ai/jobs/info/66e20d3bb0e0318971088f8d?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Sep 11 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2025 Guardian Summer Intern, Life and Annuity Product Development](https://jobright.ai/jobs/info/66c4b3fc9eebfeb7f86d503c?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Sep 11 |
 | **[Lenovo](http://www.lenovo.com)** | **[Solution Product Manager - Global Future Leaders Program](https://jobright.ai/jobs/info/66e16d0fd01a0c493aaea9e8?utm_campaign=1047&utm_source=git)** | North Carolina, United States | On Site | Sep 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Product Development Co-Op](https://jobright.ai/jobs/info/66da00996c193ddc90c6efe6?utm_campaign=1047&utm_source=git)** | Raynham, MA | On Site | Sep 05 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Strategic Product Planning](https://jobright.ai/jobs/info/66d9e5e6ed68ac5dce11c30f?utm_campaign=1047&utm_source=git)** | Greensboro, NC | On Site | Sep 05 |
 | **[Nike](http://www.nike.com)** | **[Footwear Product Creation Undergraduate Internship](https://jobright.ai/jobs/info/66e045ab305cdde0de47e2d0?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Sep 05 |
-| **[Western National Insurance](https://wnins.com)** | **[Insurance Product Development Intern](https://jobright.ai/jobs/info/66d8d434af39d5f52a42f636?utm_campaign=1047&utm_source=git)** | Edina, MN | On Site | Sep 05 |
-| **[Peppr](https://www.peppr.com/)** | **[SaaS Product Operations Intern](https://jobright.ai/jobs/info/66d9971899d29b647f641ed9?utm_campaign=1047&utm_source=git)** | Dallas County, TX | On Site | Sep 05 |
-| ↳ | **[SaaS Product Operations Intern](https://jobright.ai/jobs/info/66d9971899d29b647f6422a7?utm_campaign=1047&utm_source=git)** | Los Angeles County, CA | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
