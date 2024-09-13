@@ -57,11 +57,25 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arch Insurance Company](https://insurance.archgroup.com)** | **[Product Owner & Solutions Summer Intern](https://jobright.ai/jobs/info/66e48d13e011b7dd896e80dc?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | Hybrid | Sep 13 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66e48c719d5ac77060818f7c?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Sep 13 |
+| **[Comcast](http://corporate.comcast.com)** | **[Comcast Internet Product Strategy Intern](https://jobright.ai/jobs/info/66e477a484f6dd4cba6dc723?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 13 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/66e477a484f6dd4cba6dc6d0?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 13 |
+| ↳ | **[Product Manager Intern](https://jobright.ai/jobs/info/66e477a484f6dd4cba6dc6c3?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Sep 13 |
+| ↳ | **[App Platform Product and Technical Writing Intern](https://jobright.ai/jobs/info/66e477a484f6dd4cba6dc6d5?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Sep 13 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/66e477a484f6dd4cba6dc7b1?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Sep 13 |
+| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Mobile Product](https://jobright.ai/jobs/info/66e471318dd0c482502c09f5?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | Hybrid | Sep 13 |
+| **[Henkel](http://www.henkel.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/66e469ef3869f31c2aef747a?utm_campaign=1047&utm_source=git)** | Trumbull, CT | On Site | Sep 13 |
+| **[NewRez](https://www.newrez.com)** | **[2025 Summer Internship – Product Development](https://jobright.ai/jobs/info/66e4681942a2a3d5bb30ae95?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Sep 13 |
+| **[Henkel](http://www.henkel.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/66e46458c0d4a84c5aec5f80?utm_campaign=1047&utm_source=git)** | Stamford, CT | On Site | Sep 13 |
 | **[Bad Birdie](https://badbirdiegolf.com/)** | **[Product Internship - Fall 2024](https://jobright.ai/jobs/info/66e43f5d59b40890b5876ef0?utm_campaign=1047&utm_source=git)** | Scottsdale, AZ | On Site | Sep 13 |
-| **[GenPark AI](https://www.genpark.ai)** | **[Product Management Intern](https://jobright.ai/jobs/info/66e424bce598c86d63dddf2f?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | Hybrid | Sep 13 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Brand Innovation)](https://jobright.ai/jobs/info/66e18ef1a9f4481bee467e51?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 13 |
 | **[JP Morgan Chase](http://www.jpmorganchase.com)** | **[Asset Management Product Summer Analyst](https://jobright.ai/jobs/info/66c899fd46512616a47cd99a?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Sep 13 |
-| **[DriveTime](https://www.drivetime.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66e4113eca0068a41ff76220?utm_campaign=1047&utm_source=git)** | Tempe, AZ | On Site | Sep 13 |
+| **[DriveTime](https://www.drivetime.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66e2fecad3df2cf8909fe20c?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Sep 13 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/66e4113eca0068a41ff76220?utm_campaign=1047&utm_source=git)** | Tempe, AZ | On Site | Sep 13 |
 | **[iFIT](http://www.ifit.com)** | **[Digital Product Management Intern](https://jobright.ai/jobs/info/66e2fecad3df2cf8909fe2ae?utm_campaign=1047&utm_source=git)** | Logan, UT | On Site | Sep 12 |
+| **[The Cigna Group](https://www.cigna.com/)** | **[Clinical & Trend Solutions Intern](https://jobright.ai/jobs/info/66e48d13e011b7dd896e8593?utm_campaign=1047&utm_source=git)** | Bloomington, MN | Hybrid | Sep 12 |
+| ↳ | **[Clinical & Trend Solutions Intern](https://jobright.ai/jobs/info/66e48d13e011b7dd896e8709?utm_campaign=1047&utm_source=git)** | St Louis, MO | Hybrid | Sep 12 |
 | **[Pratt & Miller Engineering](http://prattmiller.com)** | **[Product Intern - Summer 2025](https://jobright.ai/jobs/info/66e3909dc5062ecb610fcc43?utm_campaign=1047&utm_source=git)** | New Hudson, MI | On Site | Sep 12 |
 | **[Ingersoll Rand](https://www.irco.com/en-in)** | **[Product Management Intern](https://jobright.ai/jobs/info/66e377fe620a90a969a66818?utm_campaign=1047&utm_source=git)** | Quincy, IL | On Site | Sep 12 |
 | **[Ocean Spray Cranberries Inc.](http://www.oceanspray.com/)** | **[Product Development Co-Op](https://jobright.ai/jobs/info/66e36d3310cc9bbf8f9b65d6?utm_campaign=1047&utm_source=git)** | Lakeville, MA | On Site | Sep 12 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pillar4](https://pillarfour.com)** | **[Editorial Intern - Research & Development](https://jobright.ai/jobs/info/66df25a0c4ca6548c48742ae?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Sep 09 |
 | **[Royal Caribbean Group](https://www.royalcaribbeangroup.com)** | **[MBA Digital Product Owner Intern](https://jobright.ai/jobs/info/66df28474e99951e5ddc6f0f?utm_campaign=1047&utm_source=git)** | Miami, FL | On Site | Sep 09 |
 | **[PCOnline](https://pconlineus.com/)** | **[Junior Product Manager](https://jobright.ai/jobs/info/66df0055c75201ea3c1cd6ac?utm_campaign=1047&utm_source=git)** | Newark, DE | On Site | Sep 09 |
-| **[Santander](https://www.santander.com)** | **[Digital Product Management Intern](https://jobright.ai/jobs/info/66df97e709da35f657ad42a7?utm_campaign=1047&utm_source=git)** | Boston | On Site | Sep 08 |
-| **[CDK Global](https://www.cdkglobal.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66df93bd8a11c28d2bc90142?utm_campaign=1047&utm_source=git)** | Austin, TX, USA | On Site | Sep 08 |
-| **[Thermo Fisher Scientific](http://www.thermofisher.com)** | **[Customer Solution & Product Management Internship](https://jobright.ai/jobs/info/66e30c56f36057eec82e6a86?utm_campaign=1047&utm_source=git)** | Rockville, MD | On Site | Sep 07 |
-| **[Nike](http://www.nike.com)** | **[Product Management Graduate Internship](https://jobright.ai/jobs/info/66e303c06d26ffc7247155bf?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Sep 07 |
-| **[The Friedkin Group](http://apply2jobs.com)** | **[Summer Intern - Product Analyst](https://jobright.ai/jobs/info/66e2eca2a05e3afa9bae5396?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Sep 07 |
-| **[ServiceNow](http://www.servicenow.com)** | **[Sr. Product Manager Intern](https://jobright.ai/jobs/info/66e19644123fa518c952ceac?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Sep 07 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Strategy MBA Intern (Web Ads)](https://jobright.ai/jobs/info/66e18521bb7c5c770a2b0efe?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Sep 07 |
-| **[Thermo Fisher Scientific](http://www.thermofisher.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66e2de5a56bc504c283c4a5c?utm_campaign=1047&utm_source=git)** | Carlsbad, CA | On Site | Sep 07 |
-| **[Cox Communications](http://www.cox.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66e17ab09c52e95399ac82f0?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Sep 07 |
-| **[ServiceNow](http://www.servicenow.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/66e0285613bc6fdfc6df5ee1?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Sep 07 |
-| **[Henkel](http://www.henkel.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66db2722e513cf581c084b6c?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | On Site | Sep 07 |
-| **[Hudl](http://www.hudl.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/66bfca99f4b694fd4c8ce5d9?utm_campaign=1047&utm_source=git)** | Lincoln, NE | On Site | Sep 07 |
-| **[Harris Corp - composite aero-structures division](https://www.l3harris.com/)** | **[Product Management Intern D](https://jobright.ai/jobs/info/66a3f4c85fcbfa8457ce11bd?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Sep 07 |
-| **[Guardian Life](http://www.guardianlife.com/)** | **[Guardian Summer Intern, Annuity Product Management](https://jobright.ai/jobs/info/66bfb271d89c7aaa2f839ba1?utm_campaign=1047&utm_source=git)** | Holmdel, NJ | Hybrid | Sep 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
