@@ -57,14 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Comcast](http://corporate.comcast.com)** | **[AI Product Intern](https://jobright.ai/jobs/info/66e4cc7d96a7b4e49ec148aa?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 13 |
+| **[American Modern Insurance Group](https://www.amig.com/)** | **[Intern - Product Management](https://jobright.ai/jobs/info/66e4a2adba227f94793e8bef?utm_campaign=1047&utm_source=git)** | Cincinnati Metro | Hybrid | Sep 13 |
+| ↳ | **[Intern - Specialty Client Product](https://jobright.ai/jobs/info/66e4a2adba227f94793e8bf0?utm_campaign=1047&utm_source=git)** | Cincinnati Metro | Hybrid | Sep 13 |
 | **[Arch Insurance Company](https://insurance.archgroup.com)** | **[Product Owner & Solutions Summer Intern](https://jobright.ai/jobs/info/66e48d13e011b7dd896e80dc?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | Hybrid | Sep 13 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66e48c719d5ac77060818f7c?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Sep 13 |
 | **[Comcast](http://corporate.comcast.com)** | **[Comcast Internet Product Strategy Intern](https://jobright.ai/jobs/info/66e477a484f6dd4cba6dc723?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 13 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/66e477a484f6dd4cba6dc6d0?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 13 |
-| ↳ | **[Product Manager Intern](https://jobright.ai/jobs/info/66e477a484f6dd4cba6dc6c3?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Sep 13 |
 | ↳ | **[App Platform Product and Technical Writing Intern](https://jobright.ai/jobs/info/66e477a484f6dd4cba6dc6d5?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Sep 13 |
+| ↳ | **[Product Manager Intern](https://jobright.ai/jobs/info/66e477a484f6dd4cba6dc6c3?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Sep 13 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/66e477a484f6dd4cba6dc7b1?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Sep 13 |
-| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Mobile Product](https://jobright.ai/jobs/info/66e471318dd0c482502c09f5?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | Hybrid | Sep 13 |
+| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Internet Product](https://jobright.ai/jobs/info/66e471318dd0c482502c0a0a?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | Hybrid | Sep 13 |
+| ↳ | **[2025 Summer Intern: Mobile Product](https://jobright.ai/jobs/info/66e471318dd0c482502c09f5?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | Hybrid | Sep 13 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/66e469ef3869f31c2aef747a?utm_campaign=1047&utm_source=git)** | Trumbull, CT | On Site | Sep 13 |
 | **[NewRez](https://www.newrez.com)** | **[2025 Summer Internship – Product Development](https://jobright.ai/jobs/info/66e4681942a2a3d5bb30ae95?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Sep 13 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/66e46458c0d4a84c5aec5f80?utm_campaign=1047&utm_source=git)** | Stamford, CT | On Site | Sep 13 |
@@ -98,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[Blackstone Group](http://blackstone.com)** | **[Product Manager Summer Analyst](https://jobright.ai/jobs/info/66e24a1ed69ecadd2c019f3e?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Sep 11 |
 | **[The Shyft Group](https://theshyftgroup.com/)** | **[Aftermarket Intern](https://jobright.ai/jobs/info/66e342caf73eefc86eb6a2fc?utm_campaign=1047&utm_source=git)** | Bristol, IN | On Site | Sep 11 |
 | **[Zwilling Ja Henckels Kithenware Shanghai](http://www.zwilling.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/66e35a29d80a61731035e85c?utm_campaign=1047&utm_source=git)** | Pleasantville, NY | On Site | Sep 11 |
-| **[Emerson](http://www.emerson.com)** | **[Product Management Engineering Intern](https://jobright.ai/jobs/info/66e2313960e13adae274a4ec?utm_campaign=1047&utm_source=git)** | Chanhassen, MN | On Site | Sep 11 |
-| ↳ | **[Product Management Engineering Co-op](https://jobright.ai/jobs/info/66e2313960e13adae274a4f4?utm_campaign=1047&utm_source=git)** | Shakopee, MN | On Site | Sep 11 |
+| **[Emerson](http://www.emerson.com)** | **[Product Management Engineering Co-op](https://jobright.ai/jobs/info/66e2313960e13adae274a4f4?utm_campaign=1047&utm_source=git)** | Shakopee, MN | On Site | Sep 11 |
+| ↳ | **[Product Management Engineering Intern](https://jobright.ai/jobs/info/66e2313960e13adae274a4ec?utm_campaign=1047&utm_source=git)** | Chanhassen, MN | On Site | Sep 11 |
 | **[JLG Industries](http://www.jlg.com/en)** | **[Aftermarket Product Management Intern](https://jobright.ai/jobs/info/66e23dd66ad63857eb1a43ec?utm_campaign=1047&utm_source=git)** | McConnellsburg, PA | Hybrid | Sep 11 |
 | **[Western National Insurance](https://wnins.com)** | **[Insurance Product Development Intern](https://jobright.ai/jobs/info/66d8d434af39d5f52a42f636?utm_campaign=1047&utm_source=git)** | Edina, MN | On Site | Sep 11 |
 | **[JLG Industries](http://www.jlg.com/en)** | **[Aftermarket Product Management Intern](https://jobright.ai/jobs/info/66e2391b51dab3f73d37e79e?utm_campaign=1047&utm_source=git)** | Hagerstown, MD | Hybrid | Sep 11 |
@@ -130,8 +134,7 @@ For a complete list, click the following sortable link below:
 | **[Innomotics](https://www.innomotics.com)** | **[Product Management Internship - Service](https://jobright.ai/jobs/info/66e0a0b5a692cb8ec3d5da38?utm_campaign=1047&utm_source=git)** | Alpharetta, GA | Hybrid | Sep 10 |
 | **[Arch Insurance Company](https://insurance.archgroup.com)** | **[Product Development Legal Summer Intern](https://jobright.ai/jobs/info/66e0a0b5a692cb8ec3d5daa3?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | Hybrid | Sep 10 |
 | **[Santander Bank](https://www.santanderbank.com)** | **[Digital Product Management Intern](https://jobright.ai/jobs/info/66e0a0b5a692cb8ec3d5dd56?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Sep 10 |
-| **[Henkel](http://www.henkel.com)** | **[Product Development Intern-Hair Color](https://jobright.ai/jobs/info/66e08f2ef6df3d0c304dfc51?utm_campaign=1047&utm_source=git)** | Darien, CT | On Site | Sep 10 |
-| ↳ | **[Product Development Intern-Hair Care](https://jobright.ai/jobs/info/66e08cb6f40b7f00f6f64206?utm_campaign=1047&utm_source=git)** | Darien, CT | On Site | Sep 10 |
+| **[Henkel](http://www.henkel.com)** | **[Product Development Intern-Hair Care](https://jobright.ai/jobs/info/66e08cb6f40b7f00f6f64206?utm_campaign=1047&utm_source=git)** | Darien, CT | On Site | Sep 10 |
 | ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/66e07fcf5892c2392fd9f635?utm_campaign=1047&utm_source=git)** | Mentor, OH | On Site | Sep 10 |
 | **[IHG Hotels & Resorts](https://www.ihgplc.com/)** | **[Summer Internship - Product and Technology](https://jobright.ai/jobs/info/66e08351f49d41e53c02db5a?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Sep 10 |
 | **[GlobalFoundries](https://ritahazan.id/job/?Kw=spg188)** | **[Product Management Engineering Intern](https://jobright.ai/jobs/info/66e08958cad83f5efb2af24a?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Sep 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NJEDA](https://www.njeda.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/66398341e381682510f6e9ae?utm_campaign=1047&utm_source=git)** | Middlesex County, NJ | On Site | Sep 09 |
 | **[G&W Electric](http://www.gwelec.com/)** | **[Intern - New Product Development](https://jobright.ai/jobs/info/66df64c3c7d801794229767b?utm_campaign=1047&utm_source=git)** | Bolingbrook, IL | On Site | Sep 09 |
 | **[Cretex Medical](https://www.cretexmedical.com)** | **[Product Development Co-Op](https://jobright.ai/jobs/info/66db995161afda494e72843c?utm_campaign=1047&utm_source=git)** | Bloomington, MN | On Site | Sep 09 |
-| **[Pillar4](https://pillarfour.com)** | **[Editorial Intern - Research & Development](https://jobright.ai/jobs/info/66df25a0c4ca6548c48742ae?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Sep 09 |
-| **[Royal Caribbean Group](https://www.royalcaribbeangroup.com)** | **[MBA Digital Product Owner Intern](https://jobright.ai/jobs/info/66df28474e99951e5ddc6f0f?utm_campaign=1047&utm_source=git)** | Miami, FL | On Site | Sep 09 |
-| **[PCOnline](https://pconlineus.com/)** | **[Junior Product Manager](https://jobright.ai/jobs/info/66df0055c75201ea3c1cd6ac?utm_campaign=1047&utm_source=git)** | Newark, DE | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
