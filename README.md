@@ -70,9 +70,9 @@ For a complete list, click the following sortable link below:
 | **[Arch Insurance Company](https://insurance.archgroup.com)** | **[Product Owner & Solutions Summer Intern](https://jobright.ai/jobs/info/66e48d13e011b7dd896e80dc?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | Hybrid | Sep 13 |
 | **[Comcast](http://corporate.comcast.com)** | **[Comcast Internet Product Strategy Intern](https://jobright.ai/jobs/info/66e477a484f6dd4cba6dc723?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 13 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/66e477a484f6dd4cba6dc6d0?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 13 |
+| ↳ | **[App Platform Product and Technical Writing Intern](https://jobright.ai/jobs/info/66e477a484f6dd4cba6dc6d5?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Sep 13 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/66e477a484f6dd4cba6dc7b1?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Sep 13 |
 | ↳ | **[Product Manager Intern](https://jobright.ai/jobs/info/66e477a484f6dd4cba6dc6c3?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Sep 13 |
-| ↳ | **[App Platform Product and Technical Writing Intern](https://jobright.ai/jobs/info/66e477a484f6dd4cba6dc6d5?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Sep 13 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Internet Product](https://jobright.ai/jobs/info/66e471318dd0c482502c0a0a?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | Hybrid | Sep 13 |
 | ↳ | **[2025 Summer Intern: Mobile Product](https://jobright.ai/jobs/info/66e471318dd0c482502c09f5?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | Hybrid | Sep 13 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/66e469ef3869f31c2aef747a?utm_campaign=1047&utm_source=git)** | Trumbull, CT | On Site | Sep 13 |
