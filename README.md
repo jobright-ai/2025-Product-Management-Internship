@@ -140,10 +140,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/66ed21c5635bbd8dd06c419d?utm_campaign=1047&utm_source=git)** | Sparks, NV | On Site | Sep 19 |
 | ↳ | **[Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/66ed21c5635bbd8dd06c41a4?utm_campaign=1047&utm_source=git)** | Providence, RI | On Site | Sep 19 |
 | ↳ | **[Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/66ed21c5635bbd8dd06c41aa?utm_campaign=1047&utm_source=git)** | Mesa, AZ | On Site | Sep 19 |
-| ↳ | **[Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/66ed21c5635bbd8dd06c41ac?utm_campaign=1047&utm_source=git)** | McKinney, TX | On Site | Sep 19 |
 | ↳ | **[Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/66ed21c5635bbd8dd06c41ab?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Sep 19 |
-| ↳ | **[Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/66ed21c5635bbd8dd06c41b3?utm_campaign=1047&utm_source=git)** | Iowa City, IA | On Site | Sep 19 |
+| ↳ | **[Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/66ed21c5635bbd8dd06c41ac?utm_campaign=1047&utm_source=git)** | McKinney, TX | On Site | Sep 19 |
 | ↳ | **[Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/66ed21c5635bbd8dd06c41b5?utm_campaign=1047&utm_source=git)** | Rochester, MN | On Site | Sep 19 |
+| ↳ | **[Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/66ed21c5635bbd8dd06c41b3?utm_campaign=1047&utm_source=git)** | Iowa City, IA | On Site | Sep 19 |
 | ↳ | **[Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/66ed23fd13816ede2efdf4c1?utm_campaign=1047&utm_source=git)** | Bozeman, MT | On Site | Sep 19 |
 | ↳ | **[Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/66ed23fd13816ede2efdf4f0?utm_campaign=1047&utm_source=git)** | South Bend, IN | On Site | Sep 19 |
 | ↳ | **[Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/66ed23fd13816ede2efdf4f6?utm_campaign=1047&utm_source=git)** | Rockford, IL | On Site | Sep 19 |
@@ -152,8 +152,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/66ed23fd13816ede2efdf514?utm_campaign=1047&utm_source=git)** | Rochester, NH | On Site | Sep 19 |
 | ↳ | **[Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/66ed23fd13816ede2efdf51b?utm_campaign=1047&utm_source=git)** | Southaven, MS | On Site | Sep 19 |
 | ↳ | **[Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/66ed23fd13816ede2efdf518?utm_campaign=1047&utm_source=git)** | Hampton, VA | On Site | Sep 19 |
-| ↳ | **[Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/66ed23fd13816ede2efdf53d?utm_campaign=1047&utm_source=git)** | Fort Collins, CO | On Site | Sep 19 |
 | ↳ | **[Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/66ed23fd13816ede2efdf52e?utm_campaign=1047&utm_source=git)** | Berrien Springs, MI | On Site | Sep 19 |
+| ↳ | **[Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/66ed23fd13816ede2efdf53d?utm_campaign=1047&utm_source=git)** | Fort Collins, CO | On Site | Sep 19 |
 | ↳ | **[Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/66ed23fd13816ede2efdf545?utm_campaign=1047&utm_source=git)** | El Paso, TX | On Site | Sep 19 |
 | ↳ | **[Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/66ed23fd13816ede2efdf552?utm_campaign=1047&utm_source=git)** | Fort Smith, AR | On Site | Sep 19 |
 | ↳ | **[Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/66ed23fd13816ede2efdf567?utm_campaign=1047&utm_source=git)** | West Jordan, UT | On Site | Sep 19 |
