@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bose Corporation](https://www.bose.com/en_us/index.html)** | **[Product Manager - Intern](https://jobright.ai/jobs/info/66f2629558b6548927b755f3?utm_campaign=1047&utm_source=git)** | Framingham, MA | On Site | Sep 23 |
+| **[CLAAS](https://www.claas.de/)** | **[Product Management Intern 2025](https://jobright.ai/jobs/info/66f24c944644e2ea5d26398d?utm_campaign=1047&utm_source=git)** | Omaha, NE | On Site | Sep 23 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer Internship - IT National Business Lines](https://jobright.ai/jobs/info/66f2111d9a1d7dbd1ea3ea18?utm_campaign=1047&utm_source=git)** | Phoenix, AZ | On Site | Sep 23 |
-| **[Token Metrics](http://tokenmetrics.com)** | **[Crypto SaaS Product Manager Intern](https://jobright.ai/jobs/info/66f2222580a4c6cd10391d12?utm_campaign=1047&utm_source=git)** | Oregon, United States | Hybrid | Sep 23 |
-| ↳ | **[Crypto SaaS Product Manager Intern](https://jobright.ai/jobs/info/66f233fea2aa096b4cf9ab7b?utm_campaign=1047&utm_source=git)** | Oregon, United States | Hybrid | Sep 23 |
+| **[Token Metrics](http://tokenmetrics.com)** | **[Crypto SaaS Product Manager Intern](https://jobright.ai/jobs/info/66f288c65b1f87cc6171ef56?utm_campaign=1047&utm_source=git)** | Oregon, United States | On Site | Sep 23 |
+| ↳ | **[Crypto SaaS Product Manager Intern](https://jobright.ai/jobs/info/66f2222580a4c6cd10391d4a?utm_campaign=1047&utm_source=git)** | Oregon, United States | Hybrid | Sep 23 |
+| **[Autodesk](http://www.autodesk.com)** | **[Intern, Product Manager (E-Commerce)](https://jobright.ai/jobs/info/66f248e1bd73a14a8a8d8af8?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Sep 23 |
+| **[Token Metrics](http://tokenmetrics.com)** | **[Crypto SaaS Product Manager Intern](https://jobright.ai/jobs/info/66f233fea2aa096b4cf9ab7b?utm_campaign=1047&utm_source=git)** | Oregon, United States | Hybrid | Sep 23 |
 | **[Pegasystems](http://www.pega.com)** | **[MBA Product Management Summer Intern](https://jobright.ai/jobs/info/66f1f679aa8f026641c3816a?utm_campaign=1047&utm_source=git)** | Waltham, MA | On Site | Sep 23 |
 | **[PCOnline](https://pconlineus.com/)** | **[Technical Product Manager Trainee](https://jobright.ai/jobs/info/66f2119fd46612d2a1149fd6?utm_campaign=1047&utm_source=git)** | Newark, DE | On Site | Sep 23 |
 | **[AdsGency AI](https://adsgency.ai)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f21fc3a46045ef923d89f3?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | On Site | Sep 23 |
@@ -68,12 +72,12 @@ For a complete list, click the following sortable link below:
 | **[Amway Corporation](http://www.amway.com)** | **[Consumer Product Research Intern](https://jobright.ai/jobs/info/66f231d047aac89868ca0572?utm_campaign=1047&utm_source=git)** | Ada, MI | On Site | Sep 23 |
 | **[Verizon](https://www.verizon.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/66f1d5dd0915b28452152864?utm_campaign=1047&utm_source=git)** | Basking Ridge, NJ | Hybrid | Sep 23 |
 | ↳ | **[Technical Product Management Internship](https://jobright.ai/jobs/info/66f1ca503ba3a18e5590e6f4?utm_campaign=1047&utm_source=git)** | Alpharetta, GA | On Site | Sep 23 |
+| **[Tyler Technologies](https://www.tylertech.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/66f255a9209a48ce4a052bbe?utm_campaign=1047&utm_source=git)** | Plano, TX | On Site | Sep 23 |
 | **[NBCUniversal](http://www.nbcuniversal.com)** | **[Product Management Internships - Media Tech Summer 2025](https://jobright.ai/jobs/info/66f214c5d4beb8dbce9010c4?utm_campaign=1047&utm_source=git)** | New York, NY | Remote | Sep 23 |
 | **[Tanium](http://www.tanium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f1a6c46d831cd26fee53d4?utm_campaign=1047&utm_source=git)** | Addison, TX | Hybrid | Sep 23 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/66f1a6c46d831cd26fee53d8?utm_campaign=1047&utm_source=git)** | Emeryville, CA | Hybrid | Sep 23 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/66f1a6c46d831cd26fee53c4?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Sep 23 |
-| **[Rakuten Americas](http://rakuten.us)** | **[Co-Op: AI Product Manager](https://jobright.ai/jobs/info/66f19e646ea870ffacdef219?utm_campaign=1047&utm_source=git)** | United States | Remote | Sep 23 |
-| ↳ | **[Co-Op: AI Product Manager](https://jobright.ai/jobs/info/66f1a4490a8337b180516caf?utm_campaign=1047&utm_source=git)** | San Mateo, CA | On Site | Sep 23 |
+| **[Rakuten Americas](http://rakuten.us)** | **[Co-Op: AI Product Manager](https://jobright.ai/jobs/info/66f1a4490a8337b180516caf?utm_campaign=1047&utm_source=git)** | San Mateo, CA | On Site | Sep 23 |
 | **[Allied Solutions](http://www.alliedsolutions.net/)** | **[Software Product Operations Intern](https://jobright.ai/jobs/info/66f1960fc886ca005eedc2e0?utm_campaign=1047&utm_source=git)** | Carmel, IN | On Site | Sep 23 |
 | **[Adobe](http://www.adobe.com)** | **[SAMI Intern - DX Product Manager](https://jobright.ai/jobs/info/66d517d078983fb9c567331e?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Sep 23 |
 | **[H.B. Fuller](http://www.hbfuller.com)** | **[Product Management and Marketing Intern](https://jobright.ai/jobs/info/66f0febb9f2517ee984b201a?utm_campaign=1047&utm_source=git)** | St Paul, MN | Hybrid | Sep 22 |
@@ -119,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[Bath & Body Works](https://www.bathandbodyworks.com/)** | **[Merchandising Summer Internship 2025](https://jobright.ai/jobs/info/66ed1addd53e35c91d9bec17?utm_campaign=1047&utm_source=git)** | Reynoldsburg, OH | Hybrid | Sep 19 |
 | **[Universal Orlando Resort](http://www.universalorlando.com)** | **[Internship – Digital Product Ownership](https://jobright.ai/jobs/info/66ed15c725351ebfa835ee77?utm_campaign=1047&utm_source=git)** | Orlando, FL | On Site | Sep 19 |
 | **[Dawn Food Products](https://www.dawnfoods.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/66ecde84a306756989d30f32?utm_campaign=1047&utm_source=git)** | Jackson, MI | On Site | Sep 19 |
-| **[TE Connectivity](http://www.te.com)** | **[Product Management (Intern)](https://jobright.ai/jobs/info/66ecddd83f9c286e30c0023e?utm_campaign=1047&utm_source=git)** | Middletown, PA | On Site | Sep 19 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/66ecce749c9fb1878cb991e0?utm_campaign=1047&utm_source=git)** | Solon, OH | On Site | Sep 19 |
 | **[First Solar](http://www.firstsolar.com)** | **[Product & Technology Intern](https://jobright.ai/jobs/info/66edc72ce517d787d69b347b?utm_campaign=1047&utm_source=git)** | Perrysburg, OH | On Site | Sep 19 |
 | **[Bad Birdie](https://badbirdiegolf.com/)** | **[Product Internship - Merchandising - Fall 2024](https://jobright.ai/jobs/info/66ecd743b98a339d51be425b?utm_campaign=1047&utm_source=git)** | Scottsdale, AZ | On Site | Sep 19 |
@@ -153,8 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/66ed21c5635bbd8dd06c4183?utm_campaign=1047&utm_source=git)** | Tacoma, WA | On Site | Sep 19 |
 | ↳ | **[Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/66ed21c5635bbd8dd06c4185?utm_campaign=1047&utm_source=git)** | Boise, ID | On Site | Sep 19 |
 | ↳ | **[Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/66ed21c5635bbd8dd06c4188?utm_campaign=1047&utm_source=git)** | Tulsa, OK | On Site | Sep 19 |
-| ↳ | **[Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/66ed21c5635bbd8dd06c418f?utm_campaign=1047&utm_source=git)** | Ann Arbor, MI | On Site | Sep 19 |
-| ↳ | **[Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/66ed21c5635bbd8dd06c4190?utm_campaign=1047&utm_source=git)** | Aurora, IL | On Site | Sep 19 |
 | ↳ | **[Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/66ed21c5635bbd8dd06c4191?utm_campaign=1047&utm_source=git)** | Hot Springs, AR | On Site | Sep 19 |
-| ↳ | **[Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/66ed21c5635bbd8dd06c419a?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
