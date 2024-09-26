@@ -93,8 +93,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Global Product Management (Intern)](https://jobright.ai/jobs/info/66f31c063683ec45acad4199?utm_campaign=1047&utm_source=git)** | Middletown, PA | On Site | Sep 24 |
 | **[Trimble](http://www.trimble.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f3158a3be896271e2f1db2?utm_campaign=1047&utm_source=git)** | Westminster, CO | On Site | Sep 24 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/66f3158a3be896271e2f1db4?utm_campaign=1047&utm_source=git)** | Dayton, OH | On Site | Sep 24 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/66f3107607cfcb3f4e4116c9?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Sep 24 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/66f3158a3be896271e2f1dbd?utm_campaign=1047&utm_source=git)** | Portland, OR | On Site | Sep 24 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/66f3107607cfcb3f4e4116c9?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Sep 24 |
 | ↳ | **[Geospatial Intern](https://jobright.ai/jobs/info/66f3107607cfcb3f4e41171b?utm_campaign=1047&utm_source=git)** | Westminster, CO | On Site | Sep 24 |
 | **[Graco](http://graco.com/in/en/)** | **[IT Product Lifecycle Management Intern](https://jobright.ai/jobs/info/66f30aa541936e4575fc81e1?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | On Site | Sep 24 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Summer Project/Product Management Intern](https://jobright.ai/jobs/info/66f307c47250d4e0ff55eaff?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Sep 24 |
@@ -123,7 +123,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Crypto SaaS Product Manager Intern](https://jobright.ai/jobs/info/66f2222580a4c6cd10391d0c?utm_campaign=1047&utm_source=git)** | Oregon, United States | Hybrid | Sep 23 |
 | **[Mr. Cooper Group](https://www.mrcoopergroup.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f35ae260b95d077f003fb8?utm_campaign=1047&utm_source=git)** | Cypress Waters - Dallas, TX | On Site | Sep 23 |
 | **[Pegasystems](http://www.pega.com)** | **[MBA Product Management Summer Intern](https://jobright.ai/jobs/info/66f2f98eeba303659ec66ea7?utm_campaign=1047&utm_source=git)** | Waltham, MA | On Site | Sep 23 |
-| **[Token Metrics](http://tokenmetrics.com)** | **[Crypto SaaS Product Manager Intern](https://jobright.ai/jobs/info/66f233fea2aa096b4cf9ab6d?utm_campaign=1047&utm_source=git)** | Oregon, United States | Hybrid | Sep 23 |
+| **[Token Metrics](http://tokenmetrics.com)** | **[Crypto SaaS Product Manager Intern](https://jobright.ai/jobs/info/66f233fea2aa096b4cf9ab7b?utm_campaign=1047&utm_source=git)** | Oregon, United States | Hybrid | Sep 23 |
 | **[PCOnline](https://pconlineus.com/)** | **[Technical Product Manager Trainee](https://jobright.ai/jobs/info/66f2119fd46612d2a1149fd6?utm_campaign=1047&utm_source=git)** | Newark, DE | On Site | Sep 23 |
 | **[AdsGency AI](https://adsgency.ai)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f21fc3a46045ef923d89f3?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | On Site | Sep 23 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/66f1d497c2f5c1f827226689?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ | On Site | Sep 23 |
