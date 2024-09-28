@@ -58,10 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Berkley Alternative Markets Tech](https://berkleyalternativemarkets.tech)** | **[Product Management Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/66ce857f2ff4ca2e90d7730b?utm_campaign=1047&utm_source=git)** | Manassas, VA | Hybrid | Sep 27 |
-| **[McNeilus](https://mcneiluscompanies.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f71fa17b1b41fc345f2c70?utm_campaign=1047&utm_source=git)** | Dodge Center, MN | On Site | Sep 27 |
 | **[Pratt & Miller Engineering](http://prattmiller.com)** | **[Product Intern - Summer 2025](https://jobright.ai/jobs/info/66f71cf59f4cd6681087fefe?utm_campaign=1047&utm_source=git)** | New Hudson, MI | On Site | Sep 27 |
-| **[JLG Industries](http://www.jlg.com/en)** | **[Aftermarket Product Analyst Intern](https://jobright.ai/jobs/info/66f71cf59f4cd66810880154?utm_campaign=1047&utm_source=git)** | Hagerstown, MD | Hybrid | Sep 27 |
-| ↳ | **[Aftermarket Product Management Intern](https://jobright.ai/jobs/info/66f71cf59f4cd66810880155?utm_campaign=1047&utm_source=git)** | McCandless, PA | Hybrid | Sep 27 |
+| **[JLG Industries](http://www.jlg.com/en)** | **[Aftermarket Product Management Intern](https://jobright.ai/jobs/info/66f71cf59f4cd66810880155?utm_campaign=1047&utm_source=git)** | McCandless, PA | Hybrid | Sep 27 |
 | **[Raven Industries](http://ravenind.com)** | **[Product Development Purchasing Intern](https://jobright.ai/jobs/info/66f7137dbb692bf70848ab22?utm_campaign=1047&utm_source=git)** | New Holland, PA | On Site | Sep 27 |
 | **[Subaru of America](http://www.subaru.com)** | **[Product Planning and Pricing Intern](https://jobright.ai/jobs/info/66f7098566c24823f625c9bb?utm_campaign=1047&utm_source=git)** | Camden, NJ | On Site | Sep 27 |
 | **[Oatey Co.](https://www.oatey.com//)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f6fa4c7c3c1d6f7b252e97?utm_campaign=1047&utm_source=git)** | Cleveland, OH | Hybrid | Sep 27 |
@@ -71,10 +69,12 @@ For a complete list, click the following sortable link below:
 | **[Pierce Manufacturing](http://www.piercemfg.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f6f78a0298ad0e6564165d?utm_campaign=1047&utm_source=git)** | Appleton, WI | On Site | Sep 27 |
 | **[Raven Industries](http://ravenind.com)** | **[Junior Product Manager Intern](https://jobright.ai/jobs/info/66f6b57af8b84960c325423e?utm_campaign=1047&utm_source=git)** | New Holland, PA | Hybrid | Sep 27 |
 | **[PIMCO](http://www.pimco.com)** | **[Product Strategy Analyst Intern](https://jobright.ai/jobs/info/66c0d1af1dceb623e279b5fc?utm_campaign=1047&utm_source=git)** | Newport Beach, CA | On Site | Sep 27 |
+| **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Strategic Product Planning](https://jobright.ai/jobs/info/66d9e5e6ed68ac5dce11c30f?utm_campaign=1047&utm_source=git)** | Greensboro, NC | On Site | Sep 27 |
 | **[Veeam Software](http://www.veeam.com)** | **[Product Strategy Intern - Summer 2025](https://jobright.ai/jobs/info/66da3192e9226523c04209d6?utm_campaign=1047&utm_source=git)** | Ohio, United States | On Site | Sep 27 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66bd00b75188d1ea61f84ce3?utm_campaign=1047&utm_source=git)** | Bridgeton, MO | On Site | Sep 27 |
 | **[New York Life Insurance](http://www.newyorklife.com)** | **[Technology Analyst Intern](https://jobright.ai/jobs/info/66a1db7b4a1c47d6614d8a11?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Sep 27 |
 | **[GlobalFoundries](https://ritahazan.id/job/?Kw=spg188)** | **[Product Management Engineering Intern](https://jobright.ai/jobs/info/66e08958cad83f5efb2af24a?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Sep 27 |
+| **[ICIS](http://www.icis.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f74df7b6d706d798086cd2?utm_campaign=1047&utm_source=git)** | Alpharetta, GA | On Site | Sep 26 |
 | **[InComm Payments](https://www.incomm.com)** | **[Product Intern](https://jobright.ai/jobs/info/66f5ec0672db0fb1c0509334?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Remote | Sep 26 |
 | **[Array Technologies](http://arraytechinc.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f293a4f47ced2ee3e2a8f4?utm_campaign=1047&utm_source=git)** | Chandler, AZ | On Site | Sep 26 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Specialist (Intern)](https://jobright.ai/jobs/info/66f5e8dd6d59fcfcf15b8b6f?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Sep 26 |
@@ -137,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[Graco](http://graco.com/in/en/)** | **[IT Product Lifecycle Management Intern](https://jobright.ai/jobs/info/66f30aa541936e4575fc81e1?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | On Site | Sep 24 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Summer Project/Product Management Intern](https://jobright.ai/jobs/info/66f307c47250d4e0ff55eaff?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Sep 24 |
 | ↳ | **[Summer Project/Product Management Intern](https://jobright.ai/jobs/info/66f30cf43075aad823bc7e05?utm_campaign=1047&utm_source=git)** | North Carolina, United States | On Site | Sep 24 |
-| **[Schneider Electric](https://www.se.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/66f2febc064789e310961ce0?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Sep 24 |
-| ↳ | **[Product Owner Intern](https://jobright.ai/jobs/info/66f2febc064789e310961cdf?utm_campaign=1047&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 24 |
+| **[Schneider Electric](https://www.se.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/66f2febc064789e310961cdf?utm_campaign=1047&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 24 |
+| ↳ | **[Product Owner Intern](https://jobright.ai/jobs/info/66f2febc064789e310961ce0?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Sep 24 |
 | ↳ | **[Product Owner Intern](https://jobright.ai/jobs/info/66f2f627366fb1e71ff326c2?utm_campaign=1047&utm_source=git)** | Nashville, TN | On Site | Sep 24 |
 | **[Valvoline Global Operations](https://www.valvolineglobal.com/en/)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f2e29a14f61c7accbfcd1f?utm_campaign=1047&utm_source=git)** | Lexington, KY | On Site | Sep 24 |
 | **[Allegion](https://www.allegion.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66e9d95cc8fd52e19875d40b?utm_campaign=1047&utm_source=git)** | Carmel, IN | On Site | Sep 24 |
