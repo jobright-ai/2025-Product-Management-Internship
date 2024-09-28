@@ -60,13 +60,17 @@ For a complete list, click the following sortable link below:
 | **[Subaru of America](http://www.subaru.com)** | **[Product Planning and Pricing Intern](https://jobright.ai/jobs/info/66f7f9024dfeb7e6e24f1610?utm_campaign=1047&utm_source=git)** | Camden, NJ | Hybrid | Sep 28 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Project/Product Management Intern](https://jobright.ai/jobs/info/66f7f751d20d38ccd64a80e1?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Sep 28 |
 | ↳ | **[Project/Product Management Intern](https://jobright.ai/jobs/info/66f7f751d20d38ccd64a8161?utm_campaign=1047&utm_source=git)** | North Carolina, United States | On Site | Sep 28 |
+| **[Nike](http://www.nike.com)** | **[Product Management Graduate Internship](https://jobright.ai/jobs/info/66e598a6d72748fd9fb876b3?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Sep 28 |
+| **[American Express](http://www.americanexpress.com)** | **[Product Manager Internship](https://jobright.ai/jobs/info/66db791dbf940017c209c69f?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Sep 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Global Product Solutions and Operations Intern](https://jobright.ai/jobs/info/66e2fecad3df2cf8909fe2cf?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Sep 28 |
 | **[Haleon](http://www.haleon.com/)** | **[2025 Summer Internship: Product Development](https://jobright.ai/jobs/info/66f7e19621002c9db238f976?utm_campaign=1047&utm_source=git)** | Richmond, VA | Hybrid | Sep 28 |
 | ↳ | **[Co-Op, Product Development – Digestive Health](https://jobright.ai/jobs/info/66f7e19621002c9db238f978?utm_campaign=1047&utm_source=git)** | Richmond, VA | Hybrid | Sep 28 |
+| **[ServiceNow](http://www.servicenow.com)** | **[Sr. Product Manager Intern](https://jobright.ai/jobs/info/66e19644123fa518c952ceac?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Sep 28 |
 | **[Hudl](http://www.hudl.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/66bfca99f4b694fd4c8ce5d9?utm_campaign=1047&utm_source=git)** | Lincoln, NE | On Site | Sep 28 |
 | **[Alfa Laval](http://www.alfalaval.com)** | **[Product & Applications Intern](https://jobright.ai/jobs/info/66dbdc24718ec9e6e99fc45c?utm_campaign=1047&utm_source=git)** | Kenosha, WI | On Site | Sep 28 |
-| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Assoc Billing Solutions Analyst](https://jobright.ai/jobs/info/66beedf075eb11c627265087?utm_campaign=1047&utm_source=git)** | Maryland Heights, MO | On Site | Sep 28 |
+| **[GE Healthcare](http://www.gehealthcare.com)** | **[Surgery Product Management Intern](https://jobright.ai/jobs/info/66db920d458ebadcc43eb1ef?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Sep 28 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/66f4c2d28f295d60a286b8df?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Sep 28 |
+| **[Watts Water Technologies](https://www.watts.com)** | **[Product Management Hydronic Solutions Intern Summer 2024](https://jobright.ai/jobs/info/66a4e0facefb4ca8819858e5?utm_campaign=1047&utm_source=git)** | Blauvelt, NY | On Site | Sep 28 |
 | **[Enterprise Holdings](http://www.enterpriseholdings.com)** | **[Product Management Internship - Summer 2025](https://jobright.ai/jobs/info/66f7ce366b20b612b72cc231?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Sep 28 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[Pricing Strategy Analyst](https://jobright.ai/jobs/info/66db940858549de00a6513ae?utm_campaign=1047&utm_source=git)** | West Fargo, ND | On Site | Sep 28 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Pricing Analytics & Product Development](https://jobright.ai/jobs/info/66db9df2156c53b1d2d4ab44?utm_campaign=1047&utm_source=git)** | Fort Worth, TX | Hybrid | Sep 28 |
@@ -78,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Pratt & Miller Engineering](http://prattmiller.com)** | **[Product Intern - Summer 2025](https://jobright.ai/jobs/info/66f71cf59f4cd6681087fefe?utm_campaign=1047&utm_source=git)** | New Hudson, MI | On Site | Sep 27 |
 | **[JLG Industries](http://www.jlg.com/en)** | **[Aftermarket Product Management Intern](https://jobright.ai/jobs/info/66f71cf59f4cd66810880155?utm_campaign=1047&utm_source=git)** | McCandless, PA | Hybrid | Sep 27 |
 | **[Raven Industries](http://ravenind.com)** | **[Product Development Purchasing Intern](https://jobright.ai/jobs/info/66f7137dbb692bf70848ab22?utm_campaign=1047&utm_source=git)** | New Holland, PA | On Site | Sep 27 |
-| **[Subaru of America](http://www.subaru.com)** | **[Product Planning and Pricing Intern](https://jobright.ai/jobs/info/66f7098566c24823f625c9bb?utm_campaign=1047&utm_source=git)** | Camden, NJ | On Site | Sep 27 |
 | **[Oatey Co.](https://www.oatey.com//)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f6fa4c7c3c1d6f7b252e97?utm_campaign=1047&utm_source=git)** | Cleveland, OH | Hybrid | Sep 27 |
 | **[Harting](https://www.harting.com/)** | **[Product Development Intern (Summer 2025)](https://jobright.ai/jobs/info/66f705d6a45ed7a3ac072f6d?utm_campaign=1047&utm_source=git)** | Illinois, United States | On Site | Sep 27 |
 | ↳ | **[Product Manager (Engineering) Intern](https://jobright.ai/jobs/info/66f705d6a45ed7a3ac072f76?utm_campaign=1047&utm_source=git)** | Illinois, United States | On Site | Sep 27 |
@@ -107,6 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Southwire Company](http://southwire.com)** | **[Product Management Internship](https://jobright.ai/jobs/info/66f5b993bca33ea7379ac8bb?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Remote | Sep 26 |
 | **[Allied Solutions](http://www.alliedsolutions.net/)** | **[Product Intern](https://jobright.ai/jobs/info/66f5cc2d4c470b3ad547bdff?utm_campaign=1047&utm_source=git)** | Carmel, IN | On Site | Sep 26 |
 | **[Belden](http://belden.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f59e80ef77cf175a131008?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | On Site | Sep 26 |
+| **[Vermeer](https://borestore.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/66f527b8d940b05a328438ad?utm_campaign=1047&utm_source=git)** | Pella, IA | On Site | Sep 26 |
 | **[Nike](http://www.nike.com)** | **[Footwear Product Creation Undergraduate Internship](https://jobright.ai/jobs/info/66e045ab305cdde0de47e2d0?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Sep 26 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Product Line Data Analyst](https://jobright.ai/jobs/info/66d94017d32d592a90abfa11?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Web Ads and Open-Loop E-Commerce)](https://jobright.ai/jobs/info/66e18521bb7c5c770a2b0ffe?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 26 |
@@ -115,7 +119,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Platform Product Manager Intern](https://jobright.ai/jobs/info/66d8e3ed027e5a450863fdb9?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Sep 26 |
 | **[Medline Industries](http://www.medline.com/home.jsp)** | **[Product Management MBA Leadership Track Internship](https://jobright.ai/jobs/info/66d8c332bc5c2e125e036645?utm_campaign=1047&utm_source=git)** | Northfield, IL | On Site | Sep 26 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Technical Product Management](https://jobright.ai/jobs/info/66d94017d32d592a90abf9ef?utm_campaign=1047&utm_source=git)** | Folsom, CA | On Site | Sep 26 |
-| **[Vermeer](https://borestore.com/)** | **[Product Specialist Intern](https://jobright.ai/jobs/info/66f527b8d940b05a328438ad?utm_campaign=1047&utm_source=git)** | Pella, IA | On Site | Sep 26 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f52577f2e1c48414b563d9?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Sep 26 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/66f52577f2e1c48414b563e2?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Sep 26 |
 | ↳ | **[International Associate Product Manager](https://jobright.ai/jobs/info/66f51aaad85f61318e98ab4b?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Sep 26 |
@@ -149,12 +152,9 @@ For a complete list, click the following sortable link below:
 | **[UL Solutions](https://www.ul.com/solutions)** | **[Product Management Intern](https://jobright.ai/jobs/info/66d861e1ad825962066f4d21?utm_campaign=1047&utm_source=git)** | Northbrook, IL | On Site | Sep 25 |
 | **[Red Hat](http://www.redhat.com)** | **[Product Management Internship](https://jobright.ai/jobs/info/66d7b516b8c80238be3c39b2?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Sep 25 |
 | **[Trimble](http://www.trimble.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f7c003aa62783f5501b717?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Sep 25 |
-| **[Capital One](http://www.capitalone.com)** | **[Product Development Internship](https://jobright.ai/jobs/info/66f7c09909e7e35c42b18f5b?utm_campaign=1047&utm_source=git)** | Plano, TX | Hybrid | Sep 24 |
 | **[Roche](http://www.roche.com)** | **[Spring Intern - Product Development Data Sciences](https://jobright.ai/jobs/info/66f7c9dc8a79f02a1a943ace?utm_campaign=1047&utm_source=git)** | South San Francisco | Hybrid | Sep 24 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[Treasury Services Product Strategy Intern - Summer 2025](https://jobright.ai/jobs/info/66f4a607426ca39db162af10?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Sep 24 |
 | **[Federal Reserve Bank](http://www.frbsf.org)** | **[Treasury Services Product Strategy Intern - Summer 2025](https://jobright.ai/jobs/info/66f7bf20b2a26c8af0e0a650?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Sep 24 |
 | **[B&G Foods](http://bgfoods.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/66d7a5b071815312bf49754a?utm_campaign=1047&utm_source=git)** | Ankeny, IA | On Site | Sep 24 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Product Engineer, Applications Engineering](https://jobright.ai/jobs/info/66f338880781054364dcf27b?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Sep 24 |
-| **[MKS Instruments](http://www.mksinst.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f33217bac275ae42b3b453?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Sep 24 |
-| **[CIBC Bank](https://us.cibc.com/en/home.html)** | **[Frontline Tools & Enablement - 2025 Summer Intern](https://jobright.ai/jobs/info/66f31925a8ea7960a33aeeba?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
