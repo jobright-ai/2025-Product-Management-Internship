@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[MKS Instruments](http://www.mksinst.com)** | **[Technical Product Specialist Intern](https://jobright.ai/jobs/info/66f97a273f8d1ec9b39be3fe?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Sep 29 |
+| **[Nissan Motor](https://www.nissan-global.com/EN/)** | **[Product Planning Intern](https://jobright.ai/jobs/info/66fa14e046ad2538911fba71?utm_campaign=1047&utm_source=git)** | Franklin, TN | On Site | Sep 29 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Digital Platforms Development & Product Ownership](https://jobright.ai/jobs/info/66f8dbb93e5bdd46110a1206?utm_campaign=1047&utm_source=git)** | Newtown Square, PA | Hybrid | Sep 28 |
 | **[Subaru of America](http://www.subaru.com)** | **[Product Planning and Pricing Intern](https://jobright.ai/jobs/info/66f7f9024dfeb7e6e24f1610?utm_campaign=1047&utm_source=git)** | Camden, NJ | Hybrid | Sep 28 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Project/Product Management Intern](https://jobright.ai/jobs/info/66f7f751d20d38ccd64a80e1?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Sep 28 |
@@ -79,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Bobcat Company](https://www.bobcat.com)** | **[Pricing Strategy Analyst](https://jobright.ai/jobs/info/66db940858549de00a6513ae?utm_campaign=1047&utm_source=git)** | West Fargo, ND | On Site | Sep 28 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Pricing Analytics & Product Development](https://jobright.ai/jobs/info/66db9df2156c53b1d2d4ab44?utm_campaign=1047&utm_source=git)** | Fort Worth, TX | Hybrid | Sep 28 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f7f9024dfeb7e6e24f17c5?utm_campaign=1047&utm_source=git)** | Alpharetta, GA | On Site | Sep 27 |
+| **[JLG Industries](http://www.jlg.com/en)** | **[Aftermarket Product Management Intern](https://jobright.ai/jobs/info/66fa139855c2bc0a5c86d6d3?utm_campaign=1047&utm_source=git)** | McConnellsburg, PA | On Site | Sep 27 |
 | **[Berkley Alternative Markets Tech](https://berkleyalternativemarkets.tech)** | **[Product Management Analyst Intern](https://jobright.ai/jobs/info/66d8cec9b6f95c26f5707505?utm_campaign=1047&utm_source=git)** | Manassas, VA | Hybrid | Sep 27 |
 | **[CNH Industrial](http://www.cnhindustrial.com)** | **[Product Development Purchasing Intern](https://jobright.ai/jobs/info/66f7ae334b7b1d45c8791ba9?utm_campaign=1047&utm_source=git)** | New Holland, PA | On Site | Sep 27 |
 | **[Berkley Alternative Markets Tech](https://berkleyalternativemarkets.tech)** | **[Product Management Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/66ce857f2ff4ca2e90d7730b?utm_campaign=1047&utm_source=git)** | Manassas, VA | Hybrid | Sep 27 |
@@ -102,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[New York Life Insurance](http://www.newyorklife.com)** | **[Technology Analyst Intern](https://jobright.ai/jobs/info/66a1db7b4a1c47d6614d8a11?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Sep 27 |
 | **[GlobalFoundries](https://ritahazan.id/job/?Kw=spg188)** | **[Product Management Engineering Intern](https://jobright.ai/jobs/info/66e08958cad83f5efb2af24a?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Sep 27 |
 | **[Nissan Motor](https://www.nissan-global.com/EN/)** | **[Product Planning Intern](https://jobright.ai/jobs/info/66f7b983e8d7b065e849f75d?utm_campaign=1047&utm_source=git)** | Franklin, Tennessee - United States of America | Hybrid | Sep 26 |
+| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66fa013dfe02d4341e4e38df?utm_campaign=1047&utm_source=git)** | Alpharetta, GA | On Site | Sep 26 |
 | **[ICIS](http://www.icis.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f74df7b6d706d798086cd2?utm_campaign=1047&utm_source=git)** | Alpharetta, GA | On Site | Sep 26 |
 | **[InComm Payments](https://www.incomm.com)** | **[Product Intern](https://jobright.ai/jobs/info/66f5ec0672db0fb1c0509334?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Remote | Sep 26 |
 | **[Array Technologies](http://arraytechinc.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f293a4f47ced2ee3e2a8f4?utm_campaign=1047&utm_source=git)** | Chandler, AZ | On Site | Sep 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Roche](http://www.roche.com)** | **[Spring Intern - Product Development Data Sciences](https://jobright.ai/jobs/info/66f7c9dc8a79f02a1a943ace?utm_campaign=1047&utm_source=git)** | South San Francisco | Hybrid | Sep 24 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[Treasury Services Product Strategy Intern - Summer 2025](https://jobright.ai/jobs/info/66f4a607426ca39db162af10?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Sep 24 |
 | **[Federal Reserve Bank](http://www.frbsf.org)** | **[Treasury Services Product Strategy Intern - Summer 2025](https://jobright.ai/jobs/info/66f7bf20b2a26c8af0e0a650?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Sep 24 |
-| **[B&G Foods](http://bgfoods.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/66d7a5b071815312bf49754a?utm_campaign=1047&utm_source=git)** | Ankeny, IA | On Site | Sep 24 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Product Engineer, Applications Engineering](https://jobright.ai/jobs/info/66f338880781054364dcf27b?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Sep 24 |
-| **[MKS Instruments](http://www.mksinst.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f33217bac275ae42b3b453?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
