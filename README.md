@@ -141,9 +141,9 @@ For a complete list, click the following sortable link below:
 | **[Zebra Technologies](https://www.zebra.com)** | **[2025 Summer Internship (US) - Product Management Operations](https://jobright.ai/jobs/info/66fb464928cb132ed4d6e056?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Sep 30 |
 | **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern- Product Manager](https://jobright.ai/jobs/info/66fc87d738bc65a0d3ca1a2b?utm_campaign=1047&utm_source=git)** | Midvale, UT | Hybrid | Sep 30 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Mortgage Product Origination Intern](https://jobright.ai/jobs/info/66fb4f5581aaaa635d8dfb53?utm_campaign=1047&utm_source=git)** | Pasadena, CA | On Site | Sep 30 |
-| **[Capital One](http://www.capitalone.com)** | **[MBA Product Intern - Summer 2025](https://jobright.ai/jobs/info/66fc402bf4bd81aab636b2c0?utm_campaign=1047&utm_source=git)** | McLean, VA | Hybrid | Sep 30 |
-| ↳ | **[MBA Product Intern - Summer 2025](https://jobright.ai/jobs/info/66fc402bf4bd81aab636b2be?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Sep 30 |
+| **[Capital One](http://www.capitalone.com)** | **[MBA Product Intern - Summer 2025](https://jobright.ai/jobs/info/66fc402bf4bd81aab636b2be?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Sep 30 |
 | ↳ | **[MBA Product Intern - Summer 2025](https://jobright.ai/jobs/info/66fc402bf4bd81aab636b1d3?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Sep 30 |
+| ↳ | **[MBA Product Intern - Summer 2025](https://jobright.ai/jobs/info/66fc402bf4bd81aab636b2c0?utm_campaign=1047&utm_source=git)** | McLean, VA | Hybrid | Sep 30 |
 | ↳ | **[MBA Product Intern - Summer 2025](https://jobright.ai/jobs/info/66fc402bf4bd81aab636b2bf?utm_campaign=1047&utm_source=git)** | Richmond, VA | Hybrid | Sep 30 |
 | **[Ameriprise Financial Services, LLC](https://www.ameriprise.com/)** | **[Products & Business Solutions Intern](https://jobright.ai/jobs/info/66fc6dddfd25c3fdaeff5489?utm_campaign=1047&utm_source=git)** | Minneapolis, Minnesota | Hybrid | Sep 30 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Product Management Intern – Summer 2025](https://jobright.ai/jobs/info/66fb15b16ee82867c5bca300?utm_campaign=1047&utm_source=git)** | Culver City, CA | On Site | Sep 30 |
