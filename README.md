@@ -132,9 +132,7 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson](http://www.jnj.com)** | **[VC Product Management Co op](https://jobright.ai/jobs/info/66fc7eb45d7ab3923c7e19f1?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Oct 01 |
 | **[Fabric Cryptography](https://www.fabriccryptography.com/)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/66fc778d98d9562f6f4eefb1?utm_campaign=1047&utm_source=git)** | North Kingstown, RI | On Site | Oct 01 |
 | **[REGENT](https://www.regentcraft.com)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/66fc663d43e20a3bbb9e6148?utm_campaign=1047&utm_source=git)** | North Kingstown, RI | On Site | Oct 01 |
-| **[PitchBook](http://www.pitchbook.com)** | **[Product Management, Data Technology Summer Intern](https://jobright.ai/jobs/info/66fc48abbe009a6b8717a193?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Oct 01 |
-| ↳ | **[Product Management, Research Experience Summer Intern](https://jobright.ai/jobs/info/66fc48abbe009a6b8717a195?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Oct 01 |
+| **[PitchBook](http://www.pitchbook.com)** | **[Product Management, Research Experience Summer Intern](https://jobright.ai/jobs/info/66fc48abbe009a6b8717a195?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Oct 01 |
+| ↳ | **[Product Management, Data Technology Summer Intern](https://jobright.ai/jobs/info/66fc48abbe009a6b8717a193?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Oct 01 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2025 Summer Internship (US) - Product Management](https://jobright.ai/jobs/info/66fc450f354781581d5ca4a6?utm_campaign=1047&utm_source=git)** | Holtsville, NY | On Site | Oct 01 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Global Pricing Intern](https://jobright.ai/jobs/info/66fbb1adacb7c416474f920b?utm_campaign=1047&utm_source=git)** | Chippewa Falls, WI | On Site | Oct 01 |
-| **[adidas](https://www.adidas-group.com)** | **[2025 US Undergraduate Internship - Product Content, Global Team Sports](https://jobright.ai/jobs/info/66fb8997debeecd947cf32a6?utm_campaign=1047&utm_source=git)** | Portland, OR | Hybrid | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
