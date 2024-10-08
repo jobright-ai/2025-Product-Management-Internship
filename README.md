@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wing](https://www.wing.com/)** | **[Product Intern](https://jobright.ai/jobs/info/6704f48f760e282825d6a4db?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Oct 08 |
 | **[Genentech](http://gene.com)** | **[2025 Spring Intern - Product Development Data Sciences](https://jobright.ai/jobs/info/67049f7e081d65b3241c38ea?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Oct 07 |
 | ↳ | **[2025 Spring Intern - Product Development Digital Strategy and Enablement (PD-DSE)](https://jobright.ai/jobs/info/67049f7e081d65b3241c38c2?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Oct 07 |
 | **[ISN](http://www.isn.com)** | **[Product Owner Intern - Summer 2025](https://jobright.ai/jobs/info/670496df9a96b1eaba91a34c?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Oct 07 |
@@ -144,7 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Spectrum Enterprise](http://enterprise.spectrum.com)** | **[2025 Summer Intern: Product Analyst](https://jobright.ai/jobs/info/66fcaa7e122f00f086f6b9c7?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Oct 01 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/66d5f37e39e9e5b55fc5e609?utm_campaign=1047&utm_source=git)** | Carlisle, PA | On Site | Oct 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Product & Franchise Strategy Intern, Spring 2025](https://jobright.ai/jobs/info/66fde5ce3f6855002633cb4a?utm_campaign=1047&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Oct 01 |
-| **[Itron, Inc.](http://www.itron.com)** | **[Intern - Product Development (Summer 2025)](https://jobright.ai/jobs/info/66fd15cab3f06ea71b8100c2?utm_campaign=1047&utm_source=git)** | United States of America, Washington, Liberty Lake | Hybrid | Oct 01 |
+| **[Itron, Inc.](http://www.itron.com)** | **[Intern - Product Development (Summer 2025)](https://jobright.ai/jobs/info/66fd15cab3f06ea71b8100cc?utm_campaign=1047&utm_source=git)** | United States of America, Washington, Liberty Lake | Hybrid | Oct 01 |
 | **[Delta Air Lines](http://www.delta.com)** | **[Intern, In-Flight Services, Digital Technology and Strategy (Summer 2025)](https://jobright.ai/jobs/info/66fc95f9e8f785e53b59c37d?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Oct 01 |
 | **[PIMCO](http://www.pimco.com)** | **[2025 MBA Summer Intern – Product Strategist - Client Solutions & Analytics, US](https://jobright.ai/jobs/info/66fc85c15afbd24c089a2283?utm_campaign=1047&utm_source=git)** | Newport Beach, CA | On Site | Oct 01 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[VC Product Management Co op](https://jobright.ai/jobs/info/66fc7eb45d7ab3923c7e19f1?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Oct 01 |
