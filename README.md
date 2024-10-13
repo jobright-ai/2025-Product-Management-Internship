@@ -61,6 +61,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/670a837e6bc74641fa462070?utm_campaign=1047&utm_source=git)** | Brisbane, CA | Hybrid | Oct 12 |
 | ↳ | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/670a837e6bc74641fa462071?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Oct 12 |
 | ↳ | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/670a837e6bc74641fa462072?utm_campaign=1047&utm_source=git)** | Cambridge, MA | Hybrid | Oct 12 |
+| ↳ | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/670b6341f60d8185d225ff7d?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Oct 12 |
 | **[Altruist](https://altruist.com)** | **[Product Management Intern - Summer 2025](https://jobright.ai/jobs/info/66edf14c2e01da21219438e1?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 12 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Non- IT Product Management & Optimization Intern - Winter/Spring Recruitment (Remote)](https://jobright.ai/jobs/info/670a6a1756399a58564da307?utm_campaign=1047&utm_source=git)** | Owings Mills, MD | On Site | Oct 12 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Product Architecture](https://jobright.ai/jobs/info/66d1529142bbcf00c99bf6e2?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 12 |
@@ -78,13 +79,13 @@ For a complete list, click the following sortable link below:
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 - Slack PhD User Research Intern](https://jobright.ai/jobs/info/6709b6553401225e44591151?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Oct 11 |
 | **[TE Connectivity](http://www.te.com)** | **[Product Management (Intern)](https://jobright.ai/jobs/info/67099d000b508e871f3932e3?utm_campaign=1047&utm_source=git)** | Fuquay-Varina, NC | On Site | Oct 11 |
 | **[RayzeBio](http://rayzebio.com)** | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/6709d0eb0cdc3e9f80770cc1?utm_campaign=1047&utm_source=git)** | Brisbane - CA - US | Hybrid | Oct 11 |
-| ↳ | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/6709d0eb0cdc3e9f80770cbd?utm_campaign=1047&utm_source=git)** | San Diego - CA - US | Hybrid | Oct 11 |
-| ↳ | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/6709d0eb0cdc3e9f80770cc2?utm_campaign=1047&utm_source=git)** | Princeton - NJ - US | Hybrid | Oct 11 |
 | ↳ | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/6709d0eb0cdc3e9f80770cbf?utm_campaign=1047&utm_source=git)** | Cambridge Crossing - MA - US | Hybrid | Oct 11 |
 | ↳ | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/6709d0eb0cdc3e9f80770cbe?utm_campaign=1047&utm_source=git)** | Seattle - WA - US | Hybrid | Oct 11 |
+| ↳ | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/6709d0eb0cdc3e9f80770cbd?utm_campaign=1047&utm_source=git)** | San Diego - CA - US | Hybrid | Oct 11 |
+| ↳ | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/6709d0eb0cdc3e9f80770cc2?utm_campaign=1047&utm_source=git)** | Princeton - NJ - US | Hybrid | Oct 11 |
 | **[Nestlé](https://www.nestle.com)** | **[Product Development Internship- Summer 2025](https://jobright.ai/jobs/info/66ecb6fea6ad1a9074950d5a?utm_campaign=1047&utm_source=git)** | Solon, OH | On Site | Oct 11 |
-| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2025 Intern - Life/Health/IPS Strategy and Experience Analyst](https://jobright.ai/jobs/info/6709871d9b33e34ba8a5e148?utm_campaign=1047&utm_source=git)** | Richardson, TX | Hybrid | Oct 11 |
-| ↳ | **[Summer 2025 Intern - Life/Health/IPS Strategy and Experience Analyst](https://jobright.ai/jobs/info/6709871d9b33e34ba8a5e149?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Oct 11 |
+| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2025 Intern - Life/Health/IPS Strategy and Experience Analyst](https://jobright.ai/jobs/info/6709871d9b33e34ba8a5e149?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Oct 11 |
+| ↳ | **[Summer 2025 Intern - Life/Health/IPS Strategy and Experience Analyst](https://jobright.ai/jobs/info/6709871d9b33e34ba8a5e148?utm_campaign=1047&utm_source=git)** | Richardson, TX | Hybrid | Oct 11 |
 | ↳ | **[Summer 2025 Intern - Life/Health/IPS Strategy and Experience Analyst](https://jobright.ai/jobs/info/67097184558f05db5cb3696e?utm_campaign=1047&utm_source=git)** | Bloomington, IL | Hybrid | Oct 11 |
 | ↳ | **[Summer 2025 Intern - Life/Health/IPS Strategy and Experience Analyst](https://jobright.ai/jobs/info/67097184558f05db5cb36da1?utm_campaign=1047&utm_source=git)** | Tempe, AZ | Hybrid | Oct 11 |
 | **[Panduit](http://www.panduit.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6709d0360cdc3e9f8077096d?utm_campaign=1047&utm_source=git)** | USA IL Tinley Park WHQ | On Site | Oct 11 |
@@ -97,7 +98,7 @@ For a complete list, click the following sortable link below:
 | **[JPMorgan Chase & Co.](http://www.jpmorganchase.com)** | **[2025 Chase Leadership Development Program - Summer Analyst](https://jobright.ai/jobs/info/66d85e52cd856d06f7dd31e8?utm_campaign=1047&utm_source=git)** | Columbus, OH | On Site | Oct 11 |
 | **[Nestlé](https://www.nestle.com)** | **[Product Development Internship- Summer 2025](https://jobright.ai/jobs/info/66ecb6fea6ad1a9074950d85?utm_campaign=1047&utm_source=git)** | Arlington, VA | On Site | Oct 11 |
 | **[Dawn Foods Global](https://www.dawnfoods.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/66ecde84a306756989d30f32?utm_campaign=1047&utm_source=git)** | Jackson, MI | On Site | Oct 11 |
-| **[Exact Sciences](https://www.exactsciences.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/6708f69d1bd4dcde28d4ba86?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Oct 11 |
+| **[Exact Sciences](https://www.exactsciences.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/6708f69d1bd4dcde28d4ba91?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Oct 11 |
 | ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/6708e77050e776e23656d6b8?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Oct 11 |
 | **[USAA](https://www.usaa.com)** | **[Product Management Analyst Intern](https://jobright.ai/jobs/info/66cfd990b8d084095d88eddc?utm_campaign=1047&utm_source=git)** | San Antonio, TX | Hybrid | Oct 10 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Product Management Intern - Imaging & Resection](https://jobright.ai/jobs/info/67089131869f7b2c761bbe6d?utm_campaign=1047&utm_source=git)** | Naples, FL | On Site | Oct 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2025 Merchandise Planning Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/6705c1f0a7d8864c74d0b412?utm_campaign=1047&utm_source=git)** | Reynoldsburg, OH | Hybrid | Oct 08 |
 | **[JLG Industries](http://www.jlg.com/en)** | **[Product Management Intern](https://jobright.ai/jobs/info/67068c7bae78c84ffa9d4cae?utm_campaign=1047&utm_source=git)** | Hagerstown, MD | On Site | Oct 08 |
 | **[Duolingo](https://www.duolingo.com)** | **[Associate Product Manager, Thrive Intern](https://jobright.ai/jobs/info/6705974ae07b0853b87e34a1?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Oct 08 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Product Management Masters Internship (Summer 2025)](https://jobright.ai/jobs/info/66d8729db382dfc3f0ce1040?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
