@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Token Metrics](http://tokenmetrics.com)** | **[Crypto SaaS Product Manager Intern (Pakistan-Remote)](https://jobright.ai/jobs/info/670da04c3997d9a90329679b?utm_campaign=1047&utm_source=git)** | Oregon, United States | On Site | Oct 14 |
+| **[Nike](http://www.nike.com)** | **[NIKE, Inc. Footwear Product Line Management Undergraduate Internship](https://jobright.ai/jobs/info/670d8f53acab145e8c1e8c4c?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Oct 14 |
 | **[Appian Corporation](http://www.appian.com)** | **[Business Product Management Intern](https://jobright.ai/jobs/info/670d643851e5703413b75ad7?utm_campaign=1047&utm_source=git)** | McLean, VA | Hybrid | Oct 14 |
 | ↳ | **[Business Product Management Intern](https://jobright.ai/jobs/info/670d2eb003f084b71f12fb54?utm_campaign=1047&utm_source=git)** | McLean, Virginia | On Site | Oct 14 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Spring 2025 Product Development Internship](https://jobright.ai/jobs/info/670d3faf4fb3b1444cfdf46f?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 14 |
@@ -89,14 +91,15 @@ For a complete list, click the following sortable link below:
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 - Slack PhD User Research Intern](https://jobright.ai/jobs/info/6709b6553401225e44591151?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Oct 11 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Management: Internship Opportunities – CTJ – Top Secret](https://jobright.ai/jobs/info/66ec99eccb3cad2d53acf993?utm_campaign=1047&utm_source=git)** | Reston, VA | On Site | Oct 11 |
 | **[TE Connectivity](http://www.te.com)** | **[Product Management (Intern)](https://jobright.ai/jobs/info/67099d000b508e871f3932e3?utm_campaign=1047&utm_source=git)** | Fuquay-Varina, NC | On Site | Oct 11 |
-| **[RayzeBio](http://rayzebio.com)** | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/6709d0eb0cdc3e9f80770cc1?utm_campaign=1047&utm_source=git)** | Brisbane - CA - US | Hybrid | Oct 11 |
-| ↳ | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/6709d0eb0cdc3e9f80770cbf?utm_campaign=1047&utm_source=git)** | Cambridge Crossing - MA - US | Hybrid | Oct 11 |
+| **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[New Product Introduction Sourcing Co-Op](https://jobright.ai/jobs/info/66d14c9e2959ed888af2621a?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Oct 11 |
+| **[RayzeBio](http://rayzebio.com)** | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/6709d0eb0cdc3e9f80770cbf?utm_campaign=1047&utm_source=git)** | Cambridge Crossing - MA - US | Hybrid | Oct 11 |
 | ↳ | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/6709d0eb0cdc3e9f80770cbd?utm_campaign=1047&utm_source=git)** | San Diego - CA - US | Hybrid | Oct 11 |
-| ↳ | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/6709d0eb0cdc3e9f80770cbe?utm_campaign=1047&utm_source=git)** | Seattle - WA - US | Hybrid | Oct 11 |
 | ↳ | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/6709d0eb0cdc3e9f80770cc2?utm_campaign=1047&utm_source=git)** | Princeton - NJ - US | Hybrid | Oct 11 |
+| ↳ | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/6709d0eb0cdc3e9f80770cc1?utm_campaign=1047&utm_source=git)** | Brisbane - CA - US | Hybrid | Oct 11 |
+| ↳ | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/6709d0eb0cdc3e9f80770cbe?utm_campaign=1047&utm_source=git)** | Seattle - WA - US | Hybrid | Oct 11 |
 | **[Nestlé](https://www.nestle.com)** | **[Product Development Internship- Summer 2025](https://jobright.ai/jobs/info/66ecb6fea6ad1a9074950d5a?utm_campaign=1047&utm_source=git)** | Solon, OH | On Site | Oct 11 |
-| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2025 Intern - Life/Health/IPS Strategy and Experience Analyst](https://jobright.ai/jobs/info/6709871d9b33e34ba8a5e148?utm_campaign=1047&utm_source=git)** | Richardson, TX | Hybrid | Oct 11 |
-| ↳ | **[Summer 2025 Intern - Life/Health/IPS Strategy and Experience Analyst](https://jobright.ai/jobs/info/6709871d9b33e34ba8a5e149?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Oct 11 |
+| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2025 Intern - Life/Health/IPS Strategy and Experience Analyst](https://jobright.ai/jobs/info/6709871d9b33e34ba8a5e149?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Oct 11 |
+| ↳ | **[Summer 2025 Intern - Life/Health/IPS Strategy and Experience Analyst](https://jobright.ai/jobs/info/6709871d9b33e34ba8a5e148?utm_campaign=1047&utm_source=git)** | Richardson, TX | Hybrid | Oct 11 |
 | ↳ | **[Summer 2025 Intern - Life/Health/IPS Strategy and Experience Analyst](https://jobright.ai/jobs/info/67097184558f05db5cb3696e?utm_campaign=1047&utm_source=git)** | Bloomington, IL | Hybrid | Oct 11 |
 | ↳ | **[Summer 2025 Intern - Life/Health/IPS Strategy and Experience Analyst](https://jobright.ai/jobs/info/67097184558f05db5cb36da1?utm_campaign=1047&utm_source=git)** | Tempe, AZ | Hybrid | Oct 11 |
 | **[Panduit](http://www.panduit.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6709d0360cdc3e9f8077096d?utm_campaign=1047&utm_source=git)** | USA IL Tinley Park WHQ | On Site | Oct 11 |
@@ -139,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[CLAAS](https://www.claas.de/)** | **[Product Management Intern - Summer 2025](https://jobright.ai/jobs/info/67077e72abfe9c1e34e77c66?utm_campaign=1047&utm_source=git)** | Omaha, NE | On Site | Oct 09 |
 | **[Watts Water Technologies](https://www.watts.com)** | **[Product Management Intern, Summer 2025](https://jobright.ai/jobs/info/6706d61d081e4d9671be4212?utm_campaign=1047&utm_source=git)** | Menomonee Falls, WI | On Site | Oct 09 |
 | **[Southwire Company](http://southwire.com)** | **[Product Management Internship](https://jobright.ai/jobs/info/66f5b993bca33ea7379ac8bb?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Oct 09 |
-| **[Palantir Technologies](http://www.palantir.com)** | **[Deployment Strategist, Internship](https://jobright.ai/jobs/info/6706dbff4377d7a6de4f9c4b?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 09 |
 | **[Thermo Fisher Scientific](http://www.thermofisher.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6701ff0174d6e41d856a86ca?utm_campaign=1047&utm_source=git)** | Waltham, MA | On Site | Oct 09 |
 | **[InComm Payments](https://www.incomm.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6706951192969c8046d2a1d7?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Oct 09 |
 | **[W. R. Berkley Corporation](https://www.berkley.com/)** | **[Product Management Intern -Summer 2025](https://jobright.ai/jobs/info/67069cbb5f348e404d4f38ef?utm_campaign=1047&utm_source=git)** | Manassas, VA | On Site | Oct 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Internship (Summer 2025)](https://jobright.ai/jobs/info/66dee80d79c42f614fb0d89b?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Oct 09 |
 | **[MTS Systems Corporation](http://www.mts.com)** | **[Ground Vehicles Product Management/Marketing Intern](https://jobright.ai/jobs/info/66ea112c3b5906969d7627f4?utm_campaign=1047&utm_source=git)** | Minnesota, United States | On Site | Oct 09 |
 | **[TD SYNNEX US](http://www.synnexcorp.com/)** | **[Summer 2025 Internship Program / Product Management](https://jobright.ai/jobs/info/66cce5ea3b3df4ad5d3e8d64?utm_campaign=1047&utm_source=git)** | Greenville, SC | On Site | Oct 09 |
-| ↳ | **[Summer 2025 Internship Program / Product Management](https://jobright.ai/jobs/info/66ccec1b94b421200ea004a7?utm_campaign=1047&utm_source=git)** | Clearwater, FL | On Site | Oct 09 |
-| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Internet Product](https://jobright.ai/jobs/info/66ea5db13d027204c7955687?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | Hybrid | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
