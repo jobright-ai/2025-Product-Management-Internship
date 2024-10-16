@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Grid Automation Product Management Intern - Spring-Summer 2025](https://jobright.ai/jobs/info/670f2d58ed92b3068fc2605b?utm_campaign=1047&utm_source=git)** | Rochester | On Site | Oct 15 |
+| **[Zebra Technologies](https://www.zebra.com)** | **[2025 Summer Internship (US) - Technical Product Manager](https://jobright.ai/jobs/info/670f32186444d5cca899f744?utm_campaign=1047&utm_source=git)** | Holtsville, NY | Hybrid | Oct 15 |
+| **[IBM](http://www.ibm.com)** | **[Product Management Intern: 2025](https://jobright.ai/jobs/info/670f2a7d548a00f16d831fa8?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Oct 15 |
+| **[Greystone](https://www.greystone.com)** | **[Summer 2025: Product Management Internship](https://jobright.ai/jobs/info/670f25a60b00d59b34c4ec73?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 15 |
+| **[Roblox](https://corp.roblox.com)** | **[[Summer 2025] Product Management - Intern](https://jobright.ai/jobs/info/670f1a6a19e8647631288d8a?utm_campaign=1047&utm_source=git)** | San Mateo, CA | Hybrid | Oct 15 |
+| **[Quartz Health Solutions](https://quartzbenefits.com/)** | **[Intern - Product Management](https://jobright.ai/jobs/info/670f25a60b00d59b34c4f0ff?utm_campaign=1047&utm_source=git)** | Madison, WI | Hybrid | Oct 15 |
 | **[REGENT](https://www.regentcraft.com)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/670f0501f421c5c40d2edaf8?utm_campaign=1047&utm_source=git)** | North Kingstown, RI | On Site | Oct 15 |
 | **[Quartz Health Solutions](https://quartzbenefits.com/)** | **[Intern - Product Management](https://jobright.ai/jobs/info/670f042bf421c5c40d2ecf7c?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Oct 15 |
 | **[Genentech](http://gene.com)** | **[2025 Summer Intern - Global Product Strategy](https://jobright.ai/jobs/info/670ee84509b9cdeb181fc65d?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Oct 15 |
@@ -110,11 +116,11 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Product Management: Internship Opportunities – CTJ – Top Secret](https://jobright.ai/jobs/info/66ec99eccb3cad2d53acf993?utm_campaign=1047&utm_source=git)** | Reston, VA | On Site | Oct 11 |
 | **[TE Connectivity](http://www.te.com)** | **[Product Management (Intern)](https://jobright.ai/jobs/info/67099d000b508e871f3932e3?utm_campaign=1047&utm_source=git)** | Fuquay-Varina, NC | On Site | Oct 11 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[New Product Introduction Sourcing Co-Op](https://jobright.ai/jobs/info/66d14c9e2959ed888af2621a?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Oct 11 |
-| **[RayzeBio](http://rayzebio.com)** | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/6709d0eb0cdc3e9f80770cc2?utm_campaign=1047&utm_source=git)** | Princeton - NJ - US | Hybrid | Oct 11 |
-| ↳ | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/6709d0eb0cdc3e9f80770cbe?utm_campaign=1047&utm_source=git)** | Seattle - WA - US | Hybrid | Oct 11 |
+| **[RayzeBio](http://rayzebio.com)** | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/6709d0eb0cdc3e9f80770cbd?utm_campaign=1047&utm_source=git)** | San Diego - CA - US | Hybrid | Oct 11 |
 | ↳ | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/6709d0eb0cdc3e9f80770cc1?utm_campaign=1047&utm_source=git)** | Brisbane - CA - US | Hybrid | Oct 11 |
+| ↳ | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/6709d0eb0cdc3e9f80770cc2?utm_campaign=1047&utm_source=git)** | Princeton - NJ - US | Hybrid | Oct 11 |
+| ↳ | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/6709d0eb0cdc3e9f80770cbe?utm_campaign=1047&utm_source=git)** | Seattle - WA - US | Hybrid | Oct 11 |
 | ↳ | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/6709d0eb0cdc3e9f80770cbf?utm_campaign=1047&utm_source=git)** | Cambridge Crossing - MA - US | Hybrid | Oct 11 |
-| ↳ | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/6709d0eb0cdc3e9f80770cbd?utm_campaign=1047&utm_source=git)** | San Diego - CA - US | Hybrid | Oct 11 |
 | **[Nestlé](https://www.nestle.com)** | **[Product Development Internship- Summer 2025](https://jobright.ai/jobs/info/66ecb6fea6ad1a9074950d5a?utm_campaign=1047&utm_source=git)** | Solon, OH | On Site | Oct 11 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2025 Intern - Life/Health/IPS Strategy and Experience Analyst](https://jobright.ai/jobs/info/6709871d9b33e34ba8a5e149?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Oct 11 |
 | ↳ | **[Summer 2025 Intern - Life/Health/IPS Strategy and Experience Analyst](https://jobright.ai/jobs/info/6709871d9b33e34ba8a5e148?utm_campaign=1047&utm_source=git)** | Richardson, TX | Hybrid | Oct 11 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JPMorgan Chase & Co.](http://www.jpmorganchase.com)** | **[2025 Chase Leadership Development Program - Summer Analyst (New York)](https://jobright.ai/jobs/info/66d87f6d0dd975e6199ad5fb?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 10 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2025 Internship - B2B Product Intern](https://jobright.ai/jobs/info/66eaff4ddb0dbefa4b0d0567?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 10 |
 | **[Pella Corporation](http://www.pella.com)** | **[Vinyl Product Management Intern - Summer 2025](https://jobright.ai/jobs/info/66e9c16f7e3ce4a1c5e9a409?utm_campaign=1047&utm_source=git)** | United States | On Site | Oct 09 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Global Pricing Intern](https://jobright.ai/jobs/info/66fbb1adacb7c416474f920b?utm_campaign=1047&utm_source=git)** | Chippewa Falls, WI | On Site | Oct 09 |
-| **[Kendra Scott](http://www.kendrascott.com)** | **[Product Management and UX Intern](https://jobright.ai/jobs/info/670a14a97bc20da6d2460500?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Oct 09 |
-| **[Capital One](http://www.capitalone.com)** | **[MBA Product Intern - Summer 2025](https://jobright.ai/jobs/info/67075f636bfc130aa0811b0f?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Oct 09 |
-| ↳ | **[MBA Product Intern - Summer 2025](https://jobright.ai/jobs/info/67076cf3d66e569a3ad497e1?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Oct 09 |
-| ↳ | **[MBA Product Intern - Summer 2025](https://jobright.ai/jobs/info/670784ca4e58a5f9b6eb0c45?utm_campaign=1047&utm_source=git)** | Richmond, VA | Hybrid | Oct 09 |
-| ↳ | **[MBA Product Intern - Summer 2025](https://jobright.ai/jobs/info/67074ecf85e0b61b2926a0ee?utm_campaign=1047&utm_source=git)** | McLean, VA | Hybrid | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
