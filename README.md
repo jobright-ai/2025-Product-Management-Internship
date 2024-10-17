@@ -64,9 +64,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Product Management Intern](https://jobright.ai/jobs/info/67103b7fae5542dc1aaf31a0?utm_campaign=1047&utm_source=git)** | Westborough, MA | On Site | Oct 16 |
 | **[ADT](http://www.adt.com)** | **[Product Internship](https://jobright.ai/jobs/info/66fceaaeba547193ad77433e?utm_campaign=1047&utm_source=git)** | Boca Raton, FL | On Site | Oct 16 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Industry Strategy & Product Management](https://jobright.ai/jobs/info/6710358e4031d8ed1acf1a02?utm_campaign=1047&utm_source=git)** | Johnston, RI | Hybrid | Oct 16 |
-| **[ServiceNow](http://www.servicenow.com)** | **[Digital Technology (DT) - Inbound Product Manager Intern](https://jobright.ai/jobs/info/67102b67656c53d8f3c1ad5a?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Oct 16 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern, Laundry – Summer 2025](https://jobright.ai/jobs/info/67101ca52ce9b425eeae587f?utm_campaign=1047&utm_source=git)** | Trumbull, CT | On Site | Oct 16 |
 | **[KP Aviation](http://kpaviation.net/)** | **[Product Line Intern](https://jobright.ai/jobs/info/670ff93dde1b597916def375?utm_campaign=1047&utm_source=git)** | Mesa, AZ | On Site | Oct 16 |
+| **[Rapid Micro Biosystems](http://www.rapidmicrobio.com)** | **[Product Development Co-Op](https://jobright.ai/jobs/info/67107541b31e97324d698d2d?utm_campaign=1047&utm_source=git)** | Lexington, MA | On Site | Oct 16 |
+| **[Microsoft](https://www.microsoft.com)** | **[Product Management: Internship Opportunities – CTJ – Top Secret](https://jobright.ai/jobs/info/671062b6ea438da5e780cd9c?utm_campaign=1047&utm_source=git)** | Reston, VA | On Site | Oct 16 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Digital Product Management CO-OP - Summer](https://jobright.ai/jobs/info/670ffe0f61b660476d204dc1?utm_campaign=1047&utm_source=git)** | Beverly, MA | On Site | Oct 16 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Manager: Internship Opportunities - Redmond](https://jobright.ai/jobs/info/670ff01a2f3152b3c86a68e3?utm_campaign=1047&utm_source=git)** | Redmond, WA | Hybrid | Oct 16 |
 | **[CSG](http://www.csgi.com/)** | **[Product Management Summer Intern](https://jobright.ai/jobs/info/670fde7632e665d3c4f6b49b?utm_campaign=1047&utm_source=git)** | United States Remote | On Site | Oct 16 |
@@ -81,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Visa](https://www.visa.com)** | **[Product Analyst Intern - ANET Merchant Experience, Summer 2025](https://jobright.ai/jobs/info/670fd8b59416d142d49f4114?utm_campaign=1047&utm_source=git)** | Bellevue, WA | Hybrid | Oct 16 |
 | **[CoStar Group](http://www.costargroup.com/)** | **[Product Intern - Richmond, VA (Rising Seniors)](https://jobright.ai/jobs/info/670fcc3362a2d8aaa92346bf?utm_campaign=1047&utm_source=git)** | US-VA Richmond | On Site | Oct 16 |
 | **[Hatch](https://www.hatch.co/)** | **[Product Management Intern](https://jobright.ai/jobs/info/670fa87c3c0c48910a3419d9?utm_campaign=1047&utm_source=git)** | Redwood City, CA | Hybrid | Oct 16 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Web Ads and Open-Loop E-Commerce) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/66e18974a9e7bdd73fb59c15?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Oct 16 |
 | **[URBN (Urban Outfitters, Anthropologie Group, Free People & Nuuly)](http://urbn.com)** | **[URBN Product Development & Sourcing Intern](https://jobright.ai/jobs/info/66d7750f09881999655d63e4?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Oct 16 |
 | **[Red Hat](http://www.redhat.com)** | **[Product Management Internship](https://jobright.ai/jobs/info/66fcb77d2c4fcea471cf525f?utm_campaign=1047&utm_source=git)** | Raleigh, NC | Hybrid | Oct 16 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f3158a3be896271e2f1db2?utm_campaign=1047&utm_source=git)** | Westminster, CO | On Site | Oct 16 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 - Slack PhD User Research Intern](https://jobright.ai/jobs/info/6709b6553401225e44591151?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Oct 11 |
 | **[TE Connectivity](http://www.te.com)** | **[Product Management (Intern)](https://jobright.ai/jobs/info/67099d000b508e871f3932e3?utm_campaign=1047&utm_source=git)** | Fuquay-Varina, NC | On Site | Oct 11 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[New Product Introduction Sourcing Co-Op](https://jobright.ai/jobs/info/66d14c9e2959ed888af2621a?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Oct 11 |
-| **[RayzeBio](http://rayzebio.com)** | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/6709d0eb0cdc3e9f80770cc1?utm_campaign=1047&utm_source=git)** | Brisbane - CA - US | Hybrid | Oct 11 |
-| ↳ | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/6709d0eb0cdc3e9f80770cbe?utm_campaign=1047&utm_source=git)** | Seattle - WA - US | Hybrid | Oct 11 |
-| ↳ | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/6709d0eb0cdc3e9f80770cbd?utm_campaign=1047&utm_source=git)** | San Diego - CA - US | Hybrid | Oct 11 |
-| ↳ | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/6709d0eb0cdc3e9f80770cc2?utm_campaign=1047&utm_source=git)** | Princeton - NJ - US | Hybrid | Oct 11 |
+| **[RayzeBio](http://rayzebio.com)** | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/6709d0eb0cdc3e9f80770cbe?utm_campaign=1047&utm_source=git)** | Seattle - WA - US | Hybrid | Oct 11 |
 | ↳ | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/6709d0eb0cdc3e9f80770cbf?utm_campaign=1047&utm_source=git)** | Cambridge Crossing - MA - US | Hybrid | Oct 11 |
-| **[Nestlé](https://www.nestle.com)** | **[Product Development Internship- Summer 2025](https://jobright.ai/jobs/info/66ecb6fea6ad1a9074950d5a?utm_campaign=1047&utm_source=git)** | Solon, OH | On Site | Oct 11 |
+| ↳ | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/6709d0eb0cdc3e9f80770cc1?utm_campaign=1047&utm_source=git)** | Brisbane - CA - US | Hybrid | Oct 11 |
+| ↳ | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/6709d0eb0cdc3e9f80770cbd?utm_campaign=1047&utm_source=git)** | San Diego - CA - US | Hybrid | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
