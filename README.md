@@ -57,18 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Novanta Inc.](http://www.novanta.com)** | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/6711621417e98ce420055450?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Oct 17 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/67119614c9dd01992a5f612e?utm_campaign=1047&utm_source=git)** | Olathe, KS | On Site | Oct 17 |
+| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Product Planning Intern-Summer 2025- Franklin, TN](https://jobright.ai/jobs/info/67118e858ca3612dfc811082?utm_campaign=1047&utm_source=git)** | Franklin, Tennessee - United States of America | On Site | Oct 17 |
+| **[American Bankers Association](http://www.aba.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/67118bb52fee2923c2ab8cf7?utm_campaign=1047&utm_source=git)** | US DC Main Office | On Site | Oct 17 |
+| **[Novanta Inc.](http://www.novanta.com)** | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/67117768e8ba99dfb0c6c762?utm_campaign=1047&utm_source=git)** | Bedford, MA | On Site | Oct 17 |
+| ↳ | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/6711621417e98ce42005544f?utm_campaign=1047&utm_source=git)** | Rocklin, CA | On Site | Oct 17 |
+| ↳ | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/6711621417e98ce420055453?utm_campaign=1047&utm_source=git)** | Sarasota, FL | On Site | Oct 17 |
 | ↳ | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/67115faa618c77b8b16db7e5?utm_campaign=1047&utm_source=git)** | Syracuse, NY | On Site | Oct 17 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern, Off-cycle](https://jobright.ai/jobs/info/671143e7f7656cadc80d4156?utm_campaign=1047&utm_source=git)** | Madison Heights, MI | On Site | Oct 17 |
-| **[Novanta Inc.](http://www.novanta.com)** | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/67111c9fba4a75f7935c31d0?utm_campaign=1047&utm_source=git)** | Apex, NC | On Site | Oct 17 |
-| ↳ | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/67111c9fba4a75f7935c31d1?utm_campaign=1047&utm_source=git)** | Bedford, MA | On Site | Oct 17 |
-| ↳ | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/67111c9fba4a75f7935c31c8?utm_campaign=1047&utm_source=git)** | North Syracuse, NY | On Site | Oct 17 |
+| **[Novanta Inc.](http://www.novanta.com)** | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/67111c9fba4a75f7935c31c4?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Oct 17 |
 | ↳ | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/67111c9fba4a75f7935c3172?utm_campaign=1047&utm_source=git)** | Mukilteo, WA | On Site | Oct 17 |
-| ↳ | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/67111c9fba4a75f7935c31c7?utm_campaign=1047&utm_source=git)** | Sarasota, FL | On Site | Oct 17 |
-| ↳ | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/67111c9fba4a75f7935c31ce?utm_campaign=1047&utm_source=git)** | Rocklin, CA | On Site | Oct 17 |
+| ↳ | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/67111c9fba4a75f7935c31c8?utm_campaign=1047&utm_source=git)** | North Syracuse, NY | On Site | Oct 17 |
+| ↳ | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/67111c9fba4a75f7935c31d0?utm_campaign=1047&utm_source=git)** | Apex, NC | On Site | Oct 17 |
 | **[Walmart Canada](https://www.walmartcanada.ca/)** | **[2025 Summer Intern: Legacy I&A - Product Manager II](https://jobright.ai/jobs/info/6710fee04ad07af8a9850eae?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Oct 17 |
 | **[Syngenta](http://www.syngenta.com)** | **[Product Placement Phenotyping Intern](https://jobright.ai/jobs/info/66d780fb247b0daf10fc4549?utm_campaign=1047&utm_source=git)** | Malta, IL | On Site | Oct 17 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f52577f2e1c48414b563e2?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Oct 17 |
+| **[Bobcat Company](https://www.bobcat.com)** | **[2025 Ecommerce Development Student Experience](https://jobright.ai/jobs/info/66d73591a3618aa441399bf3?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Oct 17 |
+| **[Johnsonville](http://www.johnsonville.com/)** | **[R&D Product Development Internship](https://jobright.ai/jobs/info/66d76c5970d0de1df5e91fbf?utm_campaign=1047&utm_source=git)** | Sheboygan Falls, WI | On Site | Oct 17 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Product Management MBA Leadership Track Internship](https://jobright.ai/jobs/info/66fcc2869d7d3e68080e281c?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Oct 17 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Experience Team (EX) - Product Content Internships (Tech Writer and Tech Editor) - Summer 2025](https://jobright.ai/jobs/info/66f4d0b1d5cb6b0abcef7d0f?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Oct 17 |
 | **[Datadog](https://www.datadoghq.com)** | **[Product Manager - Intern](https://jobright.ai/jobs/info/66d73df9070b808e9f3a0c39?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Oct 17 |
@@ -112,12 +117,13 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Product Manager)](https://jobright.ai/jobs/info/66f2ab2607a75121d38b2538?utm_campaign=1047&utm_source=git)** | Pensacola, FL | Hybrid | Oct 16 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f3158a3be896271e2f1dbd?utm_campaign=1047&utm_source=git)** | Portland, OR | On Site | Oct 16 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/66f3158a3be896271e2f1db4?utm_campaign=1047&utm_source=git)** | Dayton, OH | On Site | Oct 16 |
-| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Grid Automation Product Management Intern - Spring-Summer 2025](https://jobright.ai/jobs/info/670f2d58ed92b3068fc2605d?utm_campaign=1047&utm_source=git)** | Rochester | On Site | Oct 15 |
+| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Grid Automation Product Management Intern - Spring-Summer 2025](https://jobright.ai/jobs/info/670f2d58ed92b3068fc2605b?utm_campaign=1047&utm_source=git)** | Rochester | On Site | Oct 15 |
 | **[IBM](http://www.ibm.com)** | **[Product Management Intern: 2025](https://jobright.ai/jobs/info/670f2a7d548a00f16d831fa8?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Oct 15 |
 | **[Greystone](https://www.greystone.com)** | **[Summer 2025: Product Management Internship](https://jobright.ai/jobs/info/670f25a60b00d59b34c4ec73?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 15 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2025] Product Management - Intern](https://jobright.ai/jobs/info/670f1a6a19e8647631288d8a?utm_campaign=1047&utm_source=git)** | San Mateo, CA | Hybrid | Oct 15 |
 | **[Quartz Health Solutions](https://quartzbenefits.com/)** | **[Intern - Product Management](https://jobright.ai/jobs/info/670f25a60b00d59b34c4f0ff?utm_campaign=1047&utm_source=git)** | Madison, WI | Hybrid | Oct 15 |
 | **[REGENT](https://www.regentcraft.com)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/670f0501f421c5c40d2edaf8?utm_campaign=1047&utm_source=git)** | North Kingstown, RI | On Site | Oct 15 |
+| **[Pegasystems](http://www.pega.com)** | **[MBA Product Management Summer Intern](https://jobright.ai/jobs/info/66f2f98eeba303659ec66ea7?utm_campaign=1047&utm_source=git)** | Waltham, MA | On Site | Oct 15 |
 | **[Genentech](http://gene.com)** | **[2025 Summer Intern - Global Product Strategy](https://jobright.ai/jobs/info/670ee84509b9cdeb181fc65d?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Oct 15 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/670ede0020e67b1ae2547ccd?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Oct 15 |
 | **[Bose Corporation](https://www.bose.com/en_us/index.html)** | **[Product Manager - Intern](https://jobright.ai/jobs/info/66f2629558b6548927b755f3?utm_campaign=1047&utm_source=git)** | Framingham, MA | On Site | Oct 15 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2025 Guardian Summer Intern, Product Strategy & Delivery](https://jobright.ai/jobs/info/66edce024a8ac68e65b3c008?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Oct 12 |
 | **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/66c08218c3b5c7bd10717de4?utm_campaign=1047&utm_source=git)** | North Aurora, IL | On Site | Oct 12 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/670a837e6bc74641fa46206d?utm_campaign=1047&utm_source=git)** | Princeton, NJ | Hybrid | Oct 12 |
-| ↳ | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/670a837e6bc74641fa462070?utm_campaign=1047&utm_source=git)** | Brisbane, CA | Hybrid | Oct 12 |
-| ↳ | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/670a837e6bc74641fa462071?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Oct 12 |
-| ↳ | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/670a837e6bc74641fa462072?utm_campaign=1047&utm_source=git)** | Cambridge, MA | Hybrid | Oct 12 |
-| ↳ | **[Summer 2025 - Product Management Internship](https://jobright.ai/jobs/info/670b6341f60d8185d225ff7d?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Oct 12 |
-| **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/66b64ffe157c49d41227d061?utm_campaign=1047&utm_source=git)** | Golden Valley, MN | On Site | Oct 12 |
-| **[Altruist](https://altruist.com)** | **[Product Management Intern - Summer 2025](https://jobright.ai/jobs/info/66edf14c2e01da21219438e1?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
