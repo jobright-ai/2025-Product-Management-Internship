@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 AI Technical Product Manager/Engineer Intern](https://jobright.ai/jobs/info/671d00153c0bda2d6ccaf12f?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Oct 26 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ads Platform)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66e18974a9e7bdd73fb59a09?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 26 |
+| **[Ocean Spray Cranberries](http://www.oceanspray.com/)** | **[Product Development Co-Op](https://jobright.ai/jobs/info/66fccfaa1a3b307e55f2749a?utm_campaign=1047&utm_source=git)** | Lakeville, MA | On Site | Oct 26 |
+| **[DICK'S Sporting Goods](http://www.dickssportinggoods.com)** | **[Product Management - Summer 2025 Corporate Internship](https://jobright.ai/jobs/info/671d2131dc0d9148ab5874fa?utm_campaign=1047&utm_source=git)** | Coraopolis, PA | Hybrid | Oct 26 |
+| ↳ | **[Product Analyst - Summer 2025 Corporate Internship](https://jobright.ai/jobs/info/671d2131dc0d9148ab5874fb?utm_campaign=1047&utm_source=git)** | Coraopolis, PA | Hybrid | Oct 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Brand Innovation)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66e18ef1a9f4481bee467e51?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 26 |
+| **[Vizient, Inc](https://www.vizientinc.com)** | **[Summer Intern - Product Delivery, Clinical Analytics (Data Digital)](https://jobright.ai/jobs/info/671cf29ca5b8fe6d6699a3c1?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Oct 26 |
+| **[Adobe](http://www.adobe.com)** | **[2025 MBA Intern - Product Management, Digital Experience](https://jobright.ai/jobs/info/6700b254a88e5bd1de097e14?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 26 |
 | **[Thermo Fisher Scientific](http://www.thermofisher.com)** | **[Sr. Product Management Intern](https://jobright.ai/jobs/info/671cc2751ac1051e039c4714?utm_campaign=1047&utm_source=git)** | Grand Island, NY | On Site | Oct 26 |
 | **[Novelis](http://novelis.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/671c9936b76416dc2373f5ef?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Oct 25 |
 | **[Teva Pharmaceuticals](https://www.tevapharm.com)** | **[Intern- Product Analyst](https://jobright.ai/jobs/info/671c5e33089289f2e55466cc?utm_campaign=1047&utm_source=git)** | Parsippany, NJ | On Site | Oct 25 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Product Design CO-OP](https://jobright.ai/jobs/info/67182d28aeeecb89f7b372d0?utm_campaign=1047&utm_source=git)** | Breinigsville, PA | On Site | Oct 22 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 Intern - Product Strategy & Research Analyst](https://jobright.ai/jobs/info/671830dc57bacaeeae8b21e3?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Oct 22 |
 | **[Golfballs.com](https://www.golfballs.com/)** | **[Product & Operations Intern (Part-Time)](https://jobright.ai/jobs/info/67182e518a55c4b9b0d56600?utm_campaign=1047&utm_source=git)** | Lafayette, LA | Hybrid | Oct 22 |
-| **[Elanco](https://www.elanco.com)** | **[Capstone Internship: IT Application Administrator/Product Owner (Indiana University Student Program)](https://jobright.ai/jobs/info/67180da11d6b803d180a7134?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | Hybrid | Oct 22 |
-| ↳ | **[Capstone Internship: IT Application Administrator/Product Owner (Indiana University Student Program)](https://jobright.ai/jobs/info/67180da11d6b803d180a715f?utm_campaign=1047&utm_source=git)** | US - Teleworker | Hybrid | Oct 22 |
-| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Product Development Intern (Summer 2025) - Solon, OH](https://jobright.ai/jobs/info/66faf7224dd6ed697fc06d9a?utm_campaign=1047&utm_source=git)** | Solon, OH | On Site | Oct 22 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 Intern - Product Strategy & Research Analyst](https://jobright.ai/jobs/info/6717dac07459efc05227b5a2?utm_campaign=1047&utm_source=git)** | California - San Francisco | Hybrid | Oct 22 |
-| **[Electronic Arts (EA)](http://www.ea.com)** | **[Product Management Intern, Live & VIP](https://jobright.ai/jobs/info/671b81b9806d0e11c6f93de1?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Oct 22 |
-| **[MarketAxess](http://marketaxess.com)** | **[Product Intern 2025](https://jobright.ai/jobs/info/66e2de5a56bc504c283c4a53?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 22 |
-| **[Bobcat Company](https://www.bobcat.com)** | **[Business Systems Co-Op SFDC (May-December 2025)](https://jobright.ai/jobs/info/66fafa6d931bf6084a636e71?utm_campaign=1047&utm_source=git)** | North Dakota, United States | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
