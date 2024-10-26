@@ -75,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Brightly](https://www.brightlysoftware.com)** | **[Intern - Product Owner](https://jobright.ai/jobs/info/671b2b7f96382e25afe20811?utm_campaign=1047&utm_source=git)** | Cary, NC | On Site | Oct 24 |
 | **[STChealth](https://stchealth.com)** | **[Internship - Product Management](https://jobright.ai/jobs/info/671b245bd65f6f0249d962d9?utm_campaign=1047&utm_source=git)** | Phoenix, AZ | On Site | Oct 24 |
 | **[Skillz](http://www.skillz.com)** | **[Product Management, Co-Op 2025 Spring](https://jobright.ai/jobs/info/671b117d42237846e386456f?utm_campaign=1047&utm_source=git)** | Las Vegas, NV | On Site | Oct 24 |
+| **[PACCAR](http://www.paccar.com/)** | **[Global Product Planning Internship - Summer 2025](https://jobright.ai/jobs/info/66fdfe0a3bbd25d633f21890?utm_campaign=1047&utm_source=git)** | Lewisville, TX | On Site | Oct 24 |
 | **[AutoStore™](https://www.autostoresystem.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/671ad31dfd7bbc4e9d35237d?utm_campaign=1047&utm_source=git)** | Salem, NH | Hybrid | Oct 24 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Intern](https://jobright.ai/jobs/info/671addc254880355463efe82?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Oct 24 |
 | ↳ | **[Business Intern](https://jobright.ai/jobs/info/671ac1fe4386b63e4a326799?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | On Site | Oct 24 |
@@ -140,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Product Design CO-OP](https://jobright.ai/jobs/info/67182d28aeeecb89f7b372d0?utm_campaign=1047&utm_source=git)** | Breinigsville, PA | On Site | Oct 22 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 Intern - Product Strategy & Research Analyst](https://jobright.ai/jobs/info/671830dc57bacaeeae8b21e3?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Oct 22 |
 | **[Golfballs.com](https://www.golfballs.com/)** | **[Product & Operations Intern (Part-Time)](https://jobright.ai/jobs/info/67182e518a55c4b9b0d56600?utm_campaign=1047&utm_source=git)** | Lafayette, LA | Hybrid | Oct 22 |
-| **[Elanco](https://www.elanco.com)** | **[Capstone Internship: IT Application Administrator/Product Owner (Indiana University Student Program)](https://jobright.ai/jobs/info/67180da11d6b803d180a7134?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | Hybrid | Oct 22 |
-| ↳ | **[Capstone Internship: IT Application Administrator/Product Owner (Indiana University Student Program)](https://jobright.ai/jobs/info/67180da11d6b803d180a715f?utm_campaign=1047&utm_source=git)** | US - Teleworker | Hybrid | Oct 22 |
+| **[Elanco](https://www.elanco.com)** | **[Capstone Internship: IT Application Administrator/Product Owner (Indiana University Student Program)](https://jobright.ai/jobs/info/67180da11d6b803d180a715f?utm_campaign=1047&utm_source=git)** | US - Teleworker | Hybrid | Oct 22 |
+| ↳ | **[Capstone Internship: IT Application Administrator/Product Owner (Indiana University Student Program)](https://jobright.ai/jobs/info/67180da11d6b803d180a7134?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | Hybrid | Oct 22 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Product Development Intern (Summer 2025) - Solon, OH](https://jobright.ai/jobs/info/66faf7224dd6ed697fc06d9a?utm_campaign=1047&utm_source=git)** | Solon, OH | On Site | Oct 22 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 Intern - Product Strategy & Research Analyst](https://jobright.ai/jobs/info/6717dac07459efc05227b5e5?utm_campaign=1047&utm_source=git)** | California - San Francisco | Hybrid | Oct 22 |
 | **[Electronic Arts (EA)](http://www.ea.com)** | **[Product Management Intern, Live & VIP](https://jobright.ai/jobs/info/671b81b9806d0e11c6f93de1?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Oct 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PayPal](https://www.paypal.com/home)** | **[Product Manager MBA Intern](https://jobright.ai/jobs/info/671b422bc779e72a4000953e?utm_campaign=1047&utm_source=git)** | Omaha, NE | Hybrid | Oct 21 |
 | ↳ | **[Product Manager Intern, Technical](https://jobright.ai/jobs/info/671b3516c06d0e0e92fe3131?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Oct 21 |
 | ↳ | **[Product Manager Intern, Technical](https://jobright.ai/jobs/info/671b26330193da4cc4e11a0a?utm_campaign=1047&utm_source=git)** | Scottsdale, AZ | Hybrid | Oct 21 |
-| **[Dexcom](http://www.dexcom.com)** | **[Intern I – Product Management](https://jobright.ai/jobs/info/6718840ef38028979720bde5?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
