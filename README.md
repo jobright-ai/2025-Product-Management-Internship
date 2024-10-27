@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Vizient, Inc](https://www.vizientinc.com)** | **[Summer Intern - Product Delivery, Clinical Analytics (Data Digital)](https://jobright.ai/jobs/info/671d561c02576ca5a3054b8e?utm_campaign=1047&utm_source=git)** | United States | Remote | Oct 26 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 AI Technical Product Manager/Engineer Intern](https://jobright.ai/jobs/info/671d00153c0bda2d6ccaf12f?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Oct 26 |
+| **[DriveTime](https://www.drivetime.com)** | **[Product Management Intern (Summer 2025)](https://jobright.ai/jobs/info/671da7d6dfe7691f5769f5cc?utm_campaign=1047&utm_source=git)** | Tempe, AZ | On Site | Oct 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ads Platform)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66e18974a9e7bdd73fb59a09?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 26 |
 | **[Ocean Spray Cranberries](http://www.oceanspray.com/)** | **[Product Development Co-Op](https://jobright.ai/jobs/info/66fccfaa1a3b307e55f2749a?utm_campaign=1047&utm_source=git)** | Lakeville, MA | On Site | Oct 26 |
 | **[DICK'S Sporting Goods](http://www.dickssportinggoods.com)** | **[Product Management - Summer 2025 Corporate Internship](https://jobright.ai/jobs/info/671d2131dc0d9148ab5874fa?utm_campaign=1047&utm_source=git)** | Coraopolis, PA | Hybrid | Oct 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Carrier](https://www.corporate.carrier.com)** | **[Product Security Intern- Summer](https://jobright.ai/jobs/info/6718356852f490714cdd6178?utm_campaign=1047&utm_source=git)** | CAG24: Atlanta Digital Hub 3350 Riverwood Parkway Suite 900, Atlanta, GA, 30339 USA | On Site | Oct 22 |
 | **[Visa](https://www.visa.com)** | **[Product Operations - Issuing Solutions Intern, Summer 2025](https://jobright.ai/jobs/info/67183d6a54a89b4f64c30d89?utm_campaign=1047&utm_source=git)** | Foster City, CA | Hybrid | Oct 22 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Product Design CO-OP](https://jobright.ai/jobs/info/67182d28aeeecb89f7b372d0?utm_campaign=1047&utm_source=git)** | Breinigsville, PA | On Site | Oct 22 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 Intern - Product Strategy & Research Analyst](https://jobright.ai/jobs/info/671830dc57bacaeeae8b21e3?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
