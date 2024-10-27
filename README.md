@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vizient, Inc](https://www.vizientinc.com)** | **[Summer Intern - Product Delivery, Clinical Analytics (Data Digital)](https://jobright.ai/jobs/info/671d561c02576ca5a3054b8e?utm_campaign=1047&utm_source=git)** | United States | Remote | Oct 26 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 AI Technical Product Manager/Engineer Intern](https://jobright.ai/jobs/info/671d00153c0bda2d6ccaf12f?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Oct 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ads Platform)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66e18974a9e7bdd73fb59a09?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 26 |
 | **[Ocean Spray Cranberries](http://www.oceanspray.com/)** | **[Product Development Co-Op](https://jobright.ai/jobs/info/66fccfaa1a3b307e55f2749a?utm_campaign=1047&utm_source=git)** | Lakeville, MA | On Site | Oct 26 |
@@ -101,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[NCR Atleos](https://www.ncratleos.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/671addc92cd987a02c671768?utm_campaign=1047&utm_source=git)** | Frisco, TX, USA | On Site | Oct 24 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - E2E Product Management](https://jobright.ai/jobs/info/671a9c31f9fa33df277f4872?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Oct 24 |
 | ↳ | **[2025 Intern - E2E Product Management](https://jobright.ai/jobs/info/671a9c31f9fa33df277f4874?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Oct 24 |
-| ↳ | **[2025 Intern - E2E Product Management](https://jobright.ai/jobs/info/671a9c31f9fa33df277f4876?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
 | ↳ | **[2025 Intern - E2E Product Management](https://jobright.ai/jobs/info/671a9c31f9fa33df277f4875?utm_campaign=1047&utm_source=git)** | Denver, CO | On Site | Oct 24 |
+| ↳ | **[2025 Intern - E2E Product Management](https://jobright.ai/jobs/info/671a9c31f9fa33df277f4876?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
 | **[HCSS](http://hcss.nl)** | **[Product Management Intern - Spring 2025](https://jobright.ai/jobs/info/671a9c6238936d183ea1d266?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Oct 24 |
 | **[Coinbase](http://www.coinbase.com)** | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/671a9917d8230ee50a061944?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Oct 24 |
 | **[AutoStore™](https://www.autostoresystem.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/671addc92cd987a02c6718d4?utm_campaign=1047&utm_source=git)** | Salem, USA | On Site | Oct 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Visa](https://www.visa.com)** | **[Product Operations - Issuing Solutions Intern, Summer 2025](https://jobright.ai/jobs/info/67183d6a54a89b4f64c30d89?utm_campaign=1047&utm_source=git)** | Foster City, CA | Hybrid | Oct 22 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Product Design CO-OP](https://jobright.ai/jobs/info/67182d28aeeecb89f7b372d0?utm_campaign=1047&utm_source=git)** | Breinigsville, PA | On Site | Oct 22 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 Intern - Product Strategy & Research Analyst](https://jobright.ai/jobs/info/671830dc57bacaeeae8b21e3?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Oct 22 |
-| **[Golfballs.com](https://www.golfballs.com/)** | **[Product & Operations Intern (Part-Time)](https://jobright.ai/jobs/info/67182e518a55c4b9b0d56600?utm_campaign=1047&utm_source=git)** | Lafayette, LA | Hybrid | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
