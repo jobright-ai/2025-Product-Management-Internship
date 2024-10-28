@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Subaru of America](http://www.subaru.com)** | **[INTERN - Product Planning and Pricing](https://jobright.ai/jobs/info/671fa15d66b2674f9d38703b?utm_campaign=1047&utm_source=git)** | Camden, NJ | On Site | Oct 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (TikTok Shop - Seller Experience) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/66e2eca2a05e3afa9bae53e4?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Oct 28 |
+| **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Product Owner & Solutions Summer Intern](https://jobright.ai/jobs/info/66e48d13e011b7dd896e80dc?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | Hybrid | Oct 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (TikTok Shop - Moderation) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/66e311af350be93b38e5a3a8?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Oct 27 |
 | **[Thermo Fisher Scientific](http://www.thermofisher.com)** | **[Sr. Product Management Intern](https://jobright.ai/jobs/info/671dee81d53405d07551f2a8?utm_campaign=1047&utm_source=git)** | Grand Island, NY | On Site | Oct 26 |
 | **[Vizient, Inc](https://www.vizientinc.com)** | **[Summer Intern - Product Delivery, Clinical Analytics (Data Digital)](https://jobright.ai/jobs/info/671d561c02576ca5a3054b8e?utm_campaign=1047&utm_source=git)** | United States | Remote | Oct 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson](http://www.jnj.com)** | **[VC Product Management Co op](https://jobright.ai/jobs/info/66fc7eb45d7ab3923c7e19f1?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Oct 23 |
 | **[Amazon](https://amazon.com)** | **[2025 MBA/Master's Level Opportunity - Product Manager, Non-Technical (PM) Intern (United States)](https://jobright.ai/jobs/info/6719ffa520ef23393c2cc254?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Oct 23 |
 | **[PIMCO](http://www.pimco.com)** | **[2025 MBA Summer Intern – Product Strategist - Client Solutions & Analytics, US](https://jobright.ai/jobs/info/66fc85c15afbd24c089a2283?utm_campaign=1047&utm_source=git)** | Newport Beach, CA | On Site | Oct 23 |
-| **[ChampionX](https://www.championx.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/671f0dbd52fccbab58f1ca57?utm_campaign=1047&utm_source=git)** | Crowley, TX | On Site | Oct 22 |
-| **[TE Connectivity](http://www.te.com)** | **[PRODUCT MANAGEMENT (INTERN)](https://jobright.ai/jobs/info/67188021d83d3007f9e2ad97?utm_campaign=1047&utm_source=git)** | Montgomery County, PA | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
