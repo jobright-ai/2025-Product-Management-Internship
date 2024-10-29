@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Genentech](http://gene.com)** | **[2025 Summer Intern - Product Development Data Sciences, Analytics and Medical Imaging (AMI)](https://jobright.ai/jobs/info/67204bc9870751e905a74e0e?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Oct 28 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Technology Product Development Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/672014f2eb1d07d9bed5b146?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Oct 28 |
 | **[Visa](https://www.visa.com)** | **[Product Analyst, Intern (ANET Merchant Experience) - Summer 2025](https://jobright.ai/jobs/info/671fffd51a0590a8ace3e106?utm_campaign=1047&utm_source=git)** | Bellevue, WA | Hybrid | Oct 28 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/672003cc171dfc782a1cb3f3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Southeast Toyota Finance](https://www.setf.com/)** | **[Intern, Technology Initiatives](https://jobright.ai/jobs/info/6719204ad8bf193e5bc70992?utm_campaign=1047&utm_source=git)** | Greater St. Louis | Hybrid | Oct 23 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66e0a569578f795377f34eed?utm_campaign=1047&utm_source=git)** | St Paul, MN | On Site | Oct 23 |
 | **[Amazon](https://amazon.com)** | **[2025 MBA/Master's Level Opportunity - Sr. Product Manager Technical (PMT) Intern (United States)](https://jobright.ai/jobs/info/671a0b40a7f709b088ee3536?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Oct 23 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[VC Product Management Co op](https://jobright.ai/jobs/info/66fc7eb45d7ab3923c7e19f1?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
