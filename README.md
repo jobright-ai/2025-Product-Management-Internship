@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HP](http://www.hp.com)** | **[Product Management Intern - Workforce Services and Solutions](https://jobright.ai/jobs/info/672198e41c6685b1e0d9ef46?utm_campaign=1047&utm_source=git)** | Spring, TX | Hybrid | Oct 29 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Product Delivery Manager](https://jobright.ai/jobs/info/672172f4885549885a65f874?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 29 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[2025 Summer Intern: Software Product Management Intern](https://jobright.ai/jobs/info/672172f4885549885a65f863?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Oct 29 |
 | ↳ | **[2025 Summer Intern: Software Product Management Intern](https://jobright.ai/jobs/info/672172f4885549885a65f8f9?utm_campaign=1047&utm_source=git)** | Northbrook, IL | On Site | Oct 29 |
 | **[Chobani](http://www.chobani.com)** | **[Intern - Brand Innovation](https://jobright.ai/jobs/info/672153924e694e4fd72a2d23?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 29 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[(Spring) Product Development Co-op: January to June 2025](https://jobright.ai/jobs/info/67215c23c05151c8dca16a7a?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Oct 29 |
-| ↳ | **[(Spring) Shark Product Development Co-op: January to June 2025](https://jobright.ai/jobs/info/672151214cd73487e9a2aca9?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Oct 29 |
 | **[Promega Corporation](http://www.promega.com/es)** | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/67216e2823b93d13251e78c2?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Oct 29 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[(Spring) Shark Product Development Co-op: January to June 2025](https://jobright.ai/jobs/info/67214dc6f108ea0b00e5fc25?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Oct 29 |
 | **[IBM](http://www.ibm.com)** | **[Software Strategy and M&A Summer Intern: 2025](https://jobright.ai/jobs/info/67212c1c1f58bcaa34cefafb?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 29 |
 | **[Voya Investment Management](http://investments.voya.com)** | **[Summer Student - Fund Product Development](https://jobright.ai/jobs/info/67210a0053e70f1c3d750893?utm_campaign=1047&utm_source=git)** | Scottsdale, AZ | Hybrid | Oct 29 |
 | **[Zurn Elkay Water Solutions](https://zurn-elkay.com/)** | **[Product Management Intern Summer 2025](https://jobright.ai/jobs/info/6720fc5623396d66e35bf4f5?utm_campaign=1047&utm_source=git)** | Erie, PA | On Site | Oct 29 |
@@ -80,6 +81,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern, Product Management - Automotive](https://jobright.ai/jobs/info/6704972d7c9699b1a55d0bfe?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Oct 29 |
 | **[Golfballs.com](https://www.golfballs.com/)** | **[Product & Operations Intern - On-Site (Part-Time)](https://jobright.ai/jobs/info/67207958efd505b54af00d0e?utm_campaign=1047&utm_source=git)** | Lafayette, LA | On Site | Oct 28 |
 | **[Genentech](http://gene.com)** | **[2025 Summer Intern - Product Development Data Sciences, Analytics and Medical Imaging (AMI)](https://jobright.ai/jobs/info/67204bc9870751e905a74e0e?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Oct 28 |
+| **[Kiva](http://kiva.org)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/67219c80b16b7eea82821c2b?utm_campaign=1047&utm_source=git)** | United States | Remote | Oct 28 |
+| **[TikTok](https://www.tiktok.com)** | **[Global Product Solutions and Operations MBA Intern (Closed Loop Monetization)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66e197de611b398b4e58466d?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Oct 28 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Technology Product Development Analyst Intern- Summer 2025](https://jobright.ai/jobs/info/672014f2eb1d07d9bed5b146?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Oct 28 |
 | **[Visa](https://www.visa.com)** | **[Product Analyst, Intern (ANET Merchant Experience) - Summer 2025](https://jobright.ai/jobs/info/671fffd51a0590a8ace3e106?utm_campaign=1047&utm_source=git)** | Bellevue, WA | Hybrid | Oct 28 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/672003cc171dfc782a1cb3f3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2025 Guardian Summer Intern, Life and Annuity Product Development](https://jobright.ai/jobs/info/66fccfaa1a3b307e55f2740c?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Oct 24 |
 | **[InComm Payments](https://www.incomm.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/66fdd6306a7427af25156b84?utm_campaign=1047&utm_source=git)** | Utah, United States | On Site | Oct 24 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66e11fccd6389d51d2b1efc8?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Oct 24 |
-| **[Delta Air Lines](http://www.delta.com)** | **[Intern, In-Flight Services, Digital Technology and Strategy (Summer 2025)](https://jobright.ai/jobs/info/66fc95f9e8f785e53b59c37d?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Oct 23 |
-| **[Pegasystems](http://www.pega.com)** | **[Product Managment Summer Intern](https://jobright.ai/jobs/info/6719d80cfa3a7c8bbddc9c20?utm_campaign=1047&utm_source=git)** | Waltham, MA | On Site | Oct 23 |
-| **[Whole Foods Market](http://www.wholefoodsmarket.com)** | **[Product Management Internship - Summer 2025](https://jobright.ai/jobs/info/6719e6714a290c4bda076e61?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
