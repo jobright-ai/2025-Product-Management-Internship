@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Product Delivery Manager](https://jobright.ai/jobs/info/672172f4885549885a65f874?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 29 |
+| **[UL Solutions](https://www.ul.com/solutions)** | **[2025 Summer Intern: Software Product Management Intern](https://jobright.ai/jobs/info/672172f4885549885a65f863?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Oct 29 |
+| ↳ | **[2025 Summer Intern: Software Product Management Intern](https://jobright.ai/jobs/info/672172f4885549885a65f8f9?utm_campaign=1047&utm_source=git)** | Northbrook, IL | On Site | Oct 29 |
+| **[Chobani](http://www.chobani.com)** | **[Intern - Brand Innovation](https://jobright.ai/jobs/info/672153924e694e4fd72a2d23?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 29 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[(Spring) Product Development Co-op: January to June 2025](https://jobright.ai/jobs/info/67215c23c05151c8dca16a7a?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Oct 29 |
+| ↳ | **[(Spring) Shark Product Development Co-op: January to June 2025](https://jobright.ai/jobs/info/672151214cd73487e9a2aca9?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Oct 29 |
+| **[Promega Corporation](http://www.promega.com/es)** | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/67216e2823b93d13251e78c2?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Oct 29 |
 | **[IBM](http://www.ibm.com)** | **[Software Strategy and M&A Summer Intern: 2025](https://jobright.ai/jobs/info/67212c1c1f58bcaa34cefafb?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 29 |
 | **[Voya Investment Management](http://investments.voya.com)** | **[Summer Student - Fund Product Development](https://jobright.ai/jobs/info/67210a0053e70f1c3d750893?utm_campaign=1047&utm_source=git)** | Scottsdale, AZ | Hybrid | Oct 29 |
 | **[Zurn Elkay Water Solutions](https://zurn-elkay.com/)** | **[Product Management Intern Summer 2025](https://jobright.ai/jobs/info/6720fc5623396d66e35bf4f5?utm_campaign=1047&utm_source=git)** | Erie, PA | On Site | Oct 29 |
@@ -66,7 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Product Planning and Pricing](https://jobright.ai/jobs/info/6720e6bc2919fe322d79b219?utm_campaign=1047&utm_source=git)** | Camden, NJ | On Site | Oct 29 |
 | **[Capital Group](https://www.capitalgroup.com/us/landing-pages/linkedin-terms-of-use.html)** | **[CAMPUS: Digital Product Summer Associate (2025)](https://jobright.ai/jobs/info/6720d59f054ea6b8537a847e?utm_campaign=1047&utm_source=git)** | Los Angeles | On Site | Oct 29 |
 | **[Voya Financial](https://www.voya.com/)** | **[Summer Student - Fund Product Development](https://jobright.ai/jobs/info/6720c28f1c1fbc3a930a7979?utm_campaign=1047&utm_source=git)** | Scottsdale, AZ | Hybrid | Oct 29 |
-| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/6704972d7c9699b1a55d0c01?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Oct 29 |
+| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Content and Creators Product Management](https://jobright.ai/jobs/info/6704972d7c9699b1a55d0b60?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Oct 29 |
+| ↳ | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/6704972d7c9699b1a55d0c01?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Oct 29 |
 | ↳ | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/6704972d7c9699b1a55d0b3a?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Oct 29 |
 | ↳ | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/6704972d7c9699b1a55d0bfc?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Oct 29 |
 | ↳ | **[Summer Intern, Product Management - Automotive](https://jobright.ai/jobs/info/6704972d7c9699b1a55d0bfe?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Oct 29 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](http://www.delta.com)** | **[Intern, In-Flight Services, Digital Technology and Strategy (Summer 2025)](https://jobright.ai/jobs/info/66fc95f9e8f785e53b59c37d?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Oct 23 |
 | **[Pegasystems](http://www.pega.com)** | **[Product Managment Summer Intern](https://jobright.ai/jobs/info/6719d80cfa3a7c8bbddc9c20?utm_campaign=1047&utm_source=git)** | Waltham, MA | On Site | Oct 23 |
 | **[Whole Foods Market](http://www.wholefoodsmarket.com)** | **[Product Management Internship - Summer 2025](https://jobright.ai/jobs/info/6719e6714a290c4bda076e61?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Oct 23 |
-| **[HP](http://www.hp.com)** | **[Product Management Intern - Workforce Services and Solutions](https://jobright.ai/jobs/info/6719bb8492f825395666f37c?utm_campaign=1047&utm_source=git)** | Spring, Texas, United States of America | On Site | Oct 23 |
-| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Product Planning Intern](https://jobright.ai/jobs/info/6719ab7a69d84f2a98b99120?utm_campaign=1047&utm_source=git)** | Kirkland, WA | On Site | Oct 23 |
-| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/6719a538aaa12845f5229426?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Oct 23 |
-| **[Western National Insurance](https://wnins.com)** | **[Insurance Product Development Intern](https://jobright.ai/jobs/info/66d8d434af39d5f52a42f636?utm_campaign=1047&utm_source=git)** | Edina, MN | On Site | Oct 23 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Travel Technology Paid Intern](https://jobright.ai/jobs/info/671985f6337a40c3b63aa5a0?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Oct 23 |
-| **[Token Metrics](http://tokenmetrics.com)** | **[Crypto SaaS Product Manager Intern (London-Remote)](https://jobright.ai/jobs/info/6719835dfad2abbc753e3ddf?utm_campaign=1047&utm_source=git)** | Oregon, United States | Hybrid | Oct 23 |
-| ↳ | **[Crypto SaaS Product Manager Intern (Greece-Remote)](https://jobright.ai/jobs/info/6719835dfad2abbc753e3df9?utm_campaign=1047&utm_source=git)** | Oregon, United States | Hybrid | Oct 23 |
-| ↳ | **[Crypto SaaS Product Manager Intern (South Africa-Remote)](https://jobright.ai/jobs/info/6719805b0c0eeee6339027cd?utm_campaign=1047&utm_source=git)** | Oregon, United States | Hybrid | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
