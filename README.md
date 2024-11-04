@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manger MBA Intern (TikTok Shop - Seller Growth) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/66b613c9b6a41cebf81af50e?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 04 |
 | **[MTS Systems Corporation](http://www.mts.com)** | **[Ground Vehicles Product Management/Marketing Intern](https://jobright.ai/jobs/info/6727852550d45c19518d9b95?utm_campaign=1047&utm_source=git)** | Minnesota, United States | On Site | Nov 03 |
 | **[Oracle](https://www.oracle.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/670ba90429bade14bd9fc216?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 03 |
 | **[Walmart](http://www.walmart.com)** | **[2025 Summer Intern: Legacy I&A - Product Manager II](https://jobright.ai/jobs/info/67276ad5c3b1527c554d79b2?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Nov 03 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Lead Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66e2e4fd7f2ec10d812bed5a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 03 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Product Architecture](https://jobright.ai/jobs/info/6727514034808e09c8a94826?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ads Privacy & Targeting) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/66e18974a9e7bdd73fb59a04?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 02 |
 | ↳ | **[Product Strategy Intern (Global Business Solutions-Monetization Strategy and Operations) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/66e18521bb7c5c770a2b1022?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Nov 02 |
@@ -97,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[nCino, Inc.](http://ncino.com)** | **[Product Management Intern / Summer 2025](https://jobright.ai/jobs/info/6723f8d86a79defab9c7baa5?utm_campaign=1047&utm_source=git)** | Lehi, UT | On Site | Oct 31 |
 | ↳ | **[Product Management Intern / Summer 2025](https://jobright.ai/jobs/info/6723f8d86a79defab9c7bb45?utm_campaign=1047&utm_source=git)** | Wilmington, NC | On Site | Oct 31 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management Intern, RTX AI Workstation - Summer 2025](https://jobright.ai/jobs/info/6723e08690962ff694e3e480?utm_campaign=1047&utm_source=git)** | US, CA, Santa Clara | On Site | Oct 31 |
-| **[nCino, Inc.](http://ncino.com)** | **[Product Management Intern / Summer 2025](https://jobright.ai/jobs/info/6723d89565d3b2e61c591c7a?utm_campaign=1047&utm_source=git)** | Wilmington, NC | On Site | Oct 31 |
-| ↳ | **[Product Management Intern / Summer 2025](https://jobright.ai/jobs/info/6723d89565d3b2e61c591c1d?utm_campaign=1047&utm_source=git)** | US - Utah - Lehi | On Site | Oct 31 |
+| **[nCino, Inc.](http://ncino.com)** | **[Product Management Intern / Summer 2025](https://jobright.ai/jobs/info/6723d89565d3b2e61c591c1d?utm_campaign=1047&utm_source=git)** | US - Utah - Lehi | On Site | Oct 31 |
+| ↳ | **[Product Management Intern / Summer 2025](https://jobright.ai/jobs/info/6723d89565d3b2e61c591c7a?utm_campaign=1047&utm_source=git)** | Wilmington, NC | On Site | Oct 31 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Product Management Intern - Summer 2025](https://jobright.ai/jobs/info/6723d89565d3b2e61c591c1e?utm_campaign=1047&utm_source=git)** | Oconomowoc, Wisconsin | On Site | Oct 31 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Product Development and Merchandising Spring Intern](https://jobright.ai/jobs/info/6723b45ecc7aa61704fddd48?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 31 |
 | **[Coesia S.p.A.](http://www.coesia.com)** | **[Product and Marketing Co Op](https://jobright.ai/jobs/info/6723ac60053116add3369c43?utm_campaign=1047&utm_source=git)** | Covington, KY | On Site | Oct 31 |
@@ -121,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Public Cloud ERP Product Management](https://jobright.ai/jobs/info/6722d8d927730ae7418174e4?utm_campaign=1047&utm_source=git)** | Bellevue, WA | Hybrid | Oct 30 |
 | **[WEX](http://www.wexinc.com)** | **[Intern - Growth Product Manager](https://jobright.ai/jobs/info/6722d3ef4d2cb73be4c8456a?utm_campaign=1047&utm_source=git)** | Maine, United States | Remote | Oct 30 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Strategic Sourcing Intern - New Product Development - The Toro Company](https://jobright.ai/jobs/info/6705290ca5349807cca8c8d7?utm_campaign=1047&utm_source=git)** | Bloomington, MN | On Site | Oct 30 |
-| **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Product Management - Part Time](https://jobright.ai/jobs/info/6722c8c2bc0591402a4c3079?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Oct 30 |
-| ↳ | **[Spring Intern, Product Analyst - Part Time](https://jobright.ai/jobs/info/6722c8c2bc0591402a4c3084?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Oct 30 |
+| **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Product Analyst - Part Time](https://jobright.ai/jobs/info/6722c8c2bc0591402a4c3084?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Oct 30 |
+| ↳ | **[Spring Intern, Product Management - Part Time](https://jobright.ai/jobs/info/6722c8c2bc0591402a4c3079?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Oct 30 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2025 Merchandise Planning Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/6705c1f0a7d8864c74d0b412?utm_campaign=1047&utm_source=git)** | Reynoldsburg, OH | Hybrid | Oct 30 |
 | **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Product Management, Automotive - Part Time](https://jobright.ai/jobs/info/6722b4671e2ea8bba46a968f?utm_campaign=1047&utm_source=git)** | Lawrenceville, NJ | Hybrid | Oct 30 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate - 2025 Global Commercial Services Product Management Internship New York, NY](https://jobright.ai/jobs/info/671884515326dfae1bfe13b3?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Oct 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Software Strategy and M&A Summer Intern: 2025](https://jobright.ai/jobs/info/67212c1c1f58bcaa34cefafb?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 29 |
 | **[Voya Investment Management](http://investments.voya.com)** | **[Summer Student - Fund Product Development](https://jobright.ai/jobs/info/67210a0053e70f1c3d750893?utm_campaign=1047&utm_source=git)** | Scottsdale, AZ | Hybrid | Oct 29 |
 | **[Zurn Elkay Water Solutions](https://zurn-elkay.com/)** | **[Product Management Intern Summer 2025](https://jobright.ai/jobs/info/6720fc5623396d66e35bf4f5?utm_campaign=1047&utm_source=git)** | Erie, PA | On Site | Oct 29 |
-| **[Microsoft](https://www.microsoft.com)** | **[Product Manager: Internship Opportunities - Atlanta](https://jobright.ai/jobs/info/6720f6f35bbbca9d039c1217?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Oct 29 |
-| **[Capital Group](https://www.capitalgroup.com/us/landing-pages/linkedin-terms-of-use.html)** | **[CAMPUS: Global Product Strategy & Development Summer Associate (2025)](https://jobright.ai/jobs/info/6720eb3940b6f1badee864d3?utm_campaign=1047&utm_source=git)** | Los Angeles | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
