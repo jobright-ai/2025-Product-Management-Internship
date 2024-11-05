@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bass Pro Shops](https://www.basspro.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/67298dd0bc473ca542a50981?utm_campaign=1047&utm_source=git)** | Springfield, MO | On Site | Nov 04 |
+| **[Paramount](https://www.paramount.com)** | **[Product Management Internships (Summer 2025, Hybrid - NYC/LA)](https://jobright.ai/jobs/info/67297f356abe2e9d5f9cd904?utm_campaign=1047&utm_source=git)** | Burbank, CA | Hybrid | Nov 04 |
+| **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern - IL](https://jobright.ai/jobs/info/67297c8a0d23fb661cc56c90?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Nov 04 |
+| **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - DX Product Manager](https://jobright.ai/jobs/info/672968d4b934ac6799e4c21a?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Nov 04 |
+| ↳ | **[2025 SAMI Intern - Product Management, Adobe.com](https://jobright.ai/jobs/info/672968d4b934ac6799e4c236?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 04 |
+| ↳ | **[2025 SAMI Intern - Product Manager, Adobe.com](https://jobright.ai/jobs/info/672968d4b934ac6799e4c22f?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Nov 04 |
 | **[King](https://www.king.com/)** | **[Product Manager Internship](https://jobright.ai/jobs/info/67295946d9de5e445df4de0e?utm_campaign=1047&utm_source=git)** | San Francisco - King - 555 California Street | On Site | Nov 04 |
 | **[AAR](http://aarcorp.com)** | **[Product Line Intern, Defense](https://jobright.ai/jobs/info/672952ca89cfa24b78ad2869?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | Nov 04 |
 | ↳ | **[Product Line Intern](https://jobright.ai/jobs/info/672952ca89cfa24b78ad2871?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | Nov 04 |
@@ -65,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[DriveWealth](https://drivewealth.com)** | **[Summer 2025 Intern, Product Management](https://jobright.ai/jobs/info/672952e14296de8fe60073a1?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 04 |
 | **[Oracle](https://www.oracle.com)** | **[OCI G2S Product Manager Intern - OVIP](https://jobright.ai/jobs/info/67292c8fb04bb3d4c6982b6e?utm_campaign=1047&utm_source=git)** | Reston, VA | On Site | Nov 04 |
 | ↳ | **[OCI G2S Product Manager Intern - OVIP](https://jobright.ai/jobs/info/67292c8fb04bb3d4c6982c2e?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Nov 04 |
-| ↳ | **[OCI G2S Product Manager Intern - OVIP](https://jobright.ai/jobs/info/67292c8fb04bb3d4c6982c30?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Nov 04 |
 | **[DRB](https://drb.com)** | **[Product Lifecycle Management Intern - Summer 2025](https://jobright.ai/jobs/info/672916db0396748d91311d6f?utm_campaign=1047&utm_source=git)** | Akron, OH | On Site | Nov 04 |
 | **[Voya Financial](https://www.voya.com/)** | **[Summer Student - Alternative Product Solutions](https://jobright.ai/jobs/info/67290e958f770d1a18b18d7e?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 04 |
 | **[NISC](http://www.nisc.coop/)** | **[Apply to NISC's Product Management Division](https://jobright.ai/jobs/info/6728d685736fb463037bce05?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Nov 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Masters Internship (Summer 2025)](https://jobright.ai/jobs/info/66d842f3c5260d8864df0f99?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Oct 30 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Product Management MBA Intern: LA - Summer 2025](https://jobright.ai/jobs/info/67053d09e96d8f4c85aa20cc?utm_campaign=1047&utm_source=git)** | Burbank, CA | On Site | Oct 30 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Associate Technical Inbound Product Manager Intern](https://jobright.ai/jobs/info/67232eb54a593fb63b2f5ac9?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Oct 30 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Product and Technology Strategy Masters Internship (Summer 2025)](https://jobright.ai/jobs/info/66d1f0a105a4899c5e1d5bac?utm_campaign=1047&utm_source=git)** | Westerville, OH | On Site | Oct 30 |
-| **[Cisco](http://www.cisco.com)** | **[Product Management Intern (MBA) - Summer 2025 Internship (Meraki)](https://jobright.ai/jobs/info/6705c789bb90fb472a47e689?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Oct 30 |
-| **[Duolingo](https://www.duolingo.com)** | **[Associate Product Manager, Thrive Intern](https://jobright.ai/jobs/info/6705974ae07b0853b87e34a1?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Oct 30 |
-| **[American Modern Insurance Group](https://www.amig.com/)** | **[Intern - Product Long-Term](https://jobright.ai/jobs/info/66ccb4369cd76ad1142aa4ab?utm_campaign=1047&utm_source=git)** | Cincinnati Metro | Hybrid | Oct 30 |
-| **[Sony Interactive Entertainment](https://www.sie.com)** | **[Product Management Intern, Innovation - MBA or Master's](https://jobright.ai/jobs/info/6721b111a8ad040b0c4ad609?utm_campaign=1047&utm_source=git)** | United States | Remote | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
