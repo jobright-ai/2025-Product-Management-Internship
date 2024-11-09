@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Internship](https://jobright.ai/jobs/info/672f123dbda1a10fe6da66af?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 08 |
+| **[Moody's](https://www.moodysanalytics.com)** | **[Product Analyst Summer Intern](https://jobright.ai/jobs/info/672ede9a4cbd4ddbc1ebb15d?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 08 |
+| **[Numerator](http://numerator.com)** | **[Data Product Management Intern](https://jobright.ai/jobs/info/672eda92d7d2f714e0aa2cc9?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Nov 08 |
 | **[Intapp](http://www.intapp.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/672ed50d71466c468ab7ba9e?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Nov 08 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Lightroom Product Research](https://jobright.ai/jobs/info/672ea49ebcfd41b14d82e993?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 08 |
 | **[dormakaba Americas](http://www.e-data.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/672e96f8c569b915379c4152?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | On Site | Nov 08 |
@@ -108,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[GitHub](https://github.com)** | **[Product Manager II - Intern](https://jobright.ai/jobs/info/672bf278f5b9196d69af43f9?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 06 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[12 Month Geospatial Intern](https://jobright.ai/jobs/info/66f3107607cfcb3f4e41171b?utm_campaign=1047&utm_source=git)** | Westminster, CO | On Site | Nov 06 |
 | **[Oracle](https://www.oracle.com/)** | **[OCI G2S Product Manager Intern - OVIP](https://jobright.ai/jobs/info/67292c8fb04bb3d4c6982b6e?utm_campaign=1047&utm_source=git)** | Reston, VA | On Site | Nov 06 |
-| **[Fortrea](https://www.fortrea.com)** | **[Technical Product Owner - Intern](https://jobright.ai/jobs/info/672bdbb1c99efd38113a6f6b?utm_campaign=1047&utm_source=git)** | Remote_United States | On Site | Nov 06 |
-| ↳ | **[Technical Product Owner - Intern](https://jobright.ai/jobs/info/672bdbb1c99efd38113a6f13?utm_campaign=1047&utm_source=git)** | Durham NC | On Site | Nov 06 |
+| **[Fortrea](https://www.fortrea.com)** | **[Technical Product Owner - Intern](https://jobright.ai/jobs/info/672bdbb1c99efd38113a6f13?utm_campaign=1047&utm_source=git)** | Durham NC | On Site | Nov 06 |
+| ↳ | **[Technical Product Owner - Intern](https://jobright.ai/jobs/info/672bdbb1c99efd38113a6f6b?utm_campaign=1047&utm_source=git)** | Remote_United States | On Site | Nov 06 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Savings & Membership - Product Strategist)](https://jobright.ai/jobs/info/66f28f0bbfb88b386e9b141a?utm_campaign=1047&utm_source=git)** | Vienna, VA | Hybrid | Nov 06 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Global Product Strategy Merchandising Intern, Spring 2025](https://jobright.ai/jobs/info/672b9e888d8318775dec2229?utm_campaign=1047&utm_source=git)** | Kissimmee, FL | On Site | Nov 06 |
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2025 Digital Channels & Payments Intern](https://jobright.ai/jobs/info/672b7d1a71c7a99f3718a42e?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Nov 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - DX Product Manager](https://jobright.ai/jobs/info/672968d4b934ac6799e4c21a?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Nov 04 |
 | ↳ | **[2025 SAMI Intern - Product Manager, Adobe.com](https://jobright.ai/jobs/info/672968d4b934ac6799e4c22f?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Nov 04 |
 | **[King](https://www.king.com/)** | **[Product Manager Internship](https://jobright.ai/jobs/info/67295946d9de5e445df4de0e?utm_campaign=1047&utm_source=git)** | San Francisco - King - 555 California Street | On Site | Nov 04 |
-| **[AAR](http://aarcorp.com)** | **[Product Line Intern, Defense](https://jobright.ai/jobs/info/672952ca89cfa24b78ad2869?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | Nov 04 |
-| ↳ | **[Product Line Intern](https://jobright.ai/jobs/info/672952ca89cfa24b78ad2871?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | Nov 04 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Product Management Internships - Summer 2025](https://jobright.ai/jobs/info/67294850c32ee3deb4dc7b9e?utm_campaign=1047&utm_source=git)** | Universal City, CA | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
