@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lyra Health](http://www.lyrahealth.com)** | **[Clinical Product Intern](https://jobright.ai/jobs/info/672fc86e4f6bde85fa4929a6?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 09 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc. Product Management Graduate Internship](https://jobright.ai/jobs/info/66e598a6d72748fd9fb876b3?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Nov 09 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/671a6f57431b750db02030cc?utm_campaign=1047&utm_source=git)** | Alpharetta, GA | On Site | Nov 09 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern - TX](https://jobright.ai/jobs/info/67136809f750b40fa5932629?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Nov 09 |
@@ -115,13 +116,14 @@ For a complete list, click the following sortable link below:
 | **[Labcorp](https://www.labcorp.com/)** | **[Technical Product Owner - Intern](https://jobright.ai/jobs/info/672c150689301864d9b320d3?utm_campaign=1047&utm_source=git)** | Durham, NC | On Site | Nov 06 |
 | **[Oracle](https://www.oracle.com/)** | **[OCI G2S Product Manager Intern - OVIP](https://jobright.ai/jobs/info/67292c8fb04bb3d4c6982c2c?utm_campaign=1047&utm_source=git)** | Reston, VA | On Site | Nov 06 |
 | **[GitHub](https://github.com)** | **[Product Manager II - Intern](https://jobright.ai/jobs/info/672bf278f5b9196d69af43f9?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 06 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Partnerships MBA Intern (Monetization Product Partnerships) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/66e1a04d2d4d8a6bc1e4265b?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Nov 06 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[12 Month Geospatial Intern](https://jobright.ai/jobs/info/66f3107607cfcb3f4e41171b?utm_campaign=1047&utm_source=git)** | Westminster, CO | On Site | Nov 06 |
 | **[Oracle](https://www.oracle.com/)** | **[OCI G2S Product Manager Intern - OVIP](https://jobright.ai/jobs/info/67292c8fb04bb3d4c6982b6e?utm_campaign=1047&utm_source=git)** | Reston, VA | On Site | Nov 06 |
-| **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2025 Digital Channels & Payments Intern](https://jobright.ai/jobs/info/672bee52020f91413ae25888?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Nov 06 |
-| **[Fortrea](https://www.fortrea.com)** | **[Technical Product Owner - Intern](https://jobright.ai/jobs/info/672bdbb1c99efd38113a6f6b?utm_campaign=1047&utm_source=git)** | Remote_United States | On Site | Nov 06 |
-| ↳ | **[Technical Product Owner - Intern](https://jobright.ai/jobs/info/672bdbb1c99efd38113a6f13?utm_campaign=1047&utm_source=git)** | Durham NC | On Site | Nov 06 |
+| **[Fortrea](https://www.fortrea.com)** | **[Technical Product Owner - Intern](https://jobright.ai/jobs/info/672bdbb1c99efd38113a6f13?utm_campaign=1047&utm_source=git)** | Durham NC | On Site | Nov 06 |
+| ↳ | **[Technical Product Owner - Intern](https://jobright.ai/jobs/info/672bdbb1c99efd38113a6f6b?utm_campaign=1047&utm_source=git)** | Remote_United States | On Site | Nov 06 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Savings & Membership - Product Strategist)](https://jobright.ai/jobs/info/66f28f0bbfb88b386e9b141a?utm_campaign=1047&utm_source=git)** | Vienna, VA | Hybrid | Nov 06 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Global Product Strategy Merchandising Intern, Spring 2025](https://jobright.ai/jobs/info/672b9e888d8318775dec2229?utm_campaign=1047&utm_source=git)** | Kissimmee, FL | On Site | Nov 06 |
+| **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2025 Digital Channels & Payments Intern](https://jobright.ai/jobs/info/672b7d1a71c7a99f3718a42e?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Nov 06 |
 | **[CSG](http://www.csgi.com/)** | **[Product Management Summer Intern](https://jobright.ai/jobs/info/672b6b4104e2cda065b7f527?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 06 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Product Manager)](https://jobright.ai/jobs/info/66f2ab2607a75121d38b2538?utm_campaign=1047&utm_source=git)** | Pensacola, FL | Hybrid | Nov 06 |
 | **[Genentech](http://gene.com)** | **[2025 Summer Intern - Global Product Strategy](https://jobright.ai/jobs/info/672b586337d97873ac40917b?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Nov 06 |
@@ -140,6 +142,7 @@ For a complete list, click the following sortable link below:
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc. Footwear Product Line Management Undergraduate Internship](https://jobright.ai/jobs/info/67137444bec2f17d232450fd?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Nov 05 |
 | **[Oracle](https://www.oracle.com/)** | **[OCI G2S Product Manager Intern - OVIP](https://jobright.ai/jobs/info/672ac49c73153ecf0ab16a7a?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 05 |
 | ↳ | **[OCI G2S Product Manager Intern - OVIP](https://jobright.ai/jobs/info/672ad3cb032781eda8399fcd?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 05 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Partnerships MBA Intern (Monetization Product Partnerships) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/66e18521bb7c5c770a2b0f87?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Nov 05 |
 | **[GitHub](https://github.com)** | **[Product Manager I - Intern](https://jobright.ai/jobs/info/672aa2cb3bc24e73f890ea1d?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 05 |
 | **[Visa](https://www.visa.com)** | **[Product Analyst Intern - Visa Advance Decisioning Platform, Summer 2025](https://jobright.ai/jobs/info/672aa5a6319cd7bf223989de?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Nov 05 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Manager: Internship- Neurodiversity Hiring Program](https://jobright.ai/jobs/info/672a9b79f3aff339234ff92c?utm_campaign=1047&utm_source=git)** | Redmond, WA | Hybrid | Nov 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/672a2fc949dccf5040531545?utm_campaign=1047&utm_source=git)** | Boston, MA, USA | On Site | Nov 05 |
 | **[Bose Corporation](https://www.bose.com/en_us/index.html)** | **[Product Manager - Intern](https://jobright.ai/jobs/info/66f2629558b6548927b755f3?utm_campaign=1047&utm_source=git)** | Framingham, MA | On Site | Nov 05 |
 | **[Tanium](http://www.tanium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f1a6c46d831cd26fee53d8?utm_campaign=1047&utm_source=git)** | Emeryville, CA | Hybrid | Nov 05 |
-| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2025 Internship- Phoenix/Chandler, AZ-IT National Business Lines](https://jobright.ai/jobs/info/672a0b8334fa43f69a6c02b0?utm_campaign=1047&utm_source=git)** | Phoenix, AZ | On Site | Nov 05 |
-| **[Pegasystems](http://www.pega.com)** | **[MBA Product Management Summer Intern](https://jobright.ai/jobs/info/66f2f98eeba303659ec66ea7?utm_campaign=1047&utm_source=git)** | Waltham, MA | On Site | Nov 05 |
-| **[NVIDIA](https://www.nvidia.com)** | **[NVIDIA 2025 Internships: MBA Product Management](https://jobright.ai/jobs/info/670debadce5ab939651f037b?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
