@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[JLG Industries](http://www.jlg.com/en)** | **[Product Management Intern](https://jobright.ai/jobs/info/67301b007920b7c26e5c17ec?utm_campaign=1047&utm_source=git)** | Hagerstown, MD | Hybrid | Nov 09 |
+| **[JLG Industries](http://www.jlg.com/en)** | **[Aftermarket Product Analyst Intern](https://jobright.ai/jobs/info/67306cb846a3e1b9ff6d24b4?utm_campaign=1047&utm_source=git)** | Hagerstown, MD | Hybrid | Nov 09 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/67301b007920b7c26e5c17ec?utm_campaign=1047&utm_source=git)** | Hagerstown, MD | Hybrid | Nov 09 |
 | **[Lyra Health](http://www.lyrahealth.com)** | **[Clinical Product Intern](https://jobright.ai/jobs/info/672fc86e4f6bde85fa4929a6?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 09 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc. Product Management Graduate Internship](https://jobright.ai/jobs/info/66e598a6d72748fd9fb876b3?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Nov 09 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/671a6f57431b750db02030cc?utm_campaign=1047&utm_source=git)** | Alpharetta, GA | On Site | Nov 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CSG](http://www.csgi.com/)** | **[Product Management Summer Intern](https://jobright.ai/jobs/info/672a49bcc1360ccba592ba81?utm_campaign=1047&utm_source=git)** | United States Remote | On Site | Nov 05 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Global Product Strategy Merchandising Intern, Spring 2025](https://jobright.ai/jobs/info/672a4436fc87665d2d119bcc?utm_campaign=1047&utm_source=git)** | Kissimmee, FL, USA | On Site | Nov 05 |
 | **[PTC](http://www.ptc.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/672a4477862601a9a7ffb12b?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Nov 05 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/672a2fc949dccf5040531545?utm_campaign=1047&utm_source=git)** | Boston, MA, USA | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
