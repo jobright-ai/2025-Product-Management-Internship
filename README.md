@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JLG Industries](http://www.jlg.com/en)** | **[Product Management Intern](https://jobright.ai/jobs/info/67301b007920b7c26e5c17ec?utm_campaign=1047&utm_source=git)** | Hagerstown, MD | Hybrid | Nov 09 |
 | **[Lyra Health](http://www.lyrahealth.com)** | **[Clinical Product Intern](https://jobright.ai/jobs/info/672fc86e4f6bde85fa4929a6?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 09 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc. Product Management Graduate Internship](https://jobright.ai/jobs/info/66e598a6d72748fd9fb876b3?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Nov 09 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/671a6f57431b750db02030cc?utm_campaign=1047&utm_source=git)** | Alpharetta, GA | On Site | Nov 09 |
@@ -82,10 +83,11 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Product Management Specialist (Intern) United States](https://jobright.ai/jobs/info/672df6dcd1f9110fc55d2bbd?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Nov 08 |
 | ↳ | **[Product Management Specialist (Intern) United States](https://jobright.ai/jobs/info/672df6dcd1f9110fc55d2bbe?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 08 |
 | **[New York Life Insurance Company](http://www.newyorklife.com)** | **[2025 Technology Summer Internship Program - Technology Analyst](https://jobright.ai/jobs/info/672df7bbe003bbee165503aa?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
-| **[Autodesk](http://www.autodesk.com)** | **[Intern, Product Analyst](https://jobright.ai/jobs/info/672db872301f682806b8a968?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Nov 07 |
+| **[Autodesk](http://www.autodesk.com)** | **[Intern, Product Analyst](https://jobright.ai/jobs/info/672db872301f682806b8aa46?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Nov 07 |
 | **[Yahoo](http://www.yahoo.com)** | **[Product Management Intern - Mail Intelligence](https://jobright.ai/jobs/info/672d97bca0d3d516a88e1f2c?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 07 |
 | ↳ | **[Summer MBA Product Management Intern, Yahoo Finance (Personal Finance)](https://jobright.ai/jobs/info/672d83eae5c31ad3324c4ddd?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Nov 07 |
 | **[Cintas](http://www.cintas.com)** | **[Intern - Product Development](https://jobright.ai/jobs/info/672d7902f110dcf3c0f0f100?utm_campaign=1047&utm_source=git)** | Mason, OH | On Site | Nov 07 |
+| **[ServiceNow](http://www.servicenow.com)** | **[Experience Team (EX) - Product Content Internships (Tech Writer and Tech Editor) - Summer 2025](https://jobright.ai/jobs/info/67230e9a9a6119331b3e5dc4?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Nov 07 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[WAVE Tactical Product Intern - Summer 2025](https://jobright.ai/jobs/info/672d5ed7e054cfb1d33d9f8b?utm_campaign=1047&utm_source=git)** | Allen, TX | Hybrid | Nov 07 |
 | **[Yahoo](http://www.yahoo.com)** | **[Product Management Intern - Mail Intelligence](https://jobright.ai/jobs/info/672d512f080a6621a395c159?utm_campaign=1047&utm_source=git)** | United States of America - Remote | Remote | Nov 07 |
 | **[DataVisor](http://www.datavisor.com)** | **[Product Manager](https://jobright.ai/jobs/info/672d48ff2bbd900374f3f7ef?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Nov 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Global Product Strategy Merchandising Intern, Spring 2025](https://jobright.ai/jobs/info/672a4436fc87665d2d119bcc?utm_campaign=1047&utm_source=git)** | Kissimmee, FL, USA | On Site | Nov 05 |
 | **[PTC](http://www.ptc.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/672a4477862601a9a7ffb12b?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Nov 05 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/672a2fc949dccf5040531545?utm_campaign=1047&utm_source=git)** | Boston, MA, USA | On Site | Nov 05 |
-| **[Bose Corporation](https://www.bose.com/en_us/index.html)** | **[Product Manager - Intern](https://jobright.ai/jobs/info/66f2629558b6548927b755f3?utm_campaign=1047&utm_source=git)** | Framingham, MA | On Site | Nov 05 |
-| **[Tanium](http://www.tanium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f1a6c46d831cd26fee53d8?utm_campaign=1047&utm_source=git)** | Emeryville, CA | Hybrid | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
