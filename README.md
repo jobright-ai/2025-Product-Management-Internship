@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Product Development Intern (Summer 2025) - Solon, OH](https://jobright.ai/jobs/info/66faf7224dd6ed697fc06d9a?utm_campaign=1047&utm_source=git)** | Solon, OH | On Site | Nov 12 |
 | **[EmazingGroup - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[iHR Buying Intern](https://jobright.ai/jobs/info/67331f26779857a4f36b8bba?utm_campaign=1047&utm_source=git)** | Anaheim, CA | On Site | Nov 11 |
 | **[Duolingo](https://www.duolingo.com)** | **[Product Manager, MBA Intern](https://jobright.ai/jobs/info/6732bba73d3fbaff31b69c1f?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Nov 11 |
 | **[EmazingGroup - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[Buying Intern](https://jobright.ai/jobs/info/6732c43138b5e5c36e4abe6f?utm_campaign=1047&utm_source=git)** | Anaheim, CA | On Site | Nov 11 |
@@ -86,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Haleon](http://www.haleon.com/)** | **[2025 Summer Internship: Product Development](https://jobright.ai/jobs/info/66f7e19621002c9db238f976?utm_campaign=1047&utm_source=git)** | Richmond, VA | Hybrid | Nov 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Global Product Solutions and Operations Intern (Core Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66e2fecad3df2cf8909fe2cf?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Nov 10 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Sr. Product Manager Intern (MBA Degree) - Summer 2025](https://jobright.ai/jobs/info/66e19644123fa518c952ceac?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Nov 10 |
+| **[American Express](http://www.americanexpress.com)** | **[Campus Graduate - 2025 Global Merchant & Network Services Product Development Summer Internship New York, NY](https://jobright.ai/jobs/info/66db791dbf940017c209c69f?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
 | **[Raven Industries](http://ravenind.com)** | **[Product Development Purchasing Intern](https://jobright.ai/jobs/info/66f7137dbb692bf70848ab22?utm_campaign=1047&utm_source=git)** | New Holland, PA | On Site | Nov 09 |
 | **[Oatey Company](https://www.oatey.com//)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f6fa4c7c3c1d6f7b252e97?utm_campaign=1047&utm_source=git)** | Cleveland, OH | Hybrid | Nov 09 |
 | **[JLG Industries](http://www.jlg.com/en)** | **[Aftermarket Product Analyst Intern](https://jobright.ai/jobs/info/67306cb846a3e1b9ff6d24b4?utm_campaign=1047&utm_source=git)** | Hagerstown, MD | Hybrid | Nov 09 |
@@ -145,6 +147,7 @@ For a complete list, click the following sortable link below:
 | **[Labcorp](https://www.labcorp.com/)** | **[IT Product Management Intern](https://jobright.ai/jobs/info/67103b7fae5542dc1aaf319e?utm_campaign=1047&utm_source=git)** | Durham, NC | On Site | Nov 07 |
 | ↳ | **[IT Product Management Intern](https://jobright.ai/jobs/info/67102ddac015b232b33809e5?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Nov 07 |
 | **[ofi](https://www.ofi.com)** | **[2025 Summer Intern: Product Development](https://jobright.ai/jobs/info/670fa19fe246d3964bdb8d8b?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Nov 07 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Web Ads and Open-Loop E-Commerce) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/66e18974a9e7bdd73fb59c15?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Nov 07 |
 | **[Palomar](https://plmr.com)** | **[2025 Palomar Product Management Summer Internship](https://jobright.ai/jobs/info/672c7e96082e9f1a41db3465?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Nov 06 |
 | **[dormakaba Americas](http://www.e-data.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/672c551ea788b259e752a1e9?utm_campaign=1047&utm_source=git)** | Lexington, KY | On Site | Nov 06 |
 | **[Oracle](https://www.oracle.com/)** | **[OCI G2S Product Manager Intern - OVIP](https://jobright.ai/jobs/info/67292c8fb04bb3d4c6982c2e?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Nov 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Labcorp](https://www.labcorp.com/)** | **[Technical Product Owner - Intern](https://jobright.ai/jobs/info/672c150689301864d9b320d3?utm_campaign=1047&utm_source=git)** | Durham, NC | On Site | Nov 06 |
 | **[Oracle](https://www.oracle.com/)** | **[OCI G2S Product Manager Intern - OVIP](https://jobright.ai/jobs/info/67292c8fb04bb3d4c6982c2c?utm_campaign=1047&utm_source=git)** | Reston, VA | On Site | Nov 06 |
 | **[GitHub](https://github.com)** | **[Product Manager II - Intern](https://jobright.ai/jobs/info/672bf278f5b9196d69af43f9?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 06 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Partnerships MBA Intern (Monetization Product Partnerships) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/66e1a04d2d4d8a6bc1e4265b?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Nov 06 |
-| **[Trimble Inc.](http://www.trimble.com)** | **[12 Month Geospatial Intern](https://jobright.ai/jobs/info/66f3107607cfcb3f4e41171b?utm_campaign=1047&utm_source=git)** | Westminster, CO | On Site | Nov 06 |
-| **[Oracle](https://www.oracle.com/)** | **[OCI G2S Product Manager Intern - OVIP](https://jobright.ai/jobs/info/67292c8fb04bb3d4c6982b6e?utm_campaign=1047&utm_source=git)** | Reston, VA | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
