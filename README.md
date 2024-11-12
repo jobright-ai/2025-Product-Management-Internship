@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EmazingGroup - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[iHR Buying Intern](https://jobright.ai/jobs/info/67331f26779857a4f36b8bba?utm_campaign=1047&utm_source=git)** | Anaheim, CA | On Site | Nov 11 |
 | **[Duolingo](https://www.duolingo.com)** | **[Product Manager, MBA Intern](https://jobright.ai/jobs/info/6732bba73d3fbaff31b69c1f?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Nov 11 |
 | **[EmazingGroup - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[Buying Intern](https://jobright.ai/jobs/info/6732c43138b5e5c36e4abe6f?utm_campaign=1047&utm_source=git)** | Anaheim, CA | On Site | Nov 11 |
 | **[CoreLogic](https://www.corelogic.com/)** | **[Intern, Product Management](https://jobright.ai/jobs/info/67329991ab6973951fc3e0b5?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Nov 11 |
@@ -90,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[JLG Industries](http://www.jlg.com/en)** | **[Aftermarket Product Analyst Intern](https://jobright.ai/jobs/info/67306cb846a3e1b9ff6d24b4?utm_campaign=1047&utm_source=git)** | Hagerstown, MD | Hybrid | Nov 09 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/67301b007920b7c26e5c17ec?utm_campaign=1047&utm_source=git)** | Hagerstown, MD | Hybrid | Nov 09 |
 | **[Lyra Health](http://www.lyrahealth.com)** | **[Clinical Product Intern](https://jobright.ai/jobs/info/672fc86e4f6bde85fa4929a6?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 09 |
-| **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Intern](https://jobright.ai/jobs/info/672f123dbda1a10fe6da66af?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 09 |
 | **[Veeam Software](http://www.veeam.com)** | **[Product Strategy Intern - Summer 2025](https://jobright.ai/jobs/info/66da3192e9226523c04209d6?utm_campaign=1047&utm_source=git)** | Ohio, United States | On Site | Nov 09 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Associate Product Manager, Technical /GenAI/ Internship](https://jobright.ai/jobs/info/672c287ab317fca7f12af045?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Nov 09 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc. Product Management Graduate Internship](https://jobright.ai/jobs/info/66e598a6d72748fd9fb876b3?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Nov 09 |
@@ -98,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern - TX](https://jobright.ai/jobs/info/67136809f750b40fa5932629?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Nov 09 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Loan Servicing Specialist](https://jobright.ai/jobs/info/6712c7ceea33a6e08d442f2c?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | Hybrid | Nov 09 |
 | **[Intapp](http://www.intapp.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/672f5114841cd19aa25f096a?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Nov 09 |
+| **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Internship](https://jobright.ai/jobs/info/672f123dbda1a10fe6da66af?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 08 |
 | **[Moody's](https://www.moodysanalytics.com)** | **[Product Analyst Summer Intern](https://jobright.ai/jobs/info/672ede9a4cbd4ddbc1ebb15d?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 08 |
 | **[Numerator](http://numerator.com)** | **[Data Product Management Intern](https://jobright.ai/jobs/info/672eda92d7d2f714e0aa2cc9?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Nov 08 |
 | **[Intapp](http://www.intapp.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/672ed50d71466c468ab7ba9e?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Nov 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Partnerships MBA Intern (Monetization Product Partnerships) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/66e1a04d2d4d8a6bc1e4265b?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Nov 06 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[12 Month Geospatial Intern](https://jobright.ai/jobs/info/66f3107607cfcb3f4e41171b?utm_campaign=1047&utm_source=git)** | Westminster, CO | On Site | Nov 06 |
 | **[Oracle](https://www.oracle.com/)** | **[OCI G2S Product Manager Intern - OVIP](https://jobright.ai/jobs/info/67292c8fb04bb3d4c6982b6e?utm_campaign=1047&utm_source=git)** | Reston, VA | On Site | Nov 06 |
-| **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2025 Digital Channels & Payments Intern](https://jobright.ai/jobs/info/672bee52020f91413ae25888?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
