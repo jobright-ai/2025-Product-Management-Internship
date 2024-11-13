@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Moody's Corporation](www.moodys.com)** | **[Product Analyst Summer Intern](https://jobright.ai/jobs/info/672ede9a4cbd4ddbc1ebb15d?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 12 |
+| **[Dorman Products](https://www.dormanproducts.com/)** | **[Product Intern](https://jobright.ai/jobs/info/673403d334d76ae898fee6a2?utm_campaign=1047&utm_source=git)** | Colmar, PA | Hybrid | Nov 12 |
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Product Innovation Intern, NA](https://jobright.ai/jobs/info/6733ef014bfd61c2655a0388?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Nov 12 |
 | **[The Trade Desk](http://thetradedesk.com)** | **[2025 Product Management Intern](https://jobright.ai/jobs/info/6733e6642b289772e921973e?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Nov 12 |
 | ↳ | **[2025 Product Management Intern](https://jobright.ai/jobs/info/6733e6642b289772e9219785?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Nov 12 |
@@ -121,9 +123,9 @@ For a complete list, click the following sortable link below:
 | **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Loan Servicing Specialist](https://jobright.ai/jobs/info/6712c7ceea33a6e08d442f2c?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | Hybrid | Nov 09 |
 | **[Intapp](http://www.intapp.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/672f5114841cd19aa25f096a?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Nov 09 |
 | **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Intern](https://jobright.ai/jobs/info/672f123dbda1a10fe6da66af?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 09 |
-| **[Moody's](https://www.moodysanalytics.com)** | **[Product Analyst Summer Intern](https://jobright.ai/jobs/info/672ede9a4cbd4ddbc1ebb15d?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 08 |
 | **[Numerator](http://numerator.com)** | **[Data Product Management Intern](https://jobright.ai/jobs/info/672eda92d7d2f714e0aa2cc9?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Nov 08 |
 | **[Intapp](http://www.intapp.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/672ed50d71466c468ab7ba9e?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Nov 08 |
+| **[Novanta Inc.](http://www.novanta.com)** | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/6711621417e98ce42005544a?utm_campaign=1047&utm_source=git)** | Mukilteo, WA | On Site | Nov 08 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Lightroom Product Research](https://jobright.ai/jobs/info/672ea49ebcfd41b14d82e993?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 08 |
 | **[dormakaba Americas](http://www.e-data.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/672e96f8c569b915379c4152?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | On Site | Nov 08 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/672e8b84b09057a00e35dabd?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | On Site | Nov 08 |
@@ -137,8 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Novanta Inc.](http://www.novanta.com)** | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/67117768e8ba99dfb0c6c762?utm_campaign=1047&utm_source=git)** | Bedford, MA | On Site | Nov 08 |
 | ↳ | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/67115faa618c77b8b16db9cd?utm_campaign=1047&utm_source=git)** | Apex, NC | On Site | Nov 08 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/67119614c9dd01992a5f612e?utm_campaign=1047&utm_source=git)** | Olathe, KS | On Site | Nov 08 |
-| **[Cisco](http://www.cisco.com)** | **[Product Management Specialist (Intern) United States](https://jobright.ai/jobs/info/672df6dcd1f9110fc55d2bbd?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Nov 08 |
-| ↳ | **[Product Management Specialist (Intern) United States](https://jobright.ai/jobs/info/672df6dcd1f9110fc55d2bbe?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 08 |
+| **[Cisco](http://www.cisco.com)** | **[Product Management Specialist (Intern) United States](https://jobright.ai/jobs/info/672df6dcd1f9110fc55d2bbe?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 08 |
 | **[New York Life Insurance Company](http://www.newyorklife.com)** | **[2025 Technology Summer Internship Program - Technology Analyst](https://jobright.ai/jobs/info/672df7bbe003bbee165503aa?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
 | **[iFIT](http://www.ifit.com)** | **[Physical Product Management Intern](https://jobright.ai/jobs/info/6731d1dd2edb440af3368aec?utm_campaign=1047&utm_source=git)** | Logan, UT | On Site | Nov 08 |
 | **[Yahoo](http://www.yahoo.com)** | **[Product Management Intern - Mail Intelligence](https://jobright.ai/jobs/info/672d97bca0d3d516a88e1f2c?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[dormakaba Americas](http://www.e-data.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/672ce9318ae4b35ddfc79b01?utm_campaign=1047&utm_source=git)** | Reamstown, PA | On Site | Nov 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Web Ads and Open-Loop E-Commerce) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/66e18521bb7c5c770a2b0ffe?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 07 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Manager: Internship Opportunities - Redmond](https://jobright.ai/jobs/info/6719f1cce5dd250a508bbc19?utm_campaign=1047&utm_source=git)** | Redmond, WA | On Site | Nov 07 |
-| **[Siemens](https://www.siemens.com/)** | **[Product Management & Marketing Intern - Fire Safety](https://jobright.ai/jobs/info/672ccec97ae1e62badbf5895?utm_campaign=1047&utm_source=git)** | Troy Hills, NJ | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
