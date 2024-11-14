@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Signify](https://www.signify.com)** | **[Category Management Intern Spring 2025 , COOPER LIGHTING SOLUTIONS](https://jobright.ai/jobs/info/67353488148cdc419a92174a?utm_campaign=1047&utm_source=git)** | Peachtree City, GA | On Site | Nov 13 |
+| **[Moody's Corporation](www.moodys.com)** | **[Product Management Internship](https://jobright.ai/jobs/info/673567c450ec35bd7b99a5e1?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 13 |
+| **[Nestlé Nespresso SA](https://www.beckson.com)** | **[Nespresso - Product Innovation Intern](https://jobright.ai/jobs/info/673567c450ec35bd7b99a5da?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 13 |
+| **[Electronic Arts (EA)](http://www.ea.com)** | **["Product Manager Intern, Master's or MBA - Summer 2025 (Apex Legends)"](https://jobright.ai/jobs/info/673568fb3efdbb45d1fd229b?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 13 |
+| **[NVIDIA](https://www.nvidia.com)** | **[Go-to-Market Product Manager Intern, Hardware - Summer 2025](https://jobright.ai/jobs/info/67354deda4ca89022fcce0a1?utm_campaign=1047&utm_source=git)** | US, CA, Santa Clara | On Site | Nov 13 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Travel Technology Paid Intern](https://jobright.ai/jobs/info/673543b62f4aebd16538cfd5?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Nov 13 |
+| **[Sony Interactive Entertainment](https://www.sie.com)** | **[Product Management Intern, Innovation - MBA or Master's](https://jobright.ai/jobs/info/67355b698953df310ef56989?utm_campaign=1047&utm_source=git)** | United States, Remote | Remote | Nov 13 |
 | **[Coinbase](http://www.coinbase.com)** | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/67352b7e73c3f68b9885cd5a?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 13 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Co-Op, Product Management](https://jobright.ai/jobs/info/67352cf4c92163a808efe677?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Nov 13 |
 | **[Numerator](http://numerator.com)** | **[DevOps Product Intern](https://jobright.ai/jobs/info/67352c0900bdc28b0d878ba6?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Nov 13 |
 | **[Barry-Wehmiller](https://www.barrywehmiller.com)** | **[DI Technical Product Management Intern](https://jobright.ai/jobs/info/673517931d7acaa5ed4c3f0b?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Nov 13 |
-| **[American Tower](https://www.americantower.com/)** | **[Product & Strategy Intern (Summer 2025)](https://jobright.ai/jobs/info/67352b7e73c3f68b9885cd48?utm_campaign=1047&utm_source=git)** | Woburn, MA | On Site | Nov 13 |
+| **[American Tower](https://www.americantower.com/)** | **[Product & Strategy Intern (Summer 2025)](https://jobright.ai/jobs/info/67352b7e73c3f68b9885ce25?utm_campaign=1047&utm_source=git)** | Woburn, MA | On Site | Nov 13 |
 | **[Signify](https://www.signify.com)** | **[Category Management Intern Spring 2025  , COOPER  LIGHTING  SOLUTIONS](https://jobright.ai/jobs/info/67350be1c416da0c72f23315?utm_campaign=1047&utm_source=git)** | Peachtree City | On Site | Nov 13 |
 | **[Red Hat](http://www.redhat.com)** | **[Product Management Internship](https://jobright.ai/jobs/info/67350345e0cab0518f5a065d?utm_campaign=1047&utm_source=git)** | Boston | On Site | Nov 13 |
 | ↳ | **[Product Management Internship](https://jobright.ai/jobs/info/67350345e0cab0518f5a05d5?utm_campaign=1047&utm_source=git)** | Raleigh | On Site | Nov 13 |
@@ -115,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Bank of China USA](http://www.bocusa.com)** | **[ADC/ADD New Product Development Intern](https://jobright.ai/jobs/info/67325a1d3b037fb14b250eeb?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 11 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I – Product Management](https://jobright.ai/jobs/info/6718840ef38028979720bde5?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Nov 11 |
 | **[Robinhood](https://www.robinhood.com)** | **[Associate Product Manager (Early Talent)](https://jobright.ai/jobs/info/67324d7b1a55f783a338261e?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Nov 11 |
-| ↳ | **[Associate Product Manager (Early Talent)](https://jobright.ai/jobs/info/67324d7b1a55f783a3382698?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 11 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[HD Product Intern](https://jobright.ai/jobs/info/6732346c80c5ee5cf1b2789f?utm_campaign=1047&utm_source=git)** | Colmar, PA | On Site | Nov 11 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Product Development Intern - Summer 2025](https://jobright.ai/jobs/info/6732331e5e1c404993971d87?utm_campaign=1047&utm_source=git)** | Chicago Triangle Plaza | On Site | Nov 11 |
 | **[LightGuide](http://lightguidesys.com/)** | **[Sales and Product Management Co-op](https://jobright.ai/jobs/info/673239bb5e7785070302483e?utm_campaign=1047&utm_source=git)** | Wixom, MI | On Site | Nov 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Global Product Strategy Merchandising Intern, Home/Accessories, Co-Brands, Spring 2025](https://jobright.ai/jobs/info/672e50c72ddd282c2d92b225?utm_campaign=1047&utm_source=git)** | Kissimmee, FL | On Site | Nov 08 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern](https://jobright.ai/jobs/info/66d8fa9cf8f43324ff74584e?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Nov 08 |
 | **[Paramount](https://www.paramount.com)** | **[Product Management Internships (Summer 2025, Hybrid - NYC/LA)](https://jobright.ai/jobs/info/67297f356abe2e9d5f9cd904?utm_campaign=1047&utm_source=git)** | Burbank, CA | Hybrid | Nov 08 |
-| **[Shure Incorporated](http://www.shure.com)** | **[Software Platform Product Manager Intern](https://jobright.ai/jobs/info/66d8e3ed027e5a450863fdb9?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Nov 08 |
-| **[Novanta Inc.](http://www.novanta.com)** | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/67117768e8ba99dfb0c6c762?utm_campaign=1047&utm_source=git)** | Bedford, MA | On Site | Nov 08 |
-| ↳ | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/67115faa618c77b8b16db9cd?utm_campaign=1047&utm_source=git)** | Apex, NC | On Site | Nov 08 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/67119614c9dd01992a5f612e?utm_campaign=1047&utm_source=git)** | Olathe, KS | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
