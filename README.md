@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NVIDIA](https://www.nvidia.com)** | **[Go-to-Market Product Manager Intern, Hardware - Summer 2025](https://jobright.ai/jobs/info/6736d03db73c11624ccd94ff?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Nov 14 |
 | **[Ubisoft](https://www.ubisoft.com)** | **[Communication - Publishing Product Intern](https://jobright.ai/jobs/info/6736bf35506ed1c53504d81d?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Nov 14 |
+| **[iFIT](http://www.ifit.com)** | **[Physical Product Management Intern](https://jobright.ai/jobs/info/6731d1dd2edb440af3368aec?utm_campaign=1047&utm_source=git)** | Logan, UT | On Site | Nov 14 |
 | **[OneStream Software](http://www.onestreamsoftware.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/673676e217db9a5c27fd32de?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 14 |
 | **[Numerator](http://numerator.com)** | **[Machine Learning Product Intern](https://jobright.ai/jobs/info/673681e21cbc555098ec0a75?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Nov 14 |
 | **[CAS](http://www.cas.org)** | **[BU24IN- Product Management Intern](https://jobright.ai/jobs/info/67365d90f1547d21a6f712a7?utm_campaign=1047&utm_source=git)** | Columbus, OH | On Site | Nov 14 |
 | **[Panduit](http://www.panduit.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/673650d11d11ad13fbcd8b5b?utm_campaign=1047&utm_source=git)** | USA IL Tinley Park WHQ | On Site | Nov 14 |
+| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Technical Product Manager, Content Supply Chain](https://jobright.ai/jobs/info/673715542e067af5bcc318dc?utm_campaign=1047&utm_source=git)** | Lehi, UT | On Site | Nov 14 |
 | **[Red Hat](http://www.redhat.com)** | **[Product Management Internship](https://jobright.ai/jobs/info/6735ee22169f0b99ef92e570?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Nov 14 |
 | **[Pegasystems](http://www.pega.com)** | **[MBA Product Management Summer Intern](https://jobright.ai/jobs/info/6735df36604595b9b44041e6?utm_campaign=1047&utm_source=git)** | Waltham, MA | On Site | Nov 14 |
 | ↳ | **[Product Managment Summer Intern](https://jobright.ai/jobs/info/6735df36604595b9b44041e8?utm_campaign=1047&utm_source=git)** | Waltham, MA | On Site | Nov 14 |
@@ -71,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Product Management Intern (Summer 2025) - Manchester, NH](https://jobright.ai/jobs/info/67194ab64ff637d3187e0f41?utm_campaign=1047&utm_source=git)** | Manchester, NH | On Site | Nov 14 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Product Planning Intern](https://jobright.ai/jobs/info/6719ab7a69d84f2a98b99120?utm_campaign=1047&utm_source=git)** | Kirkland, WA | On Site | Nov 14 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[A.I. Product Intern (summer 2025 - full time)](https://jobright.ai/jobs/info/67344dab2a477e6a28495960?utm_campaign=1047&utm_source=git)** | Lehi, UT | Hybrid | Nov 13 |
+| **[Amazon](https://amazon.com)** | **[2025 MBA/Master's Level Opportunity - Product Manager, Non-Technical (PM) Intern (United States)](https://jobright.ai/jobs/info/6719ffa520ef23393c2cc254?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 13 |
 | **[L.L.Bean](http://www.llbean.com/)** | **[Merchandising Product Development Internship](https://jobright.ai/jobs/info/67357a854c6a84d4d7449da1?utm_campaign=1047&utm_source=git)** | Freeport, ME | On Site | Nov 13 |
 | **[Moody's Corporation](www.moodys.com)** | **[Product Management Internship](https://jobright.ai/jobs/info/673567c450ec35bd7b99a5e1?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 13 |
 | **[Nestlé Nespresso SA](https://www.beckson.com)** | **[Nespresso - Product Innovation Intern](https://jobright.ai/jobs/info/673567c450ec35bd7b99a5da?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 13 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oatey Company](https://www.oatey.com//)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f6fa4c7c3c1d6f7b252e97?utm_campaign=1047&utm_source=git)** | Cleveland, OH | Hybrid | Nov 09 |
 | **[Lyra Health](http://www.lyrahealth.com)** | **[Clinical Product Intern](https://jobright.ai/jobs/info/672fc86e4f6bde85fa4929a6?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 09 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2025 Internship - Product Intern](https://jobright.ai/jobs/info/6712e9eedd6c2597b3fd45c2?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 09 |
-| **[Veeam Software](http://www.veeam.com)** | **[Product Strategy Intern - Summer 2025](https://jobright.ai/jobs/info/66da3192e9226523c04209d6?utm_campaign=1047&utm_source=git)** | Ohio, United States | On Site | Nov 09 |
-| **[Numerator](http://numerator.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/672eda92d7d2f714e0aa2cc9?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Nov 09 |
-| **[Nike](http://www.nike.com)** | **[NIKE, Inc. Product Management Graduate Internship](https://jobright.ai/jobs/info/66e598a6d72748fd9fb876b3?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Nov 09 |
-| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/671a6f57431b750db02030cc?utm_campaign=1047&utm_source=git)** | Alpharetta, GA | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
