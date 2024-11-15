@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ubisoft](https://www.ubisoft.com)** | **[Communication - Publishing Product Intern](https://jobright.ai/jobs/info/6736bf35506ed1c53504d81d?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Nov 14 |
 | **[OneStream Software](http://www.onestreamsoftware.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/673676e217db9a5c27fd32de?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 14 |
 | **[Numerator](http://numerator.com)** | **[Machine Learning Product Intern](https://jobright.ai/jobs/info/673681e21cbc555098ec0a75?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Nov 14 |
 | **[CAS](http://www.cas.org)** | **[BU24IN- Product Management Intern](https://jobright.ai/jobs/info/67365d90f1547d21a6f712a7?utm_campaign=1047&utm_source=git)** | Columbus, OH | On Site | Nov 14 |
@@ -84,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Barry-Wehmiller](https://www.barrywehmiller.com)** | **[DI Technical Product Management Intern](https://jobright.ai/jobs/info/673517931d7acaa5ed4c3f0b?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Nov 13 |
 | **[American Tower](https://www.americantower.com/)** | **[Product & Strategy Intern (Summer 2025)](https://jobright.ai/jobs/info/67352b7e73c3f68b9885ce25?utm_campaign=1047&utm_source=git)** | Woburn, MA | On Site | Nov 13 |
 | **[Signify](https://www.signify.com)** | **[Category Management Intern Spring 2025  , COOPER  LIGHTING  SOLUTIONS](https://jobright.ai/jobs/info/67350be1c416da0c72f23315?utm_campaign=1047&utm_source=git)** | Peachtree City | On Site | Nov 13 |
-| **[Red Hat](http://www.redhat.com)** | **[Product Management Internship](https://jobright.ai/jobs/info/67350345e0cab0518f5a05d5?utm_campaign=1047&utm_source=git)** | Raleigh | On Site | Nov 13 |
-| ↳ | **[Product Management Internship](https://jobright.ai/jobs/info/67350345e0cab0518f5a065d?utm_campaign=1047&utm_source=git)** | Boston | On Site | Nov 13 |
+| **[Red Hat](http://www.redhat.com)** | **[Product Management Internship](https://jobright.ai/jobs/info/67350345e0cab0518f5a065d?utm_campaign=1047&utm_source=git)** | Boston | On Site | Nov 13 |
+| ↳ | **[Product Management Internship](https://jobright.ai/jobs/info/67350345e0cab0518f5a05d5?utm_campaign=1047&utm_source=git)** | Raleigh | On Site | Nov 13 |
 | **[Vial](https://vial.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67350bbc6b391a303c1b0822?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Nov 13 |
 | **[W.B. Mason Company Inc.](http://wbmason.com)** | **[2025 Spring Semester & Summer IT Product Manager Internship](https://jobright.ai/jobs/info/6734f1d1895e89ad0c4b65bd?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Nov 13 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6734afb5740c1c2ba56efcfb?utm_campaign=1047&utm_source=git)** | Bridgeton, MO | On Site | Nov 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Numerator](http://numerator.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/672eda92d7d2f714e0aa2cc9?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Nov 09 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc. Product Management Graduate Internship](https://jobright.ai/jobs/info/66e598a6d72748fd9fb876b3?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Nov 09 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/671a6f57431b750db02030cc?utm_campaign=1047&utm_source=git)** | Alpharetta, GA | On Site | Nov 09 |
-| **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern - TX](https://jobright.ai/jobs/info/67136809f750b40fa5932629?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
