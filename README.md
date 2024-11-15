@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OneStream Software](http://www.onestreamsoftware.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/673676e217db9a5c27fd32de?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 14 |
+| **[Numerator](http://numerator.com)** | **[Machine Learning Product Intern](https://jobright.ai/jobs/info/673681e21cbc555098ec0a75?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Nov 14 |
+| **[CAS](http://www.cas.org)** | **[BU24IN- Product Management Intern](https://jobright.ai/jobs/info/67365d90f1547d21a6f712a7?utm_campaign=1047&utm_source=git)** | Columbus, OH | On Site | Nov 14 |
 | **[Panduit](http://www.panduit.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/673650d11d11ad13fbcd8b5b?utm_campaign=1047&utm_source=git)** | USA IL Tinley Park WHQ | On Site | Nov 14 |
 | **[Red Hat](http://www.redhat.com)** | **[Product Management Internship](https://jobright.ai/jobs/info/6735ee22169f0b99ef92e570?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Nov 14 |
 | **[Pegasystems](http://www.pega.com)** | **[MBA Product Management Summer Intern](https://jobright.ai/jobs/info/6735df36604595b9b44041e6?utm_campaign=1047&utm_source=git)** | Waltham, MA | On Site | Nov 14 |
@@ -104,7 +107,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern, Content Experience Product](https://jobright.ai/jobs/info/6733d6652c215fb1f39fe844?utm_campaign=1047&utm_source=git)** | Washington, DC | On Site | Nov 12 |
 | **[The Trade Desk](http://thetradedesk.com)** | **[2025 Product Management Intern](https://jobright.ai/jobs/info/6733b87d259ba599f495a809?utm_campaign=1047&utm_source=git)** | New York | On Site | Nov 12 |
 | ↳ | **[2025 Product Management Intern](https://jobright.ai/jobs/info/6733c66bd6c41ad62cb42c33?utm_campaign=1047&utm_source=git)** | Bellevue | On Site | Nov 12 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Public Cloud ERP Product Management](https://jobright.ai/jobs/info/6733dad9239d2e75a5669aa4?utm_campaign=1047&utm_source=git)** | Bellevue, WA | Hybrid | Nov 12 |
 | **[Astera Labs](https://www.asteralabs.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67339d404dd38095b5627c62?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Nov 12 |
 | ↳ | **[Product and Ecosystem (Intern)](https://jobright.ai/jobs/info/67339d404dd38095b5627c6e?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Nov 12 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2025 - Product Manager, Product Delivery Team Intern](https://jobright.ai/jobs/info/6733a160a53fdc8f21a08998?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Nov 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc. Product Management Graduate Internship](https://jobright.ai/jobs/info/66e598a6d72748fd9fb876b3?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Nov 09 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/671a6f57431b750db02030cc?utm_campaign=1047&utm_source=git)** | Alpharetta, GA | On Site | Nov 09 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern - TX](https://jobright.ai/jobs/info/67136809f750b40fa5932629?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Nov 09 |
-| **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Loan Servicing Specialist](https://jobright.ai/jobs/info/6712c7ceea33a6e08d442f2c?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | Hybrid | Nov 09 |
-| **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Intern](https://jobright.ai/jobs/info/672f123dbda1a10fe6da66af?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
