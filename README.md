@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Analog Devices](http://www.analog.com)** | **[Product Applications Intern](https://jobright.ai/jobs/info/670046f6ce304cb87aec48a1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 16 |
 | **[Baidu USA](http://www.baidu.com)** | **[Product Manager Intern/contractor, Generative AI](https://jobright.ai/jobs/info/6737ca7c569d13879f01440f?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Nov 15 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6737c069c473cff78d0540cf?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 15 |
 | **[Genentech](http://gene.com)** | **[2025 Summer Intern (6 months) - Product Development Data Sciences](https://jobright.ai/jobs/info/6737d0c1194f23d6695de9ac?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Nov 15 |
@@ -132,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[Duolingo](https://www.duolingo.com)** | **[Product Manager, MBA Intern](https://jobright.ai/jobs/info/6732bba73d3fbaff31b69c1f?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Nov 11 |
 | **[EmazingGroup - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[Buying Intern](https://jobright.ai/jobs/info/6732c43138b5e5c36e4abe6f?utm_campaign=1047&utm_source=git)** | Anaheim, CA | On Site | Nov 11 |
 | **[Duolingo](https://www.duolingo.com)** | **[Product Manager, MBA Intern](https://jobright.ai/jobs/info/673282a0a1d8525f40cce727?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Nov 11 |
-| **[H&R Block](https://www.hrblock.com)** | **[Embark Summer 2025 Intern - DIY Product/Project Management](https://jobright.ai/jobs/info/673275d605e1b3c27890b507?utm_campaign=1047&utm_source=git)** | Kansas City, MO | On Site | Nov 11 |
 | **[Onbe](https://www.onbe.com)** | **[Product Manager - International Issuance](https://jobright.ai/jobs/info/673263abe7d8491d69022f1b?utm_campaign=1047&utm_source=git)** | Dallas, TX | Hybrid | Nov 11 |
 | ↳ | **[Product Manager - International Issuance](https://jobright.ai/jobs/info/67325a1d3b037fb14b250c84?utm_campaign=1047&utm_source=git)** | Conshohocken, PA | Hybrid | Nov 11 |
 | ↳ | **[Product Manager - International Issuance](https://jobright.ai/jobs/info/67325a1d3b037fb14b250c83?utm_campaign=1047&utm_source=git)** | Buffalo Grove, IL | Hybrid | Nov 11 |
