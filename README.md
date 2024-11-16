@@ -64,6 +64,7 @@ For a complete list, click the following sortable link below:
 | **[Electronic Arts (EA)](http://www.ea.com)** | **[Product Management Intern, Self-Service](https://jobright.ai/jobs/info/67378e598bc1ba0dce61b6e3?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Nov 15 |
 | ↳ | **[Product Management Intern, Community and Moderation](https://jobright.ai/jobs/info/6737881ac6ad39a2a1748b3a?utm_campaign=1047&utm_source=git)** | Austin, TX | Remote | Nov 15 |
 | **[AutoStore™](https://www.autostoresystem.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/671ad31dfd7bbc4e9d35237d?utm_campaign=1047&utm_source=git)** | Salem, NH | Hybrid | Nov 15 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Lead Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66e197de611b398b4e584679?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 15 |
 | **[Arcesium](http://www.arcesium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66ff5367918a794eebbe238d?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Nov 15 |
 | **[Samsara](http://www.samsara.com)** | **[Hardware Product Management Intern](https://jobright.ai/jobs/info/66ff4e8c3d40f43952176d03?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Nov 15 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Go-to-Market Product Manager Intern, Hardware - Summer 2025](https://jobright.ai/jobs/info/6736d03db73c11624ccd94ff?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Nov 14 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Dexcom](http://www.dexcom.com)** | **[Intern II - Product Management](https://jobright.ai/jobs/info/6715be5b390c4acbf65b05cd?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Nov 11 |
 | **[Whole Foods Market](http://www.wholefoodsmarket.com)** | **[Product Management MBA Internship - Summer 2025](https://jobright.ai/jobs/info/6731ad13c940d794f52b8334?utm_campaign=1047&utm_source=git)** | TX, Austin - Global Support | On Site | Nov 10 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Product Operations](https://jobright.ai/jobs/info/6731560597c3b2cdc4a55a57?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Nov 10 |
-| **[Chubb](https://www.chubb.com/us-en)** | **[Product Development Intern - Summer 2025](https://jobright.ai/jobs/info/673275e3ac97192c7749e236?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Nov 10 |
-| **[ServiceNow](http://www.servicenow.com)** | **[Product Manager Intern (Masters Degree) - Summer 2025](https://jobright.ai/jobs/info/66f4c2d28f295d60a286b8df?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Nov 10 |
+| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2025 Summer Project/Product Management Intern](https://jobright.ai/jobs/info/66f7f751d20d38ccd64a80e1?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
