@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baidu USA](http://www.baidu.com)** | **[Product Manager Intern/contractor, Generative AI](https://jobright.ai/jobs/info/6737ca7c569d13879f01440f?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Nov 15 |
+| **[Renesas Electronics](https://www.renesas.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6737c069c473cff78d0540cf?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 15 |
+| **[Genentech](http://gene.com)** | **[2025 Summer Intern (6 months) - Product Development Data Sciences](https://jobright.ai/jobs/info/6737d0c1194f23d6695de9ac?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Nov 15 |
+| **[Zebra Technologies](https://www.zebra.com)** | **[2025 Summer Internship (US) - PdM Product Management](https://jobright.ai/jobs/info/6737bb570b5f060a65aa15f5?utm_campaign=1047&utm_source=git)** | Holtsville, NY | Hybrid | Nov 15 |
 | **[Electronic Arts (EA)](http://www.ea.com)** | **[Product Management Intern, Self-Service](https://jobright.ai/jobs/info/67378e598bc1ba0dce61b6e3?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Nov 15 |
 | ↳ | **[Product Management Intern, Community and Moderation](https://jobright.ai/jobs/info/6737881ac6ad39a2a1748b3a?utm_campaign=1047&utm_source=git)** | Austin, TX | Remote | Nov 15 |
 | **[AutoStore™](https://www.autostoresystem.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/671ad31dfd7bbc4e9d35237d?utm_campaign=1047&utm_source=git)** | Salem, NH | Hybrid | Nov 15 |
@@ -77,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Berry Global, Inc.](https://www.berryglobal.com)** | **[PT PRODUCT DEVELOPMENT INTERN - YEAR ROUND](https://jobright.ai/jobs/info/6701ff0174d6e41d856a87d8?utm_campaign=1047&utm_source=git)** | Evansville, IN | On Site | Nov 14 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2025 Guardian Summer Intern, Life and Annuity Product Development](https://jobright.ai/jobs/info/66fccfaa1a3b307e55f2740c?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 14 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Product Management Intern (Summer 2025) - Manchester, NH](https://jobright.ai/jobs/info/67194ab64ff637d3187e0f41?utm_campaign=1047&utm_source=git)** | Manchester, NH | On Site | Nov 14 |
-| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Product Planning Intern](https://jobright.ai/jobs/info/6719ab7a69d84f2a98b99120?utm_campaign=1047&utm_source=git)** | Kirkland, WA | On Site | Nov 14 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[A.I. Product Intern (summer 2025 - full time)](https://jobright.ai/jobs/info/67344dab2a477e6a28495960?utm_campaign=1047&utm_source=git)** | Lehi, UT | Hybrid | Nov 13 |
 | **[Amazon](https://amazon.com)** | **[2025 MBA/Master's Level Opportunity - Product Manager, Non-Technical (PM) Intern (United States)](https://jobright.ai/jobs/info/6719ffa520ef23393c2cc254?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 13 |
 | **[L.L.Bean](http://www.llbean.com/)** | **[Merchandising Product Development Internship](https://jobright.ai/jobs/info/67357a854c6a84d4d7449da1?utm_campaign=1047&utm_source=git)** | Freeport, ME | On Site | Nov 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Product Operations](https://jobright.ai/jobs/info/6731560597c3b2cdc4a55a57?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Nov 10 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Product Development Intern - Summer 2025](https://jobright.ai/jobs/info/673275e3ac97192c7749e236?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Nov 10 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Product Manager Intern (Masters Degree) - Summer 2025](https://jobright.ai/jobs/info/66f4c2d28f295d60a286b8df?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Nov 10 |
-| **[Haleon](http://www.haleon.com/)** | **[2025 Summer Internship: Product Development](https://jobright.ai/jobs/info/66f7e19621002c9db238f976?utm_campaign=1047&utm_source=git)** | Richmond, VA | Hybrid | Nov 10 |
-| **[TikTok](https://www.tiktok.com)** | **[Global Product Solutions and Operations Intern (Core Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66e2fecad3df2cf8909fe2cf?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Nov 10 |
-| **[ServiceNow](http://www.servicenow.com)** | **[Sr. Product Manager Intern (MBA Degree) - Summer 2025](https://jobright.ai/jobs/info/66e19644123fa518c952ceac?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
