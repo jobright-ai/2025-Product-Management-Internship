@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (TikTok Shop -Seller Onboarding & Governance) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/66e311af350be93b38e5a3a8?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 17 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67390bc791675f527cf0a3fc?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Nov 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ads Platform)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66e18974a9e7bdd73fb59a09?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 16 |
 | **[Analog Devices](http://www.analog.com)** | **[Product Applications Intern](https://jobright.ai/jobs/info/670046f6ce304cb87aec48a1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 16 |
-| **[Adobe](http://www.adobe.com)** | **[2025 Intern - E2E Product Management](https://jobright.ai/jobs/info/6739b885d2f663f2347477fd?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Nov 16 |
 | **[Baidu USA](http://www.baidu.com)** | **[Product Manager Intern/contractor, Generative AI](https://jobright.ai/jobs/info/6737ca7c569d13879f01440f?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Nov 15 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6737c069c473cff78d0540cf?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 15 |
 | **[Genentech](http://gene.com)** | **[2025 Summer Intern (6 months) - Product Development Data Sciences](https://jobright.ai/jobs/info/6737d0c1194f23d6695de9ac?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Nov 15 |
@@ -156,5 +156,4 @@ For a complete list, click the following sortable link below:
 | **[Whole Foods Market](http://www.wholefoodsmarket.com)** | **[Product Management MBA Internship - Summer 2025](https://jobright.ai/jobs/info/6731ad13c940d794f52b8334?utm_campaign=1047&utm_source=git)** | TX, Austin - Global Support | On Site | Nov 10 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2025 Summer Project/Product Management Intern](https://jobright.ai/jobs/info/66f7f751d20d38ccd64a80e1?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Nov 10 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Product Development Intern - Summer 2025](https://jobright.ai/jobs/info/673275e3ac97192c7749e236?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Nov 10 |
-| **[ServiceNow](http://www.servicenow.com)** | **[Product Manager Intern (Masters Degree) - Summer 2025](https://jobright.ai/jobs/info/66f4c2d28f295d60a286b8df?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
