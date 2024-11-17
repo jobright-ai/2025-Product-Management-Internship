@@ -155,6 +155,4 @@ For a complete list, click the following sortable link below:
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2025 Summer Project/Product Management Intern](https://jobright.ai/jobs/info/66f7f751d20d38ccd64a80e1?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Nov 10 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Product Development Intern - Summer 2025](https://jobright.ai/jobs/info/673275e3ac97192c7749e236?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Nov 10 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Product Manager Intern (Masters Degree) - Summer 2025](https://jobright.ai/jobs/info/66f4c2d28f295d60a286b8df?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Nov 10 |
-| **[Haleon](http://www.haleon.com/)** | **[2025 Summer Internship: Product Development](https://jobright.ai/jobs/info/66f7e19621002c9db238f976?utm_campaign=1047&utm_source=git)** | Richmond, VA | Hybrid | Nov 10 |
-| **[TikTok](https://www.tiktok.com)** | **[Global Product Solutions and Operations Intern (Core Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66e2fecad3df2cf8909fe2cf?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
