@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Product Management Connected Aircraft Coop  (Summer/Fall 2025)(Remote)](https://jobright.ai/jobs/info/673aa5479e2c1c1eb507b150?utm_campaign=1047&utm_source=git)** | Raleigh, NC | Hybrid | Nov 17 |
+| **[Powell](http://www.powellind.com)** | **[New Product Development Intern](https://jobright.ai/jobs/info/673a97d23c67376609b3f86c?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Nov 17 |
+| ↳ | **[New Product Development Intern](https://jobright.ai/jobs/info/673a8ff7870a078b19d0d5fe?utm_campaign=1047&utm_source=git)** | 7232 Airport Blvd, Houston, TX, 77061, US | On Site | Nov 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Partnerships MBA Intern (Monetization Product Partnerships) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/673a7910817a1f6fff6a041b?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Nov 17 |
 | ↳ | **[Data Scientist, Product Analytics (Early Career) - USDS](https://jobright.ai/jobs/info/673a24aae5228b8986f45f55?utm_campaign=1047&utm_source=git)** | Mountain View, CA | Hybrid | Nov 17 |
 | ↳ | **[Product Manager MBA Intern (TikTok Shop - Feeds Recommendation)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/673a24aae5228b8986f4600a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 17 |
@@ -95,7 +98,7 @@ For a complete list, click the following sortable link below:
 | **[L.L.Bean](http://www.llbean.com/)** | **[Merchandising Product Development Internship](https://jobright.ai/jobs/info/67357a854c6a84d4d7449da1?utm_campaign=1047&utm_source=git)** | Freeport, ME | On Site | Nov 13 |
 | **[Moody's Corporation](www.moodys.com)** | **[Product Management Internship](https://jobright.ai/jobs/info/673567c450ec35bd7b99a5e1?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 13 |
 | **[Nestlé Nespresso SA](https://www.beckson.com)** | **[Nespresso - Product Innovation Intern](https://jobright.ai/jobs/info/673567c450ec35bd7b99a5da?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 13 |
-| **[Electronic Arts (EA)](http://www.ea.com)** | **["Product Manager Intern, Master's or MBA - Summer 2025 (Apex Legends)"](https://jobright.ai/jobs/info/673568fb3efdbb45d1fd229b?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 13 |
+| **[Electronic Arts (EA)](http://www.ea.com)** | **[Product Manager Intern, Master's or MBA - Summer 2025 (Apex Legends)](https://jobright.ai/jobs/info/673568fb3efdbb45d1fd229b?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Nov 13 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Go-to-Market Product Manager Intern, Hardware - Summer 2025](https://jobright.ai/jobs/info/67354deda4ca89022fcce0a1?utm_campaign=1047&utm_source=git)** | US, CA, Santa Clara | On Site | Nov 13 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Travel Technology Paid Intern](https://jobright.ai/jobs/info/673543b62f4aebd16538cfd5?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Nov 13 |
 | **[Sony Interactive Entertainment](https://www.sie.com)** | **[Product Management Intern, Innovation - MBA or Master's](https://jobright.ai/jobs/info/67355b698953df310ef56989?utm_campaign=1047&utm_source=git)** | United States, Remote | Remote | Nov 13 |
@@ -147,7 +150,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager - International Issuance](https://jobright.ai/jobs/info/67325a1d3b037fb14b250c84?utm_campaign=1047&utm_source=git)** | Conshohocken, PA | Hybrid | Nov 11 |
 | ↳ | **[Product Manager - International Issuance](https://jobright.ai/jobs/info/67325a1d3b037fb14b250c83?utm_campaign=1047&utm_source=git)** | Buffalo Grove, IL | Hybrid | Nov 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategy MBA Intern (Web Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66e18521bb7c5c770a2b0efe?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Nov 11 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Product and Data Research Intern - Summer 2025](https://jobright.ai/jobs/info/6732593230661c3eb34bf91b?utm_campaign=1047&utm_source=git)** | Allen, TX | Hybrid | Nov 11 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[ADC/ADD New Product Development Intern](https://jobright.ai/jobs/info/67325a1d3b037fb14b250eeb?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 11 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I – Product Management](https://jobright.ai/jobs/info/6718840ef38028979720bde5?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Nov 11 |
 | **[Robinhood](https://www.robinhood.com)** | **[Associate Product Manager (Early Talent)](https://jobright.ai/jobs/info/67324d7b1a55f783a338261e?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Nov 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Chubb](https://www.chubb.com/us-en)** | **[Product Development Intern - Summer 2025](https://jobright.ai/jobs/info/6732331e5e1c404993971d87?utm_campaign=1047&utm_source=git)** | Chicago Triangle Plaza | On Site | Nov 11 |
 | **[LightGuide](http://lightguidesys.com/)** | **[Sales and Product Management Co-op](https://jobright.ai/jobs/info/673239bb5e7785070302483e?utm_campaign=1047&utm_source=git)** | Wixom, MI | On Site | Nov 11 |
 | **[Cook Medical](http://www.cookmedical.com)** | **[Product Management/Marketing Internship - Vascular Interventional Medical Devices](https://jobright.ai/jobs/info/6732371f48126c27bb0e1c80?utm_campaign=1047&utm_source=git)** | Bloomington, IN | On Site | Nov 11 |
-| **[Whole Foods Market](http://www.wholefoodsmarket.com)** | **[Product Management MBA Internship - Summer 2025](https://jobright.ai/jobs/info/67321d503781722c306c5be4?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Nov 11 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Product and Data Research Intern - Summer 2025](https://jobright.ai/jobs/info/673207dd3fcd83f25ac4be97?utm_campaign=1047&utm_source=git)** | Allen, TX (TX139) | On Site | Nov 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
