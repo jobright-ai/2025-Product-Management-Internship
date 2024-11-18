@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TikTok](https://www.tiktok.com)** | **[Data Scientist, Product Analytics (Early Career) - USDS](https://jobright.ai/jobs/info/673a24aae5228b8986f45f55?utm_campaign=1047&utm_source=git)** | Mountain View, CA | Hybrid | Nov 17 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Partnerships MBA Intern (Monetization Product Partnerships) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/673a7910817a1f6fff6a041b?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Nov 17 |
+| ↳ | **[Data Scientist, Product Analytics (Early Career) - USDS](https://jobright.ai/jobs/info/673a24aae5228b8986f45f55?utm_campaign=1047&utm_source=git)** | Mountain View, CA | Hybrid | Nov 17 |
 | ↳ | **[Product Manager MBA Intern (TikTok Shop - Feeds Recommendation)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/673a24aae5228b8986f4600a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 17 |
 | ↳ | **[Creative Solutions Intern (Monetization Product) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/673a2684c97115640344585d?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Nov 17 |
 | ↳ | **[Product Manger MBA Intern (TikTok Shop - Seller Growth) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/6739facc9ee526ed59f4386e?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 17 |
-| ↳ | **[Product Manager MBA Intern (TikTok Shop -Seller Onboarding & Governance) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/66e311af350be93b38e5a3a8?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 17 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67390bc791675f527cf0a3fc?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Nov 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ads Platform)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66e18974a9e7bdd73fb59a09?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 16 |
 | **[Analog Devices](http://www.analog.com)** | **[Product Applications Intern](https://jobright.ai/jobs/info/670046f6ce304cb87aec48a1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 16 |
@@ -104,7 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Numerator](http://numerator.com)** | **[DevOps Product Intern](https://jobright.ai/jobs/info/67352c0900bdc28b0d878ba6?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Nov 13 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, In-Flight Services, Digital Technology and Strategy (Summer 2025)](https://jobright.ai/jobs/info/66fc95f9e8f785e53b59c37d?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Nov 13 |
 | **[Barry-Wehmiller](https://www.barrywehmiller.com)** | **[DI Technical Product Management Intern](https://jobright.ai/jobs/info/673517931d7acaa5ed4c3f0b?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Nov 13 |
-| **[American Tower](https://www.americantower.com/)** | **[Product & Strategy Intern (Summer 2025)](https://jobright.ai/jobs/info/67352b7e73c3f68b9885cd48?utm_campaign=1047&utm_source=git)** | Woburn, MA | On Site | Nov 13 |
+| **[American Tower](https://www.americantower.com/)** | **[Product & Strategy Intern (Summer 2025)](https://jobright.ai/jobs/info/67352b7e73c3f68b9885ce25?utm_campaign=1047&utm_source=git)** | Woburn, MA | On Site | Nov 13 |
 | **[Signify](https://www.signify.com)** | **[Category Management Intern Spring 2025  , COOPER  LIGHTING  SOLUTIONS](https://jobright.ai/jobs/info/67350be1c416da0c72f23315?utm_campaign=1047&utm_source=git)** | Peachtree City | On Site | Nov 13 |
 | **[Vial](https://vial.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67350bbc6b391a303c1b0822?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Nov 13 |
 | **[W.B. Mason Company Inc.](http://wbmason.com)** | **[2025 Spring Semester & Summer IT Product Manager Internship](https://jobright.ai/jobs/info/6734f1d1895e89ad0c4b65bd?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Nov 13 |
