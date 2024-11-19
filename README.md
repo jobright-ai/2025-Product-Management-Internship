@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Consumer Product Services Strategy, MBA Intern](https://jobright.ai/jobs/info/673c6ca91979097c79681394?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Nov 19 |
 | **[FreeWheel](https://www.freewheel.com/)** | **[Comcast Product Manager Intern](https://jobright.ai/jobs/info/673c5d179ea377557c689ad5?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 19 |
 | **[Walmart](http://www.walmart.com)** | **[2025 Summer Intern: Product Manager II](https://jobright.ai/jobs/info/673c4d515b349c07646dfbe0?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Nov 19 |
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Product Development Internship (Spring 2025)](https://jobright.ai/jobs/info/673c472c6eae674cf955a93f?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 18 |
@@ -64,13 +65,13 @@ For a complete list, click the following sortable link below:
 | **[Wayfair](https://www.wayfair.com)** | **[Senior Product Manager, CastleGate Forwarding](https://jobright.ai/jobs/info/673c0274e20995d710411fa8?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Nov 18 |
 | **[SAP](https://www.sap.com)** | **[SAP NS2 Product Launch Intern](https://jobright.ai/jobs/info/673bef4961a830c01af0eb19?utm_campaign=1047&utm_source=git)** | Herndon, VA | Hybrid | Nov 18 |
 | **[Intuitive](https://intusurg.com)** | **[Endoluminal Product Management MBA Intern](https://jobright.ai/jobs/info/673bf3bed70cfd7bc166f59e?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Nov 18 |
+| **[Zoox](https://www.zoox.com/)** | **[Product Management, Rider Experience Intern](https://jobright.ai/jobs/info/673bd62e656921d93e626449?utm_campaign=1047&utm_source=git)** | Foster City, CA | On Site | Nov 18 |
 | **[Intelsat](http://www.intelsat.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/673bd62e656921d93e626450?utm_campaign=1047&utm_source=git)** | McLean, VA | On Site | Nov 18 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Junior Product Owner - 2025 Summer Internship](https://jobright.ai/jobs/info/673bd27be52d546dbcd78e2c?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | Hybrid | Nov 18 |
 | **[Walmart Canada](https://www.walmartcanada.ca/)** | **[2025 Summer Intern: Product Manager II](https://jobright.ai/jobs/info/673bcef2ac215febb14bf62c?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Nov 18 |
 | **[The Trade Desk](http://thetradedesk.com)** | **[2025 Product Management Intern (Forward Markets)](https://jobright.ai/jobs/info/673bd0ad06d093169889de1b?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Nov 18 |
 | **[Intelsat](http://www.intelsat.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/673bc9dd75021b46f9e8e5d6?utm_campaign=1047&utm_source=git)** | Intelsat US LLC, Mclean, VA, 22102, US | On Site | Nov 18 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[MBA Product Manager Intern - Summer 2025 (Remote)](https://jobright.ai/jobs/info/673bb41e23a3d19e9a268b9f?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | Remote | Nov 18 |
-| **[Zoox](https://www.zoox.com/)** | **[Product Management, Rider Experience Intern](https://jobright.ai/jobs/info/673ba79f2b94fabfef7f1503?utm_campaign=1047&utm_source=git)** | Foster City, CA | On Site | Nov 18 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Product Strategy Intern](https://jobright.ai/jobs/info/673bab0d7926fa7e2bf11324?utm_campaign=1047&utm_source=git)** | Redmond, WA | On Site | Nov 18 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Junior Product Owner - 2025 Summer Internship](https://jobright.ai/jobs/info/673ba3cf387f7731c4fb8d42?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | On Site | Nov 18 |
 | **[The Trade Desk](http://thetradedesk.com)** | **[2025 Product Management Intern (Forward Markets)](https://jobright.ai/jobs/info/673ba24b443605e8ba696b3c?utm_campaign=1047&utm_source=git)** | Boston | On Site | Nov 18 |
@@ -107,7 +108,7 @@ For a complete list, click the following sortable link below:
 | **[AutoStore™](https://www.autostoresystem.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/671ad31dfd7bbc4e9d35237d?utm_campaign=1047&utm_source=git)** | Salem, NH | Hybrid | Nov 15 |
 | **[Arcesium](http://www.arcesium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66ff5367918a794eebbe238d?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Nov 15 |
 | **[Samsara](http://www.samsara.com)** | **[Hardware Product Management Intern](https://jobright.ai/jobs/info/66ff4e8c3d40f43952176d03?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Nov 15 |
-| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Product Planning Intern](https://jobright.ai/jobs/info/6739a4a7be7dd8a5d283da01?utm_campaign=1047&utm_source=git)** | Kirkland, WA | On Site | Nov 14 |
+| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2025 Intern / Product Planning](https://jobright.ai/jobs/info/6739a4a7be7dd8a5d283da01?utm_campaign=1047&utm_source=git)** | Kirkland, WA | On Site | Nov 15 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66e11fccd6389d51d2b1efcb?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Nov 14 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Go-to-Market Product Manager Intern, Hardware - Summer 2025](https://jobright.ai/jobs/info/6736d03db73c11624ccd94ff?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Nov 14 |
 | **[OneStream Software](http://www.onestreamsoftware.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/673676e217db9a5c27fd32de?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 14 |
@@ -117,6 +118,7 @@ For a complete list, click the following sortable link below:
 | **[Panduit](http://www.panduit.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/673650d11d11ad13fbcd8b5b?utm_campaign=1047&utm_source=git)** | USA IL Tinley Park WHQ | On Site | Nov 14 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Mobile Product](https://jobright.ai/jobs/info/66e1ccabce9e749214874853?utm_campaign=1047&utm_source=git)** | Stamford, CT | Hybrid | Nov 14 |
 | ↳ | **[2025 Summer Intern: Mobile Product Strategy](https://jobright.ai/jobs/info/66e1ccabce9e749214874868?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | Hybrid | Nov 14 |
+| **[Electronic Arts (EA)](http://www.ea.com)** | **[Product Manager Intern, Master's or MBA - Summer 2025 (Apex Legends)](https://jobright.ai/jobs/info/673568fb3efdbb45d1fd229b?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Nov 14 |
 | **[Pegasystems](http://www.pega.com)** | **[MBA Product Management Summer Intern](https://jobright.ai/jobs/info/6735df36604595b9b44041e6?utm_campaign=1047&utm_source=git)** | Waltham, MA | On Site | Nov 14 |
 | ↳ | **[Product Managment Summer Intern](https://jobright.ai/jobs/info/6735df36604595b9b44041e8?utm_campaign=1047&utm_source=git)** | Waltham, MA | On Site | Nov 14 |
 | **[Berry Global, Inc.](https://www.berryglobal.com)** | **[PT PRODUCT DEVELOPMENT INTERN - YEAR ROUND](https://jobright.ai/jobs/info/6701ff0174d6e41d856a87d8?utm_campaign=1047&utm_source=git)** | Evansville, IN | On Site | Nov 14 |
@@ -127,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[L.L.Bean](http://www.llbean.com/)** | **[Merchandising Product Development Internship](https://jobright.ai/jobs/info/67357a854c6a84d4d7449da1?utm_campaign=1047&utm_source=git)** | Freeport, ME | On Site | Nov 13 |
 | **[Moody's Corporation](www.moodys.com)** | **[Product Management Internship](https://jobright.ai/jobs/info/673567c450ec35bd7b99a5e1?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 13 |
 | **[Nestlé Nespresso SA](https://www.beckson.com)** | **[Nespresso - Product Innovation Intern](https://jobright.ai/jobs/info/673567c450ec35bd7b99a5da?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 13 |
-| **[Electronic Arts (EA)](http://www.ea.com)** | **["Product Manager Intern, Master's or MBA - Summer 2025 (Apex Legends)"](https://jobright.ai/jobs/info/673568fb3efdbb45d1fd229b?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 13 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Go-to-Market Product Manager Intern, Hardware - Summer 2025](https://jobright.ai/jobs/info/67354deda4ca89022fcce0a1?utm_campaign=1047&utm_source=git)** | US, CA, Santa Clara | On Site | Nov 13 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Travel Technology Paid Intern](https://jobright.ai/jobs/info/673543b62f4aebd16538cfd5?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Nov 13 |
 | **[Sony Interactive Entertainment](https://www.sie.com)** | **[Product Management Intern, Innovation - MBA or Master's](https://jobright.ai/jobs/info/67355b698953df310ef56989?utm_campaign=1047&utm_source=git)** | United States, Remote | Remote | Nov 13 |
@@ -155,6 +156,4 @@ For a complete list, click the following sortable link below:
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Product Innovation Intern, NA](https://jobright.ai/jobs/info/6733da185bae33ed27d7cb8e?utm_campaign=1047&utm_source=git)** | Denver, Colorado | On Site | Nov 12 |
 | **[Haleon](http://www.haleon.com/)** | **[2025 Summer Intern: Technical Product Internship](https://jobright.ai/jobs/info/6733e1807f3c9b67f4fbfbe7?utm_campaign=1047&utm_source=git)** | New Jersey, United States | Hybrid | Nov 12 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Digital Platforms Development & Product Ownership](https://jobright.ai/jobs/info/6733dad9239d2e75a5669add?utm_campaign=1047&utm_source=git)** | Newtown Square, PA | Hybrid | Nov 12 |
-| **[The Washington Post](https://www.washingtonpost.com)** | **[Summer Intern, Product Monetization](https://jobright.ai/jobs/info/6733db43b62e2c2cfa0470f7?utm_campaign=1047&utm_source=git)** | Washington, DC | On Site | Nov 12 |
-| ↳ | **[Summer Intern, Content Experience Product](https://jobright.ai/jobs/info/6733d6652c215fb1f39fe844?utm_campaign=1047&utm_source=git)** | Washington, DC | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
