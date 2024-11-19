@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wayfair](https://www.wayfair.com)** | **[Senior Product Manager, CastleGate Forwarding](https://jobright.ai/jobs/info/673c0274e20995d710411fa8?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Nov 18 |
+| **[SAP](https://www.sap.com)** | **[SAP NS2 Product Launch Intern](https://jobright.ai/jobs/info/673bef4961a830c01af0eb19?utm_campaign=1047&utm_source=git)** | Herndon, VA | Hybrid | Nov 18 |
+| **[Intuitive](https://intusurg.com)** | **[Endoluminal Product Management MBA Intern](https://jobright.ai/jobs/info/673bf3bed70cfd7bc166f59e?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Nov 18 |
 | **[Zoox](https://www.zoox.com/)** | **[Product Management, Rider Experience Intern](https://jobright.ai/jobs/info/673bd62e656921d93e626449?utm_campaign=1047&utm_source=git)** | Foster City, CA | On Site | Nov 18 |
 | **[Intelsat](http://www.intelsat.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/673bd62e656921d93e626450?utm_campaign=1047&utm_source=git)** | McLean, VA | On Site | Nov 18 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Junior Product Owner - 2025 Summer Internship](https://jobright.ai/jobs/info/673bd27be52d546dbcd78e2c?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | Hybrid | Nov 18 |
@@ -79,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Product Management Intern - Summer 2025](https://jobright.ai/jobs/info/673b4d252abf484b69662227?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Nov 18 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Product Management Connected Aircraft Coop (Summer/Fall 2025)(Remote)](https://jobright.ai/jobs/info/673b1fde092ab3667ce1c411?utm_campaign=1047&utm_source=git)** | NC | Hybrid | Nov 18 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern - TX](https://jobright.ai/jobs/info/673afa229db1332fdc567a33?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Nov 17 |
+| **[Xfinity](https://www.xfinity.com/)** | **[Comcast Consumer Product Services Strategy, MBA Intern](https://jobright.ai/jobs/info/673c088637309a491a0999f0?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Nov 17 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Product Management Connected Aircraft Coop  (Summer/Fall 2025)(Remote)](https://jobright.ai/jobs/info/673aa5479e2c1c1eb507b150?utm_campaign=1047&utm_source=git)** | Raleigh, NC | Hybrid | Nov 17 |
 | **[Powell](http://www.powellind.com)** | **[New Product Development Intern](https://jobright.ai/jobs/info/673a97d23c67376609b3f86c?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Nov 17 |
 | ↳ | **[New Product Development Intern](https://jobright.ai/jobs/info/673a8ff7870a078b19d0d5fe?utm_campaign=1047&utm_source=git)** | 7232 Airport Blvd, Houston, TX, 77061, US | On Site | Nov 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product and Ecosystem (Intern)](https://jobright.ai/jobs/info/67339d404dd38095b5627c6e?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Nov 12 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2025 - Product Manager, Product Delivery Team Intern](https://jobright.ai/jobs/info/6733a160a53fdc8f21a08998?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Nov 12 |
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Summer Intern, Product Monetization](https://jobright.ai/jobs/info/67338e5e1e0544332e7b5f92?utm_campaign=1047&utm_source=git)** | DC-Washington-TWP Headquarters | On Site | Nov 12 |
-| ↳ | **[Summer Intern, Content Experience Product](https://jobright.ai/jobs/info/67338e5e1e0544332e7b5f94?utm_campaign=1047&utm_source=git)** | DC-Washington-TWP Headquarters | On Site | Nov 12 |
-| **[Haleon](http://www.haleon.com/)** | **[2025 Summer Intern: Technical Product Internship](https://jobright.ai/jobs/info/67338b9052b3df04b9925b62?utm_campaign=1047&utm_source=git)** | USA - New Jersey - Warren | On Site | Nov 12 |
-| **[TikTok](https://www.tiktok.com)** | **[Creative Solutions Intern (Monetization Product) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/67345dfbf69e7df12617d853?utm_campaign=1047&utm_source=git)** | New York | On Site | Nov 12 |
-| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2025](https://jobright.ai/jobs/info/6716f5075ef2d971e037b166?utm_campaign=1047&utm_source=git)** | Nashua, NH | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
