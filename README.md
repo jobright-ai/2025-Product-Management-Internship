@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ISlide, Inc.](https://www.islideusa.com/)** | **[Spring 2025 Footwear Product Intern](https://jobright.ai/jobs/info/673d0d27837855916dad47ae?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Nov 19 |
+| **[Charles River Development](https://www.crd.com)** | **[Product Management Internship, Charles River Development, Intern](https://jobright.ai/jobs/info/673d0833c475c1de907891fc?utm_campaign=1047&utm_source=git)** | Burlington, MA | On Site | Nov 19 |
+| **[State Street](http://www.statestreet.com)** | **[Product Management Internship, Charles River Development, Intern](https://jobright.ai/jobs/info/673d1c4e06a5bb09ca6d6858?utm_campaign=1047&utm_source=git)** | Burlington Massachusetts | On Site | Nov 19 |
+| **[Panduit](http://www.panduit.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/673d08ba8acab5261a093573?utm_campaign=1047&utm_source=git)** | USA IL Tinley Park WHQ | On Site | Nov 19 |
+| **[PTC](http://www.ptc.com)** | **[UX/UI Product Intern](https://jobright.ai/jobs/info/673d08ba8acab5261a093670?utm_campaign=1047&utm_source=git)** | Foster City, CA, USA | On Site | Nov 19 |
+| **[Panduit](http://www.panduit.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/673d08ba8acab5261a093696?utm_campaign=1047&utm_source=git)** | USA Georgia Cumming | On Site | Nov 19 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Consumer Product Services Strategy, MBA Intern](https://jobright.ai/jobs/info/673c6ca91979097c79681394?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Nov 19 |
 | **[FreeWheel](https://www.freewheel.com/)** | **[Comcast Product Manager Intern](https://jobright.ai/jobs/info/673c5d179ea377557c689ad5?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 19 |
 | **[Walmart](http://www.walmart.com)** | **[2025 Summer Intern: Product Manager II](https://jobright.ai/jobs/info/673c4d515b349c07646dfbe0?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Nov 19 |
@@ -104,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Electronic Arts (EA)](http://www.ea.com)** | **[Product Management Intern, Self-Service](https://jobright.ai/jobs/info/67378e598bc1ba0dce61b6e3?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Nov 15 |
 | ↳ | **[Product Management Intern, Community and Moderation](https://jobright.ai/jobs/info/6737881ac6ad39a2a1748b3a?utm_campaign=1047&utm_source=git)** | Austin, TX | Remote | Nov 15 |
 | **[AutoStore™](https://www.autostoresystem.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/671ad31dfd7bbc4e9d35237d?utm_campaign=1047&utm_source=git)** | Salem, NH | Hybrid | Nov 15 |
-| **[Arcesium](http://www.arcesium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66ff5367918a794eebbe238d?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Nov 15 |
 | **[Samsara](http://www.samsara.com)** | **[Hardware Product Management Intern](https://jobright.ai/jobs/info/66ff4e8c3d40f43952176d03?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Nov 15 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2025 Intern / Product Planning](https://jobright.ai/jobs/info/6739a4a7be7dd8a5d283da01?utm_campaign=1047&utm_source=git)** | Kirkland, WA | On Site | Nov 15 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66e11fccd6389d51d2b1efcb?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Nov 14 |
@@ -144,8 +149,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[2025 MBA/Master's Level Opportunity - Sr. Product Manager Technical (PMT) Intern (United States)](https://jobright.ai/jobs/info/671a0b40a7f709b088ee3536?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 13 |
 | **[Spectrum Enterprise](http://enterprise.spectrum.com)** | **[2025 Summer Intern: Product Analyst](https://jobright.ai/jobs/info/66fcaa7e122f00f086f6b9c7?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Nov 13 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Product Development Intern (Summer 2025) - Solon, OH](https://jobright.ai/jobs/info/6739b885d2f663f234747866?utm_campaign=1047&utm_source=git)** | Solon, OH | On Site | Nov 13 |
-| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2025 Intern- Product Line Management- Analyst](https://jobright.ai/jobs/info/67345275af45d413cc66fab9?utm_campaign=1047&utm_source=git)** | Richardson, TX | Hybrid | Nov 12 |
-| ↳ | **[Summer 2025 Intern- Product Line Management- Analyst](https://jobright.ai/jobs/info/67345275af45d413cc66fabb?utm_campaign=1047&utm_source=git)** | Bloomington, IL | Hybrid | Nov 12 |
-| ↳ | **[Summer 2025 Intern- Product Line Management- Analyst](https://jobright.ai/jobs/info/67343c526343cc3965060a4a?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Nov 12 |
-| ↳ | **[Summer 2025 Intern- Product Line Management- Analyst](https://jobright.ai/jobs/info/67343eb92897de5c5d47c171?utm_campaign=1047&utm_source=git)** | Tempe, AZ | Hybrid | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
