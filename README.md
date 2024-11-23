@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations MBA Intern (TikTok Shop - Product) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/67411530cd8d67dce94cb6c5?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 22 |
+| **[Raytheon](http://www.bbn.com)** | **[Intern - Digital - Product Lifecycle Management - Onsite (AZ)](https://jobright.ai/jobs/info/6740e96b0e636a08c25b5115?utm_campaign=1047&utm_source=git)** | Tucson, AZ | Hybrid | Nov 22 |
 | **[SAP](https://www.sap.com)** | **[SAP NS2 Product Strategy PMO Intern](https://jobright.ai/jobs/info/6740d944f3a1687da5b972fc?utm_campaign=1047&utm_source=git)** | Herndon, VA | Hybrid | Nov 22 |
 | **[Immuta](http://www.immuta.com/)** | **[Product Research Internship Summer 2025](https://jobright.ai/jobs/info/6740c0a95578e740950b5572?utm_campaign=1047&utm_source=git)** | Columbus, OH | Hybrid | Nov 22 |
 | **[Sensient Technologies Corporation](http://sensient.com)** | **[Intern - Product Manager](https://jobright.ai/jobs/info/6740b180afdf3d74587931fc?utm_campaign=1047&utm_source=git)** | Hoffman Estates, IL | On Site | Nov 22 |
@@ -111,13 +113,13 @@ For a complete list, click the following sortable link below:
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Williams-Sonoma Technology and Product Management Summer Intern 2025](https://jobright.ai/jobs/info/673d4dd7d5688e91efd9a4b9?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Nov 19 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[International Associate Product Manager](https://jobright.ai/jobs/info/673d57c965a6f2ef76a9ff36?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Nov 19 |
 | **[Wing](https://www.wing.com/)** | **[Product Intern](https://jobright.ai/jobs/info/6704f48f760e282825d6a4db?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Nov 19 |
-| **[Amazon](https://amazon.com)** | **[Senior Product Manager Intern - Technical, External Services](https://jobright.ai/jobs/info/673d313cd25014d7bed40540?utm_campaign=1047&utm_source=git)** | New York, New York, USA | On Site | Nov 19 |
-| ↳ | **[Senior Product Manager Intern - Technical, External Services](https://jobright.ai/jobs/info/673d313cd25014d7bed40545?utm_campaign=1047&utm_source=git)** | San Francisco, California, USA | On Site | Nov 19 |
+| **[Amazon](https://amazon.com)** | **[Senior Product Manager Intern - Technical, External Services](https://jobright.ai/jobs/info/673d313cd25014d7bed40543?utm_campaign=1047&utm_source=git)** | Bellevue, Washington, USA | On Site | Nov 19 |
+| ↳ | **[Senior Product Manager Intern - Technical, External Services](https://jobright.ai/jobs/info/673d313cd25014d7bed40542?utm_campaign=1047&utm_source=git)** | Seattle, Washington, USA | On Site | Nov 19 |
 | ↳ | **[Senior Product Manager Intern - Technical, External Services](https://jobright.ai/jobs/info/673d313cd25014d7bed40544?utm_campaign=1047&utm_source=git)** | Dallas, Texas, USA | On Site | Nov 19 |
 | ↳ | **[Senior Product Manager Intern - Technical, External Services](https://jobright.ai/jobs/info/673d2e88d25014d7bed3f470?utm_campaign=1047&utm_source=git)** | Herndon, Virginia, USA | On Site | Nov 19 |
-| ↳ | **[Senior Product Manager Intern - Technical, External Services](https://jobright.ai/jobs/info/673d313cd25014d7bed40542?utm_campaign=1047&utm_source=git)** | Seattle, Washington, USA | On Site | Nov 19 |
+| ↳ | **[Senior Product Manager Intern - Technical, External Services](https://jobright.ai/jobs/info/673d313cd25014d7bed40540?utm_campaign=1047&utm_source=git)** | New York, New York, USA | On Site | Nov 19 |
+| ↳ | **[Senior Product Manager Intern - Technical, External Services](https://jobright.ai/jobs/info/673d313cd25014d7bed40545?utm_campaign=1047&utm_source=git)** | San Francisco, California, USA | On Site | Nov 19 |
 | ↳ | **[Senior Product Manager Intern - Technical, External Services](https://jobright.ai/jobs/info/673d313cd25014d7bed40541?utm_campaign=1047&utm_source=git)** | Santa Clara, California, USA | On Site | Nov 19 |
-| ↳ | **[Senior Product Manager Intern - Technical, External Services](https://jobright.ai/jobs/info/673d313cd25014d7bed40543?utm_campaign=1047&utm_source=git)** | Bellevue, Washington, USA | On Site | Nov 19 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Williams-Sonoma Technology and Product Management Summer Intern 2025](https://jobright.ai/jobs/info/673d2e88d25014d7bed3f47b?utm_campaign=1047&utm_source=git)** | 3250 Van Ness Ave, San Francisco, CA, 94109, US | On Site | Nov 19 |
 | **[ISlide, Inc.](https://www.islideusa.com/)** | **[Spring 2025 Footwear Product Intern](https://jobright.ai/jobs/info/673d0d27837855916dad47ae?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Nov 19 |
 | **[Charles River Development](https://www.crd.com)** | **[Product Management Internship, Charles River Development, Intern](https://jobright.ai/jobs/info/673d0833c475c1de907891fc?utm_campaign=1047&utm_source=git)** | Burlington, MA | On Site | Nov 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern - TX](https://jobright.ai/jobs/info/673afa229db1332fdc567a33?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Nov 17 |
 | **[Xfinity](https://www.xfinity.com/)** | **[Comcast Consumer Product Services Strategy, MBA Intern](https://jobright.ai/jobs/info/673c088637309a491a0999f0?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Nov 17 |
 | **[Powell](http://www.powellind.com)** | **[New Product Development Intern](https://jobright.ai/jobs/info/673a97d23c67376609b3f86c?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Nov 17 |
-| ↳ | **[New Product Development Intern](https://jobright.ai/jobs/info/673a8ff7870a078b19d0d5fe?utm_campaign=1047&utm_source=git)** | 7232 Airport Blvd, Houston, TX, 77061, US | On Site | Nov 17 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Partnerships MBA Intern (Monetization Product Partnerships) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/673a7910817a1f6fff6a041b?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
