@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TE Connectivity](http://www.te.com)** | **[Product Management (Intern)](https://jobright.ai/jobs/info/6743f2ad7dc91360cc6c08ac?utm_campaign=1047&utm_source=git)** | Middletown, PA | On Site | Nov 24 |
 | **[Brooks Running](http://www.brooksrunning.com)** | **[Run Perception Graduate Internship, Run Research Team - January 2025](https://jobright.ai/jobs/info/6743e93d5acae72bde23f703?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 24 |
 | **[Peterbilt Motors Company](http://www.peterbilt.com/)** | **[2025 Summer Internship: Product Planning](https://jobright.ai/jobs/info/6725608b4cad67cb60e8ad60?utm_campaign=1047&utm_source=git)** | Denton, TX | On Site | Nov 23 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Product Line Management Intern, US/CAN – Texture Food Solutions](https://jobright.ai/jobs/info/6709b99a469c38495e2b5fd9?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ | On Site | Nov 23 |
@@ -76,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Invesco US](http://www.invesco.com/us)** | **[Digital Product Management Intern](https://jobright.ai/jobs/info/67240f9ef57447f73722bd73?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Nov 22 |
 | **[Coinbase](http://www.coinbase.com)** | **[ Associate Product Manager Intern](https://jobright.ai/jobs/info/6740493908fbea68fe9c9331?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Nov 22 |
 | **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Product Management - Part Time](https://jobright.ai/jobs/info/6722c8c2bc0591402a4c3079?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
+| ↳ | **[Spring Intern, Product Management, Automotive - Part Time](https://jobright.ai/jobs/info/6722b4671e2ea8bba46a968f?utm_campaign=1047&utm_source=git)** | Lawrenceville, NJ | Hybrid | Nov 21 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Product Strategy and Sourcing Internship](https://jobright.ai/jobs/info/6740015b84df0ac16f80e47d?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Nov 21 |
 | **[IDeaS Revenue Solutions](http://www.ideas.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6740112c69699fd38edb9c4c?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | On Site | Nov 21 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Product Strategy and Sourcing Internship](https://jobright.ai/jobs/info/67400ea8bb686f431440b7d3?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Nov 21 |
@@ -92,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Watts Water Technologies](https://www.watts.com)** | **[Product Management Intern, Summer 2025](https://jobright.ai/jobs/info/6706d61d081e4d9671be4212?utm_campaign=1047&utm_source=git)** | Menomonee Falls, WI | On Site | Nov 21 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Internet Product](https://jobright.ai/jobs/info/66ea5db13d027204c7955687?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | Hybrid | Nov 20 |
 | **[SAS](http://www.sas.com)** | **[Summer 2025 - IoT Product Strategy Intern](https://jobright.ai/jobs/info/673fa1ae120531f8cd89bfe5?utm_campaign=1047&utm_source=git)** | 100 SAS Campus Drive, Cary HQ, NC, US | On Site | Nov 20 |
+| **[HP](http://www.hp.com)** | **[Product Management Intern - Workforce Services and Solutions](https://jobright.ai/jobs/info/6743f4da6730933bae3cbafd?utm_campaign=1047&utm_source=git)** | Spring, TX | On Site | Nov 20 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management Intern, Enterprise Products - Summer 2025](https://jobright.ai/jobs/info/673ea7f9f6e3443ccf93bf21?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Nov 20 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Masters Internship (Summer 2025)](https://jobright.ai/jobs/info/66d842f3c5260d8864df0f99?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Nov 20 |
 | **[Alliance Laundry Systems LLC](https://alliancelaundry.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/673e85a7678e074e4d044173?utm_campaign=1047&utm_source=git)** | Ripon, WI | Hybrid | Nov 20 |
@@ -117,13 +120,14 @@ For a complete list, click the following sortable link below:
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Williams-Sonoma Technology and Product Management Summer Intern 2025](https://jobright.ai/jobs/info/673d4dd7d5688e91efd9a4b9?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Nov 19 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[International Associate Product Manager](https://jobright.ai/jobs/info/673d57c965a6f2ef76a9ff36?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Nov 19 |
 | **[Wing](https://www.wing.com/)** | **[Product Intern](https://jobright.ai/jobs/info/6704f48f760e282825d6a4db?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Nov 19 |
-| **[Amazon](https://amazon.com)** | **[Senior Product Manager Intern - Technical, External Services](https://jobright.ai/jobs/info/673d313cd25014d7bed40544?utm_campaign=1047&utm_source=git)** | Dallas, Texas, USA | On Site | Nov 19 |
-| ↳ | **[Senior Product Manager Intern - Technical, External Services](https://jobright.ai/jobs/info/673d313cd25014d7bed40543?utm_campaign=1047&utm_source=git)** | Bellevue, Washington, USA | On Site | Nov 19 |
-| ↳ | **[Senior Product Manager Intern - Technical, External Services](https://jobright.ai/jobs/info/673d2e88d25014d7bed3f470?utm_campaign=1047&utm_source=git)** | Herndon, Virginia, USA | On Site | Nov 19 |
-| ↳ | **[Senior Product Manager Intern - Technical, External Services](https://jobright.ai/jobs/info/673d313cd25014d7bed40542?utm_campaign=1047&utm_source=git)** | Seattle, Washington, USA | On Site | Nov 19 |
+| **[PTC](http://www.ptc.com)** | **[UX/UI Product Intern](https://jobright.ai/jobs/info/673d34af06d7a7edeb2521f5?utm_campaign=1047&utm_source=git)** | Foster City, CA | On Site | Nov 19 |
+| **[Amazon](https://amazon.com)** | **[Senior Product Manager Intern - Technical, External Services](https://jobright.ai/jobs/info/673d2e88d25014d7bed3f470?utm_campaign=1047&utm_source=git)** | Herndon, Virginia, USA | On Site | Nov 19 |
+| ↳ | **[Senior Product Manager Intern - Technical, External Services](https://jobright.ai/jobs/info/673d313cd25014d7bed40541?utm_campaign=1047&utm_source=git)** | Santa Clara, California, USA | On Site | Nov 19 |
+| ↳ | **[Senior Product Manager Intern - Technical, External Services](https://jobright.ai/jobs/info/673d313cd25014d7bed40544?utm_campaign=1047&utm_source=git)** | Dallas, Texas, USA | On Site | Nov 19 |
 | ↳ | **[Senior Product Manager Intern - Technical, External Services](https://jobright.ai/jobs/info/673d313cd25014d7bed40540?utm_campaign=1047&utm_source=git)** | New York, New York, USA | On Site | Nov 19 |
 | ↳ | **[Senior Product Manager Intern - Technical, External Services](https://jobright.ai/jobs/info/673d313cd25014d7bed40545?utm_campaign=1047&utm_source=git)** | San Francisco, California, USA | On Site | Nov 19 |
-| ↳ | **[Senior Product Manager Intern - Technical, External Services](https://jobright.ai/jobs/info/673d313cd25014d7bed40541?utm_campaign=1047&utm_source=git)** | Santa Clara, California, USA | On Site | Nov 19 |
+| ↳ | **[Senior Product Manager Intern - Technical, External Services](https://jobright.ai/jobs/info/673d313cd25014d7bed40542?utm_campaign=1047&utm_source=git)** | Seattle, Washington, USA | On Site | Nov 19 |
+| ↳ | **[Senior Product Manager Intern - Technical, External Services](https://jobright.ai/jobs/info/673d313cd25014d7bed40543?utm_campaign=1047&utm_source=git)** | Bellevue, Washington, USA | On Site | Nov 19 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Williams-Sonoma Technology and Product Management Summer Intern 2025](https://jobright.ai/jobs/info/673d2e88d25014d7bed3f47b?utm_campaign=1047&utm_source=git)** | 3250 Van Ness Ave, San Francisco, CA, 94109, US | On Site | Nov 19 |
 | **[ISlide, Inc.](https://www.islideusa.com/)** | **[Spring 2025 Footwear Product Intern](https://jobright.ai/jobs/info/673d0d27837855916dad47ae?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Nov 19 |
 | **[Charles River Development](https://www.crd.com)** | **[Product Management Internship, Charles River Development, Intern](https://jobright.ai/jobs/info/673d0833c475c1de907891fc?utm_campaign=1047&utm_source=git)** | Burlington, MA | On Site | Nov 19 |
@@ -150,11 +154,4 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Product Strategy Intern](https://jobright.ai/jobs/info/673bab0d7926fa7e2bf11324?utm_campaign=1047&utm_source=git)** | Redmond, WA | On Site | Nov 18 |
 | **[The Trade Desk](http://thetradedesk.com)** | **[2025 Product Management Intern (Forward Markets)](https://jobright.ai/jobs/info/673ba24b443605e8ba696b3c?utm_campaign=1047&utm_source=git)** | Boston | On Site | Nov 18 |
 | **[Copeland](https://www.copeland.com)** | **[Product Management Co-op (Spring 2025 Term - January Start)](https://jobright.ai/jobs/info/673b94d3035a863680b4ee81?utm_campaign=1047&utm_source=git)** | Sidney, OH | Hybrid | Nov 18 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Product Strategy Intern](https://jobright.ai/jobs/info/673b85a995504ad914afa762?utm_campaign=1047&utm_source=git)** | Redmond, Washington, United States | On Site | Nov 18 |
-| **[CrowdStrike](http://www.crowdstrike.com)** | **[MBA Product Manager Intern - Summer 2025 (Remote)](https://jobright.ai/jobs/info/673b7c61f0765e850c4f5143?utm_campaign=1047&utm_source=git)** | USA - Remote, CA | Remote | Nov 18 |
-| **[Invesco US](http://www.invesco.com/us)** | **[ETF Product Intern](https://jobright.ai/jobs/info/673b78f2b34d5b54b0a07984?utm_campaign=1047&utm_source=git)** | Downers Grove, IL | Hybrid | Nov 18 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Consumer Product Services Strategy, MBA Intern](https://jobright.ai/jobs/info/673b6e3c5236e6ecdb05f207?utm_campaign=1047&utm_source=git)** | PA - Philadelphia, 1701 John F Kennedy Blvd | On Site | Nov 18 |
-| ↳ | **[Comcast Product Manager Intern](https://jobright.ai/jobs/info/673b5c2f7a35d6a267bb112b?utm_campaign=1047&utm_source=git)** | NY - New York, 1407 Broadway Floor 12 | On Site | Nov 18 |
-| **[Invesco US](http://www.invesco.com/us)** | **[ETF Product Intern](https://jobright.ai/jobs/info/673b590b533177230ad1fe84?utm_campaign=1047&utm_source=git)** | Downers Grove, Illinois | Hybrid | Nov 18 |
-| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Product Management Intern - Summer 2025](https://jobright.ai/jobs/info/673b4d252abf484b69662227?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
