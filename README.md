@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Franke Group](https://www.franke.com/in/en/home.html)** | **[Product Management Intern - Franke Foodservice Systems](https://jobright.ai/jobs/info/674674a165ee0ec8990871ff?utm_campaign=1047&utm_source=git)** | Smyrna, TN | On Site | Nov 26 |
 | **[Delta Dental of Iowa](https://www.deltadentalia.com/)** | **[Product Innovation Intern - Insure Your Future](https://jobright.ai/jobs/info/6746572e9492827c0bfd7163?utm_campaign=1047&utm_source=git)** | Johnston, IA | On Site | Nov 26 |
 | **[Coalition, Inc.](https://www.coalitioninc.com)** | **[Senior Product Manager, International](https://jobright.ai/jobs/info/674651e7f162d76a2b71eca3?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 26 |
 | **[ByteDance](http://bytedance.com)** | **[Product Manager Leader-Customer Service Platform-International E-commerce](https://jobright.ai/jobs/info/67463cfbf9780a257a0e300a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 26 |
@@ -151,10 +152,6 @@ For a complete list, click the following sortable link below:
 | **[tesa](http://www.tesa.com)** | **[International Product Manager](https://jobright.ai/jobs/info/673e5c52c7d369b67ac95ae0?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI | Hybrid | Nov 20 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Product Delivery Manager](https://jobright.ai/jobs/info/6742215f9c68442403d9c548?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 20 |
 | **[IBM](http://www.ibm.com)** | **[Software Strategy and M&A Summer Intern: 2025](https://jobright.ai/jobs/info/67212c1c1f58bcaa34cefafb?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 20 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Product Management Masters Internship (Summer 2025)](https://jobright.ai/jobs/info/66defd82f34bd86a7f2799a3?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Nov 20 |
 | **[RepRally](https://www.reprally.com/)** | **[Product Manager Co-Op / Intern](https://jobright.ai/jobs/info/673e00ab6d8ce68baba3959c?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Nov 20 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate - 2025 Global Commercial Services Product Management Internship New York, NY](https://jobright.ai/jobs/info/671884515326dfae1bfe13b3?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 20 |
-| **[The Toro Company](https://www.thetorocompany.com)** | **[Strategic Sourcing Intern - New Product Development - The Toro Company](https://jobright.ai/jobs/info/6705290ca5349807cca8c8d7?utm_campaign=1047&utm_source=git)** | Bloomington, MN | On Site | Nov 20 |
-| **[Nike](http://www.nike.com)** | **[NIKE, Inc. Consumer, Product, Brand & Marketplace Operations (CPBM) Graduate Internship](https://jobright.ai/jobs/info/673dc40c12f472a7ec125c29?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Nov 20 |
-| **[American Modern Insurance Group](https://www.amig.com/)** | **[Product Internship (Long-Term)](https://jobright.ai/jobs/info/66ccb4369cd76ad1142aa4ab?utm_campaign=1047&utm_source=git)** | Cincinnati Metro | Hybrid | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
