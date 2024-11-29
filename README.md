@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oracle](https://www.oracle.com/)** | **[Product Manager Intern - Opower - Energy & Water](https://jobright.ai/jobs/info/672d1eb90bcbc30232b54145?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 29 |
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Product Management, Adobe.com](https://jobright.ai/jobs/info/6740196d60e90e2f5814f917?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Nov 28 |
 | **[GitHub](https://github.com)** | **[Product Manager II - Intern](https://jobright.ai/jobs/info/672bf278f5b9196d69af43f9?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 28 |
 | **[Greystone](https://www.greystone.com)** | **[Summer 2025: Product Management Internship](https://jobright.ai/jobs/info/670f25a60b00d59b34c4ec73?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 28 |
@@ -87,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[OCI G2S Product Manager Intern - OVIP](https://jobright.ai/jobs/info/67292c8fb04bb3d4c6982c2e?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Nov 27 |
 | **[PTC](http://www.ptc.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/672a4477862601a9a7ffb12b?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Nov 27 |
 | **[Tanium](http://www.tanium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f1a6c46d831cd26fee53d4?utm_campaign=1047&utm_source=git)** | Addison, TX | Hybrid | Nov 27 |
+| **[DRB](https://drb.com)** | **[Product Lifecycle Management Intern - Summer 2025](https://jobright.ai/jobs/info/672916db0396748d91311d6f?utm_campaign=1047&utm_source=git)** | Akron, OH | On Site | Nov 27 |
 | **[Franke Group](https://www.franke.com/in/en/home.html)** | **[Product Management Intern - Franke Foodservice Systems](https://jobright.ai/jobs/info/674674a165ee0ec8990871ff?utm_campaign=1047&utm_source=git)** | Smyrna, TN | On Site | Nov 26 |
 | **[Delta Dental of Iowa](https://www.deltadentalia.com/)** | **[Product Innovation Intern - Insure Your Future](https://jobright.ai/jobs/info/6746572e9492827c0bfd7163?utm_campaign=1047&utm_source=git)** | Johnston, IA | On Site | Nov 26 |
 | **[Coalition, Inc.](https://www.coalitioninc.com)** | **[Senior Product Manager, International](https://jobright.ai/jobs/info/674651e7f162d76a2b71eca3?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 26 |
@@ -125,6 +127,7 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/670ba90429bade14bd9fc216?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 25 |
 | **[The Bancorp](http://www.thebancorp.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6744cf6dfaea943401ab5f1d?utm_campaign=1047&utm_source=git)** | 345 North Reid Place, Sioux Falls, SD, US | On Site | Nov 24 |
 | **[TE Connectivity](http://www.te.com)** | **[Product Management (Intern)](https://jobright.ai/jobs/info/6743f2ad7dc91360cc6c08ac?utm_campaign=1047&utm_source=git)** | Middletown, PA | On Site | Nov 24 |
+| **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/66c08218c3b5c7bd10717de4?utm_campaign=1047&utm_source=git)** | North Aurora, IL | On Site | Nov 24 |
 | **[Atlassian](https://www.atlassian.com)** | **[Associate Product Management Intern, 2025 Summer U.S.](https://jobright.ai/jobs/info/66f7c09909e7e35c42b19066?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Nov 23 |
 | **[Peterbilt Motors Company](http://www.peterbilt.com/)** | **[2025 Summer Internship: Product Planning](https://jobright.ai/jobs/info/6725608b4cad67cb60e8ad60?utm_campaign=1047&utm_source=git)** | Denton, TX | On Site | Nov 23 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Product Line Management Intern, US/CAN – Texture Food Solutions](https://jobright.ai/jobs/info/6709b99a469c38495e2b5fd9?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ | On Site | Nov 23 |
@@ -134,6 +137,4 @@ For a complete list, click the following sortable link below:
 | **[Hyundai Motor America](https://www.hyundaiusa.com)** | **[Intern, Mobility & Connectivity](https://jobright.ai/jobs/info/674169b0222271e39af6e247?utm_campaign=1047&utm_source=git)** | Fountain Valley, CA | On Site | Nov 22 |
 | **[Oracle](https://www.oracle.com/)** | **[Product Manager](https://jobright.ai/jobs/info/67412de462fbe542a5f0978e?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations MBA Intern (TikTok Shop - Product) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/67411530cd8d67dce94cb6c5?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 22 |
-| **[Raytheon](http://www.bbn.com)** | **[Intern - Digital - Product Lifecycle Management - Onsite (AZ)](https://jobright.ai/jobs/info/6740e96b0e636a08c25b5115?utm_campaign=1047&utm_source=git)** | Tucson, AZ | Hybrid | Nov 22 |
-| **[SAP](https://www.sap.com)** | **[SAP NS2 Product Strategy PMO Intern](https://jobright.ai/jobs/info/6740d944f3a1687da5b972fc?utm_campaign=1047&utm_source=git)** | Herndon, VA | Hybrid | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
