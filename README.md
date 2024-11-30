@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/671a6f57431b750db02030cc?utm_campaign=1047&utm_source=git)** | Alpharetta, GA | On Site | Nov 30 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Specialist (Intern) United States](https://jobright.ai/jobs/info/674af3af2e771cc432c946d8?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Nov 30 |
 | ↳ | **[Product Management Specialist (Intern) United States](https://jobright.ai/jobs/info/674af3af2e771cc432c946f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 30 |
 | **[Rich Products Corporation](https://rich.com)** | **[Product Management Intern- Toppings, Creams, & Culinary Solutions](https://jobright.ai/jobs/info/672e78bc4e411477f97ca77d?utm_campaign=1047&utm_source=git)** | Buffalo, NY | On Site | Nov 30 |
@@ -91,7 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Digital Product Manager Intern - IT Services](https://jobright.ai/jobs/info/6747817b754858b57a17f8cb?utm_campaign=1047&utm_source=git)** | Cincinnati, OH (USA) | On Site | Nov 27 |
 | **[Kemper](http://kemper.com)** | **[Product Intern – Product Management University](https://jobright.ai/jobs/info/6747729339e6e2dcc54a740c?utm_campaign=1047&utm_source=git)** | Remote-CT | Hybrid | Nov 27 |
 | **[The Hartford](http://www.thehartford.com)** | **[2025 Summer Intern - Product Development Group](https://jobright.ai/jobs/info/674765ebfb60091ace61ee27?utm_campaign=1047&utm_source=git)** | Wayne, PA | On Site | Nov 27 |
-| **[Oracle](https://www.oracle.com/)** | **[OCI G2S Product Manager Intern - OVIP](https://jobright.ai/jobs/info/672a8afd37ee8ce4fd52be1e?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 27 |
+| **[Oracle](https://www.oracle.com/)** | **[OCI G2S Product Manager Intern - OVIP](https://jobright.ai/jobs/info/672ac49c73153ecf0ab16a7a?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 27 |
 | **[Capital Blue Cross](https://capbluecross.com)** | **[Product Innovation Intern](https://jobright.ai/jobs/info/67474e0f55ecfc26e2ed9c47?utm_campaign=1047&utm_source=git)** | Harrisburg, PA | Hybrid | Nov 27 |
 | **[Oracle](https://www.oracle.com/)** | **[OCI G2S Product Manager Intern - OVIP](https://jobright.ai/jobs/info/672ad3cb032781eda8399fcd?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 27 |
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Product Manager, Adobe.com](https://jobright.ai/jobs/info/673f3e1294a51395e0609ad4?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Nov 27 |
@@ -115,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Zebra Technologies](https://www.zebra.com)** | **[2025 Summer Internship (US) - Product Management](https://jobright.ai/jobs/info/67453ed31ce905c610844405?utm_campaign=1047&utm_source=git)** | Holtsville, NY | Hybrid | Nov 25 |
 | **[Centric Brands](https://centricbrands.com)** | **[Production/Product Development Intern - Summer 2025 Internship Program](https://jobright.ai/jobs/info/67453ba35b0b43d01339e4e4?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Nov 25 |
 | ↳ | **[Production/Product Development Intern - Summer 2025 Internship Program](https://jobright.ai/jobs/info/674528c6918491d68dc15dad?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 25 |
-| **[Lenovo](https://www.lenovo.com/in/en/)** | **[Product Management Intern](https://jobright.ai/jobs/info/67451562769924ea02800db6?utm_campaign=1047&utm_source=git)** | Morrisville, NC | On Site | Nov 25 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Product Manager Intern - IT Services](https://jobright.ai/jobs/info/67450279095490c374fa6a95?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Nov 25 |
 | **[PayPal](https://www.paypal.com/home)** | **[Enterprise Product Go-To-Market Intern](https://jobright.ai/jobs/info/6744e7ced9c89034b4fd7079?utm_campaign=1047&utm_source=git)** | San Jose, California, United States of America | Hybrid | Nov 25 |
 | **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer 2025 Intern - National IT](https://jobright.ai/jobs/info/6744e3249bde14a5e26cb2d7?utm_campaign=1047&utm_source=git)** | Dallas, TX | Hybrid | Nov 25 |
@@ -134,10 +134,10 @@ For a complete list, click the following sortable link below:
 | **[Vizient, Inc](https://www.vizientinc.com)** | **[Summer Intern - Product Delivery, Clinical Analytics (Data Digital)](https://jobright.ai/jobs/info/6744ab2756921b442df39879?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Nov 25 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Product Management (R24-5316)](https://jobright.ai/jobs/info/67449f66ad7f060b6c50db52?utm_campaign=1047&utm_source=git)** | Mequon, WI | On Site | Nov 25 |
 | ↳ | **[Co-Op, Product Management (R24-6656)](https://jobright.ai/jobs/info/67449f66ad7f060b6c50db3e?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Nov 25 |
+| **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/66b64ffe157c49d41227d061?utm_campaign=1047&utm_source=git)** | Golden Valley, MN | On Site | Nov 25 |
 | **[Rakuten International](http://rakuten.us)** | **[Co-Op: Product Management](https://jobright.ai/jobs/info/6677ce0674ec1a95a89afdb7?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 25 |
 | **[Oracle](https://www.oracle.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/670ba90429bade14bd9fc216?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 25 |
 | **[The Bancorp](http://www.thebancorp.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6744cf6dfaea943401ab5f1d?utm_campaign=1047&utm_source=git)** | 345 North Reid Place, Sioux Falls, SD, US | On Site | Nov 24 |
 | **[TE Connectivity](http://www.te.com)** | **[Product Management (Intern)](https://jobright.ai/jobs/info/6743f2ad7dc91360cc6c08ac?utm_campaign=1047&utm_source=git)** | Middletown, PA | On Site | Nov 24 |
 | **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/66c08218c3b5c7bd10717de4?utm_campaign=1047&utm_source=git)** | North Aurora, IL | On Site | Nov 24 |
-| **[Atlassian](https://www.atlassian.com)** | **[Associate Product Management Intern, 2025 Summer U.S.](https://jobright.ai/jobs/info/66f7c09909e7e35c42b19066?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Nov 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
