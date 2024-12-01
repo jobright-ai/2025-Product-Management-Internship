@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/671a6f57431b750db02030cc?utm_campaign=1047&utm_source=git)** | Alpharetta, GA | On Site | Nov 30 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Lightroom Product Research](https://jobright.ai/jobs/info/673f39cf5c0326466eb8cefc?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 30 |
+| **[Novanta Inc.](http://www.novanta.com)** | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/6711621417e98ce42005544a?utm_campaign=1047&utm_source=git)** | Mukilteo, WA | On Site | Nov 30 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Specialist (Intern) United States](https://jobright.ai/jobs/info/674af3af2e771cc432c946d8?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Nov 30 |
 | ↳ | **[Product Management Specialist (Intern) United States](https://jobright.ai/jobs/info/674af3af2e771cc432c946f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 30 |
 | **[Rich Products Corporation](https://rich.com)** | **[Product Management Intern- Toppings, Creams, & Culinary Solutions](https://jobright.ai/jobs/info/672e78bc4e411477f97ca77d?utm_campaign=1047&utm_source=git)** | Buffalo, NY | On Site | Nov 30 |
