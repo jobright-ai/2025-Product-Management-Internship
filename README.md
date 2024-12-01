@@ -144,5 +144,4 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/670ba90429bade14bd9fc216?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 25 |
 | **[The Bancorp](http://www.thebancorp.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6744cf6dfaea943401ab5f1d?utm_campaign=1047&utm_source=git)** | 345 North Reid Place, Sioux Falls, SD, US | On Site | Nov 24 |
 | **[TE Connectivity](http://www.te.com)** | **[Product Management (Intern)](https://jobright.ai/jobs/info/6743f2ad7dc91360cc6c08ac?utm_campaign=1047&utm_source=git)** | Middletown, PA | On Site | Nov 24 |
-| **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/66c08218c3b5c7bd10717de4?utm_campaign=1047&utm_source=git)** | North Aurora, IL | On Site | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
