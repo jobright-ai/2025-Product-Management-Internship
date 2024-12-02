@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Whole Foods Market](http://www.wholefoodsmarket.com)** | **[Adult Beverage Product Development and Innovation Internship - Summer 2025](https://jobright.ai/jobs/info/674de66618b966682c7727ea?utm_campaign=1047&utm_source=git)** | TX, Austin - Global Support | On Site | Dec 02 |
 | **[Intapp](http://www.intapp.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/674c78b542a6e8d2aa132ac2?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Dec 01 |
 | **[Oatey Company](https://www.oatey.com//)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f6fa4c7c3c1d6f7b252e97?utm_campaign=1047&utm_source=git)** | Cleveland, OH | Hybrid | Dec 01 |
 | **[Novanta Inc.](http://www.novanta.com)** | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/6711621417e98ce420055450?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Nov 30 |
@@ -123,9 +124,4 @@ For a complete list, click the following sortable link below:
 | **[Tanium](http://www.tanium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f1a6c46d831cd26fee53d8?utm_campaign=1047&utm_source=git)** | Emeryville, CA | Hybrid | Nov 26 |
 | **[Walmart](http://www.walmart.com)** | **[2025 Summer Intern: Legacy I&A - Product Manager II](https://jobright.ai/jobs/info/674c2a37a2f8de55b018c851?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Nov 26 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Product Management Intern](https://jobright.ai/jobs/info/674c080ca7eece1c416d3174?utm_campaign=1047&utm_source=git)** | Morrisville, NC | On Site | Nov 25 |
-| **[Zebra Technologies](https://www.zebra.com)** | **[2025 Summer Internship (US) - Product Management](https://jobright.ai/jobs/info/67453ed31ce905c610844405?utm_campaign=1047&utm_source=git)** | Holtsville, NY | Hybrid | Nov 25 |
-| **[Centric Brands](https://centricbrands.com)** | **[Production/Product Development Intern - Summer 2025 Internship Program](https://jobright.ai/jobs/info/67453ba35b0b43d01339e4e4?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Nov 25 |
-| ↳ | **[Production/Product Development Intern - Summer 2025 Internship Program](https://jobright.ai/jobs/info/674528c6918491d68dc15dad?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 25 |
-| **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/66fcc5a9e414e51f9497b809?utm_campaign=1047&utm_source=git)** | Brookfield, WI | On Site | Nov 25 |
-| ↳ | **[Product Management Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/66fcd2c213331f630070c38d?utm_campaign=1047&utm_source=git)** | Delavan, WI | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
