@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Intapp](http://www.intapp.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/674c78b542a6e8d2aa132ac2?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Dec 01 |
+| **[Novanta Inc.](http://www.novanta.com)** | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/6711621417e98ce420055450?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Nov 30 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/671a6f57431b750db02030cc?utm_campaign=1047&utm_source=git)** | Alpharetta, GA | On Site | Nov 30 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Lightroom Product Research](https://jobright.ai/jobs/info/673f39cf5c0326466eb8cefc?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 30 |
 | **[Novanta Inc.](http://www.novanta.com)** | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/6711621417e98ce42005544a?utm_campaign=1047&utm_source=git)** | Mukilteo, WA | On Site | Nov 30 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Specialist (Intern) United States](https://jobright.ai/jobs/info/674af3af2e771cc432c946f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 30 |
 | **[Rich Products Corporation](https://rich.com)** | **[Product Management Intern- Toppings, Creams, & Culinary Solutions](https://jobright.ai/jobs/info/672e78bc4e411477f97ca77d?utm_campaign=1047&utm_source=git)** | Buffalo, NY | On Site | Nov 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Global Product Solutions and Operations Intern (Core Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/674ae2f638bfa615e8ec75f6?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Nov 30 |
-| **[Intapp](http://www.intapp.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/674a15cd7256d844a8f20cad?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Nov 29 |
 | **[BioSpace](http://www.biospace.com/)** | **[Join Our Product Development Community](https://jobright.ai/jobs/info/6749e4a9cb1cf12dd0cd8b61?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 29 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Product Content Internships (Tech Writer and Tech Editor) - Summer 2025](https://jobright.ai/jobs/info/67396a2d6b471b0f3f30ae9e?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Nov 29 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Product Management MBA Leadership Track Internship](https://jobright.ai/jobs/info/66fcc2869d7d3e68080e281c?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Nov 29 |
@@ -146,5 +146,4 @@ For a complete list, click the following sortable link below:
 | **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/66b64ffe157c49d41227d061?utm_campaign=1047&utm_source=git)** | Golden Valley, MN | On Site | Nov 25 |
 | **[Rakuten International](http://rakuten.us)** | **[Co-Op: Product Management](https://jobright.ai/jobs/info/6677ce0674ec1a95a89afdb7?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 25 |
 | **[Oracle](https://www.oracle.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/670ba90429bade14bd9fc216?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 25 |
-| **[The Bancorp](http://www.thebancorp.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6744cf6dfaea943401ab5f1d?utm_campaign=1047&utm_source=git)** | 345 North Reid Place, Sioux Falls, SD, US | On Site | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
