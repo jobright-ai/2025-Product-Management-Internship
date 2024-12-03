@@ -57,16 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sabre Corporation](https://www.sabre.com)** | **[Product Manager Travel AI - 2025 Summer Intern](https://jobright.ai/jobs/info/674f43838e5e732f3b48190a?utm_campaign=1047&utm_source=git)** | DFW Metroplex | On Site | Dec 03 |
 | **[CoreLogic](https://www.corelogic.com/)** | **[Intern, Product Implementation Analyst](https://jobright.ai/jobs/info/67329991ab6973951fc3e073?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Dec 03 |
-| **[Exact Sciences](https://www.exactsciences.com)** | **[Product Owner Intern](https://jobright.ai/jobs/info/674e6ba987a014ede7b42ee5?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Dec 02 |
 | **[Walmart](http://www.walmart.com)** | **[2025 Summer Intern: Product Manager](https://jobright.ai/jobs/info/674eb0862ff34fce3e9ea3eb?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Dec 02 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Product Management Internship - Summer 2025](https://jobright.ai/jobs/info/674e79dde6a5b665f02e098d?utm_campaign=1047&utm_source=git)** | St Louis, MO | Hybrid | Dec 02 |
 | **[Okta](http://www.okta.com)** | **[Intern - Product Management Intern, MBA (Summer 2025)](https://jobright.ai/jobs/info/674e37606b29332b35579e59?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Remote | Dec 02 |
 | **[SAS](http://www.sas.com)** | **[Summer 2025 - IoT Product Strategy Intern (Master's Student)](https://jobright.ai/jobs/info/673faded1aeb0e40aa5bca8f?utm_campaign=1047&utm_source=git)** | Cary, NC | On Site | Dec 02 |
 | **[Whole Foods Market](http://www.wholefoodsmarket.com)** | **[Adult Beverage Product Development and Innovation Internship - Summer 2025](https://jobright.ai/jobs/info/674e2d4d652b5dfb044e5ff7?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Dec 02 |
-| **[Walmart Canada](https://www.walmartcanada.ca/)** | **[2025 Summer Intern: Product Manager](https://jobright.ai/jobs/info/674e1cf07641c0fc3233430d?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Dec 02 |
-| ↳ | **[2025 Summer Intern: Product Manager](https://jobright.ai/jobs/info/674e1cf07641c0fc3233440f?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Dec 02 |
+| **[Walmart Canada](https://www.walmartcanada.ca/)** | **[2025 Summer Intern: Product Manager](https://jobright.ai/jobs/info/674e1cf07641c0fc3233440f?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Dec 02 |
+| ↳ | **[2025 Summer Intern: Product Manager](https://jobright.ai/jobs/info/674e1cf07641c0fc3233430d?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Dec 02 |
 | **[Spectrum Real-Time Visual Solutions](http://www.specorp.com)** | **[Spectrum, 2025 Summer Intern: Product Analyst - Application via WayUp](https://jobright.ai/jobs/info/674e1ea367b3754b21c067e3?utm_campaign=1047&utm_source=git)** | Englewood, CO | On Site | Dec 02 |
+| **[Entegral](https://Entegral.com)** | **[Product Management Internship - Summer 2025](https://jobright.ai/jobs/info/674f4e63cbd4ab6f2218e7b6?utm_campaign=1047&utm_source=git)** | Richmond Heights, MO | Hybrid | Dec 02 |
 | **[Whole Foods Market](http://www.wholefoodsmarket.com)** | **[Adult Beverage Product Development and Innovation Internship - Summer 2025](https://jobright.ai/jobs/info/674de66618b966682c7727ea?utm_campaign=1047&utm_source=git)** | TX, Austin - Global Support | On Site | Dec 02 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Sr. Product Manager Intern (MBA Degree) - Summer 2025](https://jobright.ai/jobs/info/66e19644123fa518c952ceac?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Dec 02 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Customer solution & product management internship](https://jobright.ai/jobs/info/674eb2f69e09ff2074356d36?utm_campaign=1047&utm_source=git)** | Rockville, MD | On Site | Dec 01 |
@@ -125,6 +126,4 @@ For a complete list, click the following sortable link below:
 | **[PTC](http://www.ptc.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/672a4477862601a9a7ffb12b?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Nov 27 |
 | **[Tanium](http://www.tanium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f1a6c46d831cd26fee53d4?utm_campaign=1047&utm_source=git)** | Addison, TX | Hybrid | Nov 27 |
 | **[DRB](https://drb.com)** | **[Product Lifecycle Management Intern - Summer 2025](https://jobright.ai/jobs/info/672916db0396748d91311d6f?utm_campaign=1047&utm_source=git)** | Akron, OH | On Site | Nov 27 |
-| **[Franke Group](https://www.franke.com/in/en/home.html)** | **[Product Management Intern - Franke Foodservice Systems](https://jobright.ai/jobs/info/674674a165ee0ec8990871ff?utm_campaign=1047&utm_source=git)** | Smyrna, TN | On Site | Nov 26 |
-| **[Delta Dental of Iowa](https://www.deltadentalia.com/)** | **[Product Innovation Intern - Insure Your Future](https://jobright.ai/jobs/info/6746572e9492827c0bfd7163?utm_campaign=1047&utm_source=git)** | Johnston, IA | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
