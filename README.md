@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern - IL](https://jobright.ai/jobs/info/67517042c3cc5ecf0b694138?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Dec 04 |
+| **[Teradata](https://www.teradata.com)** | **[Cloud Platforms Product Manager Intern](https://jobright.ai/jobs/info/6751504c39847e2b78a48b6a?utm_campaign=1047&utm_source=git)** | California, United States | Hybrid | Dec 04 |
+| **[Schneider](https://schneider.com)** | **[Product Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/67512e5fc5a3dd815278590c?utm_campaign=1047&utm_source=git)** | Green Bay, WI | On Site | Dec 04 |
+| **[EmazingGroup - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[Emazing Group - INTO THE AM & iHeartRaves / Buying Intern / anaheim, ca](https://jobright.ai/jobs/info/675139f041a1edf70799af3c?utm_campaign=1047&utm_source=git)** | Anaheim, CA | On Site | Dec 04 |
 | **[Splunk](https://www.splunk.com)** | **[Data Scientist/Product Analyst Intern (Boulder, CO - Summer 2025)](https://jobright.ai/jobs/info/6750efde5be68f2a3fe51e80?utm_campaign=1047&utm_source=git)** | Colorado | On Site | Dec 04 |
 | **[Vermeer Corporation](https://borestore.com/)** | **[Product Specialist Intern](https://jobright.ai/jobs/info/6750eb1f6de236b96bf9db20?utm_campaign=1047&utm_source=git)** | Pella, IA | On Site | Dec 04 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Apprentice](https://jobright.ai/jobs/info/6750e79f72412a83e9de30d8?utm_campaign=1047&utm_source=git)** | Tucson, AZ | On Site | Dec 04 |
@@ -83,7 +87,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 IT Solution and Design Intern](https://jobright.ai/jobs/info/674fc84ef1ffffc7c92c4ec0?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Dec 03 |
 | **[Splunk](https://www.splunk.com)** | **[Product Manager Intern (Boulder, CO - Summer 2025)](https://jobright.ai/jobs/info/674f9f25513e3a210645018d?utm_campaign=1047&utm_source=git)** | Boulder, Colorado | On Site | Dec 03 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Intern - I&C Product Management](https://jobright.ai/jobs/info/674f9b5abc19ed49eab83007?utm_campaign=1047&utm_source=git)** | Warrendale, PA | Hybrid | Dec 03 |
-| **[Brightly](https://www.brightlysoftware.com)** | **[Intern - Product Owner](https://jobright.ai/jobs/info/674f92eeaa5e325611d9e80c?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Dec 03 |
 | **[Staples](http://www.staples.com)** | **[Category Development Intern (Hybrid) - June 2025](https://jobright.ai/jobs/info/674f8507903995599c3302ec?utm_campaign=1047&utm_source=git)** | 500 Staples Drive, Framingham, MA, 01702, US | Hybrid | Dec 03 |
 | **[OneStream Software](http://www.onestreamsoftware.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/674f7f41bbcfeece86b89fc7?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 03 |
 | **[Spectrum Real-Time Visual Solutions](http://www.specorp.com)** | **[Spectrum, 2025 Summer Intern: WiFi Product Team - Application via WayUp](https://jobright.ai/jobs/info/674f780ed788687e37d33fe2?utm_campaign=1047&utm_source=git)** | Englewood, CO | Hybrid | Dec 03 |
@@ -107,6 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Whole Foods Market](http://www.wholefoodsmarket.com)** | **[Adult Beverage Product Development and Innovation Internship - Summer 2025](https://jobright.ai/jobs/info/674de66618b966682c7727ea?utm_campaign=1047&utm_source=git)** | TX, Austin - Global Support | On Site | Dec 02 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I – Product Management](https://jobright.ai/jobs/info/6718840ef38028979720bde5?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Dec 02 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Sr. Product Manager Intern (MBA Degree) - Summer 2025](https://jobright.ai/jobs/info/66e19644123fa518c952ceac?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Dec 02 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Customer solution & product management internship](https://jobright.ai/jobs/info/67514a3dbca49d63e4da131f?utm_campaign=1047&utm_source=git)** | Rockville, MD | On Site | Dec 01 |
 | **[Intapp](http://www.intapp.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/674c78b542a6e8d2aa132ac2?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Dec 01 |
 | **[Oatey Company](https://www.oatey.com//)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f6fa4c7c3c1d6f7b252e97?utm_campaign=1047&utm_source=git)** | Cleveland, OH | Hybrid | Dec 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Global Product Solutions and Operations Intern (Core Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/675102689ced628e2777bce7?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Dec 01 |
