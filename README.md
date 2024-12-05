@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Product Management Internship (Summer 2025 - UIUC Research Park)](https://jobright.ai/jobs/info/6751fc621d97c1e382312159?utm_campaign=1047&utm_source=git)** | Champaign, IL | Hybrid | Dec 05 |
+| ↳ | **[Product Management Internship (Summer 2025 - UIUC Research Park)](https://jobright.ai/jobs/info/6751c5357928c63464b9aa30?utm_campaign=1047&utm_source=git)** | Champaign, IL (IL169) | On Site | Dec 05 |
+| **[NVIDIA](https://www.nvidia.com)** | **[Product Management Intern, NeMo Retriever - Summer 2025](https://jobright.ai/jobs/info/6751c5357928c63464b9aa7c?utm_campaign=1047&utm_source=git)** | US, CA, Santa Clara | On Site | Dec 05 |
+| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Technical Product Manager, Content Supply Chain](https://jobright.ai/jobs/info/673ff351120d00adb630936a?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 05 |
+| **[Coinbase](http://www.coinbase.com)** | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/67352b7e73c3f68b9885cd5a?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 05 |
 | **[Electronic Arts (EA)](http://www.ea.com)** | **[Product Manager Intern, Master's or MBA - Summer 2025 (Apex Legends)](https://jobright.ai/jobs/info/673568fb3efdbb45d1fd229b?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 05 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Product Mgmt Analytics Reporting Student Experience](https://jobright.ai/jobs/info/675194318b0395b4b63df8d0?utm_campaign=1047&utm_source=git)** | West Fargo, ND | On Site | Dec 05 |
 | **[Signify](https://www.signify.com)** | **[Category Management Intern Spring 2025 , COOPER LIGHTING SOLUTIONS](https://jobright.ai/jobs/info/67517f4d6fc072742ff7e9a9?utm_campaign=1047&utm_source=git)** | Peachtree City, GA | On Site | Dec 05 |
@@ -85,8 +90,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern, Product Monetization](https://jobright.ai/jobs/info/6733db43b62e2c2cfa0470f7?utm_campaign=1047&utm_source=git)** | Washington, DC | On Site | Dec 04 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67501e3091a64e66221f91a0?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Dec 04 |
 | **[Imprint](https://www.imprint.co)** | **[Product Manager Intern](https://jobright.ai/jobs/info/675015352807ae58354804da?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Dec 03 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 IT Solution and Design Intern](https://jobright.ai/jobs/info/674fd350de48398f55d0674a?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Dec 03 |
-| ↳ | **[Summer 2025 T-Mobile eCommerce Product and API Development Intern](https://jobright.ai/jobs/info/674fc63f626fc6a895527341?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Dec 03 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 T-Mobile eCommerce Product and API Development Intern](https://jobright.ai/jobs/info/674fc63f626fc6a895527341?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Dec 03 |
 | ↳ | **[Summer 2025 IT Solution and Design Intern](https://jobright.ai/jobs/info/674fc84ef1ffffc7c92c4ec0?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Dec 03 |
 | **[Splunk](https://www.splunk.com)** | **[Product Manager Intern (Boulder, CO - Summer 2025)](https://jobright.ai/jobs/info/674f9f25513e3a210645018d?utm_campaign=1047&utm_source=git)** | Boulder, Colorado | On Site | Dec 03 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Intern - I&C Product Management](https://jobright.ai/jobs/info/674f9b5abc19ed49eab83007?utm_campaign=1047&utm_source=git)** | Warrendale, PA | Hybrid | Dec 03 |
@@ -96,8 +100,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spectrum, 2025 Summer Intern: Mobile Product - Application via WayUp](https://jobright.ai/jobs/info/674f780ed788687e37d33fd2?utm_campaign=1047&utm_source=git)** | Englewood, CO | Hybrid | Dec 03 |
 | ↳ | **[Spectrum, 2025 Summer Intern: Mobile Product - Application via WayUp](https://jobright.ai/jobs/info/674f780ed788687e37d342db?utm_campaign=1047&utm_source=git)** | Stamford, CT | Hybrid | Dec 03 |
 | ↳ | **[Spectrum, 2025 Summer Intern: Mobile Product Strategy - Application via WayUp](https://jobright.ai/jobs/info/674f780ed788687e37d33ff3?utm_campaign=1047&utm_source=git)** | Englewood, CO | Hybrid | Dec 03 |
-| **[Sabre Corporation](https://www.sabre.com)** | **[Product Management - 2025 Summer Intern](https://jobright.ai/jobs/info/674f5f4e5b59d88033dc51f8?utm_campaign=1047&utm_source=git)** | Southlake, TX | Hybrid | Dec 03 |
-| ↳ | **[Product Manager Travel AI - 2025 Summer Intern](https://jobright.ai/jobs/info/674f5f4e5b59d88033dc51eb?utm_campaign=1047&utm_source=git)** | Southlake, TX | Hybrid | Dec 03 |
+| **[Sabre Corporation](https://www.sabre.com)** | **[Product Manager Travel AI - 2025 Summer Intern](https://jobright.ai/jobs/info/674f5f4e5b59d88033dc51eb?utm_campaign=1047&utm_source=git)** | Southlake, TX | Hybrid | Dec 03 |
+| ↳ | **[Product Management - 2025 Summer Intern](https://jobright.ai/jobs/info/674f5f4e5b59d88033dc51f8?utm_campaign=1047&utm_source=git)** | Southlake, TX | Hybrid | Dec 03 |
 | ↳ | **[Product Manager Travel AI - 2025 Summer Intern](https://jobright.ai/jobs/info/674f43838e5e732f3b48190a?utm_campaign=1047&utm_source=git)** | DFW Metroplex | On Site | Dec 03 |
 | **[Onbe](https://www.onbe.com)** | **[Product Manager - International Issuance](https://jobright.ai/jobs/info/67325a1d3b037fb14b250c84?utm_campaign=1047&utm_source=git)** | Conshohocken, PA | Hybrid | Dec 03 |
 | **[CoreLogic](https://www.corelogic.com/)** | **[Intern, Product Implementation Analyst](https://jobright.ai/jobs/info/67329991ab6973951fc3e073?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Dec 03 |
@@ -107,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Product Management Internship - Summer 2025](https://jobright.ai/jobs/info/674e79dde6a5b665f02e098d?utm_campaign=1047&utm_source=git)** | St Louis, MO | Hybrid | Dec 02 |
 | **[Okta](http://www.okta.com)** | **[Intern - Product Management Intern, MBA (Summer 2025)](https://jobright.ai/jobs/info/674e37606b29332b35579e59?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Remote | Dec 02 |
 | **[SAS](http://www.sas.com)** | **[Summer 2025 - IoT Product Strategy Intern (Master's Student)](https://jobright.ai/jobs/info/673faded1aeb0e40aa5bca8f?utm_campaign=1047&utm_source=git)** | Cary, NC | On Site | Dec 02 |
-| **[Whole Foods Market](http://www.wholefoodsmarket.com)** | **[Adult Beverage Product Development and Innovation Internship - Summer 2025](https://jobright.ai/jobs/info/674e2d4d652b5dfb044e5ff7?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Dec 02 |
 | **[Spectrum Real-Time Visual Solutions](http://www.specorp.com)** | **[Spectrum, 2025 Summer Intern: Product Analyst - Application via WayUp](https://jobright.ai/jobs/info/674e1ea367b3754b21c067e3?utm_campaign=1047&utm_source=git)** | Englewood, CO | On Site | Dec 02 |
 | **[Entegral](https://Entegral.com)** | **[Product Management Internship - Summer 2025](https://jobright.ai/jobs/info/674f4e63cbd4ab6f2218e7b6?utm_campaign=1047&utm_source=git)** | Richmond Heights, MO | Hybrid | Dec 02 |
 | **[Whole Foods Market](http://www.wholefoodsmarket.com)** | **[Adult Beverage Product Development and Innovation Internship - Summer 2025](https://jobright.ai/jobs/info/674de66618b966682c7727ea?utm_campaign=1047&utm_source=git)** | TX, Austin - Global Support | On Site | Dec 02 |
@@ -130,5 +133,4 @@ For a complete list, click the following sortable link below:
 | **[ServiceNow](http://www.servicenow.com)** | **[Product Content Internships (Tech Writer and Tech Editor) - Summer 2025](https://jobright.ai/jobs/info/67396a2d6b471b0f3f30ae9e?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Nov 29 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Product Management MBA Leadership Track Internship](https://jobright.ai/jobs/info/66fcc2869d7d3e68080e281c?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Nov 29 |
 | **[Oracle](https://www.oracle.com/)** | **[Product Manager Intern - Opower - Energy & Water](https://jobright.ai/jobs/info/672d1eb90bcbc30232b54145?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 29 |
-| **[Genentech](http://gene.com)** | **[2025 Summer Intern - Global Product Strategy](https://jobright.ai/jobs/info/672b586337d97873ac40917b?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
