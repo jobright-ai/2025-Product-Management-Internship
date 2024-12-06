@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 T-Mobile Business Group Parter Product Order Management Intern](https://jobright.ai/jobs/info/67526a2a9b85af3e6624955f?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Dec 05 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Product Management Internship (Summer 2025 - UIUC Research Park)](https://jobright.ai/jobs/info/67524b3014694f514e3213e1?utm_campaign=1047&utm_source=git)** | Champaign, IL | Hybrid | Dec 05 |
 | **[Oracle](https://www.oracle.com/)** | **[Product Manager Intern - Opower - Energy and Water](https://jobright.ai/jobs/info/675218e3cafd2a506fdfb799?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 05 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Product Management Internship (Summer 2025 - UIUC Research Park)](https://jobright.ai/jobs/info/6751fc621d97c1e382312159?utm_campaign=1047&utm_source=git)** | Champaign, IL | Hybrid | Dec 05 |
 | **[Justrite Safety Group](https://www.justrite.com)** | **[Product Development Research Intern](https://jobright.ai/jobs/info/6752039fa1a3902449e41220?utm_campaign=1047&utm_source=git)** | Broomfield, CO | On Site | Dec 05 |
@@ -93,8 +95,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern, Product Monetization](https://jobright.ai/jobs/info/6733db43b62e2c2cfa0470f7?utm_campaign=1047&utm_source=git)** | Washington, DC | On Site | Dec 04 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67501e3091a64e66221f91a0?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Dec 04 |
 | **[Imprint](https://www.imprint.co)** | **[Product Manager Intern](https://jobright.ai/jobs/info/675015352807ae58354804da?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Dec 03 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 IT Solution and Design Intern](https://jobright.ai/jobs/info/674fd350de48398f55d0674a?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Dec 03 |
-| ↳ | **[Summer 2025 T-Mobile eCommerce Product and API Development Intern](https://jobright.ai/jobs/info/674fc63f626fc6a895527341?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Dec 03 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 T-Mobile eCommerce Product and API Development Intern](https://jobright.ai/jobs/info/674fc63f626fc6a895527341?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Dec 03 |
+| ↳ | **[Summer 2025 IT Solution and Design Intern](https://jobright.ai/jobs/info/674fc84ef1ffffc7c92c4ec0?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Dec 03 |
 | **[Splunk](https://www.splunk.com)** | **[Product Manager Intern (Boulder, CO - Summer 2025)](https://jobright.ai/jobs/info/674f9f25513e3a210645018d?utm_campaign=1047&utm_source=git)** | Boulder, Colorado | On Site | Dec 03 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Intern - I&C Product Management](https://jobright.ai/jobs/info/674f9b5abc19ed49eab83007?utm_campaign=1047&utm_source=git)** | Warrendale, PA | Hybrid | Dec 03 |
 | **[Staples](http://www.staples.com)** | **[Category Development Intern (Hybrid) - June 2025](https://jobright.ai/jobs/info/674f8507903995599c3302ec?utm_campaign=1047&utm_source=git)** | 500 Staples Drive, Framingham, MA, 01702, US | Hybrid | Dec 03 |
@@ -131,8 +133,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Specialist (Intern) United States](https://jobright.ai/jobs/info/674af3af2e771cc432c946f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 30 |
 | **[Rich Products Corporation](https://rich.com)** | **[Product Management Intern- Toppings, Creams, & Culinary Solutions](https://jobright.ai/jobs/info/672e78bc4e411477f97ca77d?utm_campaign=1047&utm_source=git)** | Buffalo, NY | On Site | Nov 30 |
 | **[BioSpace](http://www.biospace.com/)** | **[Join Our Product Development Community](https://jobright.ai/jobs/info/6749e4a9cb1cf12dd0cd8b61?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 29 |
-| **[Bobcat Company](https://www.bobcat.com)** | **[2025 Product Management Student Experience](https://jobright.ai/jobs/info/66d73591a3618aa441399c15?utm_campaign=1047&utm_source=git)** | West Fargo, ND | On Site | Nov 29 |
-| **[ServiceNow](http://www.servicenow.com)** | **[Product Content Internships (Tech Writer and Tech Editor) - Summer 2025](https://jobright.ai/jobs/info/67396a2d6b471b0f3f30ae9e?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Nov 29 |
-| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Product Management MBA Leadership Track Internship](https://jobright.ai/jobs/info/66fcc2869d7d3e68080e281c?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Nov 29 |
-| **[Oracle](https://www.oracle.com/)** | **[Product Manager Intern - Opower - Energy & Water](https://jobright.ai/jobs/info/672d1eb90bcbc30232b54145?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
