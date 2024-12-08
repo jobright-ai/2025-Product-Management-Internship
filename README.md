@@ -111,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[The Trade Desk](http://thetradedesk.com)** | **[2025 Product Management Intern](https://jobright.ai/jobs/info/674ad906331199392183aa17?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Dec 04 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Apprentice](https://jobright.ai/jobs/info/6750e79f72412a83e9de30d8?utm_campaign=1047&utm_source=git)** | Tucson, AZ | On Site | Dec 04 |
 | ↳ | **[Product Manager Apprentice](https://jobright.ai/jobs/info/6750e79f72412a83e9de3155?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Dec 04 |
+| **[Dorman Products](https://www.dormanproducts.com/)** | **[Product Intern](https://jobright.ai/jobs/info/6750dc6caf6ae4053c3e61ab?utm_campaign=1047&utm_source=git)** | Colmar, PA | Hybrid | Dec 04 |
 | **[Altruist](https://altruist.com)** | **[Product Management Intern - Summer 2025](https://jobright.ai/jobs/info/6750dcb3313d4ae00c4f4b14?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 04 |
 | **[Salesforce](https://www.salesforce.com)** | **[IT Product Management Specialist (New Grad)](https://jobright.ai/jobs/info/6750e941af91ef064ea31605?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Dec 04 |
 | **[Vermeer Corporation](https://borestore.com/)** | **[Product Specialist Intern](https://jobright.ai/jobs/info/6750eddf40a819af2633d133?utm_campaign=1047&utm_source=git)** | Pella, Iowa, USA - Plant 4 Segment Office | On Site | Dec 04 |
@@ -124,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Product Innovation Intern, NA](https://jobright.ai/jobs/info/6733ef014bfd61c2655a0388?utm_campaign=1047&utm_source=git)** | Denver, CO | On Site | Dec 04 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Product Service Strategy Intern](https://jobright.ai/jobs/info/6716fc4ef887b1c0d2d11238?utm_campaign=1047&utm_source=git)** | Olathe, KS | On Site | Dec 04 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2025 - Product Manager, Product Delivery Team Intern](https://jobright.ai/jobs/info/6733a160a53fdc8f21a08998?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Dec 04 |
-| **[Dorman Products](https://www.dormanproducts.com/)** | **[Product Intern](https://jobright.ai/jobs/info/67503eca0b71cf555fa3bfaa?utm_campaign=1047&utm_source=git)** | Colmar, PA | Hybrid | Dec 04 |
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Summer Intern, Content Experience Product](https://jobright.ai/jobs/info/6733d6652c215fb1f39fe844?utm_campaign=1047&utm_source=git)** | Washington, DC | On Site | Dec 04 |
 | ↳ | **[Summer Intern, Product Monetization](https://jobright.ai/jobs/info/6733db43b62e2c2cfa0470f7?utm_campaign=1047&utm_source=git)** | Washington, DC | On Site | Dec 04 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67501e3091a64e66221f91a0?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Dec 04 |
