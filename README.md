@@ -144,8 +144,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spectrum, 2025 Summer Intern: Mobile Product - Application via WayUp](https://jobright.ai/jobs/info/674f780ed788687e37d33fd2?utm_campaign=1047&utm_source=git)** | Englewood, CO | Hybrid | Dec 03 |
 | ↳ | **[Spectrum, 2025 Summer Intern: Mobile Product - Application via WayUp](https://jobright.ai/jobs/info/674f780ed788687e37d342db?utm_campaign=1047&utm_source=git)** | Stamford, CT | Hybrid | Dec 03 |
 | ↳ | **[Spectrum, 2025 Summer Intern: Mobile Product Strategy - Application via WayUp](https://jobright.ai/jobs/info/674f780ed788687e37d33ff3?utm_campaign=1047&utm_source=git)** | Englewood, CO | Hybrid | Dec 03 |
-| **[Sabre Corporation](https://www.sabre.com)** | **[Product Management - 2025 Summer Intern](https://jobright.ai/jobs/info/674f5f4e5b59d88033dc51f8?utm_campaign=1047&utm_source=git)** | Southlake, TX | Hybrid | Dec 03 |
-| ↳ | **[Product Manager Travel AI - 2025 Summer Intern](https://jobright.ai/jobs/info/674f5f4e5b59d88033dc51eb?utm_campaign=1047&utm_source=git)** | Southlake, TX | Hybrid | Dec 03 |
+| **[Sabre Corporation](https://www.sabre.com)** | **[Product Manager Travel AI - 2025 Summer Intern](https://jobright.ai/jobs/info/674f5f4e5b59d88033dc51eb?utm_campaign=1047&utm_source=git)** | Southlake, TX | Hybrid | Dec 03 |
+| ↳ | **[Product Management - 2025 Summer Intern](https://jobright.ai/jobs/info/674f5f4e5b59d88033dc51f8?utm_campaign=1047&utm_source=git)** | Southlake, TX | Hybrid | Dec 03 |
 | ↳ | **[Product Manager Travel AI - 2025 Summer Intern](https://jobright.ai/jobs/info/674f43838e5e732f3b48190a?utm_campaign=1047&utm_source=git)** | DFW Metroplex | On Site | Dec 03 |
 | **[Onbe](https://www.onbe.com)** | **[Product Manager - International Issuance](https://jobright.ai/jobs/info/673263abe7d8491d69022f1b?utm_campaign=1047&utm_source=git)** | Dallas, TX | Hybrid | Dec 03 |
 | ↳ | **[Product Manager - International Issuance](https://jobright.ai/jobs/info/67325a1d3b037fb14b250c84?utm_campaign=1047&utm_source=git)** | Conshohocken, PA | Hybrid | Dec 03 |
