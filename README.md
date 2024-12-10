@@ -57,9 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seagate Technology](http://www.seagate.com)** | **[Product Development Operations Summer Internship](https://jobright.ai/jobs/info/67577177f40ee0419ec0a097?utm_campaign=1047&utm_source=git)** | Bloomington, MN | On Site | Dec 09 |
+| **[Dover Food Retail](https://www.dovercorporation.com/our-markets/refrigeration-and-food-equipment/)** | **[Intern, Product Management](https://jobright.ai/jobs/info/675764538a19593ffbe6f13d?utm_campaign=1047&utm_source=git)** | Chesterfield, VA | On Site | Dec 09 |
+| **[Life Fitness  / Hammer Strength](https://www.lifefitness.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/675763a8d5f873fe8d38170a?utm_campaign=1047&utm_source=git)** | Franklin Park, IL | On Site | Dec 09 |
+| **[Arity](http://www.arity.com)** | **[Arity - Product Management Intern - Arity](https://jobright.ai/jobs/info/675768682ce5e5ffa767367b?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 09 |
+| **[EBSCO Information Services](http://www.ebsco.de)** | **[Product Management - Data Analyst/Data Scientist, Summer 2025](https://jobright.ai/jobs/info/67575990031ba1a6f0c609a9?utm_campaign=1047&utm_source=git)** | Ipswich, MA | Remote | Dec 09 |
+| ↳ | **[EBSCOlearning Corporate Product Management Team](https://jobright.ai/jobs/info/67575990031ba1a6f0c609bf?utm_campaign=1047&utm_source=git)** | Ipswich, MA | Remote | Dec 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (TikTok Shop - Feeds Recommendation)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/673a24aae5228b8986f4600a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Dec 09 |
 | **[Powell](http://www.powellind.com)** | **[New Product Development Intern](https://jobright.ai/jobs/info/673a97d23c67376609b3f86c?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Dec 09 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - E2E Product Management](https://jobright.ai/jobs/info/673f2a9ad70ba267a339faf5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 07 |
+| **[Duluth Trading Company](http://www.duluthtrading.com)** | **[Product Development & Sourcing Internship - 2025](https://jobright.ai/jobs/info/671bcd6ca616b5caf6cd96ad?utm_campaign=1047&utm_source=git)** | Mount Horeb, WI | On Site | Dec 07 |
+| **[Adobe](http://www.adobe.com)** | **[2025 Intern - E2E Product Management](https://jobright.ai/jobs/info/673f30634ff0f9404322c510?utm_campaign=1047&utm_source=git)** | Lehi, UT | On Site | Dec 07 |
 | ↳ | **[2025 MBA Intern - Product Management, Digital Experience](https://jobright.ai/jobs/info/673f39cf5c0326466eb8ce2f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 07 |
 | **[AutoStore™](https://www.autostoresystem.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/671ad31dfd7bbc4e9d35237d?utm_campaign=1047&utm_source=git)** | Salem, NH | Hybrid | Dec 07 |
 | **[Ingersoll Rand](https://www.irco.com/en-in)** | **[Product Management Intern](https://jobright.ai/jobs/info/66e377fe620a90a969a66818?utm_campaign=1047&utm_source=git)** | Quincy, IL | On Site | Dec 07 |
@@ -73,7 +81,9 @@ For a complete list, click the following sortable link below:
 | **[Accolade, Inc.](http://www.accolade.com)** | **[Growth Product Management Intern](https://jobright.ai/jobs/info/67538097889aa2052348ae29?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Dec 06 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Product Assurance Intern](https://jobright.ai/jobs/info/6753b6f658049e9a02de0720?utm_campaign=1047&utm_source=git)** | Blairsville, PA | On Site | Dec 06 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Intern - Drinking Water](https://jobright.ai/jobs/info/67538a3351f145f5060578a7?utm_campaign=1047&utm_source=git)** | Downers Grove, IL | On Site | Dec 06 |
-| ↳ | **[Product Management Intern - Sinks](https://jobright.ai/jobs/info/6753726a05d6f23c7ab201c8?utm_campaign=1047&utm_source=git)** | Downers Grove, IL | On Site | Dec 06 |
+| **[Zebra Technologies](https://www.zebra.com)** | **[2025 Summer Internship (US) - Software Product Manager](https://jobright.ai/jobs/info/6757600dff1ec2aa9d2b5f79?utm_campaign=1047&utm_source=git)** | Holtsville, New York, United States | On Site | Dec 06 |
+| ↳ | **[2025 Summer Internship (US) - Software Product Manager](https://jobright.ai/jobs/info/6757600dff1ec2aa9d2b5f11?utm_campaign=1047&utm_source=git)** | Lincolnshire, Illinois, United States | On Site | Dec 06 |
+| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Intern - Sinks](https://jobright.ai/jobs/info/6753726a05d6f23c7ab201c8?utm_campaign=1047&utm_source=git)** | Downers Grove, IL | On Site | Dec 06 |
 | **[IMG Academy](https://www.imgacademy.com)** | **[Product Operations Internship](https://jobright.ai/jobs/info/67537fd0ef7ce2280cf2e4f0?utm_campaign=1047&utm_source=git)** | Bradenton, FL | On Site | Dec 06 |
 | **[Verkada](https://www.verkada.com)** | **[MBA Intern - Product](https://jobright.ai/jobs/info/675359dff7435cdf9796f662?utm_campaign=1047&utm_source=git)** | San Mateo, CA | On Site | Dec 06 |
 | ↳ | **[MBA Intern - Product](https://jobright.ai/jobs/info/675341ddc93ae80414977968?utm_campaign=1047&utm_source=git)** | San Mateo, CA United States | On Site | Dec 06 |
@@ -126,11 +136,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Product Management Specialist (New Grad)](https://jobright.ai/jobs/info/6750d0c51f63d912779f516c?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Dec 04 |
 | **[Visa](https://www.visa.com)** | **[Product Management, MBA Intern - Summer 2025](https://jobright.ai/jobs/info/6750d0c51f63d912779f510f?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | Dec 04 |
 | **[United Educators](https://www.ue.org/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6750c6a2712417332dae72b2?utm_campaign=1047&utm_source=git)** | Bethesda, MD | On Site | Dec 04 |
+| **[Amazon](https://amazon.com)** | **[2025 MBA/Master's Level Opportunity - Product Manager, Non-Technical (PM) Intern (United States)](https://jobright.ai/jobs/info/6719ffa520ef23393c2cc254?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Dec 04 |
 | **[Elanco](https://www.elanco.com)** | **[Capstone Internship: IT Application Administrator/Product Owner (Indiana University Student Program)](https://jobright.ai/jobs/info/6718674d51473e1c9bc2e7ce?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 04 |
 | **[Staples](http://www.staples.com)** | **[Category Development Intern (Hybrid) - June 2025](https://jobright.ai/jobs/info/67506ac68aa699c1992f6a80?utm_campaign=1047&utm_source=git)** | Framingham, MA | Hybrid | Dec 04 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Product Service Strategy Intern](https://jobright.ai/jobs/info/67170b43e84a1eeb4037dc2d?utm_campaign=1047&utm_source=git)** | Olathe, KS | On Site | Dec 04 |
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Product Innovation Intern, NA](https://jobright.ai/jobs/info/6733ef014bfd61c2655a0388?utm_campaign=1047&utm_source=git)** | Denver, CO | On Site | Dec 04 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[Product Service Strategy Intern](https://jobright.ai/jobs/info/6716fc4ef887b1c0d2d11238?utm_campaign=1047&utm_source=git)** | Olathe, KS | On Site | Dec 04 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2025 - Product Manager, Product Delivery Team Intern](https://jobright.ai/jobs/info/6733a160a53fdc8f21a08998?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Dec 04 |
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Summer Intern, Content Experience Product](https://jobright.ai/jobs/info/6733d6652c215fb1f39fe844?utm_campaign=1047&utm_source=git)** | Washington, DC | On Site | Dec 04 |
 | ↳ | **[Summer Intern, Product Monetization](https://jobright.ai/jobs/info/6733db43b62e2c2cfa0470f7?utm_campaign=1047&utm_source=git)** | Washington, DC | On Site | Dec 04 |
@@ -147,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sabre Corporation](https://www.sabre.com)** | **[Product Manager Travel AI - 2025 Summer Intern](https://jobright.ai/jobs/info/674f5f4e5b59d88033dc51eb?utm_campaign=1047&utm_source=git)** | Southlake, TX | Hybrid | Dec 03 |
 | ↳ | **[Product Management - 2025 Summer Intern](https://jobright.ai/jobs/info/674f5f4e5b59d88033dc51f8?utm_campaign=1047&utm_source=git)** | Southlake, TX | Hybrid | Dec 03 |
 | ↳ | **[Product Manager Travel AI - 2025 Summer Intern](https://jobright.ai/jobs/info/674f43838e5e732f3b48190a?utm_campaign=1047&utm_source=git)** | DFW Metroplex | On Site | Dec 03 |
-| **[Onbe](https://www.onbe.com)** | **[Product Manager - International Issuance](https://jobright.ai/jobs/info/673263abe7d8491d69022f1b?utm_campaign=1047&utm_source=git)** | Dallas, TX | Hybrid | Dec 03 |
-| ↳ | **[Product Manager - International Issuance](https://jobright.ai/jobs/info/67325a1d3b037fb14b250c84?utm_campaign=1047&utm_source=git)** | Conshohocken, PA | Hybrid | Dec 03 |
-| **[Dexcom](http://www.dexcom.com)** | **[Intern II - Product Management](https://jobright.ai/jobs/info/6715be5b390c4acbf65b05cd?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Dec 03 |
-| **[CoreLogic](https://www.corelogic.com/)** | **[Intern, Product Implementation Analyst](https://jobright.ai/jobs/info/67329991ab6973951fc3e073?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Dec 03 |
-| **[Duolingo](https://www.duolingo.com)** | **[Product Manager, MBA Intern](https://jobright.ai/jobs/info/67482f9b64b8f8d39f409aab?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Dec 03 |
-| **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate IT Product Management Intern - Summer 2025](https://jobright.ai/jobs/info/671c0a0221cf77a2534dacab?utm_campaign=1047&utm_source=git)** | Parsippany, NJ | On Site | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
