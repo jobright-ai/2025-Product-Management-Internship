@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Teradata](https://www.teradata.com)** | **[AI/ML Product Management Analytics Intern](https://jobright.ai/jobs/info/675b8730e0fb0f4469565bfa?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Dec 12 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Product Development Internship (Summer 2025)](https://jobright.ai/jobs/info/675b7b433303efd1d59272ba?utm_campaign=1047&utm_source=git)** | Framingham, MA | Hybrid | Dec 12 |
 | **[EBSCO Information Services](http://www.ebsco.de)** | **[Product Management Intern, Summer 2025](https://jobright.ai/jobs/info/675b6fea9d1223773274f062?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 12 |
 | **[IMG Academy](https://www.imgacademy.com)** | **[Product Operations Internship](https://jobright.ai/jobs/info/67537fd0ef7ce2280cf2e4f0?utm_campaign=1047&utm_source=git)** | Bradenton, FL | On Site | Dec 12 |
@@ -71,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Emazing Group - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[Buying Intern](https://jobright.ai/jobs/info/675a79068c83cfcf43686151?utm_campaign=1047&utm_source=git)** | Anaheim, CA | On Site | Dec 11 |
 | **[Charles River Development](https://www.crd.com)** | **[Product Management Internship, Charles River Development, Intern](https://jobright.ai/jobs/info/675a5cabe9c3bb58295f85af?utm_campaign=1047&utm_source=git)** | Burlington, MA | On Site | Dec 11 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Product Management, T-Life AI Experiences Internship](https://jobright.ai/jobs/info/675a5e9d3ef088698498fb39?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Dec 11 |
+| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Internet Product](https://jobright.ai/jobs/info/675102689ced628e2777ba3e?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | Hybrid | Dec 11 |
 | **[PTC](http://www.ptc.com)** | **[Windchill Navigate Product Management Intern](https://jobright.ai/jobs/info/675a46abb611feb9552fb520?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Dec 11 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Product Data Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/66e8b1525c9445ca7777fcc8?utm_campaign=1047&utm_source=git)** | Middleton, WI | On Site | Dec 11 |
 | **[Teva Pharmaceuticals](https://www.tevapharm.com)** | **[Intern- Product Analyst](https://jobright.ai/jobs/info/675a167e664ac5c390d0aa9e?utm_campaign=1047&utm_source=git)** | Parsippany, NJ | On Site | Dec 11 |
@@ -130,10 +132,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Intern - Product Strategy & Research Analyst](https://jobright.ai/jobs/info/6757beaa20073520bc57df06?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Dec 09 |
 | **[Life Fitness  / Hammer Strength](https://www.lifefitness.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6757cda29771ed8f1bba57c9?utm_campaign=1047&utm_source=git)** | Franklin Park, IL | On Site | Dec 09 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern II - Product Management](https://jobright.ai/jobs/info/6715be5b390c4acbf65b05cd?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Dec 09 |
-| **[Zebra Technologies](https://www.zebra.com)** | **[2025 Summer Internship (US) - Software Product Manager](https://jobright.ai/jobs/info/6757a5d76a03de4f6fe2d7fc?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | Hybrid | Dec 09 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 Intern - Product Strategy & Research Analyst](https://jobright.ai/jobs/info/67579f3fe644f0c9689557e6?utm_campaign=1047&utm_source=git)** | Washington - Bellevue | On Site | Dec 09 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 Intern - Product Strategy & Research Analyst](https://jobright.ai/jobs/info/67579f3fe644f0c9689557e5?utm_campaign=1047&utm_source=git)** | California - San Francisco | On Site | Dec 09 |
+| ↳ | **[Summer 2025 Intern - Product Strategy & Research Analyst](https://jobright.ai/jobs/info/67579f3fe644f0c9689557e6?utm_campaign=1047&utm_source=git)** | Washington - Bellevue | On Site | Dec 09 |
 | ↳ | **[Summer 2025 Intern - Product Strategy & Research Analyst](https://jobright.ai/jobs/info/67579f3fe644f0c9689557ea?utm_campaign=1047&utm_source=git)** | Washington - Seattle | On Site | Dec 09 |
-| ↳ | **[Summer 2025 Intern - Product Strategy & Research Analyst](https://jobright.ai/jobs/info/67579f3fe644f0c9689557e8?utm_campaign=1047&utm_source=git)** | California - San Francisco | On Site | Dec 09 |
+| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Internet Product](https://jobright.ai/jobs/info/675102689ced628e2777ba4e?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | Hybrid | Dec 09 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern - TX](https://jobright.ai/jobs/info/673afa229db1332fdc567a33?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Dec 09 |
 | **[Dover Food Retail](https://www.dovercorporation.com/our-markets/refrigeration-and-food-equipment/)** | **[Intern, Product Management](https://jobright.ai/jobs/info/675764538a19593ffbe6f13d?utm_campaign=1047&utm_source=git)** | Chesterfield, VA | On Site | Dec 09 |
 | **[Life Fitness  / Hammer Strength](https://www.lifefitness.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/675763a8d5f873fe8d38170a?utm_campaign=1047&utm_source=git)** | Franklin Park, IL | On Site | Dec 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PlushCare](http://www.plushcare.com)** | **[Growth Product Management Intern](https://jobright.ai/jobs/info/67538a3351f145f5060577a7?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Dec 06 |
 | **[Accolade, Inc.](http://www.accolade.com)** | **[Growth Product Management Intern](https://jobright.ai/jobs/info/67538097889aa2052348ae29?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Dec 06 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Product Assurance Intern](https://jobright.ai/jobs/info/6753b6f658049e9a02de0720?utm_campaign=1047&utm_source=git)** | Blairsville, PA | On Site | Dec 06 |
-| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Intern - Drinking Water](https://jobright.ai/jobs/info/67538a3351f145f5060578a7?utm_campaign=1047&utm_source=git)** | Downers Grove, IL | On Site | Dec 06 |
-| ↳ | **[Product Management Intern - Sinks](https://jobright.ai/jobs/info/6753726a05d6f23c7ab201c8?utm_campaign=1047&utm_source=git)** | Downers Grove, IL | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
