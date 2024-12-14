@@ -57,20 +57,26 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sabre Corporation](https://www.sabre.com)** | **[Product Management (Data and Analytics) Intern](https://jobright.ai/jobs/info/675cc77a4a2c52b9bac433ce?utm_campaign=1047&utm_source=git)** | Southlake, TX | Hybrid | Dec 13 |
+| **[iCapital](https://icapital.com)** | **[Product Management - Intern](https://jobright.ai/jobs/info/675cb6f4c64893f98e233044?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 13 |
+| ↳ | **[Product Management - Intern](https://jobright.ai/jobs/info/675cb53730a02e260e52e126?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Dec 13 |
 | **[W.B. Mason Company Inc.](http://wbmason.com)** | **[2025 Spring Semester & Summer IT Product Manager Internship](https://jobright.ai/jobs/info/675c8b1ec626840c51655cb6?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Dec 13 |
 | **[KLA](https://www.kla.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/675c7de4bcf03abf8dd05443?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Dec 13 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Advanced Product Development](https://jobright.ai/jobs/info/675c7ffd495fc5f4a86d9aa3?utm_campaign=1047&utm_source=git)** | Adelanto, CA | On Site | Dec 13 |
-| **[EBSCO Information Services](http://www.ebsco.de)** | **[EBSCOlearning Corporate Product Management Team Intern, Summer 2025](https://jobright.ai/jobs/info/67575990031ba1a6f0c609bf?utm_campaign=1047&utm_source=git)** | Ipswich, MA | Remote | Dec 13 |
+| **[EBSCO Information Services](http://www.ebsco.de)** | **[EBSCOlearning Corporate Product Management Team Intern](https://jobright.ai/jobs/info/67575990031ba1a6f0c609bf?utm_campaign=1047&utm_source=git)** | Ipswich, MA | On Site | Dec 13 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Advanced Product Development](https://jobright.ai/jobs/info/675c27cca01fe83eb2294c78?utm_campaign=1047&utm_source=git)** | Adelanto California | On Site | Dec 13 |
 | ↳ | **[Intern - Advanced Product Development](https://jobright.ai/jobs/info/675c27cca01fe83eb2294c80?utm_campaign=1047&utm_source=git)** | Adelanto California | On Site | Dec 13 |
-| **[Adobe](http://www.adobe.com)** | **[2025 MBA Intern - Product Management, Digital Media](https://jobright.ai/jobs/info/6740015b84df0ac16f80e4f8?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 13 |
+| **[Adobe](http://www.adobe.com)** | **[2025 MBA Intern - Product Management, Digital Media](https://jobright.ai/jobs/info/67400b0b0154af94c7de8af9?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 13 |
+| ↳ | **[2025 MBA Intern - Product Management, Digital Media](https://jobright.ai/jobs/info/6740015b84df0ac16f80e4f8?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 13 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Digital Product Information Co-Op](https://jobright.ai/jobs/info/672359f9a689e8099863a5f4?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Dec 13 |
+| **[Watts Water Technologies](https://www.watts.com)** | **[Product Management Intern, Summer 2025](https://jobright.ai/jobs/info/6706d61d081e4d9671be4212?utm_campaign=1047&utm_source=git)** | Menomonee Falls, WI | On Site | Dec 13 |
 | **[Teradata](https://www.teradata.com)** | **[AI/ML Product Management Analytics Intern](https://jobright.ai/jobs/info/675b8730e0fb0f4469565bfa?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Dec 12 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Product Development Internship (Summer 2025)](https://jobright.ai/jobs/info/675b7b433303efd1d59272ba?utm_campaign=1047&utm_source=git)** | Framingham, MA | Hybrid | Dec 12 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate IT Product Management Intern - Summer 2025](https://jobright.ai/jobs/info/675c0566c1835dbcdb4bd6ce?utm_campaign=1047&utm_source=git)** | Parsippany, NJ | On Site | Dec 12 |
 | **[EBSCO Information Services](http://www.ebsco.de)** | **[Product Management Intern - Data Analyst/Data Scientist, Summer 2025](https://jobright.ai/jobs/info/67575990031ba1a6f0c609a9?utm_campaign=1047&utm_source=git)** | Ipswich, MA | On Site | Dec 12 |
 | ↳ | **[Product Management Intern, Summer 2025](https://jobright.ai/jobs/info/675b6fea9d1223773274f062?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 12 |
 | **[IMG Academy](https://www.imgacademy.com)** | **[Product Operations Internship](https://jobright.ai/jobs/info/67537fd0ef7ce2280cf2e4f0?utm_campaign=1047&utm_source=git)** | Bradenton, FL | On Site | Dec 12 |
+| **[Altium Packaging](https://www.containerexperts.com/)** | **[Product Intergration Manager Summer 2025 Intern](https://jobright.ai/jobs/info/6752aeca6893abc4781cf8f6?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Dec 12 |
 | **[OCLC](http://www.oclc.org)** | **[Product Management Intern](https://jobright.ai/jobs/info/675b012215d62216c729d5aa?utm_campaign=1047&utm_source=git)** | Dublin, OH / Hybrid | Hybrid | Dec 12 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/675aff0555a0574a4f0309b3?utm_campaign=1047&utm_source=git)** | Dublin, OH | Hybrid | Dec 12 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Product Delivery Manager](https://jobright.ai/jobs/info/6742215f9c68442403d9c548?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 12 |
@@ -111,7 +117,7 @@ For a complete list, click the following sortable link below:
 | **[PTC](http://www.ptc.com)** | **[Retail Product Management Intern](https://jobright.ai/jobs/info/6758a8e6cfd0a08312f51fc6?utm_campaign=1047&utm_source=git)** | Boston, MA, USA | On Site | Dec 10 |
 | **[Markel](https://www.markel.com)** | **[MPL Product Management Intern](https://jobright.ai/jobs/info/6758b318e2a6c19d3a366e8b?utm_campaign=1047&utm_source=git)** | Pewaukee, WI | Hybrid | Dec 10 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I – Product Management](https://jobright.ai/jobs/info/6718840ef38028979720bde5?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Dec 10 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 Intern - IT Product Management](https://jobright.ai/jobs/info/675890059c0485f946617fc8?utm_campaign=1047&utm_source=git)** | Texas - Dallas | On Site | Dec 10 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 Intern - IT Product Management](https://jobright.ai/jobs/info/675890059c0485f946618103?utm_campaign=1047&utm_source=git)** | Texas - Dallas | On Site | Dec 10 |
 | ↳ | **[Summer 2025 Intern - IT Product Management](https://jobright.ai/jobs/info/675890059c0485f946618102?utm_campaign=1047&utm_source=git)** | Indiana - Indianapolis | On Site | Dec 10 |
 | ↳ | **[Summer 2025 Intern - IT Product Management](https://jobright.ai/jobs/info/675890059c0485f946618104?utm_campaign=1047&utm_source=git)** | Georgia - Atlanta | On Site | Dec 10 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Title & Insurance Product Strategy Intern (Pulte Mortgage)](https://jobright.ai/jobs/info/675890059c0485f946618059?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Dec 10 |
@@ -130,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[Invesco US](http://www.invesco.com/us)** | **[ETF Product Intern](https://jobright.ai/jobs/info/673b78f2b34d5b54b0a07984?utm_campaign=1047&utm_source=git)** | Downers Grove, IL | Hybrid | Dec 10 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Product Management Intern - Summer 2025](https://jobright.ai/jobs/info/673b4d252abf484b69662227?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Dec 10 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[MBA Product Manager Intern - Summer 2025 (Remote)](https://jobright.ai/jobs/info/673bb41e23a3d19e9a268b9f?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | Remote | Dec 10 |
-| **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67581efcca5299883525e224?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Dec 10 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Consumer Product Services Strategy, MBA Intern](https://jobright.ai/jobs/info/673c6ca91979097c79681394?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Dec 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manger MBA Intern (TikTok Shop - Seller Growth) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/6739facc9ee526ed59f4386e?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Dec 09 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 Intern - Product Strategy & Research Analyst](https://jobright.ai/jobs/info/6757beaa20073520bc57de6e?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Dec 09 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Electronic Arts (EA)](https://www.ea.com/)** | **[Product Management Intern, Self-Service](https://jobright.ai/jobs/info/67378e598bc1ba0dce61b6e3?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Dec 07 |
 | **[Duluth Trading Company](http://www.duluthtrading.com)** | **[Product Development & Sourcing Internship - 2025](https://jobright.ai/jobs/info/671bcd6ca616b5caf6cd96ad?utm_campaign=1047&utm_source=git)** | Mount Horeb, WI | On Site | Dec 07 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - E2E Product Management](https://jobright.ai/jobs/info/673f30634ff0f9404322c510?utm_campaign=1047&utm_source=git)** | Lehi, UT | On Site | Dec 07 |
-| ↳ | **[2025 MBA Intern - Product Management, Digital Experience](https://jobright.ai/jobs/info/673f39cf5c0326466eb8ce2f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 07 |
-| **[AutoStore™](https://www.autostoresystem.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/671ad31dfd7bbc4e9d35237d?utm_campaign=1047&utm_source=git)** | Salem, NH | Hybrid | Dec 07 |
-| **[Ingersoll Rand](https://www.irco.com/en-in)** | **[Product Management Intern](https://jobright.ai/jobs/info/66e377fe620a90a969a66818?utm_campaign=1047&utm_source=git)** | Quincy, IL | On Site | Dec 07 |
-| **[Electronic Arts (EA)](https://www.ea.com/)** | **[Product Management Intern, Community and Moderation](https://jobright.ai/jobs/info/6737881ac6ad39a2a1748b3a?utm_campaign=1047&utm_source=git)** | Austin, TX | Remote | Dec 07 |
-| **[Adobe](http://www.adobe.com)** | **[2025 Intern - E2E Product Management](https://jobright.ai/jobs/info/6741861fc55ecf658fc89778?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Dec 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
