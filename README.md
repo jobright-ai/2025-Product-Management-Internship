@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[iCapital](https://icapital.com)** | **[Product Management - Intern](https://jobright.ai/jobs/info/67616fc379bd9a8a31b8620e?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Dec 17 |
+| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Program/Product Manager](https://jobright.ai/jobs/info/67616a92c47b99b2216526ee?utm_campaign=1047&utm_source=git)** | San Jose, California, United States of America | On Site | Dec 17 |
+| ↳ | **[2025 Intern - Program/Product Manager](https://jobright.ai/jobs/info/67616a92c47b99b22165270e?utm_campaign=1047&utm_source=git)** | Austin, Texas, United States of America | On Site | Dec 17 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 IT Solution and Design Intern](https://jobright.ai/jobs/info/6761400221d25f20ba84441d?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Dec 17 |
 | **[Cook Medical](http://www.cookmedical.com)** | **[Product Management Internship - Critical Care Medical Devices](https://jobright.ai/jobs/info/676105ee59285ad3c03afcf0?utm_campaign=1047&utm_source=git)** | Bloomington, IN | Hybrid | Dec 16 |
 | **[Wawa, Inc.](https://www.wawa.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/6760ff1cdb53dce157dadbce?utm_campaign=1047&utm_source=git)** | Media, PA | Hybrid | Dec 16 |
@@ -153,8 +156,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer 2025 Intern - National IT](https://jobright.ai/jobs/info/6744e3249bde14a5e26cb2d7?utm_campaign=1047&utm_source=git)** | Dallas, TX | Hybrid | Dec 10 |
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Summer Intern, Product Monetization](https://jobright.ai/jobs/info/6733db43b62e2c2cfa0470f7?utm_campaign=1047&utm_source=git)** | Washington, DC | On Site | Dec 10 |
 | **[Pulte Mortgage](https://pultemortgage.com)** | **[Title & Insurance Product Strategy Intern (Pulte Mortgage)](https://jobright.ai/jobs/info/6758dedd40f87b5544c4fb15?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Dec 10 |
-| **[PTC](http://www.ptc.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6758c036981d81424947b015?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Dec 10 |
-| ↳ | **[Retail Product Management Intern](https://jobright.ai/jobs/info/6758c036981d81424947b01c?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Dec 10 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 Intern - IT Product Management](https://jobright.ai/jobs/info/6758d3ff747d34d59b6b0268?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | On Site | Dec 10 |
-| **[PTC](http://www.ptc.com)** | **[Retail Product Management Intern](https://jobright.ai/jobs/info/6758a8e6cfd0a08312f51fc6?utm_campaign=1047&utm_source=git)** | Boston, MA, USA | On Site | Dec 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
