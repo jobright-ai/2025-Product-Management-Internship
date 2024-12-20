@@ -57,15 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FedEx Dataworks](https://www.fedex.com/en-us/dataworks.html)** | **[Intern - Analytics (Product)](https://jobright.ai/jobs/info/6764fccb5b02919db93df70e?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 19 |
+| ↳ | **[Intern - Analytics (Product)](https://jobright.ai/jobs/info/6764e504ef4fb2bfd2abfd4f?utm_campaign=1047&utm_source=git)** | Conshohocken, PA | On Site | Dec 19 |
 | **[Auctane](https://auctane.com/)** | **[Product Management Intern (Stamps.com)](https://jobright.ai/jobs/info/6764d9519fb77033c6858b9a?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Dec 19 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6764d13526dbe2e3f469ea54?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Dec 19 |
 | ↳ | **[Product Management Intern (Stamps.com)](https://jobright.ai/jobs/info/6764bef01eb8fc08e6858e90?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Dec 19 |
 | **[CoreLogic](https://www.corelogic.com/)** | **[Intern, Technical Product Management](https://jobright.ai/jobs/info/6764b8a99446c4410ac02ec4?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Dec 19 |
 | **[Okta](http://www.okta.com)** | **[Product Management Intern, MBA (Summer 2025)](https://jobright.ai/jobs/info/6764abcf6c6c3418b3059905?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 19 |
 | **[Aldevron](http://www.aldevron.com/)** | **[MBA Product Manager Intern](https://jobright.ai/jobs/info/6764a68f7b2b1922f20658a5?utm_campaign=1047&utm_source=git)** | Fargo, ND | Remote | Dec 19 |
-| **[Franklin Templeton](http://www.franklintempleton.com)** | **[US Product - Undergrad Intern](https://jobright.ai/jobs/info/676494b5f6896fb51ab4f4a5?utm_campaign=1047&utm_source=git)** | Stamford, Connecticut, United States of America | On Site | Dec 19 |
+| **[Franklin Templeton](http://www.franklintempleton.com)** | **[US Product - Undergrad Intern](https://jobright.ai/jobs/info/676494b5f6896fb51ab4f46b?utm_campaign=1047&utm_source=git)** | New York, New York, United States of America | On Site | Dec 19 |
 | ↳ | **[US Product - Undergrad Intern](https://jobright.ai/jobs/info/676494b5f6896fb51ab4f4a4?utm_campaign=1047&utm_source=git)** | Baltimore, Maryland, United States of America | On Site | Dec 19 |
-| ↳ | **[US Product - Undergrad Intern](https://jobright.ai/jobs/info/676494b5f6896fb51ab4f46b?utm_campaign=1047&utm_source=git)** | New York, New York, United States of America | On Site | Dec 19 |
+| ↳ | **[US Product - Undergrad Intern](https://jobright.ai/jobs/info/676494b5f6896fb51ab4f4a5?utm_campaign=1047&utm_source=git)** | Stamford, Connecticut, United States of America | On Site | Dec 19 |
 | ↳ | **[US Product - Undergrad Intern](https://jobright.ai/jobs/info/676494b5f6896fb51ab4f4a6?utm_campaign=1047&utm_source=git)** | USA-BOS100-Boston | On Site | Dec 19 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/676492a07357e7064d3ce113?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Dec 19 |
 | **[W.B. Mason Company Inc.](http://wbmason.com)** | **[2025 Spring Semester & Summer IT Product Manager Internship](https://jobright.ai/jobs/info/675c8b1ec626840c51655cb6?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Dec 19 |
@@ -116,14 +118,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6761c4a9fe865acab988630a?utm_campaign=1047&utm_source=git)** | Lexington, KY | Hybrid | Dec 17 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6761c0dfc38c83e0d88629e7?utm_campaign=1047&utm_source=git)** | North Bethesda, Maryland | On Site | Dec 17 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6761c0dfc38c83e0d88629c3?utm_campaign=1047&utm_source=git)** | Lexington, Kentucky | On Site | Dec 17 |
-| **[S&P Global](https://www.spglobal.com)** | **[AI Product Analyst Intern (Early Careers)](https://jobright.ai/jobs/info/6761a6d408ec65a02c06576d?utm_campaign=1047&utm_source=git)** | Princeton, NJ | On Site | Dec 17 |
+| **[S&P Global](https://www.spglobal.com)** | **[AI Product Analyst Intern (Early Careers)](https://jobright.ai/jobs/info/6761a6d408ec65a02c065805?utm_campaign=1047&utm_source=git)** | Princeton, NJ | On Site | Dec 17 |
 | **[Selective Insurance](https://www.selective.com/)** | **[Product Internship, Commercial Lines – Branchville, NJ (Hybrid)](https://jobright.ai/jobs/info/6761d319e8928bfac5a9bebc?utm_campaign=1047&utm_source=git)** | Branchville, NJ | Hybrid | Dec 17 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Product Analyst Intern](https://jobright.ai/jobs/info/676199bb60cd90cd44f148c8?utm_campaign=1047&utm_source=git)** | PA - Philadelphia, 1800 Arch St | On Site | Dec 17 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Program/Product Manager](https://jobright.ai/jobs/info/67618ccc5f148f5ad0e51bc9?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 17 |
 | ↳ | **[2025 Intern - Program/Product Manager](https://jobright.ai/jobs/info/67618ccc5f148f5ad0e51be5?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Dec 17 |
 | **[iCapital](https://icapital.com)** | **[Product Management - Intern](https://jobright.ai/jobs/info/67616fc379bd9a8a31b8620e?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Dec 17 |
-| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Program/Product Manager](https://jobright.ai/jobs/info/67616a92c47b99b2216526ee?utm_campaign=1047&utm_source=git)** | San Jose, California, United States of America | On Site | Dec 17 |
-| ↳ | **[2025 Intern - Program/Product Manager](https://jobright.ai/jobs/info/67616a92c47b99b22165270e?utm_campaign=1047&utm_source=git)** | Austin, Texas, United States of America | On Site | Dec 17 |
+| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Program/Product Manager](https://jobright.ai/jobs/info/67616a92c47b99b22165270e?utm_campaign=1047&utm_source=git)** | Austin, Texas, United States of America | On Site | Dec 17 |
+| ↳ | **[2025 Intern - Program/Product Manager](https://jobright.ai/jobs/info/67616a92c47b99b2216526ee?utm_campaign=1047&utm_source=git)** | San Jose, California, United States of America | On Site | Dec 17 |
 | **[Centric Brands](https://centricbrands.com)** | **[Production/Product Development Intern - Summer 2025 Internship Program](https://jobright.ai/jobs/info/67453ba35b0b43d01339e4e4?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Dec 17 |
 | **[Vontier](https://www.vontier.com)** | **[Intern, Global Product Management](https://jobright.ai/jobs/info/6752d80be3a53ed0c056ced4?utm_campaign=1047&utm_source=git)** | Greensboro, NC | On Site | Dec 17 |
 | **[Cook Medical](http://www.cookmedical.com)** | **[Product Management Internship - Critical Care Medical Devices](https://jobright.ai/jobs/info/676105ee59285ad3c03afcf0?utm_campaign=1047&utm_source=git)** | Bloomington, IN | Hybrid | Dec 16 |
@@ -137,6 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Allen Institute](https://alleninstitute.org/)** | **[Summer Intern - Brain Science / Product Management – Improve Help Experience for BKP](https://jobright.ai/jobs/info/67607f319a91d1d75bc737c4?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Dec 16 |
 | **[CoreLogic](https://www.corelogic.com/)** | **[Intern Product Management](https://jobright.ai/jobs/info/67604f3a8c0f4d87f1b73c45?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Dec 16 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Product Manager](https://jobright.ai/jobs/info/6740628fabb02dfab68f6aa7?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 16 |
+| **[JLG Industries](http://www.jlg.com/en)** | **[Product Management Intern](https://jobright.ai/jobs/info/6764fe05da90f2e71569701f?utm_campaign=1047&utm_source=git)** | Hagerstown, MD | On Site | Dec 15 |
 | **[Brother USA](https://brother-usa.com)** | **[Product Management and Analytics (Printer Category) Intern – Summer 2025 Internship Program](https://jobright.ai/jobs/info/67518f2d86d035508caa1a16?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ | Hybrid | Dec 15 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Product Line Management Intern, US/CAN – Texture Food Solutions](https://jobright.ai/jobs/info/6709b99a469c38495e2b5fd9?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ | On Site | Dec 15 |
 | **[Atlassian](https://www.atlassian.com)** | **[Associate Product Management Intern, 2025 Summer U.S.](https://jobright.ai/jobs/info/66f7c09909e7e35c42b19066?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Technical Product Manager SSD](https://jobright.ai/jobs/info/672365992f5c2757eef749d9?utm_campaign=1047&utm_source=git)** | Boise, ID | On Site | Dec 13 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Product Management Internship (Summer 2025 - UIUC Research Park)](https://jobright.ai/jobs/info/67524b3014694f514e3213e1?utm_campaign=1047&utm_source=git)** | Champaign, IL | Hybrid | Dec 13 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/675cffac0ab7bc71484002f6?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Dec 13 |
-| **[WEX](http://www.wexinc.com)** | **[Intern - Growth Product Manager](https://jobright.ai/jobs/info/67528373b6f03addf82d1e85?utm_campaign=1047&utm_source=git)** | Maine, United States | On Site | Dec 13 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Product Management Internship (Summer 2025)](https://jobright.ai/jobs/info/66dee80d79c42f614fb0d89b?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
