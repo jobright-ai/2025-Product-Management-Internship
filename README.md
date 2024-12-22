@@ -77,16 +77,16 @@ For a complete list, click the following sortable link below:
 | **[FedEx Dataworks](https://www.fedex.com/en-us/dataworks.html)** | **[Intern - Analytics (Product)](https://jobright.ai/jobs/info/6764fccb5b02919db93df70e?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 19 |
 | ↳ | **[Intern - Analytics (Product)](https://jobright.ai/jobs/info/6764e504ef4fb2bfd2abfd4f?utm_campaign=1047&utm_source=git)** | Conshohocken, PA | On Site | Dec 19 |
 | **[Auctane](https://auctane.com/)** | **[Product Management Intern (Stamps.com)](https://jobright.ai/jobs/info/6764d9519fb77033c6858b9a?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Dec 19 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6764d13526dbe2e3f469ea54?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Dec 19 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6764bef01eb8fc08e6858e97?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Dec 19 |
 | ↳ | **[Product Management Intern (Stamps.com)](https://jobright.ai/jobs/info/6764bef01eb8fc08e6858e90?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Dec 19 |
 | **[CoreLogic](https://www.corelogic.com/)** | **[Intern, Technical Product Management](https://jobright.ai/jobs/info/6764b8a99446c4410ac02ec4?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Dec 19 |
 | **[Analog Devices](http://www.analog.com)** | **[Product Applications Intern](https://jobright.ai/jobs/info/67479581db1b62131e0de41d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 19 |
 | **[Okta](http://www.okta.com)** | **[Product Management Intern, MBA (Summer 2025)](https://jobright.ai/jobs/info/6764abcf6c6c3418b3059905?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 19 |
 | **[Aldevron](http://www.aldevron.com/)** | **[MBA Product Manager Intern](https://jobright.ai/jobs/info/6764a68f7b2b1922f20658a5?utm_campaign=1047&utm_source=git)** | Fargo, ND | Remote | Dec 19 |
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[US Product - Undergrad Intern](https://jobright.ai/jobs/info/676494b5f6896fb51ab4f4a6?utm_campaign=1047&utm_source=git)** | USA-BOS100-Boston | On Site | Dec 19 |
+| ↳ | **[US Product - Undergrad Intern](https://jobright.ai/jobs/info/676494b5f6896fb51ab4f46b?utm_campaign=1047&utm_source=git)** | New York, New York, United States of America | On Site | Dec 19 |
 | ↳ | **[US Product - Undergrad Intern](https://jobright.ai/jobs/info/676494b5f6896fb51ab4f4a5?utm_campaign=1047&utm_source=git)** | Stamford, Connecticut, United States of America | On Site | Dec 19 |
 | ↳ | **[US Product - Undergrad Intern](https://jobright.ai/jobs/info/676494b5f6896fb51ab4f4a4?utm_campaign=1047&utm_source=git)** | Baltimore, Maryland, United States of America | On Site | Dec 19 |
-| ↳ | **[US Product - Undergrad Intern](https://jobright.ai/jobs/info/676494b5f6896fb51ab4f46b?utm_campaign=1047&utm_source=git)** | New York, New York, United States of America | On Site | Dec 19 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/676492a07357e7064d3ce113?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Dec 19 |
 | **[W.B. Mason Company Inc.](http://wbmason.com)** | **[2025 Spring Semester & Summer IT Product Manager Internship](https://jobright.ai/jobs/info/675c8b1ec626840c51655cb6?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Dec 19 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f3158a3be896271e2f1db4?utm_campaign=1047&utm_source=git)** | Dayton, OH | On Site | Dec 19 |
