@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Califia Farms](http://www.califiafarms.com/)** | **[Product Development Summer Intern](https://jobright.ai/jobs/info/676b327c75623bfbba8b9033?utm_campaign=1047&utm_source=git)** | Bakersfield, CA | On Site | Dec 24 |
+| **[Linde](https://www.linde.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/676b243072b61a2c5a3dd64d?utm_campaign=1047&utm_source=git)** | The Woodlands, TX | On Site | Dec 24 |
+| **[Corsair](http://www.corsair.com)** | **[Systems Product Intern - ORIGIN PC](https://jobright.ai/jobs/info/676b1e2800c8d402224d4acb?utm_campaign=1047&utm_source=git)** | 12400 SW 134 Court Ste #8, Miami, FL, 33186, US | On Site | Dec 24 |
+| ↳ | **[Hardware Product Management Rotational Intern](https://jobright.ai/jobs/info/676b1e2800c8d402224d4ac1?utm_campaign=1047&utm_source=git)** | 2100 Evergreen Blvd., Duluth, GA, 30096, US | On Site | Dec 24 |
+| ↳ | **[B2B Product Specialist Intern](https://jobright.ai/jobs/info/676b1e2800c8d402224d4ac7?utm_campaign=1047&utm_source=git)** | 115 North McCarthy Blvd., Milpitas, CA, 95035, US | On Site | Dec 24 |
+| ↳ | **[Product Management Intern – Gaming Systems and AI Workstations](https://jobright.ai/jobs/info/676b1e2800c8d402224d4af2?utm_campaign=1047&utm_source=git)** | 115 North McCarthy Blvd., Milpitas, CA, 95035, US | On Site | Dec 24 |
+| **[Linde](https://www.linde.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/676b1e2800c8d402224d4ada?utm_campaign=1047&utm_source=git)** | Texas-The Woodlands | On Site | Dec 24 |
+| **[NVIDIA](https://www.nvidia.com)** | **[Product Management Intern, Edge AI - Summer 2025](https://jobright.ai/jobs/info/676b0facf396e615b50e33a6?utm_campaign=1047&utm_source=git)** | US, CA, Santa Clara | On Site | Dec 24 |
+| **[W. R. Berkley Corporation](https://www.berkley.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/676b18bc268c1bcbbd771259?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Dec 24 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Digital Banking](https://jobright.ai/jobs/info/676ae64f80b0a6d643a1be2f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Dec 24 |
 | **[Honeywell](http://www.honeywell.com)** | **[Product Management Co-op](https://jobright.ai/jobs/info/67233c1c9e0922cf4896e8bd?utm_campaign=1047&utm_source=git)** | Pittsford, NY | On Site | Dec 24 |
 | **[Rakuten International](http://rakuten.us)** | **[Co-Op: Product Management](https://jobright.ai/jobs/info/6677ce0674ec1a95a89afdb7?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Dec 23 |
@@ -102,10 +111,10 @@ For a complete list, click the following sortable link below:
 | **[Analog Devices](http://www.analog.com)** | **[Product Applications Intern](https://jobright.ai/jobs/info/67479581db1b62131e0de41d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 19 |
 | **[Okta](http://www.okta.com)** | **[Product Management Intern, MBA (Summer 2025)](https://jobright.ai/jobs/info/6764abcf6c6c3418b3059905?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 19 |
 | **[Aldevron](http://www.aldevron.com/)** | **[MBA Product Manager Intern](https://jobright.ai/jobs/info/6764a68f7b2b1922f20658a5?utm_campaign=1047&utm_source=git)** | Fargo, ND | Remote | Dec 19 |
-| **[Franklin Templeton](http://www.franklintempleton.com)** | **[US Product - Undergrad Intern](https://jobright.ai/jobs/info/676494b5f6896fb51ab4f4a4?utm_campaign=1047&utm_source=git)** | Baltimore, Maryland, United States of America | On Site | Dec 19 |
+| **[Franklin Templeton](http://www.franklintempleton.com)** | **[US Product - Undergrad Intern](https://jobright.ai/jobs/info/676494b5f6896fb51ab4f46b?utm_campaign=1047&utm_source=git)** | New York, New York, United States of America | On Site | Dec 19 |
 | ↳ | **[US Product - Undergrad Intern](https://jobright.ai/jobs/info/676494b5f6896fb51ab4f4a6?utm_campaign=1047&utm_source=git)** | USA-BOS100-Boston | On Site | Dec 19 |
+| ↳ | **[US Product - Undergrad Intern](https://jobright.ai/jobs/info/676494b5f6896fb51ab4f4a4?utm_campaign=1047&utm_source=git)** | Baltimore, Maryland, United States of America | On Site | Dec 19 |
 | ↳ | **[US Product - Undergrad Intern](https://jobright.ai/jobs/info/676494b5f6896fb51ab4f4a5?utm_campaign=1047&utm_source=git)** | Stamford, Connecticut, United States of America | On Site | Dec 19 |
-| ↳ | **[US Product - Undergrad Intern](https://jobright.ai/jobs/info/676494b5f6896fb51ab4f46b?utm_campaign=1047&utm_source=git)** | New York, New York, United States of America | On Site | Dec 19 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/676492a07357e7064d3ce113?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Dec 19 |
 | **[W.B. Mason Company Inc.](http://wbmason.com)** | **[2025 Spring Semester & Summer IT Product Manager Internship](https://jobright.ai/jobs/info/675c8b1ec626840c51655cb6?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Dec 19 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f3158a3be896271e2f1db4?utm_campaign=1047&utm_source=git)** | Dayton, OH | On Site | Dec 19 |
@@ -131,5 +140,4 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Product Manager: Internship- Neurodiversity Hiring Program](https://jobright.ai/jobs/info/672a9b79f3aff339234ff92c?utm_campaign=1047&utm_source=git)** | Redmond, WA | Hybrid | Dec 18 |
 | **[Tanium](http://www.tanium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f1a6c46d831cd26fee53d4?utm_campaign=1047&utm_source=git)** | Addison, TX | Hybrid | Dec 18 |
 | **[Franke Group](https://www.franke.com/in/en/home.html)** | **[Product Management Intern - Franke Foodservice Systems](https://jobright.ai/jobs/info/674674a165ee0ec8990871ff?utm_campaign=1047&utm_source=git)** | Smyrna, TN | On Site | Dec 18 |
-| **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern - TX](https://jobright.ai/jobs/info/67629e5c42450d623bee4400?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
