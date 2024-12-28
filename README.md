@@ -58,9 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[EBSCO Information Services](http://www.ebsco.de)** | **[EBSCOlearning Corporate Product Management Team Intern, Summer 2025](https://jobright.ai/jobs/info/67575990031ba1a6f0c609bf?utm_campaign=1047&utm_source=git)** | Ipswich, MA | On Site | Dec 27 |
+| **[Array Technologies](http://arraytechinc.com)** | **[Product Management Intern – Summer 2025](https://jobright.ai/jobs/info/676f14cf6e353b4ef7de1f73?utm_campaign=1047&utm_source=git)** | Chandler, AZ | On Site | Dec 27 |
 | **[Rakuten International](http://rakuten.us)** | **[Co-Op: Product Management](https://jobright.ai/jobs/info/6677ce0674ec1a95a89afdb7?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Dec 26 |
 | **[Oracle](https://www.oracle.com/)** | **[OCI G2S Product Manager Intern - OVIP](https://jobright.ai/jobs/info/67292c8fb04bb3d4c6982b6e?utm_campaign=1047&utm_source=git)** | Reston, VA | On Site | Dec 25 |
-| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Product Management MBA Leadership Track Internship](https://jobright.ai/jobs/info/66fcc2869d7d3e68080e281c?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Dec 24 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management Intern, Edge AI - Summer 2025](https://jobright.ai/jobs/info/676b871794124e0b057af1b0?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Dec 24 |
 | **[Corsair](http://www.corsair.com)** | **[Product Management Intern – Gaming Systems and AI Workstations](https://jobright.ai/jobs/info/676b7c6f9c2ccf6fad9c4659?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Dec 24 |
 | ↳ | **[B2B Product Specialist Intern](https://jobright.ai/jobs/info/676b7c6f9c2ccf6fad9c4651?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Dec 24 |
@@ -70,10 +70,10 @@ For a complete list, click the following sortable link below:
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Digital Product Management](https://jobright.ai/jobs/info/676b543948c5c3eff4571fc1?utm_campaign=1047&utm_source=git)** | Morristown, NJ | On Site | Dec 24 |
 | **[Califia Farms](http://www.califiafarms.com/)** | **[Product Development Summer Intern](https://jobright.ai/jobs/info/676b327c75623bfbba8b9033?utm_campaign=1047&utm_source=git)** | Bakersfield, CA | On Site | Dec 24 |
 | **[Linde](https://www.linde.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/676b243072b61a2c5a3dd64d?utm_campaign=1047&utm_source=git)** | The Woodlands, TX | On Site | Dec 24 |
-| **[Corsair](http://www.corsair.com)** | **[B2B Product Specialist Intern](https://jobright.ai/jobs/info/676b1e2800c8d402224d4ac7?utm_campaign=1047&utm_source=git)** | 115 North McCarthy Blvd., Milpitas, CA, 95035, US | On Site | Dec 24 |
-| ↳ | **[Hardware Product Management Rotational Intern](https://jobright.ai/jobs/info/676b1e2800c8d402224d4ac1?utm_campaign=1047&utm_source=git)** | 2100 Evergreen Blvd., Duluth, GA, 30096, US | On Site | Dec 24 |
+| **[Corsair](http://www.corsair.com)** | **[Hardware Product Management Rotational Intern](https://jobright.ai/jobs/info/676b1e2800c8d402224d4ac1?utm_campaign=1047&utm_source=git)** | 2100 Evergreen Blvd., Duluth, GA, 30096, US | On Site | Dec 24 |
 | ↳ | **[Product Management Intern – Gaming Systems and AI Workstations](https://jobright.ai/jobs/info/676b1e2800c8d402224d4af2?utm_campaign=1047&utm_source=git)** | 115 North McCarthy Blvd., Milpitas, CA, 95035, US | On Site | Dec 24 |
 | ↳ | **[Systems Product Intern - ORIGIN PC](https://jobright.ai/jobs/info/676b1e2800c8d402224d4acb?utm_campaign=1047&utm_source=git)** | 12400 SW 134 Court Ste #8, Miami, FL, 33186, US | On Site | Dec 24 |
+| ↳ | **[B2B Product Specialist Intern](https://jobright.ai/jobs/info/676b1e2800c8d402224d4ac7?utm_campaign=1047&utm_source=git)** | 115 North McCarthy Blvd., Milpitas, CA, 95035, US | On Site | Dec 24 |
 | **[Linde](https://www.linde.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/676b1e2800c8d402224d4ada?utm_campaign=1047&utm_source=git)** | Texas-The Woodlands | On Site | Dec 24 |
 | **[Carolina Casualty (a Berkley Company)](http://carolinacas.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/676b5fb148b9b324e1630e9a?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Dec 24 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management Intern, Edge AI - Summer 2025](https://jobright.ai/jobs/info/676b0facf396e615b50e33a6?utm_campaign=1047&utm_source=git)** | US, CA, Santa Clara | On Site | Dec 24 |
@@ -98,5 +98,4 @@ For a complete list, click the following sortable link below:
 | **[Novanta Inc.](http://www.novanta.com)** | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/67117768e8ba99dfb0c6c762?utm_campaign=1047&utm_source=git)** | Bedford, MA | On Site | Dec 22 |
 | ↳ | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/6711621417e98ce420055450?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Dec 22 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Lightroom Product Research](https://jobright.ai/jobs/info/673f39cf5c0326466eb8cefc?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 22 |
-| **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67668b322f843df4a8875590?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Dec 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
