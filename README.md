@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Adobe](http://www.adobe.com)** | **[2025 Intern - E2E Product Management](https://jobright.ai/jobs/info/674018cca7ccc13e7e230861?utm_campaign=1047&utm_source=git)** | Denver, CO | On Site | Dec 30 |
+| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Product Delivery Manager](https://jobright.ai/jobs/info/6742215f9c68442403d9c548?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
+| ↳ | **[2025 Intern - Lightroom Product Research](https://jobright.ai/jobs/info/673f39cf5c0326466eb8cefc?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
+| ↳ | **[2025 Intern - E2E Product Management](https://jobright.ai/jobs/info/674018cca7ccc13e7e230861?utm_campaign=1047&utm_source=git)** | Denver, CO | On Site | Dec 30 |
 | ↳ | **[2025 MBA Intern - Product Management, Digital Media](https://jobright.ai/jobs/info/6740015b84df0ac16f80e4f8?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 30 |
 | ↳ | **[2025 MBA Intern - Product Management, Digital Experience](https://jobright.ai/jobs/info/673f39cf5c0326466eb8ce2f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
 | ↳ | **[2025 Intern - E2E Product Management](https://jobright.ai/jobs/info/673f2a9ad70ba267a339faf5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
@@ -65,6 +67,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 MBA Intern - Product Management, Digital Media](https://jobright.ai/jobs/info/67400b0b0154af94c7de8af9?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
 | ↳ | **[2025 Intern - Product Manager](https://jobright.ai/jobs/info/6740628fabb02dfab68f6aa7?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
 | ↳ | **[2025 Intern - Program/Product Manager](https://jobright.ai/jobs/info/67618ccc5f148f5ad0e51bc9?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
+| **[Bath & Body Works](https://www.bathandbodyworks.com/)** | **[Merchandising Summer Internship 2025](https://jobright.ai/jobs/info/6772021b9f06968c51377a2c?utm_campaign=1047&utm_source=git)** | Reynoldsburg, OH | On Site | Dec 30 |
+| **[Rawlings Sporting Goods](https://www.rawlings.com/)** | **[2025 Summer Internship- Product](https://jobright.ai/jobs/info/677325aba5c7f83e810732a7?utm_campaign=1047&utm_source=git)** | Thousand Oaks, CA | On Site | Dec 29 |
 | **[IBM](http://www.ibm.com)** | **[Product Management Intern: 2025](https://jobright.ai/jobs/info/676f87d14ce5fd859637f1cf?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Dec 27 |
 | **[EBSCO Information Services](http://www.ebsco.de)** | **[EBSCOlearning Corporate Product Management Team Intern, Summer 2025](https://jobright.ai/jobs/info/67575990031ba1a6f0c609bf?utm_campaign=1047&utm_source=git)** | Ipswich, MA | On Site | Dec 27 |
 | **[Array Technologies](http://arraytechinc.com)** | **[Product Management Intern – Summer 2025](https://jobright.ai/jobs/info/676f14cf6e353b4ef7de1f73?utm_campaign=1047&utm_source=git)** | Chandler, AZ | On Site | Dec 27 |
@@ -90,6 +94,4 @@ For a complete list, click the following sortable link below:
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Digital Banking](https://jobright.ai/jobs/info/676ae64f80b0a6d643a1be2f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Dec 24 |
 | **[Kemper](http://kemper.com)** | **[Data Science Intern – Product Management University](https://jobright.ai/jobs/info/6747f153eb0cf5432a22ef23?utm_campaign=1047&utm_source=git)** | Alpharetta, GA | Hybrid | Dec 24 |
 | **[Honeywell](http://www.honeywell.com)** | **[Product Management Co-op](https://jobright.ai/jobs/info/67233c1c9e0922cf4896e8bd?utm_campaign=1047&utm_source=git)** | Pittsford, NY | On Site | Dec 24 |
-| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2025 Summer Project/Product Management Intern](https://jobright.ai/jobs/info/66f7f751d20d38ccd64a8161?utm_campaign=1047&utm_source=git)** | North Carolina, United States | On Site | Dec 23 |
-| **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Contract & Pricing - Summer 2025](https://jobright.ai/jobs/info/676a433131119bbc5c867df2?utm_campaign=1047&utm_source=git)** | Cary, NC | Hybrid | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
