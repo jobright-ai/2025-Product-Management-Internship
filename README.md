@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ad Signal Product) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67768496a86a6dfee380ea53?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 02 |
+| ↳ | **[Product Manager MBA Intern (TikTok Shop - Feeds Recommendation)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/673a24aae5228b8986f4600a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 02 |
+| ↳ | **[Global Product Solutions and Operations MBA Intern (Closed Loop Monetization)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/6744b7965a5df0d6f25209d1?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jan 02 |
 | **[Munich Re](https://www.munichre.com)** | **[Product Internship (Long-Term)](https://jobright.ai/jobs/info/677643dcdafec4c2f5d0fbba?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 01 |
 | ↳ | **[New Product Innovation Intern](https://jobright.ai/jobs/info/677631c50420153ac5725f6d?utm_campaign=1047&utm_source=git)** | Hartford, CT | Hybrid | Jan 01 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/677603d3e969d9d342a0acc5?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Jan 01 |
 | **[Walmart](http://www.walmart.com)** | **[2025 Summer Intern: Product Manager II](https://jobright.ai/jobs/info/67720c7faecea63a46737509?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Jan 01 |
+| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Product Management Intern - Summer 2025](https://jobright.ai/jobs/info/673b4d252abf484b69662227?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Jan 01 |
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Summer Intern, Product Monetization](https://jobright.ai/jobs/info/6733db43b62e2c2cfa0470f7?utm_campaign=1047&utm_source=git)** | Washington, DC | On Site | Jan 01 |
 | **[PTC](http://www.ptc.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6758c036981d81424947b015?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Jan 01 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Customer solution & product management internship](https://jobright.ai/jobs/info/6775591679819cba2bd60c45?utm_campaign=1047&utm_source=git)** | Rockville, MD | On Site | Dec 31 |
