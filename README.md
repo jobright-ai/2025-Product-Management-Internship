@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/677603d3e969d9d342a0acc5?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Jan 01 |
 | **[Walmart](http://www.walmart.com)** | **[2025 Summer Intern: Product Manager II](https://jobright.ai/jobs/info/67720c7faecea63a46737509?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Jan 01 |
+| **[PTC](http://www.ptc.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6758c036981d81424947b015?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Jan 01 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Customer solution & product management internship](https://jobright.ai/jobs/info/6775591679819cba2bd60c45?utm_campaign=1047&utm_source=git)** | Rockville, MD | On Site | Dec 31 |
 | **[PACSUN](http://www.pacsun.com/)** | **[Product Development Intern - Summer 2025](https://jobright.ai/jobs/info/67746f37cd600d12a0e1b0f9?utm_campaign=1047&utm_source=git)** | Anaheim, CA | Hybrid | Dec 31 |
 | **[Yahoo](http://www.yahoo.com)** | **[Product Management Intern - Mail Intelligence](https://jobright.ai/jobs/info/67745db1d7015ba69950c3f1?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 31 |
@@ -68,7 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Intern - Drinking Water](https://jobright.ai/jobs/info/67538a3351f145f5060578a7?utm_campaign=1047&utm_source=git)** | Downers Grove, IL | On Site | Dec 31 |
 | **[Dover Food Retail](https://www.dovercorporation.com/our-markets/refrigeration-and-food-equipment/)** | **[Intern, Product Management](https://jobright.ai/jobs/info/675764538a19593ffbe6f13d?utm_campaign=1047&utm_source=git)** | Chesterfield, VA | On Site | Dec 31 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Technical Product Management Intern, GPU Virtualization - Summer 2025](https://jobright.ai/jobs/info/67736b07a9e96208d3806e94?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Dec 30 |
-| **[Adobe](http://www.adobe.com)** | **[2025 Intern - E2E Product Management](https://jobright.ai/jobs/info/6741861fc55ecf658fc89778?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Dec 30 |
+| **[Adobe](http://www.adobe.com)** | **[2025 Intern - E2E Product Management](https://jobright.ai/jobs/info/673f30634ff0f9404322c510?utm_campaign=1047&utm_source=git)** | Lehi, UT | On Site | Dec 30 |
+| ↳ | **[2025 Intern - E2E Product Management](https://jobright.ai/jobs/info/6741861fc55ecf658fc89778?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Dec 30 |
 | ↳ | **[2025 Intern - Product Delivery Manager](https://jobright.ai/jobs/info/6742215f9c68442403d9c548?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
 | ↳ | **[2025 Intern - Program/Product Manager](https://jobright.ai/jobs/info/67618ccc5f148f5ad0e51be5?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Dec 30 |
 | ↳ | **[2025 Intern - Lightroom Product Research](https://jobright.ai/jobs/info/673f39cf5c0326466eb8cefc?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
