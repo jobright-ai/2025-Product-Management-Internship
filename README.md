@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ad Signal Product) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67768496a86a6dfee380ea53?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 02 |
+| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Product Management MBA Leadership Track Internship](https://jobright.ai/jobs/info/6776e3c1db9f04ddfa1ea9bf?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jan 02 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Web Ads and Open-Loop E-Commerce) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6776a23d4b6d7eaaf49b6fc4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 02 |
+| ↳ | **[Product Manager MBA Intern (Ad Signal Product) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67768496a86a6dfee380ea53?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 02 |
 | ↳ | **[Product Manager MBA Intern (TikTok Shop - Feeds Recommendation)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/673a24aae5228b8986f4600a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 02 |
 | ↳ | **[Global Product Solutions and Operations MBA Intern (Closed Loop Monetization)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/6744b7965a5df0d6f25209d1?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jan 02 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[(Spring) Product Development Co-op: January to June 2025](https://jobright.ai/jobs/info/67215c23c05151c8dca16a7a?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Jan 02 |
+| **[OneStream Software](http://www.onestreamsoftware.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/676e1f45248dd5acab4c1982?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 02 |
+| **[HP](http://www.hp.com)** | **[Product Management Intern - Workforce Services and Solutions](https://jobright.ai/jobs/info/67711229e9c2e2793f758488?utm_campaign=1047&utm_source=git)** | Spring, TX | On Site | Jan 02 |
 | **[Munich Re](https://www.munichre.com)** | **[Product Internship (Long-Term)](https://jobright.ai/jobs/info/677643dcdafec4c2f5d0fbba?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 01 |
 | ↳ | **[New Product Innovation Intern](https://jobright.ai/jobs/info/677631c50420153ac5725f6d?utm_campaign=1047&utm_source=git)** | Hartford, CT | Hybrid | Jan 01 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/677603d3e969d9d342a0acc5?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Jan 01 |
@@ -69,8 +74,6 @@ For a complete list, click the following sortable link below:
 | **[PTC](http://www.ptc.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6758c036981d81424947b015?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Jan 01 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Customer solution & product management internship](https://jobright.ai/jobs/info/6775591679819cba2bd60c45?utm_campaign=1047&utm_source=git)** | Rockville, MD | On Site | Dec 31 |
 | **[PACSUN](http://www.pacsun.com/)** | **[Product Development Intern - Summer 2025](https://jobright.ai/jobs/info/67746f37cd600d12a0e1b0f9?utm_campaign=1047&utm_source=git)** | Anaheim, CA | Hybrid | Dec 31 |
-| **[Yahoo](http://www.yahoo.com)** | **[Product Management Intern - Mail Intelligence](https://jobright.ai/jobs/info/67745db1d7015ba69950c3f1?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 31 |
-| ↳ | **[Product Management Intern - Mail Intelligence](https://jobright.ai/jobs/info/677459d182ee7eb0e9e5f819?utm_campaign=1047&utm_source=git)** | United States of America | On Site | Dec 31 |
 | **[Novant Health](https://www.novanthealth.org/)** | **[Digital Products & Services IT Intern](https://jobright.ai/jobs/info/67749933e2fbb76282c6d036?utm_campaign=1047&utm_source=git)** | North Carolina, United States | On Site | Dec 31 |
 | **[Bath & Body Works](https://www.bathandbodyworks.com/)** | **[Merchandising Summer Internship 2025](https://jobright.ai/jobs/info/6774682875a8164ce52b6e91?utm_campaign=1047&utm_source=git)** | Reynoldsburg, OH | Hybrid | Dec 31 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Digital Products Intern](https://jobright.ai/jobs/info/6773fc8390ec2d381f050a25?utm_campaign=1047&utm_source=git)** | Miami, FL | On Site | Dec 31 |
