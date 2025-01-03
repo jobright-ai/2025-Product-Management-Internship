@@ -64,6 +64,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Global Product Solutions and Operations MBA Intern (Closed Loop Monetization)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/6744b7965a5df0d6f25209d1?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jan 02 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[(Spring) Product Development Co-op: January to June 2025](https://jobright.ai/jobs/info/67215c23c05151c8dca16a7a?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Jan 02 |
 | **[OneStream Software](http://www.onestreamsoftware.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/676e1f45248dd5acab4c1982?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 02 |
+| **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Product Data Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/66e8b1525c9445ca7777fcc8?utm_campaign=1047&utm_source=git)** | Middleton, WI | On Site | Jan 02 |
 | **[HP](http://www.hp.com)** | **[Product Management Intern - Workforce Services and Solutions](https://jobright.ai/jobs/info/67711229e9c2e2793f758488?utm_campaign=1047&utm_source=git)** | Spring, TX | On Site | Jan 02 |
 | **[Munich Re](https://www.munichre.com)** | **[Product Internship (Long-Term)](https://jobright.ai/jobs/info/677643dcdafec4c2f5d0fbba?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 01 |
 | ↳ | **[New Product Innovation Intern](https://jobright.ai/jobs/info/677631c50420153ac5725f6d?utm_campaign=1047&utm_source=git)** | Hartford, CT | Hybrid | Jan 01 |
@@ -101,5 +102,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Product Management Intern: 2025](https://jobright.ai/jobs/info/676f87d14ce5fd859637f1cf?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Dec 27 |
 | **[EBSCO Information Services](http://www.ebsco.de)** | **[EBSCOlearning Corporate Product Management Team Intern, Summer 2025](https://jobright.ai/jobs/info/67575990031ba1a6f0c609bf?utm_campaign=1047&utm_source=git)** | Ipswich, MA | On Site | Dec 27 |
 | **[Array Technologies](http://arraytechinc.com)** | **[Product Management Intern – Summer 2025](https://jobright.ai/jobs/info/676f14cf6e353b4ef7de1f73?utm_campaign=1047&utm_source=git)** | Chandler, AZ | On Site | Dec 27 |
-| **[Rakuten International](http://rakuten.us)** | **[Co-Op: Product Management](https://jobright.ai/jobs/info/6677ce0674ec1a95a89afdb7?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
