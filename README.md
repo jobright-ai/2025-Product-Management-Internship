@@ -57,18 +57,25 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HP](http://www.hp.com)** | **[Service Product Manager](https://jobright.ai/jobs/info/677791c2367e58bd252e387f?utm_campaign=1047&utm_source=git)** | Boise, ID | On Site | Jan 02 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Intern](https://jobright.ai/jobs/info/67776d7a851964b697a3829c?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 02 |
+| ↳ | **[Business Intern](https://jobright.ai/jobs/info/67776d7a851964b697a38882?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Jan 02 |
+| **[Charles River Development](https://www.crd.com)** | **[Product Management Internship, Charles River Development, Intern](https://jobright.ai/jobs/info/6774d018dce768e5e6f88b01?utm_campaign=1047&utm_source=git)** | Burlington, MA | On Site | Jan 02 |
 | **[EBSCO Information Services](http://www.ebsco.de)** | **[Product Management Intern – Research Databases, Summer 2025](https://jobright.ai/jobs/info/677754f1a97f39884fa16f3e?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 02 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Product Management MBA Leadership Track Internship](https://jobright.ai/jobs/info/6776e3c1db9f04ddfa1ea9bf?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jan 02 |
+| **[Entegral](https://Entegral.com)** | **[Product Management Internship - Summer 2025](https://jobright.ai/jobs/info/6777a04c73e82ed5ceae1b6b?utm_campaign=1047&utm_source=git)** | Richmond Heights, MO | On Site | Jan 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Web Ads and Open-Loop E-Commerce) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6776a23d4b6d7eaaf49b6fc4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 02 |
 | ↳ | **[Product Manager MBA Intern (Ad Signal Product) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67768496a86a6dfee380ea53?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 02 |
 | ↳ | **[Product Manager MBA Intern (TikTok Shop - Feeds Recommendation)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/673a24aae5228b8986f4600a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 02 |
 | ↳ | **[Global Product Solutions and Operations MBA Intern (Closed Loop Monetization)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/6744b7965a5df0d6f25209d1?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jan 02 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[(Spring) Product Development Co-op: January to June 2025](https://jobright.ai/jobs/info/67215c23c05151c8dca16a7a?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Jan 02 |
+| **[Slack](http://www.slack.com)** | **[Summer 2025 Intern - Research Undergrad - Slack](https://jobright.ai/jobs/info/675884c61d650e663609a27c?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jan 02 |
 | **[OneStream Software](http://www.onestreamsoftware.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/676e1f45248dd5acab4c1982?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 02 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Product Data Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/66e8b1525c9445ca7777fcc8?utm_campaign=1047&utm_source=git)** | Middleton, WI | On Site | Jan 02 |
 | **[HP](http://www.hp.com)** | **[Product Management Intern - Workforce Services and Solutions](https://jobright.ai/jobs/info/67711229e9c2e2793f758488?utm_campaign=1047&utm_source=git)** | Spring, TX | On Site | Jan 02 |
 | **[Munich Re](https://www.munichre.com)** | **[Product Internship (Long-Term)](https://jobright.ai/jobs/info/677643dcdafec4c2f5d0fbba?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 01 |
 | ↳ | **[New Product Innovation Intern](https://jobright.ai/jobs/info/677631c50420153ac5725f6d?utm_campaign=1047&utm_source=git)** | Hartford, CT | Hybrid | Jan 01 |
+| **[Arthrex](https://www.arthrex.com/)** | **[Summer Associate - Upper Extremity Product Management](https://jobright.ai/jobs/info/67586a51a41b020453dcdad5?utm_campaign=1047&utm_source=git)** | Naples, FL | On Site | Jan 01 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/677603d3e969d9d342a0acc5?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Jan 01 |
 | **[Walmart](http://www.walmart.com)** | **[2025 Summer Intern: Product Manager II](https://jobright.ai/jobs/info/67720c7faecea63a46737509?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Jan 01 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Product Management Intern - Summer 2025](https://jobright.ai/jobs/info/673b4d252abf484b69662227?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Jan 01 |
@@ -101,6 +108,4 @@ For a complete list, click the following sortable link below:
 | **[Rawlings Sporting Goods](https://www.rawlings.com/)** | **[2025 Summer Internship- Product](https://jobright.ai/jobs/info/677325aba5c7f83e810732a7?utm_campaign=1047&utm_source=git)** | Thousand Oaks, CA | On Site | Dec 29 |
 | **[Hypergiant](https://www.hypergiant.com/sensory-sciences/)** | **[SkillBridge Internship (Product Manager)](https://jobright.ai/jobs/info/674b1a7cf88665f2832996e7?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Dec 28 |
 | **[IBM](http://www.ibm.com)** | **[Product Management Intern: 2025](https://jobright.ai/jobs/info/676f87d14ce5fd859637f1cf?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Dec 27 |
-| **[EBSCO Information Services](http://www.ebsco.de)** | **[EBSCOlearning Corporate Product Management Team Intern, Summer 2025](https://jobright.ai/jobs/info/67575990031ba1a6f0c609bf?utm_campaign=1047&utm_source=git)** | Ipswich, MA | On Site | Dec 27 |
-| **[Array Technologies](http://arraytechinc.com)** | **[Product Management Intern – Summer 2025](https://jobright.ai/jobs/info/676f14cf6e353b4ef7de1f73?utm_campaign=1047&utm_source=git)** | Chandler, AZ | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
