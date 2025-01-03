@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EBSCO Information Services](http://www.ebsco.de)** | **[Product Management Intern – Research Databases, Summer 2025](https://jobright.ai/jobs/info/677754f1a97f39884fa16f3e?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 02 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Product Management MBA Leadership Track Internship](https://jobright.ai/jobs/info/6776e3c1db9f04ddfa1ea9bf?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jan 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Web Ads and Open-Loop E-Commerce) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6776a23d4b6d7eaaf49b6fc4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 02 |
 | ↳ | **[Product Manager MBA Intern (Ad Signal Product) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67768496a86a6dfee380ea53?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 02 |
