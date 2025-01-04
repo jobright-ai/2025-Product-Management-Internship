@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AAR](http://aarcorp.com)** | **[Product Line Rep Intern: Commercial Distribution](https://jobright.ai/jobs/info/6729a70bfdb23c54734da480?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | Jan 04 |
+| **[AAR](http://aarcorp.com)** | **[Product Line Rep Intern: Commercial Distribution](https://jobright.ai/jobs/info/6729a70bfdb23c54734da480?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | Hybrid | Jan 04 |
+| **[Ingersoll Rand](https://www.irco.com/en-in)** | **[Product Management Intern](https://jobright.ai/jobs/info/66e377fe620a90a969a66818?utm_campaign=1047&utm_source=git)** | Quincy, IL | On Site | Jan 04 |
+| **[Oracle](https://www.oracle.com/)** | **[OCI G2S Product Manager Intern - OVIP](https://jobright.ai/jobs/info/676bb23df3de33ac4278edf9?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (TikTok Shop -Seller Onboarding & Governance) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/67792787beb02075d7dd5cb8?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 04 |
+| **[PIMCO](http://www.pimco.com)** | **[2025 MBA Summer Intern – Product Strategist - Client Solutions & Analytics, US](https://jobright.ai/jobs/info/66fc85c15afbd24c089a2283?utm_campaign=1047&utm_source=git)** | Newport Beach, CA | On Site | Jan 04 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern - IL](https://jobright.ai/jobs/info/6778eccfe359683b66b8d4d1?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Jan 03 |
 | **[Astera Labs](https://www.asteralabs.com)** | **[Product and Ecosystem Intern](https://jobright.ai/jobs/info/67339d404dd38095b5627c6e?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Jan 03 |
 | **[IBM](http://www.ibm.com)** | **[Software Strategy and M&A Summer Intern: 2025](https://jobright.ai/jobs/info/6778c27e23848fde5608adfa?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 03 |
@@ -66,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[TEST - Product Management/Marketing Intern](https://jobright.ai/jobs/info/6778c4d92a3187adba1f60ab?utm_campaign=1047&utm_source=git)** | Skokie, IL | On Site | Jan 03 |
 | ↳ | **[TEST - Product Management/Marketing Intern – Summer 2025](https://jobright.ai/jobs/info/6778c4d92a3187adba1f61b1?utm_campaign=1047&utm_source=git)** | Downers Grove, IL | On Site | Jan 03 |
 | **[Force Factor](https://forcefactor.com/)** | **[Product Development Fall Co-Op](https://jobright.ai/jobs/info/677867b3e333eb51c2928327?utm_campaign=1047&utm_source=git)** | Boston, MA. | On Site | Jan 03 |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Advanced Product Development](https://jobright.ai/jobs/info/675c7ffd495fc5f4a86d9aa3?utm_campaign=1047&utm_source=git)** | Adelanto, CA | On Site | Jan 03 |
 | **[SAP](https://www.sap.com)** | **[SAP NS2 Product Launch Intern](https://jobright.ai/jobs/info/67785f397e7922f50edb2f36?utm_campaign=1047&utm_source=git)** | Herndon, VA | Hybrid | Jan 03 |
 | ↳ | **[SAP iXp Intern - Digital Platforms Development & Product Ownership](https://jobright.ai/jobs/info/677839d626e3963e07278349?utm_campaign=1047&utm_source=git)** | Newtown Square, PA | Hybrid | Jan 03 |
 | **[NARS Cosmetics](https://www.narscosmetics.com/)** | **[Hajimari Intern, Product Development (NARS)](https://jobright.ai/jobs/info/675a173d95726f060cb10293?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 03 |
