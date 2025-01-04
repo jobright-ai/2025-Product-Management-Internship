@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Force Factor](https://forcefactor.com/)** | **[Product Development Fall Co-Op](https://jobright.ai/jobs/info/677867b3e333eb51c2928327?utm_campaign=1047&utm_source=git)** | Boston, MA. | On Site | Jan 03 |
+| **[Force Factor](https://forcefactor.com/)** | **[Product Development Fall Co-Op](https://jobright.ai/jobs/info/6778a265bcaf60756af290b2?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Jan 03 |
+| ↳ | **[Product Development Fall Co-Op](https://jobright.ai/jobs/info/677867b3e333eb51c2928327?utm_campaign=1047&utm_source=git)** | Boston, MA. | On Site | Jan 03 |
 | **[SAP](https://www.sap.com)** | **[SAP NS2 Product Launch Intern](https://jobright.ai/jobs/info/67785f397e7922f50edb2f36?utm_campaign=1047&utm_source=git)** | Herndon, VA | Hybrid | Jan 03 |
 | ↳ | **[SAP iXp Intern - Digital Platforms Development & Product Ownership](https://jobright.ai/jobs/info/677839d626e3963e07278349?utm_campaign=1047&utm_source=git)** | Newtown Square, PA | Hybrid | Jan 03 |
 | **[Hypergiant](https://www.hypergiant.com/sensory-sciences/)** | **[SkillBridge Internship (Product Manager)](https://jobright.ai/jobs/info/674b1a7cf88665f2832996e7?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Jan 03 |
