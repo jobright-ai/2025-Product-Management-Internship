@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern - IL](https://jobright.ai/jobs/info/6778eccfe359683b66b8d4d1?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Jan 03 |
+| **[Astera Labs](https://www.asteralabs.com)** | **[Product and Ecosystem Intern](https://jobright.ai/jobs/info/67339d404dd38095b5627c6e?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Jan 03 |
+| **[IBM](http://www.ibm.com)** | **[Software Strategy and M&A Summer Intern: 2025](https://jobright.ai/jobs/info/6778c27e23848fde5608adfa?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 03 |
 | **[Force Factor](https://forcefactor.com/)** | **[Product Development Fall Co-Op](https://jobright.ai/jobs/info/6778a265bcaf60756af290b2?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Jan 03 |
-| ↳ | **[Product Development Fall Co-Op](https://jobright.ai/jobs/info/677867b3e333eb51c2928327?utm_campaign=1047&utm_source=git)** | Boston, MA. | On Site | Jan 03 |
+| **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[TEST - Product Management/Marketing Intern](https://jobright.ai/jobs/info/6778c4d92a3187adba1f60ab?utm_campaign=1047&utm_source=git)** | Skokie, IL | On Site | Jan 03 |
+| ↳ | **[TEST - Product Management/Marketing Intern – Summer 2025](https://jobright.ai/jobs/info/6778c4d92a3187adba1f61b1?utm_campaign=1047&utm_source=git)** | Downers Grove, IL | On Site | Jan 03 |
+| **[Force Factor](https://forcefactor.com/)** | **[Product Development Fall Co-Op](https://jobright.ai/jobs/info/677867b3e333eb51c2928327?utm_campaign=1047&utm_source=git)** | Boston, MA. | On Site | Jan 03 |
 | **[SAP](https://www.sap.com)** | **[SAP NS2 Product Launch Intern](https://jobright.ai/jobs/info/67785f397e7922f50edb2f36?utm_campaign=1047&utm_source=git)** | Herndon, VA | Hybrid | Jan 03 |
 | ↳ | **[SAP iXp Intern - Digital Platforms Development & Product Ownership](https://jobright.ai/jobs/info/677839d626e3963e07278349?utm_campaign=1047&utm_source=git)** | Newtown Square, PA | Hybrid | Jan 03 |
 | **[Hypergiant](https://www.hypergiant.com/sensory-sciences/)** | **[SkillBridge Internship (Product Manager)](https://jobright.ai/jobs/info/674b1a7cf88665f2832996e7?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Jan 03 |
@@ -77,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[UL Solutions](https://www.ul.com/solutions)** | **[2025 Summer Intern: Software Product Management Intern](https://jobright.ai/jobs/info/672172f4885549885a65f8f9?utm_campaign=1047&utm_source=git)** | Northbrook, IL | On Site | Jan 03 |
 | **[Tanium](http://www.tanium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f1a6c46d831cd26fee53c4?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Jan 03 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/66f1a6c46d831cd26fee53d8?utm_campaign=1047&utm_source=git)** | Emeryville, CA | Hybrid | Jan 03 |
-| **[HP](http://www.hp.com)** | **[Service Product Manager](https://jobright.ai/jobs/info/677791c2367e58bd252e387f?utm_campaign=1047&utm_source=git)** | Boise, ID | On Site | Jan 02 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Intern](https://jobright.ai/jobs/info/67776d7a851964b697a3829c?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 02 |
 | ↳ | **[Business Intern](https://jobright.ai/jobs/info/67776d7a851964b697a38882?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Jan 02 |
 | **[Charles River Development](https://www.crd.com)** | **[Product Management Internship, Charles River Development, Intern](https://jobright.ai/jobs/info/6774d018dce768e5e6f88b01?utm_campaign=1047&utm_source=git)** | Burlington, MA | On Site | Jan 02 |
@@ -97,13 +101,11 @@ For a complete list, click the following sortable link below:
 | **[Slack](http://www.slack.com)** | **[Summer 2025 Intern - Research Undergrad - Slack](https://jobright.ai/jobs/info/675884c61d650e663609a27c?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jan 02 |
 | **[OneStream Software](http://www.onestreamsoftware.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/676e1f45248dd5acab4c1982?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 02 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Product Data Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/66e8b1525c9445ca7777fcc8?utm_campaign=1047&utm_source=git)** | Middleton, WI | On Site | Jan 02 |
-| **[HP](http://www.hp.com)** | **[Product Management Intern - Workforce Services and Solutions](https://jobright.ai/jobs/info/67711229e9c2e2793f758488?utm_campaign=1047&utm_source=git)** | Spring, TX | On Site | Jan 02 |
 | **[Zoox](https://www.zoox.com/)** | **[Product Management, Rider Experience Intern](https://jobright.ai/jobs/info/673bd62e656921d93e626449?utm_campaign=1047&utm_source=git)** | Foster City, CA | On Site | Jan 02 |
 | **[Munich Re](https://www.munichre.com)** | **[Product Internship (Long-Term)](https://jobright.ai/jobs/info/677643dcdafec4c2f5d0fbba?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 01 |
 | ↳ | **[New Product Innovation Intern](https://jobright.ai/jobs/info/677631c50420153ac5725f6d?utm_campaign=1047&utm_source=git)** | Hartford, CT | Hybrid | Jan 01 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Summer Associate - Upper Extremity Product Management](https://jobright.ai/jobs/info/67586a51a41b020453dcdad5?utm_campaign=1047&utm_source=git)** | Naples, FL | On Site | Jan 01 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/677603d3e969d9d342a0acc5?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Jan 01 |
-| **[Walmart](http://www.walmart.com)** | **[2025 Summer Intern: Product Manager II](https://jobright.ai/jobs/info/67720c7faecea63a46737509?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Jan 01 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Product Management Intern - Summer 2025](https://jobright.ai/jobs/info/673b4d252abf484b69662227?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Jan 01 |
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Summer Intern, Product Monetization](https://jobright.ai/jobs/info/6733db43b62e2c2cfa0470f7?utm_campaign=1047&utm_source=git)** | Washington, DC | On Site | Jan 01 |
 | **[PTC](http://www.ptc.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6758c036981d81424947b015?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Jan 01 |
