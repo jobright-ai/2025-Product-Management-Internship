@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2025](https://jobright.ai/jobs/info/6716f5075ef2d971e037b166?utm_campaign=1047&utm_source=git)** | Nashua, NH | On Site | Jan 05 |
+| **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer 2025 Intern - National IT](https://jobright.ai/jobs/info/6744e3249bde14a5e26cb2d7?utm_campaign=1047&utm_source=git)** | Dallas, TX | Hybrid | Jan 05 |
 | **[Precision Brand Products Inc.](https://www.precisionbrand.com/)** | **[Product Management/Marketing Intern – Summer 2025](https://jobright.ai/jobs/info/6779f352fa920ceec49ccaac?utm_campaign=1047&utm_source=git)** | Downers Grove, IL | On Site | Jan 04 |
 | **[AAR](http://aarcorp.com)** | **[Product Line Rep Intern: Commercial Distribution](https://jobright.ai/jobs/info/6729a70bfdb23c54734da480?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | Hybrid | Jan 04 |
 | **[Oracle](https://www.oracle.com/)** | **[Product Manager Intern - Opower - Energy & Water](https://jobright.ai/jobs/info/676b9ae0d32801d2598badc2?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 04 |
@@ -65,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[OCI G2S Product Manager Intern - OVIP](https://jobright.ai/jobs/info/676bb23df3de33ac4278edf9?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (TikTok Shop -Seller Onboarding & Governance) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/67792787beb02075d7dd5cb8?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 04 |
 | **[PIMCO](http://www.pimco.com)** | **[2025 MBA Summer Intern – Product Strategist - Client Solutions & Analytics, US](https://jobright.ai/jobs/info/66fc85c15afbd24c089a2283?utm_campaign=1047&utm_source=git)** | Newport Beach, CA | On Site | Jan 04 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Product and Technology Strategy Masters Internship (Summer 2025)](https://jobright.ai/jobs/info/66d1f0a105a4899c5e1d5bac?utm_campaign=1047&utm_source=git)** | Westerville, OH | On Site | Jan 04 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern - IL](https://jobright.ai/jobs/info/6778eccfe359683b66b8d4d1?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Jan 03 |
 | **[Copeland](https://www.copeland.com)** | **[Summer 2025 MBA Opportunity - Product Management & Marketing Intern](https://jobright.ai/jobs/info/66ff3d6b57bd08bba04350eb?utm_campaign=1047&utm_source=git)** | Sidney, OH | On Site | Jan 03 |
 | **[Astera Labs](https://www.asteralabs.com)** | **[Product and Ecosystem Intern](https://jobright.ai/jobs/info/67339d404dd38095b5627c6e?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Jan 03 |
