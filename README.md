@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Precision Brand Products Inc.](https://www.precisionbrand.com/)** | **[Product Management/Marketing Intern – Summer 2025](https://jobright.ai/jobs/info/6779f352fa920ceec49ccaac?utm_campaign=1047&utm_source=git)** | Downers Grove, IL | On Site | Jan 04 |
 | **[AAR](http://aarcorp.com)** | **[Product Line Rep Intern: Commercial Distribution](https://jobright.ai/jobs/info/6729a70bfdb23c54734da480?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | Hybrid | Jan 04 |
 | **[Oracle](https://www.oracle.com/)** | **[Product Manager Intern - Opower - Energy & Water](https://jobright.ai/jobs/info/676b9ae0d32801d2598badc2?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 04 |
 | **[Ingersoll Rand](https://www.irco.com/en-in)** | **[Product Management Intern](https://jobright.ai/jobs/info/66e377fe620a90a969a66818?utm_campaign=1047&utm_source=git)** | Quincy, IL | On Site | Jan 04 |
@@ -109,7 +110,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Global Product Solutions and Operations MBA Intern (Closed Loop Monetization)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/6744b7965a5df0d6f25209d1?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Jan 02 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[(Spring) Product Development Co-op: January to June 2025](https://jobright.ai/jobs/info/67215c23c05151c8dca16a7a?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Jan 02 |
 | **[Slack](http://www.slack.com)** | **[Summer 2025 Intern - Research Undergrad - Slack](https://jobright.ai/jobs/info/675884c61d650e663609a27c?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jan 02 |
-| **[OneStream Software](http://www.onestreamsoftware.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/676e1f45248dd5acab4c1982?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 02 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Product Data Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/66e8b1525c9445ca7777fcc8?utm_campaign=1047&utm_source=git)** | Middleton, WI | On Site | Jan 02 |
 | **[Zoox](https://www.zoox.com/)** | **[Product Management, Rider Experience Intern](https://jobright.ai/jobs/info/673bd62e656921d93e626449?utm_campaign=1047&utm_source=git)** | Foster City, CA | On Site | Jan 02 |
 | **[Munich Re](https://www.munichre.com)** | **[Product Internship (Long-Term)](https://jobright.ai/jobs/info/677643dcdafec4c2f5d0fbba?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 01 |
