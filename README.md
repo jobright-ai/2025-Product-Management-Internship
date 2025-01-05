@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[AAR](http://aarcorp.com)** | **[Product Line Rep Intern: Commercial Distribution](https://jobright.ai/jobs/info/6729a70bfdb23c54734da480?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | Hybrid | Jan 04 |
+| **[Oracle](https://www.oracle.com/)** | **[Product Manager Intern - Opower - Energy & Water](https://jobright.ai/jobs/info/676b9ae0d32801d2598badc2?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 04 |
 | **[Ingersoll Rand](https://www.irco.com/en-in)** | **[Product Management Intern](https://jobright.ai/jobs/info/66e377fe620a90a969a66818?utm_campaign=1047&utm_source=git)** | Quincy, IL | On Site | Jan 04 |
 | **[Oracle](https://www.oracle.com/)** | **[OCI G2S Product Manager Intern - OVIP](https://jobright.ai/jobs/info/676bb23df3de33ac4278edf9?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (TikTok Shop -Seller Onboarding & Governance) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/67792787beb02075d7dd5cb8?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 04 |
@@ -65,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern - IL](https://jobright.ai/jobs/info/6778eccfe359683b66b8d4d1?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Jan 03 |
 | **[Astera Labs](https://www.asteralabs.com)** | **[Product and Ecosystem Intern](https://jobright.ai/jobs/info/67339d404dd38095b5627c6e?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Jan 03 |
 | **[IBM](http://www.ibm.com)** | **[Software Strategy and M&A Summer Intern: 2025](https://jobright.ai/jobs/info/6778c27e23848fde5608adfa?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 03 |
+| **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2025 Product Development Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/67069b2f57b2e3ad8c34b6b3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 03 |
 | **[Force Factor](https://forcefactor.com/)** | **[Product Development Fall Co-Op](https://jobright.ai/jobs/info/6778a265bcaf60756af290b2?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Jan 03 |
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[TEST - Product Management/Marketing Intern](https://jobright.ai/jobs/info/6778c4d92a3187adba1f60ab?utm_campaign=1047&utm_source=git)** | Skokie, IL | On Site | Jan 03 |
 | ↳ | **[TEST - Product Management/Marketing Intern – Summer 2025](https://jobright.ai/jobs/info/6778c4d92a3187adba1f61b1?utm_campaign=1047&utm_source=git)** | Downers Grove, IL | On Site | Jan 03 |
@@ -93,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Internship (Summer 2025)](https://jobright.ai/jobs/info/66d8729db382dfc3f0ce103d?utm_campaign=1047&utm_source=git)** | Westerville, OH | On Site | Jan 03 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Intern](https://jobright.ai/jobs/info/67776d7a851964b697a3829c?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 02 |
 | ↳ | **[Business Intern](https://jobright.ai/jobs/info/67776d7a851964b697a38882?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Jan 02 |
-| **[Charles River Development](https://www.crd.com)** | **[Product Management Internship, Charles River Development, Intern](https://jobright.ai/jobs/info/6774d018dce768e5e6f88b01?utm_campaign=1047&utm_source=git)** | Burlington, MA | On Site | Jan 02 |
 | **[EBSCO Information Services](http://www.ebsco.de)** | **[EBSCOlearning Corporate Product Management Team Intern, Summer 2025](https://jobright.ai/jobs/info/67575990031ba1a6f0c609bf?utm_campaign=1047&utm_source=git)** | Ipswich, MA | On Site | Jan 02 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Product Management Internship - Summer 2025](https://jobright.ai/jobs/info/6777c96c367b27d3928367ab?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Jan 02 |
 | **[EBSCO Information Services](http://www.ebsco.de)** | **[Product Management Intern – Research Databases, Summer 2025](https://jobright.ai/jobs/info/677754f1a97f39884fa16f3e?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 02 |
