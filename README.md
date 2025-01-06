@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Merchants Distributors, LLC](https://www.mdi.com)** | **[Summer Internship -Category Management/Brands & Pricing](https://jobright.ai/jobs/info/677b40005f8d853fc66f195d?utm_campaign=1047&utm_source=git)** | Hickory, NC | On Site | Jan 05 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2025](https://jobright.ai/jobs/info/6716f5075ef2d971e037b166?utm_campaign=1047&utm_source=git)** | Nashua, NH | On Site | Jan 05 |
 | **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Summer 2025 Intern - National IT](https://jobright.ai/jobs/info/6744e3249bde14a5e26cb2d7?utm_campaign=1047&utm_source=git)** | Dallas, TX | Hybrid | Jan 05 |
 | **[Precision Brand Products Inc.](https://www.precisionbrand.com/)** | **[Product Management/Marketing Intern – Summer 2025](https://jobright.ai/jobs/info/6779f352fa920ceec49ccaac?utm_campaign=1047&utm_source=git)** | Downers Grove, IL | On Site | Jan 04 |
@@ -109,6 +110,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Intern](https://jobright.ai/jobs/info/67776d7a851964b697a38882?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Jan 02 |
 | **[EBSCO Information Services](http://www.ebsco.de)** | **[EBSCOlearning Corporate Product Management Team Intern, Summer 2025](https://jobright.ai/jobs/info/67575990031ba1a6f0c609bf?utm_campaign=1047&utm_source=git)** | Ipswich, MA | On Site | Jan 02 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Product Management Internship - Summer 2025](https://jobright.ai/jobs/info/6777c96c367b27d3928367ab?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Jan 02 |
+| **[OneStream Software](http://www.onestreamsoftware.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/677b4a99c44ffd15a2b2dea6?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 02 |
 | **[EBSCO Information Services](http://www.ebsco.de)** | **[Product Management Intern – Research Databases, Summer 2025](https://jobright.ai/jobs/info/677754f1a97f39884fa16f3e?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 02 |
 | **[PTC](http://www.ptc.com)** | **[Windchill Navigate Product Management Intern](https://jobright.ai/jobs/info/675a46abb611feb9552fb520?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Jan 02 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Product Management MBA Leadership Track Internship](https://jobright.ai/jobs/info/6776e3c1db9f04ddfa1ea9bf?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jan 02 |
@@ -126,6 +128,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[New Product Innovation Intern](https://jobright.ai/jobs/info/677631c50420153ac5725f6d?utm_campaign=1047&utm_source=git)** | Hartford, CT | Hybrid | Jan 01 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Summer Associate - Upper Extremity Product Management](https://jobright.ai/jobs/info/67586a51a41b020453dcdad5?utm_campaign=1047&utm_source=git)** | Naples, FL | On Site | Jan 01 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/677603d3e969d9d342a0acc5?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Jan 01 |
+| **[Walmart](http://www.walmart.com)** | **[2025 Summer Intern: Product Manager II](https://jobright.ai/jobs/info/677b485964b046cd1270c4d1?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Jan 01 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Product Management Intern - Summer 2025](https://jobright.ai/jobs/info/673b4d252abf484b69662227?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Jan 01 |
 | **[The Washington Post](https://www.washingtonpost.com)** | **[Summer Intern, Product Monetization](https://jobright.ai/jobs/info/6733db43b62e2c2cfa0470f7?utm_campaign=1047&utm_source=git)** | Washington, DC | On Site | Jan 01 |
 | **[PTC](http://www.ptc.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6758c036981d81424947b015?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Jan 01 |
