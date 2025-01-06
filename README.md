@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Aritzia](https://www.aritzia.com/)** | **[Product - Intern, Product (Apparel) Operations](https://jobright.ai/jobs/info/677b963291f172c8bb38603d?utm_campaign=1047&utm_source=git)** | Support Office (Vancouver) | On Site | Jan 06 |
+| **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Loan Servicing Specialist](https://jobright.ai/jobs/info/677bd425125f8b2f99a00420?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | Hybrid | Jan 06 |
+| **[Aritzia](https://www.aritzia.com/)** | **[Product - Intern, Product (Apparel) Operations](https://jobright.ai/jobs/info/677b963291f172c8bb38604c?utm_campaign=1047&utm_source=git)** | Support Office (Vancouver) | On Site | Jan 06 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[Product Coordinator Intern](https://jobright.ai/jobs/info/677b63283c8b9da85f5d6e92?utm_campaign=1047&utm_source=git)** | Greater Houston | Hybrid | Jan 05 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Summer Internship -Category Management/Brands & Pricing](https://jobright.ai/jobs/info/677b57172669866d03e62e33?utm_campaign=1047&utm_source=git)** | Hickory, NC | On Site | Jan 05 |
 | **[Merchants Distributors, LLC](https://www.mdi.com)** | **[Summer Internship -Category Management/Brands & Pricing](https://jobright.ai/jobs/info/677b40005f8d853fc66f195d?utm_campaign=1047&utm_source=git)** | Hickory, NC | On Site | Jan 05 |
@@ -146,8 +147,4 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - E2E Product Management](https://jobright.ai/jobs/info/6740015b84df0ac16f80e5ce?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 30 |
 | ↳ | **[2025 Intern - Technical Product Manager, Content Supply Chain](https://jobright.ai/jobs/info/673ff351120d00adb630936a?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
 | ↳ | **[2025 Intern - E2E Product Management](https://jobright.ai/jobs/info/673f30634ff0f9404322c510?utm_campaign=1047&utm_source=git)** | Lehi, UT | On Site | Dec 30 |
-| ↳ | **[2025 Intern - E2E Product Management](https://jobright.ai/jobs/info/6741861fc55ecf658fc89778?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Dec 30 |
-| ↳ | **[2025 Intern - Product Delivery Manager](https://jobright.ai/jobs/info/6742215f9c68442403d9c548?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
-| ↳ | **[2025 Intern - Program/Product Manager](https://jobright.ai/jobs/info/67618ccc5f148f5ad0e51be5?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Dec 30 |
-| ↳ | **[2025 Intern - Lightroom Product Research](https://jobright.ai/jobs/info/673f39cf5c0326466eb8cefc?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
