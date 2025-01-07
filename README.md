@@ -57,18 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (TikTok Shop - Seller Platform) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/677cf685a90a48a493aa35b7?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 07 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/677c7fc5d850e747aabe09ad?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 06 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Content Operations Intern](https://jobright.ai/jobs/info/677c5fe5a5488fa83ed3c27d?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 06 |
 | **[Loeffler Randall](https://loefflerrandall.com)** | **[Apparel Product Development & Production Internship (Jan 2025)](https://jobright.ai/jobs/info/677c63c664520b1b673b7c96?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 06 |
-| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/677c5adf606229286f0ebc26?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 06 |
-| ↳ | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/677c5fe5a5488fa83ed3c2b1?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Jan 06 |
+| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/677c5fe5a5488fa83ed3c2b1?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Jan 06 |
 | ↳ | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/677c5adf606229286f0ebc24?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Jan 06 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/677c713e4c7a1ffbd76a4829?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Jan 06 |
 | **[Cook Medical](http://www.cookmedical.com)** | **[Product Management/Marketing Internship - Vascular - PAD Medical Devices](https://jobright.ai/jobs/info/677c704ba4a6427558d5e859?utm_campaign=1047&utm_source=git)** | Bloomington, IN | Hybrid | Jan 06 |
-| **[First Solar](http://www.firstsolar.com)** | **[Product & Technology Intern (Fall 2025)](https://jobright.ai/jobs/info/677c51bc07c4a1bea5b970bb?utm_campaign=1047&utm_source=git)** | Perrysburg, OH | On Site | Jan 06 |
-| ↳ | **[Product & Technology Intern (Spring 2025)](https://jobright.ai/jobs/info/677c51bc07c4a1bea5b970bc?utm_campaign=1047&utm_source=git)** | Perrysburg, OH | On Site | Jan 06 |
+| **[First Solar](http://www.firstsolar.com)** | **[Product & Technology Intern (Spring 2025)](https://jobright.ai/jobs/info/677c51bc07c4a1bea5b970bc?utm_campaign=1047&utm_source=git)** | Perrysburg, OH | On Site | Jan 06 |
+| ↳ | **[Product & Technology Intern (Fall 2025)](https://jobright.ai/jobs/info/677c51bc07c4a1bea5b970bb?utm_campaign=1047&utm_source=git)** | Perrysburg, OH | On Site | Jan 06 |
 | ↳ | **[Product & Technology Intern (Summer 2025)](https://jobright.ai/jobs/info/677c51bc07c4a1bea5b970a3?utm_campaign=1047&utm_source=git)** | Perrysburg, OH | On Site | Jan 06 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Content Operations Intern](https://jobright.ai/jobs/info/677c3b07b41fbf232adfc364?utm_campaign=1047&utm_source=git)** | New York, NY, USA | On Site | Jan 06 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Content Operations Intern](https://jobright.ai/jobs/info/677c3b07b41fbf232adfc426?utm_campaign=1047&utm_source=git)** | New York, NY, USA | On Site | Jan 06 |
 | **[W.B. Mason Company Inc.](http://wbmason.com)** | **[2025 Spring Semester & Summer IT Product Manager Internship](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c5c7?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Jan 06 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Associate Product Analyst ITG Intern](https://jobright.ai/jobs/info/677c408fb861c9d7d2c2108a?utm_campaign=1047&utm_source=git)** | Nashville, TN | On Site | Jan 06 |
 | **[Textron](http://textron.com)** | **[2025 Product Management Intern E-Z-GO](https://jobright.ai/jobs/info/677c3a73d76414159ac3c535?utm_campaign=1047&utm_source=git)** | Augusta, GA | On Site | Jan 06 |
@@ -112,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[Astera Labs](https://www.asteralabs.com)** | **[Product and Ecosystem Intern](https://jobright.ai/jobs/info/67339d404dd38095b5627c6e?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Jan 03 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Masters Internship (Summer 2025)](https://jobright.ai/jobs/info/66defd82f34bd86a7f2799a3?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Jan 03 |
 | **[IBM](http://www.ibm.com)** | **[Software Strategy and M&A Summer Intern: 2025](https://jobright.ai/jobs/info/6778c27e23848fde5608adfa?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 03 |
-| **[Charles River Development](https://www.crd.com)** | **[Product Management Internship, Charles River Development, Intern](https://jobright.ai/jobs/info/677a13916e0e4b469f3f8d94?utm_campaign=1047&utm_source=git)** | Burlington, MA | On Site | Jan 03 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2025 Product Development Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/67069b2f57b2e3ad8c34b6b3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 03 |
 | **[Force Factor](https://forcefactor.com/)** | **[Product Development Fall Co-Op](https://jobright.ai/jobs/info/6778a265bcaf60756af290b2?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Jan 03 |
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[TEST - Product Management/Marketing Intern](https://jobright.ai/jobs/info/6778c4d92a3187adba1f60ab?utm_campaign=1047&utm_source=git)** | Skokie, IL | On Site | Jan 03 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Munich Re](https://www.munichre.com)** | **[Product Internship (Long-Term)](https://jobright.ai/jobs/info/677643dcdafec4c2f5d0fbba?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 01 |
 | ↳ | **[New Product Innovation Intern](https://jobright.ai/jobs/info/677631c50420153ac5725f6d?utm_campaign=1047&utm_source=git)** | Hartford, CT | Hybrid | Jan 01 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Summer Associate - Upper Extremity Product Management](https://jobright.ai/jobs/info/67586a51a41b020453dcdad5?utm_campaign=1047&utm_source=git)** | Naples, FL | On Site | Jan 01 |
+| **[Walmart](http://www.walmart.com)** | **[2025 Summer Intern: Product Manager II](https://jobright.ai/jobs/info/677b485964b046cd1270c4d1?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Jan 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
