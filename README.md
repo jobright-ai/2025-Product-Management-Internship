@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/677c7fc5d850e747aabe09ad?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 06 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Content Operations Intern](https://jobright.ai/jobs/info/677c5fe5a5488fa83ed3c27d?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 06 |
 | **[Loeffler Randall](https://loefflerrandall.com)** | **[Apparel Product Development & Production Internship (Jan 2025)](https://jobright.ai/jobs/info/677c63c664520b1b673b7c96?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 06 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/677c5adf606229286f0ebc26?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 06 |
@@ -64,10 +65,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/677c5adf606229286f0ebc24?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Jan 06 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/677c713e4c7a1ffbd76a4829?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Jan 06 |
 | **[Cook Medical](http://www.cookmedical.com)** | **[Product Management/Marketing Internship - Vascular - PAD Medical Devices](https://jobright.ai/jobs/info/677c704ba4a6427558d5e859?utm_campaign=1047&utm_source=git)** | Bloomington, IN | Hybrid | Jan 06 |
-| **[First Solar](http://www.firstsolar.com)** | **[Product & Technology Intern (Spring 2025)](https://jobright.ai/jobs/info/677c51bc07c4a1bea5b970bc?utm_campaign=1047&utm_source=git)** | Perrysburg, OH | On Site | Jan 06 |
-| ↳ | **[Product & Technology Intern (Fall 2025)](https://jobright.ai/jobs/info/677c51bc07c4a1bea5b970bb?utm_campaign=1047&utm_source=git)** | Perrysburg, OH | On Site | Jan 06 |
+| **[First Solar](http://www.firstsolar.com)** | **[Product & Technology Intern (Fall 2025)](https://jobright.ai/jobs/info/677c51bc07c4a1bea5b970bb?utm_campaign=1047&utm_source=git)** | Perrysburg, OH | On Site | Jan 06 |
+| ↳ | **[Product & Technology Intern (Spring 2025)](https://jobright.ai/jobs/info/677c51bc07c4a1bea5b970bc?utm_campaign=1047&utm_source=git)** | Perrysburg, OH | On Site | Jan 06 |
 | ↳ | **[Product & Technology Intern (Summer 2025)](https://jobright.ai/jobs/info/677c51bc07c4a1bea5b970a3?utm_campaign=1047&utm_source=git)** | Perrysburg, OH | On Site | Jan 06 |
-| **[Enveda](https://enveda.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/677c49ccff023826e2c6648f?utm_campaign=1047&utm_source=git)** | Boulder, CO | On Site | Jan 06 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Content Operations Intern](https://jobright.ai/jobs/info/677c3b07b41fbf232adfc364?utm_campaign=1047&utm_source=git)** | New York, NY, USA | On Site | Jan 06 |
 | **[W.B. Mason Company Inc.](http://wbmason.com)** | **[2025 Spring Semester & Summer IT Product Manager Internship](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c5c7?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Jan 06 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Associate Product Analyst ITG Intern](https://jobright.ai/jobs/info/677c408fb861c9d7d2c2108a?utm_campaign=1047&utm_source=git)** | Nashville, TN | On Site | Jan 06 |
@@ -83,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[ASTM International](http://www.astm.org)** | **[Intern, Product Management](https://jobright.ai/jobs/info/677beb47c559064c923eb4e1?utm_campaign=1047&utm_source=git)** | West Conshohocken, PA | Hybrid | Jan 06 |
 | **[ASICS America Corporation](https://www.asicsamerica.com)** | **[Summer Internship - Regional Product Creation Coordinator](https://jobright.ai/jobs/info/677bf28cb6bf6bb0472ed106?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Jan 06 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Loan Servicing Specialist](https://jobright.ai/jobs/info/677bd425125f8b2f99a00420?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | Hybrid | Jan 06 |
-| **[Aritzia](https://www.aritzia.com/)** | **[Product - Intern, Product (Apparel) Operations](https://jobright.ai/jobs/info/677b963291f172c8bb38604c?utm_campaign=1047&utm_source=git)** | Support Office (Vancouver) | On Site | Jan 06 |
-| **[Oceaneering](http://www.oceaneering.com/)** | **[Product Coordinator Intern](https://jobright.ai/jobs/info/677b63283c8b9da85f5d6e92?utm_campaign=1047&utm_source=git)** | Greater Houston | Hybrid | Jan 05 |
+| **[Aritzia](https://www.aritzia.com/)** | **[Product - Intern, Product (Apparel) Operations](https://jobright.ai/jobs/info/677b963291f172c8bb38603d?utm_campaign=1047&utm_source=git)** | Support Office (Vancouver) | On Site | Jan 06 |
+| **[Oceaneering](http://www.oceaneering.com/)** | **[Product Coordinator Intern](https://jobright.ai/jobs/info/677c8c47875de4ade07113de?utm_campaign=1047&utm_source=git)** | Houston, TX | Hybrid | Jan 05 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Summer Internship -Category Management/Brands & Pricing](https://jobright.ai/jobs/info/677b57172669866d03e62e33?utm_campaign=1047&utm_source=git)** | Hickory, NC | On Site | Jan 05 |
 | **[Merchants Distributors, LLC](https://www.mdi.com)** | **[Summer Internship -Category Management/Brands & Pricing](https://jobright.ai/jobs/info/677b40005f8d853fc66f195d?utm_campaign=1047&utm_source=git)** | Hickory, NC | On Site | Jan 05 |
 | **[AM General LLC](http://www.amgeneral.com)** | **[Product Development Process Intern](https://jobright.ai/jobs/info/677c7324e9851110c91407c7?utm_campaign=1047&utm_source=git)** | Auburn Hills, MI | On Site | Jan 05 |
