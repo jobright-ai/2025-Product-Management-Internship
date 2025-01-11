@@ -57,11 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PTC](http://www.ptc.com)** | **[ServiceMax Product Management Intern](https://jobright.ai/jobs/info/67819b5aad5faa21e5bda74d?utm_campaign=1047&utm_source=git)** | Pleasanton, California | On Site | Jan 10 |
+| ↳ | **[ServiceMax Product Management Intern](https://jobright.ai/jobs/info/67819bef6982f190969f47dd?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Jan 10 |
+| **[ITHAKA](http://www.ithaka.org)** | **[Intern, S+R (Strategy)](https://jobright.ai/jobs/info/6781a6ee1e1cf31a3b9f45c0?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 10 |
+| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Digital Specification Technology Intern](https://jobright.ai/jobs/info/6781a3b1b5729a0f698a6a9a?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Jan 10 |
+| **[Zebra Technologies](https://www.zebra.com)** | **[2025 Summer Internship (US) - ADC Product Management](https://jobright.ai/jobs/info/678192635a1fd7f04f5b67ee?utm_campaign=1047&utm_source=git)** | Holtsville, NY | Hybrid | Jan 10 |
+| **[Generac](https://www.generac.com/)** | **[Business Analyst Intern - Product Management](https://jobright.ai/jobs/info/678184a180cda9345ca0bc89?utm_campaign=1047&utm_source=git)** | Pewaukee, WI | On Site | Jan 10 |
+| **[CRH](http://crh.com)** | **[Product Analyst Intern - Atlanta, GA](https://jobright.ai/jobs/info/67818a609b79d863d99ce012?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jan 10 |
+| **[Amazon](https://amazon.com)** | **[2025 MBA/Master's Level Opportunity - Sr. Product Manager Technical (PMT) Intern (United States)](https://jobright.ai/jobs/info/675dce19c5e5b34fdb579543?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 10 |
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Product Innovation Intern, NA](https://jobright.ai/jobs/info/6733ef014bfd61c2655a0388?utm_campaign=1047&utm_source=git)** | Denver, CO | On Site | Jan 10 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[Product Intern](https://jobright.ai/jobs/info/67503eca0b71cf555fa3bfaa?utm_campaign=1047&utm_source=git)** | Colmar, PA | Hybrid | Jan 10 |
 | **[Foot Locker](http://www.footlocker-inc.com)** | **[Intern - Analyst, Tech Operations Strategy](https://jobright.ai/jobs/info/6780e597c1e0d0cca2126773?utm_campaign=1047&utm_source=git)** | Irving, TX | Hybrid | Jan 09 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Product Development and Delivery Subscription Services Intern](https://jobright.ai/jobs/info/67808bd274c6b18867f51c89?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jan 09 |
 | ↳ | **[Summer 2025 Supply Chain Analyst Intern](https://jobright.ai/jobs/info/678088c8ec2902c565d1098b?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Jan 09 |
+| **[Aldevron](http://www.aldevron.com/)** | **[MBA Product Manager Intern](https://jobright.ai/jobs/info/6764a68f7b2b1922f20658a5?utm_campaign=1047&utm_source=git)** | Fargo, ND | Remote | Jan 09 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2025 I.T. Product Management paid intern (summer and fall hires)](https://jobright.ai/jobs/info/677c2210c0b1338c342fd5ec?utm_campaign=1047&utm_source=git)** | Riverton, UT | Hybrid | Jan 09 |
 | **[Zoetis](https://www.zoetis.com)** | **[ERP Finance Product Intern](https://jobright.ai/jobs/info/67805b24bac4c7cb6e147abb?utm_campaign=1047&utm_source=git)** | Parsippany | On Site | Jan 09 |
 | ↳ | **[ERP Finance Product Intern](https://jobright.ai/jobs/info/67805b24bac4c7cb6e147abc?utm_campaign=1047&utm_source=git)** | Parsippany | On Site | Jan 09 |
@@ -87,8 +96,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Strategy Intern](https://jobright.ai/jobs/info/677ee6b4599e4c9d299ee9a1?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Jan 08 |
 | **[CRH](http://crh.com)** | **[Product Management Intern - Atlanta, GA](https://jobright.ai/jobs/info/677eef6bb5501668266f8910?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jan 08 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Product Management Intern (Summer 2025) - Hubbell Site Flexible](https://jobright.ai/jobs/info/677ee6b4599e4c9d299ee95f?utm_campaign=1047&utm_source=git)** | St Louis, MO | Hybrid | Jan 08 |
-| **[S&P Global](https://www.spglobal.com)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/677eb554cbc64bb47e600082?utm_campaign=1047&utm_source=git)** | US - NC - RALEIGH 421 FAYETTEVILLE STREET | On Site | Jan 08 |
-| ↳ | **[Summer Intern, Commercial Product Strategy](https://jobright.ai/jobs/info/677eb554cbc64bb47e600084?utm_campaign=1047&utm_source=git)** | US - NY NYC - 55 WATER ST 40 HRS | On Site | Jan 08 |
+| **[S&P Global](https://www.spglobal.com)** | **[Summer Intern, Commercial Product Strategy](https://jobright.ai/jobs/info/677eb554cbc64bb47e60003d?utm_campaign=1047&utm_source=git)** | US - NY NYC - 55 WATER ST 40 HRS | On Site | Jan 08 |
+| ↳ | **[Product Strategy Intern](https://jobright.ai/jobs/info/677eb554cbc64bb47e600082?utm_campaign=1047&utm_source=git)** | US - NC - RALEIGH 421 FAYETTEVILLE STREET | On Site | Jan 08 |
 | ↳ | **[Data Analysis Product Management Intern (Early Careers)](https://jobright.ai/jobs/info/677eb554cbc64bb47e600085?utm_campaign=1047&utm_source=git)** | Michigan, US | On Site | Jan 08 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Intern Summer 2025-Program/Product Development](https://jobright.ai/jobs/info/677eb22223f8c9ffffba60ed?utm_campaign=1047&utm_source=git)** | Tower 500 500 Renaissance Ctr, Detroit, MI, 48243, US | On Site | Jan 08 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2025](https://jobright.ai/jobs/info/6716f5075ef2d971e037b166?utm_campaign=1047&utm_source=git)** | Nashua, NH | On Site | Jan 08 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[W.B. Mason Company Inc.](http://wbmason.com)** | **[2025 Spring Semester & Summer IT Product Manager Internship](https://jobright.ai/jobs/info/677c41ec0684a60fd7e0c5c7?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Jan 06 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Associate Product Analyst ITG Intern](https://jobright.ai/jobs/info/677c408fb861c9d7d2c2108a?utm_campaign=1047&utm_source=git)** | Nashville, TN | On Site | Jan 06 |
 | **[Textron](http://textron.com)** | **[2025 Product Management Intern E-Z-GO](https://jobright.ai/jobs/info/677c3a73d76414159ac3c535?utm_campaign=1047&utm_source=git)** | Augusta, GA | On Site | Jan 06 |
-| **[First Solar](http://www.firstsolar.com)** | **[Product & Technology Intern (Fall 2025)](https://jobright.ai/jobs/info/677c295cdabc26681739d370?utm_campaign=1047&utm_source=git)** | 28101 Cedar Park Blvd, Perrysburg, OH, 43551, US | On Site | Jan 06 |
-| ↳ | **[Product & Technology Intern (Summer 2025)](https://jobright.ai/jobs/info/677c295cdabc26681739d32f?utm_campaign=1047&utm_source=git)** | 28101 Cedar Park Blvd, Perrysburg, OH, 43551, US | On Site | Jan 06 |
-| ↳ | **[Product & Technology Intern (Spring 2025)](https://jobright.ai/jobs/info/677c295cdabc26681739d338?utm_campaign=1047&utm_source=git)** | 28101 Cedar Park Blvd, Perrysburg, OH, 43551, US | On Site | Jan 06 |
-| **[Textron](http://textron.com)** | **[2025 Product Management Intern E-Z-GO](https://jobright.ai/jobs/info/677c06012fb331739625705e?utm_campaign=1047&utm_source=git)** | US-Georgia-Augusta | On Site | Jan 06 |
-| **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2025 Product Management Intern E-Z-GO](https://jobright.ai/jobs/info/677c1af82a83b28d80238957?utm_campaign=1047&utm_source=git)** | Augusta, GA | On Site | Jan 06 |
-| **[ASICS America Corporation](https://www.asicsamerica.com)** | **[Summer Internship - Regional Product Creation Coordinator](https://jobright.ai/jobs/info/677bf28cb6bf6bb0472ed106?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Jan 06 |
-| **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Loan Servicing Specialist](https://jobright.ai/jobs/info/677bd425125f8b2f99a00420?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | Hybrid | Jan 06 |
-| **[Aritzia](https://www.aritzia.com/)** | **[Product - Intern, Product (Apparel) Operations](https://jobright.ai/jobs/info/677b963291f172c8bb38604c?utm_campaign=1047&utm_source=git)** | Support Office (Vancouver) | On Site | Jan 06 |
-| **[Oceaneering](http://www.oceaneering.com/)** | **[Product Coordinator Intern](https://jobright.ai/jobs/info/677c8c47875de4ade07113de?utm_campaign=1047&utm_source=git)** | Houston, TX | Hybrid | Jan 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
