@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Opendorse](http://opendorse.com)** | **[Product Intern](https://jobright.ai/jobs/info/6782efae5757295c596e9751?utm_campaign=1047&utm_source=git)** | Lincoln, NE | On Site | Jan 11 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern](https://jobright.ai/jobs/info/678278aff200e02d9fab03e6?utm_campaign=1047&utm_source=git)** | O'Fallon, MO | On Site | Jan 11 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Product Managment Intern](https://jobright.ai/jobs/info/6765e51bd12bbf6cfb0f342d?utm_campaign=1047&utm_source=git)** | Marlborough, MA | On Site | Jan 11 |
 | **[ASML](https://www.asml.com)** | **[Internship - Product Management](https://jobright.ai/jobs/info/678250a2b8f801cd810e6166?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Jan 11 |
@@ -100,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[MBA New Product Development & Marketing Intern, Joico – Summer 2025](https://jobright.ai/jobs/info/677f01a63207e250d68c4c15?utm_campaign=1047&utm_source=git)** | Culver City, CA | Hybrid | Jan 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (TikTok Shop -Seller Onboarding & Governance) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/677f02179fcf69ed6bd060c7?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 08 |
 | **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern (Summer 2025)](https://jobright.ai/jobs/info/677ef9d4e0336989ef57de62?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | Hybrid | Jan 08 |
-| **[S&P Global](https://www.spglobal.com)** | **[Summer Intern, Commercial Product Strategy](https://jobright.ai/jobs/info/677ee6b4599e4c9d299ee979?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 08 |
-| ↳ | **[Data Analysis Product Management Intern (Early Careers)](https://jobright.ai/jobs/info/677ee6b4599e4c9d299ee97d?utm_campaign=1047&utm_source=git)** | Southfield, MI | On Site | Jan 08 |
+| **[S&P Global](https://www.spglobal.com)** | **[Data Analysis Product Management Intern (Early Careers)](https://jobright.ai/jobs/info/677ee6b4599e4c9d299ee97d?utm_campaign=1047&utm_source=git)** | Southfield, MI | On Site | Jan 08 |
+| ↳ | **[Summer Intern, Commercial Product Strategy](https://jobright.ai/jobs/info/677ee6b4599e4c9d299ee979?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 08 |
 | ↳ | **[Product Strategy Intern](https://jobright.ai/jobs/info/677ee6b4599e4c9d299ee9a1?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Jan 08 |
 | **[CRH](http://crh.com)** | **[Product Management Intern - Atlanta, GA](https://jobright.ai/jobs/info/677eef6bb5501668266f8910?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jan 08 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Product Management Intern (Summer 2025) - Hubbell Site Flexible](https://jobright.ai/jobs/info/677ee6b4599e4c9d299ee95f?utm_campaign=1047&utm_source=git)** | St Louis, MO | Hybrid | Jan 08 |
@@ -138,6 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Chewy](https://www.chewy.com)** | **[Sr Product Manager Intern](https://jobright.ai/jobs/info/677da8d46c9ade2add6249e0?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Jan 07 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - IT Data Product Analytics](https://jobright.ai/jobs/info/677d98c2312dce1265694e00?utm_campaign=1047&utm_source=git)** | CT Waterbury 145 Bank St | On Site | Jan 07 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Product Strategy Co-op](https://jobright.ai/jobs/info/677d95501a28a17060c126bc?utm_campaign=1047&utm_source=git)** | PA - Philadelphia, 1701 John F Kennedy Blvd | On Site | Jan 07 |
+| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Sr Product Manager - Technical, External Services MBA [Internship]](https://jobright.ai/jobs/info/675d3034091f78254c736779?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Jan 07 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Hardware Product Management Intern](https://jobright.ai/jobs/info/677d8789589bbac0c0356798?utm_campaign=1047&utm_source=git)** | US - OH, Dayton | On Site | Jan 07 |
 | **[Chewy](https://www.chewy.com)** | **[Sr Product Manager Intern](https://jobright.ai/jobs/info/677d713fc2ea714cf079fe5e?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Jan 07 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Emerging Products & Technology Specialist Co-op](https://jobright.ai/jobs/info/677d5051006c37d357c10682?utm_campaign=1047&utm_source=git)** | PA - Philadelphia, 1800 Arch St | On Site | Jan 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Elanco](https://www.elanco.com)** | **[Capstone Internship: IT Application Administrator/Product Owner (Indiana University Student Program)](https://jobright.ai/jobs/info/676092c9f0a4b6b90b0f4249?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 07 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Product Management Student Experience](https://jobright.ai/jobs/info/66d73591a3618aa441399c15?utm_campaign=1047&utm_source=git)** | West Fargo, ND | On Site | Jan 07 |
 | **[Sabre Corporation](https://www.sabre.com)** | **[Product Manager Travel AI - 2025 Summer Intern](https://jobright.ai/jobs/info/674f5f4e5b59d88033dc51eb?utm_campaign=1047&utm_source=git)** | Southlake, TX | Hybrid | Jan 07 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (TikTok Shop - Seller Platform) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/677df8f33a2d4cff8fa3da9b?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 07 |
-| **[EBSCO Information Services](http://www.ebsco.de)** | **[Product Management Intern, EBSCOlearning - Summer 2025](https://jobright.ai/jobs/info/67575990031ba1a6f0c609bf?utm_campaign=1047&utm_source=git)** | Ipswich, MA | Remote | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
