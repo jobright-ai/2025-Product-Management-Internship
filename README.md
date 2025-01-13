@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Technical Product Manager, Content Supply Chain](https://jobright.ai/jobs/info/6785671d8ba9a08fb0c43c1c?utm_campaign=1047&utm_source=git)** | Lehi, UT | On Site | Jan 13 |
+| **[Health Care Service Corporation](https://www.hcsc.com)** | **[University Relations – Product Analyst Intern](https://jobright.ai/jobs/info/6785500472e9dd912e63d1c6?utm_campaign=1047&utm_source=git)** | TX - Richardson | On Site | Jan 13 |
 | **[Invesco US](http://www.invesco.com/us)** | **[ETF Product Intern](https://jobright.ai/jobs/info/673b78f2b34d5b54b0a07984?utm_campaign=1047&utm_source=git)** | Downers Grove, IL | Hybrid | Jan 13 |
+| **[S&P Global](https://www.spglobal.com)** | **[North American Content Upstream Intern (Early Careers)](https://jobright.ai/jobs/info/6765ee92ca980ba648469aa9?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Jan 13 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/676492a07357e7064d3ce113?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Jan 12 |
 | **[EBSCO Information Services](http://www.ebsco.de)** | **[Product Management Intern, Summer 2025](https://jobright.ai/jobs/info/675b6fea9d1223773274f062?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 12 |
 | **[Opendorse](http://opendorse.com)** | **[Product Intern](https://jobright.ai/jobs/info/6782efae5757295c596e9751?utm_campaign=1047&utm_source=git)** | Lincoln, NE | On Site | Jan 11 |
@@ -110,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[CRH](http://crh.com)** | **[Product Management Intern - Atlanta, GA](https://jobright.ai/jobs/info/677eef6bb5501668266f8910?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jan 08 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Product Management Intern (Summer 2025) - Hubbell Site Flexible](https://jobright.ai/jobs/info/677ee6b4599e4c9d299ee95f?utm_campaign=1047&utm_source=git)** | St Louis, MO | Hybrid | Jan 08 |
 | **[S&P Global](https://www.spglobal.com)** | **[Data Analysis Product Management Intern (Early Careers)](https://jobright.ai/jobs/info/677eb554cbc64bb47e600037?utm_campaign=1047&utm_source=git)** | Michigan, US | On Site | Jan 08 |
-| ↳ | **[Summer Intern, Commercial Product Strategy](https://jobright.ai/jobs/info/677eb554cbc64bb47e60003d?utm_campaign=1047&utm_source=git)** | US - NY NYC - 55 WATER ST 40 HRS | On Site | Jan 08 |
-| ↳ | **[Product Strategy Intern](https://jobright.ai/jobs/info/677eb554cbc64bb47e600082?utm_campaign=1047&utm_source=git)** | US - NC - RALEIGH 421 FAYETTEVILLE STREET | On Site | Jan 08 |
+| ↳ | **[Product Strategy Intern](https://jobright.ai/jobs/info/677eb554cbc64bb47e600053?utm_campaign=1047&utm_source=git)** | US - NC - RALEIGH 421 FAYETTEVILLE STREET | On Site | Jan 08 |
+| ↳ | **[Summer Intern, Commercial Product Strategy](https://jobright.ai/jobs/info/677eb554cbc64bb47e600084?utm_campaign=1047&utm_source=git)** | US - NY NYC - 55 WATER ST 40 HRS | On Site | Jan 08 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Intern Summer 2025-Program/Product Development](https://jobright.ai/jobs/info/677eb22223f8c9ffffba60ed?utm_campaign=1047&utm_source=git)** | Tower 500 500 Renaissance Ctr, Detroit, MI, 48243, US | On Site | Jan 08 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2025](https://jobright.ai/jobs/info/6716f5075ef2d971e037b166?utm_campaign=1047&utm_source=git)** | Nashua, NH | On Site | Jan 08 |
 | **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern (Summer 2025)](https://jobright.ai/jobs/info/677ea5372bf383fa0c110b28?utm_campaign=1047&utm_source=git)** | Sunnyvale, California | Hybrid | Jan 08 |
@@ -131,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[United Educators](https://www.ue.org/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6781ebbb8395d3826b2a98ab?utm_campaign=1047&utm_source=git)** | Bethesda, MD | On Site | Jan 07 |
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Summer 2025 Product Management MBA Intern](https://jobright.ai/jobs/info/677df54e1179565f54d49538?utm_campaign=1047&utm_source=git)** | Fairhaven, MA | On Site | Jan 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ads Platform)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/67848896579d3502903aacc9?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 07 |
-| **[Arthrex](https://www.arthrex.com/)** | **[Product Management Intern - Foot & Ankle and Trauma](https://jobright.ai/jobs/info/677deb825d7a23a24c7a5912?utm_campaign=1047&utm_source=git)** | Naples, FL | On Site | Jan 07 |
 | **[Waters Corporation](http://www.waters.com)** | **[Intern, Product Manager](https://jobright.ai/jobs/info/676b6d267e0cc0461519d3ab?utm_campaign=1047&utm_source=git)** | New Castle, DE | On Site | Jan 07 |
 | **[Centric Brands](https://centricbrands.com)** | **[Production/Product Development Intern - Summer 2025 Internship Program](https://jobright.ai/jobs/info/67453ba35b0b43d01339e4e4?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jan 07 |
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Summer 2025 Product Management MBA Intern](https://jobright.ai/jobs/info/677dccea183853d0b2e450f1?utm_campaign=1047&utm_source=git)** | P. O. Box 965, Fairhaven, MA, 02719, US | On Site | Jan 07 |
@@ -141,12 +143,10 @@ For a complete list, click the following sortable link below:
 | **[Trimble Inc.](http://www.trimble.com)** | **[Hardware Product Management Intern](https://jobright.ai/jobs/info/677daef5be8bc1976746b356?utm_campaign=1047&utm_source=git)** | Dayton, OH | On Site | Jan 07 |
 | **[Chewy](https://www.chewy.com)** | **[Sr Product Manager Intern](https://jobright.ai/jobs/info/677da8d46c9ade2add6249e0?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Jan 07 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - IT Data Product Analytics](https://jobright.ai/jobs/info/677d98c2312dce1265694e00?utm_campaign=1047&utm_source=git)** | CT Waterbury 145 Bank St | On Site | Jan 07 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Product Strategy Co-op](https://jobright.ai/jobs/info/677d95501a28a17060c126bc?utm_campaign=1047&utm_source=git)** | PA - Philadelphia, 1701 John F Kennedy Blvd | On Site | Jan 07 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Sr Product Manager - Technical, External Services MBA [Internship]](https://jobright.ai/jobs/info/675d3034091f78254c736779?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Jan 07 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Hardware Product Management Intern](https://jobright.ai/jobs/info/677d8789589bbac0c0356798?utm_campaign=1047&utm_source=git)** | US - OH, Dayton | On Site | Jan 07 |
 | **[Chewy](https://www.chewy.com)** | **[Sr Product Manager Intern](https://jobright.ai/jobs/info/677d713fc2ea714cf079fe5e?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Jan 07 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Emerging Products & Technology Specialist Co-op](https://jobright.ai/jobs/info/677d5051006c37d357c10682?utm_campaign=1047&utm_source=git)** | PA - Philadelphia, 1800 Arch St | On Site | Jan 07 |
-| ↳ | **[Comcast Associate Product Manager Co-op](https://jobright.ai/jobs/info/677d5051006c37d357c1069f?utm_campaign=1047&utm_source=git)** | PA - Philadelphia, 1800 Arch St | On Site | Jan 07 |
 | **[Werfen](http://www.werfen.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6760d744d33311e74217bcc9?utm_campaign=1047&utm_source=git)** | Bedford, MA | On Site | Jan 07 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2025 Intern / Product Planning](https://jobright.ai/jobs/info/6739a4a7be7dd8a5d283da01?utm_campaign=1047&utm_source=git)** | Kirkland, WA | On Site | Jan 07 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: WiFi Product Team](https://jobright.ai/jobs/info/675102689ced628e2777ba4d?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | Hybrid | Jan 07 |
