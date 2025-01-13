@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[EBSCO Information Services](http://www.ebsco.de)** | **[Product Management Intern, Summer 2025](https://jobright.ai/jobs/info/675b6fea9d1223773274f062?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 12 |
-| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Product Management Summer (STAR) Intern](https://jobright.ai/jobs/info/67833af76f2c04321faf88dc?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jan 11 |
 | **[Opendorse](http://opendorse.com)** | **[Product Intern](https://jobright.ai/jobs/info/6782efae5757295c596e9751?utm_campaign=1047&utm_source=git)** | Lincoln, NE | On Site | Jan 11 |
 | **[ITHAKA](http://www.ithaka.org)** | **[Intern, Ithaka S+R (Strategy)](https://jobright.ai/jobs/info/6781a6ee1e1cf31a3b9f45c0?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 11 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Product Managment Intern](https://jobright.ai/jobs/info/6765e51bd12bbf6cfb0f342d?utm_campaign=1047&utm_source=git)** | Marlborough, MA | On Site | Jan 11 |
@@ -98,6 +97,8 @@ For a complete list, click the following sortable link below:
 | **[Visa](https://www.visa.com)** | **[Visa Direct Product Management, Intern - Summer 2025](https://jobright.ai/jobs/info/677f516f61732180b430ed10?utm_campaign=1047&utm_source=git)** | Mentor, OH | Hybrid | Jan 08 |
 | **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[Product Development PMO Intern](https://jobright.ai/jobs/info/677f41f896c07c9b4d6d4842?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | On Site | Jan 08 |
 | **[Intuit](https://www.intuit.com)** | **[Product Manager Intern (MBA)](https://jobright.ai/jobs/info/6781d7627f9c33ef86932ba0?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Jan 08 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (TikTok Shop -Seller Onboarding & Governance) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/67847ab430d33dd0c2381070?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jan 08 |
+| **[TD SYNNEX US](http://www.synnexcorp.com/)** | **[Summer 2025 Internship Program / Product Management](https://jobright.ai/jobs/info/675295491dfb591f0800e3a6?utm_campaign=1047&utm_source=git)** | Greenville, SC | On Site | Jan 08 |
 | **[Visa](https://www.visa.com)** | **[Visa Direct Product Management, Intern - Summer 2025](https://jobright.ai/jobs/info/677f1d5b4e66aad31764f30c?utm_campaign=1047&utm_source=git)** | Mentor, OH 44060, USA | Hybrid | Jan 08 |
 | **[Henkel](http://www.henkel.com)** | **[MBA New Product Development & Marketing Intern, Joico – Summer 2025](https://jobright.ai/jobs/info/677f01a63207e250d68c4c15?utm_campaign=1047&utm_source=git)** | Culver City, CA | Hybrid | Jan 08 |
 | **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern (Summer 2025)](https://jobright.ai/jobs/info/677ef9d4e0336989ef57de62?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | Hybrid | Jan 08 |
@@ -108,11 +109,10 @@ For a complete list, click the following sortable link below:
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Product Management Intern (Summer 2025) - Hubbell Site Flexible](https://jobright.ai/jobs/info/677ee6b4599e4c9d299ee95f?utm_campaign=1047&utm_source=git)** | St Louis, MO | Hybrid | Jan 08 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/677eb554cbc64bb47e600053?utm_campaign=1047&utm_source=git)** | US - NC - RALEIGH 421 FAYETTEVILLE STREET | On Site | Jan 08 |
 | ↳ | **[Summer Intern, Commercial Product Strategy](https://jobright.ai/jobs/info/677eb554cbc64bb47e60003d?utm_campaign=1047&utm_source=git)** | US - NY NYC - 55 WATER ST 40 HRS | On Site | Jan 08 |
-| ↳ | **[Data Analysis Product Management Intern (Early Careers)](https://jobright.ai/jobs/info/677eb554cbc64bb47e600085?utm_campaign=1047&utm_source=git)** | Michigan, US | On Site | Jan 08 |
+| ↳ | **[Data Analysis Product Management Intern (Early Careers)](https://jobright.ai/jobs/info/677eb554cbc64bb47e600037?utm_campaign=1047&utm_source=git)** | Michigan, US | On Site | Jan 08 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Intern Summer 2025-Program/Product Development](https://jobright.ai/jobs/info/677eb22223f8c9ffffba60ed?utm_campaign=1047&utm_source=git)** | Tower 500 500 Renaissance Ctr, Detroit, MI, 48243, US | On Site | Jan 08 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2025](https://jobright.ai/jobs/info/6716f5075ef2d971e037b166?utm_campaign=1047&utm_source=git)** | Nashua, NH | On Site | Jan 08 |
 | **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern (Summer 2025)](https://jobright.ai/jobs/info/677ea5372bf383fa0c110b28?utm_campaign=1047&utm_source=git)** | Sunnyvale, California | Hybrid | Jan 08 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Product Strategy Co-op](https://jobright.ai/jobs/info/677e931e4d0537f22b6b0ef9?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Jan 08 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern](https://jobright.ai/jobs/info/677e84a33415e857bb7abff2?utm_campaign=1047&utm_source=git)** | O'Fallon, MO | On Site | Jan 08 |
 | **[Zoetis](https://www.zoetis.com)** | **[Product Analyst Intern GMS ERP](https://jobright.ai/jobs/info/677e7dc93482a642194b23c8?utm_campaign=1047&utm_source=git)** | Parsippany | On Site | Jan 08 |
 | ↳ | **[Product Analyst Intern GMS ERP](https://jobright.ai/jobs/info/677e7dc93482a642194b23cc?utm_campaign=1047&utm_source=git)** | Parsippany | On Site | Jan 08 |
@@ -120,7 +120,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Parts Product Management Intern](https://jobright.ai/jobs/info/67620b89d03d46f04888f5dc?utm_campaign=1047&utm_source=git)** | Cranberry Township, PA | On Site | Jan 08 |
 | **[OneAmerica Financial](http://oneamerica.com)** | **[Product and Strategy Intern Student](https://jobright.ai/jobs/info/677d800a3969246896e97304?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | On Site | Jan 08 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Emerging Products & Technology Specialist Co-op](https://jobright.ai/jobs/info/677e60f9835e91a76f1014ef?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Jan 08 |
-| ↳ | **[Comcast Associate Product Manager Co-op](https://jobright.ai/jobs/info/677e42a21affeed5bc7bc0bc?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Jan 08 |
 | **[WEX](http://www.wexinc.com)** | **[Intern - Growth Product Manager](https://jobright.ai/jobs/info/67528373b6f03addf82d1e85?utm_campaign=1047&utm_source=git)** | Maine, United States | On Site | Jan 07 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Technical Product Manager SSD](https://jobright.ai/jobs/info/67821869df4ab20619144f45?utm_campaign=1047&utm_source=git)** | Boise, ID | On Site | Jan 07 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Product Engineer, Applications Engineering (Summer 2025)](https://jobright.ai/jobs/info/677e3fb64db8d488fe685567?utm_campaign=1047&utm_source=git)** | Fremont, CA | On Site | Jan 07 |
@@ -129,6 +128,7 @@ For a complete list, click the following sortable link below:
 | **[Principal Financial Group](https://principaletfs.com/)** | **[Product Management Internship (Summer 2025)](https://jobright.ai/jobs/info/677e012af8693c53db6c3589?utm_campaign=1047&utm_source=git)** | Des Moines, IA | Hybrid | Jan 07 |
 | **[United Educators](https://www.ue.org/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6781ebbb8395d3826b2a98ab?utm_campaign=1047&utm_source=git)** | Bethesda, MD | On Site | Jan 07 |
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Summer 2025 Product Management MBA Intern](https://jobright.ai/jobs/info/677df54e1179565f54d49538?utm_campaign=1047&utm_source=git)** | Fairhaven, MA | On Site | Jan 07 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ads Platform)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/67848896579d3502903aacc9?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 07 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Product Management Intern - Foot & Ankle and Trauma](https://jobright.ai/jobs/info/677deb825d7a23a24c7a5912?utm_campaign=1047&utm_source=git)** | Naples, FL | On Site | Jan 07 |
 | **[Waters Corporation](http://www.waters.com)** | **[Intern, Product Manager](https://jobright.ai/jobs/info/676b6d267e0cc0461519d3ab?utm_campaign=1047&utm_source=git)** | New Castle, DE | On Site | Jan 07 |
 | **[Centric Brands](https://centricbrands.com)** | **[Production/Product Development Intern - Summer 2025 Internship Program](https://jobright.ai/jobs/info/67453ba35b0b43d01339e4e4?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jan 07 |
