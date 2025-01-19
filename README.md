@@ -114,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Customer Engagement (Product Development) Intern - Summer 2025](https://jobright.ai/jobs/info/6788496bda9f69842e982c92?utm_campaign=1047&utm_source=git)** | Plantation, FL | Hybrid | Jan 15 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Martech Product Management Intern](https://jobright.ai/jobs/info/6788496bda9f69842e982c6a?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jan 15 |
 | ↳ | **[eB2B Platform Product Management Graduate Intern](https://jobright.ai/jobs/info/6788496bda9f69842e982c7a?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jan 15 |
-| ↳ | **[Supply Chain Business Analyst Intern](https://jobright.ai/jobs/info/6788496bda9f69842e982ca5?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jan 15 |
 | ↳ | **[Summer Product Development Intern](https://jobright.ai/jobs/info/6788496bda9f69842e982c74?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jan 15 |
 | ↳ | **[Summer Product Development Intern](https://jobright.ai/jobs/info/6788496bda9f69842e982c62?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jan 15 |
 | **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2025 Summer Intern, Product Management](https://jobright.ai/jobs/info/67885ab635eda3721cc904ce?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Jan 15 |
@@ -123,9 +122,9 @@ For a complete list, click the following sortable link below:
 | **[Publicis Media](http://www.publicisgroupe.com)** | **[Intern, Analytics Modeling & Product Development](https://jobright.ai/jobs/info/67883be5482c00be6557b317?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 15 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Summer Product Development Intern](https://jobright.ai/jobs/info/6788249d21baa30b1ac919c7?utm_campaign=1047&utm_source=git)** | US - GA - Atlanta | On Site | Jan 15 |
 | ↳ | **[eB2B Platform Product Management Graduate Intern](https://jobright.ai/jobs/info/6788249d21baa30b1ac919e5?utm_campaign=1047&utm_source=git)** | US - GA - Atlanta | On Site | Jan 15 |
-| ↳ | **[Summer Product Development Intern](https://jobright.ai/jobs/info/6788249d21baa30b1ac919ad?utm_campaign=1047&utm_source=git)** | US - GA - Atlanta | On Site | Jan 15 |
 | ↳ | **[Supply Chain Business Analyst Intern](https://jobright.ai/jobs/info/6788249d21baa30b1ac919f1?utm_campaign=1047&utm_source=git)** | US - GA - Atlanta | On Site | Jan 15 |
 | ↳ | **[eB2B Equipment Service & Support Product Management Undergraduate Intern](https://jobright.ai/jobs/info/6788249d21baa30b1ac919de?utm_campaign=1047&utm_source=git)** | US - GA - Atlanta | On Site | Jan 15 |
+| ↳ | **[Summer Product Development Intern](https://jobright.ai/jobs/info/6788249d21baa30b1ac919ad?utm_campaign=1047&utm_source=git)** | US - GA - Atlanta | On Site | Jan 15 |
 | ↳ | **[Martech Product Management Intern](https://jobright.ai/jobs/info/6788249d21baa30b1ac919b5?utm_campaign=1047&utm_source=git)** | US - GA - Atlanta | On Site | Jan 15 |
 | **[Nestlé Health Science](http://www.nestlehealthscience.com)** | **[Nestlé Health Science -Product Development Intern (CTAG)](https://jobright.ai/jobs/info/678844278d81da83dd29bab4?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ | On Site | Jan 15 |
 | **[Verint](https://www.verint.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/678816d9b19af4abbda2a30a?utm_campaign=1047&utm_source=git)** | Remote, United States | Remote | Jan 15 |
@@ -143,7 +142,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Product Management Summer Intern](https://jobright.ai/jobs/info/6788530d8568ba75ad2aa5db?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Jan 15 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[Product Intern](https://jobright.ai/jobs/info/67879f42228c4157390820ea?utm_campaign=1047&utm_source=git)** | Colmar, PA | Hybrid | Jan 15 |
 | ↳ | **[Product Intern - EMS](https://jobright.ai/jobs/info/67879f42228c4157390820f0?utm_campaign=1047&utm_source=git)** | Colmar, PA | Hybrid | Jan 15 |
-| **[Apex Fintech Solutions](https://apexfintechsolutions.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6787aa2f547cc419145a950e?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Jan 15 |
+| **[Apex Fintech Solutions](https://apexfintechsolutions.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6787aa2f547cc419145a950c?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Jan 15 |
 | **[ACROBiosystems](https://www.acrobiosystems.com/)** | **[Product Specialist Intern](https://jobright.ai/jobs/info/67879b6c9fed141999f27887?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Jan 15 |
 | **[Intuitive](https://intusurg.com)** | **[Product Manager Multiport MBA Intern](https://jobright.ai/jobs/info/67876195c3d28146c3457159?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Jan 14 |
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[Product Internship (Long-Term)](https://jobright.ai/jobs/info/67876b11f680067e82cf6b09?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[University Relations – Product Analyst Intern](https://jobright.ai/jobs/info/678697df4a6f345d865df84b?utm_campaign=1047&utm_source=git)** | Richardson, TX | Hybrid | Jan 14 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Internship (Summer 2025)](https://jobright.ai/jobs/info/66d856dfc799138e083fe179?utm_campaign=1047&utm_source=git)** | Westerville, OH | On Site | Jan 14 |
 | **[Novanta Inc.](http://www.novanta.com)** | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/6711621417e98ce420055450?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Jan 14 |
+| **[David Yurman](http://www.davidyurman.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/672003cc171dfc782a1cb3f3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
