@@ -139,9 +139,9 @@ For a complete list, click the following sortable link below:
 | **[Publicis Media](http://www.publicisgroupe.com)** | **[Intern, Analytics Modeling & Product Development](https://jobright.ai/jobs/info/67883be5482c00be6557b317?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 15 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Summer Product Development Intern](https://jobright.ai/jobs/info/6788249d21baa30b1ac919c7?utm_campaign=1047&utm_source=git)** | US - GA - Atlanta | On Site | Jan 15 |
 | ↳ | **[eB2B Platform Product Management Graduate Intern](https://jobright.ai/jobs/info/6788249d21baa30b1ac919e5?utm_campaign=1047&utm_source=git)** | US - GA - Atlanta | On Site | Jan 15 |
+| ↳ | **[Supply Chain Business Analyst Intern](https://jobright.ai/jobs/info/6788249d21baa30b1ac919f1?utm_campaign=1047&utm_source=git)** | US - GA - Atlanta | On Site | Jan 15 |
 | ↳ | **[eB2B Equipment Service & Support Product Management Undergraduate Intern](https://jobright.ai/jobs/info/6788249d21baa30b1ac919de?utm_campaign=1047&utm_source=git)** | US - GA - Atlanta | On Site | Jan 15 |
 | ↳ | **[Summer Product Development Intern](https://jobright.ai/jobs/info/6788249d21baa30b1ac919ad?utm_campaign=1047&utm_source=git)** | US - GA - Atlanta | On Site | Jan 15 |
-| ↳ | **[Supply Chain Business Analyst Intern](https://jobright.ai/jobs/info/6788249d21baa30b1ac919f1?utm_campaign=1047&utm_source=git)** | US - GA - Atlanta | On Site | Jan 15 |
 | ↳ | **[Martech Product Management Intern](https://jobright.ai/jobs/info/6788249d21baa30b1ac919b5?utm_campaign=1047&utm_source=git)** | US - GA - Atlanta | On Site | Jan 15 |
 | **[Nestlé Health Science](http://www.nestlehealthscience.com)** | **[Nestlé Health Science -Product Development Intern (CTAG)](https://jobright.ai/jobs/info/678844278d81da83dd29bab4?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ | On Site | Jan 15 |
 | **[Verint](https://www.verint.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/678816d9b19af4abbda2a30a?utm_campaign=1047&utm_source=git)** | Remote, United States | Remote | Jan 15 |
