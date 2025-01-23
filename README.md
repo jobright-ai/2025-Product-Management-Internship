@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Columbia Sportswear Company](http://www.columbia.com)** | **[Digital Engagement Product Intern](https://jobright.ai/jobs/info/679198140ccbbbd417f02729?utm_campaign=1047&utm_source=git)** | Portland, Oregon, United States of America | On Site | Jan 22 |
 | **[Spotify](http://www.spotify.com)** | **[2025 Summer Internship, Product & Technology (New York City)](https://jobright.ai/jobs/info/6791701a3942a4ef61f84f68?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 22 |
-| ↳ | **[2025 Summer Internship, Business Strategy and Product Management - MBA (New York City)](https://jobright.ai/jobs/info/67915f8634942359335da301?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 22 |
+| ↳ | **[2025 Summer Internship, Business Strategy and Product Management - MBA (New York City)](https://jobright.ai/jobs/info/67915dc2f6e55483947031c5?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Grid Automation Product Management Intern - Summer-Fall 2025](https://jobright.ai/jobs/info/6791524988f6677a294d9482?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 22 |
 | **[Southwire Company](http://southwire.com)** | **[Part Time Data Clerk](https://jobright.ai/jobs/info/679110f9869a53ec97afd8e2?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 22 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/678d1844be06727a7699ed18?utm_campaign=1047&utm_source=git)** | Andover, MA | On Site | Jan 22 |
@@ -138,6 +139,4 @@ For a complete list, click the following sortable link below:
 | **[Okta](http://www.okta.com)** | **[Product Management Intern, MBA (Summer 2025)](https://jobright.ai/jobs/info/6764abcf6c6c3418b3059905?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jan 16 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Digital Payments Product Intern](https://jobright.ai/jobs/info/6789429604f15172ad477b3f?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Jan 16 |
 | **[Novanta Inc.](http://www.novanta.com)** | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/67115faa618c77b8b16db9cd?utm_campaign=1047&utm_source=git)** | Apex, NC | On Site | Jan 16 |
-| **[AAR](http://aarcorp.com)** | **[Product Line Rep Intern: Defense Distribution](https://jobright.ai/jobs/info/672952ca89cfa24b78ad2869?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | Jan 16 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Brand Innovation)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/6788ffb092013d24841985ef?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
