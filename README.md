@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Western Union](http://westernunion.com)** | **[Tech & Product Operational Excellence Intern](https://jobright.ai/jobs/info/6794594a931230728db7bb1b?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Jan 24 |
+| **[Marvin](http://www.marvin.com/)** | **[Intern](https://jobright.ai/jobs/info/67945b243369a334e3f6c380?utm_campaign=1047&utm_source=git)** | Eagan, MN | Hybrid | Jan 24 |
+| **[Ameriprise Financial Services, LLC](https://www.ameriprise.com/)** | **[Digital Product Owner Intern](https://jobright.ai/jobs/info/679436a3d59a8bff50f7d5cf?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 24 |
 | **[Ansys](http://www.ansys.com)** | **[Intern Product Management AI](https://jobright.ai/jobs/info/6794296eacc81f5baa6c4fca?utm_campaign=1047&utm_source=git)** | Waltham, MA | On Site | Jan 24 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Supply Chain Product Manager Intern](https://jobright.ai/jobs/info/679422e5b547a8d646cda806?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jan 24 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[ZEV Product Strategy Support Intern](https://jobright.ai/jobs/info/67941dc78e608a60f74f0b7c?utm_campaign=1047&utm_source=git)** | Portland, OR US | On Site | Jan 24 |
@@ -76,6 +79,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Summer Intern - Product Management (Structured Data)](https://jobright.ai/jobs/info/67933011cd4eb1c4c080c2d9?utm_campaign=1047&utm_source=git)** | Ames | On Site | Jan 23 |
 | **[Typeface](https://www.typeface.ai)** | **[ Intern-Product Manager](https://jobright.ai/jobs/info/67931c6d2bef6bae7ba3efc1?utm_campaign=1047&utm_source=git)** | Palo Alto, CA or Seattle, WA | Hybrid | Jan 23 |
 | **[Califia Farms](http://www.califiafarms.com/)** | **[Product Development Summer Intern](https://jobright.ai/jobs/info/67930f7a5d343494cd9409c1?utm_campaign=1047&utm_source=git)** | Bakersfield, CA | On Site | Jan 23 |
+| **[Databricks](https://www.databricks.com)** | **[MBA Intern - Commercialization Product Management](https://jobright.ai/jobs/info/679458bfff32dd79fcd37ba4?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jan 23 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Product Management Intern](https://jobright.ai/jobs/info/6792e228089a55b1d558b27b?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Jan 23 |
 | **[Sam's Club](http://www.samsclub.com)** | **[2025 Spring Sophomore Summit: Sam's Club Product Management Undergraduate Intern](https://jobright.ai/jobs/info/67930120bf68ba130ccf102a?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Jan 23 |
 | **[DRB](https://drb.com)** | **[Product Lifecycle Management Intern - Summer 2025](https://jobright.ai/jobs/info/6792df1b898288c416f64d95?utm_campaign=1047&utm_source=git)** | Akron, OH | On Site | Jan 23 |
@@ -91,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[Accuray](http://www.accuray.com)** | **[Product Data Analyst Internship](https://jobright.ai/jobs/info/679296f0709bac44e2b70fe9?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 23 |
 | **[Databricks](https://www.databricks.com)** | **[MBA Intern - Commercialization Product Management](https://jobright.ai/jobs/info/6792923a5d7d1177b0186575?utm_campaign=1047&utm_source=git)** | San Francisco, California | On Site | Jan 23 |
 | ↳ | **[MBA Intern - Product Operations](https://jobright.ai/jobs/info/67928037151c36a6a6347a0b?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jan 23 |
-| **[Accuray](http://www.accuray.com)** | **[Product Data Analyst Internship](https://jobright.ai/jobs/info/67927a75e039985921d9e226?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Jan 23 |
-| ↳ | **[Product Data Analyst Internship](https://jobright.ai/jobs/info/67927a75e039985921d9e13c?utm_campaign=1047&utm_source=git)** | Remote - US | Remote | Jan 23 |
+| **[Accuray](http://www.accuray.com)** | **[Product Data Analyst Internship](https://jobright.ai/jobs/info/67927a75e039985921d9e13c?utm_campaign=1047&utm_source=git)** | Remote - US | Remote | Jan 23 |
+| ↳ | **[Product Data Analyst Internship](https://jobright.ai/jobs/info/67927a75e039985921d9e226?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Jan 23 |
 | **[Dun & Bradstreet](http://www.dnb.com)** | **[2025 Summer Internship Program - Product](https://jobright.ai/jobs/info/67926f95301c6860efcb37fa?utm_campaign=1047&utm_source=git)** | Jacksonville - Florida - United States | On Site | Jan 23 |
 | **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship - Product Management Business Analyst](https://jobright.ai/jobs/info/67925ca01c2d7b040d0c942e?utm_campaign=1047&utm_source=git)** | Okemos, MI | Hybrid | Jan 23 |
 | **[Ever.Ag](https://www.ever.ag)** | **[Intern, Dairy On-Farm Solutions](https://jobright.ai/jobs/info/67923d79b1444cbdde538ffc?utm_campaign=1047&utm_source=git)** | United States (remote) | Remote | Jan 23 |
@@ -104,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[Columbia Sportswear Company](http://www.columbia.com)** | **[Digital Engagement Product Intern](https://jobright.ai/jobs/info/6791ddfe2b470a460e8d01ef?utm_campaign=1047&utm_source=git)** | Portland, OR | On Site | Jan 22 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Product Development Summer Internship 2025](https://jobright.ai/jobs/info/6791cef52ac8903337e01e60?utm_campaign=1047&utm_source=git)** | Egg Harbor, NJ | On Site | Jan 22 |
 | **[Columbia Sportswear Company](http://www.columbia.com)** | **[Digital Engagement Product Intern](https://jobright.ai/jobs/info/67919b458156ab389d78e35a?utm_campaign=1047&utm_source=git)** | Portland, Oregon, United States of America | On Site | Jan 22 |
-| **[Spotify](http://www.spotify.com)** | **[2025 Summer Internship, Business Strategy and Product Management - MBA (New York City)](https://jobright.ai/jobs/info/67915f8634942359335da301?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 22 |
-| ↳ | **[2025 Summer Internship, Product & Technology (New York City)](https://jobright.ai/jobs/info/67915dc2f6e55483947031c9?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 22 |
+| **[Spotify](http://www.spotify.com)** | **[2025 Summer Internship, Product & Technology (New York City)](https://jobright.ai/jobs/info/6791701a3942a4ef61f84f68?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 22 |
+| ↳ | **[2025 Summer Internship, Business Strategy and Product Management - MBA (New York City)](https://jobright.ai/jobs/info/67915dc2f6e55483947031c5?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Grid Automation Product Management Intern - Summer-Fall 2025](https://jobright.ai/jobs/info/6791524988f6677a294d9482?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 22 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/678d1844be06727a7699ed15?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Jan 22 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/678d1844be06727a7699ed18?utm_campaign=1047&utm_source=git)** | Andover, MA | On Site | Jan 22 |
