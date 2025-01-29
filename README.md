@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Autodesk](http://www.autodesk.com)** | **[Intern, Product Manager](https://jobright.ai/jobs/info/679987c38df2bae83aec6fe4?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Jan 28 |
+| **[A10 Networks, Inc](http://www.a10networks.com)** | **[Intern - Product Management - Generative and Conventional AI](https://jobright.ai/jobs/info/677dc9a0771ea3261061dc4c?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 28 |
+| **[GameChanger](https://gc.com/)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/679998ecf5ecacfa9c8bc8e4?utm_campaign=1047&utm_source=git)** | New York, NY | Remote | Jan 28 |
+| **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Loan Servicing Specialist](https://jobright.ai/jobs/info/677bd425125f8b2f99a00420?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | Hybrid | Jan 28 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Product Management Year-Round Intern](https://jobright.ai/jobs/info/67996f5f24120515f43b302e?utm_campaign=1047&utm_source=git)** | Springdale, AR | On Site | Jan 28 |
+| **[GameChanger](https://gc.com/)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/67997e2ab1daa2ebe8160810?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 28 |
 | **[Calvin Klein](https://www.calvinklein.us)** | **[Intern, Men’s Sourcing/Product Development, Wovens & Tailoring - Calvin Klein](https://jobright.ai/jobs/info/67996a54c7186ad4814137c8?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Product Management Year-Round Intern](https://jobright.ai/jobs/info/67994d8065bbe63426848fae?utm_campaign=1047&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Jan 28 |
+| **[Tyson Foods](http://tysonfoods.com)** | **[Product Management Year-Round Intern](https://jobright.ai/jobs/info/67994d8065bbe6342684905d?utm_campaign=1047&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Jan 28 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Summer Intern, Product - Allrecipes](https://jobright.ai/jobs/info/67996688fa8d51778418a848?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 28 |
 | **[Tommy Hilfiger](http://www.tommy.com)** | **[Intern, Women’s and Girls Product Development/Sourcing - Tommy Hilfiger](https://jobright.ai/jobs/info/679955cee6d126f8a0df9a50?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
 | **[PVH Corp.](https://www.pvh.com)** | **[Intern, Digital Operations](https://jobright.ai/jobs/info/6799521a31e9a92f64bc6060?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
@@ -132,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Internship (Summer 2025)](https://jobright.ai/jobs/info/66d8729db382dfc3f0ce103d?utm_campaign=1047&utm_source=git)** | Westerville, OH | On Site | Jan 23 |
 | **[Workiva](http://www.workiva.com)** | **[2025 Summer Intern - Product Management (Structured Data)](https://jobright.ai/jobs/info/67933011cd4eb1c4c080c2d9?utm_campaign=1047&utm_source=git)** | Ames | On Site | Jan 23 |
 | ↳ | **[2025 Summer Intern - Product Management (Structured Data)](https://jobright.ai/jobs/info/67933011cd4eb1c4c080c2fe?utm_campaign=1047&utm_source=git)** | USA - Remote | Remote | Jan 23 |
-| **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6795c82d3b22d11da13a295a?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Jan 23 |
 | **[Sam's Club](http://www.samsclub.com)** | **[2025 Spring Sophomore Summit: Sam's Club Product Management Undergraduate Intern](https://jobright.ai/jobs/info/679869afe0c09e92343d46b7?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Jan 23 |
 | **[Typeface](https://www.typeface.ai)** | **[ Intern-Product Manager](https://jobright.ai/jobs/info/67931c6d2bef6bae7ba3efc1?utm_campaign=1047&utm_source=git)** | Palo Alto, CA or Seattle, WA | Hybrid | Jan 23 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Product Data Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/6795b4752ff9666e1d57a9e4?utm_campaign=1047&utm_source=git)** | Middleton, WI | On Site | Jan 23 |
@@ -147,14 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[GE Vernova Control Solutions & Services – Product Management Lifecare Data Analytics Intern - Summer 2025](https://jobright.ai/jobs/info/67929e32661c93791711f04e?utm_campaign=1047&utm_source=git)** | Longmont, CO | On Site | Jan 23 |
 | **[Accuray](http://www.accuray.com)** | **[Product Data Analyst Internship](https://jobright.ai/jobs/info/679296f0709bac44e2b70fe9?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 23 |
 | **[Databricks](https://www.databricks.com)** | **[MBA Intern - Commercialization Product Management](https://jobright.ai/jobs/info/6792923a5d7d1177b0186575?utm_campaign=1047&utm_source=git)** | San Francisco, California | On Site | Jan 23 |
-| **[Accuray](http://www.accuray.com)** | **[Product Data Analyst Internship](https://jobright.ai/jobs/info/679284859ea5a9c4b51fbad5?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Jan 23 |
-| **[Databricks](https://www.databricks.com)** | **[MBA Intern - Product Operations](https://jobright.ai/jobs/info/67928037151c36a6a6347a0b?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jan 23 |
-| **[Accuray](http://www.accuray.com)** | **[Product Data Analyst Internship](https://jobright.ai/jobs/info/67927a75e039985921d9e13c?utm_campaign=1047&utm_source=git)** | Remote - US | Remote | Jan 23 |
+| ↳ | **[MBA Intern - Product Operations](https://jobright.ai/jobs/info/67928037151c36a6a6347a0b?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jan 23 |
+| **[Accuray](http://www.accuray.com)** | **[Product Data Analyst Internship](https://jobright.ai/jobs/info/67927a75e039985921d9e226?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Jan 23 |
+| ↳ | **[Product Data Analyst Internship](https://jobright.ai/jobs/info/67927a75e039985921d9e13c?utm_campaign=1047&utm_source=git)** | Remote - US | Remote | Jan 23 |
 | **[Dun & Bradstreet](http://www.dnb.com)** | **[2025 Summer Internship Program - Product](https://jobright.ai/jobs/info/67926f95301c6860efcb37fa?utm_campaign=1047&utm_source=git)** | Jacksonville - Florida - United States | On Site | Jan 23 |
 | **[Ever.Ag](https://www.ever.ag)** | **[Intern, Dairy On-Farm Solutions](https://jobright.ai/jobs/info/67923d79b1444cbdde538ffc?utm_campaign=1047&utm_source=git)** | United States (remote) | Remote | Jan 23 |
 | **[Corsair](http://www.corsair.com)** | **[B2B Product Specialist Intern](https://jobright.ai/jobs/info/676b7c6f9c2ccf6fad9c4651?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Jan 23 |
-| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Product Management Intern - Summer 2025](https://jobright.ai/jobs/info/673b4d252abf484b69662227?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Jan 23 |
-| **[Foot Locker](http://www.footlocker-inc.com)** | **[Intern - Merchandise Technology](https://jobright.ai/jobs/info/6791f0726375bd447a82649f?utm_campaign=1047&utm_source=git)** | Irving, TX | Hybrid | Jan 22 |
-| **[Honeywell](http://www.honeywell.com)** | **[Product Management Co-op](https://jobright.ai/jobs/info/67233c1c9e0922cf4896e8bd?utm_campaign=1047&utm_source=git)** | Pittsford, NY | On Site | Jan 22 |
-| **[Columbia Sportswear Company](http://www.columbia.com)** | **[Digital Engagement Product Intern](https://jobright.ai/jobs/info/6791ddfe2b470a460e8d01ef?utm_campaign=1047&utm_source=git)** | Portland, OR | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
