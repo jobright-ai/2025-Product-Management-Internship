@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern](https://jobright.ai/jobs/info/679e5786299b2edc5b6cdf8b?utm_campaign=1047&utm_source=git)** | O'Fallon, MO | On Site | Feb 01 |
+| **[H.B. Fuller](http://www.hbfuller.com)** | **[Product Management and Marketing Intern Flexible Materials](https://jobright.ai/jobs/info/679e503afef8d40b7f42eb17?utm_campaign=1047&utm_source=git)** | St Paul, MN | Hybrid | Feb 01 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Customer solution & product management internship](https://jobright.ai/jobs/info/679e1f6d46a0e1a9ebb047a5?utm_campaign=1047&utm_source=git)** | Rockville, MD | On Site | Feb 01 |
 | **[Intelsat](http://www.intelsat.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/673bd62e656921d93e626450?utm_campaign=1047&utm_source=git)** | McLean, VA | Hybrid | Feb 01 |
 | **[Acima](https://www.acima.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/679d782d7dcfec15f215cf1b?utm_campaign=1047&utm_source=git)** | Plano, TX | On Site | Jan 31 |
@@ -88,9 +90,9 @@ For a complete list, click the following sortable link below:
 | **[Spectrum Reach](https://www.spectrumreach.com)** | **[Product Development/Management Intern - Summer 2025](https://jobright.ai/jobs/info/679bede8fb0f3cf6f83dd1e9?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 30 |
 | **[Red Hat](http://www.redhat.com)** | **[Product Management Internship](https://jobright.ai/jobs/info/679be72cc97d93a793035ee9?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Jan 30 |
 | ↳ | **[Product Management Internship](https://jobright.ai/jobs/info/679bf009c4a145745b740fbf?utm_campaign=1047&utm_source=git)** | Raleigh, NC | Hybrid | Jan 30 |
-| **[AQR Capital Management](https://www.aqr.com)** | **[2025 Research Product Specialist Summer Intern](https://jobright.ai/jobs/info/679bd41bcc1e56da93da8f2f?utm_campaign=1047&utm_source=git)** | Greenwich, CT | On Site | Jan 30 |
 | **[Okta](http://www.okta.com)** | **[Product Analyst Intern (Summer 2025)](https://jobright.ai/jobs/info/679bc2177dfb57e21d59e93a?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Jan 30 |
 | **[FINRA](http://www.finra.org)** | **[Digital Product Management Intern; MBA or Masters Student](https://jobright.ai/jobs/info/679bb47ad203dac3f53efd98?utm_campaign=1047&utm_source=git)** | Rockville, MD (Job Posting) | On Site | Jan 30 |
+| **[AQR Capital Management](https://www.aqr.com)** | **[2025 Research Product Specialist Summer Intern](https://jobright.ai/jobs/info/679bbf68bf214c03d6aad139?utm_campaign=1047&utm_source=git)** | Greenwich, CT | On Site | Jan 30 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Product Content Internships (Tech Writer and Tech Editor) - Summer 2025](https://jobright.ai/jobs/info/67396a2d6b471b0f3f30ae9e?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Jan 30 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Product Assurance Intern](https://jobright.ai/jobs/info/6753b6f658049e9a02de0720?utm_campaign=1047&utm_source=git)** | Blairsville, PA | On Site | Jan 30 |
 | **[Santander](https://www.santander.com/)** | **[Digital Products Intern](https://jobright.ai/jobs/info/679b61a0c09d87eeb42b1e13?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Jan 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Marketing Product Management Intern](https://jobright.ai/jobs/info/67980b5e0a6347e71c66cc7a?utm_campaign=1047&utm_source=git)** | Marlborough, MA | Hybrid | Jan 27 |
 | ↳ | **[Data Product Business Analyst Intern](https://jobright.ai/jobs/info/6797f67b565a28f5b2cb2a00?utm_campaign=1047&utm_source=git)** | Marlborough, MA | Hybrid | Jan 27 |
 | ↳ | **[Data Product Business Analyst Intern](https://jobright.ai/jobs/info/6797d23a5ace449e3c5dd91b?utm_campaign=1047&utm_source=git)** | BJ's Club Support Center Marlborough, MA #5997 | Hybrid | Jan 27 |
-| **[Asklepios BioPharmaceutical, Inc. (AskBio)](http://www.askbio.com/)** | **[Intern- Product Development](https://jobright.ai/jobs/info/6797cbc62a89915a33f140be?utm_campaign=1047&utm_source=git)** | Durham, NC | On Site | Jan 27 |
-| **[Fiskars Group](http://www.fiskarsgroup.com)** | **[Category Management and Analytics Intern](https://jobright.ai/jobs/info/6797c34dc4c903fc0f60b1fa?utm_campaign=1047&utm_source=git)** | Middleton | Hybrid | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
