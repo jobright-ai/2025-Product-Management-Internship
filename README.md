@@ -106,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Ameriprise Financial Services, LLC](https://www.ameriprise.com/)** | **[Digital Product Owner Intern](https://jobright.ai/jobs/info/679436a3d59a8bff50f7d5cf?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 29 |
 | **[Roche](http://www.roche.com)** | **[2025 Summer Intern - Product Supply Team](https://jobright.ai/jobs/info/679a74b45e88728e7496d29f?utm_campaign=1047&utm_source=git)** | Indianapolis | On Site | Jan 29 |
 | **[Hypergiant](https://www.hypergiant.com/sensory-sciences/)** | **[SkillBridge Internship (Product Manager)](https://jobright.ai/jobs/info/67958ee301139b7bc79643f2?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Jan 29 |
+| **[Copeland](https://www.copeland.com)** | **[Summer 2025 MBA Opportunity - Product Management & Marketing Intern](https://jobright.ai/jobs/info/66ff3d6b57bd08bba04350eb?utm_campaign=1047&utm_source=git)** | Sidney, OH | On Site | Jan 29 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - E2E Product Management](https://jobright.ai/jobs/info/6740015b84df0ac16f80e5ce?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jan 29 |
 | **[Tanium](http://www.tanium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f1a6c46d831cd26fee53d8?utm_campaign=1047&utm_source=git)** | Emeryville, CA | Hybrid | Jan 29 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Internship (Summer 2025)](https://jobright.ai/jobs/info/66dee80d79c42f614fb0d89b?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Jan 29 |
@@ -120,9 +121,9 @@ For a complete list, click the following sortable link below:
 | **[Tyson Foods](http://tysonfoods.com)** | **[Product Management Year-Round Intern](https://jobright.ai/jobs/info/67996f5f24120515f43b302e?utm_campaign=1047&utm_source=git)** | Springdale, AR | On Site | Jan 28 |
 | **[GameChanger](https://gc.com/)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/67997e2ab1daa2ebe8160810?utm_campaign=1047&utm_source=git)** | United States | Remote | Jan 28 |
 | **[Justrite Safety Group](https://www.justrite.com)** | **[Product Development Research Intern](https://jobright.ai/jobs/info/6752039fa1a3902449e41220?utm_campaign=1047&utm_source=git)** | Broomfield, CO | On Site | Jan 28 |
+| **[Tyson Foods](http://tysonfoods.com)** | **[Product Management Year-Round Intern](https://jobright.ai/jobs/info/67994d8065bbe63426848fae?utm_campaign=1047&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Jan 28 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Summer Intern, Product - Allrecipes](https://jobright.ai/jobs/info/67996688fa8d51778418a848?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 28 |
 | **[Nestlé](https://www.nestle.com)** | **[Product Development Internship- Summer 2025](https://jobright.ai/jobs/info/6788774b639a52880f01ca06?utm_campaign=1047&utm_source=git)** | Arlington, VA | On Site | Jan 28 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Product Management Year-Round Intern](https://jobright.ai/jobs/info/67994ad80804bf48d1c3aca8?utm_campaign=1047&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Jan 28 |
 | **[Driscoll's](https://www.driscolls.com)** | **[Product Business Management Intern](https://jobright.ai/jobs/info/67930120bf68ba130ccf12cc?utm_campaign=1047&utm_source=git)** | Watsonville, CA | On Site | Jan 28 |
 | **[Ergodyne](https://www.ergodyne.com)** | **[Product Management Internship](https://jobright.ai/jobs/info/67990cf3d844d357500241c7?utm_campaign=1047&utm_source=git)** | Twin Cities Area | Hybrid | Jan 28 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Sr Product Manager - Technical, External Services MBA [Internship]](https://jobright.ai/jobs/info/675d3034091f78254c736779?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Jan 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GE Vernova](https://www.gevernova.com)** | **[Wind Product Management MBA Intern](https://jobright.ai/jobs/info/679836cd3fa5c107735b0270?utm_campaign=1047&utm_source=git)** | Schenectady, NY | On Site | Jan 27 |
 | **[GameChanger](https://gc.com/)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/679959328becafeb5c5f186a?utm_campaign=1047&utm_source=git)** | GameChanger Remote - US | Remote | Jan 27 |
 | **[Fiskars Group](http://www.fiskarsgroup.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/679814bb0f665e4e2d812343?utm_campaign=1047&utm_source=git)** | Middleton | Hybrid | Jan 27 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/679822415ee642eade346e75?utm_campaign=1047&utm_source=git)** | Middleton, WI | Hybrid | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
