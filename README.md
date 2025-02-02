@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern](https://jobright.ai/jobs/info/679e5786299b2edc5b6cdf8b?utm_campaign=1047&utm_source=git)** | O'Fallon, MO | On Site | Feb 01 |
 | **[H.B. Fuller](http://www.hbfuller.com)** | **[Product Management and Marketing Intern Flexible Materials](https://jobright.ai/jobs/info/679e503afef8d40b7f42eb17?utm_campaign=1047&utm_source=git)** | St Paul, MN | Hybrid | Feb 01 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Customer solution & product management internship](https://jobright.ai/jobs/info/679e1f6d46a0e1a9ebb047a5?utm_campaign=1047&utm_source=git)** | Rockville, MD | On Site | Feb 01 |
+| **[Ingersoll Rand](https://www.irco.com/en-in)** | **[Product Management Intern](https://jobright.ai/jobs/info/66e377fe620a90a969a66818?utm_campaign=1047&utm_source=git)** | Quincy, IL | On Site | Feb 01 |
 | **[Intelsat](http://www.intelsat.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/673bd62e656921d93e626450?utm_campaign=1047&utm_source=git)** | McLean, VA | Hybrid | Feb 01 |
 | **[Acima](https://www.acima.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/679d782d7dcfec15f215cf1b?utm_campaign=1047&utm_source=git)** | Plano, TX | On Site | Jan 31 |
 | **[Bosch](http://www.bosch.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/679d6d2e1f95db8585dc7b1d?utm_campaign=1047&utm_source=git)** | 500 Barclay Blvd, Lincolnshire, IL 60069, USA | On Site | Jan 31 |
