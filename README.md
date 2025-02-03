@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern](https://jobright.ai/jobs/info/679e5786299b2edc5b6cdf8b?utm_campaign=1047&utm_source=git)** | O'Fallon, MO | On Site | Feb 01 |
+| **[Stealth Startup](https://www.claimbrite.com)** | **[Product or Project Management Intern - Full Time (AI and Crypto)](https://jobright.ai/jobs/info/67a02e4c0e49233202713ffc?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 02 |
+| **[Conair LLC](http://www.conair.com/)** | **[2025 Home and Wellness Intern](https://jobright.ai/jobs/info/67a00cd191a8e9aa5314a1f3?utm_campaign=1047&utm_source=git)** | Stamford, CT | Hybrid | Feb 02 |
 | **[H.B. Fuller](http://www.hbfuller.com)** | **[Product Management and Marketing Intern Flexible Materials](https://jobright.ai/jobs/info/679e503afef8d40b7f42eb17?utm_campaign=1047&utm_source=git)** | St Paul, MN | Hybrid | Feb 01 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Customer solution & product management internship](https://jobright.ai/jobs/info/679e1f6d46a0e1a9ebb047a5?utm_campaign=1047&utm_source=git)** | Rockville, MD | On Site | Feb 01 |
 | **[Ingersoll Rand](https://www.irco.com/en-in)** | **[Product Management Intern](https://jobright.ai/jobs/info/66e377fe620a90a969a66818?utm_campaign=1047&utm_source=git)** | Quincy, IL | On Site | Feb 01 |
@@ -91,14 +92,14 @@ For a complete list, click the following sortable link below:
 | **[Spectrum Reach](https://www.spectrumreach.com)** | **[Product Development/Management Intern - Summer 2025](https://jobright.ai/jobs/info/679bede8fb0f3cf6f83dd1e9?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jan 30 |
 | **[Red Hat](http://www.redhat.com)** | **[Product Management Internship](https://jobright.ai/jobs/info/679be72cc97d93a793035ee9?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Jan 30 |
 | ↳ | **[Product Management Internship](https://jobright.ai/jobs/info/679bf009c4a145745b740fbf?utm_campaign=1047&utm_source=git)** | Raleigh, NC | Hybrid | Jan 30 |
+| **[AQR Capital Management](https://www.aqr.com)** | **[2025 Research Product Specialist Summer Intern](https://jobright.ai/jobs/info/679bd41bcc1e56da93da8f2f?utm_campaign=1047&utm_source=git)** | Greenwich, CT | On Site | Jan 30 |
 | **[Okta](http://www.okta.com)** | **[Product Analyst Intern (Summer 2025)](https://jobright.ai/jobs/info/679bc2177dfb57e21d59e93a?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Jan 30 |
 | **[FINRA](http://www.finra.org)** | **[Digital Product Management Intern; MBA or Masters Student](https://jobright.ai/jobs/info/679bb47ad203dac3f53efd98?utm_campaign=1047&utm_source=git)** | Rockville, MD (Job Posting) | On Site | Jan 30 |
-| **[AQR Capital Management](https://www.aqr.com)** | **[2025 Research Product Specialist Summer Intern](https://jobright.ai/jobs/info/679bbf68bf214c03d6aad139?utm_campaign=1047&utm_source=git)** | Greenwich, CT | On Site | Jan 30 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Product Content Internships (Tech Writer and Tech Editor) - Summer 2025](https://jobright.ai/jobs/info/67396a2d6b471b0f3f30ae9e?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Jan 30 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Product Assurance Intern](https://jobright.ai/jobs/info/6753b6f658049e9a02de0720?utm_campaign=1047&utm_source=git)** | Blairsville, PA | On Site | Jan 30 |
 | **[S&P Global](https://www.spglobal.com)** | **[Data Analysis Product Management Intern (Early Careers)](https://jobright.ai/jobs/info/677ee6b4599e4c9d299ee97d?utm_campaign=1047&utm_source=git)** | Southfield, MI | On Site | Jan 30 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Hardware Product Management Intern](https://jobright.ai/jobs/info/679dbb30145e792d9e9f3b08?utm_campaign=1047&utm_source=git)** | Dayton, OH | On Site | Jan 29 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Product Manager - 2025 Summer Internship (Schaumburg Hybrid)](https://jobright.ai/jobs/info/679abf144c76aff4dd662105?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | Hybrid | Jan 29 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Product Manager - 2025 Summer Internship (Schaumburg Hybrid)](https://jobright.ai/jobs/info/679ab81aa1782ab8ac512363?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | Hybrid | Jan 29 |
 | **[Array Technologies](http://arraytechinc.com)** | **[Intern Summer 2025 - Product Management](https://jobright.ai/jobs/info/679a9ef382a7619ae456753d?utm_campaign=1047&utm_source=git)** | Chandler, AZ | On Site | Jan 29 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/679aa10bc1a6d2b4fd4875bb?utm_campaign=1047&utm_source=git)** | Glastonbury, CT | On Site | Jan 29 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Intern](https://jobright.ai/jobs/info/679a918e984d5d176de52b62?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Jan 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern - Product Implementation](https://jobright.ai/jobs/info/6798318c9e4e558eab889a17?utm_campaign=1047&utm_source=git)** | Meridian - Main | On Site | Jan 27 |
 | **[GE Vernova](https://www.gevernova.com)** | **[Wind Product Management MBA Intern](https://jobright.ai/jobs/info/679836cd3fa5c107735b0270?utm_campaign=1047&utm_source=git)** | Schenectady, NY | On Site | Jan 27 |
 | **[GameChanger](https://gc.com/)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/679959328becafeb5c5f186a?utm_campaign=1047&utm_source=git)** | GameChanger Remote - US | Remote | Jan 27 |
-| **[Fiskars Group](http://www.fiskarsgroup.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/679814bb0f665e4e2d812343?utm_campaign=1047&utm_source=git)** | Middleton | Hybrid | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
