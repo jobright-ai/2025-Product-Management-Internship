@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[S&P Global](https://www.spglobal.com)** | **[North American Content Upstream Intern (Early Careers)](https://jobright.ai/jobs/info/6791c85dab756f867434a3c3?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Feb 05 |
+| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2025 Group Benefit Solutions (GBS) Technology Summer Internship Program - Product Owner](https://jobright.ai/jobs/info/674156489c285aad50bb6f12?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Feb 05 |
 | **[Diasorin](https://www.diasorin.com/)** | **[Intern, Product Development](https://jobright.ai/jobs/info/67a2fb33b71b19918e9ca28b?utm_campaign=1047&utm_source=git)** | Stillwater, MN | On Site | Feb 04 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Marketplace Governance Manager (Content & Digital Experience)](https://jobright.ai/jobs/info/67a2ea150ff9ad1c856b07ed?utm_campaign=1047&utm_source=git)** | Newtown Square, PA | Hybrid | Feb 04 |
 | **[Visa](https://www.visa.com)** | **[Product Management Intern, VAS Acceptance Solutions - Summer 2025](https://jobright.ai/jobs/info/67a2d9649bf904c959fcafda?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Feb 04 |
@@ -74,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Jane Street](https://www.janestreet.com)** | **[Strategy and Product](https://jobright.ai/jobs/info/67a23fbcb94f6be69881454f?utm_campaign=1047&utm_source=git)** | New York, New York, United States | On Site | Feb 04 |
 | **[Roche](http://www.roche.com)** | **[2025 Summer Intern - Product Development Digital Strategy and Enablement Artificial Intelligence](https://jobright.ai/jobs/info/67a23fd8f95380ea89b21901?utm_campaign=1047&utm_source=git)** | South San Francisco | On Site | Feb 04 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/67a2128b64ed233b01122520?utm_campaign=1047&utm_source=git)** | College Station, TX | On Site | Feb 04 |
+| **[Centric Brands](https://centricbrands.com)** | **[Production/Product Development Intern - Summer 2025 Internship Program](https://jobright.ai/jobs/info/67453ba35b0b43d01339e4e4?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Feb 04 |
 | **[Amazon](https://amazon.com)** | **[2025 MBA/Master's Level Opportunity - Sr. Product Manager Technical (PMT) Intern (United States)](https://jobright.ai/jobs/info/675dce19c5e5b34fdb579543?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Feb 04 |
 | **[Vontier](https://www.vontier.com)** | **[Intern, Global Product Management](https://jobright.ai/jobs/info/6752d80be3a53ed0c056ced4?utm_campaign=1047&utm_source=git)** | Greensboro, NC | On Site | Feb 04 |
 | **[Sol de Janeiro](https://soldejaneiro.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/67a18237d23c085bed6a53db?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Feb 03 |
@@ -85,10 +88,10 @@ For a complete list, click the following sortable link below:
 | **[First American](http://www.firstam.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/67a158ea6ade5a22a8aeb8f9?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | On Site | Feb 03 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/67a15de8dfd5f903abc6ab56?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | On Site | Feb 03 |
 | ↳ | **[Product Analytics Intern](https://jobright.ai/jobs/info/67a15de8dfd5f903abc6ab45?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | On Site | Feb 03 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/67a14e7d6e544a3f1bd6c7a5?utm_campaign=1047&utm_source=git)** | USA, California, Santa Ana | On Site | Feb 03 |
-| ↳ | **[Product Analytics Intern](https://jobright.ai/jobs/info/67a14e7d6e544a3f1bd6c79e?utm_campaign=1047&utm_source=git)** | USA, California, Santa Ana | On Site | Feb 03 |
-| ↳ | **[Technical Product Manager Intern](https://jobright.ai/jobs/info/67a14e7d6e544a3f1bd6c799?utm_campaign=1047&utm_source=git)** | USA, California, Santa Ana | On Site | Feb 03 |
 | ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/67a14e7d6e544a3f1bd6c7be?utm_campaign=1047&utm_source=git)** | USA, California, Santa Ana | On Site | Feb 03 |
+| ↳ | **[Product Analytics Intern](https://jobright.ai/jobs/info/67a14e7d6e544a3f1bd6c79e?utm_campaign=1047&utm_source=git)** | USA, California, Santa Ana | On Site | Feb 03 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/67a14e7d6e544a3f1bd6c7a5?utm_campaign=1047&utm_source=git)** | USA, California, Santa Ana | On Site | Feb 03 |
+| ↳ | **[Technical Product Manager Intern](https://jobright.ai/jobs/info/67a14e7d6e544a3f1bd6c799?utm_campaign=1047&utm_source=git)** | USA, California, Santa Ana | On Site | Feb 03 |
 | **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2025 Summer Intern, Product Manager](https://jobright.ai/jobs/info/67a14c7bf6e5f993a30fd1cb?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Feb 03 |
 | **[TE Connectivity](http://www.te.com)** | **[Product Management (Intern)](https://jobright.ai/jobs/info/67a14684e88b34073ad9f887?utm_campaign=1047&utm_source=git)** | Montgomery County, PA | Hybrid | Feb 03 |
 | **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2025 Summer Intern, Product Manager](https://jobright.ai/jobs/info/67a128ce9507f7eb888be941?utm_campaign=1047&utm_source=git)** | 665 Clyde Avenue, Mountain View,  CA, USA | On Site | Feb 03 |
@@ -134,11 +137,5 @@ For a complete list, click the following sortable link below:
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Product Assurance Intern](https://jobright.ai/jobs/info/6753b6f658049e9a02de0720?utm_campaign=1047&utm_source=git)** | Blairsville, PA | On Site | Jan 30 |
 | **[S&P Global](https://www.spglobal.com)** | **[Data Analysis Product Management Intern (Early Careers)](https://jobright.ai/jobs/info/677ee6b4599e4c9d299ee97d?utm_campaign=1047&utm_source=git)** | Southfield, MI | On Site | Jan 30 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Hardware Product Management Intern](https://jobright.ai/jobs/info/679dbb30145e792d9e9f3b08?utm_campaign=1047&utm_source=git)** | Dayton, OH | On Site | Jan 29 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Product Manager - 2025 Summer Internship (Schaumburg Hybrid)](https://jobright.ai/jobs/info/679abf144c76aff4dd662105?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | Hybrid | Jan 29 |
-| **[Array Technologies](http://arraytechinc.com)** | **[Intern Summer 2025 - Product Management](https://jobright.ai/jobs/info/679a9ef382a7619ae456753d?utm_campaign=1047&utm_source=git)** | Chandler, AZ | On Site | Jan 29 |
-| **[Crum & Forster](https://www.cfins.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/679aa10bc1a6d2b4fd4875bb?utm_campaign=1047&utm_source=git)** | Glastonbury, CT | On Site | Jan 29 |
-| **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Intern](https://jobright.ai/jobs/info/679a918e984d5d176de52b62?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Jan 29 |
-| **[Roche](http://www.roche.com)** | **[2025 Summer Intern - Product Supply Team](https://jobright.ai/jobs/info/679a7cedf9b31b3c36e63a12?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | On Site | Jan 29 |
-| **[Ameriprise Financial Services, LLC](https://www.ameriprise.com/)** | **[Digital Product Owner Intern](https://jobright.ai/jobs/info/679436a3d59a8bff50f7d5cf?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Jan 29 |
-| **[Roche](http://www.roche.com)** | **[2025 Summer Intern - Product Supply Team](https://jobright.ai/jobs/info/679a74b45e88728e7496d29f?utm_campaign=1047&utm_source=git)** | Indianapolis | On Site | Jan 29 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Product Manager - 2025 Summer Internship (Schaumburg Hybrid)](https://jobright.ai/jobs/info/679ab81aa1782ab8ac512363?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | Hybrid | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
