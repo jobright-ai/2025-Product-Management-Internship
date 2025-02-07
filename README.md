@@ -74,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/67a4a90fc78257ba5051a68c?utm_campaign=1047&utm_source=git)** | College Station, TX | On Site | Feb 06 |
 | **[Shiseido](http://www.shiseido.com/)** | **[Hajimari Intern, Product Development (NARS)](https://jobright.ai/jobs/info/67a4429a7866727b3caa681a?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Feb 05 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Business Analyst Intern - MD, DC, VA (Remote)](https://jobright.ai/jobs/info/67a41281c2eb1e4c9314611d?utm_campaign=1047&utm_source=git)** | Baltimore, MD | On Site | Feb 05 |
+| **[Novanta Inc.](http://www.novanta.com)** | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/6711621417e98ce420055450?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Feb 05 |
 | **[GameChanger](https://gc.com/)** | **[Product Management Intern, Emerging Sports](https://jobright.ai/jobs/info/67a420ed4f888452586e3c01?utm_campaign=1047&utm_source=git)** | New York, NY | Remote | Feb 05 |
 | ↳ | **[Product Management Intern, Revenue Growth](https://jobright.ai/jobs/info/67a420ed4f888452586e3c26?utm_campaign=1047&utm_source=git)** | New York, NY | Remote | Feb 05 |
 | ↳ | **[Product Analytics Intern](https://jobright.ai/jobs/info/67a4e547266759fff4e4c0ea?utm_campaign=1047&utm_source=git)** | GameChanger Remote - US | Remote | Feb 05 |
@@ -100,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[FactSet](http://www.factset.com)** | **[Product Development Intern - Americas (Summer 2025)](https://jobright.ai/jobs/info/67a2b91144e1ccaec5c4024d?utm_campaign=1047&utm_source=git)** | Norwalk, CT | On Site | Feb 04 |
 | **[Visa](https://www.visa.com)** | **[ Product Management Intern, VAS Acceptance Solutions - Summer 2025](https://jobright.ai/jobs/info/67a2b681eba6ecaf98206d7d?utm_campaign=1047&utm_source=git)** | Atlanta, GA, USA | Hybrid | Feb 04 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[CNN Product Intern: ATL - Summer 2025](https://jobright.ai/jobs/info/67a2b4077e7ab3358c25c8b4?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Feb 04 |
-| **[GameChanger](https://gc.com/)** | **[Product Management Intern, Revenue Growth](https://jobright.ai/jobs/info/67a3935e91bc4243572af9a4?utm_campaign=1047&utm_source=git)** | GameChanger Remote - US | Remote | Feb 04 |
-| ↳ | **[Product Management Intern, Emerging Sports](https://jobright.ai/jobs/info/67a3935e91bc4243572af9bf?utm_campaign=1047&utm_source=git)** | GameChanger Remote - US | Remote | Feb 04 |
+| **[GameChanger](https://gc.com/)** | **[Product Management Intern, Emerging Sports](https://jobright.ai/jobs/info/67a3935e91bc4243572af9bf?utm_campaign=1047&utm_source=git)** | GameChanger Remote - US | Remote | Feb 04 |
+| ↳ | **[Product Management Intern, Revenue Growth](https://jobright.ai/jobs/info/67a3935e91bc4243572af9a4?utm_campaign=1047&utm_source=git)** | GameChanger Remote - US | Remote | Feb 04 |
 | **[Ambry Genetics](http://www.ambrygen.com/)** | **[Product Management Intern, Graduate](https://jobright.ai/jobs/info/67a2b048293212823fb02166?utm_campaign=1047&utm_source=git)** | Aliso Viejo, CA | Hybrid | Feb 04 |
 | **[FactSet](http://www.factset.com)** | **[Product Development Intern - Americas (Summer 2025)](https://jobright.ai/jobs/info/67a2a24dcaeae5178862202e?utm_campaign=1047&utm_source=git)** | Norwalk, CT, USA | On Site | Feb 04 |
 | **[Genentech](http://gene.com)** | **[2025 Summer Intern - Product Development Digital Strategy and Enablement Artificial Intelligence](https://jobright.ai/jobs/info/67a27cbe1c6e1203160458d8?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Feb 04 |
@@ -123,10 +124,10 @@ For a complete list, click the following sortable link below:
 | **[First American](http://www.firstam.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/67a158ea6ade5a22a8aeb8f9?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | On Site | Feb 03 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/67a15de8dfd5f903abc6ab56?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | On Site | Feb 03 |
 | ↳ | **[Product Analytics Intern](https://jobright.ai/jobs/info/67a15de8dfd5f903abc6ab45?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | On Site | Feb 03 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/67a14e7d6e544a3f1bd6c7a5?utm_campaign=1047&utm_source=git)** | USA, California, Santa Ana | On Site | Feb 03 |
+| ↳ | **[Technical Product Manager Intern](https://jobright.ai/jobs/info/67a14e7d6e544a3f1bd6c799?utm_campaign=1047&utm_source=git)** | USA, California, Santa Ana | On Site | Feb 03 |
 | ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/67a14e7d6e544a3f1bd6c7be?utm_campaign=1047&utm_source=git)** | USA, California, Santa Ana | On Site | Feb 03 |
 | ↳ | **[Product Analytics Intern](https://jobright.ai/jobs/info/67a14e7d6e544a3f1bd6c79e?utm_campaign=1047&utm_source=git)** | USA, California, Santa Ana | On Site | Feb 03 |
-| ↳ | **[Technical Product Manager Intern](https://jobright.ai/jobs/info/67a14e7d6e544a3f1bd6c799?utm_campaign=1047&utm_source=git)** | USA, California, Santa Ana | On Site | Feb 03 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/67a14e7d6e544a3f1bd6c7a5?utm_campaign=1047&utm_source=git)** | USA, California, Santa Ana | On Site | Feb 03 |
 | **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2025 Summer Intern, Product Manager](https://jobright.ai/jobs/info/67a14c7bf6e5f993a30fd1cb?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Feb 03 |
 | **[TE Connectivity](http://www.te.com)** | **[Product Management (Intern)](https://jobright.ai/jobs/info/67a14684e88b34073ad9f887?utm_campaign=1047&utm_source=git)** | Montgomery County, PA | Hybrid | Feb 03 |
 | **[Samsung Research America (SRA)](http://www.sra.samsung.com/)** | **[2025 Summer Intern, Product Manager](https://jobright.ai/jobs/info/67a128ce9507f7eb888be941?utm_campaign=1047&utm_source=git)** | 665 Clyde Avenue, Mountain View,  CA, USA | On Site | Feb 03 |
@@ -151,5 +152,4 @@ For a complete list, click the following sortable link below:
 | **[Roche](http://www.roche.com)** | **[2025 Summer Intern - Business and Product Security](https://jobright.ai/jobs/info/679cf79d6b385366d49d3ac4?utm_campaign=1047&utm_source=git)** | Indianapolis | On Site | Jan 31 |
 | **[Tommy Hilfiger](http://www.tommy.com)** | **[Intern, Women’s and Girls Product Development/Sourcing - Tommy Hilfiger](https://jobright.ai/jobs/info/679cedbd430f04fc60411af2?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
 | **[Foot Locker](http://www.footlocker-inc.com)** | **[Intern - Merchandise Technology](https://jobright.ai/jobs/info/679cd3742c59eca3e7d07651?utm_campaign=1047&utm_source=git)** | Irving, TX | Hybrid | Jan 31 |
-| **[EBSCO Information Services](http://www.ebsco.de)** | **[Product Management Intern, EBSCOlearning - Summer 2025](https://jobright.ai/jobs/info/6795db07e02e3386384ed660?utm_campaign=1047&utm_source=git)** | Ipswich, MA | Remote | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
