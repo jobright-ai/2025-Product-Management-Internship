@@ -113,8 +113,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Development Co-op](https://jobright.ai/jobs/info/67af6fc2e6af2337d751c4dd?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Feb 14 |
 | ↳ | **[Product Development Co-Op](https://jobright.ai/jobs/info/67af6fc2e6af2337d751c4d2?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Feb 14 |
 | ↳ | **[Product Development Co-Op](https://jobright.ai/jobs/info/67af71313ebc273031478844?utm_campaign=1047&utm_source=git)** | USA, Georgia, Atlanta | On Site | Feb 14 |
-| ↳ | **[Product Development Co-op](https://jobright.ai/jobs/info/67af71313ebc273031478846?utm_campaign=1047&utm_source=git)** | USA, Texas, Dallas | On Site | Feb 14 |
 | ↳ | **[Product Development Co-Op](https://jobright.ai/jobs/info/67af71313ebc273031478849?utm_campaign=1047&utm_source=git)** | USA, Texas, Houston | On Site | Feb 14 |
+| ↳ | **[Product Development Co-op](https://jobright.ai/jobs/info/67af71313ebc273031478846?utm_campaign=1047&utm_source=git)** | USA, Texas, Dallas | On Site | Feb 14 |
 | **[Scout Motors Inc.](https://www.scoutmotors.com)** | **[2025 Summer Internship – Product Management](https://jobright.ai/jobs/info/67af59c74a0be1833943f15f?utm_campaign=1047&utm_source=git)** | Novi, MI | On Site | Feb 14 |
 | ↳ | **[2025 Summer Internship – Product Management](https://jobright.ai/jobs/info/67af42f966c70056190692d5?utm_campaign=1047&utm_source=git)** | Novi, Michigan, United States | On Site | Feb 14 |
 | **[Uber](http://www.uber.com)** | **[2025 Product Operations MBA  Intern, US](https://jobright.ai/jobs/info/67af289de757855875da55b8?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Feb 14 |
@@ -143,7 +143,7 @@ For a complete list, click the following sortable link below:
 | **[Mouser Electronics](http://mouser.com)** | **[Intern - Internet Business (Product Data)](https://jobright.ai/jobs/info/67acf2f0c2dfea0eaa81d157?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Feb 12 |
 | **[Philadelphia Insurance Companies](https://www.phly.com)** | **[Summer Associate - Investment Ops, Product Strategy (Bala Cynwyd, PA)](https://jobright.ai/jobs/info/67ace4f0e9930be40014a0ed?utm_campaign=1047&utm_source=git)** | Bala-Cynwyd, PA | On Site | Feb 12 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Product Management, Connectivity](https://jobright.ai/jobs/info/678ffb018f43062ff980eeaf?utm_campaign=1047&utm_source=git)** | Novi, MI | Hybrid | Feb 12 |
-| **[S&P Global](https://www.spglobal.com)** | **[Fixed Income Pricing - Product Analyst - Intern](https://jobright.ai/jobs/info/67acbb4882b85584a639f004?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Feb 12 |
+| **[S&P Global](https://www.spglobal.com)** | **[Fixed Income Pricing - Product Analyst - Intern](https://jobright.ai/jobs/info/67acbb4882b85584a639f03d?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Feb 12 |
 | **[Bath & Body Works](https://www.bathandbodyworks.com/)** | **[Merchandising Summer Internship 2025](https://jobright.ai/jobs/info/67a41d60ce324c85d7793f25?utm_campaign=1047&utm_source=git)** | Reynoldsburg, OH | On Site | Feb 12 |
 | **[Dispatch](https://www.dispatchit.com/)** | **[Product Management Intern Summer 2025](https://jobright.ai/jobs/info/6788536472d340052ffbc77a?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | On Site | Feb 12 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Product Managment Intern](https://jobright.ai/jobs/info/6765e51bd12bbf6cfb0f342d?utm_campaign=1047&utm_source=git)** | Marlborough, MA | On Site | Feb 12 |
