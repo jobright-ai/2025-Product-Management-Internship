@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CVS Health](https://www.cvshealth.com/)** | **[InnoTech Summer Graduate Internship 2025 – Pharmacy Services – Digital Product](https://jobright.ai/jobs/info/67b3c5f17a9dc692eee8ee0a?utm_campaign=1047&utm_source=git)** | CT - Hartford | Hybrid | Feb 17 |
-| ↳ | **[InnoTech Summer Graduate Internship 2025 – Pharmacy Services – Digital Product](https://jobright.ai/jobs/info/67b3c5f17a9dc692eee8ed29?utm_campaign=1047&utm_source=git)** | AZ - Scottsdale | Hybrid | Feb 17 |
-| ↳ | **[InnoTech Summer Undergraduate Internship 2025 – Pharmacy Services – Digital Product](https://jobright.ai/jobs/info/67b3c5f17a9dc692eee8ed39?utm_campaign=1047&utm_source=git)** | CT - Hartford | Hybrid | Feb 17 |
+| **[CommScope](http://www.commscope.com)** | **[Product Line Management Intern](https://jobright.ai/jobs/info/67b3e9e3888dce587c2a85e0?utm_campaign=1047&utm_source=git)** | Apex, NC | On Site | Feb 17 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[InnoTech Summer Graduate Internship 2025 – Pharmacy Services – Digital Product](https://jobright.ai/jobs/info/67b3c5f17a9dc692eee8ed29?utm_campaign=1047&utm_source=git)** | AZ - Scottsdale | Hybrid | Feb 17 |
+| ↳ | **[InnoTech Summer Graduate Internship 2025 – Pharmacy Services – Digital Product](https://jobright.ai/jobs/info/67b3c5f17a9dc692eee8ee0a?utm_campaign=1047&utm_source=git)** | CT - Hartford | Hybrid | Feb 17 |
 | ↳ | **[InnoTech Summer Undergraduate Internship 2025 – Pharmacy Services – Digital Product](https://jobright.ai/jobs/info/67b3c5f17a9dc692eee8ee11?utm_campaign=1047&utm_source=git)** | AZ - Scottsdale | Hybrid | Feb 17 |
+| ↳ | **[InnoTech Summer Undergraduate Internship 2025 – Pharmacy Services – Digital Product](https://jobright.ai/jobs/info/67b3c5f17a9dc692eee8ed39?utm_campaign=1047&utm_source=git)** | CT - Hartford | Hybrid | Feb 17 |
 | **[Komatsu](http://www.ehrbar.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67b38066d8da04d7374e249c?utm_campaign=1047&utm_source=git)** | Longview, TX | On Site | Feb 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manger MBA Intern (TikTok Shop - Seller Growth) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/6739facc9ee526ed59f4386e?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Feb 17 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Sr Product Manager - Technical, External Services MBA [Internship]](https://jobright.ai/jobs/info/673e806f8dd03790161c026c?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Feb 17 |
@@ -118,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Liberty Bank - CT](http://www.liberty-bank.com/)** | **[Product Development Internship](https://jobright.ai/jobs/info/67afd917f3876854d0f0c902?utm_campaign=1047&utm_source=git)** | Middletown, CT | On Site | Feb 14 |
 | **[Quest Analytics®,LLC](https://questanalytics.com)** | **[Product Management Intern - Summer 2025](https://jobright.ai/jobs/info/67afd917f3876854d0f0c996?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Feb 14 |
 | **[Milliman](http://www.milliman.com)** | **[2025 Summer Internship – Technical (MedInsight)](https://jobright.ai/jobs/info/67afbd1fc9e7043f19ac89af?utm_campaign=1047&utm_source=git)** | Portland, OR | Remote | Feb 14 |
-| **[Rakuten](http://global.rakuten.com)** | **[Product Manager, AI User Experience - Intern](https://jobright.ai/jobs/info/67afa4250caf0a7b7bd66398?utm_campaign=1047&utm_source=git)** | San Mateo, California | On Site | Feb 14 |
-| ↳ | **[Product Manager, AI User Experience - Intern](https://jobright.ai/jobs/info/67afa4250caf0a7b7bd66450?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 14 |
+| **[Rakuten](http://global.rakuten.com)** | **[Product Manager, AI User Experience - Intern](https://jobright.ai/jobs/info/67afa4250caf0a7b7bd66450?utm_campaign=1047&utm_source=git)** | United States | Remote | Feb 14 |
+| ↳ | **[Product Manager, AI User Experience - Intern](https://jobright.ai/jobs/info/67afa4250caf0a7b7bd66398?utm_campaign=1047&utm_source=git)** | San Mateo, California | On Site | Feb 14 |
 | **[Sage](http://www.sage.com)** | **[AI Product Manager Intern](https://jobright.ai/jobs/info/67afac079f4e3e9e843a7cca?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Feb 14 |
 | **[Enovis](https://enovis.com)** | **[Product Development Co-Op](https://jobright.ai/jobs/info/67af6fc2e6af2337d751c4df?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Feb 14 |
 | ↳ | **[Product Development Co-op](https://jobright.ai/jobs/info/67af6fc2e6af2337d751c4dd?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Feb 14 |
@@ -142,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[Genentech](http://gene.com)** | **[2025 Summer Intern - Product Development Global Operations](https://jobright.ai/jobs/info/67ae7888c2b0924007b2662a?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Feb 13 |
 | **[Roche](http://www.roche.com)** | **[2025 Summer Intern - Product Development Global Operations](https://jobright.ai/jobs/info/67ae4028ad6fdca1e7625b4f?utm_campaign=1047&utm_source=git)** | South San Francisco | On Site | Feb 13 |
 | **[FlexGen](https://flexgen.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67ae0b1da5ccfe9fe8e0dd10?utm_campaign=1047&utm_source=git)** | Durham, NC | On Site | Feb 13 |
-| **[7-Eleven](http://www.7-eleven.com)** | **[Digital Product Management Intern](https://jobright.ai/jobs/info/67acc621fc62792c8726b0bd?utm_campaign=1047&utm_source=git)** | Irving, TX | On Site | Feb 13 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Product Data Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/6795b4752ff9666e1d57a9e4?utm_campaign=1047&utm_source=git)** | Middleton, WI | On Site | Feb 13 |
 | **[Honeywell](http://www.honeywell.com)** | **[Product Management Co-op](https://jobright.ai/jobs/info/67233c1c9e0922cf4896e8bd?utm_campaign=1047&utm_source=git)** | Pittsford, NY | On Site | Feb 13 |
 | **[Konica Minolta Business Solutions Canada](https://konicaminolta.ca)** | **[Salesforce Product/Project Team Intern](https://jobright.ai/jobs/info/67ad527eabe678f6c3e43f32?utm_campaign=1047&utm_source=git)** | Ramsey, NJ | On Site | Feb 13 |
