@@ -57,19 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Philips](https://www.usa.philips.com)** | **[Intern – Digital Healthtech Product Management – Bothell, WA – Summer 2025](https://jobright.ai/jobs/info/67b48cd50b023ccbacddea4a?utm_campaign=1047&utm_source=git)** | Bothell | On Site | Feb 18 |
+| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2025 Summer Project/Product Management Intern](https://jobright.ai/jobs/info/67b48c5572046793a0173f4d?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Feb 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-PGC) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67b40da732815a88a4d60cae?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 17 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Data Science) - 2025 Summer (PhD)](https://jobright.ai/jobs/info/67b40da732815a88a4d60cb3?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 17 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67b40da732815a88a4d60d23?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 17 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67b40da732815a88a4d60ce9?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 17 |
+| ↳ | **[Product Manager Intern (TikTok-Search) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67b4148ba4125fe26e0a3594?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 17 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Data Science)- 2025 Summer (MS)](https://jobright.ai/jobs/info/67b4148ba4125fe26e0a356f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 17 |
-| ↳ | **[Product Manager Intern (TikTok-Search) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67b40da732815a88a4d60cbf?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 17 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Privacy and Responsibility) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67b4148ba4125fe26e0a3595?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 17 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Open Platform) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67b4148ba4125fe26e0a35a7?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 17 |
 | **[CommScope](http://www.commscope.com)** | **[Product Line Management Intern](https://jobright.ai/jobs/info/67b3e9e3888dce587c2a85e0?utm_campaign=1047&utm_source=git)** | Apex, NC | On Site | Feb 17 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[InnoTech Summer Graduate Internship 2025 – Pharmacy Services – Digital Product](https://jobright.ai/jobs/info/67b3c5f17a9dc692eee8ed29?utm_campaign=1047&utm_source=git)** | AZ - Scottsdale | Hybrid | Feb 17 |
-| ↳ | **[InnoTech Summer Graduate Internship 2025 – Pharmacy Services – Digital Product](https://jobright.ai/jobs/info/67b3c5f17a9dc692eee8ee0a?utm_campaign=1047&utm_source=git)** | CT - Hartford | Hybrid | Feb 17 |
-| ↳ | **[InnoTech Summer Undergraduate Internship 2025 – Pharmacy Services – Digital Product](https://jobright.ai/jobs/info/67b3c5f17a9dc692eee8ed39?utm_campaign=1047&utm_source=git)** | CT - Hartford | Hybrid | Feb 17 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[InnoTech Summer Graduate Internship 2025 – Pharmacy Services – Digital Product](https://jobright.ai/jobs/info/67b3c5f17a9dc692eee8ee0a?utm_campaign=1047&utm_source=git)** | CT - Hartford | Hybrid | Feb 17 |
+| ↳ | **[InnoTech Summer Graduate Internship 2025 – Pharmacy Services – Digital Product](https://jobright.ai/jobs/info/67b3c5f17a9dc692eee8ed29?utm_campaign=1047&utm_source=git)** | AZ - Scottsdale | Hybrid | Feb 17 |
 | ↳ | **[InnoTech Summer Undergraduate Internship 2025 – Pharmacy Services – Digital Product](https://jobright.ai/jobs/info/67b3c5f17a9dc692eee8ee11?utm_campaign=1047&utm_source=git)** | AZ - Scottsdale | Hybrid | Feb 17 |
+| ↳ | **[InnoTech Summer Undergraduate Internship 2025 – Pharmacy Services – Digital Product](https://jobright.ai/jobs/info/67b3c5f17a9dc692eee8ed39?utm_campaign=1047&utm_source=git)** | CT - Hartford | Hybrid | Feb 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manger MBA Intern (TikTok Shop - Seller Growth) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/6739facc9ee526ed59f4386e?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Feb 17 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Sr Product Manager - Technical, External Services MBA [Internship]](https://jobright.ai/jobs/info/673e806f8dd03790161c026c?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Feb 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategy MBA Intern (Web Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/6797751077c8e6e13c4a8184?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Feb 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sigma Computing](http://sigmacomputing.com)** | **[Product Management Graduate Intern (Summer 2025)](https://jobright.ai/jobs/info/67b0637a5c2d511e2f0ab098?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Feb 12 |
 | **[Windstream](https://www.windstream.com)** | **[Student Intern - Business Experience](https://jobright.ai/jobs/info/67b06c831ab8f57d2c77d3e1?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Feb 12 |
 | **[ResMed](https://www.resmed.com.au)** | **[Technical Product Manager Intern](https://jobright.ai/jobs/info/67ad905ef8c7a910c9347eb3?utm_campaign=1047&utm_source=git)** | SD Metro Area | On Site | Feb 12 |
-| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67b410884787e1b6fb38e712?utm_campaign=1047&utm_source=git)** | Norman, OK | On Site | Feb 12 |
-| **[HP](http://www.hp.com)** | **[Product Management Intern - Workforce Services and Solutions](https://jobright.ai/jobs/info/67b2be7ac7524a8a7982428f?utm_campaign=1047&utm_source=git)** | Spring, TX | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
