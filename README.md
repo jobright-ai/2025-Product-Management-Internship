@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McCain Foods](https://www.mccain.com/)** | **[Research and Development Product Development Internship](https://jobright.ai/jobs/info/67ba3a828a90c2a251dc19aa?utm_campaign=1047&utm_source=git)** | Appleton, WI | On Site | Feb 22 |
 | **[Trinity Life Sciences](https://trinitylifesciences.com)** | **[Summer Intern- Product Management](https://jobright.ai/jobs/info/679d4edff02d4628a94efea3?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 22 |
 | **[Awardco](https://www.award.co)** | **[Product Manager Intern](https://jobright.ai/jobs/info/67b94b3bc7f8cdc3a1fdc516?utm_campaign=1047&utm_source=git)** | Lindon, UT | On Site | Feb 21 |
 | **[Ericsson](https://www.ericsson.com)** | **[Summer Intern - Site Product Sourcing](https://jobright.ai/jobs/info/67b927d0ec077f60506d4f85?utm_campaign=1047&utm_source=git)** | Plano, TX | On Site | Feb 21 |
-| **[Premera Blue Cross](https://www.premera.com)** | **[Summer Intern - Agile Product Owner (MSFT Copilot)](https://jobright.ai/jobs/info/67b9265c25af46a282daa4ca?utm_campaign=1047&utm_source=git)** | Mountlake Terrace, WA | Hybrid | Feb 21 |
-| ↳ | **[Summer Intern - Agile Product Owner](https://jobright.ai/jobs/info/67b9265c25af46a282daa4dc?utm_campaign=1047&utm_source=git)** | Mountlake Terrace, WA | Hybrid | Feb 21 |
+| **[Premera Blue Cross](https://www.premera.com)** | **[Summer Intern - Agile Product Owner](https://jobright.ai/jobs/info/67b9265c25af46a282daa4dc?utm_campaign=1047&utm_source=git)** | Mountlake Terrace, WA | Hybrid | Feb 21 |
+| ↳ | **[Summer Intern - Agile Product Owner (MSFT Copilot)](https://jobright.ai/jobs/info/67b9265c25af46a282daa4ca?utm_campaign=1047&utm_source=git)** | Mountlake Terrace, WA | Hybrid | Feb 21 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[VC Product Management Co-op](https://jobright.ai/jobs/info/67b911ddbd36b8c8585923e1?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Feb 21 |
 | **[Collection XIIX, Ltd.](http://www.collection18.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/67b8fbe3458f231b3fb5744c?utm_campaign=1047&utm_source=git)** | Manhattan, NY | On Site | Feb 21 |
 | **[Premera Blue Cross](https://www.premera.com)** | **[Summer Intern - Agile Product Owner](https://jobright.ai/jobs/info/67b8ee3408e4ca9020b0e79a?utm_campaign=1047&utm_source=git)** | Mountlake Terrace WA | On Site | Feb 21 |
@@ -141,20 +142,19 @@ For a complete list, click the following sortable link below:
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Marketing Product Management Intern](https://jobright.ai/jobs/info/67980b5e0a6347e71c66cc7a?utm_campaign=1047&utm_source=git)** | Marlborough, MA | Hybrid | Feb 18 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Intern - I&C Product Management](https://jobright.ai/jobs/info/674f9b5abc19ed49eab83007?utm_campaign=1047&utm_source=git)** | Warrendale, PA | Hybrid | Feb 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67b5484d7f0d1a6fdfd90f14?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Feb 17 |
-| ↳ | **[Product Manager Intern (TikTok-PGC) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67b974dbbddd297339eb48eb?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Feb 17 |
+| ↳ | **[Product Manager Intern (TikTok-Product-Data Science) - 2025 Summer (PhD)](https://jobright.ai/jobs/info/67ba39cccee5a1224a2743c0?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Feb 17 |
+| ↳ | **[Product Manager Intern (TikTok-Product-Data Science)- 2025 Summer (MS)](https://jobright.ai/jobs/info/67ba2b366e80df920a44eb83?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Feb 17 |
 | ↳ | **[Product Manager Intern (TikTok-Search) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67b99c4156465ff41688aadc?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Feb 17 |
+| ↳ | **[Product Manager Intern (TikTok-PGC) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67b974dbbddd297339eb48eb?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Feb 17 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Open Platform) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67b97df01485fa119c45967c?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Feb 17 |
-| ↳ | **[Product Manager Intern (TikTok-Product-Privacy and Responsibility) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67b96b8cfa0a60124803af40?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Feb 17 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67b99775cc734b8b7a146393?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Feb 17 |
-| ↳ | **[Product Manager Intern (TikTok-Product-Data Science) - 2025 Summer (PhD)](https://jobright.ai/jobs/info/67b40da732815a88a4d60cb3?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 17 |
+| ↳ | **[Product Manager Intern (TikTok-Product-Privacy and Responsibility) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67b96b8cfa0a60124803af40?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Feb 17 |
 | **[CommScope](http://www.commscope.com)** | **[Product Line Management Intern](https://jobright.ai/jobs/info/67b3e9e3888dce587c2a85e0?utm_campaign=1047&utm_source=git)** | Apex, NC | On Site | Feb 17 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[InnoTech Summer Graduate Internship 2025 – Pharmacy Services – Digital Product](https://jobright.ai/jobs/info/67b3c5f17a9dc692eee8ed29?utm_campaign=1047&utm_source=git)** | AZ - Scottsdale | Hybrid | Feb 17 |
-| ↳ | **[InnoTech Summer Graduate Internship 2025 – Pharmacy Services – Digital Product](https://jobright.ai/jobs/info/67b3c5f17a9dc692eee8ee0a?utm_campaign=1047&utm_source=git)** | CT - Hartford | Hybrid | Feb 17 |
-| ↳ | **[InnoTech Summer Undergraduate Internship 2025 – Pharmacy Services – Digital Product](https://jobright.ai/jobs/info/67b3c5f17a9dc692eee8ed39?utm_campaign=1047&utm_source=git)** | CT - Hartford | Hybrid | Feb 17 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[InnoTech Summer Graduate Internship 2025 – Pharmacy Services – Digital Product](https://jobright.ai/jobs/info/67b3c5f17a9dc692eee8ee0a?utm_campaign=1047&utm_source=git)** | CT - Hartford | Hybrid | Feb 17 |
+| ↳ | **[InnoTech Summer Graduate Internship 2025 – Pharmacy Services – Digital Product](https://jobright.ai/jobs/info/67b3c5f17a9dc692eee8ed29?utm_campaign=1047&utm_source=git)** | AZ - Scottsdale | Hybrid | Feb 17 |
 | ↳ | **[InnoTech Summer Undergraduate Internship 2025 – Pharmacy Services – Digital Product](https://jobright.ai/jobs/info/67b3c5f17a9dc692eee8ee11?utm_campaign=1047&utm_source=git)** | AZ - Scottsdale | Hybrid | Feb 17 |
+| ↳ | **[InnoTech Summer Undergraduate Internship 2025 – Pharmacy Services – Digital Product](https://jobright.ai/jobs/info/67b3c5f17a9dc692eee8ed39?utm_campaign=1047&utm_source=git)** | CT - Hartford | Hybrid | Feb 17 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Sr Product Manager - Technical, External Services MBA [Internship]](https://jobright.ai/jobs/info/673e806f8dd03790161c026c?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Feb 17 |
 | **[Quest Analytics®,LLC](https://questanalytics.com)** | **[Product Management Intern - Summer 2025](https://jobright.ai/jobs/info/67b00f680501151b27348d36?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Feb 17 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Masters Internship (Summer 2025)](https://jobright.ai/jobs/info/66d8729db382dfc3f0ce1040?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Feb 17 |
-| **[Reckitt](https://www.reckitt.com)** | **[2025 Undergrad Research & Development Summer Internship - Montvale, NJ](https://jobright.ai/jobs/info/67974ba3b0ea6ecaa16a3d63?utm_campaign=1047&utm_source=git)** | Montvale, NJ | On Site | Feb 17 |
-| **[Novanta Inc.](http://www.novanta.com)** | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/6711621417e98ce42005544a?utm_campaign=1047&utm_source=git)** | Mukilteo, WA | On Site | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
