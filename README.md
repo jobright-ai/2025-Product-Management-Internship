@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[Product Manager Intern (MBA): Command Center](https://jobright.ai/jobs/info/67be826dcd3c190d81e7eb42?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Feb 25 |
+| **[AvidXchange, Inc.](http://www.avidxchange.com)** | **[Intern - Product Team](https://jobright.ai/jobs/info/67be7229f1c3178fdacae8a3?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Feb 25 |
+| **[Visa](https://www.visa.com)** | **[Visa Direct Product Management, Intern - Summer 2025](https://jobright.ai/jobs/info/67be638d976b00585e6c5c70?utm_campaign=1047&utm_source=git)** | Mentor, OH 44060, USA | Hybrid | Feb 25 |
+| **[Eataly](http://www.eataly.com/)** | **[Product Intern](https://jobright.ai/jobs/info/67be638d976b00585e6c5c4d?utm_campaign=1047&utm_source=git)** | 43 W 23rd St, New York, NY 10010, USA | On Site | Feb 25 |
+| **[University of California Office of the President](https://www.ucop.edu)** | **[PRODUCT MANAGEMENT INTERN](https://jobright.ai/jobs/info/67be6f66a26f73013ec7b1dd?utm_campaign=1047&utm_source=git)** | Riverside, CA | Hybrid | Feb 25 |
+| **[Visa](https://www.visa.com)** | **[Visa Direct Product Management, Intern - Summer 2025](https://jobright.ai/jobs/info/67be63a8db4ab8117ea273c1?utm_campaign=1047&utm_source=git)** | Mentor, OH | Hybrid | Feb 25 |
+| **[American Express](http://www.americanexpress.com)** | **[Campus Graduate - 2025 Enterprise Digital & Data Solutions Digital Product Summer Internship New York, NY](https://jobright.ai/jobs/info/67be63a8db4ab8117ea273d6?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 25 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[Fall 2025 Product Management Internship Kroger Technology & Digital](https://jobright.ai/jobs/info/67be663da4a8d1448bb63b99?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Feb 25 |
 | **[AvidXchange, Inc.](http://www.avidxchange.com)** | **[Intern - Product Team](https://jobright.ai/jobs/info/67be4423878c7f41126190b1?utm_campaign=1047&utm_source=git)** | Charlotte, North Carolina, United States | Hybrid | Feb 25 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Product Manager Intern (MBA): Command Center](https://jobright.ai/jobs/info/67be424765ad90ce2a07b15e?utm_campaign=1047&utm_source=git)** | Bellevue | On Site | Feb 25 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2025 Summer Internship (US) - Product Management Operations](https://jobright.ai/jobs/info/67be433f0b427d3073af8920?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | Hybrid | Feb 25 |
@@ -64,7 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Kroger](https://www.thekrogerco.com/)** | **[Fall 2025 Product Management Internship Kroger Technology & Digital](https://jobright.ai/jobs/info/67be155b45628081b5d342fa?utm_campaign=1047&utm_source=git)** | 11450 Grooms Rd, Blue Ash, OH, 45242, US | On Site | Feb 25 |
 | **[Cox Enterprises](http://coxenterprises.com)** | **[Product Management Intern - Summer 2025](https://jobright.ai/jobs/info/67bde3b4e7a940281c736be2?utm_campaign=1047&utm_source=git)** | Draper, UT - 13693 S 200 W | On Site | Feb 25 |
 | **[Centric Brands](https://centricbrands.com)** | **[Production/Product Development Intern - Summer 2025 Internship Program](https://jobright.ai/jobs/info/67453ba35b0b43d01339e4e4?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Feb 25 |
-| **[First American](http://www.firstam.com)** | **[Technical Product Manager Intern](https://jobright.ai/jobs/info/67a17d0e402b9e2d8262fb85?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | On Site | Feb 25 |
+| **[First American](http://www.firstam.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/67a158ea6ade5a22a8aeb8f9?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | On Site | Feb 25 |
+| ↳ | **[Technical Product Manager Intern](https://jobright.ai/jobs/info/67a17d0e402b9e2d8262fb85?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | On Site | Feb 25 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/67a15de8dfd5f903abc6ab56?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | On Site | Feb 25 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67aece3279e0ba280b3e507e?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Feb 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategy & Operations Intern (Commerce Ads) - 2025 Project Intern (BS/BA/MS)](https://jobright.ai/jobs/info/67bd9d1cc881d0eb414b0829?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Feb 25 |
@@ -103,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Product Manager MBA (Intern) United States](https://jobright.ai/jobs/info/67b56a951f90a04dd0354807?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Feb 22 |
 | **[Kendo Brands, Inc.](http://www.kendobrands.com/)** | **[Internship, Global Educational Consumer Product Strategy & Ops](https://jobright.ai/jobs/info/67baaec44a52af9f61490247?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Feb 21 |
 | **[Ericsson](https://www.ericsson.com)** | **[Summer Intern - Site Product Sourcing](https://jobright.ai/jobs/info/67b927d0ec077f60506d4f85?utm_campaign=1047&utm_source=git)** | Plano, TX | On Site | Feb 21 |
-| **[Premera Blue Cross](https://www.premera.com)** | **[Summer Intern - Agile Product Owner](https://jobright.ai/jobs/info/67b9265c25af46a282daa4dc?utm_campaign=1047&utm_source=git)** | Mountlake Terrace, WA | Hybrid | Feb 21 |
-| ↳ | **[Summer Intern - Agile Product Owner (MSFT Copilot)](https://jobright.ai/jobs/info/67b9265c25af46a282daa4ca?utm_campaign=1047&utm_source=git)** | Mountlake Terrace, WA | Hybrid | Feb 21 |
+| **[Premera Blue Cross](https://www.premera.com)** | **[Summer Intern - Agile Product Owner (MSFT Copilot)](https://jobright.ai/jobs/info/67b9265c25af46a282daa4ca?utm_campaign=1047&utm_source=git)** | Mountlake Terrace, WA | Hybrid | Feb 21 |
+| ↳ | **[Summer Intern - Agile Product Owner](https://jobright.ai/jobs/info/67b9265c25af46a282daa4dc?utm_campaign=1047&utm_source=git)** | Mountlake Terrace, WA | Hybrid | Feb 21 |
 | ↳ | **[Summer Intern - Agile Product Owner](https://jobright.ai/jobs/info/67b8ee3408e4ca9020b0e79a?utm_campaign=1047&utm_source=git)** | Mountlake Terrace WA | On Site | Feb 21 |
 | ↳ | **[Summer Intern - Agile Product Owner](https://jobright.ai/jobs/info/67b8ee3408e4ca9020b0e7c5?utm_campaign=1047&utm_source=git)** | Mountlake Terrace WA | On Site | Feb 21 |
 | **[Saint-Gobain](http://www.saint-gobain.com)** | **[Product Stewardship Intern](https://jobright.ai/jobs/info/67b8ec56dcf07096ee463916?utm_campaign=1047&utm_source=git)** | Hoosick Falls, NY | On Site | Feb 21 |
@@ -148,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025: Ninja Product Development Co-op (July through Mid December)](https://jobright.ai/jobs/info/67b62936cc33a90585fab387?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Feb 19 |
 | **[A10 Networks, Inc](http://www.a10networks.com)** | **[Intern - Product Management - Generative and Conventional AI](https://jobright.ai/jobs/info/677dc9a0771ea3261061dc4c?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | Hybrid | Feb 19 |
 | **[Tanium](http://www.tanium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f1a6c46d831cd26fee53d8?utm_campaign=1047&utm_source=git)** | Emeryville, CA | Hybrid | Feb 19 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Data Science-Vertical) - 2025 Summer (MS)](https://jobright.ai/jobs/info/67b988c99bcc13ce0052d017?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Feb 19 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[Product Manager Intern (Summer 2025)](https://jobright.ai/jobs/info/6798c6fa2fbf53a585cf096a?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
