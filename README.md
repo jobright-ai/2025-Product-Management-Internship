@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Wolverine Worldwide](https://www.wolverineworldwide.com)** | **[Product Line Management Intern](https://jobright.ai/jobs/info/67c345fa8cf69975cfbf99d4?utm_campaign=1047&utm_source=git)** | Waltham, MA | On Site | Mar 01 |
+| **[Novanta Inc.](http://www.novanta.com)** | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/6711621417e98ce42005544f?utm_campaign=1047&utm_source=git)** | Rocklin, CA | On Site | Mar 01 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[MBA Product Manager Intern - Summer 2025 (Remote)](https://jobright.ai/jobs/info/673bb41e23a3d19e9a268b9f?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | Remote | Mar 01 |
 | **[Emazing Group - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[iHR Buying Intern](https://jobright.ai/jobs/info/67c2c95e16f16fd57120e68b?utm_campaign=1047&utm_source=git)** | Anaheim, CA | On Site | Feb 28 |
 | **[Hamilton Company](http://hamiltoncompany.com)** | **[Product Specialist Intern](https://jobright.ai/jobs/info/67c2b14622f4c4ddf5e53dd4?utm_campaign=1047&utm_source=git)** | Reno, NV | On Site | Feb 28 |
@@ -96,7 +97,7 @@ For a complete list, click the following sortable link below:
 | **[BrandSafway](https://www.brandsafway.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/67c1164975735852bc5d7884?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Feb 27 |
 | **[Hypergiant](https://www.hypergiant.com/sensory-sciences/)** | **[SkillBridge Internship (Product Manager)](https://jobright.ai/jobs/info/67c1146075735852bc5d70a8?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Feb 27 |
 | **[Inspire](https://inspirebrands.com)** | **[Dunkin' Product Commercialization Internship - Summer 2025](https://jobright.ai/jobs/info/67c103fc070cf01e6f594758?utm_campaign=1047&utm_source=git)** | Boston Support Center | On Site | Feb 27 |
-| **[S&P Global](https://www.spglobal.com)** | **[Summer Intern, SPDJI Product Management](https://jobright.ai/jobs/info/67c0f3f11677c77b49599384?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Feb 27 |
+| **[S&P Global](https://www.spglobal.com)** | **[Summer Intern, SPDJI Product Management](https://jobright.ai/jobs/info/67c0f3f11677c77b49599295?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Feb 27 |
 | **[DoubleVerify](http://www.doubleverify.com)** | **[Product Management Intern - Measurement Product](https://jobright.ai/jobs/info/67c0e973f1442d5f9afd398a?utm_campaign=1047&utm_source=git)** | Buffalo-Niagara Area | On Site | Feb 27 |
 | **[Haleon](http://www.haleon.com/)** | **[2025 Summer Intern: Product Development / Vitamins & Supplements](https://jobright.ai/jobs/info/67c0efa63d59d8cacc09e44d?utm_campaign=1047&utm_source=git)** | Richmond, VA | Hybrid | Feb 27 |
 | **[AutoStore™](https://www.autostoresystem.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/67c0e64fba0a6318f395400e?utm_campaign=1047&utm_source=git)** | Salem, NH | Hybrid | Feb 27 |
@@ -124,6 +125,7 @@ For a complete list, click the following sortable link below:
 | **[Audible](http://www.audible.com)** | **[Product Manager Intern (MBA/Masters)](https://jobright.ai/jobs/info/67bfa325cc19b1c04eb1b87f?utm_campaign=1047&utm_source=git)** | Newark, NJ | On Site | Feb 26 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2025 Summer Project/Product Management Intern](https://jobright.ai/jobs/info/67bf7a63e74798e1dd9b74a8?utm_campaign=1047&utm_source=git)** | (HE)Remote_NC, Raleigh 901 | On Site | Feb 26 |
 | **[Kimball Midwest](https://www.kimballmidwest.com)** | **[Product Documentation Intern](https://jobright.ai/jobs/info/67bf8641cd445ae9c33268fd?utm_campaign=1047&utm_source=git)** | Columbus, OH | On Site | Feb 26 |
+| **[Novanta Inc.](http://www.novanta.com)** | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/67115faa618c77b8b16db7e5?utm_campaign=1047&utm_source=git)** | Syracuse, NY | On Site | Feb 26 |
 | **[S&P Global](https://www.spglobal.com)** | **[North American Content Upstream Intern (Early Careers)](https://jobright.ai/jobs/info/6791c85dab756f867434a3c3?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Feb 26 |
 | **[Lakeshore Learning Materials](http://www.lakeshorelearning.com/)** | **[Lakeshore Teacher Fellowship - Product Development (On-site)](https://jobright.ai/jobs/info/67bf659c09dd4a69c3e76bd4?utm_campaign=1047&utm_source=git)** | 2695 E Dominguez St, Carson, CA 90895, USA | On Site | Feb 26 |
 | **[Ingersoll Rand](https://www.irco.com/en-in)** | **[Product Management Intern](https://jobright.ai/jobs/info/67bf5d8b4ab5e9591419b305?utm_campaign=1047&utm_source=git)** | Quincy, IL | On Site | Feb 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/67c1468c608a4a0e8e93b667?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Feb 24 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/67bd48b73aa93c5843c8baf0?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Feb 24 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Deployment Strategist, Internship](https://jobright.ai/jobs/info/67bd3871f69f639ee7070afd?utm_campaign=1047&utm_source=git)** | Washington, D.C. | On Site | Feb 24 |
-| **[PitchBook](http://www.pitchbook.com)** | **[Core CX Usage Analytics, Product Management Summer Intern](https://jobright.ai/jobs/info/67b542439d12813fd8fdf9b5?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Feb 24 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Product Management Intern, Residential Energy Products](https://jobright.ai/jobs/info/67bd3aab6ab12c2ba61e9bec?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
