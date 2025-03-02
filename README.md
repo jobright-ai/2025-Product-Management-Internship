@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney Imagineering Product Manager Intern, Summer 2025](https://jobright.ai/jobs/info/67c4ae3b38cb504ce7ed7a3a?utm_campaign=1047&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Mar 02 |
+| **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Product Management Intern/Co-op (Summer 2025, FDS)](https://jobright.ai/jobs/info/67c494076e65e000c12be46d?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Mar 02 |
+| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2025](https://jobright.ai/jobs/info/6716f5075ef2d971e037b166?utm_campaign=1047&utm_source=git)** | Nashua, NH | On Site | Mar 02 |
+| **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2025 Product Development Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/67069b2f57b2e3ad8c34b6b3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 02 |
+| **[Novanta Inc.](http://www.novanta.com)** | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/6711621417e98ce420055453?utm_campaign=1047&utm_source=git)** | Sarasota, FL | On Site | Mar 02 |
+| **[Tanium](http://www.tanium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/66f1a6c46d831cd26fee53c4?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Mar 02 |
 | **[NVIDIA](https://www.nvidia.com)** | **[NVIDIA 2025 Internships: MBA Product Management](https://jobright.ai/jobs/info/677df0d0a96660f7d86fc41f?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Mar 02 |
 | **[Wolverine Worldwide](https://www.wolverineworldwide.com)** | **[Product Line Management Intern](https://jobright.ai/jobs/info/67c345fa8cf69975cfbf99d4?utm_campaign=1047&utm_source=git)** | Waltham, MA | On Site | Mar 01 |
 | **[CDS Global, Inc.](http://cds-global.com)** | **[Summer Product Management Intern](https://jobright.ai/jobs/info/67a6cd9650ad618aee39750e?utm_campaign=1047&utm_source=git)** | Des Moines, IA | On Site | Mar 01 |
@@ -93,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Alfa Laval](http://www.alfalaval.com)** | **[Product & Applications Intern - Summer 2025](https://jobright.ai/jobs/info/66dbdc24718ec9e6e99fc45c?utm_campaign=1047&utm_source=git)** | Kenosha, WI | On Site | Feb 28 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[Product Intern](https://jobright.ai/jobs/info/6750dc6caf6ae4053c3e61ab?utm_campaign=1047&utm_source=git)** | Colmar, PA | Hybrid | Feb 28 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/67a4a90fc78257ba5051a68c?utm_campaign=1047&utm_source=git)** | College Station, TX | On Site | Feb 28 |
+| **[Southwire Company](http://southwire.com)** | **[New Product Development Co-Op](https://jobright.ai/jobs/info/67a3a7584a30e7f54a4a182e?utm_campaign=1047&utm_source=git)** | Carrollton, GA | Hybrid | Feb 28 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Sr. Product Management Intern](https://jobright.ai/jobs/info/67c1777db742e506aeb8785f?utm_campaign=1047&utm_source=git)** | Grand Island, NY | On Site | Feb 27 |
 | **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Intern](https://jobright.ai/jobs/info/67c168154bcf57d2fc7c1462?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Feb 27 |
 | **[Intrado](https://www.intrado.com/)** | **[Summer Intern - Product Management](https://jobright.ai/jobs/info/67c151c0978bc6fed314e92c?utm_campaign=1047&utm_source=git)** | Longmont, CO | Hybrid | Feb 27 |
@@ -115,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[W. R. Berkley Corporation](https://www.berkley.com/)** | **[Product/Experience Intern](https://jobright.ai/jobs/info/67c08e9b820d46f81d1495fc?utm_campaign=1047&utm_source=git)** | West Hartford, CT | On Site | Feb 27 |
 | **[Siemens EDA (Siemens Digital Industries Software)](https://eda.sw.siemens.com/)** | **[Strategic Student Program: Product Management Intern/Co-op (Summer 2025, FDS)](https://jobright.ai/jobs/info/67c077d2b4e1bd44cdbab06a?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Feb 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Merchandise Strategy MBA Intern (TikTok Shop - US Operations Center) - 2025 Start (MBA)](https://jobright.ai/jobs/info/67c05a7a8e7fe28733b3a4ce?utm_campaign=1047&utm_source=git)** | Seattle | On Site | Feb 27 |
-| **[Southwire Company](http://southwire.com)** | **[Infrastructure Product Development Co-Op](https://jobright.ai/jobs/info/67a3a7584a30e7f54a4a182e?utm_campaign=1047&utm_source=git)** | Carrollton, GA | Hybrid | Feb 27 |
 | **[Flagship Pioneering](http://flagshippioneering.com)** | **[Product Strategy MBA Intern](https://jobright.ai/jobs/info/67b099ad27f07ac72f939639?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Feb 27 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[Product Intern - EMS](https://jobright.ai/jobs/info/67879f42228c4157390820f0?utm_campaign=1047&utm_source=git)** | Colmar, PA | Hybrid | Feb 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Merchandise Strategy MBA Intern (TikTok Shop - US Operations Center) - 2025 Start (MBA)](https://jobright.ai/jobs/info/67c058d0dbf2a794b0eb3495?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Feb 27 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Landis+Gyr](https://www.landisgyr.com/)** | **[Product and Technology Internship - AI and EV Charging Technologies](https://jobright.ai/jobs/info/67a167b2e88a5eb2da5c3571?utm_campaign=1047&utm_source=git)** | Alpharetta, GA | On Site | Feb 25 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Fall 2025 Product Management Internship Kroger Technology & Digital](https://jobright.ai/jobs/info/67be663da4a8d1448bb63b99?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Feb 25 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Product Manager Intern (MBA): Command Center](https://jobright.ai/jobs/info/67be424765ad90ce2a07b15e?utm_campaign=1047&utm_source=git)** | Bellevue | On Site | Feb 25 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[Fall 2025 Product Management Internship Kroger Technology & Digital](https://jobright.ai/jobs/info/67be155b45628081b5d342fa?utm_campaign=1047&utm_source=git)** | 11450 Grooms Rd, Blue Ash, OH, 45242, US | On Site | Feb 25 |
-| **[Cox Enterprises](http://coxenterprises.com)** | **[Product Management Intern - Summer 2025](https://jobright.ai/jobs/info/67bde3b4e7a940281c736be2?utm_campaign=1047&utm_source=git)** | Draper, UT - 13693 S 200 W | On Site | Feb 25 |
-| **[Centric Brands](https://centricbrands.com)** | **[Production/Product Development Intern - Summer 2025 Internship Program](https://jobright.ai/jobs/info/67453ba35b0b43d01339e4e4?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Feb 25 |
-| **[First American](http://www.firstam.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/67a158ea6ade5a22a8aeb8f9?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | On Site | Feb 25 |
-| ↳ | **[Technical Product Manager Intern](https://jobright.ai/jobs/info/67a17d0e402b9e2d8262fb85?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | On Site | Feb 25 |
-| ↳ | **[Product Analytics Intern](https://jobright.ai/jobs/info/67a15de8dfd5f903abc6ab45?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | On Site | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
