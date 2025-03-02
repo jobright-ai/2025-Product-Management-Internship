@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[Wolverine Worldwide](https://www.wolverineworldwide.com)** | **[Product Line Management Intern](https://jobright.ai/jobs/info/67c345fa8cf69975cfbf99d4?utm_campaign=1047&utm_source=git)** | Waltham, MA | On Site | Mar 01 |
 | **[Novanta Inc.](http://www.novanta.com)** | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/6711621417e98ce42005544f?utm_campaign=1047&utm_source=git)** | Rocklin, CA | On Site | Mar 01 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[MBA Product Manager Intern - Summer 2025 (Remote)](https://jobright.ai/jobs/info/673bb41e23a3d19e9a268b9f?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | Remote | Mar 01 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Product and Technology Strategy Masters Internship (Summer 2025)](https://jobright.ai/jobs/info/66d1f0a105a4899c5e1d5bac?utm_campaign=1047&utm_source=git)** | Westerville, OH | On Site | Mar 01 |
 | **[Emazing Group - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[iHR Buying Intern](https://jobright.ai/jobs/info/67c2c95e16f16fd57120e68b?utm_campaign=1047&utm_source=git)** | Anaheim, CA | On Site | Feb 28 |
 | **[Hamilton Company](http://hamiltoncompany.com)** | **[Product Specialist Intern](https://jobright.ai/jobs/info/67c2b14622f4c4ddf5e53dd4?utm_campaign=1047&utm_source=git)** | Reno, NV | On Site | Feb 28 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Data Product Business Analyst Intern](https://jobright.ai/jobs/info/67c2829248f263cb3df2c8f5?utm_campaign=1047&utm_source=git)** | Marlborough, MA | Hybrid | Feb 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategy & Operations Intern (Commerce Ads) - 2025 Project Intern (BS/BA/MS)](https://jobright.ai/jobs/info/67bd9d1cc881d0eb414b0829?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Feb 25 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/67c1468c608a4a0e8e93b667?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Feb 24 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/67bd48b73aa93c5843c8baf0?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Feb 24 |
-| **[Palantir Technologies](http://www.palantir.com)** | **[Deployment Strategist, Internship](https://jobright.ai/jobs/info/67bd3871f69f639ee7070afd?utm_campaign=1047&utm_source=git)** | Washington, D.C. | On Site | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
