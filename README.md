@@ -72,6 +72,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Intern (Onsite)](https://jobright.ai/jobs/info/67cc1d1e821e2393759d1af8?utm_campaign=1047&utm_source=git)** | Shelton, CT | On Site | Mar 07 |
 | ↳ | **[Product Management Intern (Onsite)](https://jobright.ai/jobs/info/67cbe4b89a7279447254c5de?utm_campaign=1047&utm_source=git)** | Stamford, CT | On Site | Mar 07 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, AV Simulation - Summer 2025](https://jobright.ai/jobs/info/67cca9f1fa795141abce7c58?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Mar 07 |
+| **[Pitney Bowes](https://www.pitneybowes.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67cd11734a81695336681545?utm_campaign=1047&utm_source=git)** | Stamford, CT | On Site | Mar 07 |
 | **[Apex Fintech Solutions](https://apexfintechsolutions.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67cbad50cd566c774fe3da97?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Mar 07 |
 | **[PEAK6 InsurTech](https://peak6.com/peak6-insurtech/)** | **[Product Management Intern](https://jobright.ai/jobs/info/67cbaf30cd566c774fe3df8b?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Mar 07 |
 | **[Dialpad](https://www.dialpad.com)** | **[Product Intern](https://jobright.ai/jobs/info/67cb9eb5faa575407403f8fc?utm_campaign=1047&utm_source=git)** | San Ramon, CA | On Site | Mar 07 |
@@ -104,7 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Juniper Networks](http://www.juniper.net)** | **[Data Science Intern - Product Management Intern (Summer 2025)](https://jobright.ai/jobs/info/67cae5cfe953660b836a762a?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Mar 07 |
 | ↳ | **[Data Science Intern - Product Management Intern (Summer 2025)](https://jobright.ai/jobs/info/67cac64a38334d46717e01fe?utm_campaign=1047&utm_source=git)** | 1137 Innovation Way, Sunnyvale, CA, 94089, US | On Site | Mar 07 |
 | **[Snowflake](https://www.snowflake.com)** | **[Data Cloud Product Partner Intern: Marketing & Advertising Ecosystem - Summer 2025](https://jobright.ai/jobs/info/67cac7a1fb23fa826979c8d4?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Mar 07 |
-| **[Centerfield](http://www.centerfield.com)** | **[Product Intern, Summer 2025 (Insurance Team)](https://jobright.ai/jobs/info/67ca9ee8ab2e108e8576a757?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Mar 06 |
+| **[Centerfield](http://www.centerfield.com)** | **[Product Intern, Summer 2025 (Insurance Team)](https://jobright.ai/jobs/info/67cab7d42053f45efeee3c90?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Mar 06 |
 | ↳ | **[Product Intern, Summer 2025](https://jobright.ai/jobs/info/67ca9ee8ab2e108e8576a783?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Mar 06 |
 | **[Pitney Bowes](https://www.pitneybowes.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67ca845b19fb030270a3443b?utm_campaign=1047&utm_source=git)** | Shelton, CT | On Site | Mar 06 |
 | **[Shiseido](http://www.shiseido.com/)** | **[Hajimari Intern, Product Development (NARS)](https://jobright.ai/jobs/info/67ca7afd7044a83b7ef30c42?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Mar 06 |
@@ -134,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Product & Digital Content Intern](https://jobright.ai/jobs/info/67cbbf48aab6298d416f856f?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 05 |
 | **[CarMax](http://www.carmax.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/67c909833ff6bc0aef7264c1?utm_campaign=1047&utm_source=git)** | Henrico, VA | On Site | Mar 05 |
 | **[Copeland](https://www.copeland.com)** | **[Product Management Intern (Summer 2025 Term-May Start)](https://jobright.ai/jobs/info/67872e67aa7b3854899e225c?utm_campaign=1047&utm_source=git)** | Sidney, OH | On Site | Mar 05 |
-| **[Pitney Bowes](https://www.pitneybowes.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67c8d11f1951f2744a6431c3?utm_campaign=1047&utm_source=git)** | US CT Stamford | On Site | Mar 05 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/67c8d11f1951f2744a64305f?utm_campaign=1047&utm_source=git)** | US CT Shelton | On Site | Mar 05 |
+| **[Pitney Bowes](https://www.pitneybowes.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67c8d11f1951f2744a64305f?utm_campaign=1047&utm_source=git)** | US CT Shelton | On Site | Mar 05 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/67c8d11f1951f2744a6431c3?utm_campaign=1047&utm_source=git)** | US CT Stamford | On Site | Mar 05 |
 | **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Central Solutions Intern](https://jobright.ai/jobs/info/67c8bce8b8196b966c77ed52?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 05 |
 | ↳ | **[Central Solutions Intern](https://jobright.ai/jobs/info/67c87bc97ad5cfd3b97ff480?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 05 |
 | **[Korn Ferry](http://www.kornferry.com)** | **[Intern - Digital Delivery](https://jobright.ai/jobs/info/67ac23deaeec9d407c4fe531?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 05 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Crew Technology – Project Tech Support (Fall 2025)](https://jobright.ai/jobs/info/67c7e935ed62b028b9b4196c?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Mar 04 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Non-IT Product Management & Optimization Intern - MD/DC/VA (Hybrid)](https://jobright.ai/jobs/info/67c7b297b12b25da0ac83b1a?utm_campaign=1047&utm_source=git)** | Baltimore, MD | Hybrid | Mar 04 |
 | **[Bright Horizons](http://www.brighthorizons.com)** | **[2025 Enterprise Products Internship (Hybrid)](https://jobright.ai/jobs/info/67c8e0ec3f94b91835d891f3?utm_campaign=1047&utm_source=git)** | Newton Centre, MA | Hybrid | Mar 04 |
+| **[American Fidelity](http://www.americanfidelity.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67c7984f0eef9c4103c77061?utm_campaign=1047&utm_source=git)** | Oklahoma City, OK | On Site | Mar 04 |
 | **[Withum](http://www.withum.com)** | **[Innovation Intern 2025 (Product Development)](https://jobright.ai/jobs/info/67c7984f0eef9c4103c7715d?utm_campaign=1047&utm_source=git)** | Buffalo-Niagara Area | On Site | Mar 04 |
 | **[Oracle](https://www.oracle.com/)** | **[Product Manager/User Experience Intern - Customer Success Services](https://jobright.ai/jobs/info/67c77ee56507b38b765e2f2e?utm_campaign=1047&utm_source=git)** | Redwood City, CA, United States | On Site | Mar 04 |
 | **[First Help Financial](https://firsthelpfinancial.com/)** | **[Product Owner Intern](https://jobright.ai/jobs/info/67c7984f0eef9c4103c774a3?utm_campaign=1047&utm_source=git)** | Needham, MA | Remote | Mar 04 |
-| **[JLL Technologies](https://www.jllt.com/)** | **[Product Specialist Summer 2025 Internship - Chicago, IL](https://jobright.ai/jobs/info/67c7697c1b6939ce2fde8b59?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
-| **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Product Management - Pro Audio](https://jobright.ai/jobs/info/67c7697c1b6939ce2fde8b71?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
