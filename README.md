@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ChampionX](https://www.championx.com)** | **[Intern](https://jobright.ai/jobs/info/67cfdeda86f4ba4d8deb913b?utm_campaign=1047&utm_source=git)** | Sugar Land, TX | On Site | Mar 10 |
+| **[Strava](http://www.strava.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/67cfc821b499b06dc90085ea?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Mar 10 |
+| **[IMO Health](https://www.imohealth.com)** | **[Product Intern-Data Quality](https://jobright.ai/jobs/info/67cfae65a7c4e4784d721f4c?utm_campaign=1047&utm_source=git)** | Rosemont, IL | Hybrid | Mar 10 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Summer 2025 Product Line Management II Intern- Master's (Santa Clara, CA)](https://jobright.ai/jobs/info/67cf910d4f4cd411d1da5318?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Mar 10 |
 | **[American Eagle Outfitters Inc.](https://www.aeo-inc.com/)** | **[Summer 2025 - Technology Product Management Internship](https://jobright.ai/jobs/info/67cf8d8457261f08ac918480?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Mar 10 |
 | **[WEX](http://www.wexinc.com)** | **[Product Manager Intern-1](https://jobright.ai/jobs/info/67cf878379d4190eb41b3ee3?utm_campaign=1047&utm_source=git)** | Maine, United States | Remote | Mar 10 |
@@ -74,6 +77,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Wind Product Management MBA Intern](https://jobright.ai/jobs/info/679836cd3fa5c107735b0270?utm_campaign=1047&utm_source=git)** | Schenectady, NY | On Site | Mar 10 |
 | ↳ | **[GE Vernova Control Solutions & Services – Product Management Intern Summer 2025](https://jobright.ai/jobs/info/6789c57a89c9415127968234?utm_campaign=1047&utm_source=git)** | Greenville, SC | On Site | Mar 10 |
 | ↳ | **[GE Vernova Control Solutions & Services – Product Management Intern Summer 2025](https://jobright.ai/jobs/info/6792b1e99b57d4bb64718871?utm_campaign=1047&utm_source=git)** | Longmont, CO | On Site | Mar 10 |
+| ↳ | **[GE Vernova Control Solutions & Services – Product Management Intern Summer 2025](https://jobright.ai/jobs/info/67c9e4102d3a334e599ad1bd?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Mar 10 |
 | **[Trepp, Inc.](https://www.trepp.com/)** | **[Product & Data Analytics Intern](https://jobright.ai/jobs/info/67cf535a24a7ea0c16236447?utm_campaign=1047&utm_source=git)** | DFW Metroplex | Hybrid | Mar 10 |
 | **[QGenda](https://www.qgenda.com)** | **[Product Intern](https://jobright.ai/jobs/info/67cf5000791c6917b7644bc1?utm_campaign=1047&utm_source=git)** | Atlanta | On Site | Mar 10 |
 | **[MCG Health](https://www.mcg.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67cf57c5f715052ba91dfb58?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 10 |
@@ -148,13 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science Intern - Product Management Intern (Summer 2025)](https://jobright.ai/jobs/info/67cac64a38334d46717e01fe?utm_campaign=1047&utm_source=git)** | 1137 Innovation Way, Sunnyvale, CA, 94089, US | On Site | Mar 07 |
 | **[Snowflake](https://www.snowflake.com)** | **[Data Cloud Product Partner Intern: Marketing & Advertising Ecosystem - Summer 2025](https://jobright.ai/jobs/info/67cac7a1fb23fa826979c8d4?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Mar 07 |
 | **[Centerfield](http://www.centerfield.com)** | **[Product Intern, Summer 2025 (Insurance Team)](https://jobright.ai/jobs/info/67cab7d42053f45efeee3c90?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Mar 06 |
-| ↳ | **[Product Intern, Summer 2025](https://jobright.ai/jobs/info/67ca9ee8ab2e108e8576a783?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Mar 06 |
+| ↳ | **[Product Intern, Summer 2025](https://jobright.ai/jobs/info/67cab7d42053f45efeee3c51?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Mar 06 |
 | **[Pitney Bowes](https://www.pitneybowes.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67ca845b19fb030270a3443b?utm_campaign=1047&utm_source=git)** | Shelton, CT | On Site | Mar 06 |
 | **[Littelfuse](http://www.littelfuse.com)** | **[Digital Delivery Intern](https://jobright.ai/jobs/info/67ca2e8ae5ea9d574e0b22a5?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Mar 06 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Product & Franchise Strategy Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67ca2d3f6f7aa3600fae3016?utm_campaign=1047&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Mar 06 |
 | **[Costco Wholesale](https://www.costco.com/)** | **[CDS Summer Intern - Global Ecommerce Product Management Team](https://jobright.ai/jobs/info/67ca3084b825c048adb863c0?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 06 |
-| **[Pitney Bowes](https://www.pitneybowes.com)** | **[Intern, SaaS Product Manager (Onsite)](https://jobright.ai/jobs/info/67ca21fac6f85267e04224bb?utm_campaign=1047&utm_source=git)** | US CT Shelton | On Site | Mar 06 |
-| ↳ | **[Product Management Intern (Onsite)](https://jobright.ai/jobs/info/67ca132072f2f19b031aecaa?utm_campaign=1047&utm_source=git)** | US CT Stamford | On Site | Mar 06 |
-| ↳ | **[Product Management Intern (Onsite)](https://jobright.ai/jobs/info/67ca132072f2f19b031aee04?utm_campaign=1047&utm_source=git)** | US CT Shelton | On Site | Mar 06 |
-| **[ConnectWise](http://ConnectWise.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67ca0f44b359d048cc22bf81?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
