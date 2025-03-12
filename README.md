@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UL Solutions](https://www.ul.com/solutions)** | **[2025 Summer Intern: Software Product Management Intern](https://jobright.ai/jobs/info/67b51c28ce0d9f426ed4c2c6?utm_campaign=1047&utm_source=git)** | Northbrook, IL | On Site | Mar 12 |
+| ↳ | **[2025 Summer Intern: Software Product Management Intern](https://jobright.ai/jobs/info/67b5301459999c87b36e10ee?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Mar 12 |
 | **[AARP](http://www.aarp.org)** | **[Product Initiatives Intern](https://jobright.ai/jobs/info/67d1149e8d2d4e4fccf55ea3?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | Mar 11 |
 | **[LG Electronics North America](https://www.lg.com/us)** | **[Summer Internship - Home Appliance Solutions Product Management](https://jobright.ai/jobs/info/67d0f0f2cc8f6e68de34acf2?utm_campaign=1047&utm_source=git)** | Englewood Cliffs, NJ | On Site | Mar 11 |
 | **[Bosch](http://www.bosch.com)** | **[Power Systems Product Management Intern](https://jobright.ai/jobs/info/67d0d7af22185c5e7963f0ab?utm_campaign=1047&utm_source=git)** | 38000 Hills Tech Dr, Farmington Hills, MI 48331, USA | On Site | Mar 11 |
@@ -80,8 +82,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (TikTok-Product-Open Platform) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67d053202d3382d131765229?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 11 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Privacy and Responsibility) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67d053202d3382d13176522a?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 11 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67d053202d3382d13176522c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 11 |
-| ↳ | **[Product Strategy MBA Intern (Web Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/67d053202d3382d131765236?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Mar 11 |
 | ↳ | **[Product Manager Intern (TikTok-Search) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67d053202d3382d131765237?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 11 |
+| ↳ | **[Product Strategy MBA Intern (Web Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/67d053202d3382d131765236?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Mar 11 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67d053202d3382d13176523f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 11 |
 | ↳ | **[Product Manager Intern (TikTok-PGC) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67d053202d3382d131765245?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 11 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Masters Internship (Summer 2025)](https://jobright.ai/jobs/info/66d8729db382dfc3f0ce1040?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Mar 11 |
@@ -105,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Visa](https://www.visa.com)** | **[Product Strategy & Operations MBA Intern – Summer 2025](https://jobright.ai/jobs/info/67cf650caea750e8b0b7c2f3?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Mar 10 |
 | **[QGenda](https://www.qgenda.com)** | **[Product Intern](https://jobright.ai/jobs/info/67cf665f7a2ce8aa0cf37ab2?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Mar 10 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Control Solutions & Services – Product Management Lifecare Data Analytics Intern - Summer 2025](https://jobright.ai/jobs/info/67929e32661c93791711f04e?utm_campaign=1047&utm_source=git)** | Longmont, CO | On Site | Mar 10 |
-| ↳ | **[GE Vernova Control Solutions & Services – Product Management Intern Summer 2025](https://jobright.ai/jobs/info/6789c57a89c9415127968234?utm_campaign=1047&utm_source=git)** | Greenville, SC | On Site | Mar 10 |
 | ↳ | **[Wind Product Management MBA Intern](https://jobright.ai/jobs/info/679836cd3fa5c107735b0270?utm_campaign=1047&utm_source=git)** | Schenectady, NY | On Site | Mar 10 |
+| ↳ | **[GE Vernova Control Solutions & Services – Product Management Intern Summer 2025](https://jobright.ai/jobs/info/6789c57a89c9415127968234?utm_campaign=1047&utm_source=git)** | Greenville, SC | On Site | Mar 10 |
 | ↳ | **[GE Vernova Control Solutions & Services – Product Management Intern Summer 2025](https://jobright.ai/jobs/info/6792b1e99b57d4bb64718871?utm_campaign=1047&utm_source=git)** | Longmont, CO | On Site | Mar 10 |
 | ↳ | **[GE Vernova Control Solutions & Services – Product Management Intern Summer 2025](https://jobright.ai/jobs/info/67c9e4102d3a334e599ad1bd?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Mar 10 |
 | **[Trepp, Inc.](https://www.trepp.com/)** | **[Product & Data Analytics Intern](https://jobright.ai/jobs/info/67cf535a24a7ea0c16236447?utm_campaign=1047&utm_source=git)** | DFW Metroplex | Hybrid | Mar 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, AV Simulation - Summer 2025](https://jobright.ai/jobs/info/67cca9f1fa795141abce7c58?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Mar 07 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Summer 2025 Product Line Management Internship- Bachelors/Masters (Santa Clara, CA)](https://jobright.ai/jobs/info/67d100d9126df5fec8b3f9e5?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Mar 07 |
 | **[Pitney Bowes](https://www.pitneybowes.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67cd11734a81695336681545?utm_campaign=1047&utm_source=git)** | Stamford, CT | On Site | Mar 07 |
-| **[Apex Fintech Solutions](https://apexfintechsolutions.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67cbad50cd566c774fe3da97?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Mar 07 |
-| **[PEAK6 InsurTech](https://peak6.com/peak6-insurtech/)** | **[Product Management Intern](https://jobright.ai/jobs/info/67cbaf30cd566c774fe3df8b?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Mar 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
