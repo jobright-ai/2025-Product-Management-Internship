@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lazarus AI](https://www.lazarusforms.com)** | **[Product Manager - Summer Internship](https://jobright.ai/jobs/info/67d4eba31ddb9caaf0dade86?utm_campaign=1047&utm_source=git)** | Boston, MA | Remote | Mar 14 |
+| **[Acuity Brands](http://www.acuitybrands.com)** | **[Summer Intern - Product Operations](https://jobright.ai/jobs/info/67d4e2030cb9a9e6f2916c3a?utm_campaign=1047&utm_source=git)** | Decatur, GA | On Site | Mar 14 |
+| **[UKG](https://www.ukg.com)** | **[Product Management Internship - Summer 2025](https://jobright.ai/jobs/info/67d4e65e6b716febb730de33?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Mar 14 |
+| **[Hydrow, Inc.](https://hydrow.com)** | **[Product Management Co-op](https://jobright.ai/jobs/info/67d4d63445217a95fdedd624?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Mar 14 |
+| **[FINTRX](https://www.fintrx.com)** | **[Product & Research Intern](https://jobright.ai/jobs/info/67d4d63445217a95fdedd68f?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Mar 14 |
+| **[First American](http://www.firstam.com)** | **[2025 First American Internship - Product](https://jobright.ai/jobs/info/67d4d31978f8a81cba257279?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | On Site | Mar 14 |
 | **[EVgo](http://www.evgo.com)** | **[Intern, Product (EV Charging Strategy)](https://jobright.ai/jobs/info/67d4be8406d8f8fc78dae8bd?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 14 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[VC Product Management Co-op](https://jobright.ai/jobs/info/67d4b7e39dde376a48d80ccd?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Mar 14 |
 | **[Coherent Corp.](https://www.coherent.com/)** | **[Intern - Product Mgmt](https://jobright.ai/jobs/info/67d4b28b89530ed00f0884a8?utm_campaign=1047&utm_source=git)** | Pine Brook, NJ | On Site | Mar 14 |
@@ -150,11 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (TikTok-Product-Open Platform) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67d053202d3382d131765229?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 11 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Privacy and Responsibility) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67d053202d3382d13176522a?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 11 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67d053202d3382d13176522c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 11 |
-| ↳ | **[Product Manager Intern (TikTok-Search) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67d053202d3382d131765237?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 11 |
 | ↳ | **[Product Strategy MBA Intern (Web Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/67d053202d3382d131765236?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Mar 11 |
-| ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67d053202d3382d13176523f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 11 |
-| ↳ | **[Product Manager Intern (TikTok-PGC) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67d053202d3382d131765245?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 11 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Product Management Masters Internship (Summer 2025)](https://jobright.ai/jobs/info/66d8729db382dfc3f0ce1040?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Mar 11 |
-| **[CommScope](http://www.commscope.com)** | **[Product Line Management Intern](https://jobright.ai/jobs/info/67b3e9e3888dce587c2a85e0?utm_campaign=1047&utm_source=git)** | Apex, NC | On Site | Mar 11 |
-| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Grid Automation Product Management Intern - Summer-Fall 2025](https://jobright.ai/jobs/info/67d3d45d3fbb9e5559815ad2?utm_campaign=1047&utm_source=git)** | Rochester, NY | Remote | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
