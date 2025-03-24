@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Macy's](http://www.macysjobs.com)** | **[Macy's Internship Program - Supply Chain/Product Development and Sourcing](https://jobright.ai/jobs/info/67e0deab9e3193e6574d5f4d?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 23 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[MBA Product Manager Intern - Summer 2025 (Remote)](https://jobright.ai/jobs/info/673bb41e23a3d19e9a268b9f?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | Remote | Mar 23 |
 | **[Novanta Inc.](http://www.novanta.com)** | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/6711621417e98ce42005544f?utm_campaign=1047&utm_source=git)** | Rocklin, CA | On Site | Mar 23 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product and Technology Strategy Masters Internship (Summer 2025)](https://jobright.ai/jobs/info/66d1b01aa93dbef972d51f40?utm_campaign=1047&utm_source=git)** | Westerville, OH | On Site | Mar 23 |
@@ -89,9 +90,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (TikTok-Search) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67dd412dfd81984c9c8d3792?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 21 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67dd412dfd81984c9c8d3704?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 21 |
 | **[SHI International Corp.](http://www.shi.com)** | **[Jr. Product Owner - Internship](https://jobright.ai/jobs/info/67dd412dfd81984c9c8d3912?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Mar 21 |
+| **[HP](http://www.hp.com)** | **[Gaming New Product Introduction Intern](https://jobright.ai/jobs/info/67e10a224f373f3baa70c886?utm_campaign=1047&utm_source=git)** | Spring, TX | On Site | Mar 21 |
 | **[Altium Packaging](https://www.containerexperts.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/67dd28a665142f086ec27a3f?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Mar 20 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2025 Summer Project/Product Management Intern](https://jobright.ai/jobs/info/67de4ced997d6e2b3320a64f?utm_campaign=1047&utm_source=git)** | North Carolina, United States | On Site | Mar 20 |
-| ↳ | **[2025 Summer Project/Product Management Intern](https://jobright.ai/jobs/info/67de423d26643c3c16b32697?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Mar 20 |
+| **[HP](http://www.hp.com)** | **[Gaming New Product Introduction Intern](https://jobright.ai/jobs/info/67e0ef8e6c8dc7f6d0a839fc?utm_campaign=1047&utm_source=git)** | Fountain Valley, CA | On Site | Mar 20 |
+| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2025 Summer Project/Product Management Intern](https://jobright.ai/jobs/info/67de423d26643c3c16b32697?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Mar 20 |
 | **[Corpay](https://payments.corpay.com)** | **[Product Intern Job Description](https://jobright.ai/jobs/info/67dce4349aaa95b5a1619aec?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 20 |
 | **[Epicor](http://www.epicor.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67dcf48677df62f6f64b0001?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Mar 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Merchandise Strategy MBA Intern (TikTok Shop - US Operations Center) - 2025 Start (MBA)](https://jobright.ai/jobs/info/67c058d0dbf2a794b0eb3495?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 20 |
@@ -108,12 +111,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Gaming New Product Introduction Intern](https://jobright.ai/jobs/info/67dc65459425592126bc3b20?utm_campaign=1047&utm_source=git)** | Fountain Valley, California, United States of America | On Site | Mar 20 |
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Product Analyst Intern (Remote in Utah)](https://jobright.ai/jobs/info/67dc5c6ac38ba6f88582f2db?utm_campaign=1047&utm_source=git)** | Utah, United States | Remote | Mar 20 |
 | ↳ | **[Product Analyst Intern (Remote in Colorado)](https://jobright.ai/jobs/info/67dc5c6ac38ba6f88582f2e5?utm_campaign=1047&utm_source=git)** | Colorado, United States | Remote | Mar 20 |
-| ↳ | **[Product Analyst Intern (Remote in Arizona)](https://jobright.ai/jobs/info/67dc5c6ac38ba6f88582f2d2?utm_campaign=1047&utm_source=git)** | Arizona, United States | Remote | Mar 20 |
 | ↳ | **[Product Analyst Intern (Remote in North Carolina)](https://jobright.ai/jobs/info/67dc5c6ac38ba6f88582f2b6?utm_campaign=1047&utm_source=git)** | North Carolina, United States | Remote | Mar 20 |
+| ↳ | **[Product Analyst Intern (Remote in Arizona)](https://jobright.ai/jobs/info/67dc5c6ac38ba6f88582f2d2?utm_campaign=1047&utm_source=git)** | Arizona, United States | Remote | Mar 20 |
 | ↳ | **[Product Analyst Intern (Remote in North Carolina) ](https://jobright.ai/jobs/info/67dc42e1b0280173bcac3e25?utm_campaign=1047&utm_source=git)** | North Carolina | Remote | Mar 20 |
 | ↳ | **[Product Analyst Intern (Remote in Utah) ](https://jobright.ai/jobs/info/67dc42e1b0280173bcac3e26?utm_campaign=1047&utm_source=git)** | Utah | Remote | Mar 20 |
-| ↳ | **[Product Analyst Intern (Remote in Arizona) ](https://jobright.ai/jobs/info/67dc42e1b0280173bcac3e22?utm_campaign=1047&utm_source=git)** | Arizona | Remote | Mar 20 |
 | ↳ | **[Product Analyst Intern (Remote in Colorado)](https://jobright.ai/jobs/info/67dc42e1b0280173bcac3ed7?utm_campaign=1047&utm_source=git)** | Colorado | Remote | Mar 20 |
+| ↳ | **[Product Analyst Intern (Remote in Arizona) ](https://jobright.ai/jobs/info/67dc42e1b0280173bcac3e22?utm_campaign=1047&utm_source=git)** | Arizona | Remote | Mar 20 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Sr Product Manager - Technical, External Services MBA [Internship]](https://jobright.ai/jobs/info/673ebed2b28dffc0bda5960a?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 20 |
 | **[ABB](https://global.abb/group/en)** | **[Product Specialist Intern - Summer 2025](https://jobright.ai/jobs/info/67c94732b356c74951d394dd?utm_campaign=1047&utm_source=git)** | New Berlin, WI | On Site | Mar 20 |
 | **[Ingersoll Rand](https://www.irco.com/en-in)** | **[Product Management Intern](https://jobright.ai/jobs/info/67bf5d8b4ab5e9591419b305?utm_campaign=1047&utm_source=git)** | Quincy, IL | On Site | Mar 20 |
@@ -149,12 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Charles River Development](https://www.crd.com)** | **[Product Management Internship, CRD, Charles River Development](https://jobright.ai/jobs/info/67dbbc7292ee7b2a0442a794?utm_campaign=1047&utm_source=git)** | Burlington, MA | On Site | Mar 18 |
 | **[Alamar Biosciences, Inc.](https://alamarbio.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/67da490c0f8c033477f5ce10?utm_campaign=1047&utm_source=git)** | Fremont, CA | On Site | Mar 18 |
 | **[XiFin, Inc.](http://www.xifin.com)** | **[Product Management Intern, Clinical Services](https://jobright.ai/jobs/info/67da415b21a1a49a6017d78c?utm_campaign=1047&utm_source=git)** | SD Metro Area | On Site | Mar 18 |
+| **[Tommy Bahama](http://www.tommybahama.com)** | **[Sourcing and Product Development Design Intern](https://jobright.ai/jobs/info/67bcb34d550dd157bde98f64?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 18 |
 | **[Mutual of America Financial Group](http://www.mutualofamerica.com)** | **[Summer Internship - Product Development](https://jobright.ai/jobs/info/67da32f8c86c1571a608a58c?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 18 |
 | **[LivaNova](http://www.livanova.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/67da1a3ac9168bffb53c3c3c?utm_campaign=1047&utm_source=git)** | Houston, TX | Hybrid | Mar 18 |
 | **[Alamar Biosciences, Inc.](https://alamarbio.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/67da1579567e5eb0e50c6fa2?utm_campaign=1047&utm_source=git)** | Fremont, California | On Site | Mar 18 |
 | **[HealthEquity](http://www.healthequity.com)** | **[Intern- Product Security](https://jobright.ai/jobs/info/67da0c4e163aeb034742c918?utm_campaign=1047&utm_source=git)** | Draper, UT | On Site | Mar 18 |
-| **[Gwinnett County Government](https://www.gwinnettcounty.com)** | **[Intern - Business Analyst - Public Safety](https://jobright.ai/jobs/info/67da020f2f2f75f813a35151?utm_campaign=1047&utm_source=git)** | Gwinnett County, GA | On Site | Mar 18 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[Analyst Technical Product Management](https://jobright.ai/jobs/info/67d9fd0f23c0c44a03422a99?utm_campaign=1047&utm_source=git)** | Titusville, NJ | On Site | Mar 18 |
-| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SOLIDWORKS Mechatronics Product Management](https://jobright.ai/jobs/info/67d9e61c6c942eea35fd53fb?utm_campaign=1047&utm_source=git)** | Waltham, MA | Hybrid | Mar 18 |
-| **[Five Below](http://www.fivebelow.com)** | **[Summer Internship 2025 Product Operations, Sample Catalogue](https://jobright.ai/jobs/info/67d9e61c6c942eea35fd546c?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
