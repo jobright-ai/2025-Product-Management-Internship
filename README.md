@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gemini](https://gemini.com)** | **[Product Management Intern (Summer 2025)](https://jobright.ai/jobs/info/67e673bb3f9beaf12325b7b1?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 30 |
+| ↳ | **[Product Management Intern (Summer 2025)](https://jobright.ai/jobs/info/67e67dac129318a2b7c5f5f2?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Mar 30 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Product Management Trainee, Production Services - Summer/Fall 2025](https://jobright.ai/jobs/info/67cbd5bdabb6eff427f1397e?utm_campaign=1047&utm_source=git)** | Culver City, CA | On Site | Mar 29 |
 | **[GiveDirectly](https://www.givedirectly.org/)** | **[Senior Product Director, International Rapid Response](https://jobright.ai/jobs/info/67cb64bbbf7d0c8827653d4c?utm_campaign=1047&utm_source=git)** | New York, NY | Remote | Mar 29 |
 | **[Illumio](http://www.illumio.com)** | **[Product Management Intern (Summer 2025)](https://jobright.ai/jobs/info/6789d134a9e2b25e9ff0c935?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | Hybrid | Mar 29 |
@@ -79,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Honeywell](http://www.honeywell.com)** | **[Product Management Co-op](https://jobright.ai/jobs/info/67233c1c9e0922cf4896e8bd?utm_campaign=1047&utm_source=git)** | Pittsford, NY | On Site | Mar 28 |
 | **[Centerfield](http://www.centerfield.com)** | **[Product Intern, Summer 2025](https://jobright.ai/jobs/info/67cab7d42053f45efeee3c51?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Mar 28 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Commercial Lines Product Intern](https://jobright.ai/jobs/info/67c9e39aa33dc7dffa17075b?utm_campaign=1047&utm_source=git)** | Westfield Center, OH | Hybrid | Mar 28 |
+| **[Dorman Products](https://www.dormanproducts.com/)** | **[Product Intern](https://jobright.ai/jobs/info/67879f42228c4157390820ea?utm_campaign=1047&utm_source=git)** | Colmar, PA | Hybrid | Mar 28 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, AV Simulation - Summer 2025](https://jobright.ai/jobs/info/67e64eb5b78b3670a0007c44?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Mar 27 |
 | **[MiQ](https://www.wearemiq.com/)** | **[Product Summer Intern](https://jobright.ai/jobs/info/67e62f25198ccdaac16e9908?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Mar 27 |
 | **[iFIT](http://www.ifit.com)** | **[Subscription Product and Experience Intern](https://jobright.ai/jobs/info/67db5a6bbbcbeb52e6736760?utm_campaign=1047&utm_source=git)** | Logan, UT | On Site | Mar 27 |
@@ -119,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Crew Technology – Project Tech Support (Fall 2025)](https://jobright.ai/jobs/info/67c7f864af8d8f81cb73b12e?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Summer Intern, Product Development - SM Apparel](https://jobright.ai/jobs/info/67aab5545aa61ce950a0d0e5?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 26 |
 | **[Cantaloupe Inc](http://www.cantaloupe.com)** | **[Product Intern](https://jobright.ai/jobs/info/67e656a2830761d49d6f1f43?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Shark Product Development Co-op (July through December) ](https://jobright.ai/jobs/info/67e3664676a1c51c0eb80a65?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | Mar 25 |
-| ↳ | **[Fall 2025: Ninja Product Development Co-op (July through Mid December) ](https://jobright.ai/jobs/info/67e3664676a1c51c0eb80a93?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | Mar 25 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Ninja Product Development Co-op (July through Mid December) ](https://jobright.ai/jobs/info/67e3664676a1c51c0eb80a93?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | Mar 25 |
+| ↳ | **[Fall 2025: Shark Product Development Co-op (July through December) ](https://jobright.ai/jobs/info/67e3664676a1c51c0eb80a65?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | Mar 25 |
 | **[Gemini](https://gemini.com)** | **[Product Management Intern (Summer 2025)](https://jobright.ai/jobs/info/67e36d1e0f0957b6e7ee8090?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Mar 25 |
 | **[Integral Ad Science](http://www.integralads.com)** | **[Product Intern](https://jobright.ai/jobs/info/67e34ddc0b6ba060d4fc5638?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Mar 25 |
 | ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/67e340d8a5af883c4de9fd95?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Mar 25 |
@@ -140,8 +143,7 @@ For a complete list, click the following sortable link below:
 | **[Arrowhead Engineered Products](https://arrowheadepinc.com/)** | **[Product Management- Intern](https://jobright.ai/jobs/info/67e4ddcf51851fe5d911392b?utm_campaign=1047&utm_source=git)** | Boise, ID | On Site | Mar 24 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Digital Specification Technology Intern](https://jobright.ai/jobs/info/6781a3b1b5729a0f698a6a9a?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Mar 24 |
 | **[Coherent Corp.](https://www.coherent.com/)** | **[Intern- Product Management](https://jobright.ai/jobs/info/67e22880e3cce584fc4f8f48?utm_campaign=1047&utm_source=git)** | Fremont, CA | On Site | Mar 24 |
-| **[WernerCo.](https://www.wernercoprofessionalbrands.com)** | **[Product Management Intern - Work Vehicle Solutions](https://jobright.ai/jobs/info/67e233080affd81df7c5dc18?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Mar 24 |
-| **[Coherent Corp.](https://www.coherent.com/)** | **[Intern- Product Management](https://jobright.ai/jobs/info/67e1fd0950e47510a331db8f?utm_campaign=1047&utm_source=git)** | 48800 Milmont Drive, Fremont, CA, 94538, US | On Site | Mar 24 |
+| ↳ | **[Intern- Product Management](https://jobright.ai/jobs/info/67e1fd0950e47510a331db8f?utm_campaign=1047&utm_source=git)** | 48800 Milmont Drive, Fremont, CA, 94538, US | On Site | Mar 24 |
 | **[Podium](https://www.podium.com)** | **[Product Management Intern 2025](https://jobright.ai/jobs/info/67e1f6027eb4e41bd8d83cab?utm_campaign=1047&utm_source=git)** | Lehi, UT | On Site | Mar 24 |
 | **[Smith Micro Software, Inc.](http://www.smithmicro.com)** | **[Product Management Intern 2025](https://jobright.ai/jobs/info/67e1fe21b3ce07031b7a24b3?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | Hybrid | Mar 24 |
 | **[Podium](https://www.podium.com)** | **[Product Management Intern 2025](https://jobright.ai/jobs/info/67e1e23c6c5a6aabb246333d?utm_campaign=1047&utm_source=git)** | Lehi, Utah | On Site | Mar 24 |
@@ -150,7 +152,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Product Development, Plush](https://jobright.ai/jobs/info/67e1c3f0633575e127739664?utm_campaign=1047&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Mar 24 |
 | **[Smith Micro Software, Inc.](http://www.smithmicro.com)** | **[Product Management Intern 2025](https://jobright.ai/jobs/info/67e1ae20052a2cf63ddec636?utm_campaign=1047&utm_source=git)** | Pittsburgh, Pennsylvania | Hybrid | Mar 24 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Product Management Year-Round Intern](https://jobright.ai/jobs/info/67e19c2c7b198faa6cc39c1c?utm_campaign=1047&utm_source=git)** | Springdale, AR | On Site | Mar 24 |
-| ↳ | **[Product Management Year-Round Intern](https://jobright.ai/jobs/info/67e17a223abe270c56017cbd?utm_campaign=1047&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Mar 24 |
+| ↳ | **[Product Management Year-Round Intern](https://jobright.ai/jobs/info/67e17b7ed3e69a62b20f0072?utm_campaign=1047&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Mar 24 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2025](https://jobright.ai/jobs/info/6716f5075ef2d971e037b166?utm_campaign=1047&utm_source=git)** | Nashua, NH | On Site | Mar 24 |
 | **[Wolverine Worldwide](https://www.wolverineworldwide.com)** | **[Product Line Management Intern](https://jobright.ai/jobs/info/67c345fa8cf69975cfbf99d4?utm_campaign=1047&utm_source=git)** | Waltham, MA | On Site | Mar 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
