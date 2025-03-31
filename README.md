@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, AV Simulation - Summer 2025](https://jobright.ai/jobs/info/67ea9824694ea6f05b33869b?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Mar 31 |
 | **[Kinective](https://www.kinective.io)** | **[Product Management Intern](https://jobright.ai/jobs/info/67e9b01656513b0a2a5412f2?utm_campaign=1047&utm_source=git)** | Gilbert, AZ | On Site | Mar 30 |
 | **[Novanta Inc.](http://www.novanta.com)** | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/6711621417e98ce420055450?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Mar 30 |
+| **[Enovis](https://enovis.com)** | **[Product Development Co-op](https://jobright.ai/jobs/info/67af6fc2e6af2337d751c4dd?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Mar 30 |
+| **[Novanta Inc.](http://www.novanta.com)** | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/6711621417e98ce42005544f?utm_campaign=1047&utm_source=git)** | Rocklin, CA | On Site | Mar 30 |
 | ↳ | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/67117768e8ba99dfb0c6c762?utm_campaign=1047&utm_source=git)** | Bedford, MA | On Site | Mar 30 |
 | ↳ | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/67115faa618c77b8b16db9cd?utm_campaign=1047&utm_source=git)** | Apex, NC | On Site | Mar 30 |
 | **[Databricks](https://www.databricks.com)** | **[MBA Intern - Product Operations](https://jobright.ai/jobs/info/67928037151c36a6a6347a0b?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Mar 30 |
@@ -143,14 +146,9 @@ For a complete list, click the following sortable link below:
 | **[Arrowhead Engineered Products](https://arrowheadepinc.com/)** | **[Product Management- Intern](https://jobright.ai/jobs/info/67e4ddcf51851fe5d911392b?utm_campaign=1047&utm_source=git)** | Boise, ID | On Site | Mar 24 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Digital Specification Technology Intern](https://jobright.ai/jobs/info/6781a3b1b5729a0f698a6a9a?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Mar 24 |
 | **[Coherent Corp.](https://www.coherent.com/)** | **[Intern- Product Management](https://jobright.ai/jobs/info/67e22880e3cce584fc4f8f48?utm_campaign=1047&utm_source=git)** | Fremont, CA | On Site | Mar 24 |
-| **[WernerCo.](https://www.wernercoprofessionalbrands.com)** | **[Product Management Intern - Work Vehicle Solutions](https://jobright.ai/jobs/info/67e233080affd81df7c5dc18?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Mar 24 |
-| **[Coherent Corp.](https://www.coherent.com/)** | **[Intern- Product Management](https://jobright.ai/jobs/info/67e1fd0950e47510a331db8f?utm_campaign=1047&utm_source=git)** | 48800 Milmont Drive, Fremont, CA, 94538, US | On Site | Mar 24 |
+| ↳ | **[Intern- Product Management](https://jobright.ai/jobs/info/67e1fd0950e47510a331db8f?utm_campaign=1047&utm_source=git)** | 48800 Milmont Drive, Fremont, CA, 94538, US | On Site | Mar 24 |
 | **[Podium](https://www.podium.com)** | **[Product Management Intern 2025](https://jobright.ai/jobs/info/67e1f6027eb4e41bd8d83cab?utm_campaign=1047&utm_source=git)** | Lehi, UT | On Site | Mar 24 |
 | **[Smith Micro Software, Inc.](http://www.smithmicro.com)** | **[Product Management Intern 2025](https://jobright.ai/jobs/info/67e1fe21b3ce07031b7a24b3?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | Hybrid | Mar 24 |
 | **[Podium](https://www.podium.com)** | **[Product Management Intern 2025](https://jobright.ai/jobs/info/67e1e23c6c5a6aabb246333d?utm_campaign=1047&utm_source=git)** | Lehi, Utah | On Site | Mar 24 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2025 Product Development Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/67069b2f57b2e3ad8c34b6b3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 24 |
-| **[Jazwares, LLC](http://jazwares.com)** | **[Intern - Product Development](https://jobright.ai/jobs/info/67e1c3f0633575e127739612?utm_campaign=1047&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Mar 24 |
-| ↳ | **[Intern - Product Development, Plush](https://jobright.ai/jobs/info/67e1c3f0633575e127739664?utm_campaign=1047&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Mar 24 |
-| **[Smith Micro Software, Inc.](http://www.smithmicro.com)** | **[Product Management Intern 2025](https://jobright.ai/jobs/info/67e1ae20052a2cf63ddec636?utm_campaign=1047&utm_source=git)** | Pittsburgh, Pennsylvania | Hybrid | Mar 24 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Product Management Year-Round Intern](https://jobright.ai/jobs/info/67e19c2c7b198faa6cc39c1c?utm_campaign=1047&utm_source=git)** | Springdale, AR | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
