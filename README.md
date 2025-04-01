@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product manager Intern (Music Discovery) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/67eb8862213479a154c24489?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Mar 31 |
 | **[Novanta Inc.](http://www.novanta.com)** | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/67eb48c8eeac95f1048bfc2b?utm_campaign=1047&utm_source=git)** | Rocklin, CA | On Site | Mar 31 |
 | ↳ | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/67eb48c8eeac95f1048bfd08?utm_campaign=1047&utm_source=git)** | Mukilteo, WA | On Site | Mar 31 |
 | ↳ | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/67eb48c8eeac95f1048bfd09?utm_campaign=1047&utm_source=git)** | Syracuse, NY | On Site | Mar 31 |
@@ -89,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Product Management Trainee, Production Services - Summer/Fall 2025](https://jobright.ai/jobs/info/67cbd5bdabb6eff427f1397e?utm_campaign=1047&utm_source=git)** | Culver City, CA | On Site | Mar 29 |
 | **[GiveDirectly](https://www.givedirectly.org/)** | **[Senior Product Director, International Rapid Response](https://jobright.ai/jobs/info/67cb64bbbf7d0c8827653d4c?utm_campaign=1047&utm_source=git)** | New York, NY | Remote | Mar 29 |
 | **[Illumio](http://www.illumio.com)** | **[Product Management Intern (Summer 2025)](https://jobright.ai/jobs/info/6789d134a9e2b25e9ff0c935?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | Hybrid | Mar 29 |
-| **[Juniper Networks](http://www.juniper.net)** | **[Data Science Intern - Product Management Intern (Summer 2025)](https://jobright.ai/jobs/info/67cae5cfe953660b836a762a?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Mar 29 |
 | **[Appian](http://www.appian.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/67cc122914a35d5685ba8b6a?utm_campaign=1047&utm_source=git)** | McLean, VA | On Site | Mar 29 |
 | **[Alo Yoga](https://www.aloyoga.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/67e783c0ed2e51de2ef819d9?utm_campaign=1047&utm_source=git)** | Beverly Hills, CA | On Site | Mar 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product Infrastructure) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67e77ab79fdea0c6efc03994?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Mar 28 |
@@ -107,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Honeywell](http://www.honeywell.com)** | **[Product Management Co-op](https://jobright.ai/jobs/info/67233c1c9e0922cf4896e8bd?utm_campaign=1047&utm_source=git)** | Pittsford, NY | On Site | Mar 28 |
 | **[Centerfield](http://www.centerfield.com)** | **[Product Intern, Summer 2025](https://jobright.ai/jobs/info/67cab7d42053f45efeee3c51?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Mar 28 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[Product Intern](https://jobright.ai/jobs/info/67879f42228c4157390820ea?utm_campaign=1047&utm_source=git)** | Colmar, PA | Hybrid | Mar 28 |
+| **[Philips](https://www.usa.philips.com)** | **[Intern-Product Owner -Murrysville, PA-Summer 2025](https://jobright.ai/jobs/info/67eb88915387d59d51036b26?utm_campaign=1047&utm_source=git)** | Murrysville, PA | On Site | Mar 27 |
 | **[MiQ](https://www.wearemiq.com/)** | **[Product Summer Intern](https://jobright.ai/jobs/info/67e62f25198ccdaac16e9908?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Mar 27 |
 | **[HP](http://www.hp.com)** | **[Product Management Intern - Workforce Services and Solutions](https://jobright.ai/jobs/info/67ea0d17615fa52300f2261b?utm_campaign=1047&utm_source=git)** | Spring, TX | On Site | Mar 27 |
 | **[iFIT](http://www.ifit.com)** | **[Subscription Product and Experience Intern](https://jobright.ai/jobs/info/67db5a6bbbcbeb52e6736760?utm_campaign=1047&utm_source=git)** | Logan, UT | On Site | Mar 27 |
@@ -124,6 +125,7 @@ For a complete list, click the following sortable link below:
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[Product Intern](https://jobright.ai/jobs/info/67e533e774b0dc8a0035e9e9?utm_campaign=1047&utm_source=git)** | Remote, United States | Remote | Mar 27 |
 | ↳ | **[Product Intern](https://jobright.ai/jobs/info/67e54aa117488ada46dcb0b3?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 27 |
 | **[GlobalFoundries](https://gf.com/)** | **[Product Management Intern, CMOS Product Line (Summer 2025)](https://jobright.ai/jobs/info/67e59c2fd8b8d7c5e2cf2973?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Mar 27 |
+| **[ECI Software Solutions](http://ecisolutions.com)** | **[Product Management Interns](https://jobright.ai/jobs/info/67eb9e0aa7645d1d704e3229?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 26 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Product Management - Pro Audio](https://jobright.ai/jobs/info/67e6381e968787d72ac51493?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Mar 26 |
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern, Product Management & Development](https://jobright.ai/jobs/info/67e4d3bbf3789e2f1c29cf45?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Mar 26 |
 | **[Radian](https://www.radian.com/)** | **[2025 Product Development Summer Intern (100% Remote)](https://jobright.ai/jobs/info/67e49f8031a542f4cff6ed2c?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Mar 26 |
@@ -147,9 +149,4 @@ For a complete list, click the following sortable link below:
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern-Product Management/Marketing (Summer 2025)](https://jobright.ai/jobs/info/67e328496b4314e58b825ff2?utm_campaign=1047&utm_source=git)** | Brillion, WI | On Site | Mar 25 |
 | **[Kinetik](https://kinetik.care/)** | **[Product Manager Intern ](https://jobright.ai/jobs/info/67e2faf8af1cddd2785c3c41?utm_campaign=1047&utm_source=git)** | Queens, New York, United States | On Site | Mar 25 |
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern-Product Management/Marketing (Summer 2025)](https://jobright.ai/jobs/info/67e2f4af60aaaff7e1901e13?utm_campaign=1047&utm_source=git)** | WI - Brillion | On Site | Mar 25 |
-| **[OPSWAT](http://www.opswat.com)** | **[Product Manager Intern (Summer)](https://jobright.ai/jobs/info/67e2f3eaf72a906c318834e6?utm_campaign=1047&utm_source=git)** | Tampa, FL | On Site | Mar 25 |
-| **[Leland](https://www.joinleland.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67e2faf8af1cddd2785c3f99?utm_campaign=1047&utm_source=git)** | Lehi, UT | On Site | Mar 25 |
-| **[MSCI](http://msci.com)** | **[Segment Strategy Product Summer Intern](https://jobright.ai/jobs/info/67e2c65e72ee0e8975818560?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Mar 25 |
-| **[Graco](http://graco.com/in/en/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/67c687e1032620e7a369a7bb?utm_campaign=1047&utm_source=git)** | Anoka, MN | On Site | Mar 25 |
-| **[SolarWinds](http://www.solarwinds.com)** | **[Product Intern](https://jobright.ai/jobs/info/67d8317462d47f078f762f2c?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
