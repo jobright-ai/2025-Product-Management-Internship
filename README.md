@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Novanta Inc.](http://www.novanta.com)** | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/67eb48c8eeac95f1048bfc2b?utm_campaign=1047&utm_source=git)** | Rocklin, CA | On Site | Mar 31 |
+| ↳ | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/67eb48c8eeac95f1048bfd08?utm_campaign=1047&utm_source=git)** | Mukilteo, WA | On Site | Mar 31 |
+| ↳ | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/67eb48c8eeac95f1048bfd09?utm_campaign=1047&utm_source=git)** | Syracuse, NY | On Site | Mar 31 |
+| ↳ | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/67eb48c8eeac95f1048bfd0e?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Mar 31 |
+| ↳ | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/67eb48c8eeac95f1048bfd14?utm_campaign=1047&utm_source=git)** | Apex, NC | On Site | Mar 31 |
+| ↳ | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/67eb48c8eeac95f1048bfd16?utm_campaign=1047&utm_source=git)** | Bedford, MA | On Site | Mar 31 |
+| ↳ | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/67eb48c8eeac95f1048bfd1b?utm_campaign=1047&utm_source=git)** | Sarasota, FL | On Site | Mar 31 |
+| **[Viasat](http://www.viasat.com)** | **[Data Science Intern, Product Management](https://jobright.ai/jobs/info/67eb36cd43644ffef5908ceb?utm_campaign=1047&utm_source=git)** | Carlsbad, CA | Hybrid | Mar 31 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Summer Intern, Product - Allrecipes](https://jobright.ai/jobs/info/67eb1db4cc873bd9dcc887c5?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 31 |
 | **[Molex](http://www.molex.com)** | **[Product Specialist Intern](https://jobright.ai/jobs/info/67eb1db4cc873bd9dcc885be?utm_campaign=1047&utm_source=git)** | Torrington, CT | On Site | Mar 31 |
 | ↳ | **[Product Specialist Intern](https://jobright.ai/jobs/info/67eb1db4cc873bd9dcc8892f?utm_campaign=1047&utm_source=git)** | South Grafton, MA | On Site | Mar 31 |
@@ -114,7 +122,7 @@ For a complete list, click the following sortable link below:
 | **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Data Science Product Management Intern](https://jobright.ai/jobs/info/67e57893828e8f5e7ac4ca7c?utm_campaign=1047&utm_source=git)** | Fort Mill, SC | Hybrid | Mar 27 |
 | **[Korn Ferry](http://www.kornferry.com)** | **[Intern - Digital Delivery](https://jobright.ai/jobs/info/67ac23deaeec9d407c4fe531?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 27 |
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[Product Intern](https://jobright.ai/jobs/info/67e533e774b0dc8a0035e9e9?utm_campaign=1047&utm_source=git)** | Remote, United States | Remote | Mar 27 |
-| ↳ | **[Product Intern](https://jobright.ai/jobs/info/67e54029b606d9ecbed19a6a?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 27 |
+| ↳ | **[Product Intern](https://jobright.ai/jobs/info/67e54aa117488ada46dcb0b3?utm_campaign=1047&utm_source=git)** | United States | Remote | Mar 27 |
 | **[GlobalFoundries](https://gf.com/)** | **[Product Management Intern, CMOS Product Line (Summer 2025)](https://jobright.ai/jobs/info/67e59c2fd8b8d7c5e2cf2973?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Mar 27 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Product Management - Pro Audio](https://jobright.ai/jobs/info/67e6381e968787d72ac51493?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Mar 26 |
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern, Product Management & Development](https://jobright.ai/jobs/info/67e4d3bbf3789e2f1c29cf45?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Mar 26 |
@@ -128,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Crew Technology – Project Tech Support (Fall 2025)](https://jobright.ai/jobs/info/67c7f864af8d8f81cb73b12e?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Summer Intern, Product Development - SM Apparel](https://jobright.ai/jobs/info/67aab5545aa61ce950a0d0e5?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Mar 26 |
 | **[Cantaloupe Inc](http://www.cantaloupe.com)** | **[Product Intern](https://jobright.ai/jobs/info/67e656a2830761d49d6f1f43?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Ninja Product Development Co-op (July through Mid December) ](https://jobright.ai/jobs/info/67e3664676a1c51c0eb80a93?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | Mar 25 |
-| ↳ | **[Fall 2025: Shark Product Development Co-op (July through December) ](https://jobright.ai/jobs/info/67e3664676a1c51c0eb80a65?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | Mar 25 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Shark Product Development Co-op (July through December) ](https://jobright.ai/jobs/info/67e3664676a1c51c0eb80a65?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | Mar 25 |
+| ↳ | **[Fall 2025: Ninja Product Development Co-op (July through Mid December) ](https://jobright.ai/jobs/info/67e3664676a1c51c0eb80a93?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | Mar 25 |
 | **[Gemini](https://gemini.com)** | **[Product Management Intern (Summer 2025)](https://jobright.ai/jobs/info/67e36d1e0f0957b6e7ee8090?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Mar 25 |
 | **[Integral Ad Science](http://www.integralads.com)** | **[Product Intern](https://jobright.ai/jobs/info/67e34ddc0b6ba060d4fc5638?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Mar 25 |
 | ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/67e340d8a5af883c4de9fd95?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Mar 25 |
@@ -144,5 +152,4 @@ For a complete list, click the following sortable link below:
 | **[MSCI](http://msci.com)** | **[Segment Strategy Product Summer Intern](https://jobright.ai/jobs/info/67e2c65e72ee0e8975818560?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Mar 25 |
 | **[Graco](http://graco.com/in/en/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/67c687e1032620e7a369a7bb?utm_campaign=1047&utm_source=git)** | Anoka, MN | On Site | Mar 25 |
 | **[SolarWinds](http://www.solarwinds.com)** | **[Product Intern](https://jobright.ai/jobs/info/67d8317462d47f078f762f2c?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Mar 25 |
-| **[Novanta Inc.](http://www.novanta.com)** | **[sWE24 Conference - Product Manager MBA Intern](https://jobright.ai/jobs/info/6711621417e98ce420055453?utm_campaign=1047&utm_source=git)** | Sarasota, FL | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
