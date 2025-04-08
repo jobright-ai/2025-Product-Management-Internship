@@ -57,16 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acuity](http://www.acuitybrands.com)** | **[Summer Internship - Product Management Technology (Remote)](https://jobright.ai/jobs/info/67f48f7737a5a4eebde37c0c?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Remote | Apr 07 |
+| **[TemperPack](https://www.temperpack.com/)** | **[New Product Development WK Intern](https://jobright.ai/jobs/info/67eaac371fbfc3a5c3f27ba7?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Apr 07 |
 | **[Forbes](https://www.forbesmagazine.com)** | **[Summer 2025 Digital Product Development Intern](https://jobright.ai/jobs/info/67f445cd44030f2dfa4655c7?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 07 |
 | **[Novanta Inc.](http://www.novanta.com)** | **[Product Manager MBA Intern](https://jobright.ai/jobs/info/67f435773ddd00b1a1adcbcb?utm_campaign=1047&utm_source=git)** | Apex, NC | On Site | Apr 07 |
 | **[PGP Title](https://www.pgptitle.com)** | **[Title & Insurance Product Strategy Summer 2025 Intern (PGP Title)](https://jobright.ai/jobs/info/67f44ad5819f83b372c6025a?utm_campaign=1047&utm_source=git)** | Coppell, TX | Hybrid | Apr 07 |
+| **[Appian](http://www.appian.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/67edff7b5682a280cc104ef4?utm_campaign=1047&utm_source=git)** | McLean, VA | On Site | Apr 07 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Digital Product Summer Intern](https://jobright.ai/jobs/info/67f403df8743cb159385cb0f?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 07 |
 | **[Vertex Pharmaceuticals](http://www.vrtx.com)** | **[Vertex Summer 2025 Intern, Commercial Technology Business Analyst (Boston, MA)](https://jobright.ai/jobs/info/67f3fb9a923ed27fe09c9646?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Apr 07 |
-| **[The Cigna Group](https://www.cigna.com/)** | **[Clinical & Trend Solutions Intern](https://jobright.ai/jobs/info/67f40bee5615de3da1e1a4dc?utm_campaign=1047&utm_source=git)** | Bloomington, MN | Hybrid | Apr 07 |
-| ↳ | **[Clinical & Trend Solutions Intern](https://jobright.ai/jobs/info/67f40dcf5615de3da1e1ac75?utm_campaign=1047&utm_source=git)** | St Louis, MO | Hybrid | Apr 07 |
+| **[The Cigna Group](https://www.cigna.com/)** | **[Clinical & Trend Solutions Intern](https://jobright.ai/jobs/info/67f40dcf5615de3da1e1ac75?utm_campaign=1047&utm_source=git)** | St Louis, MO | Hybrid | Apr 07 |
+| ↳ | **[Clinical & Trend Solutions Intern](https://jobright.ai/jobs/info/67f40bee5615de3da1e1a4dc?utm_campaign=1047&utm_source=git)** | Bloomington, MN | Hybrid | Apr 07 |
 | **[Benchmark Gensuite®](https://benchmarkgensuite.com)** | **[[US] Product Management Intern / Associate](https://jobright.ai/jobs/info/67f3df6f649732861f4e9191?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Apr 07 |
 | **[Benjamin Moore](http://www.benjaminmoore.com/en-us/)** | **[Product Stewardship Intern](https://jobright.ai/jobs/info/67eeea020c0184ae893589bf?utm_campaign=1047&utm_source=git)** | Montvale, NJ | On Site | Apr 07 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Product Intern-Graduate](https://jobright.ai/jobs/info/67f3c6eb3d30e6d5a9167b91?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Apr 07 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Product Intern-Graduate](https://jobright.ai/jobs/info/67f3bef737c2a27e4cf94a08?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Apr 07 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (TikTok Shop - Feeds Recommendation)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/67d6d20799405322058b7132?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Apr 07 |
 | **[Auzmor](https://auzmor.com)** | **[Business Analyst / Product Owner (Internship to Full time opportunity)](https://jobright.ai/jobs/info/67f2e5d35408d0ff92556a5d?utm_campaign=1047&utm_source=git)** | Des Moines, IA | On Site | Apr 06 |
 | **[Cisco](http://www.cisco.com)** | **[Product Manager MBA (Intern) United States](https://jobright.ai/jobs/info/67f206c599267ad1eec4c62d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product Infrastructure) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67d43e18d51e8027ac3d48e9?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 05 |
@@ -83,15 +87,14 @@ For a complete list, click the following sortable link below:
 | **[Mitchell International](http://www.mitchell.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67f0ac76015cd57062ce69b5?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 04 |
 | **[Entegris](http://www.entegris.com)** | **[Product Management Co-Op](https://jobright.ai/jobs/info/67d37cefdc158985ed3db3b2?utm_campaign=1047&utm_source=git)** | Billerica, MA | On Site | Apr 04 |
 | **[QuidelOrtho](http://quidelortho.com)** | **[Global Product Management Intern](https://jobright.ai/jobs/info/67f084045ce27685bc86aaba?utm_campaign=1047&utm_source=git)** | Oneida County, NY | Hybrid | Apr 04 |
-| ↳ | **[Global Product Management Intern](https://jobright.ai/jobs/info/67f069c41e29a07e177e1229?utm_campaign=1047&utm_source=git)** | US | On Site | Apr 04 |
 | ↳ | **[Global Product Management Intern](https://jobright.ai/jobs/info/67f069c41e29a07e177e1209?utm_campaign=1047&utm_source=git)** | US - NJ - Raritan | On Site | Apr 04 |
 | ↳ | **[Global Product Management Intern](https://jobright.ai/jobs/info/67f069c41e29a07e177e1228?utm_campaign=1047&utm_source=git)** | US - NY - Rochester | On Site | Apr 04 |
+| ↳ | **[Global Product Management Intern](https://jobright.ai/jobs/info/67f069c41e29a07e177e1229?utm_campaign=1047&utm_source=git)** | US | On Site | Apr 04 |
 | **[Force Factor](https://forcefactor.com/)** | **[Fall 2025 Product Development Intern](https://jobright.ai/jobs/info/67f07b5ec2d841b76fca2549?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Apr 04 |
 | **[NetApp](http://netapp.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/67f04909b28d69b1ebfd546d?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Apr 04 |
 | **[Niterra North America, Inc.](https://ngksparkplugs.com/en/)** | **[INTERN - PRODUCT](https://jobright.ai/jobs/info/679352018ce26e81cc7a7bf0?utm_campaign=1047&utm_source=git)** | Wixom, MI | On Site | Apr 04 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Product Management Intern (Intern Program)](https://jobright.ai/jobs/info/67f01708ba92eb874814fbe1?utm_campaign=1047&utm_source=git)** | Beachwood, OH | Hybrid | Apr 04 |
 | **[WEX](http://www.wexinc.com)** | **[Growth Product Manager Intern](https://jobright.ai/jobs/info/67d336b50cf24ce1f936ba0a?utm_campaign=1047&utm_source=git)** | Maine, United States | On Site | Apr 04 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[Summer 2025 Product Line Management Internship- Bachelors/Masters (Santa Clara, CA)](https://jobright.ai/jobs/info/67f0a709ab6393bcb47dd128?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Apr 04 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Product Management Intern (Intern Program)](https://jobright.ai/jobs/info/67efeff463c34114ba8ae4cb?utm_campaign=1047&utm_source=git)** | 3735 Green Road, Beachwood, OH, 44122, US | On Site | Apr 04 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Product Development Co-op, Hair Care (July through Mid December)](https://jobright.ai/jobs/info/67dd192a4883fffe6b603353?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Apr 04 |
 | ↳ | **[Summer 2025: Product Development Intern, Shark](https://jobright.ai/jobs/info/67ee4cad0b246514fef4dbe2?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Apr 04 |
@@ -150,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Intrado](https://www.intrado.com/)** | **[Summer Intern - Product Management](https://jobright.ai/jobs/info/67ec84ab55ace3436367d130?utm_campaign=1047&utm_source=git)** | Longmont, CO | Hybrid | Apr 01 |
 | **[Cinch Home Services](https://www.cinchhomeservices.com/)** | **[Digital Product Analyst Intern](https://jobright.ai/jobs/info/67ec78fd6f76696fd2810d1d?utm_campaign=1047&utm_source=git)** | Boca Raton, FL | On Site | Apr 01 |
 | **[OMG Building Products LLC](http://opportunitymanagementgroup.com)** | **[Summer Intern - Product Development](https://jobright.ai/jobs/info/67ec5cdc93a06f9a5ebe734a?utm_campaign=1047&utm_source=git)** | Agawam, MA | On Site | Apr 01 |
-| **[TikTok](https://www.tiktok.com)** | **[Global Product Solutions and Operations Intern (Core Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/67cefc2960d1cff9791c0b88?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 01 |
-| ↳ | **[Product Manager Intern (TikTok-Search) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67d053202d3382d131765242?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 01 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67d053202d3382d131765242?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 01 |
 | ↳ | **[Product Manager MBA Intern (Web Ads and Open-Loop E-Commerce) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67cefc2960d1cff9791c0b84?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 01 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Open Platform) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67e25b7461ae2e5d7d2a1920?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 01 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Product Development Summer Internship 2025](https://jobright.ai/jobs/info/6791cef52ac8903337e01e60?utm_campaign=1047&utm_source=git)** | Egg Harbor, NJ | On Site | Apr 01 |
-| **[TikTok](https://www.tiktok.com)** | **[Product manager Intern (Music Discovery) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/67ebc3ac95058fc4d2f13924?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
