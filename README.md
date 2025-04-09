@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charles River Development](https://www.crd.com)** | **[Product Management Internship, CRD, Charles River Development](https://jobright.ai/jobs/info/67f66569a4b1d2853c159c1c?utm_campaign=1047&utm_source=git)** | Burlington, MA | On Site | Apr 09 |
+| **[Jack Henry](http://www.jackhenry.com)** | **[Product Go-To-Market (GTM) Manager - Apprenticeship](https://jobright.ai/jobs/info/67f66337a2d439ffcf5ac75e?utm_campaign=1047&utm_source=git)** | USA | Remote | Apr 09 |
 | **[FactSet](http://www.factset.com)** | **[Product Development Intern - Americas (Summer 2025)](https://jobright.ai/jobs/info/67f607eb6853a6812296b2c4?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 08 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Product Manager Intern - IT Foundations (summer - full time)](https://jobright.ai/jobs/info/67f5f173b21a7d2e1c5c6074?utm_campaign=1047&utm_source=git)** | Riverton, UT | Hybrid | Apr 08 |
 | **[Optum](https://www.optum.com/)** | **[Product Management Grad Intern - Boston, MN, or DC](https://jobright.ai/jobs/info/67f5b6191ca62aaac2cea0e4?utm_campaign=1047&utm_source=git)** | Eden Prairie, MN | Hybrid | Apr 08 |
@@ -73,12 +75,12 @@ For a complete list, click the following sortable link below:
 | **[Appian](http://www.appian.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/67edff7b5682a280cc104ef4?utm_campaign=1047&utm_source=git)** | McLean, VA | On Site | Apr 07 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Digital Product Summer Intern](https://jobright.ai/jobs/info/67f403df8743cb159385cb0f?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 07 |
 | **[Vertex Pharmaceuticals](http://www.vrtx.com)** | **[Vertex Summer 2025 Intern, Commercial Technology Business Analyst (Boston, MA)](https://jobright.ai/jobs/info/67f3fb9a923ed27fe09c9646?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Apr 07 |
-| **[The Cigna Group](https://www.cigna.com/)** | **[Clinical & Trend Solutions Intern](https://jobright.ai/jobs/info/67f40bee5615de3da1e1a4dc?utm_campaign=1047&utm_source=git)** | Bloomington, MN | Hybrid | Apr 07 |
-| ↳ | **[Clinical & Trend Solutions Intern](https://jobright.ai/jobs/info/67f40dcf5615de3da1e1ac75?utm_campaign=1047&utm_source=git)** | St Louis, MO | Hybrid | Apr 07 |
+| **[The Cigna Group](https://www.cigna.com/)** | **[Clinical & Trend Solutions Intern](https://jobright.ai/jobs/info/67f40dcf5615de3da1e1ac75?utm_campaign=1047&utm_source=git)** | St Louis, MO | Hybrid | Apr 07 |
 | **[Benchmark Gensuite®](https://benchmarkgensuite.com)** | **[[US] Product Management Intern / Associate](https://jobright.ai/jobs/info/67f3df6f649732861f4e9191?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Apr 07 |
 | **[Benjamin Moore](http://www.benjaminmoore.com/en-us/)** | **[Product Stewardship Intern](https://jobright.ai/jobs/info/67eeea020c0184ae893589bf?utm_campaign=1047&utm_source=git)** | Montvale, NJ | On Site | Apr 07 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Product Intern-Graduate](https://jobright.ai/jobs/info/67f3c6eb3d30e6d5a9167b91?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Apr 07 |
 | **[Juniper Networks](http://www.juniper.net)** | **[Data Science Intern - Product Management Intern (Summer 2025)](https://jobright.ai/jobs/info/67f55f5774d1937bf1176e68?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Apr 07 |
+| **[Juniper Networks](http://www.juniper.net)** | **[Product Line Management Intern - GenAI/LLM (Summer 2025)](https://jobright.ai/jobs/info/67f639c95fbf1664b3acec63?utm_campaign=1047&utm_source=git)** | Cupertino, CA | On Site | Apr 06 |
 | **[Auzmor](https://auzmor.com)** | **[Business Analyst / Product Owner (Internship to Full time opportunity)](https://jobright.ai/jobs/info/67f2e5d35408d0ff92556a5d?utm_campaign=1047&utm_source=git)** | Des Moines, IA | On Site | Apr 06 |
 | **[Cisco](http://www.cisco.com)** | **[Product Manager MBA (Intern) United States](https://jobright.ai/jobs/info/67f206c599267ad1eec4c62d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product Infrastructure) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67d43e18d51e8027ac3d48e9?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 05 |
@@ -132,5 +134,4 @@ For a complete list, click the following sortable link below:
 | **[VSE Corporation](http://www.vsecorp.com)** | **[Intern - Product Line Management - Actuation](https://jobright.ai/jobs/info/67d073c94a55dc1ea67da05b?utm_campaign=1047&utm_source=git)** | Miami, FL | On Site | Apr 02 |
 | **[Schneider Electric](https://www.se.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67ee1e1b100c1edf3ffa6fa5?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Apr 02 |
 | **[Pangaea](https://pangaea.holdings)** | **[Product Development Intern](https://jobright.ai/jobs/info/67ef5b0a615aaa2dfdf7f0fa?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Apr 02 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (TikTok-Product-Data Science-Vertical) - 2025 Summer (MS)](https://jobright.ai/jobs/info/67d18f95a2713a1406bc4d6d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
