@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PitchBook](http://www.pitchbook.com)** | **[Core CX Usage Analytics, Product Management Summer Intern](https://jobright.ai/jobs/info/67efa76fde60ac569bbf4559?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 09 |
 | **[Copart](http://www.copart.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/67f72299fd94ae6ab2d0e6e3?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Apr 09 |
 | **[Zeitro](https://www.zeitro.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/67f713129208002f2a3e99ae?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | Hybrid | Apr 09 |
 | **[Cambridge Mobile Telematics](http://cmtelematics.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67f713129208002f2a3e998e?utm_campaign=1047&utm_source=git)** | Massachusetts, United States | Hybrid | Apr 09 |
@@ -68,16 +69,16 @@ For a complete list, click the following sortable link below:
 | **[HealthEquity](http://www.healthequity.com)** | **[Intern - Product Development](https://jobright.ai/jobs/info/67f1253ff85160a627db83d4?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 09 |
 | **[Leidos](https://www.leidos.com/)** | **[Product Management Intern - DOD Healthcare Management System Modernization (DHMSM)](https://jobright.ai/jobs/info/67f6af054e17ed218c446625?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 09 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67f6a57faa1efda2ac14b4f3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 09 |
-| **[Juniper Networks](http://www.juniper.net)** | **[Product Line Management Intern - GenAI/LLM (Summer 2025)](https://jobright.ai/jobs/info/67f639c95fbf1664b3acec63?utm_campaign=1047&utm_source=git)** | Cupertino, CA | On Site | Apr 09 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Digital Platforms Development & Product Ownership <Newtown Square, PA>](https://jobright.ai/jobs/info/67f756916be946622b3a65d3?utm_campaign=1047&utm_source=git)** | Newtown Square, PA | Hybrid | Apr 09 |
 | **[Hamilton Company](http://hamiltoncompany.com)** | **[Product Specialist Intern](https://jobright.ai/jobs/info/67f6c2e3c9731f5444ac043f?utm_campaign=1047&utm_source=git)** | Reno, NV | On Site | Apr 09 |
 | **[NetApp](http://netapp.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/67f695382af70129bf256618?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Apr 09 |
 | **[Dover Food Retail](https://www.dovercorporation.com/our-markets/refrigeration-and-food-equipment/)** | **[Intern, Product Management](https://jobright.ai/jobs/info/67f68ec61897aeda809a6077?utm_campaign=1047&utm_source=git)** | Chesterfield, VA | On Site | Apr 09 |
 | **[First American](http://www.firstam.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/67a158ea6ade5a22a8aeb8f9?utm_campaign=1047&utm_source=git)** | Santa Ana, CA | On Site | Apr 09 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67f682edd4af0e480f903f50?utm_campaign=1047&utm_source=git)** | New York, NY (55th St) | On Site | Apr 09 |
+| **[iHeartMedia](http://iheartmedia.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67f682edd4af0e480f903e23?utm_campaign=1047&utm_source=git)** | New York, NY (55th St) | On Site | Apr 09 |
 | **[Niterra North America, Inc.](https://ngksparkplugs.com/en/)** | **[INTERN - PRODUCT](https://jobright.ai/jobs/info/679352018ce26e81cc7a7bf0?utm_campaign=1047&utm_source=git)** | Wixom, MI | On Site | Apr 09 |
 | **[Conair LLC](http://www.conair.com/)** | **[2025 Home and Wellness Intern](https://jobright.ai/jobs/info/67a00cd191a8e9aa5314a1f3?utm_campaign=1047&utm_source=git)** | Stamford, CT | Hybrid | Apr 09 |
 | **[Charles River Development](https://www.crd.com)** | **[Product Management Internship, CRD, Charles River Development](https://jobright.ai/jobs/info/67f66569a4b1d2853c159c1c?utm_campaign=1047&utm_source=git)** | Burlington, MA | On Site | Apr 09 |
-| **[Jack Henry](http://www.jackhenry.com)** | **[Product Go-To-Market (GTM) Manager - Apprenticeship](https://jobright.ai/jobs/info/67f66337a2d439ffcf5ac75e?utm_campaign=1047&utm_source=git)** | USA | Remote | Apr 09 |
+| **[Jack Henry](http://www.jackhenry.com)** | **[Product Go-To-Market (GTM) Manager - Apprenticeship](https://jobright.ai/jobs/info/67f66337a2d439ffcf5ac789?utm_campaign=1047&utm_source=git)** | USA | Remote | Apr 09 |
 | **[FactSet](http://www.factset.com)** | **[Product Development Intern - Americas (Summer 2025)](https://jobright.ai/jobs/info/67f607eb6853a6812296b2c4?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 08 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Product Manager Intern - IT Foundations (summer - full time)](https://jobright.ai/jobs/info/67f5f173b21a7d2e1c5c6074?utm_campaign=1047&utm_source=git)** | Riverton, UT | Hybrid | Apr 08 |
 | **[Optum](https://www.optum.com/)** | **[Product Management Grad Intern - Boston, MN, or DC](https://jobright.ai/jobs/info/67f5b6191ca62aaac2cea0e4?utm_campaign=1047&utm_source=git)** | Eden Prairie, MN | Hybrid | Apr 08 |
@@ -112,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Entegris](http://www.entegris.com)** | **[Product Management Co-Op](https://jobright.ai/jobs/info/67d37cefdc158985ed3db3b2?utm_campaign=1047&utm_source=git)** | Billerica, MA | On Site | Apr 04 |
 | **[QuidelOrtho](http://quidelortho.com)** | **[Global Product Management Intern](https://jobright.ai/jobs/info/67f084045ce27685bc86aaba?utm_campaign=1047&utm_source=git)** | Oneida County, NY | Hybrid | Apr 04 |
 | ↳ | **[Global Product Management Intern](https://jobright.ai/jobs/info/67f069c41e29a07e177e1209?utm_campaign=1047&utm_source=git)** | US - NJ - Raritan | On Site | Apr 04 |
-| ↳ | **[Global Product Management Intern](https://jobright.ai/jobs/info/67f069c41e29a07e177e1229?utm_campaign=1047&utm_source=git)** | US | On Site | Apr 04 |
 | ↳ | **[Global Product Management Intern](https://jobright.ai/jobs/info/67f069c41e29a07e177e1228?utm_campaign=1047&utm_source=git)** | US - NY - Rochester | On Site | Apr 04 |
+| ↳ | **[Global Product Management Intern](https://jobright.ai/jobs/info/67f069c41e29a07e177e1229?utm_campaign=1047&utm_source=git)** | US | On Site | Apr 04 |
 | **[Force Factor](https://forcefactor.com/)** | **[Fall 2025 Product Development Intern](https://jobright.ai/jobs/info/67f07b5ec2d841b76fca2549?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Apr 04 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Product Management Intern (Intern Program)](https://jobright.ai/jobs/info/67f01708ba92eb874814fbe1?utm_campaign=1047&utm_source=git)** | Beachwood, OH | Hybrid | Apr 04 |
 | **[WEX](http://www.wexinc.com)** | **[Growth Product Manager Intern](https://jobright.ai/jobs/info/67d336b50cf24ce1f936ba0a?utm_campaign=1047&utm_source=git)** | Maine, United States | On Site | Apr 04 |
@@ -122,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2025: Product Development Intern, Shark](https://jobright.ai/jobs/info/67ee4cad0b246514fef4dbe2?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Apr 04 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Loan Servicing Specialist](https://jobright.ai/jobs/info/677bd425125f8b2f99a00420?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | Hybrid | Apr 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67e4e7db97f4ebefa10a9270?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 04 |
-| **[PitchBook](http://www.pitchbook.com)** | **[Core CX Usage Analytics, Product Management Summer Intern](https://jobright.ai/jobs/info/67efa76fde60ac569bbf4559?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 04 |
 | **[Transcard](http://www.transcard.com)** | **[2025 Intern - Product Analyst](https://jobright.ai/jobs/info/67ef6401fb9ff643036d7d9f?utm_campaign=1047&utm_source=git)** | Chattanooga, TN | On Site | Apr 03 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, Agentic AI - Summer 2025](https://jobright.ai/jobs/info/67ef50c832a54af73b8c29e3?utm_campaign=1047&utm_source=git)** | US, CA, Santa Clara | On Site | Apr 03 |
 | **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Summer Intern, Hair Appliances Category](https://jobright.ai/jobs/info/67ef50b7c51bb5bdf22d0d5c?utm_campaign=1047&utm_source=git)** | Port Washington, NY | On Site | Apr 03 |
@@ -134,6 +134,4 @@ For a complete list, click the following sortable link below:
 | **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Summer Intern, Hair Appliances Category](https://jobright.ai/jobs/info/67eef113d5a5ef25aad57c31?utm_campaign=1047&utm_source=git)** | HQ_Port Washington, NY | On Site | Apr 03 |
 | **[CAE](http://www.cae.com)** | **[Product Management (Summer Internship)](https://jobright.ai/jobs/info/67eeee6f41a938d34d5130a6?utm_campaign=1047&utm_source=git)** | Irving | On Site | Apr 03 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2025: Product Development/Marketing (Beverage) Intern](https://jobright.ai/jobs/info/67eed2d3463bd550b5335c61?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Apr 03 |
-| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Sr Product Manager - Technical, External Services MBA [Internship]](https://jobright.ai/jobs/info/675d3034091f78254c736779?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Apr 03 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Partnerships MBA Intern (Monetization Product Partnerships) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67d1ba5873a1c3e1939655ec?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
