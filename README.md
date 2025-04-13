@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Summer 2025 Product Line Management Internship- Bachelors/Masters (Santa Clara, CA)](https://jobright.ai/jobs/info/67fa754f11d343f38ce0c801?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Apr 12 |
 | **[Lasko Products](https://www.lasko.com/)** | **[Product Management Internship](https://jobright.ai/jobs/info/67c127637b2c41627cf26eac?utm_campaign=1047&utm_source=git)** | West Chester, PA | Hybrid | Apr 12 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-PGC) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67dd51832baafaa4641dc78c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 12 |
 | **[Contentstack](http://www.contentstack.com)** | **[Growth Product Intern](https://jobright.ai/jobs/info/67f9d78e58724f6e738edaf7?utm_campaign=1047&utm_source=git)** | Austin, TX | Remote | Apr 11 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Fall 2025 Product Management Internship Kroger Technology & Digital](https://jobright.ai/jobs/info/67fa2d265930e4b3cc65c005?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Apr 11 |
 | **[Docusign](http://www.docusign.com)** | **[Product Manager Intern (Engineering)](https://jobright.ai/jobs/info/67f9b111abcf8ac98ae1e5a6?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Apr 11 |
@@ -133,6 +134,7 @@ For a complete list, click the following sortable link below:
 | **[HP](http://www.hp.com)** | **[eCommerce Product Management Intern](https://jobright.ai/jobs/info/67f34a35e98f9d89b2539f3a?utm_campaign=1047&utm_source=git)** | Spring, TX | On Site | Apr 08 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Sr Product Manager - Technical, External Services MBA [Internship]](https://jobright.ai/jobs/info/673ebed2b28dffc0bda59609?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Apr 08 |
 | **[Novanta Inc.](http://www.novanta.com)** | **[Product Manager MBA Intern](https://jobright.ai/jobs/info/67f4abe866d9897c28e8fde0?utm_campaign=1047&utm_source=git)** | Apex, NC | On Site | Apr 07 |
+| **[Acuity](http://www.acuitybrands.com)** | **[Summer Internship - Product Management Technology (Remote)](https://jobright.ai/jobs/info/67f48f7737a5a4eebde37c0c?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Remote | Apr 07 |
 | **[Forbes](https://www.forbesmagazine.com)** | **[Summer 2025 Digital Product Development Intern](https://jobright.ai/jobs/info/67f445cd44030f2dfa4655c7?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 07 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[Product Delivery Co-Op/Intern](https://jobright.ai/jobs/info/67f4ec0ea67c3f46e6d773be?utm_campaign=1047&utm_source=git)** | Erlanger, KY | On Site | Apr 07 |
 | **[Novanta Inc.](http://www.novanta.com)** | **[Product Manager MBA Intern](https://jobright.ai/jobs/info/67f435773ddd00b1a1adcbcb?utm_campaign=1047&utm_source=git)** | Apex, NC | On Site | Apr 07 |
