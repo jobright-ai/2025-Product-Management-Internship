@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Open Platform) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67dd51832baafaa4641dc78b?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 12 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Summer 2025 Product Line Management Internship- Bachelors/Masters (Santa Clara, CA)](https://jobright.ai/jobs/info/67fa754f11d343f38ce0c801?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Apr 12 |
 | **[Lasko Products](https://www.lasko.com/)** | **[Product Management Internship](https://jobright.ai/jobs/info/67c127637b2c41627cf26eac?utm_campaign=1047&utm_source=git)** | West Chester, PA | Hybrid | Apr 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-PGC) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67dd51832baafaa4641dc78c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 12 |
@@ -122,7 +123,7 @@ For a complete list, click the following sortable link below:
 | **[iHeartMedia](http://iheartmedia.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67f682edd4af0e480f903f50?utm_campaign=1047&utm_source=git)** | New York, NY (55th St) | On Site | Apr 09 |
 | **[Niterra North America, Inc.](https://ngksparkplugs.com/en/)** | **[INTERN - PRODUCT](https://jobright.ai/jobs/info/679352018ce26e81cc7a7bf0?utm_campaign=1047&utm_source=git)** | Wixom, MI | On Site | Apr 09 |
 | **[Charles River Development](https://www.crd.com)** | **[Product Management Internship, CRD, Charles River Development](https://jobright.ai/jobs/info/67f66569a4b1d2853c159c1c?utm_campaign=1047&utm_source=git)** | Burlington, MA | On Site | Apr 09 |
-| **[Jack Henry](http://www.jackhenry.com)** | **[Product Go-To-Market (GTM) Manager - Apprenticeship](https://jobright.ai/jobs/info/67f66337a2d439ffcf5ac789?utm_campaign=1047&utm_source=git)** | USA | Remote | Apr 09 |
+| **[Jack Henry](http://www.jackhenry.com)** | **[Product Go-To-Market (GTM) Manager - Apprenticeship](https://jobright.ai/jobs/info/67f66337a2d439ffcf5ac75e?utm_campaign=1047&utm_source=git)** | USA | Remote | Apr 09 |
 | **[SageNet](http://www.sagenet.com/)** | **[Product Intern](https://jobright.ai/jobs/info/67f91431296c65dbbccd8943?utm_campaign=1047&utm_source=git)** | Marietta, GA | Hybrid | Apr 09 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Product Manager Intern - IT Foundations (summer - full time)](https://jobright.ai/jobs/info/67f5f173b21a7d2e1c5c6074?utm_campaign=1047&utm_source=git)** | Riverton, UT | Hybrid | Apr 08 |
 | **[Optum](https://www.optum.com/)** | **[Product Management Grad Intern - Boston, MN, or DC](https://jobright.ai/jobs/info/67f5b6191ca62aaac2cea0e4?utm_campaign=1047&utm_source=git)** | Eden Prairie, MN | Hybrid | Apr 08 |
