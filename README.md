@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MoneyLion](http://www.moneylion.com)** | **[Product Intern- Summer 2025](https://jobright.ai/jobs/info/67f8aa7636e9dd0e75146fd2?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Open Platform) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67dd51832baafaa4641dc78b?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 12 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Summer 2025 Product Line Management Internship- Bachelors/Masters (Santa Clara, CA)](https://jobright.ai/jobs/info/67fa754f11d343f38ce0c801?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Apr 12 |
 | **[Lasko Products](https://www.lasko.com/)** | **[Product Management Internship](https://jobright.ai/jobs/info/67c127637b2c41627cf26eac?utm_campaign=1047&utm_source=git)** | West Chester, PA | Hybrid | Apr 12 |
@@ -80,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Auctane](https://auctane.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/67f8eaaae6a80670178c2130?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Apr 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67dd51832baafaa4641dc78f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 11 |
 | **[MoneyLion](http://www.moneylion.com)** | **[Product Analytics Intern- Summer 2025](https://jobright.ai/jobs/info/67f8aa7636e9dd0e75146fde?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 10 |
-| ↳ | **[Product Intern- Summer 2025](https://jobright.ai/jobs/info/67f8aa7636e9dd0e75146fd2?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 10 |
 | **[Transcard](http://www.transcard.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/67f8983d143e69ba53049f71?utm_campaign=1047&utm_source=git)** | Nashville, TN | Hybrid | Apr 10 |
 | **[BlueVoyant](https://www.bluevoyant.com)** | **[Product Operations Team Intern](https://jobright.ai/jobs/info/67f8cb843e469e6d9b02171f?utm_campaign=1047&utm_source=git)** | College Park, MD | Hybrid | Apr 10 |
 | **[Kraft Heinz](http://www.kraftheinzcompany.com)** | **[Trial Assistant Intern-Product Development](https://jobright.ai/jobs/info/67f88eb3028dfa704d7abb7e?utm_campaign=1047&utm_source=git)** | Stockton, CA | On Site | Apr 10 |
@@ -135,9 +135,4 @@ For a complete list, click the following sortable link below:
 | **[HP](http://www.hp.com)** | **[eCommerce Product Management Intern](https://jobright.ai/jobs/info/67f34a35e98f9d89b2539f3a?utm_campaign=1047&utm_source=git)** | Spring, TX | On Site | Apr 08 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Sr Product Manager - Technical, External Services MBA [Internship]](https://jobright.ai/jobs/info/673ebed2b28dffc0bda59609?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Apr 08 |
 | **[Novanta Inc.](http://www.novanta.com)** | **[Product Manager MBA Intern](https://jobright.ai/jobs/info/67f4abe866d9897c28e8fde0?utm_campaign=1047&utm_source=git)** | Apex, NC | On Site | Apr 07 |
-| **[Acuity](http://www.acuitybrands.com)** | **[Summer Internship - Product Management Technology (Remote)](https://jobright.ai/jobs/info/67f48f7737a5a4eebde37c0c?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Remote | Apr 07 |
-| **[Forbes](https://www.forbesmagazine.com)** | **[Summer 2025 Digital Product Development Intern](https://jobright.ai/jobs/info/67f445cd44030f2dfa4655c7?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 07 |
-| **[Fischer Homes](http://fischerhomes.com)** | **[Product Delivery Co-Op/Intern](https://jobright.ai/jobs/info/67f4ec0ea67c3f46e6d773be?utm_campaign=1047&utm_source=git)** | Erlanger, KY | On Site | Apr 07 |
-| **[Novanta Inc.](http://www.novanta.com)** | **[Product Manager MBA Intern](https://jobright.ai/jobs/info/67f435773ddd00b1a1adcbcb?utm_campaign=1047&utm_source=git)** | Apex, NC | On Site | Apr 07 |
-| **[PGP Title](https://www.pgptitle.com)** | **[Title & Insurance Product Strategy Summer 2025 Intern (PGP Title)](https://jobright.ai/jobs/info/67f44ad5819f83b372c6025a?utm_campaign=1047&utm_source=git)** | Coppell, TX | Hybrid | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
