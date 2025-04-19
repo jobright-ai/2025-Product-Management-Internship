@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Porsche Cars North America](http://www.porscheusa.com)** | **[Digital Platforms Intern](https://jobright.ai/jobs/info/6803a21a78c7dbb295c469a7?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Apr 19 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (TikTok-PGC) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67e783c0ed2e51de2ef81a61?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 19 |
 | **[LivaNova](http://www.livanova.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/6802f65702fb92d733b5977c?utm_campaign=1047&utm_source=git)** | Houston, TX | Hybrid | Apr 18 |
+| **[AARP](http://www.aarp.org)** | **[Product Initiatives Intern](https://jobright.ai/jobs/info/67d1149e8d2d4e4fccf55ea3?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | Apr 18 |
 | **[LogicGate](https://www.logicgate.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6802c4bac8f20f37dcb4073d?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Apr 18 |
 | **[Niterra North America, Inc.](https://ngksparkplugs.com/en/)** | **[INTERN - PRODUCT](https://jobright.ai/jobs/info/6802bac069c02b889888740f?utm_campaign=1047&utm_source=git)** | Wixom, MI | On Site | Apr 18 |
 | **[Taco, Inc.](http://tacocomfort.com)** | **[Product Management - Summer Hire 2025](https://jobright.ai/jobs/info/6802b8d1c37e778e5a4fd801?utm_campaign=1047&utm_source=git)** | Cranston, RI | On Site | Apr 18 |
@@ -99,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Graco](http://graco.com/in/en/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/67c687e1032620e7a369a7bb?utm_campaign=1047&utm_source=git)** | Anoka, MN | On Site | Apr 16 |
 | **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern- AI Product Specialist (Business Facing)](https://jobright.ai/jobs/info/67ff8a1cc4315ef09c8a3374?utm_campaign=1047&utm_source=git)** | Midvale, Utah, United States | Hybrid | Apr 16 |
 | **[AMETEK](http://www.ametek.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67ed8cbaf8206c7d396ba7c2?utm_campaign=1047&utm_source=git)** | Mount Prospect, IL | On Site | Apr 16 |
+| **[Arrowhead Engineered Products](https://arrowheadepinc.com/)** | **[Product Management- Intern](https://jobright.ai/jobs/info/680383b1648d37d028138e6f?utm_campaign=1047&utm_source=git)** | Boise, ID | On Site | Apr 15 |
 | **[Xometry](https://www.xometry.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67ff06e95552a493e0e6f9d5?utm_campaign=1047&utm_source=git)** | Lexington, KY | Hybrid | Apr 15 |
 | **[AMETEK](http://www.ametek.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67fefa8ff371ad217db52534?utm_campaign=1047&utm_source=git)** | Aurora, IL | On Site | Apr 15 |
 | **[Xometry](https://www.xometry.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67fef6c1a7bc74aa42a9f223?utm_campaign=1047&utm_source=git)** | North Bethesda, MD | Hybrid | Apr 15 |
@@ -122,12 +126,12 @@ For a complete list, click the following sortable link below:
 | **[IPS Corporation](http://ipscorp.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67ff02837d1ea36c928e50f4?utm_campaign=1047&utm_source=git)** | Collierville, TN | On Site | Apr 14 |
 | **[Hollman, Inc.](https://hollman.com/)** | **[Product Specialist Internship](https://jobright.ai/jobs/info/67feb8be8b7e3ab64763e322?utm_campaign=1047&utm_source=git)** | Irving, TX | On Site | Apr 14 |
 | **[Digbi Health](https://digbihealth.com)** | **[Summer Intern - AI Product Managers / Full Stack  Business Owners – Health and Wellness Digital Product](https://jobright.ai/jobs/info/67fd7f3d35009fa75ac50264?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 14 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2025: Product Development Intern, Beauty (Mid May through Mid August)](https://jobright.ai/jobs/info/67fd5c79330ed7b520cdb1cc?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Apr 14 |
-| ↳ | **[Fall 2025: Shark Product Development Co-op (July through December)](https://jobright.ai/jobs/info/67fd5c79330ed7b520cdb1da?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Apr 14 |
-| ↳ | **[Summer 2025: Product Development/Marketing (Beverage) Intern](https://jobright.ai/jobs/info/67fd5c79330ed7b520cdb1f0?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Apr 14 |
-| ↳ | **[Summer 2025: Product Development Intern, Ninja](https://jobright.ai/jobs/info/67fd5c79330ed7b520cdb207?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Apr 14 |
-| ↳ | **[Summer 2025: Product Development Intern, Shark](https://jobright.ai/jobs/info/67fd5c79330ed7b520cdb1fc?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Apr 14 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2025: Product Development Intern, Ninja](https://jobright.ai/jobs/info/67fd5c79330ed7b520cdb207?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Apr 14 |
+| ↳ | **[Summer 2025: Product Development Intern, Beauty (Mid May through Mid August)](https://jobright.ai/jobs/info/67fd5c79330ed7b520cdb1cc?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Apr 14 |
 | ↳ | **[Fall 2025: Ninja Product Development Co-op (July through Mid December)](https://jobright.ai/jobs/info/67fd5c79330ed7b520cdb1fa?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Apr 14 |
+| ↳ | **[Summer 2025: Product Development Intern, Shark](https://jobright.ai/jobs/info/67fd5c79330ed7b520cdb1fc?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Apr 14 |
+| ↳ | **[Summer 2025: Product Development/Marketing (Beverage) Intern](https://jobright.ai/jobs/info/67fd5c79330ed7b520cdb1f0?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Apr 14 |
+| ↳ | **[Fall 2025: Shark Product Development Co-op (July through December)](https://jobright.ai/jobs/info/67fd5c79330ed7b520cdb1da?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Apr 14 |
 | ↳ | **[Fall 2025: Product Development Co-op, Hair Care (July through Mid December)](https://jobright.ai/jobs/info/67fd4ef54673b476d7bde737?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Apr 14 |
 | **[Dr. Reddy's Laboratories](http://www.drreddys.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/67fd4c911d4668a8fe9a710e?utm_campaign=1047&utm_source=git)** | Princeton, NJ | Hybrid | Apr 14 |
 | **[Tencent](https://www.tencent.com/en-us)** | **[Live-Ops Intern](https://jobright.ai/jobs/info/67fddd6c2e61cbd0b6cbf7ec?utm_campaign=1047&utm_source=git)** | US-California-Los Angeles | On Site | Apr 14 |
