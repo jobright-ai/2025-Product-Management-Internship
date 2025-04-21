@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Steve Madden](http://www.stevemadden.com)** | **[Summer Intern, Product Development - SM Apparel](https://jobright.ai/jobs/info/6805bd12668eed5ac67816b3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 19 |
 | **[Zayo Group](https://www.zayo.com)** | **[Intern- Product- Advanced & Managed Services](https://jobright.ai/jobs/info/6801614779c5070a0f2f2898?utm_campaign=1047&utm_source=git)** | Denver, CO | On Site | Apr 19 |
 | **[Illumio](http://www.illumio.com)** | **[Product Management Intern (Summer 2025)](https://jobright.ai/jobs/info/6789d134a9e2b25e9ff0c935?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | Hybrid | Apr 19 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Digital Platforms Intern](https://jobright.ai/jobs/info/6803a21a78c7dbb295c469a7?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Apr 19 |
@@ -91,10 +92,10 @@ For a complete list, click the following sortable link below:
 | **[FactSet](http://www.factset.com)** | **[Product Development Intern - Americas (Summer 2025))](https://jobright.ai/jobs/info/68004c292bd898dccbbd4974?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | **[UPS](http://www.ups.com)** | **[SCS - Ocean Product Management Intern](https://jobright.ai/jobs/info/680021e0e90d3b62516507a1?utm_campaign=1047&utm_source=git)** | US - UPS SUPPLY CHAIN SOLUTIONS (GAAPR) | On Site | Apr 16 |
 | **[MTS Systems Corporation](http://www.mts.com)** | **[Materials Test Product Manager Intern](https://jobright.ai/jobs/info/68001d6e0d4962cf80f8305b?utm_campaign=1047&utm_source=git)** | Eden Prairie, MN | On Site | Apr 16 |
-| **[SWBC](https://www.swbc.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/680011726159cdb4dc2cec17?utm_campaign=1047&utm_source=git)** | San Antonio, TX | On Site | Apr 16 |
-| **[FactSet](http://www.factset.com)** | **[Product Development Intern - Americas (Summer 2025))](https://jobright.ai/jobs/info/680011726159cdb4dc2cec15?utm_campaign=1047&utm_source=git)** | Norwalk, CT, USA | On Site | Apr 16 |
+| **[SWBC](https://www.swbc.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/680011726159cdb4dc2ceabc?utm_campaign=1047&utm_source=git)** | San Antonio, TX | On Site | Apr 16 |
+| **[FactSet](http://www.factset.com)** | **[Product Development Intern - Americas (Summer 2025))](https://jobright.ai/jobs/info/680011726159cdb4dc2cec16?utm_campaign=1047&utm_source=git)** | New York, NY, USA | On Site | Apr 16 |
 | ↳ | **[Product Development Intern - Americas (Summer 2025))](https://jobright.ai/jobs/info/680011726159cdb4dc2ceaab?utm_campaign=1047&utm_source=git)** | Austin, TX, USA | On Site | Apr 16 |
-| ↳ | **[Product Development Intern - Americas (Summer 2025))](https://jobright.ai/jobs/info/680011726159cdb4dc2cec16?utm_campaign=1047&utm_source=git)** | New York, NY, USA | On Site | Apr 16 |
+| ↳ | **[Product Development Intern - Americas (Summer 2025))](https://jobright.ai/jobs/info/680011726159cdb4dc2cec15?utm_campaign=1047&utm_source=git)** | Norwalk, CT, USA | On Site | Apr 16 |
 | **[Turck USA](https://www.turck.us)** | **[Product Management Intern](https://jobright.ai/jobs/info/68000df544d47efcddf09534?utm_campaign=1047&utm_source=git)** | Twin Cities Area | On Site | Apr 16 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Product Management Student Experience](https://jobright.ai/jobs/info/67fe06ff11933cb0f6ee64dc?utm_campaign=1047&utm_source=git)** | Johnson Creek, WI | On Site | Apr 16 |
 | **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern- AI Product Specialist (Business Facing)](https://jobright.ai/jobs/info/67fffe3d363fef4c6a9f4257?utm_campaign=1047&utm_source=git)** | Midvale, UT | Hybrid | Apr 16 |
@@ -132,16 +133,15 @@ For a complete list, click the following sortable link below:
 | **[Hollman, Inc.](https://hollman.com/)** | **[Product Specialist Internship](https://jobright.ai/jobs/info/67feb8be8b7e3ab64763e322?utm_campaign=1047&utm_source=git)** | Irving, TX | On Site | Apr 14 |
 | **[Digbi Health](https://digbihealth.com)** | **[Summer Intern - AI Product Managers / Full Stack  Business Owners – Health and Wellness Digital Product](https://jobright.ai/jobs/info/67fd7f3d35009fa75ac50264?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 14 |
 | **[Alliance Laundry Systems LLC](https://alliancelaundry.com/)** | **[E-Commerce Product Catalog Intern](https://jobright.ai/jobs/info/67fd6c1566e6615fd1624dc5?utm_campaign=1047&utm_source=git)** | Manitowoc, WI | On Site | Apr 14 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Shark Product Development Co-op (July through December)](https://jobright.ai/jobs/info/67fd5c79330ed7b520cdb1da?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Apr 14 |
-| ↳ | **[Summer 2025: Product Development Intern, Ninja](https://jobright.ai/jobs/info/67fd5c79330ed7b520cdb207?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Apr 14 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2025: Product Development Intern, Beauty (Mid May through Mid August)](https://jobright.ai/jobs/info/67fd5c79330ed7b520cdb1cc?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Apr 14 |
 | ↳ | **[Fall 2025: Ninja Product Development Co-op (July through Mid December)](https://jobright.ai/jobs/info/67fd5c79330ed7b520cdb1fa?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Apr 14 |
-| ↳ | **[Summer 2025: Product Development Intern, Shark](https://jobright.ai/jobs/info/67fd5c79330ed7b520cdb1fc?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Apr 14 |
-| ↳ | **[Summer 2025: Product Development Intern, Beauty (Mid May through Mid August)](https://jobright.ai/jobs/info/67fd5c79330ed7b520cdb1cc?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Apr 14 |
 | ↳ | **[Summer 2025: Product Development/Marketing (Beverage) Intern](https://jobright.ai/jobs/info/67fd5c79330ed7b520cdb1f0?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Apr 14 |
+| ↳ | **[Fall 2025: Shark Product Development Co-op (July through December)](https://jobright.ai/jobs/info/67fd5c79330ed7b520cdb1da?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Apr 14 |
+| ↳ | **[Summer 2025: Product Development Intern, Shark](https://jobright.ai/jobs/info/67fd5c79330ed7b520cdb1fc?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Apr 14 |
+| ↳ | **[Summer 2025: Product Development Intern, Ninja](https://jobright.ai/jobs/info/67fd5c79330ed7b520cdb207?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Apr 14 |
 | ↳ | **[Fall 2025: Product Development Co-op, Hair Care (July through Mid December)](https://jobright.ai/jobs/info/67fd4ef54673b476d7bde737?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Apr 14 |
 | **[Dr. Reddy's Laboratories](http://www.drreddys.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/67fd4c911d4668a8fe9a710e?utm_campaign=1047&utm_source=git)** | Princeton, NJ | Hybrid | Apr 14 |
 | **[Tencent](https://www.tencent.com/en-us)** | **[Live-Ops Intern](https://jobright.ai/jobs/info/67fddd6c2e61cbd0b6cbf7ec?utm_campaign=1047&utm_source=git)** | US-California-Los Angeles | On Site | Apr 14 |
 | **[W. R. Berkley Corporation](https://www.berkley.com/)** | **[Product Management Intern -Summer 2025](https://jobright.ai/jobs/info/67fd2d130e2420f8286eb830?utm_campaign=1047&utm_source=git)** | Manassas, VA | On Site | Apr 14 |
 | **[INFICON](http://www.inficon.com)** | **[2025 Summer Product Center Intern](https://jobright.ai/jobs/info/67fd11a1dbf5474ac0ba6f29?utm_campaign=1047&utm_source=git)** | Syracuse, NY | Hybrid | Apr 14 |
-| **[Wolverine Worldwide](https://www.wolverineworldwide.com)** | **[Product Line Management Intern](https://jobright.ai/jobs/info/67c345fa8cf69975cfbf99d4?utm_campaign=1047&utm_source=git)** | Waltham, MA | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
