@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Juniper Networks](http://www.juniper.net)** | **[Product Management Intern – Wired Assurance (AI-Driven Data & Networking Analysis)](https://jobright.ai/jobs/info/680839b15d67543d23895061?utm_campaign=1047&utm_source=git)** | 1601 S De Anza Blvd, Cupertino, CA, 95014, US | On Site | Apr 22 |
 | **[MANITOU Group](http://www.manitou-group.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/68082aa951246f8e727b9878?utm_campaign=1047&utm_source=git)** | West Bend, WI | On Site | Apr 22 |
 | **[SCIEX](http://www.sciex.com)** | **[Marketing Product Management Intern](https://jobright.ai/jobs/info/68080acd444c87bb7b121919?utm_campaign=1047&utm_source=git)** | Logan, Utah, United States | On Site | Apr 22 |
 | **[Freudenberg Group](http://www.freudenberg.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/6807fe7d8ee53525c3ec048b?utm_campaign=1047&utm_source=git)** | Carpinteria, CA | On Site | Apr 22 |
@@ -72,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Armada](https://www.armada.ai)** | **[Technical Product Manager Intern - ISV](https://jobright.ai/jobs/info/680703f347c735db311aa047?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Apr 21 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Product Management Internships – Academic Year 2025-2026](https://jobright.ai/jobs/info/6806f1dcccbfdc37ff8ca44b?utm_campaign=1047&utm_source=git)** | 30 Rockefeller Center, New York, NY 10112, USA | On Site | Apr 21 |
 | ↳ | **[Product Management Internships – Academic Year 2025-2026](https://jobright.ai/jobs/info/6806f1dcccbfdc37ff8ca470?utm_campaign=1047&utm_source=git)** | 10 Universal City Plaza, North Hollywood, CA 91608, USA | On Site | Apr 21 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Product Management Internships – Academic Year 2025-2026](https://jobright.ai/jobs/info/6806cb0365fb6d9aa3d48f91?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Remote | Apr 21 |
-| ↳ | **[Product Management Internships – Academic Year 2025-2026](https://jobright.ai/jobs/info/6806cb0365fb6d9aa3d48f9f?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 21 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Product Management Internships – Academic Year 2025-2026](https://jobright.ai/jobs/info/6806cb0365fb6d9aa3d48f9f?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 21 |
+| ↳ | **[Product Management Internships – Academic Year 2025-2026](https://jobright.ai/jobs/info/6806cb0365fb6d9aa3d48f91?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Remote | Apr 21 |
 | **[Rondo Energy](https://www.rondo.energy)** | **[Product Cost Intern](https://jobright.ai/jobs/info/6806aaae5d536f0696480945?utm_campaign=1047&utm_source=git)** | Alameda, CA | On Site | Apr 21 |
 | **[Armada](https://www.armada.ai)** | **[Technical Product Manager Intern - ISV](https://jobright.ai/jobs/info/6806aaae5d536f06964808f9?utm_campaign=1047&utm_source=git)** | Bellevue Office, WeWork Sunset North | On Site | Apr 21 |
 | **[Retrofête](https://retrofete.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6806a271cbff36767b267f47?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Apr 21 |
@@ -118,6 +119,4 @@ For a complete list, click the following sortable link below:
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern-Product Manager (Summer 2025)](https://jobright.ai/jobs/info/67ffb0637874ad2aa926e66b?utm_campaign=1047&utm_source=git)** | Brillion, WI | On Site | Apr 16 |
 | **[Verkada](https://www.verkada.com)** | **[MBA Intern - Product](https://jobright.ai/jobs/info/67f18a92d82de3d6e76d25fe?utm_campaign=1047&utm_source=git)** | San Mateo, CA | On Site | Apr 16 |
 | **[Graco](http://graco.com/in/en/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/67c687e1032620e7a369a7bb?utm_campaign=1047&utm_source=git)** | Anoka, MN | On Site | Apr 16 |
-| **[LiveSwitch](https://www.liveswitch.io)** | **[Product Manager Internship (Undergraduates)](https://jobright.ai/jobs/info/67fee0b2b0c067d54f111829?utm_campaign=1047&utm_source=git)** | Apex, NC | On Site | Apr 16 |
-| **[AMETEK](http://www.ametek.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67ed8cbaf8206c7d396ba7c2?utm_campaign=1047&utm_source=git)** | Mount Prospect, IL | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
