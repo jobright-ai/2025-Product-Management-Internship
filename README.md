@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Strategy MBA Intern (Web Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/67d053202d3382d131765236?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Apr 24 |
 | **[GS1 US](http://www.gs1us.org/)** | **[Product and Data Management Intern](https://jobright.ai/jobs/info/68095a6a89e22722201ac386?utm_campaign=1047&utm_source=git)** | Ewing, NJ | Hybrid | Apr 23 |
 | **[Valvoline Global Operations](https://www.valvolineglobal.com/en/)** | **[Product Management Intern](https://jobright.ai/jobs/info/680948a151b11913dfac93be?utm_campaign=1047&utm_source=git)** | Lexington, KY | On Site | Apr 23 |
 | **[Oracle](https://www.oracle.com/)** | **[Cloud Product Release Summer Intern](https://jobright.ai/jobs/info/68094737a023cd13439fcdfb?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Apr 23 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (Engineering)](https://jobright.ai/jobs/info/680919538d3a0f0dbbafacfc?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Apr 23 |
 | **[SWBC](https://www.swbc.com)** | **[Product Administration Intern](https://jobright.ai/jobs/info/6808fbeadd0cd9088c96b6a8?utm_campaign=1047&utm_source=git)** | San Antonio, TX | On Site | Apr 23 |
 | **[MSCI Inc.](http://msci.com)** | **[Private Assets Product Summer Intern](https://jobright.ai/jobs/info/67ed13c2a02ccad8fc492931?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Apr 23 |
-| **[Auzmor](https://auzmor.com)** | **[Business Analyst / Product Owner (Customer Success Department)](https://jobright.ai/jobs/info/6808e65b60114d1cad062ec0?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 23 |
 | **[VSE Corporation](http://www.vsecorp.com)** | **[Intern - Product Line Management - Actuation](https://jobright.ai/jobs/info/67d073c94a55dc1ea67da05b?utm_campaign=1047&utm_source=git)** | Miami, FL | On Site | Apr 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Web Ads and Open-Loop E-Commerce) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/68099d22147958ab63feef45?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 23 |
 | ↳ | **[Product Operation Intern (Music Promotion and Distribution) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/67ed14c7bec9f8ea83111ed5?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Apr 23 |
@@ -89,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2025 Group Benefit Solutions (GBS) Technology Summer Internship Program - Product Owner](https://jobright.ai/jobs/info/68087b4e2f293380906e5dbb?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Apr 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Ads Platform) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6809bc0e0f1e6a649b0d864d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 21 |
 | **[Armada](https://www.armada.ai)** | **[Technical Product Manager Intern - ISV](https://jobright.ai/jobs/info/680703f347c735db311aa047?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Apr 21 |
-| **[DreamWorks Animation](https://www.madoohd.com/)** | **[Product Management Internships – Academic Year 2025-2026](https://jobright.ai/jobs/info/6806f1dcccbfdc37ff8ca44b?utm_campaign=1047&utm_source=git)** | 30 Rockefeller Center, New York, NY 10112, USA | On Site | Apr 21 |
-| ↳ | **[Product Management Internships – Academic Year 2025-2026](https://jobright.ai/jobs/info/6806f1dcccbfdc37ff8ca470?utm_campaign=1047&utm_source=git)** | 10 Universal City Plaza, North Hollywood, CA 91608, USA | On Site | Apr 21 |
+| **[DreamWorks Animation](https://www.madoohd.com/)** | **[Product Management Internships – Academic Year 2025-2026](https://jobright.ai/jobs/info/6806f1dcccbfdc37ff8ca470?utm_campaign=1047&utm_source=git)** | 10 Universal City Plaza, North Hollywood, CA 91608, USA | On Site | Apr 21 |
+| ↳ | **[Product Management Internships – Academic Year 2025-2026](https://jobright.ai/jobs/info/6806f1dcccbfdc37ff8ca44b?utm_campaign=1047&utm_source=git)** | 30 Rockefeller Center, New York, NY 10112, USA | On Site | Apr 21 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Product Management Internships – Academic Year 2025-2026](https://jobright.ai/jobs/info/6806cb0365fb6d9aa3d48f91?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Remote | Apr 21 |
 | ↳ | **[Product Management Internships – Academic Year 2025-2026](https://jobright.ai/jobs/info/6806cb0365fb6d9aa3d48f9f?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 21 |
 | **[Rondo Energy](https://www.rondo.energy)** | **[Product Cost Intern](https://jobright.ai/jobs/info/6806aaae5d536f0696480945?utm_campaign=1047&utm_source=git)** | Alameda, CA | On Site | Apr 21 |
@@ -115,5 +115,4 @@ For a complete list, click the following sortable link below:
 | **[Ripple](http://ripple.com)** | **[Product Management MBA Internship – Tokenization (Summer 2025)](https://jobright.ai/jobs/info/680288203c4a0cb566434446?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 18 |
 | **[MoneyLion](http://www.moneylion.com)** | **[Product Intern- Summer 2025](https://jobright.ai/jobs/info/67f8aa7636e9dd0e75146fd2?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Apr 18 |
 | **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Data Science Product Management Intern](https://jobright.ai/jobs/info/67e57893828e8f5e7ac4ca7c?utm_campaign=1047&utm_source=git)** | Fort Mill, SC | Hybrid | Apr 18 |
-| **[IGT](http://igt.com)** | **[Intern-Premium Product Merchandising](https://jobright.ai/jobs/info/68017bb69e5a92b831fbce32?utm_campaign=1047&utm_source=git)** | Reno, NV | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
