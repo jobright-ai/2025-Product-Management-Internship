@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/680ceb1329e852258bcbc363?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 27 |
+| **[HP](http://www.hp.com)** | **[Service Product Manager](https://jobright.ai/jobs/info/680f10a9419a5390d399e7ab?utm_campaign=1047&utm_source=git)** | Vancouver, WA | On Site | Apr 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product Infrastructure) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/680cc25849b9cf4eb0925b1c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 26 |
 | ↳ | **[Product Partnerships MBA Intern (Monetization Product Partnerships) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67d1ba5873a1c3e1939655ec?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 26 |
 | **[Entegris](http://www.entegris.com)** | **[Product Management Co-Op](https://jobright.ai/jobs/info/67d37cefdc158985ed3db3b2?utm_campaign=1047&utm_source=git)** | Billerica, MA | On Site | Apr 26 |
@@ -103,9 +105,9 @@ For a complete list, click the following sortable link below:
 | **[GS1 US](http://www.gs1us.org/)** | **[Product and Data Management Intern](https://jobright.ai/jobs/info/68095a6a89e22722201ac386?utm_campaign=1047&utm_source=git)** | Ewing, NJ | Hybrid | Apr 23 |
 | **[Valvoline Global Operations](https://www.valvolineglobal.com/en/)** | **[Product Management Intern](https://jobright.ai/jobs/info/680948a151b11913dfac93be?utm_campaign=1047&utm_source=git)** | Lexington, KY | On Site | Apr 23 |
 | **[Oracle](https://www.oracle.com/)** | **[Cloud Product Release Summer Intern](https://jobright.ai/jobs/info/68094737a023cd13439fcdfb?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Apr 23 |
-| **[SWBC](https://www.swbc.com)** | **[Product Administration Intern](https://jobright.ai/jobs/info/68093cd4a145de2f58a8f99b?utm_campaign=1047&utm_source=git)** | San Antonio, TX | On Site | Apr 23 |
 | **[Docusign](http://www.docusign.com)** | **[Product Manager Intern (Engineering)](https://jobright.ai/jobs/info/680925a4ce97988035f9b735?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Apr 23 |
 | ↳ | **[Product Manager Intern (Engineering)](https://jobright.ai/jobs/info/680919538d3a0f0dbbafacfc?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Apr 23 |
+| **[SWBC](https://www.swbc.com)** | **[Product Administration Intern](https://jobright.ai/jobs/info/6808fbeadd0cd9088c96b6a8?utm_campaign=1047&utm_source=git)** | San Antonio, TX | On Site | Apr 23 |
 | **[MSCI Inc.](http://msci.com)** | **[Private Assets Product Summer Intern](https://jobright.ai/jobs/info/67ed13c2a02ccad8fc492931?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Apr 23 |
 | **[VSE Corporation](http://www.vsecorp.com)** | **[Intern - Product Line Management - Actuation](https://jobright.ai/jobs/info/67d073c94a55dc1ea67da05b?utm_campaign=1047&utm_source=git)** | Miami, FL | On Site | Apr 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Web Ads and Open-Loop E-Commerce) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/68099d22147958ab63feef45?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 23 |
