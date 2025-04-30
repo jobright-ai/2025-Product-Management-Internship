@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TAS Energy](http://www.tas.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/681195729c15cdaeff035767?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Apr 29 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68117250a955638b254c8a7a?utm_campaign=1047&utm_source=git)** | Houston, Texas | On Site | Apr 29 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Product Management Intern - Year Round](https://jobright.ai/jobs/info/68116985510c76e4349d6629?utm_campaign=1047&utm_source=git)** | Springdale, AR | On Site | Apr 29 |
 | **[Fulton Bank](https://www.fultonbank.com/)** | **[Intern - Commercial Product](https://jobright.ai/jobs/info/68114cdd17262bac4cf993d0?utm_campaign=1047&utm_source=git)** | Lancaster, PA | Hybrid | Apr 29 |
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern, SPDJI Product Management](https://jobright.ai/jobs/info/68114774ac0e5e4a48a7ea19?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Apr 29 |
@@ -139,7 +141,4 @@ For a complete list, click the following sortable link below:
 | **[SWBC](https://www.swbc.com)** | **[Product Administration Intern](https://jobright.ai/jobs/info/68093cd4a145de2f58a8f99b?utm_campaign=1047&utm_source=git)** | San Antonio, TX | On Site | Apr 23 |
 | **[MSCI Inc.](http://msci.com)** | **[Private Assets Product Summer Intern](https://jobright.ai/jobs/info/67ed13c2a02ccad8fc492931?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Apr 23 |
 | **[VSE Corporation](http://www.vsecorp.com)** | **[Intern - Product Line Management - Actuation](https://jobright.ai/jobs/info/67d073c94a55dc1ea67da05b?utm_campaign=1047&utm_source=git)** | Miami, FL | On Site | Apr 23 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Intern (Web Ads and Open-Loop E-Commerce) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/68099d22147958ab63feef45?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 23 |
-| ↳ | **[Product Operation Intern (Music Promotion and Distribution) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/67ed14c7bec9f8ea83111ed5?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Apr 23 |
-| ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67d053202d3382d13176523f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
