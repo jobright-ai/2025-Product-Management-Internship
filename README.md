@@ -57,12 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oracle](https://www.oracle.com/)** | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/681431d8ee9e8e5195144e62?utm_campaign=1047&utm_source=git)** | Reston, VA | On Site | May 01 |
+| ↳ | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/681423a4fc11c7806a5accf5?utm_campaign=1047&utm_source=git)** | United States | Remote | May 01 |
+| ↳ | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/681423a4fc11c7806a5acd00?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | May 01 |
+| ↳ | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/681423a4fc11c7806a5accf4?utm_campaign=1047&utm_source=git)** | Reston, VA | On Site | May 01 |
+| ↳ | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/681423a4fc11c7806a5accfa?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | May 01 |
+| ↳ | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/68141b89c68705e122312b8f?utm_campaign=1047&utm_source=git)** | United States | Remote | May 01 |
+| ↳ | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/68141b89c68705e122312b91?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | May 01 |
+| ↳ | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/68141b89c68705e122312b98?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | May 01 |
+| **[Jump - Advisor AI](https://jumpapp.com)** | **[Product Specialist Intern](https://jobright.ai/jobs/info/6814159013603a5a8006ef5b?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | Hybrid | May 01 |
 | **[Oracle](https://www.oracle.com/)** | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/6813d96452ed57652a2f4754?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | May 01 |
 | ↳ | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/6813d05989ca54f545462b01?utm_campaign=1047&utm_source=git)** | United States | Remote | May 01 |
-| ↳ | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/6813d05989ca54f545462b00?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | May 01 |
 | ↳ | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/6813d05989ca54f545462a8e?utm_campaign=1047&utm_source=git)** | Reston, VA | On Site | May 01 |
-| ↳ | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/6813d05989ca54f545462ace?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | May 01 |
 | ↳ | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/6813d05989ca54f545462afe?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | May 01 |
+| ↳ | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/6813d05989ca54f545462b00?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | May 01 |
+| ↳ | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/6813d05989ca54f545462ace?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | May 01 |
 | **[Flexera](https://www.flexera.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/6813cd4578d1b65a02a01249?utm_campaign=1047&utm_source=git)** | United States | Remote | May 01 |
 | **[Oracle](https://www.oracle.com/)** | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/6813c95413a7d7a5ee7d9069?utm_campaign=1047&utm_source=git)** | United States | Remote | May 01 |
 | ↳ | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/6813c783d0706e6db7705533?utm_campaign=1047&utm_source=git)** | Reston, VA | On Site | May 01 |
@@ -70,12 +79,12 @@ For a complete list, click the following sortable link below:
 | **[AMETEK](http://www.ametek.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6813b6795b7917642c053384?utm_campaign=1047&utm_source=git)** | Mount Prospect, IL | On Site | May 01 |
 | **[Canon USA](https://www.usa.canon.com)** | **[2025 Canon Insights Summer Internship - Large Format Product Strategy Intern](https://jobright.ai/jobs/info/6813ab4b714d26fe38ae0ae0?utm_campaign=1047&utm_source=git)** | Melville, NY | Hybrid | May 01 |
 | **[Flexera](https://www.flexera.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/6813a32880bf985e887f3ae2?utm_campaign=1047&utm_source=git)** | Home-United States | On Site | May 01 |
+| **[TRIMEDX](https://trimedx.com/)** | **[Product Owner Intern](https://jobright.ai/jobs/info/6813923d4f5b1aba51f9c7d1?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | On Site | May 01 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Strategy Intern (Early Careers)](https://jobright.ai/jobs/info/681391afecc648c97c5a892c?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | May 01 |
 | **[Diligent](http://diligent.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/681387e4805f526048887cd4?utm_campaign=1047&utm_source=git)** | New York, New York, United States | Hybrid | May 01 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Digital Platforms Development & Product Ownership <Newtown Square, PA>](https://jobright.ai/jobs/info/67f756916be946622b3a65d3?utm_campaign=1047&utm_source=git)** | Newtown Square, PA | Hybrid | May 01 |
 | **[Diligent](http://diligent.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68138746c846c4e5c350a84b?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | May 01 |
-| **[Cadent](http://www.cadent.tv)** | **[Product Management Intern](https://jobright.ai/jobs/info/68138746c846c4e5c350a955?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | May 01 |
-| **[TRIMEDX](https://trimedx.com/)** | **[Product Owner Intern](https://jobright.ai/jobs/info/6813844911c94fd361674bdc?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | On Site | May 01 |
+| **[Cadent](http://www.cadent.tv)** | **[Product Management Intern](https://jobright.ai/jobs/info/68138746c846c4e5c350aaef?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | May 01 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67f6a57faa1efda2ac14b4f3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | May 01 |
 | **[Copart](http://www.copart.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/680483b30c8a267b4e3f2df3?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | May 01 |
 | **[Auzmor](https://auzmor.com)** | **[Business Analyst / Product Owner (Customer Success Department)](https://jobright.ai/jobs/info/6813627a1e13367309b995d4?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | May 01 |
@@ -102,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Forbes](https://www.forbesmagazine.com)** | **[Summer 2025 Digital Product Development Intern](https://jobright.ai/jobs/info/67f445cd44030f2dfa4655c7?utm_campaign=1047&utm_source=git)** | United States | Remote | Apr 29 |
 | **[HP](http://www.hp.com)** | **[Service Product Manager](https://jobright.ai/jobs/info/680f10a9419a5390d399e7ab?utm_campaign=1047&utm_source=git)** | Vancouver, WA | On Site | Apr 28 |
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern, Product Management & Development](https://jobright.ai/jobs/info/68105c4167c79f781b24ace9?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Apr 28 |
+| **[Newegg](https://www.newegg.com)** | **[Newegg Intern](https://jobright.ai/jobs/info/68143521f9ec9b88c115a027?utm_campaign=1047&utm_source=git)** | Diamond Bar, CA | On Site | Apr 28 |
 | **[WCF Insurance](https://www.wcf.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/681038f8d237cf23db8317f4?utm_campaign=1047&utm_source=git)** | Sandy, UT | On Site | Apr 28 |
 | **[Independence Blue Cross](https://www.ibx.com)** | **[Co-op: Government Markets Product](https://jobright.ai/jobs/info/681038f8d237cf23db831783?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Apr 28 |
 | **[Nasdaq](https://www.nasdaq.com)** | **[Product Management Intern - 2025 Summer Internship](https://jobright.ai/jobs/info/681025a51c57414de445b38e?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Apr 28 |
@@ -137,5 +147,4 @@ For a complete list, click the following sortable link below:
 | **[Hatch](https://www.hatch.com)** | **[Student - Digital Product Intern](https://jobright.ai/jobs/info/680bea380251284d05d33d35?utm_campaign=1047&utm_source=git)** | Houston, TX | Hybrid | Apr 25 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Management Graduate Intern (Summer 2025)](https://jobright.ai/jobs/info/680be1805096f46f3ea0abc3?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Apr 25 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SOLIDWORKS Mechatronics Product Management](https://jobright.ai/jobs/info/680ba5f401f44f938a12d6c9?utm_campaign=1047&utm_source=git)** | Waltham, MA | Hybrid | Apr 25 |
-| **[HP](http://www.hp.com)** | **[Service Product Manager](https://jobright.ai/jobs/info/6805b849022209960a304a9a?utm_campaign=1047&utm_source=git)** | Spring, TX | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
