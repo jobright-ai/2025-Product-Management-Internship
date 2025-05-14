@@ -57,13 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Gallagher Bassett](https://www.robanda.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6823f88ea2ba228deff0a651?utm_campaign=1047&utm_source=git)** | Rolling Meadows, IL | Hybrid | May 13 |
 | **[Skild AI](https://www.skild.ai)** | **[Product Management Intern](https://jobright.ai/jobs/info/6823e879775ffb6288a0f24b?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | May 13 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6823e4885477a27952f3ae6c?utm_campaign=1047&utm_source=git)** | San Francisco | On Site | May 13 |
 | **[AARP](http://www.aarp.org)** | **[Product Initiatives Intern](https://jobright.ai/jobs/info/67d1149e8d2d4e4fccf55ea3?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | May 13 |
-| **[Proofpoint](http://www.proofpoint.com)** | **[Product Management Intern – Program Support](https://jobright.ai/jobs/info/68239c9c5b7c69bde80d567f?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | May 13 |
 | **[Cadent](http://www.cadent.tv)** | **[Product Management Intern](https://jobright.ai/jobs/info/68236f5202abb00910ca20bf?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | May 13 |
-| **[Proofpoint](http://www.proofpoint.com)** | **[Product Management Intern – Program Support](https://jobright.ai/jobs/info/682364ece1e61a353b128b05?utm_campaign=1047&utm_source=git)** | Illinois | On Site | May 13 |
 | **[Stocktwits](http://stocktwits.com)** | **[Product Intern](https://jobright.ai/jobs/info/682355b84671807498266edf?utm_campaign=1047&utm_source=git)** | Remote (United States) | Remote | May 13 |
 | **[Verkada](https://www.verkada.com)** | **[MBA Intern - Product](https://jobright.ai/jobs/info/68234ab144036edc78652cc9?utm_campaign=1047&utm_source=git)** | San Mateo, CA | On Site | May 13 |
 | **[Ripple](http://ripple.com)** | **[Product Management MBA Internship – Tokenization (Summer 2025)](https://jobright.ai/jobs/info/680288203c4a0cb566434446?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | May 13 |
@@ -84,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Force Factor](https://forcefactor.com/)** | **[Fall 2025 Product Development Intern](https://jobright.ai/jobs/info/67f07b5ec2d841b76fca2549?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | May 09 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SOLIDWORKS Product Management](https://jobright.ai/jobs/info/681e0182130711d807f46b4b?utm_campaign=1047&utm_source=git)** | Waltham, MA | On Site | May 09 |
 | **[Armada](https://www.armada.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/681dc0f4a0c31e520203bea3?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | May 09 |
-| **[Ancestry](http://ancestry.com)** | **[Product Owner, Co-op](https://jobright.ai/jobs/info/681db5403785a29c9a148a51?utm_campaign=1047&utm_source=git)** | Lehi, UT | Hybrid | May 09 |
-| ↳ | **[Product Owner, Co-op](https://jobright.ai/jobs/info/681dbe3ec48ec70d51403bf6?utm_campaign=1047&utm_source=git)** | United States | Hybrid | May 09 |
+| **[Ancestry](http://ancestry.com)** | **[Product Owner, Co-op](https://jobright.ai/jobs/info/681dbe3ec48ec70d51403bf6?utm_campaign=1047&utm_source=git)** | United States | Hybrid | May 09 |
+| ↳ | **[Product Owner, Co-op](https://jobright.ai/jobs/info/681dbe3ec48ec70d51403c12?utm_campaign=1047&utm_source=git)** | Lehi, UT | Hybrid | May 09 |
 | **[AMETEK](http://www.ametek.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67ed8cbaf8206c7d396ba7c2?utm_campaign=1047&utm_source=git)** | Mount Prospect, IL | On Site | May 08 |
 | **[Mitsubishi Electric US, Inc.](https://us.mitsubishielectric.com/)** | **[Product Management CO-OP - REQ # 1236](https://jobright.ai/jobs/info/681d53337179029c099ae170?utm_campaign=1047&utm_source=git)** | Suwanee, GA | On Site | May 08 |
 | **[Mitsubishi Electric](https://www.mitsubishielectric.co.jp)** | **[Product Management CO-OP - REQ # 1236](https://jobright.ai/jobs/info/681d5f4bce48cc7130c309ce?utm_campaign=1047&utm_source=git)** | Suwanee, GA | On Site | May 08 |
@@ -98,6 +95,4 @@ For a complete list, click the following sortable link below:
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Connectivity Product Management Co-op](https://jobright.ai/jobs/info/681c351e0e68ea0ad418f516?utm_campaign=1047&utm_source=git)** | PA - Philadelphia, 1701 John F Kennedy Blvd | On Site | May 07 |
 | ↳ | **[Comcast Product Management Co-op](https://jobright.ai/jobs/info/681c351e0e68ea0ad418f502?utm_campaign=1047&utm_source=git)** | PA - Philadelphia, 1701 John F Kennedy Blvd | On Site | May 07 |
 | **[Rondo Energy](https://www.rondo.energy)** | **[Product Cost Intern](https://jobright.ai/jobs/info/6806aaae5d536f0696480945?utm_campaign=1047&utm_source=git)** | Alameda, CA | On Site | May 07 |
-| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2025](https://jobright.ai/jobs/info/6716f5075ef2d971e037b166?utm_campaign=1047&utm_source=git)** | Nashua, NH | On Site | May 07 |
-| **[Resonetics](http://www.resonetics.com)** | **[Product Development Co-Op](https://jobright.ai/jobs/info/681c16676b684be3c3e0237f?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
