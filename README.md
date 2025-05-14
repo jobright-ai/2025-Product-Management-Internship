@@ -57,18 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Proofpoint](http://www.proofpoint.com)** | **[Product Management Intern – Program Support](https://jobright.ai/jobs/info/68239c9c5b7c69bde80d567f?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | May 13 |
 | **[Cadent](http://www.cadent.tv)** | **[Product Management Intern](https://jobright.ai/jobs/info/68236f5202abb00910ca20bf?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | May 13 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Product Management Intern – Program Support](https://jobright.ai/jobs/info/682364ece1e61a353b128b05?utm_campaign=1047&utm_source=git)** | Illinois | On Site | May 13 |
 | **[Stocktwits](http://stocktwits.com)** | **[Product Intern](https://jobright.ai/jobs/info/682355b84671807498266edf?utm_campaign=1047&utm_source=git)** | Remote (United States) | Remote | May 13 |
-| **[Snowflake](https://www.snowflake.com)** | **[Data Cloud Product Partner Intern (Financial Services) - Summer 2025](https://jobright.ai/jobs/info/682354703cf65caaa5099f73?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | May 13 |
-| ↳ | **[Data Cloud Product Partner Intern (Financial Services) - Summer 2025](https://jobright.ai/jobs/info/682354703cf65caaa5099f68?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | May 13 |
 | **[Verkada](https://www.verkada.com)** | **[MBA Intern - Product](https://jobright.ai/jobs/info/68234ab144036edc78652cc9?utm_campaign=1047&utm_source=git)** | San Mateo, CA | On Site | May 13 |
 | **[Ripple](http://ripple.com)** | **[Product Management MBA Internship – Tokenization (Summer 2025)](https://jobright.ai/jobs/info/680288203c4a0cb566434446?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | May 13 |
-| **[Snowflake](https://www.snowflake.com)** | **[Data Cloud Product Partner Intern (Financial Services) - Summer 2025](https://jobright.ai/jobs/info/6823432a36eab290f6f9f301?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | May 13 |
 | **[Komatsu](http://www.ehrbar.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68010b751816cf1a2d9e025a?utm_campaign=1047&utm_source=git)** | Tucson, AZ | On Site | May 13 |
 | **[MiQ](https://www.wearemiq.com/)** | **[Product Summer Intern](https://jobright.ai/jobs/info/67f17fe3ab95e873e94bd20b?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | May 13 |
-| **[Snowflake](https://www.snowflake.com)** | **[Data Cloud Product Partner Intern (Financial Services) - Summer 2025](https://jobright.ai/jobs/info/682354703cf65caaa5099f7c?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | May 13 |
-| **[TikTok](https://www.tiktok.com)** | **[Product manager Intern (Music Discovery) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/680c9b9ab17403c3ff26c73f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 13 |
+| **[Bio-Techne](https://www.bio-techne.com)** | **[Product Management Intern - Antibodies](https://jobright.ai/jobs/info/67e729bcce4bf67c58d83825?utm_campaign=1047&utm_source=git)** | Denver, CO | On Site | May 13 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (TikTok-PGC) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67e783c0ed2e51de2ef81a61?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 13 |
+| ↳ | **[Product manager Intern (Music Discovery) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/680c9b9ab17403c3ff26c73f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 13 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/682259a6ec7108d8d02b15aa?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | May 12 |
 | **[ChargeItSpot](http://chargeitspot.com/)** | **[Product Management Internship](https://jobright.ai/jobs/info/682215707b36350f5cb7b961?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | Hybrid | May 12 |
 | **[LiveSwitch](https://www.liveswitch.io)** | **[Product Manager Internship (Undergraduates)](https://jobright.ai/jobs/info/6821f554d41c3fd76cf2f56b?utm_campaign=1047&utm_source=git)** | Apex, NC | On Site | May 12 |
@@ -92,13 +91,12 @@ For a complete list, click the following sortable link below:
 | **[Presence](https://presence.com)** | **[Product Intern (Summer 2025)](https://jobright.ai/jobs/info/681cc27bc89c9372af0a82a7?utm_campaign=1047&utm_source=git)** | Remote, US | Remote | May 08 |
 | **[Bath & Body Works](https://www.bathandbodyworks.com/)** | **[Merchandising Summer Internship 2025](https://jobright.ai/jobs/info/67bfd2434a102383729cbedd?utm_campaign=1047&utm_source=git)** | Reynoldsburg, OH | Hybrid | May 08 |
 | **[MSCI Inc.](http://msci.com)** | **[Segment Strategy Product Summer Intern](https://jobright.ai/jobs/info/67e2c65e72ee0e8975818560?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | May 08 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Connectivity Product Management Co-op](https://jobright.ai/jobs/info/681c351e0e68ea0ad418f516?utm_campaign=1047&utm_source=git)** | PA - Philadelphia, 1701 John F Kennedy Blvd | On Site | May 07 |
-| ↳ | **[Comcast Product Management Co-op](https://jobright.ai/jobs/info/681c351e0e68ea0ad418f502?utm_campaign=1047&utm_source=git)** | PA - Philadelphia, 1701 John F Kennedy Blvd | On Site | May 07 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Product Management Co-op](https://jobright.ai/jobs/info/681c351e0e68ea0ad418f502?utm_campaign=1047&utm_source=git)** | PA - Philadelphia, 1701 John F Kennedy Blvd | On Site | May 07 |
+| ↳ | **[Comcast Connectivity Product Management Co-op](https://jobright.ai/jobs/info/681c351e0e68ea0ad418f516?utm_campaign=1047&utm_source=git)** | PA - Philadelphia, 1701 John F Kennedy Blvd | On Site | May 07 |
 | **[Rondo Energy](https://www.rondo.energy)** | **[Product Cost Intern](https://jobright.ai/jobs/info/6806aaae5d536f0696480945?utm_campaign=1047&utm_source=git)** | Alameda, CA | On Site | May 07 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2025](https://jobright.ai/jobs/info/6716f5075ef2d971e037b166?utm_campaign=1047&utm_source=git)** | Nashua, NH | On Site | May 07 |
 | **[Resonetics](http://www.resonetics.com)** | **[Product Development Co-Op](https://jobright.ai/jobs/info/681c16676b684be3c3e0237f?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | May 07 |
 | **[Verkada](https://www.verkada.com)** | **[MBA Intern - Product](https://jobright.ai/jobs/info/681bc1c3f1161f17ac796a87?utm_campaign=1047&utm_source=git)** | San Mateo, CA United States | On Site | May 07 |
 | **[Juniper Networks](http://www.juniper.net)** | **[63093R-Intern 3 Product Line Mgmt](https://jobright.ai/jobs/info/6823072073b6cd17f34e16f6?utm_campaign=1047&utm_source=git)** | 1133 Innovation Way, Sunnyvale, CA, 94089, US | On Site | May 07 |
 | **[ITT Inc.](http://www.itt.com)** | **[Product Management Co-op (Fall 2025)](https://jobright.ai/jobs/info/681ba14edab4fcafb6a11ff9?utm_campaign=1047&utm_source=git)** | Seneca Falls, NY | On Site | May 07 |
-| **[Snowflake](https://www.snowflake.com)** | **[Data Cloud Product Partner Intern (Financial Services) - Summer 2025](https://jobright.ai/jobs/info/681b41e83d751084221d603e?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
