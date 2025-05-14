@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gallagher Bassett](https://www.robanda.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6823f88ea2ba228deff0a651?utm_campaign=1047&utm_source=git)** | Rolling Meadows, IL | Hybrid | May 13 |
+| **[Skild AI](https://www.skild.ai)** | **[Product Management Intern](https://jobright.ai/jobs/info/6823e879775ffb6288a0f24b?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | May 13 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6823e4885477a27952f3ae6c?utm_campaign=1047&utm_source=git)** | San Francisco | On Site | May 13 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Product Management Intern – Program Support](https://jobright.ai/jobs/info/68239c9c5b7c69bde80d567f?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | May 13 |
 | **[Cadent](http://www.cadent.tv)** | **[Product Management Intern](https://jobright.ai/jobs/info/68236f5202abb00910ca20bf?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | May 13 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Product Management Intern – Program Support](https://jobright.ai/jobs/info/682364ece1e61a353b128b05?utm_campaign=1047&utm_source=git)** | Illinois | On Site | May 13 |
