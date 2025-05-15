@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CoStar Group](http://www.costargroup.com/)** | **[Summer 2025 Product Management Intern– San Jose, CA](https://jobright.ai/jobs/info/68250509d281e936d87eb50d?utm_campaign=1047&utm_source=git)** | Home-based - California, California, United States of America | On Site | May 14 |
+| ↳ | **[Summer 2025 Product Management Intern– San Jose, CA](https://jobright.ai/jobs/info/6824fdca5ae9a25322e0e3c6?utm_campaign=1047&utm_source=git)** | US-CA Field Based | On Site | May 14 |
+| **[PCOnline](https://pconlineus.com/)** | **[Junior Product Manager (Intern)](https://jobright.ai/jobs/info/6824f8510dfac140178ea019?utm_campaign=1047&utm_source=git)** | Newark, DE | On Site | May 14 |
+| **[MANITOU Group](http://www.manitou-group.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/68082aa951246f8e727b9878?utm_campaign=1047&utm_source=git)** | West Bend, WI | On Site | May 14 |
 | **[Skild AI](https://www.skild.ai)** | **[Product Management Intern](https://jobright.ai/jobs/info/6823e879775ffb6288a0f24b?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | May 13 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6823e4885477a27952f3ae6c?utm_campaign=1047&utm_source=git)** | San Francisco | On Site | May 13 |
 | **[AARP](http://www.aarp.org)** | **[Product Initiatives Intern](https://jobright.ai/jobs/info/67d1149e8d2d4e4fccf55ea3?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | May 13 |
@@ -91,8 +95,4 @@ For a complete list, click the following sortable link below:
 | **[SWBC](https://www.swbc.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/680054a07f62ce7bfa99547a?utm_campaign=1047&utm_source=git)** | San Antonio, TX | On Site | May 08 |
 | **[Presence](https://presence.com)** | **[Product Intern (Summer 2025)](https://jobright.ai/jobs/info/681cc27bc89c9372af0a82a7?utm_campaign=1047&utm_source=git)** | Remote, US | Remote | May 08 |
 | **[Bath & Body Works](https://www.bathandbodyworks.com/)** | **[Merchandising Summer Internship 2025](https://jobright.ai/jobs/info/67bfd2434a102383729cbedd?utm_campaign=1047&utm_source=git)** | Reynoldsburg, OH | Hybrid | May 08 |
-| **[MSCI Inc.](http://msci.com)** | **[Segment Strategy Product Summer Intern](https://jobright.ai/jobs/info/67e2c65e72ee0e8975818560?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | May 08 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Connectivity Product Management Co-op](https://jobright.ai/jobs/info/681c351e0e68ea0ad418f516?utm_campaign=1047&utm_source=git)** | PA - Philadelphia, 1701 John F Kennedy Blvd | On Site | May 07 |
-| ↳ | **[Comcast Product Management Co-op](https://jobright.ai/jobs/info/681c351e0e68ea0ad418f502?utm_campaign=1047&utm_source=git)** | PA - Philadelphia, 1701 John F Kennedy Blvd | On Site | May 07 |
-| **[Rondo Energy](https://www.rondo.energy)** | **[Product Cost Intern](https://jobright.ai/jobs/info/6806aaae5d536f0696480945?utm_campaign=1047&utm_source=git)** | Alameda, CA | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
