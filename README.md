@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67d053202d3382d13176523f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 15 |
+| ↳ | **[Product Manager Intern (TikTok-Search) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/680c543d7883eb2208f9a344?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 15 |
+| ↳ | **[Product Manager Intern (TikTok-Product-Open Platform)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/680c9b9ab17403c3ff26c393?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 15 |
 | **[Komatsu](http://www.ehrbar.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6825400eac870f2435d30c4f?utm_campaign=1047&utm_source=git)** | Tucson, AZ | On Site | May 14 |
 | **[CoStar Group](http://www.costargroup.com/)** | **[Summer 2025 Product Management Intern– San Jose, CA](https://jobright.ai/jobs/info/68250509d281e936d87eb50d?utm_campaign=1047&utm_source=git)** | Home-based - California, California, United States of America | On Site | May 14 |
 | ↳ | **[Summer 2025 Product Management Intern– San Jose, CA](https://jobright.ai/jobs/info/6824fdca5ae9a25322e0e3c6?utm_campaign=1047&utm_source=git)** | US-CA Field Based | On Site | May 14 |
@@ -92,6 +95,4 @@ For a complete list, click the following sortable link below:
 | **[AMETEK](http://www.ametek.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/67ed8cbaf8206c7d396ba7c2?utm_campaign=1047&utm_source=git)** | Mount Prospect, IL | On Site | May 08 |
 | **[Mitsubishi Electric US, Inc.](https://us.mitsubishielectric.com/)** | **[Product Management CO-OP - REQ # 1236](https://jobright.ai/jobs/info/681d53337179029c099ae170?utm_campaign=1047&utm_source=git)** | Suwanee, GA | On Site | May 08 |
 | **[Mitsubishi Electric](https://www.mitsubishielectric.co.jp)** | **[Product Management CO-OP - REQ # 1236](https://jobright.ai/jobs/info/681d5f4bce48cc7130c309ce?utm_campaign=1047&utm_source=git)** | Suwanee, GA | On Site | May 08 |
-| **[Presence](https://presence.com)** | **[Product Intern (Summer 2025)](https://jobright.ai/jobs/info/681d0d6ccb59de518648053a?utm_campaign=1047&utm_source=git)** | Chicago, IL | Remote | May 08 |
-| **[Armada](https://www.armada.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/681cf621a8b287cc15ff131c?utm_campaign=1047&utm_source=git)** | Bellevue Office, WeWork Sunset North | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
