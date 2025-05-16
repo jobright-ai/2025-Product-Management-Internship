@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AARP](http://www.aarp.org)** | **[Product Development Intern](https://jobright.ai/jobs/info/6826da4a5d451099c23f2e41?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | May 15 |
 | **[SAP](https://www.sap.com)** | **[SAP Ariba iXp Intern - AI Product Strategy and Data Science](https://jobright.ai/jobs/info/68268740b7c1e6c1cee26f53?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | May 15 |
 | **[Pyramid Systems, Inc.](http://pyramidsystems.com)** | **[Summer 2025 Technical Product Management Internship](https://jobright.ai/jobs/info/6826870191162d6e58cae439?utm_campaign=1047&utm_source=git)** | Fairfax, VA | Hybrid | May 15 |
 | **[S&P Global](https://www.spglobal.com)** | **[AI Product Analyst Intern (Early Careers)](https://jobright.ai/jobs/info/682675f8ddaa85ae9a6bab50?utm_campaign=1047&utm_source=git)** | Princeton, NJ | On Site | May 15 |
@@ -76,6 +77,9 @@ For a complete list, click the following sortable link below:
 | **[PCOnline](https://pconlineus.com/)** | **[Junior Product Manager (Intern)](https://jobright.ai/jobs/info/6824f8510dfac140178ea019?utm_campaign=1047&utm_source=git)** | Newark, DE | On Site | May 14 |
 | **[MANITOU Group](http://www.manitou-group.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/68082aa951246f8e727b9878?utm_campaign=1047&utm_source=git)** | West Bend, WI | On Site | May 14 |
 | **[Cytiva](https://www.cytivalifesciences.com/en/se)** | **[Marketing Product Management Intern](https://jobright.ai/jobs/info/68086f2875ff86e36e5a73ad?utm_campaign=1047&utm_source=git)** | Logan, UT | On Site | May 14 |
+| **[TikTok](https://www.tiktok.com)** | **[Product manager Intern (Music Discovery) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6826da4a5d451099c23f30f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 13 |
+| ↳ | **[Product Manager Intern (TikTok Music Discovery) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/67e77ab79fdea0c6efc0396f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 13 |
+| ↳ | **[Product Operations Intern (TikTok-PGC) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6826b577294475eb313b1130?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 13 |
 | **[Skild AI](https://www.skild.ai)** | **[Product Management Intern](https://jobright.ai/jobs/info/6823e879775ffb6288a0f24b?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | May 13 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6823e4885477a27952f3ae6c?utm_campaign=1047&utm_source=git)** | San Francisco | On Site | May 13 |
 | **[AARP](http://www.aarp.org)** | **[Product Initiatives Intern](https://jobright.ai/jobs/info/67d1149e8d2d4e4fccf55ea3?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | May 13 |
@@ -93,5 +97,4 @@ For a complete list, click the following sortable link below:
 | **[David's Bridal](http://www.davidsbridal.com)** | **[Summer IT Temp](https://jobright.ai/jobs/info/681ef7815ec21f67cbc416e1?utm_campaign=1047&utm_source=git)** | King of Prussia, PA | On Site | May 09 |
 | **[IGT](http://igt.com)** | **[Intern-Premium Product Merchandising](https://jobright.ai/jobs/info/68017bb69e5a92b831fbce32?utm_campaign=1047&utm_source=git)** | Reno, NV | On Site | May 09 |
 | **[Force Factor](https://forcefactor.com/)** | **[Fall 2025 Product Development Intern](https://jobright.ai/jobs/info/67f07b5ec2d841b76fca2549?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | May 09 |
-| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - SOLIDWORKS Product Management](https://jobright.ai/jobs/info/681e0182130711d807f46b4b?utm_campaign=1047&utm_source=git)** | Waltham, MA | On Site | May 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
