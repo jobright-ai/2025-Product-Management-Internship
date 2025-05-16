@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Personal Lines Product Analytics Intern](https://jobright.ai/jobs/info/680ad6b7f80cd700f837c5dc?utm_campaign=1047&utm_source=git)** | Westfield Center, OH | Hybrid | May 16 |
+| **[Auzmor](https://auzmor.com)** | **[Business Analyst / Product Owner (Customer Success Department)](https://jobright.ai/jobs/info/68271fe5937ec6a610ecaca0?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | May 16 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67d053202d3382d131765237?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 16 |
+| ↳ | **[Product Manager Intern (TikTok-Product-Privacy and Responsibility) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/680c9a18b17403c3ff26c0ca?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 16 |
 | **[AARP](http://www.aarp.org)** | **[Product Development Intern](https://jobright.ai/jobs/info/6826da4a5d451099c23f2e41?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | May 15 |
 | **[SAP](https://www.sap.com)** | **[SAP Ariba iXp Intern - AI Product Strategy and Data Science](https://jobright.ai/jobs/info/68268740b7c1e6c1cee26f53?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | May 15 |
 | **[Pyramid Systems, Inc.](http://pyramidsystems.com)** | **[Summer 2025 Technical Product Management Internship](https://jobright.ai/jobs/info/6826870191162d6e58cae439?utm_campaign=1047&utm_source=git)** | Fairfax, VA | Hybrid | May 15 |
