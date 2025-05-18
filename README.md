@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Enpro Inc.](http://enproindustries.com)** | **[Product Management & Engineering Intern](https://jobright.ai/jobs/info/680bfb7e18a3573ab72618c1?utm_campaign=1047&utm_source=git)** | Millington, MI | Hybrid | May 17 |
+| **[Glean](https://www.glean.com)** | **[Product Management Intern (Summer)](https://jobright.ai/jobs/info/680c3b2cf4d49353c366f26e?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | May 17 |
 | **[Stocktwits](http://stocktwits.com)** | **[Product Intern](https://jobright.ai/jobs/info/68283997700c9fd067f9a81b?utm_campaign=1047&utm_source=git)** | United States | Remote | May 17 |
 | **[J.D. Power](http://www.jdpower.com/business)** | **[Intern - Insurance Practice](https://jobright.ai/jobs/info/68279c8ae8094f47672accda?utm_campaign=1047&utm_source=git)** | Troy, MI | Hybrid | May 16 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Personal Lines Product Analytics Intern](https://jobright.ai/jobs/info/680ad6b7f80cd700f837c5dc?utm_campaign=1047&utm_source=git)** | Westfield Center, OH | Hybrid | May 16 |
@@ -66,6 +67,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (TikTok-Product-Privacy and Responsibility) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/680c9a18b17403c3ff26c0ca?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 16 |
 | ↳ | **[Product Manager Intern (TikTok-PGC)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67d053202d3382d131765245?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 16 |
 | **[AARP](http://www.aarp.org)** | **[Product Development Intern](https://jobright.ai/jobs/info/6826da4a5d451099c23f2e41?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | May 15 |
+| **[Philips](https://www.usa.philips.com)** | **[Intern – Product Management - Bothell, WA - Summer 2025](https://jobright.ai/jobs/info/68294f4810d4aee6623fc3ee?utm_campaign=1047&utm_source=git)** | Bothell, WA | On Site | May 15 |
 | **[Pyramid Systems, Inc.](http://pyramidsystems.com)** | **[Summer 2025 Technical Product Management Internship](https://jobright.ai/jobs/info/6826870191162d6e58cae439?utm_campaign=1047&utm_source=git)** | Fairfax, VA | Hybrid | May 15 |
 | **[S&P Global](https://www.spglobal.com)** | **[AI Product Analyst Intern (Early Careers)](https://jobright.ai/jobs/info/682675f8ddaa85ae9a6bab50?utm_campaign=1047&utm_source=git)** | Princeton, NJ | On Site | May 15 |
 | **[Presence](https://presence.com)** | **[Product Intern, Speech-Language (Summer 2025)](https://jobright.ai/jobs/info/681cc27bc89c9372af0a82a7?utm_campaign=1047&utm_source=git)** | Remote, US | Remote | May 15 |
