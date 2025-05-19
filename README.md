@@ -105,6 +105,4 @@ For a complete list, click the following sortable link below:
 | **[MiQ](https://www.wearemiq.com/)** | **[Product Summer Intern](https://jobright.ai/jobs/info/67f17fe3ab95e873e94bd20b?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | May 13 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Digital Platforms Intern](https://jobright.ai/jobs/info/6803a21a78c7dbb295c469a7?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | May 13 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/68295a343929c190f58788cd?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | May 12 |
-| ↳ | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/682839d6bcc78dd19807be70?utm_campaign=1047&utm_source=git)** | Dallas, TX - Headquarters | On Site | May 12 |
-| **[LiveSwitch](https://www.liveswitch.io)** | **[Product Manager Internship (Undergraduates)](https://jobright.ai/jobs/info/6821f554d41c3fd76cf2f56b?utm_campaign=1047&utm_source=git)** | Apex, NC | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
