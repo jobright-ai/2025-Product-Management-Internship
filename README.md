@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Vehicle Accessories & Merchandise Product Intern, Global Merchandise (Fall 2025)](https://jobright.ai/jobs/info/682ba8d9f1a1cb7eb3e18eec?utm_campaign=1047&utm_source=git)** | Hawthorne, CA | On Site | May 19 |
+| **[Flexera](https://www.flexera.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/682b958e1f346e5f9654ac5d?utm_campaign=1047&utm_source=git)** | Home-United States | On Site | May 19 |
 | **[Central Garden & Pet](http://www.central.com)** | **[Product Data & Process Analyst Intern](https://jobright.ai/jobs/info/682b37b55c9e45bda5bf9dd3?utm_campaign=1047&utm_source=git)** | United States | Remote | May 19 |
 | **[Auzmor](https://auzmor.com)** | **[Business Analyst / Product Owner (Customer Success Department)](https://jobright.ai/jobs/info/682b10cbe07ab4fb7f64cd21?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | May 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/680ceb1329e852258bcbc363?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6826c573d05c08c3e3e71177?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 18 |
 | **[Enpro Inc.](http://enproindustries.com)** | **[Product Management & Engineering Intern](https://jobright.ai/jobs/info/680bfb7e18a3573ab72618c1?utm_campaign=1047&utm_source=git)** | Millington, MI | Hybrid | May 17 |
-| **[Glean](https://www.glean.com)** | **[Product Management Intern (Summer)](https://jobright.ai/jobs/info/680c3b2cf4d49353c366f26e?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | May 17 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Loan Servicing Specialist](https://jobright.ai/jobs/info/677bd425125f8b2f99a00420?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | Hybrid | May 17 |
 | **[Stocktwits](http://stocktwits.com)** | **[Product Intern](https://jobright.ai/jobs/info/68283997700c9fd067f9a81b?utm_campaign=1047&utm_source=git)** | United States | Remote | May 17 |
 | **[Novocure](http://www.novocure.com/)** | **[Product Development Analytics Intern](https://jobright.ai/jobs/info/682aa1eef49e8e0593f8c566?utm_campaign=1047&utm_source=git)** | Portsmouth, NH | On Site | May 16 |
@@ -77,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[S&P Global](https://www.spglobal.com)** | **[AI Product Analyst Intern (Early Careers)](https://jobright.ai/jobs/info/682675f8ddaa85ae9a6bab50?utm_campaign=1047&utm_source=git)** | Princeton, NJ | On Site | May 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operation Intern (Music Promotion and Distribution) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/67ed14c7bec9f8ea83111ed5?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | May 15 |
 | **[Presence](https://presence.com)** | **[Product Intern, Speech-Language (Summer 2025)](https://jobright.ai/jobs/info/681cc27bc89c9372af0a82a7?utm_campaign=1047&utm_source=git)** | Remote, US | Remote | May 15 |
-| **[Bio-Techne](https://www.bio-techne.com)** | **[Product Management Intern - Antibodies](https://jobright.ai/jobs/info/682647a76e4c228e38ee78eb?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | On Site | May 15 |
 | **[Quantinuum](https://www.quantinuum.com/)** | **[Product Launch and Customer Engagement Intern](https://jobright.ai/jobs/info/682641ae0b030bf2760d0b0c?utm_campaign=1047&utm_source=git)** | Broomfield, CO | On Site | May 15 |
 | **[Philips](https://www.usa.philips.com)** | **[Intern – Product Management - Bothell, WA - Summer 2025](https://jobright.ai/jobs/info/682618276501d4958e8b33d7?utm_campaign=1047&utm_source=git)** | Bothell | On Site | May 15 |
 | **[SWBC](https://www.swbc.com)** | **[Product Administration Intern](https://jobright.ai/jobs/info/68093cd4a145de2f58a8f99b?utm_campaign=1047&utm_source=git)** | San Antonio, TX | On Site | May 15 |
@@ -94,12 +94,9 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product manager Intern (Music Discovery) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6826da4a5d451099c23f30f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 13 |
 | ↳ | **[Product Manager Intern (TikTok Music Discovery) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/67e77ab79fdea0c6efc0396f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 13 |
 | ↳ | **[Product Operations Intern (TikTok-PGC) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6826b577294475eb313b1130?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 13 |
-| **[Skild AI](https://www.skild.ai)** | **[Product Management Intern](https://jobright.ai/jobs/info/6823e879775ffb6288a0f24b?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | May 13 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6823e4885477a27952f3ae6c?utm_campaign=1047&utm_source=git)** | San Francisco | On Site | May 13 |
 | **[AARP](http://www.aarp.org)** | **[Product Initiatives Intern](https://jobright.ai/jobs/info/67d1149e8d2d4e4fccf55ea3?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | May 13 |
 | **[Cadent](http://www.cadent.tv)** | **[Product Management Intern](https://jobright.ai/jobs/info/68236f5202abb00910ca20bf?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | May 13 |
 | **[Stocktwits](http://stocktwits.com)** | **[Product Intern](https://jobright.ai/jobs/info/682355b84671807498266edf?utm_campaign=1047&utm_source=git)** | Remote (United States) | Remote | May 13 |
 | **[Verkada](https://www.verkada.com)** | **[MBA Intern - Product](https://jobright.ai/jobs/info/68234ab144036edc78652cc9?utm_campaign=1047&utm_source=git)** | San Mateo, CA | On Site | May 13 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Digital Platforms Intern](https://jobright.ai/jobs/info/6803a21a78c7dbb295c469a7?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | May 13 |
-| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/68295a343929c190f58788cd?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
