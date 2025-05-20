@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Auzmor](https://auzmor.com)** | **[Business Analyst / Product Owner (Customer Success Department)](https://jobright.ai/jobs/info/682c673bd4646a8a6f4d8ac5?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | May 20 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Product & Digital Content High School Intern](https://jobright.ai/jobs/info/682c2876f6b28ddca68826d0?utm_campaign=1047&utm_source=git)** | Virginia, United States | Remote | May 20 |
 | **[Flexera](https://www.flexera.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/682be1e21f21f5b2ea4ab002?utm_campaign=1047&utm_source=git)** | United States | Remote | May 19 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Vehicle Accessories & Merchandise Product Intern, Global Merchandise (Fall 2025)](https://jobright.ai/jobs/info/682ba8d9f1a1cb7eb3e18eec?utm_campaign=1047&utm_source=git)** | Hawthorne, CA | On Site | May 19 |
 | **[Flexera](https://www.flexera.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/682b958e1f346e5f9654ac5d?utm_campaign=1047&utm_source=git)** | Home-United States | On Site | May 19 |
 | **[Central Garden & Pet](http://www.central.com)** | **[Product Data & Process Analyst Intern](https://jobright.ai/jobs/info/682b37b55c9e45bda5bf9dd3?utm_campaign=1047&utm_source=git)** | United States | Remote | May 19 |
-| **[Auzmor](https://auzmor.com)** | **[Business Analyst / Product Owner (Customer Success Department)](https://jobright.ai/jobs/info/682b10cbe07ab4fb7f64cd21?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | May 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/680ceb1329e852258bcbc363?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product Infrastructure)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6826deddbda62b0c1d13c157?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 18 |
 | ↳ | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6826c573d05c08c3e3e71177?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 18 |
