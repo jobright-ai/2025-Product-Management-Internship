@@ -59,9 +59,10 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/682d2bc36037a7e771321f00?utm_campaign=1047&utm_source=git)** | California, United States | Hybrid | May 20 |
 | **[Aptive Environmental](http://goaptive.com/)** | **[Product Manger Intern](https://jobright.ai/jobs/info/682cd6cd5b79445e31173005?utm_campaign=1047&utm_source=git)** | Provo, UT | On Site | May 20 |
-| **[Unison](http://www.unison.com)** | **[Product Intern](https://jobright.ai/jobs/info/682cab579d52ce3e7d7e7f77?utm_campaign=1047&utm_source=git)** | Omaha, NE | Hybrid | May 20 |
+| **[Unison](http://www.unison.com)** | **[Product Intern](https://jobright.ai/jobs/info/682cd336a2e094a2cc10294c?utm_campaign=1047&utm_source=git)** | Omaha, NE | Hybrid | May 20 |
 | **[Ashley Furniture Industries](https://www.ashleyfurnitureindustriesllc.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/6824eb2346e340d990dac3d1?utm_campaign=1047&utm_source=git)** | Tampa, FL | On Site | May 20 |
 | **[Auzmor](https://auzmor.com)** | **[Business Analyst / Product Owner (Customer Success Department)](https://jobright.ai/jobs/info/682c673bd4646a8a6f4d8ac5?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | May 20 |
+| **[AdTheorent](http://www.adtheorent.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/682d8f500f81c96d9db10378?utm_campaign=1047&utm_source=git)** | US-NY-New York | On Site | May 20 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Product & Digital Content High School Intern](https://jobright.ai/jobs/info/682c2876f6b28ddca68826d0?utm_campaign=1047&utm_source=git)** | Virginia, United States | Remote | May 20 |
 | **[Flexera](https://www.flexera.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/682be1e21f21f5b2ea4ab002?utm_campaign=1047&utm_source=git)** | United States | Remote | May 19 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Vehicle Accessories & Merchandise Product Intern, Global Merchandise (Fall 2025)](https://jobright.ai/jobs/info/682ba8d9f1a1cb7eb3e18eec?utm_campaign=1047&utm_source=git)** | Hawthorne, CA | On Site | May 19 |
@@ -77,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[J.D. Power](http://www.jdpower.com/business)** | **[Intern - Insurance Practice](https://jobright.ai/jobs/info/68279c8ae8094f47672accda?utm_campaign=1047&utm_source=git)** | Troy, MI | Hybrid | May 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6826d3ece3c8402fd20cb59c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 16 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Personal Lines Product Analytics Intern](https://jobright.ai/jobs/info/680ad6b7f80cd700f837c5dc?utm_campaign=1047&utm_source=git)** | Westfield Center, OH | Hybrid | May 16 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67d053202d3382d131765237?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 16 |
-| ↳ | **[Product Manager Intern (TikTok-Product-Privacy and Responsibility) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/680c9a18b17403c3ff26c0ca?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 16 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Privacy and Responsibility) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/680c9a18b17403c3ff26c0ca?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 16 |
+| ↳ | **[Product Manager Intern (TikTok-Search) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67d053202d3382d131765237?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 16 |
 | ↳ | **[Product Manager Intern (TikTok-PGC)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67d053202d3382d131765245?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 16 |
 | **[AARP](http://www.aarp.org)** | **[Product Development Intern](https://jobright.ai/jobs/info/6826da4a5d451099c23f2e41?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | May 15 |
 | **[SAP](https://www.sap.com)** | **[SAP Ariba iXp Intern - AI Product Strategy and Data Science](https://jobright.ai/jobs/info/682974b601a158a85f463175?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | May 15 |
@@ -96,5 +97,4 @@ For a complete list, click the following sortable link below:
 | **[CoStar Group](http://www.costargroup.com/)** | **[Summer 2025 Product Management Intern– San Jose, CA](https://jobright.ai/jobs/info/68250509d281e936d87eb50d?utm_campaign=1047&utm_source=git)** | Home-based - California, California, United States of America | On Site | May 14 |
 | ↳ | **[Summer 2025 Product Management Intern– San Jose, CA](https://jobright.ai/jobs/info/6824fdca5ae9a25322e0e3c6?utm_campaign=1047&utm_source=git)** | US-CA Field Based | On Site | May 14 |
 | **[PCOnline](https://pconlineus.com/)** | **[Junior Product Manager (Intern)](https://jobright.ai/jobs/info/6824f8510dfac140178ea019?utm_campaign=1047&utm_source=git)** | Newark, DE | On Site | May 14 |
-| **[Cytiva](https://www.cytivalifesciences.com/en/se)** | **[Marketing Product Management Intern](https://jobright.ai/jobs/info/68086f2875ff86e36e5a73ad?utm_campaign=1047&utm_source=git)** | Logan, UT | On Site | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
