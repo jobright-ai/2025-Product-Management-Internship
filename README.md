@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Shield of California](https://www.blueshieldca.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/682d2bc36037a7e771321f00?utm_campaign=1047&utm_source=git)** | California, United States | Hybrid | May 20 |
 | **[Aptive Environmental](http://goaptive.com/)** | **[Product Manger Intern](https://jobright.ai/jobs/info/682cd6cd5b79445e31173005?utm_campaign=1047&utm_source=git)** | Provo, UT | On Site | May 20 |
 | **[Unison](http://www.unison.com)** | **[Product Intern](https://jobright.ai/jobs/info/682cab579d52ce3e7d7e7f77?utm_campaign=1047&utm_source=git)** | Omaha, NE | Hybrid | May 20 |
 | **[Ashley Furniture Industries](https://www.ashleyfurnitureindustriesllc.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/6824eb2346e340d990dac3d1?utm_campaign=1047&utm_source=git)** | Tampa, FL | On Site | May 20 |
