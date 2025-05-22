@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Source Intelligence](http://www.sourceintelligence.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/682e48cf9db720305b30018f?utm_campaign=1047&utm_source=git)** | United States | Remote | May 21 |
+| **[The Citco Group Limited](https://www.citco.com)** | **[Product Intern](https://jobright.ai/jobs/info/682e33de07d3aeb0ca714381?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | Hybrid | May 21 |
+| **[Dermalogica](http://www.dermalogica.com/)** | **[Intern - Global Product Development](https://jobright.ai/jobs/info/682e2c7af6fe6de0d4370778?utm_campaign=1047&utm_source=git)** | Carson, CA | Hybrid | May 21 |
 | **[The Citco Group Limited](https://www.citco.com)** | **[Product Intern](https://jobright.ai/jobs/info/682e274b636e51a205c4183f?utm_campaign=1047&utm_source=git)** | Harborside Plaza 10, Jersey City, NJ, 07311, US | On Site | May 21 |
 | **[Dermalogica](http://www.dermalogica.com/)** | **[Intern - Global Product Development](https://jobright.ai/jobs/info/682e22097932affd9fe58813?utm_campaign=1047&utm_source=git)** | Carson, CA | Hybrid | May 21 |
 | **[Auzmor](https://auzmor.com)** | **[Business Analyst / Product Owner (Customer Success Department)](https://jobright.ai/jobs/info/682dbf064941905323befc26?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | May 21 |
 | **[Schaeffler](https://www.schaeffler.us)** | **[Co-Op - Product Management](https://jobright.ai/jobs/info/682abd3165b8192ed7ef149c?utm_campaign=1047&utm_source=git)** | Strongsville, OH | On Site | May 21 |
 | **[Forbes](https://www.forbesmagazine.com)** | **[Summer 2025 Digital Product Development Intern](https://jobright.ai/jobs/info/67f445cd44030f2dfa4655c7?utm_campaign=1047&utm_source=git)** | United States | Remote | May 21 |
 | **[Aptive Environmental](http://goaptive.com/)** | **[Product Manger Intern](https://jobright.ai/jobs/info/682cd6cd5b79445e31173005?utm_campaign=1047&utm_source=git)** | Provo, UT | On Site | May 20 |
-| **[Unison](http://www.unison.com)** | **[Product Intern](https://jobright.ai/jobs/info/682cab579d52ce3e7d7e7f77?utm_campaign=1047&utm_source=git)** | Omaha, NE | Hybrid | May 20 |
+| **[Unison](http://www.unison.com)** | **[Product Intern](https://jobright.ai/jobs/info/682cd336a2e094a2cc10294c?utm_campaign=1047&utm_source=git)** | Omaha, NE | Hybrid | May 20 |
 | **[Ashley Furniture Industries](https://www.ashleyfurnitureindustriesllc.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/6824eb2346e340d990dac3d1?utm_campaign=1047&utm_source=git)** | Tampa, FL | On Site | May 20 |
 | **[AdTheorent](http://www.adtheorent.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/682d8f500f81c96d9db10378?utm_campaign=1047&utm_source=git)** | US-NY-New York | On Site | May 20 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Product & Digital Content High School Intern](https://jobright.ai/jobs/info/682c2876f6b28ddca68826d0?utm_campaign=1047&utm_source=git)** | Virginia, United States | Remote | May 20 |
@@ -91,5 +94,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/682648301ff0402117fb6f3d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 15 |
 | ↳ | **[Product manager Intern (Music Copyright Solution) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/680c9b9ab17403c3ff26c68f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 15 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Open Platform)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/682648301ff0402117fb6f6a?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 15 |
-| **[MANITOU Group](http://www.manitou-group.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/682968c01c90af808773718b?utm_campaign=1047&utm_source=git)** | West Bend, WI | On Site | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
