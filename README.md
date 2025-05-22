@@ -67,7 +67,7 @@ For a complete list, click the following sortable link below:
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern, SPDJI Product Management](https://jobright.ai/jobs/info/68114774ac0e5e4a48a7ea19?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | May 21 |
 | **[Forbes](https://www.forbesmagazine.com)** | **[Summer 2025 Digital Product Development Intern](https://jobright.ai/jobs/info/67f445cd44030f2dfa4655c7?utm_campaign=1047&utm_source=git)** | United States | Remote | May 21 |
 | **[Aptive Environmental](http://goaptive.com/)** | **[Product Manger Intern](https://jobright.ai/jobs/info/682cd6cd5b79445e31173005?utm_campaign=1047&utm_source=git)** | Provo, UT | On Site | May 20 |
-| **[Unison](http://www.unison.com)** | **[Product Intern](https://jobright.ai/jobs/info/682cab579d52ce3e7d7e7f77?utm_campaign=1047&utm_source=git)** | Omaha, NE | Hybrid | May 20 |
+| **[Unison](http://www.unison.com)** | **[Product Intern](https://jobright.ai/jobs/info/682cd336a2e094a2cc10294c?utm_campaign=1047&utm_source=git)** | Omaha, NE | Hybrid | May 20 |
 | **[Ashley Furniture Industries](https://www.ashleyfurnitureindustriesllc.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/6824eb2346e340d990dac3d1?utm_campaign=1047&utm_source=git)** | Tampa, FL | On Site | May 20 |
 | **[AdTheorent](http://www.adtheorent.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/682d8f500f81c96d9db10378?utm_campaign=1047&utm_source=git)** | US-NY-New York | On Site | May 20 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Product & Digital Content High School Intern](https://jobright.ai/jobs/info/682c2876f6b28ddca68826d0?utm_campaign=1047&utm_source=git)** | Virginia, United States | Remote | May 20 |
@@ -87,10 +87,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (TikTok-PGC)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67d053202d3382d131765245?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 16 |
 | **[AARP](http://www.aarp.org)** | **[Product Development Intern](https://jobright.ai/jobs/info/6826da4a5d451099c23f2e41?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | May 15 |
 | **[SAP](https://www.sap.com)** | **[SAP Ariba iXp Intern - AI Product Strategy and Data Science](https://jobright.ai/jobs/info/682974b601a158a85f463175?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | May 15 |
-| **[Philips](https://www.usa.philips.com)** | **[Intern – Product Management - Bothell, WA - Summer 2025](https://jobright.ai/jobs/info/682e9a8dbaa569851761ae2e?utm_campaign=1047&utm_source=git)** | Bothell, WA | On Site | May 15 |
 | **[S&P Global](https://www.spglobal.com)** | **[AI Product Analyst Intern (Early Careers)](https://jobright.ai/jobs/info/682675f8ddaa85ae9a6bab50?utm_campaign=1047&utm_source=git)** | Princeton, NJ | On Site | May 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operation Intern (Music Promotion and Distribution) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/67ed14c7bec9f8ea83111ed5?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | May 15 |
 | **[Presence](https://presence.com)** | **[Product Intern, Speech-Language (Summer 2025)](https://jobright.ai/jobs/info/681cc27bc89c9372af0a82a7?utm_campaign=1047&utm_source=git)** | Remote, US | Remote | May 15 |
-| **[Philips](https://www.usa.philips.com)** | **[Intern – Product Management - Bothell, WA - Summer 2025](https://jobright.ai/jobs/info/682618276501d4958e8b33d7?utm_campaign=1047&utm_source=git)** | Bothell | On Site | May 15 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/680c543d7883eb2208f9a344?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
