@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ntrepid LLC](https://www.ntrepidcorp.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6830c8e0c87779964d170147?utm_campaign=1047&utm_source=git)** | US-VA-Herndon | On Site | May 23 |
+| **[E Source](http://www.esource.com)** | **[Product Portfolio Management Intern - REMOTE](https://jobright.ai/jobs/info/6830c2bd0db4a57672cbc49b?utm_campaign=1047&utm_source=git)** | United States | Remote | May 23 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6826c075d4b3f0b80946e178?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 23 |
 | **[Oracle](https://www.oracle.com/)** | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/68141b89c68705e122312b91?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | May 23 |
-| ↳ | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/681431d8ee9e8e5195144e62?utm_campaign=1047&utm_source=git)** | Reston, VA | On Site | May 23 |
+| ↳ | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/681423a4fc11c7806a5acd00?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | May 23 |
+| **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/67bf5d8b4ab5e9591419b305?utm_campaign=1047&utm_source=git)** | Quincy, IL | On Site | May 23 |
+| **[Oracle](https://www.oracle.com/)** | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/681431d8ee9e8e5195144e62?utm_campaign=1047&utm_source=git)** | Reston, VA | On Site | May 23 |
 | **[Diligent](http://diligent.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68138746c846c4e5c350a84b?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | May 23 |
 | **[Oracle](https://www.oracle.com/)** | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/681423a4fc11c7806a5accf5?utm_campaign=1047&utm_source=git)** | United States | Remote | May 23 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Megapack Product Management Engineer, Energy Engineering (Fall 2025)](https://jobright.ai/jobs/info/683008551cf0adf9b21feade?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | May 22 |
@@ -78,7 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Aptive Environmental](http://goaptive.com/)** | **[Product Manger Intern](https://jobright.ai/jobs/info/682cd6cd5b79445e31173005?utm_campaign=1047&utm_source=git)** | Provo, UT | On Site | May 20 |
 | **[Unison](http://www.unison.com)** | **[Product Intern](https://jobright.ai/jobs/info/682cab579d52ce3e7d7e7f77?utm_campaign=1047&utm_source=git)** | Omaha, NE | Hybrid | May 20 |
 | **[Ashley Furniture Industries](https://www.ashleyfurnitureindustriesllc.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/6824eb2346e340d990dac3d1?utm_campaign=1047&utm_source=git)** | Tampa, FL | On Site | May 20 |
-| **[AdTheorent](http://www.adtheorent.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/682d8f500f81c96d9db10378?utm_campaign=1047&utm_source=git)** | US-NY-New York | On Site | May 20 |
+| **[AdTheorent](http://www.adtheorent.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/682d8f500f81c96d9db1037b?utm_campaign=1047&utm_source=git)** | US-NY-New York | On Site | May 20 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Vehicle Accessories & Merchandise Product Intern, Global Merchandise (Fall 2025)](https://jobright.ai/jobs/info/682ba8d9f1a1cb7eb3e18eec?utm_campaign=1047&utm_source=git)** | Hawthorne, CA | On Site | May 19 |
 | **[Central Garden & Pet](http://www.central.com)** | **[Product Data & Process Analyst Intern](https://jobright.ai/jobs/info/682b37b55c9e45bda5bf9dd3?utm_campaign=1047&utm_source=git)** | United States | Remote | May 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/680ceb1329e852258bcbc363?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 19 |
@@ -87,5 +92,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6826c573d05c08c3e3e71177?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 18 |
 | **[Enpro Inc.](http://enproindustries.com)** | **[Product Management & Engineering Intern (Onsite Role - Millington, Michigan)](https://jobright.ai/jobs/info/680bfb7e18a3573ab72618c1?utm_campaign=1047&utm_source=git)** | Millington, MI | Hybrid | May 18 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Loan Servicing Specialist](https://jobright.ai/jobs/info/677bd425125f8b2f99a00420?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | Hybrid | May 17 |
-| **[Novocure](http://www.novocure.com/)** | **[Product Development Analytics Intern](https://jobright.ai/jobs/info/682aa1eef49e8e0593f8c566?utm_campaign=1047&utm_source=git)** | Portsmouth, NH | On Site | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
