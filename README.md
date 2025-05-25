@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/680a351abdf8f7f7b3418f53?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 25 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/682970f3a09e4fe94c15ec4b?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | May 24 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Intern Fall 2025 Meraki](https://jobright.ai/jobs/info/682955a19e0a93b00c54aa15?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | May 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/680ceb1329e852258bcbc28f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 24 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/680ce95629e852258bcbc07e?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 24 |
 | **[Oracle](https://www.oracle.com/)** | **[APEX Product Manager Intern - OVIP](https://jobright.ai/jobs/info/681522284d48109cb7ee6e35?utm_campaign=1047&utm_source=git)** | United States | Remote | May 24 |
-| **[Hyundai AutoEver America](https://www.autoeveramerica.com)** | **[Intern - Business Analyst, CCS Product Development](https://jobright.ai/jobs/info/683119fbeb1acb6b01655d87?utm_campaign=1047&utm_source=git)** | Costa Mesa, CA | On Site | May 23 |
+| **[Hyundai AutoEver America](https://www.autoeveramerica.com)** | **[Intern - Business Analyst, CCS Product Development](https://jobright.ai/jobs/info/683117c945187640f39f919f?utm_campaign=1047&utm_source=git)** | Costa Mesa, CA | On Site | May 23 |
 | **[Skillsoft](http://www.skillsoft.com)** | **[Summer Intern - AI Product Manager](https://jobright.ai/jobs/info/6831015624c1a19b61a940d5?utm_campaign=1047&utm_source=git)** | United States | Remote | May 23 |
 | **[Ntrepid LLC](https://ntrepidcorp.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6830c8e0c87779964d170147?utm_campaign=1047&utm_source=git)** | US-VA-Herndon | On Site | May 23 |
 | **[E Source](http://www.esource.com)** | **[Product Portfolio Management Intern - REMOTE](https://jobright.ai/jobs/info/6830c2bd0db4a57672cbc49b?utm_campaign=1047&utm_source=git)** | United States | Remote | May 23 |
@@ -96,5 +97,4 @@ For a complete list, click the following sortable link below:
 | **[Central Garden & Pet](http://www.central.com)** | **[Product Data & Process Analyst Intern](https://jobright.ai/jobs/info/682b37b55c9e45bda5bf9dd3?utm_campaign=1047&utm_source=git)** | United States | Remote | May 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/680ceb1329e852258bcbc363?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product Infrastructure)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6826deddbda62b0c1d13c157?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 18 |
-| **[Sigma](http://sigmacomputing.com)** | **[Product Management Graduate Intern (Summer 2025)](https://jobright.ai/jobs/info/680bebc50251284d05d344a7?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
