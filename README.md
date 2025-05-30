@@ -66,7 +66,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Development Coop](https://jobright.ai/jobs/info/6837a8c2504ac7b26812711e?utm_campaign=1047&utm_source=git)** | Lincoln, NE | Hybrid | May 28 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Product & Digital Content Intern](https://jobright.ai/jobs/info/683752a1d293240d1263cd5f?utm_campaign=1047&utm_source=git)** | United States | Remote | May 28 |
 | ↳ | **[Product & Digital Content Intern](https://jobright.ai/jobs/info/683746377945246df6ddd6d3?utm_campaign=1047&utm_source=git)** | US Nationwide - Remote | Remote | May 28 |
-| **[ITT Inc.](http://www.itt.com)** | **[Product Management Co-op - Vertical Products (Fall 2025)](https://jobright.ai/jobs/info/681aa988b186e0bcd82f6812?utm_campaign=1047&utm_source=git)** | Placentia, CA | On Site | May 28 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Powerwall Product Manager Engineer, Energy Engineering (Fall 2025)](https://jobright.ai/jobs/info/6836b25a51f54152b10a584e?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
 | **[Westgate Resorts](https://www.westgateresorts.com/)** | **[IT Product Management Intern](https://jobright.ai/jobs/info/6836320a3e46e10428e6aedf?utm_campaign=1047&utm_source=git)** | Ocoee, FL | On Site | May 27 |
 | **[Hibu](https://hibu.com/)** | **[Test – DPS – Do Not Apply](https://jobright.ai/jobs/info/6835e9bdcfb919d1460029a0?utm_campaign=1047&utm_source=git)** | King of Prussia, Pennsylvania, United States | On Site | May 27 |
@@ -86,16 +85,16 @@ For a complete list, click the following sortable link below:
 | **[Hyundai AutoEver America](https://www.autoeveramerica.com)** | **[Intern - Business Analyst, CCS Product Development](https://jobright.ai/jobs/info/683117c945187640f39f919f?utm_campaign=1047&utm_source=git)** | Costa Mesa, CA | On Site | May 23 |
 | **[Oracle](https://www.oracle.com/)** | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/6813d05989ca54f545462afe?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | May 23 |
 | ↳ | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/68141b89c68705e122312b98?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | May 23 |
-| **[Cadent](http://www.cadent.tv)** | **[Product Management Intern](https://jobright.ai/jobs/info/681d69c546029eb5fc91d9c5?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | May 23 |
+| ↳ | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/681423a4fc11c7806a5accf4?utm_campaign=1047&utm_source=git)** | Reston, VA | On Site | May 23 |
 | **[E Source](http://www.esource.com)** | **[Product Portfolio Management Intern - REMOTE](https://jobright.ai/jobs/info/6830c2bd0db4a57672cbc49b?utm_campaign=1047&utm_source=git)** | United States | Remote | May 23 |
 | **[Ntrepid LLC](https://ntrepidcorp.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/683801eb061f23e38e96fa9b?utm_campaign=1047&utm_source=git)** | US-VA-Herndon | On Site | May 23 |
+| **[Cadent](http://www.cadent.tv)** | **[Product Management Intern](https://jobright.ai/jobs/info/682415c10194f09d4ae5e452?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | May 23 |
+| **[Oracle](https://www.oracle.com/)** | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/6813d05989ca54f545462a8e?utm_campaign=1047&utm_source=git)** | Reston, VA | On Site | May 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6826c075d4b3f0b80946e178?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 23 |
 | **[Oracle](https://www.oracle.com/)** | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/68141b89c68705e122312b91?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | May 23 |
-| ↳ | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/6813c95413a7d7a5ee7d9069?utm_campaign=1047&utm_source=git)** | United States | Remote | May 23 |
 | ↳ | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/681423a4fc11c7806a5acd00?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | May 23 |
 | **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/67bf5d8b4ab5e9591419b305?utm_campaign=1047&utm_source=git)** | Quincy, IL | On Site | May 23 |
-| **[Oracle](https://www.oracle.com/)** | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/681431d8ee9e8e5195144e62?utm_campaign=1047&utm_source=git)** | Reston, VA | On Site | May 23 |
 | **[Diligent](http://diligent.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68138746c846c4e5c350a84b?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | May 23 |
 | **[Oracle](https://www.oracle.com/)** | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/68141b89c68705e122312b8f?utm_campaign=1047&utm_source=git)** | United States | Remote | May 23 |
-| **[Copart](http://www.copart.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/683692f7b2b9ca50c7d828d8?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | May 22 |
+| ↳ | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/681423a4fc11c7806a5accf5?utm_campaign=1047&utm_source=git)** | United States | Remote | May 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
