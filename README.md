@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Upstart](https://upstart.com/about)** | **[Join our Product Talent Community!](https://jobright.ai/jobs/info/683af3a4d9344c8c1d15a02c?utm_campaign=1047&utm_source=git)** | United States | On Site | May 31 |
 | **[Bridge Legal](https://bridgelegal.com/)** | **[Product Manager Internship](https://jobright.ai/jobs/info/683a44dc3e25c0c5f4364601?utm_campaign=1047&utm_source=git)** | Greater Chicago Area | On Site | May 30 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Ninja Test Kitchen Co-op (July through December)](https://jobright.ai/jobs/info/683a42c788c2ecf58d49e811?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | May 30 |
 | **[Ntrepid LLC](https://ntrepidcorp.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/683a36b7059b85583549a662?utm_campaign=1047&utm_source=git)** | Herndon, VA | On Site | May 30 |
