@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Upstart](https://upstart.com/about)** | **[Join our Product Talent Community!](https://jobright.ai/jobs/info/683af3a4d9344c8c1d15a02c?utm_campaign=1047&utm_source=git)** | United States | On Site | May 31 |
+| **[IGT](http://igt.com)** | **[Intern-Premium Product Merchandising](https://jobright.ai/jobs/info/68017bb69e5a92b831fbce32?utm_campaign=1047&utm_source=git)** | Reno, NV | On Site | May 31 |
 | **[Bridge Legal](https://bridgelegal.com/)** | **[Product Manager Internship](https://jobright.ai/jobs/info/683a44dc3e25c0c5f4364601?utm_campaign=1047&utm_source=git)** | Greater Chicago Area | On Site | May 30 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Ninja Test Kitchen Co-op (July through December)](https://jobright.ai/jobs/info/683a42c788c2ecf58d49e811?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | May 30 |
 | **[Ntrepid LLC](https://ntrepidcorp.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/683a36b7059b85583549a662?utm_campaign=1047&utm_source=git)** | Herndon, VA | On Site | May 30 |
@@ -89,5 +90,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Open Platform) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67dd51832baafaa4641dc78b?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 25 |
 | ↳ | **[Data Science Intern (TikTok-Product-Data Science) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67dd412dfd81984c9c8d3730?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 25 |
 | ↳ | **[Product Manager Intern (TikTok-Search) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/680a351abdf8f7f7b3418f53?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 25 |
-| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6837efcdfde79174131b2c7e?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | May 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
