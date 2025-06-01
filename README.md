@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AARP](http://www.aarp.org)** | **[Product Initiatives Intern](https://jobright.ai/jobs/info/67d1149e8d2d4e4fccf55ea3?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | May 31 |
 | **[Upstart](https://upstart.com/about)** | **[Join our Product Talent Community!](https://jobright.ai/jobs/info/683af3a4d9344c8c1d15a02c?utm_campaign=1047&utm_source=git)** | United States | On Site | May 31 |
 | **[IGT](http://igt.com)** | **[Intern-Premium Product Merchandising](https://jobright.ai/jobs/info/68017bb69e5a92b831fbce32?utm_campaign=1047&utm_source=git)** | Reno, NV | On Site | May 31 |
 | **[Bridge Legal](https://bridgelegal.com/)** | **[Product Manager Internship](https://jobright.ai/jobs/info/683a44dc3e25c0c5f4364601?utm_campaign=1047&utm_source=git)** | Greater Chicago Area | On Site | May 30 |
@@ -70,12 +71,10 @@ For a complete list, click the following sortable link below:
 | **[Ancestry](http://ancestry.com)** | **[Product Owner, Co-op](https://jobright.ai/jobs/info/681db5403785a29c9a148a51?utm_campaign=1047&utm_source=git)** | Lehi, UT | Hybrid | May 30 |
 | **[AMETEK](http://www.ametek.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/682a9ce967558dc358189d61?utm_campaign=1047&utm_source=git)** | Mount Prospect, IL | On Site | May 30 |
 | **[Westgate Resorts](https://www.westgateresorts.com/)** | **[IT Product Management Intern](https://jobright.ai/jobs/info/6836320a3e46e10428e6aedf?utm_campaign=1047&utm_source=git)** | Ocoee, FL | On Site | May 29 |
-| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2025](https://jobright.ai/jobs/info/6716f5075ef2d971e037b166?utm_campaign=1047&utm_source=git)** | Nashua, NH | On Site | May 29 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Ninja Test Kitchen Co-op (July through December)](https://jobright.ai/jobs/info/68388b2d654c01ee893629c4?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | May 29 |
 | **[Dymax](http://www.dymax.com/index.php/en/)** | **[Equipment Product Management Intern](https://jobright.ai/jobs/info/683884bb8f7183089e6421da?utm_campaign=1047&utm_source=git)** | Torrington, CT | On Site | May 29 |
 | **[ITT Inc.](http://www.itt.com)** | **[Product Management Co-op (Fall 2025)](https://jobright.ai/jobs/info/681ba14edab4fcafb6a11ff9?utm_campaign=1047&utm_source=git)** | Seneca Falls, NY | On Site | May 29 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Product Program Management Intern - Temperature and Pressure Calibration](https://jobright.ai/jobs/info/68380a535826e27b695e363d?utm_campaign=1047&utm_source=git)** | Everett, WA | Hybrid | May 29 |
-| **[AARP](http://www.aarp.org)** | **[Product Initiatives Intern](https://jobright.ai/jobs/info/67d1149e8d2d4e4fccf55ea3?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | May 28 |
 | **[Fortive](http://www.fortive.com/)** | **[Product Program Management Intern - Temperature and Pressure Calibration](https://jobright.ai/jobs/info/6837d7a233d0d3d86bb5a635?utm_campaign=1047&utm_source=git)** | Everett, WA, United States | On Site | May 28 |
 | **[ITT Inc.](http://www.itt.com)** | **[Product Management Co-op - Horizontal Products (Fall 2025)](https://jobright.ai/jobs/info/681aa988b186e0bcd82f6807?utm_campaign=1047&utm_source=git)** | Stafford, TX | On Site | May 28 |
 | **[Continental](https://www.continental.com)** | **[Product Development Coop](https://jobright.ai/jobs/info/6837b4285f785b23b9195ae1?utm_campaign=1047&utm_source=git)** | 4021 N 56th St, Lincoln, NE 68504, USA | Hybrid | May 28 |
@@ -88,5 +87,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-PGC) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67dd51832baafaa4641dc78c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 26 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Privacy and Responsibility) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6826cea880ff05a9ec3d2a21?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Open Platform) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67dd51832baafaa4641dc78b?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 25 |
-| ↳ | **[Data Science Intern (TikTok-Product-Data Science) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67dd412dfd81984c9c8d3730?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
