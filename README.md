@@ -102,8 +102,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science Intern (TikTok-Product-Data Science) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67dd412dfd81984c9c8d3730?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 25 |
 | ↳ | **[Product Manager Intern (TikTok-Search) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/680a351abdf8f7f7b3418f53?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 25 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6837efcdfde79174131b2c7e?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | May 24 |
-| **[Cisco](http://www.cisco.com)** | **[Product Management Intern Fall 2025 Meraki](https://jobright.ai/jobs/info/682955a19e0a93b00c54aa15?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | May 24 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/680ceb1329e852258bcbc28f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 24 |
-| ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/680ce95629e852258bcbc07e?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 24 |
-| **[Oracle](https://www.oracle.com/)** | **[APEX Product Manager Intern - OVIP](https://jobright.ai/jobs/info/681522284d48109cb7ee6e35?utm_campaign=1047&utm_source=git)** | United States | Remote | May 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
