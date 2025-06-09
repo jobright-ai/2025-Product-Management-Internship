@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dymax](http://www.dymax.com/index.php/en/)** | **[Equipment Product Management Intern](https://jobright.ai/jobs/info/684731c616dfbddd2085750d?utm_campaign=1047&utm_source=git)** | Torrington, CT | On Site | Jun 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product Infrastructure)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6826deddbda62b0c1d13c157?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 08 |
 | ↳ | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6826c573d05c08c3e3e71177?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Privacy and Responsibility) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/680c9a18b17403c3ff26c0ca?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 07 |
@@ -95,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[AMETEK](http://www.ametek.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/682a9ce967558dc358189d61?utm_campaign=1047&utm_source=git)** | Mount Prospect, IL | On Site | May 30 |
 | **[Westgate Resorts](https://www.westgateresorts.com/)** | **[IT Product Management Intern](https://jobright.ai/jobs/info/6836320a3e46e10428e6aedf?utm_campaign=1047&utm_source=git)** | Ocoee, FL | On Site | May 29 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Ninja Test Kitchen Co-op (July through December)](https://jobright.ai/jobs/info/68388b2d654c01ee893629c4?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | May 29 |
-| **[Dymax](http://www.dymax.com/index.php/en/)** | **[Equipment Product Management Intern](https://jobright.ai/jobs/info/683884bb8f7183089e6421da?utm_campaign=1047&utm_source=git)** | Torrington, CT | On Site | May 29 |
 | **[ITT Inc.](http://www.itt.com)** | **[Product Management Co-op (Fall 2025)](https://jobright.ai/jobs/info/681ba14edab4fcafb6a11ff9?utm_campaign=1047&utm_source=git)** | Seneca Falls, NY | On Site | May 29 |
 | **[Continental](https://www.continental.com)** | **[Product Development Coop](https://jobright.ai/jobs/info/6837b4285f785b23b9195ae1?utm_campaign=1047&utm_source=git)** | 4021 N 56th St, Lincoln, NE 68504, USA | Hybrid | May 28 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Product & Digital Content Intern](https://jobright.ai/jobs/info/683752a1d293240d1263cd5f?utm_campaign=1047&utm_source=git)** | United States | Remote | May 28 |
