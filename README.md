@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acelab](https://acelabusa.com)** | **[Summer Internship: Product Researcher](https://jobright.ai/jobs/info/68498d6e97887c3202cd426b?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 11 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Product Service Student Experience](https://jobright.ai/jobs/info/68488de91d19366aff0844a6?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Jun 10 |
 | **[Cognex Corporation](http://www.cognex.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68489a0f20a4fc64765082c9?utm_campaign=1047&utm_source=git)** | Natick, Massachusetts | On Site | Jun 10 |
-| **[o9 Solutions, Inc.](https://www.o9solutions.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68484f472d58400c06f07a8a?utm_campaign=1047&utm_source=git)** | Works From Home - Texas | On Site | Jun 10 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68484f472d58400c06f07938?utm_campaign=1047&utm_source=git)** | Dallas, Texas, United States | On Site | Jun 10 |
+| **[o9 Solutions, Inc.](https://www.o9solutions.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68484f472d58400c06f07938?utm_campaign=1047&utm_source=git)** | Dallas, Texas, United States | On Site | Jun 10 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68484f472d58400c06f07a8a?utm_campaign=1047&utm_source=git)** | Works From Home - Texas | On Site | Jun 10 |
 | **[Central Garden & Pet](http://www.central.com)** | **[Product Data & Process Analyst Intern](https://jobright.ai/jobs/info/682b37b55c9e45bda5bf9dd3?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/680ceb1329e852258bcbc363?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 10 |
 | **[Dymax](http://www.dymax.com/index.php/en/)** | **[Equipment Product Management Intern](https://jobright.ai/jobs/info/684731c616dfbddd2085750d?utm_campaign=1047&utm_source=git)** | Torrington, CT | On Site | Jun 09 |
@@ -84,7 +85,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (TikTok-PGC) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6826b577294475eb313b1130?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 04 |
 | ↳ | **[Product Manager Intern (TikTok Music Discovery) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/67e77ab79fdea0c6efc0396f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 04 |
 | **[Codvo.ai](https://www.codvo.ai/)** | **[High School Internship – Future Innovators Program (Research & Product Group)](https://jobright.ai/jobs/info/684112f779179c5555f0b027?utm_campaign=1047&utm_source=git)** | Plano, TX | On Site | Jun 03 |
-| **[FECON](http://fecon.com)** | **[Product Management Engineering Co-Op](https://jobright.ai/jobs/info/6840a0c856fb2ed363ab91fd?utm_campaign=1047&utm_source=git)** | Lebanon, OH | On Site | Jun 03 |
+| **[FECON](http://fecon.com)** | **[Product Management Engineering Co-Op](https://jobright.ai/jobs/info/6840930abc2e396a3eb4b8a0?utm_campaign=1047&utm_source=git)** | Lebanon, OH | On Site | Jun 03 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Digital Platforms Intern](https://jobright.ai/jobs/info/6803a21a78c7dbb295c469a7?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Jun 03 |
 | **[IGT](http://igt.com)** | **[Intern - Lottery Management](https://jobright.ai/jobs/info/683f2d7316e766814955bb39?utm_campaign=1047&utm_source=git)** | Providence County, RI | On Site | Jun 03 |
 | **[MKS Instruments](https://www.mks.com)** | **[Summer 2025-2026 Technical Product Specialist Undergraduate Intern](https://jobright.ai/jobs/info/683ea8c1f7879da9b0225028?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Jun 03 |
@@ -97,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Alignity](https://alignity.io)** | **[AI Product Intern](https://jobright.ai/jobs/info/683a04efef8356c3e9c37efe?utm_campaign=1047&utm_source=git)** | Plano, Texas, United States | On Site | May 30 |
 | **[Fujitsu](http://www.fujitsu.com)** | **[AI Product Strategy MBA Intern](https://jobright.ai/jobs/info/6839e3638f32b2419eb2d26c?utm_campaign=1047&utm_source=git)** | United States | Remote | May 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search-Comprehensive Search) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6839b8054b9b2fb9dde9e071?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 30 |
-| **[AMETEK](http://www.ametek.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/682a9ce967558dc358189d61?utm_campaign=1047&utm_source=git)** | Mount Prospect, IL | On Site | May 30 |
 | **[Westgate Resorts](https://www.westgateresorts.com/)** | **[IT Product Management Intern](https://jobright.ai/jobs/info/6836320a3e46e10428e6aedf?utm_campaign=1047&utm_source=git)** | Ocoee, FL | On Site | May 29 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Ninja Test Kitchen Co-op (July through December)](https://jobright.ai/jobs/info/68388b2d654c01ee893629c4?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | May 29 |
 | **[ITT Inc.](http://www.itt.com)** | **[Product Management Co-op (Fall 2025)](https://jobright.ai/jobs/info/681ba14edab4fcafb6a11ff9?utm_campaign=1047&utm_source=git)** | Seneca Falls, NY | On Site | May 29 |
