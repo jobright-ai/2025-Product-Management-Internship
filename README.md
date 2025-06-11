@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cognex Corporation](http://www.cognex.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68489a0f20a4fc64765082c9?utm_campaign=1047&utm_source=git)** | Natick, Massachusetts | On Site | Jun 10 |
+| **[Bobcat Company](https://www.bobcat.com)** | **[2025 Product Service Student Experience](https://jobright.ai/jobs/info/68488de91d19366aff0844a6?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Jun 10 |
 | **[o9 Solutions, Inc.](https://www.o9solutions.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68484f472d58400c06f07938?utm_campaign=1047&utm_source=git)** | Dallas, Texas, United States | On Site | Jun 10 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68484f472d58400c06f07a8a?utm_campaign=1047&utm_source=git)** | Works From Home - Texas | On Site | Jun 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/680ceb1329e852258bcbc363?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 10 |
@@ -68,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Privacy and Responsibility) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/680c9a18b17403c3ff26c0ca?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 07 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6826d3ece3c8402fd20cb59c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 07 |
 | ↳ | **[Product Manager Intern (TikTok-Search) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67d053202d3382d131765237?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 07 |
-| **[AARP](http://www.aarp.org)** | **[Product Development Intern](https://jobright.ai/jobs/info/6826da4a5d451099c23f2e41?utm_campaign=1047&utm_source=git)** | Washington, DC | Hybrid | Jun 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Product manager Intern (Music Copyright Solution) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/680c9b9ab17403c3ff26c68f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 06 |
 | ↳ | **[Product Manager Intern (TikTok-Search) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/680c543d7883eb2208f9a344?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 06 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Personal Lines Product Analytics Intern](https://jobright.ai/jobs/info/680ad6b7f80cd700f837c5dc?utm_campaign=1047&utm_source=git)** | Westfield Center, OH | Hybrid | Jun 06 |
@@ -102,6 +103,4 @@ For a complete list, click the following sortable link below:
 | **[ITT Inc.](http://www.itt.com)** | **[Product Management Co-op (Fall 2025)](https://jobright.ai/jobs/info/681ba14edab4fcafb6a11ff9?utm_campaign=1047&utm_source=git)** | Seneca Falls, NY | On Site | May 29 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Product & Digital Content Intern](https://jobright.ai/jobs/info/683752a1d293240d1263cd5f?utm_campaign=1047&utm_source=git)** | United States | Remote | May 28 |
 | ↳ | **[Product & Digital Content Intern](https://jobright.ai/jobs/info/683746377945246df6ddd6d3?utm_campaign=1047&utm_source=git)** | US Nationwide - Remote | Remote | May 28 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Powerwall Product Manager Engineer, Energy Engineering (Fall 2025)](https://jobright.ai/jobs/info/6836b25a51f54152b10a584e?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | May 27 |
-| **[Klein Tools](https://www.kleintools.com/)** | **[Externship - Product Management](https://jobright.ai/jobs/info/683a8ff456bbd7d84770710f?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
