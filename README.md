@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Copart](http://www.copart.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/684a4025ca6c40aeea79f7be?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jun 11 |
 | **[AuthX](https://www.authx.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6849f69665b701310366c47c?utm_campaign=1047&utm_source=git)** | Gaithersburg, MD | On Site | Jun 11 |
 | **[Swimwear Anywhere Inc.](http://www.swimwearanywhere.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6849e94d279f661871a721e4?utm_campaign=1047&utm_source=git)** | Farmingdale, NY | On Site | Jun 11 |
 | **[Acelab](https://acelabusa.com)** | **[Summer Internship: Product Researcher](https://jobright.ai/jobs/info/68498d6e97887c3202cd426b?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 11 |
@@ -102,5 +103,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search-Comprehensive Search) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6839b8054b9b2fb9dde9e071?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 30 |
 | **[Westgate Resorts](https://www.westgateresorts.com/)** | **[IT Product Management Intern](https://jobright.ai/jobs/info/6836320a3e46e10428e6aedf?utm_campaign=1047&utm_source=git)** | Ocoee, FL | On Site | May 29 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Ninja Test Kitchen Co-op (July through December)](https://jobright.ai/jobs/info/68388b2d654c01ee893629c4?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | May 29 |
-| **[ITT Inc.](http://www.itt.com)** | **[Product Management Co-op (Fall 2025)](https://jobright.ai/jobs/info/681ba14edab4fcafb6a11ff9?utm_campaign=1047&utm_source=git)** | Seneca Falls, NY | On Site | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
