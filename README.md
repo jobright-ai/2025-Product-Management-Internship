@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Boston Beer Company](http://bostonbeer.com/)** | **[COOP Product Design SAPB](https://jobright.ai/jobs/info/684ac767c96a6723b4f023ef?utm_campaign=1047&utm_source=git)** | Breinigsville, PA | On Site | Jun 12 |
+| **[McKinsey & Company](http://www.mckinsey.com)** | **[Fellow - Product Development and Procurement](https://jobright.ai/jobs/info/68122e004b8ccbcf9cc9e70b?utm_campaign=1047&utm_source=git)** | North Atlanta, GA | On Site | Jun 12 |
+| **[Novocure](http://www.novocure.com/)** | **[Product Development Analytics Intern](https://jobright.ai/jobs/info/684ac767c96a6723b4f02434?utm_campaign=1047&utm_source=git)** | Portsmouth, NH | Hybrid | Jun 12 |
 | **[Copart](http://www.copart.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/684a4025ca6c40aeea79f7be?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jun 11 |
 | **[AuthX](https://www.authx.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6849f69665b701310366c47c?utm_campaign=1047&utm_source=git)** | Gaithersburg, MD | On Site | Jun 11 |
 | **[Swimwear Anywhere Inc.](http://www.swimwearanywhere.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6849e94d279f661871a721e4?utm_campaign=1047&utm_source=git)** | Farmingdale, NY | On Site | Jun 11 |
