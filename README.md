@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Fall Project Intern (MBA)](https://jobright.ai/jobs/info/684be6c9a0e956a8afae5e08?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 13 |
+| ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Fall Project Intern (BS/MS)](https://jobright.ai/jobs/info/684be6c9a0e956a8afae5e15?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 13 |
+| ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Fall Project Intern (MBA)](https://jobright.ai/jobs/info/684bdc3dbac6f9e3a70bd67c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 13 |
+| ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Fall Project Intern (BS/MS)](https://jobright.ai/jobs/info/684bdc3dbac6f9e3a70bd65d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 13 |
+| **[Signify](https://www.signify.com)** | **[Internship Philips Hue Product Management](https://jobright.ai/jobs/info/684bd130249eca62d9e22623?utm_campaign=1047&utm_source=git)** | Rosemont, IL | On Site | Jun 13 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[COOP Product Design SAPB](https://jobright.ai/jobs/info/684ac767c96a6723b4f023ef?utm_campaign=1047&utm_source=git)** | Breinigsville, PA | On Site | Jun 12 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Fellow - Product Development and Procurement](https://jobright.ai/jobs/info/68122e004b8ccbcf9cc9e70b?utm_campaign=1047&utm_source=git)** | North Atlanta, GA | On Site | Jun 12 |
 | **[Novocure](http://www.novocure.com/)** | **[Product Development Analytics Intern](https://jobright.ai/jobs/info/684ac767c96a6723b4f02434?utm_campaign=1047&utm_source=git)** | Portsmouth, NH | Hybrid | Jun 12 |
@@ -101,6 +106,4 @@ For a complete list, click the following sortable link below:
 | **[Ntrepid LLC](https://ntrepidcorp.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/683a36b7059b85583549a662?utm_campaign=1047&utm_source=git)** | Herndon, VA | On Site | May 30 |
 | **[Barksdale Control Products](http://barksdale.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/683a332cdab670f5464b7265?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | May 30 |
 | **[Alignity](https://alignity.io)** | **[AI Product Intern](https://jobright.ai/jobs/info/683a04efef8356c3e9c37efe?utm_campaign=1047&utm_source=git)** | Plano, Texas, United States | On Site | May 30 |
-| **[Fujitsu](http://www.fujitsu.com)** | **[AI Product Strategy MBA Intern](https://jobright.ai/jobs/info/6839e3638f32b2419eb2d26c?utm_campaign=1047&utm_source=git)** | United States | Remote | May 30 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search-Comprehensive Search) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6839b8054b9b2fb9dde9e071?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | May 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
