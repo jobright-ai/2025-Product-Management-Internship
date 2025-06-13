@@ -70,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Acelab](https://acelabusa.com)** | **[Summer Internship: Product Researcher](https://jobright.ai/jobs/info/68498d6e97887c3202cd426b?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 11 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Product Service Student Experience](https://jobright.ai/jobs/info/68488de91d19366aff0844a6?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Jun 10 |
 | **[Cognex Corporation](http://www.cognex.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68489a0f20a4fc64765082c9?utm_campaign=1047&utm_source=git)** | Natick, Massachusetts | On Site | Jun 10 |
-| **[o9 Solutions, Inc.](https://www.o9solutions.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68484f472d58400c06f07938?utm_campaign=1047&utm_source=git)** | Dallas, Texas, United States | On Site | Jun 10 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68484f472d58400c06f07a8a?utm_campaign=1047&utm_source=git)** | Works From Home - Texas | On Site | Jun 10 |
+| **[o9 Solutions, Inc.](https://www.o9solutions.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68484f472d58400c06f07a8a?utm_campaign=1047&utm_source=git)** | Works From Home - Texas | On Site | Jun 10 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68484f472d58400c06f07938?utm_campaign=1047&utm_source=git)** | Dallas, Texas, United States | On Site | Jun 10 |
 | **[Central Garden & Pet](http://www.central.com)** | **[Product Data & Process Analyst Intern](https://jobright.ai/jobs/info/682b37b55c9e45bda5bf9dd3?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/680ceb1329e852258bcbc363?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 10 |
 | **[Dymax](http://www.dymax.com/index.php/en/)** | **[Equipment Product Management Intern](https://jobright.ai/jobs/info/684731c616dfbddd2085750d?utm_campaign=1047&utm_source=git)** | Torrington, CT | On Site | Jun 09 |
@@ -105,5 +105,4 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Ninja Test Kitchen Co-op (July through December)](https://jobright.ai/jobs/info/683a42c788c2ecf58d49e811?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | May 30 |
 | **[Ntrepid LLC](https://ntrepidcorp.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/683a36b7059b85583549a662?utm_campaign=1047&utm_source=git)** | Herndon, VA | On Site | May 30 |
 | **[Barksdale Control Products](http://barksdale.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/683a332cdab670f5464b7265?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | May 30 |
-| **[Alignity](https://alignity.io)** | **[AI Product Intern](https://jobright.ai/jobs/info/683a04efef8356c3e9c37efe?utm_campaign=1047&utm_source=git)** | Plano, Texas, United States | On Site | May 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
