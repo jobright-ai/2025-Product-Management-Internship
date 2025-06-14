@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6837efcdfde79174131b2c7e?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jun 14 |
 | **[E Source](http://www.esource.com)** | **[Product Portfolio Management Intern - REMOTE](https://jobright.ai/jobs/info/6830c2bd0db4a57672cbc49b?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 14 |
 | **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/67bf5d8b4ab5e9591419b305?utm_campaign=1047&utm_source=git)** | Quincy, IL | On Site | Jun 14 |
 | **[Oracle](https://www.oracle.com/)** | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/6813d05989ca54f545462acc?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Jun 14 |
+| ↳ | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/6813d05989ca54f545462acd?utm_campaign=1047&utm_source=git)** | Reston, VA | On Site | Jun 14 |
 | **[Newegg](https://www.newegg.com)** | **[Newegg Intern](https://jobright.ai/jobs/info/684cce282aa3a515e1a294fa?utm_campaign=1047&utm_source=git)** | Diamond Bar, CA | On Site | Jun 13 |
 | **[Eulerity](https://www.eulerity.com)** | **[Product Management Intern - Summer](https://jobright.ai/jobs/info/684c7447480a10a74c90fed4?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Jun 13 |
 | **[Soda](https://www.soda.io/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/684ce4675213d45f53328329?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 13 |
