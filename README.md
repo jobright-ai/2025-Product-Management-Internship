@@ -110,5 +110,4 @@ For a complete list, click the following sortable link below:
 | **[IGT](http://igt.com)** | **[Intern - Lottery Management](https://jobright.ai/jobs/info/683f2d7316e766814955bb39?utm_campaign=1047&utm_source=git)** | Providence County, RI | On Site | Jun 03 |
 | **[MKS Instruments](https://www.mks.com)** | **[Summer 2025-2026 Technical Product Specialist Undergraduate Intern](https://jobright.ai/jobs/info/683ea8c1f7879da9b0225028?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Jun 03 |
 | **[Splunk](https://www.splunk.com)** | **[Product Manager Intern (US Remote - Fall 2025)](https://jobright.ai/jobs/info/6846d63e78737015bfde7273?utm_campaign=1047&utm_source=git)** | Remote, Colorado | Remote | Jun 02 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product Infrastructure) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/680cb7630be34182f8431100?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
