@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[P2 Rx Intern](https://jobright.ai/jobs/info/685153244b0e5d1132bafff0?utm_campaign=1047&utm_source=git)** | Queensbury, NY | On Site | Jun 17 |
 | **[AMETEK](http://www.ametek.com)** | **[Intern-Product Management](https://jobright.ai/jobs/info/6850b4580062ff9d1c07b855?utm_campaign=1047&utm_source=git)** | Wayne, NJ | On Site | Jun 16 |
 | **[Popmenu](https://get.popmenu.com)** | **[Product Intern](https://jobright.ai/jobs/info/68504bf96445ea54423bb928?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Jun 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/680ceb1329e852258bcbc28f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 15 |
@@ -71,12 +72,12 @@ For a complete list, click the following sortable link below:
 | **[Newegg](https://www.newegg.com)** | **[Newegg Intern](https://jobright.ai/jobs/info/684ea5b00f32c409ea2916a2?utm_campaign=1047&utm_source=git)** | Diamond Bar, CA | On Site | Jun 14 |
 | **[Oracle](https://www.oracle.com/)** | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/6813d05989ca54f545462b01?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 14 |
 | ↳ | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/6813d05989ca54f545462acd?utm_campaign=1047&utm_source=git)** | Reston, VA | On Site | Jun 14 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2025Fall Starts (BS/MS)](https://jobright.ai/jobs/info/684bdc3dbac6f9e3a70bd65d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 13 |
 | **[Eulerity](https://www.eulerity.com)** | **[Product Management Intern - Summer](https://jobright.ai/jobs/info/684c7447480a10a74c90fed4?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Jun 13 |
 | **[Soda](https://www.soda.io/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/684ce4675213d45f53328329?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 13 |
 | **[Oracle](https://www.oracle.com/)** | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/6813d05989ca54f545462ad0?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 13 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Fall Project Intern (MBA)](https://jobright.ai/jobs/info/684be6c9a0e956a8afae5e08?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 13 |
-| ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Fall Project Intern (BS/MS)](https://jobright.ai/jobs/info/684be6c9a0e956a8afae5e15?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 13 |
-| ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Fall Project Intern (BS/MS)](https://jobright.ai/jobs/info/684bdc3dbac6f9e3a70bd65d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 13 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Fall Starts (BS/MS)](https://jobright.ai/jobs/info/684be6c9a0e956a8afae5e15?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 13 |
+| ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Fall Starts ((MBA)](https://jobright.ai/jobs/info/684be6c9a0e956a8afae5e08?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 13 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Fellow - Product Development and Procurement](https://jobright.ai/jobs/info/68122e004b8ccbcf9cc9e70b?utm_campaign=1047&utm_source=git)** | North Atlanta, GA | On Site | Jun 12 |
 | **[Copart](http://www.copart.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/684a4025ca6c40aeea79f7be?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jun 11 |
 | **[Swimwear Anywhere Inc.](http://www.swimwearanywhere.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6849e94d279f661871a721e4?utm_campaign=1047&utm_source=git)** | Farmingdale, NY | On Site | Jun 11 |
@@ -107,5 +108,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (TikTok Music Discovery) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/67e77ab79fdea0c6efc0396f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 04 |
 | **[Codvo.ai](https://www.codvo.ai/)** | **[High School Internship – Future Innovators Program (Research & Product Group)](https://jobright.ai/jobs/info/684112f779179c5555f0b027?utm_campaign=1047&utm_source=git)** | Plano, TX | On Site | Jun 03 |
 | **[FECON](http://fecon.com)** | **[Product Management Engineering Co-Op](https://jobright.ai/jobs/info/6840930abc2e396a3eb4b8a0?utm_campaign=1047&utm_source=git)** | Lebanon, OH | On Site | Jun 03 |
-| **[IGT](http://igt.com)** | **[Intern - Lottery Management](https://jobright.ai/jobs/info/683f2d7316e766814955bb39?utm_campaign=1047&utm_source=git)** | Providence County, RI | On Site | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
