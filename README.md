@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AMETEK](http://www.ametek.com)** | **[Intern-Product Management](https://jobright.ai/jobs/info/6850b4580062ff9d1c07b855?utm_campaign=1047&utm_source=git)** | Wayne, NJ | On Site | Jun 16 |
 | **[Popmenu](https://get.popmenu.com)** | **[Product Intern](https://jobright.ai/jobs/info/68504bf96445ea54423bb928?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Jun 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/680ceb1329e852258bcbc28f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 15 |
-| **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/684eaba7d65ffa90765a1d41?utm_campaign=1047&utm_source=git)** | Woodbridge, NJ | On Site | Jun 15 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (TikTok-Product-Data Science) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67dd412dfd81984c9c8d3730?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 15 |
+| ↳ | **[Data Science Intern (TikTok-Product-Data Science) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67dd412dfd81984c9c8d3730?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 15 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6826c075d4b3f0b80946e178?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 14 |
 | **[E Source](http://www.esource.com)** | **[Product Portfolio Management Intern - REMOTE](https://jobright.ai/jobs/info/6830c2bd0db4a57672cbc49b?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 14 |
 | **[Oracle](https://www.oracle.com/)** | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/6813d05989ca54f545462a8e?utm_campaign=1047&utm_source=git)** | Reston, VA | On Site | Jun 14 |
 | ↳ | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/6813d05989ca54f545462afe?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Jun 14 |
@@ -106,6 +107,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Operations Intern (TikTok-PGC) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6826b577294475eb313b1130?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 04 |
 | ↳ | **[Product Manager Intern (TikTok Music Discovery) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/67e77ab79fdea0c6efc0396f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 04 |
 | **[Codvo.ai](https://www.codvo.ai/)** | **[High School Internship – Future Innovators Program (Research & Product Group)](https://jobright.ai/jobs/info/684112f779179c5555f0b027?utm_campaign=1047&utm_source=git)** | Plano, TX | On Site | Jun 03 |
-| **[FECON](http://fecon.com)** | **[Product Management Engineering Co-Op](https://jobright.ai/jobs/info/6840930abc2e396a3eb4b8a0?utm_campaign=1047&utm_source=git)** | Lebanon, OH | On Site | Jun 03 |
+| **[FECON](http://fecon.com)** | **[Product Management Engineering Co-Op](https://jobright.ai/jobs/info/6840a0c856fb2ed363ab91fd?utm_campaign=1047&utm_source=git)** | Lebanon, OH | On Site | Jun 03 |
 | **[IGT](http://igt.com)** | **[Intern - Lottery Management](https://jobright.ai/jobs/info/683f2d7316e766814955bb39?utm_campaign=1047&utm_source=git)** | Providence County, RI | On Site | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
