@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Digital Product Management, Digital Technology (Spring 2026)](https://jobright.ai/jobs/info/68569a35f940a7e465a2a22d?utm_campaign=1047&utm_source=git)** | Orlando, FL | On Site | Jun 21 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Ninja Test Kitchen Co-op (July through December)](https://jobright.ai/jobs/info/683a42c788c2ecf58d49e811?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Jun 21 |
 | **[SAP](https://www.sap.com)** | **[SAP Business Technology Platform iXp Intern - Product Management Operations](https://jobright.ai/jobs/info/68564cac88219cad46ef51ba?utm_campaign=1047&utm_source=git)** | Bellevue, WA | Hybrid | Jun 20 |
 | **[Cartier](http://www.cartier.com)** | **[V.I.E - Fragrance Product Manager - New-York](https://jobright.ai/jobs/info/685461dbca7e7bb874d264ad?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jun 19 |
 | **[Wahed](https://www.wahed.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/6854119929aa7224b99ac656?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 19 |
@@ -77,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[AMETEK](http://www.ametek.com)** | **[Intern-Product Management](https://jobright.ai/jobs/info/6850b4580062ff9d1c07b855?utm_campaign=1047&utm_source=git)** | Wayne, NJ | On Site | Jun 16 |
 | **[Popmenu](https://get.popmenu.com)** | **[Product Intern](https://jobright.ai/jobs/info/68504bf96445ea54423bb928?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Jun 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Privacy and Responsibility) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6826cea880ff05a9ec3d2a21?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 16 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/680ce95629e852258bcbc07e?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 15 |
-| ↳ | **[Product Manager Intern (TikTok-Search) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/680ceb1329e852258bcbc28f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 15 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/680a351abdf8f7f7b3418f53?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 15 |
+| ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/680ce95629e852258bcbc07e?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 15 |
 | ↳ | **[Data Science Intern (TikTok-Product-Data Science) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67dd412dfd81984c9c8d3730?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6826c075d4b3f0b80946e178?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 14 |
 | **[Oracle](https://www.oracle.com/)** | **[OCI Product Manager Intern - OVIP](https://jobright.ai/jobs/info/6813d05989ca54f545462a8e?utm_campaign=1047&utm_source=git)** | Reston, VA | On Site | Jun 14 |
