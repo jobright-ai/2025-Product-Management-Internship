@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Ninja Test Kitchen Co-op (July through December)](https://jobright.ai/jobs/info/683a42c788c2ecf58d49e811?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Jun 21 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search-Comprehensive Search) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6839b8054b9b2fb9dde9e071?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 21 |
 | **[SAP](https://www.sap.com)** | **[SAP Business Technology Platform iXp Intern - Product Management Operations](https://jobright.ai/jobs/info/68564cac88219cad46ef51ba?utm_campaign=1047&utm_source=git)** | Bellevue, WA | Hybrid | Jun 20 |
 | **[Cartier](http://www.cartier.com)** | **[V.I.E - Fragrance Product Manager - New-York](https://jobright.ai/jobs/info/685461dbca7e7bb874d264ad?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jun 19 |
 | **[Wahed](https://www.wahed.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/6854119929aa7224b99ac656?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 19 |
