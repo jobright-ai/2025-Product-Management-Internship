@@ -66,8 +66,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product manager Intern (Music Discovery) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/684a84ef2b948718a2c41958?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product Infrastructure) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/680cb7630be34182f8431100?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 23 |
 | **[The Citco Group Limited](https://www.citco.com)** | **[Product Intern](https://jobright.ai/jobs/info/6859b9709fd382d77ee20dcd?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jun 23 |
-| **[Pinterest](https://www.pinterest.com/)** | **[Apprentice Product Researcher](https://jobright.ai/jobs/info/6859b4bff33d05e394eeea09?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jun 23 |
-| ↳ | **[Apprentice Product Researcher](https://jobright.ai/jobs/info/6859b4bff33d05e394eee9af?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Jun 23 |
+| **[Pinterest](https://www.pinterest.com/)** | **[Apprentice Product Researcher](https://jobright.ai/jobs/info/6859b4bff33d05e394eee9af?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Jun 23 |
+| ↳ | **[Apprentice Product Researcher](https://jobright.ai/jobs/info/6859b4bff33d05e394eeea09?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jun 23 |
 | **[ASUS](https://www.asus.com)** | **[Product Manager Assistant (Seasonal Role/Internship)](https://jobright.ai/jobs/info/6859ab177cc82b34be9082ed?utm_campaign=1047&utm_source=git)** | City of Industry, CA | On Site | Jun 23 |
 | **[The Citco Group Limited](https://www.citco.com)** | **[Product Intern](https://jobright.ai/jobs/info/6859a81a4241677d9152653d?utm_campaign=1047&utm_source=git)** | 350 Park Avenue, New York, NY, 10022, US | On Site | Jun 23 |
 | **[Rheem Manufacturing](http://www.rheem.com)** | **[Temporary Product Management Administrative Assistant OR Internship](https://jobright.ai/jobs/info/6859a81a4241677d9152652e?utm_campaign=1047&utm_source=git)** | Lewisville, TX, United States | Hybrid | Jun 23 |
@@ -77,7 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Pinterest](https://www.pinterest.com/)** | **[Apprentice Product Manager](https://jobright.ai/jobs/info/685a38a56bb025242a5336be?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jun 23 |
 | ↳ | **[Apprentice Product Manager](https://jobright.ai/jobs/info/685a38a56bb025242a533829?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Jun 23 |
 | **[Pinterest Engineering](https://www.pinterestcareers.com/)** | **[Apprentice Product Researcher](https://jobright.ai/jobs/info/685999ee90e3e2ff27fa1d78?utm_campaign=1047&utm_source=git)** | San Francisco, CA, US | On Site | Jun 23 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Product Management Intern (Year-Round)](https://jobright.ai/jobs/info/6859659ee69a4b0c603dedbc?utm_campaign=1047&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Jun 23 |
+| **[Tyson Foods](http://tysonfoods.com)** | **[Product Management Intern (Year-Round)](https://jobright.ai/jobs/info/6859659ee69a4b0c603deb82?utm_campaign=1047&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Jun 23 |
 | **[Upstart](https://upstart.com/about)** | **[Join our Product Talent Community!](https://jobright.ai/jobs/info/683af3a4d9344c8c1d15a02c?utm_campaign=1047&utm_source=git)** | United States | On Site | Jun 21 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Ninja Test Kitchen Co-op (July through December)](https://jobright.ai/jobs/info/683a42c788c2ecf58d49e811?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Jun 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search-Comprehensive Search) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6839b8054b9b2fb9dde9e071?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 21 |
@@ -88,5 +88,4 @@ For a complete list, click the following sortable link below:
 | **[Emazing Group - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[iHR Buying Intern](https://jobright.ai/jobs/info/68535f3a4ba8dddb03724ef9?utm_campaign=1047&utm_source=git)** | Anaheim, CA | On Site | Jun 18 |
 | **[IGT](http://igt.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68534810e07e4888e15dd9a1?utm_campaign=1047&utm_source=git)** | Las Vegas, NV | On Site | Jun 18 |
 | **[Emazing Group - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[iHR Buying Intern](https://jobright.ai/jobs/info/6853eb96963664268c62c41d?utm_campaign=1047&utm_source=git)** | Anaheim, CA | On Site | Jun 18 |
-| ↳ | **[Buying Intern](https://jobright.ai/jobs/info/68531459c555b2c8c8304bde?utm_campaign=1047&utm_source=git)** | Anaheim, CA | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
