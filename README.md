@@ -57,15 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern- AI Product Specialist (Business Facing)](https://jobright.ai/jobs/info/685b4b072506f81b26df9f0b?utm_campaign=1047&utm_source=git)** | Midvale, Utah, United States | Hybrid | Jun 24 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Product Manager Support)](https://jobright.ai/jobs/info/685b43debc23eac2e2129f1e?utm_campaign=1047&utm_source=git)** | Pensacola, FL | Hybrid | Jun 24 |
 | **[Businessolver](https://www.businessolver.com)** | **[Product Manager Internship (Product Team)](https://jobright.ai/jobs/info/685b2ae1e6572e3ac416c54c?utm_campaign=1047&utm_source=git)** | Work Remotely Anywhere in the U.S. | On Site | Jun 24 |
 | ↳ | **[Product Manager Internship (Product Team)](https://jobright.ai/jobs/info/685b1f1b4ce353f86aa313d8?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 24 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Product Management Intern - A/V Conferencing](https://jobright.ai/jobs/info/685b0b721fe76f13ca7b5d0b?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Jun 24 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Product Manager Support)](https://jobright.ai/jobs/info/685afaf6c056354424642cd0?utm_campaign=1047&utm_source=git)** | Pensacola, FL, United States | On Site | Jun 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Product manager Intern (Music Discovery) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/684a84ef2b948718a2c41958?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 24 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product Infrastructure) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/680cb7630be34182f8431100?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 23 |
 | **[The Citco Group Limited](https://www.citco.com)** | **[Product Intern](https://jobright.ai/jobs/info/6859b9709fd382d77ee20dcd?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jun 23 |
-| **[Pinterest](https://www.pinterest.com/)** | **[Apprentice Product Researcher](https://jobright.ai/jobs/info/6859b4bff33d05e394eee9af?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Jun 23 |
-| ↳ | **[Apprentice Product Researcher](https://jobright.ai/jobs/info/6859b4bff33d05e394eeea09?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jun 23 |
+| **[Pinterest](https://www.pinterest.com/)** | **[Apprentice Product Researcher](https://jobright.ai/jobs/info/6859b4bff33d05e394eeea09?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jun 23 |
+| ↳ | **[Apprentice Product Researcher](https://jobright.ai/jobs/info/6859b4bff33d05e394eee9af?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Jun 23 |
 | **[ASUS](https://www.asus.com)** | **[Product Manager Assistant (Seasonal Role/Internship)](https://jobright.ai/jobs/info/6859ab177cc82b34be9082ed?utm_campaign=1047&utm_source=git)** | City of Industry, CA | On Site | Jun 23 |
 | **[The Citco Group Limited](https://www.citco.com)** | **[Product Intern](https://jobright.ai/jobs/info/6859a81a4241677d9152653d?utm_campaign=1047&utm_source=git)** | 350 Park Avenue, New York, NY, 10022, US | On Site | Jun 23 |
 | **[Rheem Manufacturing](http://www.rheem.com)** | **[Temporary Product Management Administrative Assistant OR Internship](https://jobright.ai/jobs/info/6859a81a4241677d9152652e?utm_campaign=1047&utm_source=git)** | Lewisville, TX, United States | Hybrid | Jun 23 |
@@ -87,5 +89,4 @@ For a complete list, click the following sortable link below:
 | **[IGT](http://igt.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68534810e07e4888e15dd9a1?utm_campaign=1047&utm_source=git)** | Las Vegas, NV | On Site | Jun 18 |
 | **[Emazing Group - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[iHR Buying Intern](https://jobright.ai/jobs/info/6853eb96963664268c62c41d?utm_campaign=1047&utm_source=git)** | Anaheim, CA | On Site | Jun 18 |
 | ↳ | **[Buying Intern](https://jobright.ai/jobs/info/68531459c555b2c8c8304bde?utm_campaign=1047&utm_source=git)** | Anaheim, CA | On Site | Jun 18 |
-| **[Klein Tools](https://www.kleintools.com/)** | **[Externship - Product Management](https://jobright.ai/jobs/info/683a8ff456bbd7d84770710f?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
