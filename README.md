@@ -59,6 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[DöhlerGroup](https://www.doehler.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/684fa5193f9734b0c81dfd0f?utm_campaign=1047&utm_source=git)** | Cartersville, GA | On Site | Jun 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operation Intern (Music Promotion and Distribution) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/67ed14c7bec9f8ea83111ed5?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jun 26 |
+| ↳ | **[Product Operations Intern (TikTok-PGC) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6826b577294475eb313b1130?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 26 |
+| **[Canoga Perkins](http://www.canoga.com/)** | **[PRODUCT MANAGEMENT INTERN](https://jobright.ai/jobs/info/685db6168f5566bc57021ec2?utm_campaign=1047&utm_source=git)** | Chatsworth, CA | On Site | Jun 25 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Ecommerce Development Student Experience](https://jobright.ai/jobs/info/685c495a5279b12c1551b8ce?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Jun 25 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Digital Catering and Inflight Services (DCIS) (Fall 2025)](https://jobright.ai/jobs/info/685c56ea674c8f94e8e487f4?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Music Discovery) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/67e77ab79fdea0c6efc0396f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 25 |
@@ -88,8 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Wahed](https://www.wahed.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/6854119929aa7224b99ac656?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 19 |
 | **[ITT Inc.](http://www.itt.com)** | **[Product Management Co-op (Fall 2025)](https://jobright.ai/jobs/info/681ba14edab4fcafb6a11ff9?utm_campaign=1047&utm_source=git)** | Seneca Falls, NY | On Site | Jun 19 |
 | **[Emazing Group - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[iHR Buying Intern](https://jobright.ai/jobs/info/68535f3a4ba8dddb03724ef9?utm_campaign=1047&utm_source=git)** | Anaheim, CA | On Site | Jun 18 |
-| **[IGT](http://igt.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68534810e07e4888e15dd9a1?utm_campaign=1047&utm_source=git)** | Las Vegas, NV | On Site | Jun 18 |
-| **[Emazing Group - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[iHR Buying Intern](https://jobright.ai/jobs/info/6853eb96963664268c62c41d?utm_campaign=1047&utm_source=git)** | Anaheim, CA | On Site | Jun 18 |
+| ↳ | **[iHR Buying Intern](https://jobright.ai/jobs/info/6853eb96963664268c62c41d?utm_campaign=1047&utm_source=git)** | Anaheim, CA | On Site | Jun 18 |
 | ↳ | **[Buying Intern](https://jobright.ai/jobs/info/68531459c555b2c8c8304bde?utm_campaign=1047&utm_source=git)** | Anaheim, CA | On Site | Jun 18 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Externship - Product Management](https://jobright.ai/jobs/info/683a8ff456bbd7d84770710f?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Jun 18 |
 | **[Qu](https://www.qubeyond.com)** | **[Product Internship - Data & Reporting](https://jobright.ai/jobs/info/6853ffc8cf93eb1d8eba0cc4?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 17 |
