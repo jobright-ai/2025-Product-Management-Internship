@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[DöhlerGroup](https://www.doehler.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/684fa5193f9734b0c81dfd0f?utm_campaign=1047&utm_source=git)** | Cartersville, GA | On Site | Jun 26 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Operation Intern (Music Promotion and Distribution) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/67ed14c7bec9f8ea83111ed5?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jun 26 |
-| ↳ | **[Product Operations Intern (TikTok-PGC) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6826b577294475eb313b1130?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 26 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (TikTok-PGC) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6826b577294475eb313b1130?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 26 |
+| ↳ | **[Product Operation Intern (Music Promotion and Distribution) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/67ed14c7bec9f8ea83111ed5?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jun 26 |
 | **[Canoga Perkins](http://www.canoga.com/)** | **[PRODUCT MANAGEMENT INTERN](https://jobright.ai/jobs/info/685db6168f5566bc57021ec2?utm_campaign=1047&utm_source=git)** | Chatsworth, CA | On Site | Jun 25 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Ecommerce Development Student Experience](https://jobright.ai/jobs/info/685c495a5279b12c1551b8ce?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Jun 25 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Digital Catering and Inflight Services (DCIS) (Fall 2025)](https://jobright.ai/jobs/info/685c56ea674c8f94e8e487f4?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
@@ -107,7 +107,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science Intern (TikTok-Product-Data Science) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67dd412dfd81984c9c8d3730?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6826c075d4b3f0b80946e178?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 14 |
 | **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/67bf5d8b4ab5e9591419b305?utm_campaign=1047&utm_source=git)** | Quincy, IL | On Site | Jun 14 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2025Fall Starts (BS/MS)](https://jobright.ai/jobs/info/684bdc3dbac6f9e3a70bd65d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 13 |
-| ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Fall Starts ((MBA)](https://jobright.ai/jobs/info/684be6c9a0e956a8afae5e08?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 13 |
-| ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Fall Starts (BS/MS)](https://jobright.ai/jobs/info/684be6c9a0e956a8afae5e15?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
