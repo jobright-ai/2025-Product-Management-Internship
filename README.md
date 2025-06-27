@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[DöhlerGroup](https://www.doehler.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/684fa5193f9734b0c81dfd0f?utm_campaign=1047&utm_source=git)** | Cartersville, GA | On Site | Jun 26 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (TikTok-PGC) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6826b577294475eb313b1130?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 26 |
-| ↳ | **[Product Operation Intern (Music Promotion and Distribution) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/67ed14c7bec9f8ea83111ed5?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jun 26 |
+| **[TikTok](https://www.tiktok.com)** | **[Product operation Intern (Music promotion and disctribution) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/67ed14c7bec9f8ea83111ed5?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jun 26 |
+| ↳ | **[Product Operations Intern (TikTok-PGC) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6826b577294475eb313b1130?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 26 |
 | **[Canoga Perkins](http://www.canoga.com/)** | **[PRODUCT MANAGEMENT INTERN](https://jobright.ai/jobs/info/685db6168f5566bc57021ec2?utm_campaign=1047&utm_source=git)** | Chatsworth, CA | On Site | Jun 25 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Ecommerce Development Student Experience](https://jobright.ai/jobs/info/685c495a5279b12c1551b8ce?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Jun 25 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Digital Catering and Inflight Services (DCIS) (Fall 2025)](https://jobright.ai/jobs/info/685c56ea674c8f94e8e487f4?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
@@ -102,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[AMETEK](http://www.ametek.com)** | **[Intern-Product Management](https://jobright.ai/jobs/info/6850b4580062ff9d1c07b855?utm_campaign=1047&utm_source=git)** | Wayne, NJ | On Site | Jun 16 |
 | **[Popmenu](https://get.popmenu.com)** | **[Product Intern](https://jobright.ai/jobs/info/68504bf96445ea54423bb928?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Jun 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Privacy and Responsibility) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6826cea880ff05a9ec3d2a21?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 16 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/680ce95629e852258bcbc07e?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 15 |
-| ↳ | **[Product Manager Intern (TikTok-Search) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/680ceb1329e852258bcbc28f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 15 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/680a351abdf8f7f7b3418f53?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 15 |
+| ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/680ce95629e852258bcbc07e?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 15 |
 | ↳ | **[Data Science Intern (TikTok-Product-Data Science) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67dd412dfd81984c9c8d3730?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6826c075d4b3f0b80946e178?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 14 |
 | **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/67bf5d8b4ab5e9591419b305?utm_campaign=1047&utm_source=git)** | Quincy, IL | On Site | Jun 14 |
