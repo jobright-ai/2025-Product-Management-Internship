@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product Infrastructure)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6826deddbda62b0c1d13c157?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 29 |
+| ↳ | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6826c573d05c08c3e3e71177?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Product manager Intern (Music Copyright Solution) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/680c9b9ab17403c3ff26c68f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 28 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/682648301ff0402117fb6f3d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 28 |
 | ↳ | **[Product Manager Intern (TikTok-PGC)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67d053202d3382d131765245?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 28 |
 | **[Schaeffler](https://www.schaeffler.us)** | **[Co-Op - Product Management](https://jobright.ai/jobs/info/685f011cbb6f954fa792520c?utm_campaign=1047&utm_source=git)** | Strongsville, OH | On Site | Jun 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Open Platform)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/682648301ff0402117fb6f6a?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 27 |
 | **[DöhlerGroup](https://www.doehler.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/684fa5193f9734b0c81dfd0f?utm_campaign=1047&utm_source=git)** | Cartersville, GA | On Site | Jun 26 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (TikTok-PGC) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6826b577294475eb313b1130?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 26 |
-| ↳ | **[Product Operation Intern (Music Promotion and Distribution) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/67ed14c7bec9f8ea83111ed5?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jun 26 |
+| **[TikTok](https://www.tiktok.com)** | **[Product operation Intern (Music promotion and disctribution) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/67ed14c7bec9f8ea83111ed5?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jun 26 |
+| ↳ | **[Product Operations Intern (TikTok-PGC) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6826b577294475eb313b1130?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 26 |
 | **[Canoga Perkins](http://www.canoga.com/)** | **[PRODUCT MANAGEMENT INTERN](https://jobright.ai/jobs/info/685db6168f5566bc57021ec2?utm_campaign=1047&utm_source=git)** | Chatsworth, CA | On Site | Jun 25 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Ecommerce Development Student Experience](https://jobright.ai/jobs/info/685c495a5279b12c1551b8ce?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Jun 25 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Digital Catering and Inflight Services (DCIS) (Fall 2025)](https://jobright.ai/jobs/info/685c56ea674c8f94e8e487f4?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
@@ -103,5 +105,4 @@ For a complete list, click the following sortable link below:
 | **[Popmenu](https://get.popmenu.com)** | **[Product Intern](https://jobright.ai/jobs/info/68504bf96445ea54423bb928?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Jun 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Privacy and Responsibility) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6826cea880ff05a9ec3d2a21?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/680a351abdf8f7f7b3418f53?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 15 |
-| ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/680ce95629e852258bcbc07e?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
