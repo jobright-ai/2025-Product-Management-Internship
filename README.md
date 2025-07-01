@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Product Development Intern, Beverage (early September through mid-December)](https://jobright.ai/jobs/info/6863767dd9418499feff5d43?utm_campaign=1047&utm_source=git)** | Needham, MA | Hybrid | Jun 30 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Product Management Student Experience](https://jobright.ai/jobs/info/68634e1fa95141c2a0f504e3?utm_campaign=1047&utm_source=git)** | Johnson Creek, WI | On Site | Jun 30 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Associate Product Manager (APM)](https://jobright.ai/jobs/info/6863483f7b70a2dc5dbe71bd?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jun 30 |
-| ↳ | **[Summer 2026 Intern - Associate Product Manager (APM)](https://jobright.ai/jobs/info/6863119d58653693163d4808?utm_campaign=1047&utm_source=git)** | California - San Francisco | On Site | Jun 30 |
+| ↳ | **[Summer 2026 Intern - Associate Product Manager (APM)](https://jobright.ai/jobs/info/6863119d58653693163d497a?utm_campaign=1047&utm_source=git)** | California - San Francisco | On Site | Jun 30 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6862f28bc09d3afc1882ac12?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jun 30 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Fall 2025 Product Manager Intern](https://jobright.ai/jobs/info/6862e9e9a64291fc9e554f41?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Jun 30 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6862e1801c754ff5556ace2e?utm_campaign=1047&utm_source=git)** | Dallas, TX - Headquarters | On Site | Jun 30 |
