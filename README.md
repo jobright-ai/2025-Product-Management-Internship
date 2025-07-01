@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Associate Product Manager (APM)](https://jobright.ai/jobs/info/6863119d58653693163d497a?utm_campaign=1047&utm_source=git)** | California - San Francisco | On Site | Jun 30 |
+| **[Bobcat Company](https://www.bobcat.com)** | **[2025 Product Management Student Experience](https://jobright.ai/jobs/info/68634e1fa95141c2a0f504e3?utm_campaign=1047&utm_source=git)** | Johnson Creek, WI | On Site | Jun 30 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Associate Product Manager (APM)](https://jobright.ai/jobs/info/6863483f7b70a2dc5dbe71bd?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jun 30 |
+| ↳ | **[Summer 2026 Intern - Associate Product Manager (APM)](https://jobright.ai/jobs/info/6863119d58653693163d4808?utm_campaign=1047&utm_source=git)** | California - San Francisco | On Site | Jun 30 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6862f28bc09d3afc1882ac12?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jun 30 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Fall 2025 Product Manager Intern](https://jobright.ai/jobs/info/6862e9e9a64291fc9e554f41?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Jun 30 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6862e1801c754ff5556ace2e?utm_campaign=1047&utm_source=git)** | Dallas, TX - Headquarters | On Site | Jun 30 |
@@ -87,5 +89,4 @@ For a complete list, click the following sortable link below:
 | **[Businessolver](https://www.businessolver.com)** | **[Product Manager Internship (Product Team)](https://jobright.ai/jobs/info/685b2ae1e6572e3ac416c54c?utm_campaign=1047&utm_source=git)** | Work Remotely Anywhere in the U.S. | On Site | Jun 24 |
 | ↳ | **[Product Manager Internship (Product Team)](https://jobright.ai/jobs/info/685b1f1b4ce353f86aa313d8?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 24 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Product Manager Support)](https://jobright.ai/jobs/info/685afaf6c056354424642cd0?utm_campaign=1047&utm_source=git)** | Pensacola, FL, United States | On Site | Jun 24 |
-| **[TikTok](https://www.tiktok.com)** | **[Product manager Intern (Music Discovery) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/684a84ef2b948718a2c41958?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
