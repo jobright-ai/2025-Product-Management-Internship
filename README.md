@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[P3 Rx Intern](https://jobright.ai/jobs/info/68651a11abe1464fd69eb201?utm_campaign=1047&utm_source=git)** | Ballston Lake, NY | On Site | Jul 02 |
+| **[Bobcat Company](https://www.bobcat.com)** | **[2025 Product Service Student Experience](https://jobright.ai/jobs/info/68488de91d19366aff0844a6?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Jul 02 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6864431af84fe8d668248a4c?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jul 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/680ceb1329e852258bcbc363?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 01 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Product Development Intern, Beverage (early September through mid-December)](https://jobright.ai/jobs/info/6863767dd9418499feff5d43?utm_campaign=1047&utm_source=git)** | Needham, MA | Hybrid | Jun 30 |
@@ -74,12 +76,10 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6826d3ece3c8402fd20cb59c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 29 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Loan Servicing Specialist](https://jobright.ai/jobs/info/677bd425125f8b2f99a00420?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | Hybrid | Jun 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product Infrastructure)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6826deddbda62b0c1d13c157?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 29 |
-| ↳ | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6826c573d05c08c3e3e71177?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 29 |
 | ↳ | **[Product Manager Intern (TikTok-Search) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67d053202d3382d131765237?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 29 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Privacy and Responsibility) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/680c9a18b17403c3ff26c0ca?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/680c543d7883eb2208f9a344?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 28 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/682648301ff0402117fb6f3d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 28 |
-| ↳ | **[Product Manager Intern (TikTok-PGC)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67d053202d3382d131765245?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 28 |
 | **[Schaeffler](https://www.schaeffler.us)** | **[Co-Op - Product Management](https://jobright.ai/jobs/info/685f011cbb6f954fa792520c?utm_campaign=1047&utm_source=git)** | Strongsville, OH | On Site | Jun 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Open Platform)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/682648301ff0402117fb6f6a?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 27 |
 | **[DöhlerGroup](https://www.doehler.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/684fa5193f9734b0c81dfd0f?utm_campaign=1047&utm_source=git)** | Cartersville, GA | On Site | Jun 26 |
