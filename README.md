@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ulla Johnson  ](https://ullajohnson.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/686568df4a305d4a9e9439e8?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jul 02 |
 | **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[P3 Rx Intern](https://jobright.ai/jobs/info/68651a11abe1464fd69eb201?utm_campaign=1047&utm_source=git)** | Ballston Lake, NY | On Site | Jul 02 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Product Service Student Experience](https://jobright.ai/jobs/info/68488de91d19366aff0844a6?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Jul 02 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6864431af84fe8d668248a4c?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jul 01 |
@@ -105,6 +106,4 @@ For a complete list, click the following sortable link below:
 | **[Cartier](http://www.cartier.com)** | **[V.I.E - Fragrance Product Manager - New-York](https://jobright.ai/jobs/info/685461dbca7e7bb874d264ad?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jun 19 |
 | **[Wahed](https://www.wahed.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/6854119929aa7224b99ac656?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 19 |
 | **[ITT Inc.](http://www.itt.com)** | **[Product Management Co-op (Fall 2025)](https://jobright.ai/jobs/info/681ba14edab4fcafb6a11ff9?utm_campaign=1047&utm_source=git)** | Seneca Falls, NY | On Site | Jun 19 |
-| **[Emazing Group - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[iHR Buying Intern](https://jobright.ai/jobs/info/68535f3a4ba8dddb03724ef9?utm_campaign=1047&utm_source=git)** | Anaheim, CA | On Site | Jun 18 |
-| ↳ | **[iHR Buying Intern](https://jobright.ai/jobs/info/6853eb96963664268c62c41d?utm_campaign=1047&utm_source=git)** | Anaheim, CA | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
