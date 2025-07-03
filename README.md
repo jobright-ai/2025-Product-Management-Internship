@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Workato](http://www.workato.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/6866626cf1f48da102f2b2cc?utm_campaign=1047&utm_source=git)** | Palo Alto, California | On Site | Jul 03 |
+| **[Johns Manville](http://www.jm.com/)** | **[Product Management Co-Op / Intern](https://jobright.ai/jobs/info/6866d1e880abf94b253f9775?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Jul 03 |
+| **[Copart](http://www.copart.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/684a4025ca6c40aeea79f7be?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jul 03 |
 | **[SAP](https://www.sap.com)** | **[SAP Business Technology Platform iXp Intern - Product Management Operations](https://jobright.ai/jobs/info/68662073574f68996bf6daeb?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jul 02 |
 | **[Ulla Johnson  ](https://ullajohnson.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/686568df4a305d4a9e9439e8?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jul 02 |
 | **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[P3 Rx Intern](https://jobright.ai/jobs/info/68651a11abe1464fd69eb201?utm_campaign=1047&utm_source=git)** | Ballston Lake, NY | On Site | Jul 02 |
@@ -88,5 +89,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/682648301ff0402117fb6f3d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 28 |
 | **[Schaeffler](https://www.schaeffler.us)** | **[Co-Op - Product Management](https://jobright.ai/jobs/info/685f011cbb6f954fa792520c?utm_campaign=1047&utm_source=git)** | Strongsville, OH | On Site | Jun 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Open Platform)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/682648301ff0402117fb6f6a?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 27 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (TikTok-PGC) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6866088eb986f013e2984777?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
