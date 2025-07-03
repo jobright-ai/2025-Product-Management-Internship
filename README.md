@@ -84,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Schaeffler](https://www.schaeffler.us)** | **[Co-Op - Product Management](https://jobright.ai/jobs/info/685f011cbb6f954fa792520c?utm_campaign=1047&utm_source=git)** | Strongsville, OH | On Site | Jun 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Open Platform)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/682648301ff0402117fb6f6a?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 27 |
 | **[DöhlerGroup](https://www.doehler.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/684fa5193f9734b0c81dfd0f?utm_campaign=1047&utm_source=git)** | Cartersville, GA | On Site | Jun 26 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Music Discovery) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6865f9b3f0810735bfbb8881?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 25 |
 | **[Canoga Perkins](http://www.canoga.com/)** | **[PRODUCT MANAGEMENT INTERN](https://jobright.ai/jobs/info/685db6168f5566bc57021ec2?utm_campaign=1047&utm_source=git)** | Chatsworth, CA | On Site | Jun 25 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Ecommerce Development Student Experience](https://jobright.ai/jobs/info/685c495a5279b12c1551b8ce?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Jun 25 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Digital Catering and Inflight Services (DCIS) (Fall 2025)](https://jobright.ai/jobs/info/685c56ea674c8f94e8e487f4?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
@@ -105,5 +106,4 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP Business Technology Platform iXp Intern - Product Management Operations](https://jobright.ai/jobs/info/68564cac88219cad46ef51ba?utm_campaign=1047&utm_source=git)** | Bellevue, WA | Hybrid | Jun 20 |
 | **[Cartier](http://www.cartier.com)** | **[V.I.E - Fragrance Product Manager - New-York](https://jobright.ai/jobs/info/685461dbca7e7bb874d264ad?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jun 19 |
 | **[Wahed](https://www.wahed.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/6854119929aa7224b99ac656?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 19 |
-| **[ITT Inc.](http://www.itt.com)** | **[Product Management Co-op (Fall 2025)](https://jobright.ai/jobs/info/681ba14edab4fcafb6a11ff9?utm_campaign=1047&utm_source=git)** | Seneca Falls, NY | On Site | Jun 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
