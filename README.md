@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Fall Starts ((MBA)](https://jobright.ai/jobs/info/684be6c9a0e956a8afae5e08?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 06 |
 | **[Travelers](https://www.travelers.com)** | **[Product Management Development Program (PMDP) Intern](https://jobright.ai/jobs/info/6869fab733fe4bfc6108ee44?utm_campaign=1047&utm_source=git)** | CT - Hartford | On Site | Jul 05 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Product Manager](https://jobright.ai/jobs/info/6868fe4935584b6542602e37?utm_campaign=1047&utm_source=git)** | North Carolina, United States | Remote | Jul 05 |
 | ↳ | **[Product Manager](https://jobright.ai/jobs/info/6868fd0935584b65425bcbc2?utm_campaign=1047&utm_source=git)** | Illinois, United States | Remote | Jul 05 |
@@ -92,5 +93,4 @@ For a complete list, click the following sortable link below:
 | **[Wilson Connectivity](https://www.wilsonelectronics.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6868bdaf35584b6542396dcd?utm_campaign=1047&utm_source=git)** | St George, UT | On Site | Jun 29 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6868be1935584b65423db0a5?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Jun 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/686618e5cd3a88df203cdea8?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 29 |
-| **[HCSS](http://hcss.nl)** | **[Product Management Intern - Fall 2025](https://jobright.ai/jobs/info/6862e89fbea298b4eb60a00d?utm_campaign=1047&utm_source=git)** | Sugar Land, TX | On Site | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
