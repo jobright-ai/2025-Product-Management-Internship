@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Fall Starts ((MBA)](https://jobright.ai/jobs/info/684be6c9a0e956a8afae5e08?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 06 |
+| **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/67bf5d8b4ab5e9591419b305?utm_campaign=1047&utm_source=git)** | Quincy, IL | On Site | Jul 06 |
 | **[Travelers](https://www.travelers.com)** | **[Product Management Development Program (PMDP) Intern](https://jobright.ai/jobs/info/6869fab733fe4bfc6108ee44?utm_campaign=1047&utm_source=git)** | CT - Hartford | On Site | Jul 05 |
-| **[HCA Healthcare](https://hcahealthcare.com/)** | **[Product Manager](https://jobright.ai/jobs/info/6868f9b035584b6542478b02?utm_campaign=1047&utm_source=git)** | Connecticut, United States | Remote | Jul 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Fall Starts (BS/MS)](https://jobright.ai/jobs/info/684be6c9a0e956a8afae5e15?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 04 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Fellow - Product Development and Procurement](https://jobright.ai/jobs/info/68122e004b8ccbcf9cc9e70b?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jul 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2025Fall Starts (BS/MS)](https://jobright.ai/jobs/info/684bdc3dbac6f9e3a70bd65d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 04 |
