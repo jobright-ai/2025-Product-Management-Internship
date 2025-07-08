@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HCA Healthcare](https://hcahealthcare.com/)** | **[Intern Business Analyst](https://jobright.ai/jobs/info/686cc5fa35584b65427e2dad?utm_campaign=1047&utm_source=git)** | Nashville, TN | On Site | Jul 08 |
 | **[Capital One](http://www.capitalone.com)** | **[Product Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/686c70e035584b6542bb700e?utm_campaign=1047&utm_source=git)** | McLean, VA | Hybrid | Jul 07 |
 | **[Travelers](https://www.travelers.com)** | **[Product Management Development Program (PMDP) Intern](https://jobright.ai/jobs/info/686c6f0735584b6542b11b7d?utm_campaign=1047&utm_source=git)** | Hartford, CT | On Site | Jul 07 |
 | **[Capital One](http://www.capitalone.com)** | **[Product Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/686c67fe35584b65428bfd23?utm_campaign=1047&utm_source=git)** | Plano, TX | Hybrid | Jul 07 |
@@ -114,5 +115,4 @@ For a complete list, click the following sortable link below:
 | **[Businessolver](https://www.businessolver.com)** | **[Product Manager Internship (Product Team)](https://jobright.ai/jobs/info/685b2ae1e6572e3ac416c54c?utm_campaign=1047&utm_source=git)** | Work Remotely Anywhere in the U.S. | On Site | Jun 24 |
 | ↳ | **[Product Manager Internship (Product Team)](https://jobright.ai/jobs/info/685b1f1b4ce353f86aa313d8?utm_campaign=1047&utm_source=git)** | United States | Remote | Jun 24 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Product Manager Support)](https://jobright.ai/jobs/info/685afaf6c056354424642cd0?utm_campaign=1047&utm_source=git)** | Pensacola, FL, United States | On Site | Jun 24 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Ninja Test Kitchen Co-op (Late July through December)](https://jobright.ai/jobs/info/683a42c788c2ecf58d49e811?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
