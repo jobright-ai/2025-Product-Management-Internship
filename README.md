@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Digital Catering and Inflight Services (DCIS) (Fall 2025)](https://jobright.ai/jobs/info/686ddaa17b24ed5e33a2422f?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jul 08 |
+| **[HeyGen](https://www.heygen.com)** | **[Product Manager, New Graduate](https://jobright.ai/jobs/info/686de5fc2f7337a591dd4f66?utm_campaign=1047&utm_source=git)** | Los Angeles | On Site | Jul 08 |
 | **[DöhlerGroup](https://www.doehler.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/684fa5193f9734b0c81dfd0f?utm_campaign=1047&utm_source=git)** | Cartersville, GA | On Site | Jul 08 |
 | **[AMETEK](http://www.ametek.com)** | **[Intern-Product Management](https://jobright.ai/jobs/info/686d1815e3ddac26382e3680?utm_campaign=1047&utm_source=git)** | Wayne, NJ | On Site | Jul 08 |
 | ↳ | **[Intern-Product Management](https://jobright.ai/jobs/info/6850b4580062ff9d1c07b855?utm_campaign=1047&utm_source=git)** | Wayne, NJ | On Site | Jul 08 |
@@ -81,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP Business Technology Platform iXp Intern - Product Management Operations](https://jobright.ai/jobs/info/68662073574f68996bf6daeb?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jul 02 |
 | **[Ulla Johnson  ](https://ullajohnson.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/686568df4a305d4a9e9439e8?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jul 02 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Product Service Student Experience](https://jobright.ai/jobs/info/68488de91d19366aff0844a6?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Jul 02 |
+| **[Wilson Connectivity](https://www.wilsonelectronics.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/686e254f674ba2ef29a90af1?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Jul 01 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6864431af84fe8d668248a4c?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jul 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/680ceb1329e852258bcbc363?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 01 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Product Development Intern, Beverage (early September through mid-December)](https://jobright.ai/jobs/info/6863767dd9418499feff5d43?utm_campaign=1047&utm_source=git)** | Needham, MA | Hybrid | Jun 30 |
@@ -88,10 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Associate Product Manager (APM)](https://jobright.ai/jobs/info/6863483f7b70a2dc5dbe71bd?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jun 30 |
 | **[Porsche Design of America](http://www.porsche-design.com)** | **[Operations & Product Development Intern](https://jobright.ai/jobs/info/6864175037e43d01e9b2deab?utm_campaign=1047&utm_source=git)** | Costa Mesa, CA | On Site | Jun 30 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Associate Product Manager (APM)](https://jobright.ai/jobs/info/6863119d58653693163d497a?utm_campaign=1047&utm_source=git)** | California - San Francisco | On Site | Jun 30 |
-| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6862f28bc09d3afc1882ac12?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jun 30 |
-| ↳ | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6862e1801c754ff5556ace2e?utm_campaign=1047&utm_source=git)** | Dallas, TX - Headquarters | On Site | Jun 30 |
+| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6862e1801c754ff5556ace2e?utm_campaign=1047&utm_source=git)** | Dallas, TX - Headquarters | On Site | Jun 30 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Product Development Intern, Beverage (early September through mid-December)](https://jobright.ai/jobs/info/6862e0f22a212b5f966d1423?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | Hybrid | Jun 30 |
-| **[Schaeffler](https://www.schaeffler.us)** | **[Co-Op - Product Management](https://jobright.ai/jobs/info/686da99a847857cfc76332ed?utm_campaign=1047&utm_source=git)** | Strongsville, OH | On Site | Jun 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/686618e5cd3a88df203cdea8?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 29 |
 | **[HCSS](http://hcss.nl)** | **[Product Management Intern - Fall 2025](https://jobright.ai/jobs/info/6862e89fbea298b4eb60a00d?utm_campaign=1047&utm_source=git)** | Sugar Land, TX | On Site | Jun 29 |
 | **[Enpro Inc.](http://enproindustries.com)** | **[Product Management & Engineering Intern (Onsite Role - Millington, Michigan)](https://jobright.ai/jobs/info/680bfb7e18a3573ab72618c1?utm_campaign=1047&utm_source=git)** | Millington, MI | Hybrid | Jun 29 |
