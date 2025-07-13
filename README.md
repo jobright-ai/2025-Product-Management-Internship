@@ -95,9 +95,9 @@ For a complete list, click the following sortable link below:
 | **[Johns Manville](http://www.jm.com/)** | **[Product Management Co-Op / Intern](https://jobright.ai/jobs/info/6866d1e880abf94b253f9775?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Jul 03 |
 | **[Workato](http://www.workato.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/686ff1a1a5ae807a59cf47be?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Jul 03 |
 | **[Copart](http://www.copart.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/684a4025ca6c40aeea79f7be?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jul 03 |
-| ↳ | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/686fa0bba5ae807a59cf21b2?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jul 03 |
 | **[SAP](https://www.sap.com)** | **[SAP Business Technology Platform iXp Intern - Product Management Operations](https://jobright.ai/jobs/info/68662073574f68996bf6daeb?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jul 02 |
 | **[Wilson Connectivity](https://www.wilsonelectronics.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/686f63c0ed5df758cce4678b?utm_campaign=1047&utm_source=git)** | St George, UT | On Site | Jul 02 |
+| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/686f475f5295a9ee41fd1e6b?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jul 02 |
 | **[Ulla Johnson  ](https://ullajohnson.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/686568df4a305d4a9e9439e8?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jul 02 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Product Service Student Experience](https://jobright.ai/jobs/info/68488de91d19366aff0844a6?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Jul 02 |
 | **[Wilson Connectivity](https://www.wilsonelectronics.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/686e254f674ba2ef29a90af1?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Jul 01 |
