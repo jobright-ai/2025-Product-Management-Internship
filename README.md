@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Ninja Test Kitchen Co-op (Late July through December)](https://jobright.ai/jobs/info/683a42c788c2ecf58d49e811?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Jul 12 |
+| **[Upstart](https://upstart.com/about)** | **[Join our Product Talent Community!](https://jobright.ai/jobs/info/683af3a4d9344c8c1d15a02c?utm_campaign=1047&utm_source=git)** | United States | On Site | Jul 12 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Externship - Product Management](https://jobright.ai/jobs/info/68724b6c06ad7073463cbb89?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Jul 12 |
 | **[DöhlerGroup](https://www.doehler.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/684fa5193f9734b0c81dfd0f?utm_campaign=1047&utm_source=git)** | Cartersville, GA | On Site | Jul 11 |
 | **[ITT Inc.](http://www.itt.com)** | **[Product Management Co-op (Fall 2025)](https://jobright.ai/jobs/info/681ba14edab4fcafb6a11ff9?utm_campaign=1047&utm_source=git)** | Seneca Falls, NY | On Site | Jul 11 |
@@ -105,5 +106,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6826d3ece3c8402fd20cb59c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 29 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[Internship - Loan Servicing Specialist](https://jobright.ai/jobs/info/677bd425125f8b2f99a00420?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | Hybrid | Jun 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Privacy and Responsibility) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/680c9a18b17403c3ff26c0ca?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 29 |
-| **[TikTok](https://www.tiktok.com)** | **[Product manager Intern (Music Discovery) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/686a0eb235584b654263f7b0?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jun 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
