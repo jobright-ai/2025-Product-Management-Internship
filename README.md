@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Product & Digital Content Intern](https://jobright.ai/jobs/info/6876aacbae2f413e4a5b225c?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 15 |
-| **[Dermalogica](http://www.dermalogica.com/)** | **[Intern - Global Product Development](https://jobright.ai/jobs/info/68769c15299cbc74b875e9b1?utm_campaign=1047&utm_source=git)** | Carson, CA | Hybrid | Jul 15 |
 | **[ComboCurve](https://www.combocurve.com/)** | **[Product Solutions Engineering Intern](https://jobright.ai/jobs/info/687696aa299cbc74b875e6b4?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 15 |
 | **[Rheem Manufacturing](http://www.rheem.com)** | **[Product Management Engineering Internship](https://jobright.ai/jobs/info/6859a59e9e2fd3a003794343?utm_campaign=1047&utm_source=git)** | Lewisville, TX | Hybrid | Jul 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Product manager Intern (Music Discovery) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6875f114ae2f413e4a5ab3c3?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 15 |
