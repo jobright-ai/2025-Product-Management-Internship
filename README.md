@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ComboCurve](https://www.combocurve.com/)** | **[Product Solutions Engineering Intern](https://jobright.ai/jobs/info/68758dd2299cbc74b8755fb4?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 14 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/68752185ae2f413e4a5a3e96?utm_campaign=1047&utm_source=git)** | Dallas, TX | Hybrid | Jul 14 |
 | **[Atmosfy](https://atmosfy.io)** | **[Product Research Intern](https://jobright.ai/jobs/info/68742aa701889204ff8f614f?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search-Comprehensive Search) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6839b8054b9b2fb9dde9e071?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 13 |
@@ -77,7 +78,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern-Product Management](https://jobright.ai/jobs/info/6850b4580062ff9d1c07b855?utm_campaign=1047&utm_source=git)** | Wayne, NJ | On Site | Jul 08 |
 | **[ASUS](https://www.asus.com)** | **[Product Manager Assistant (Seasonal Internship)](https://jobright.ai/jobs/info/686cd62e303f7f63cb03f993?utm_campaign=1047&utm_source=git)** | Fremont, CA | On Site | Jul 07 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Fellow - Product Development and Procurement](https://jobright.ai/jobs/info/687526d6299cbc74b8752647?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jul 07 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/680ceb1329e852258bcbc28f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 07 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/680a351abdf8f7f7b3418f53?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/68733900a5ae807a59d08bb3?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 06 |
 | **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68732234a5ae807a59d07d2d?utm_campaign=1047&utm_source=git)** | Quincy, IL | On Site | Jul 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Fall Starts ((MBA)](https://jobright.ai/jobs/info/684be6c9a0e956a8afae5e08?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 06 |
@@ -91,5 +92,4 @@ For a complete list, click the following sortable link below:
 | **[Ulla Johnson  ](https://ullajohnson.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/686568df4a305d4a9e9439e8?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jul 02 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Product Service Student Experience](https://jobright.ai/jobs/info/68488de91d19366aff0844a6?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Jul 02 |
 | **[Wilson Connectivity](https://www.wilsonelectronics.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/686e254f674ba2ef29a90af1?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Jul 01 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Product Development Intern, Beverage (early September through mid-December)](https://jobright.ai/jobs/info/6863767dd9418499feff5d43?utm_campaign=1047&utm_source=git)** | Needham, MA | Hybrid | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
