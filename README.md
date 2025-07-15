@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stride, Inc.](https://www.stridelearning.com)** | **[Product & Digital Content Intern](https://jobright.ai/jobs/info/6876aacbae2f413e4a5b225c?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 15 |
+| **[Dermalogica](http://www.dermalogica.com/)** | **[Intern - Global Product Development](https://jobright.ai/jobs/info/68769c15299cbc74b875e9b1?utm_campaign=1047&utm_source=git)** | Carson, CA | Hybrid | Jul 15 |
+| **[ComboCurve](https://www.combocurve.com/)** | **[Product Solutions Engineering Intern](https://jobright.ai/jobs/info/687696aa299cbc74b875e6b4?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 15 |
 | **[Rheem Manufacturing](http://www.rheem.com)** | **[Product Management Engineering Internship](https://jobright.ai/jobs/info/6859a59e9e2fd3a003794343?utm_campaign=1047&utm_source=git)** | Lewisville, TX | Hybrid | Jul 15 |
+| **[TikTok](https://www.tiktok.com)** | **[Product manager Intern (Music Discovery) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6875f114ae2f413e4a5ab3c3?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 15 |
 | **[Emazing Group - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[iHeartRaves Buying Intern](https://jobright.ai/jobs/info/6875a9a35cebcd1dd51c2994?utm_campaign=1047&utm_source=git)** | Anaheim, CA | Hybrid | Jul 14 |
+| **[Dreamwear](https://www.dreamwear.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6876a5365cebcd1dd51cad4e?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jul 14 |
 | **[The Citco Group Limited](https://www.citco.com)** | **[Product Intern](https://jobright.ai/jobs/info/6859b9709fd382d77ee20dcd?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jul 14 |
 | **[Atmosfy](https://atmosfy.io)** | **[Product Research Intern](https://jobright.ai/jobs/info/68742aa701889204ff8f614f?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search-Comprehensive Search) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6839b8054b9b2fb9dde9e071?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 13 |
@@ -90,9 +95,9 @@ For a complete list, click the following sortable link below:
 | **[Johns Manville](http://www.jm.com/)** | **[Product Management Co-Op / Intern](https://jobright.ai/jobs/info/6866d1e880abf94b253f9775?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Jul 03 |
 | **[Workato](http://www.workato.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/686ff1a1a5ae807a59cf47be?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Jul 03 |
 | **[Copart](http://www.copart.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/684a4025ca6c40aeea79f7be?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jul 03 |
+| ↳ | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/686fa0bba5ae807a59cf21b2?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jul 03 |
 | **[SAP](https://www.sap.com)** | **[SAP Business Technology Platform iXp Intern - Product Management Operations](https://jobright.ai/jobs/info/68662073574f68996bf6daeb?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jul 02 |
 | **[Wilson Connectivity](https://www.wilsonelectronics.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/686f63c0ed5df758cce4678b?utm_campaign=1047&utm_source=git)** | St George, UT | On Site | Jul 02 |
-| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/686f475f5295a9ee41fd1e6b?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jul 02 |
 | **[Ulla Johnson  ](https://ullajohnson.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/686568df4a305d4a9e9439e8?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jul 02 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Product Service Student Experience](https://jobright.ai/jobs/info/68488de91d19366aff0844a6?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Jul 02 |
 | **[Wilson Connectivity](https://www.wilsonelectronics.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/686e254f674ba2ef29a90af1?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Jul 01 |
