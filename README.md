@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Emazing Group - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[iHeartRaves Buying Intern](https://jobright.ai/jobs/info/6875a9a35cebcd1dd51c2994?utm_campaign=1047&utm_source=git)** | Anaheim, CA | Hybrid | Jul 14 |
 | **[The Citco Group Limited](https://www.citco.com)** | **[Product Intern](https://jobright.ai/jobs/info/6859b9709fd382d77ee20dcd?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jul 14 |
-| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/68752185ae2f413e4a5a3e96?utm_campaign=1047&utm_source=git)** | Dallas, TX | Hybrid | Jul 14 |
 | **[Atmosfy](https://atmosfy.io)** | **[Product Research Intern](https://jobright.ai/jobs/info/68742aa701889204ff8f614f?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search-Comprehensive Search) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6839b8054b9b2fb9dde9e071?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 13 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Ninja Test Kitchen Co-op (Late July through December)](https://jobright.ai/jobs/info/683a42c788c2ecf58d49e811?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Jul 12 |
@@ -84,8 +83,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6875eea35cebcd1dd51c4c0b?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 07 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Fall Starts (BS/MS)](https://jobright.ai/jobs/info/6875cfbd5cebcd1dd51c3abc?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 07 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2025Fall Starts (BS/MS)](https://jobright.ai/jobs/info/6875d691ae2f413e4a5aa0c4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 07 |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Fellow - Product Development and Procurement](https://jobright.ai/jobs/info/687526d6299cbc74b8752647?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jul 07 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/680a351abdf8f7f7b3418f53?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 07 |
+| ↳ | **[Product Manager Intern (TikTok-Search) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/680a351abdf8f7f7b3418f53?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/68733900a5ae807a59d08bb3?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 06 |
 | **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68732234a5ae807a59d07d2d?utm_campaign=1047&utm_source=git)** | Quincy, IL | On Site | Jul 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Fall Starts ((MBA)](https://jobright.ai/jobs/info/684be6c9a0e956a8afae5e08?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 06 |
