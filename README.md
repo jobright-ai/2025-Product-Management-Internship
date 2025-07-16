@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Businessolver](https://www.businessolver.com)** | **[Product Manager Internship (Product Team)](https://jobright.ai/jobs/info/685b1f1b4ce353f86aa313d8?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 16 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Product & Digital Content Intern](https://jobright.ai/jobs/info/6876aacbae2f413e4a5b225c?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 15 |
 | **[ComboCurve](https://www.combocurve.com/)** | **[Product Solutions Engineering Intern](https://jobright.ai/jobs/info/687696aa299cbc74b875e6b4?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 15 |
 | **[Rheem Manufacturing](http://www.rheem.com)** | **[Product Management Engineering Internship](https://jobright.ai/jobs/info/6859a59e9e2fd3a003794343?utm_campaign=1047&utm_source=git)** | Lewisville, TX | Hybrid | Jul 15 |
