@@ -86,7 +86,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6875eea35cebcd1dd51c4c0b?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 07 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Fall Starts (BS/MS)](https://jobright.ai/jobs/info/6875cfbd5cebcd1dd51c3abc?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 07 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2025Fall Starts (BS/MS)](https://jobright.ai/jobs/info/6875d691ae2f413e4a5aa0c4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 07 |
-| ↳ | **[Product Manager Intern (TikTok-Search) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/680ceb1329e852258bcbc28f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 07 |
+| ↳ | **[Product Manager Intern (TikTok-Search) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/680a351abdf8f7f7b3418f53?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/68733900a5ae807a59d08bb3?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 06 |
 | **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68732234a5ae807a59d07d2d?utm_campaign=1047&utm_source=git)** | Quincy, IL | On Site | Jul 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Fall Starts ((MBA)](https://jobright.ai/jobs/info/684be6c9a0e956a8afae5e08?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 06 |
@@ -99,5 +99,4 @@ For a complete list, click the following sortable link below:
 | **[Wilson Connectivity](https://www.wilsonelectronics.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/686f63c0ed5df758cce4678b?utm_campaign=1047&utm_source=git)** | St George, UT | On Site | Jul 02 |
 | **[Ulla Johnson  ](https://ullajohnson.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/686568df4a305d4a9e9439e8?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jul 02 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Product Service Student Experience](https://jobright.ai/jobs/info/68488de91d19366aff0844a6?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Jul 02 |
-| **[Wilson Connectivity](https://www.wilsonelectronics.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/686e254f674ba2ef29a90af1?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Jul 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
