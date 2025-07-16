@@ -77,6 +77,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (TikTok-PGC) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6875db3cae2f413e4a5aa5af?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 09 |
 | **[Klaviyo](http://www.klaviyo.com)** | **[Lead Product Manager, Internal Tools](https://jobright.ai/jobs/info/686efb1179d32ae4330020ff?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Jul 09 |
 | **[HeyGen](https://www.heygen.com)** | **[Product Manager, New Graduate](https://jobright.ai/jobs/info/686e3b5555962911d17acd68?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jul 09 |
+| **[McKinsey & Company](http://www.mckinsey.com)** | **[Fellow - Product Development and Procurement](https://jobright.ai/jobs/info/687742f4299cbc74b8765e42?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jul 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Privacy and Responsibility) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6875f99c299cbc74b875957e?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 08 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Open Platform) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6873322806ad7073463ce1da?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 08 |
 | **[HeyGen](https://www.heygen.com)** | **[Product Manager, New Graduate](https://jobright.ai/jobs/info/686de5fc2f7337a591dd4f66?utm_campaign=1047&utm_source=git)** | Los Angeles | On Site | Jul 08 |
