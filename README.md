@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dermalogica](http://www.dermalogica.com/)** | **[Intern - Global Product Development](https://jobright.ai/jobs/info/6877e0c05cebcd1dd51d5c07?utm_campaign=1047&utm_source=git)** | Carson, CA | Hybrid | Jul 16 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Product Manager Support)](https://jobright.ai/jobs/info/685b43debc23eac2e2129f1e?utm_campaign=1047&utm_source=git)** | Pensacola, FL | Hybrid | Jul 16 |
 | **[Businessolver](https://www.businessolver.com)** | **[Product Manager Internship (Product Team)](https://jobright.ai/jobs/info/685b1f1b4ce353f86aa313d8?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 16 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Product & Digital Content Intern](https://jobright.ai/jobs/info/6876aacbae2f413e4a5b225c?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 15 |
 | **[ComboCurve](https://www.combocurve.com/)** | **[Product Solutions Engineering Intern](https://jobright.ai/jobs/info/687696aa299cbc74b875e6b4?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 15 |
@@ -92,7 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Johns Manville](http://www.jm.com/)** | **[Product Management Co-Op / Intern](https://jobright.ai/jobs/info/6866d1e880abf94b253f9775?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Jul 03 |
 | **[Workato](http://www.workato.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/686ff1a1a5ae807a59cf47be?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Jul 03 |
 | **[Copart](http://www.copart.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/684a4025ca6c40aeea79f7be?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jul 03 |
+| ↳ | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/686fa0bba5ae807a59cf21b2?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jul 03 |
 | **[SAP](https://www.sap.com)** | **[SAP Business Technology Platform iXp Intern - Product Management Operations](https://jobright.ai/jobs/info/68662073574f68996bf6daeb?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jul 02 |
 | **[Wilson Connectivity](https://www.wilsonelectronics.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/686f63c0ed5df758cce4678b?utm_campaign=1047&utm_source=git)** | St George, UT | On Site | Jul 02 |
-| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/686f475f5295a9ee41fd1e6b?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
