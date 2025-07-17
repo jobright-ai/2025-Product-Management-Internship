@@ -94,7 +94,4 @@ For a complete list, click the following sortable link below:
 | **[Johns Manville](http://www.jm.com/)** | **[Product Management Co-Op / Intern](https://jobright.ai/jobs/info/6866d1e880abf94b253f9775?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Jul 03 |
 | **[Workato](http://www.workato.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/686ff1a1a5ae807a59cf47be?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Jul 03 |
 | **[Copart](http://www.copart.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/684a4025ca6c40aeea79f7be?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jul 03 |
-| ↳ | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/686fa0bba5ae807a59cf21b2?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jul 03 |
-| **[SAP](https://www.sap.com)** | **[SAP Business Technology Platform iXp Intern - Product Management Operations](https://jobright.ai/jobs/info/68662073574f68996bf6daeb?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Jul 02 |
-| **[Wilson Connectivity](https://www.wilsonelectronics.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/686f63c0ed5df758cce4678b?utm_campaign=1047&utm_source=git)** | St George, UT | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
