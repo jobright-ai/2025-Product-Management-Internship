@@ -79,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-PGC) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/68787d70ae2f413e4a5c3358?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 09 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/68787a915cebcd1dd51dafa5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 09 |
 | ↳ | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance)- 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/6875e35e299cbc74b8758844?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 09 |
-| ↳ | **[Product Manager Intern (TikTok-Search) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/687873c0866a435525ab9a1b?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 09 |
 | **[Klaviyo](http://www.klaviyo.com)** | **[Lead Product Manager, Internal Tools](https://jobright.ai/jobs/info/686efb1179d32ae4330020ff?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Jul 09 |
 | **[HeyGen](https://www.heygen.com)** | **[Product Manager, New Graduate](https://jobright.ai/jobs/info/686e3b5555962911d17acd68?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jul 09 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Fellow - Product Development and Procurement](https://jobright.ai/jobs/info/687742f4299cbc74b8765e42?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jul 08 |
@@ -94,6 +93,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2025Fall Starts (BS/MS)](https://jobright.ai/jobs/info/6875d691ae2f413e4a5aa0c4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 07 |
 | **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68732234a5ae807a59d07d2d?utm_campaign=1047&utm_source=git)** | Quincy, IL | On Site | Jul 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Fall Starts ((MBA)](https://jobright.ai/jobs/info/684be6c9a0e956a8afae5e08?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 06 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6873383906ad7073463ce518?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 05 |
 | **[Johns Manville](http://www.jm.com/)** | **[Product Management Co-Op / Intern](https://jobright.ai/jobs/info/6866d1e880abf94b253f9775?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
