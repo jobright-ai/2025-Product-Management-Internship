@@ -93,5 +93,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2025Fall Starts (BS/MS)](https://jobright.ai/jobs/info/6875d691ae2f413e4a5aa0c4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 07 |
 | **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68732234a5ae807a59d07d2d?utm_campaign=1047&utm_source=git)** | Quincy, IL | On Site | Jul 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Fall Starts ((MBA)](https://jobright.ai/jobs/info/684be6c9a0e956a8afae5e08?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 06 |
-| **[Johns Manville](http://www.jm.com/)** | **[Product Management Co-Op / Intern](https://jobright.ai/jobs/info/6866d1e880abf94b253f9775?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
