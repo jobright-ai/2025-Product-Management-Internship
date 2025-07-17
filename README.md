@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IGT](http://www.probability.co.uk)** | **[Product Manager Intern](https://jobright.ai/jobs/info/687912e0ed63844c944985d6?utm_campaign=1047&utm_source=git)** | Las Vegas, NV | On Site | Jul 17 |
+| **[Bobcat Company](https://www.bobcat.com)** | **[2025 Ecommerce Development Student Experience](https://jobright.ai/jobs/info/685c495a5279b12c1551b8ce?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Jul 17 |
 | **[Emazing Group - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[iHeartRaves Buying Intern](https://jobright.ai/jobs/info/6878432e5cebcd1dd51d8c3f?utm_campaign=1047&utm_source=git)** | Anaheim, CA | On Site | Jul 16 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Product Manager Support)](https://jobright.ai/jobs/info/685b43debc23eac2e2129f1e?utm_campaign=1047&utm_source=git)** | Pensacola, FL | Hybrid | Jul 16 |
 | **[Businessolver](https://www.businessolver.com)** | **[Product Manager Internship (Product Team)](https://jobright.ai/jobs/info/685b1f1b4ce353f86aa313d8?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 16 |
@@ -85,7 +87,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (TikTok-Product-Open Platform) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6873322806ad7073463ce1da?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 08 |
 | **[HeyGen](https://www.heygen.com)** | **[Product Manager, New Graduate](https://jobright.ai/jobs/info/686de5fc2f7337a591dd4f66?utm_campaign=1047&utm_source=git)** | Los Angeles | On Site | Jul 08 |
 | **[AMETEK](http://www.ametek.com)** | **[Intern-Product Management](https://jobright.ai/jobs/info/686d1815e3ddac26382e3680?utm_campaign=1047&utm_source=git)** | Wayne, NJ | On Site | Jul 08 |
-| ↳ | **[Intern-Product Management](https://jobright.ai/jobs/info/6850b4580062ff9d1c07b855?utm_campaign=1047&utm_source=git)** | Wayne, NJ | On Site | Jul 08 |
 | **[ASUS](https://www.asus.com)** | **[Product Manager Assistant (Seasonal Internship)](https://jobright.ai/jobs/info/686cd62e303f7f63cb03f993?utm_campaign=1047&utm_source=git)** | Fremont, CA | On Site | Jul 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6875e706299cbc74b8758bd3?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 07 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Fall Starts (BS/MS)](https://jobright.ai/jobs/info/6875cfbd5cebcd1dd51c3abc?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 07 |
