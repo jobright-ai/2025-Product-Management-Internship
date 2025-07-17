@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Dermalogica](http://www.dermalogica.com/)** | **[Intern - Global Product Development](https://jobright.ai/jobs/info/6877e0c05cebcd1dd51d5c07?utm_campaign=1047&utm_source=git)** | Carson, CA | Hybrid | Jul 16 |
+| **[Emazing Group - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[iHeartRaves Buying Intern](https://jobright.ai/jobs/info/6878432e5cebcd1dd51d8c3f?utm_campaign=1047&utm_source=git)** | Anaheim, CA | On Site | Jul 16 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Product Manager Support)](https://jobright.ai/jobs/info/685b43debc23eac2e2129f1e?utm_campaign=1047&utm_source=git)** | Pensacola, FL | Hybrid | Jul 16 |
 | **[Businessolver](https://www.businessolver.com)** | **[Product Manager Internship (Product Team)](https://jobright.ai/jobs/info/685b1f1b4ce353f86aa313d8?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 16 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Product & Digital Content Intern](https://jobright.ai/jobs/info/6876aacbae2f413e4a5b225c?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 15 |
