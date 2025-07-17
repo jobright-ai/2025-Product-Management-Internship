@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Intern](https://jobright.ai/jobs/info/68793209ed63844c944997f0?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jul 17 |
 | **[IGT](http://www.probability.co.uk)** | **[Product Manager Intern](https://jobright.ai/jobs/info/687912e0ed63844c944985d6?utm_campaign=1047&utm_source=git)** | Las Vegas, NV | On Site | Jul 17 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Ecommerce Development Student Experience](https://jobright.ai/jobs/info/685c495a5279b12c1551b8ce?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Jul 17 |
 | **[Emazing Group - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[iHeartRaves Buying Intern](https://jobright.ai/jobs/info/6878432e5cebcd1dd51d8c3f?utm_campaign=1047&utm_source=git)** | Anaheim, CA | On Site | Jul 16 |
