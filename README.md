@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Product Management Intern (Year-Round)](https://jobright.ai/jobs/info/687a6c4bed63844c944a2ee5?utm_campaign=1047&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Jul 18 |
+| **[Tyson Foods](http://tysonfoods.com)** | **[Product Management Intern (Year-Round)](https://jobright.ai/jobs/info/687a9a7fed63844c944a43e0?utm_campaign=1047&utm_source=git)** | Springdale, AR | On Site | Jul 18 |
+| ↳ | **[Product Management Intern (Year-Round)](https://jobright.ai/jobs/info/687a6c4bed63844c944a2ee5?utm_campaign=1047&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Jul 18 |
 | **[Dematic](http://www.dematic.com)** | **[Engineering and Product Management Intern](https://jobright.ai/jobs/info/68793e122097a271a8975b8e?utm_campaign=1047&utm_source=git)** | Wauwatosa, WI | On Site | Jul 17 |
 | ↳ | **[Engineering and Product Management Intern](https://jobright.ai/jobs/info/68793237a7fc8904e3960a4e?utm_campaign=1047&utm_source=git)** | Wauwatosa, WI, United States | On Site | Jul 17 |
 | **[IGT](http://www.probability.co.uk)** | **[Product Manager Intern](https://jobright.ai/jobs/info/687912e0ed63844c944985d6?utm_campaign=1047&utm_source=git)** | Las Vegas, NV | On Site | Jul 17 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[Emazing Group - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[iHeartRaves Buying Intern](https://jobright.ai/jobs/info/6878432e5cebcd1dd51d8c3f?utm_campaign=1047&utm_source=git)** | Anaheim, CA | On Site | Jul 16 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Product Manager Support)](https://jobright.ai/jobs/info/685b43debc23eac2e2129f1e?utm_campaign=1047&utm_source=git)** | Pensacola, FL | Hybrid | Jul 16 |
 | **[Businessolver](https://www.businessolver.com)** | **[Product Manager Internship (Product Team)](https://jobright.ai/jobs/info/685b1f1b4ce353f86aa313d8?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 16 |
-| **[TikTok](https://www.tiktok.com)** | **[Product manager Intern (Music Discovery) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6879f51c2097a271a897c168?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 15 |
 | **[Atmosfy](https://atmosfy.io)** | **[Product Research Intern](https://jobright.ai/jobs/info/68742aa701889204ff8f614f?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 15 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Product & Digital Content Intern](https://jobright.ai/jobs/info/6876aacbae2f413e4a5b225c?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 15 |
 | **[ComboCurve](https://www.combocurve.com/)** | **[Product Solutions Engineering Intern](https://jobright.ai/jobs/info/687696aa299cbc74b875e6b4?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 15 |
