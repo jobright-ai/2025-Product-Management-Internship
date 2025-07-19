@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Intern](https://jobright.ai/jobs/info/687b0906ed63844c944a66c1?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jul 18 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Food Science Return Internship – Product Development – Summer 2026](https://jobright.ai/jobs/info/687aa3522097a271a8980865?utm_campaign=1047&utm_source=git)** | Omaha, Nebraska | Hybrid | Jul 18 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Product Management Intern (Year-Round)](https://jobright.ai/jobs/info/687a9a7fed63844c944a43e0?utm_campaign=1047&utm_source=git)** | Springdale, AR | On Site | Jul 18 |
 | ↳ | **[Product Management Intern (Year-Round)](https://jobright.ai/jobs/info/687a6c2fed63844c944a2ecc?utm_campaign=1047&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Jul 18 |
