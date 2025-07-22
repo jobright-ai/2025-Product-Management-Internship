@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hypergiant](https://www.hypergiant.com/sensory-sciences/)** | **[SkillBridge Internship (Product Manager)](https://jobright.ai/jobs/info/687e9b97764c3d7411c44cf1?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Jul 21 |
+| **[Hypergiant](https://www.hypergiant.com/sensory-sciences/)** | **[SkillBridge Internship (Product Manager)](https://jobright.ai/jobs/info/687e53a9764c3d7411c42b3d?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Jul 21 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall 2025 Product Development Internship](https://jobright.ai/jobs/info/687e529c764c3d7411c42ae6?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jul 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/687b337c764c3d7411c314c5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product Infrastructure)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687606e65cebcd1dd51c5dce?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 20 |
@@ -74,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Music Discovery) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6879c9542097a271a897a438?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 18 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Product Management Intern (Year-Round)](https://jobright.ai/jobs/info/687a6c4bed63844c944a2ee5?utm_campaign=1047&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Jul 18 |
 | **[Atmosfy](https://atmosfy.io)** | **[Product Research Intern](https://jobright.ai/jobs/info/68742aa701889204ff8f614f?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 18 |
-| **[Dematic](http://www.dematic.com)** | **[Engineering and Product Management Intern](https://jobright.ai/jobs/info/68793e122097a271a8975b8e?utm_campaign=1047&utm_source=git)** | Wauwatosa, WI | On Site | Jul 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (TikTok-PGC) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/68786f2fae2f413e4a5c29ef?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 18 |
 | **[Dematic](http://www.dematic.com)** | **[Engineering and Product Management Intern](https://jobright.ai/jobs/info/68793237a7fc8904e3960a4e?utm_campaign=1047&utm_source=git)** | Wauwatosa, WI, United States | On Site | Jul 17 |
 | **[IGT](http://www.probability.co.uk)** | **[Product Manager Intern](https://jobright.ai/jobs/info/687912e0ed63844c944985d6?utm_campaign=1047&utm_source=git)** | Las Vegas, NV | On Site | Jul 17 |
