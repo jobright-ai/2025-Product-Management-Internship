@@ -72,7 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Food Science Return Internship – Product Development – Summer 2026](https://jobright.ai/jobs/info/687aa3522097a271a8980865?utm_campaign=1047&utm_source=git)** | Omaha, Nebraska | Hybrid | Jul 18 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Product Management Intern (Year-Round)](https://jobright.ai/jobs/info/687bbcdded63844c944ab3c0?utm_campaign=1047&utm_source=git)** | Springdale, AR | On Site | Jul 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Music Discovery) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6879c9542097a271a897a438?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 18 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Product Management Intern (Year-Round)](https://jobright.ai/jobs/info/687a6c2fed63844c944a2ecc?utm_campaign=1047&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Jul 18 |
+| **[Tyson Foods](http://tysonfoods.com)** | **[Product Management Intern (Year-Round)](https://jobright.ai/jobs/info/687a6c4bed63844c944a2ee5?utm_campaign=1047&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Jul 18 |
 | **[Atmosfy](https://atmosfy.io)** | **[Product Research Intern](https://jobright.ai/jobs/info/68742aa701889204ff8f614f?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 18 |
 | **[Dematic](http://www.dematic.com)** | **[Engineering and Product Management Intern](https://jobright.ai/jobs/info/68793e122097a271a8975b8e?utm_campaign=1047&utm_source=git)** | Wauwatosa, WI | On Site | Jul 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (TikTok-PGC) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/68786f2fae2f413e4a5c29ef?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 18 |
@@ -110,5 +110,4 @@ For a complete list, click the following sortable link below:
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Fellow - Product Development and Procurement](https://jobright.ai/jobs/info/687742f4299cbc74b8765e42?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jul 08 |
 | **[HeyGen](https://www.heygen.com)** | **[Product Manager, New Graduate](https://jobright.ai/jobs/info/686de5fc2f7337a591dd4f66?utm_campaign=1047&utm_source=git)** | Los Angeles | On Site | Jul 08 |
 | **[AMETEK](http://www.ametek.com)** | **[Intern-Product Management](https://jobright.ai/jobs/info/686d1815e3ddac26382e3680?utm_campaign=1047&utm_source=git)** | Wayne, NJ | On Site | Jul 08 |
-| **[ASUS](https://www.asus.com)** | **[Product Manager Assistant (Seasonal Internship)](https://jobright.ai/jobs/info/686cd62e303f7f63cb03f993?utm_campaign=1047&utm_source=git)** | Fremont, CA | On Site | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
