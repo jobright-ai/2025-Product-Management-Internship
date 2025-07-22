@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hypergiant](https://www.hypergiant.com/sensory-sciences/)** | **[SkillBridge Internship (Product Manager)](https://jobright.ai/jobs/info/687e9b97764c3d7411c44cf1?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Jul 21 |
+| **[Bobcat Company](https://www.bobcat.com)** | **[2025 Product Management Student Experience](https://jobright.ai/jobs/info/68634e1fa95141c2a0f504e3?utm_campaign=1047&utm_source=git)** | Johnson Creek, WI | On Site | Jul 22 |
+| **[Hypergiant](https://www.hypergiant.com/sensory-sciences/)** | **[SkillBridge Internship (Product Manager)](https://jobright.ai/jobs/info/687e53a9764c3d7411c42b3d?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Jul 21 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall 2025 Product Development Internship](https://jobright.ai/jobs/info/687e529c764c3d7411c42ae6?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jul 21 |
 | **[Komatsu](http://www.ehrbar.com)** | **[Product & Service Development Associate- Chicago, IL](https://jobright.ai/jobs/info/687ee9682097a271a8998d6e?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Jul 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/687b337c764c3d7411c314c5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 21 |
