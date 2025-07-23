@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAP](https://www.sap.com)** | **[SAP Emarsys iXp Intern - Product Management for Communication Channels](https://jobright.ai/jobs/info/688076b02097a271a89a4ff9?utm_campaign=1047&utm_source=git)** | Newtown Square, PA | Hybrid | Jul 22 |
 | **[Jobright.ai](https://jobright.ai)** | **[Product & Digital Content Intern, Internship, (Remote)](https://jobright.ai/jobs/info/68800c94764c3d7411c4ec69?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 22 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Product Development Intern, Beverage (early September through mid-December)](https://jobright.ai/jobs/info/6863767dd9418499feff5d43?utm_campaign=1047&utm_source=git)** | Needham, MA | Hybrid | Jul 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687b9080ed63844c944a8f82?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 22 |
@@ -80,7 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Food Science Return Internship – Product Development – Summer 2026](https://jobright.ai/jobs/info/687aa3522097a271a8980865?utm_campaign=1047&utm_source=git)** | Omaha, Nebraska | Hybrid | Jul 18 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Product Management Intern (Year-Round)](https://jobright.ai/jobs/info/687bbcdded63844c944ab3c0?utm_campaign=1047&utm_source=git)** | Springdale, AR | On Site | Jul 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Music Discovery) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6879c9542097a271a897a438?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 18 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Product Management Intern (Year-Round)](https://jobright.ai/jobs/info/687a6c4bed63844c944a2ee5?utm_campaign=1047&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Jul 18 |
+| **[Tyson Foods](http://tysonfoods.com)** | **[Product Management Intern (Year-Round)](https://jobright.ai/jobs/info/687a6c2fed63844c944a2ecc?utm_campaign=1047&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Jul 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (TikTok-PGC) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/68786f2fae2f413e4a5c29ef?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 18 |
 | **[GigHQ.ai](https://www.gighq.ai)** | **[Growth and Product Intern](https://jobright.ai/jobs/info/687b8b95764c3d7411c338d5?utm_campaign=1047&utm_source=git)** | Austin, TX | Remote | Jul 17 |
 | **[Businessolver](https://www.businessolver.com)** | **[Product Manager Internship (Product Team)](https://jobright.ai/jobs/info/685b2ae1e6572e3ac416c54c?utm_campaign=1047&utm_source=git)** | Work Remotely Anywhere in the U.S. | Remote | Jul 17 |
