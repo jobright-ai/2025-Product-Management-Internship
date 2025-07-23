@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ASM](https://www.asm.com)** | **[Global Product Operations Intern (Fall 2025)](https://jobright.ai/jobs/info/6880fac1f4f06100f3a22a10?utm_campaign=1047&utm_source=git)** | Greater Phoenix Area | On Site | Jul 23 |
 | **[SAP](https://www.sap.com)** | **[SAP Emarsys iXp Intern - Product Management for Communication Channels](https://jobright.ai/jobs/info/688076b02097a271a89a4ff9?utm_campaign=1047&utm_source=git)** | Newtown Square, PA | Hybrid | Jul 22 |
 | **[Jobright.ai](https://jobright.ai)** | **[Product & Digital Content Intern, Internship, (Remote)](https://jobright.ai/jobs/info/68800c94764c3d7411c4ec69?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 22 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Product Development Intern, Beverage (early September through mid-December)](https://jobright.ai/jobs/info/6863767dd9418499feff5d43?utm_campaign=1047&utm_source=git)** | Needham, MA | Hybrid | Jul 22 |
