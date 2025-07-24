@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Complama](www.complama.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68816a2516ea5743a3738f18?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 23 |
+| **[Complama](www.complama.com)** | **[Product Management Intern (Fall 2025)](https://jobright.ai/jobs/info/68816a2516ea5743a3738f18?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Jul 23 |
 | **[Creatorain](creatorain.com)** | **[Product Manager Fellowship (UCLA - Hybrid)](https://jobright.ai/jobs/info/688162a529ad6b2744ae1bb2?utm_campaign=1047&utm_source=git)** | LA Metro Area | Hybrid | Jul 23 |
 | **[Anker Innovations LTD](https://us.anker.com/)** | **[GTM Intern](https://jobright.ai/jobs/info/6881589a29ad6b2744ae1793?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Jul 23 |
 | **[Creatorain](creatorain.com)** | **[Product Manager Fellowship (Cornell Tech Campus- Hybrid)](https://jobright.ai/jobs/info/6881502029ad6b2744ae116f?utm_campaign=1047&utm_source=git)** | NYC Metro Area | Hybrid | Jul 23 |
@@ -68,7 +68,7 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Product Development Intern, Beverage (early September through mid-December)](https://jobright.ai/jobs/info/6863767dd9418499feff5d43?utm_campaign=1047&utm_source=git)** | Needham, MA | Hybrid | Jul 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687b9080ed63844c944a8f82?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 22 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Product Management Student Experience](https://jobright.ai/jobs/info/68634e1fa95141c2a0f504e3?utm_campaign=1047&utm_source=git)** | Johnson Creek, WI | On Site | Jul 22 |
-| **[Hypergiant](https://www.hypergiant.com/sensory-sciences/)** | **[SkillBridge Internship (Product Manager)](https://jobright.ai/jobs/info/687e53a9764c3d7411c42b3d?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Jul 21 |
+| **[Hypergiant](https://www.hypergiant.com/sensory-sciences/)** | **[SkillBridge Internship (Product Manager)](https://jobright.ai/jobs/info/687e9b97764c3d7411c44cf1?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Jul 21 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall 2025 Product Development Internship](https://jobright.ai/jobs/info/687e529c764c3d7411c42ae6?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jul 21 |
 | **[Komatsu](http://www.ehrbar.com)** | **[Product & Service Development Associate- Chicago, IL](https://jobright.ai/jobs/info/687ee9682097a271a8998d6e?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Jul 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/687b337c764c3d7411c314c5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 21 |
@@ -90,5 +90,4 @@ For a complete list, click the following sortable link below:
 | **[Tyson Foods](http://tysonfoods.com)** | **[Product Management Intern (Year-Round)](https://jobright.ai/jobs/info/687a6c4bed63844c944a2ee5?utm_campaign=1047&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Jul 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (TikTok-PGC) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/68786f2fae2f413e4a5c29ef?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 18 |
 | **[GigHQ.ai](https://www.gighq.ai)** | **[Growth and Product Intern](https://jobright.ai/jobs/info/687b8b95764c3d7411c338d5?utm_campaign=1047&utm_source=git)** | Austin, TX | Remote | Jul 17 |
-| **[Businessolver](https://www.businessolver.com)** | **[Product Manager Internship (Product Team)](https://jobright.ai/jobs/info/685b2ae1e6572e3ac416c54c?utm_campaign=1047&utm_source=git)** | Work Remotely Anywhere in the U.S. | Remote | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
