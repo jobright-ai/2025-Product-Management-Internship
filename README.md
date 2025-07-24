@@ -93,5 +93,4 @@ For a complete list, click the following sortable link below:
 | **[GigHQ.ai](https://www.gighq.ai)** | **[Growth and Product Intern](https://jobright.ai/jobs/info/687b8b95764c3d7411c338d5?utm_campaign=1047&utm_source=git)** | Austin, TX | Remote | Jul 17 |
 | **[Businessolver](https://www.businessolver.com)** | **[Product Manager Internship (Product Team)](https://jobright.ai/jobs/info/685b2ae1e6572e3ac416c54c?utm_campaign=1047&utm_source=git)** | Work Remotely Anywhere in the U.S. | Remote | Jul 17 |
 | **[Dematic](http://www.dematic.com)** | **[Engineering and Product Management Intern](https://jobright.ai/jobs/info/68793237a7fc8904e3960a4e?utm_campaign=1047&utm_source=git)** | Wauwatosa, WI, United States | On Site | Jul 17 |
-| **[IGT](http://www.probability.co.uk)** | **[Product Manager Intern](https://jobright.ai/jobs/info/687912e0ed63844c944985d6?utm_campaign=1047&utm_source=git)** | Las Vegas, NV | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
