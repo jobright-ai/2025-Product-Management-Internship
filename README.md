@@ -59,8 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Arcade](https://www.arcade.ai)** | **[Intern, Associate Product Manager](https://jobright.ai/jobs/info/6882eb456fcd973d15add279?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jul 24 |
 | **[Sparrow](https://www.sparrowup.com)** | **[Computer Science -> AI Product Management Internship](https://jobright.ai/jobs/info/6882fe796fcd973d15addfaa?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 24 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Product Management Intern](https://jobright.ai/jobs/info/68828fb4835a903aa07eee4d?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Arcade](https://www.arcade.ai)** | **[Intern, Associate Product Manager](https://jobright.ai/jobs/info/6882854c6fcd973d15ad9a0a?utm_campaign=1047&utm_source=git)** | Presidio, CA | Hybrid | Jul 24 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Product Management Intern](https://jobright.ai/jobs/info/68829e6b6fcd973d15adb010?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Dermalogica](http://www.dermalogica.com/)** | **[Intern - Global Product Development](https://jobright.ai/jobs/info/688270bf6fcd973d15ad9308?utm_campaign=1047&utm_source=git)** | Carson, CA | Hybrid | Jul 24 |
 | **[Creatorain](creatorain.com)** | **[Product Manager Fellowship (UCLA - Hybrid)](https://jobright.ai/jobs/info/688162a529ad6b2744ae1bb2?utm_campaign=1047&utm_source=git)** | LA Metro Area | Hybrid | Jul 23 |
 | **[Complama](www.complama.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68816a2516ea5743a3738f18?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 23 |
@@ -92,5 +92,4 @@ For a complete list, click the following sortable link below:
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Food Science Return Internship – Product Development – Summer 2026](https://jobright.ai/jobs/info/687aa3522097a271a8980865?utm_campaign=1047&utm_source=git)** | Omaha, Nebraska | Hybrid | Jul 18 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Product Management Intern (Year-Round)](https://jobright.ai/jobs/info/687bbcdded63844c944ab3c0?utm_campaign=1047&utm_source=git)** | Springdale, AR | On Site | Jul 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Music Discovery) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6879c9542097a271a897a438?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 18 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Product Management Intern (Year-Round)](https://jobright.ai/jobs/info/687a6c2fed63844c944a2ecc?utm_campaign=1047&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
