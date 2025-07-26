@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Skillsoft](http://www.skillsoft.com)** | **[Summer Intern - AI Product Manager](https://jobright.ai/jobs/info/6884e744fbbf032d0006b59f?utm_campaign=1047&utm_source=git)** | US - Remote | Remote | Jul 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2025Fall Starts (BS/MS)](https://jobright.ai/jobs/info/6875d691ae2f413e4a5aa0c4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 26 |
 | **[Jobright.ai](https://jobright.ai)** | **[Product Analyst I - Internship](https://jobright.ai/jobs/info/6884a352b651c92cb78aa0c8?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Fall Starts (BS/MS)](https://jobright.ai/jobs/info/6875cfbd5cebcd1dd51c3abc?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 26 |
@@ -75,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Arcade](https://www.arcade.ai)** | **[Intern, Associate Product Manager](https://jobright.ai/jobs/info/6882eb456fcd973d15add279?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jul 24 |
 | **[ZWILLING J.A. Henckels LLC](https://www.zwilling.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/688445d04174df41e0f90b86?utm_campaign=1047&utm_source=git)** | Pleasantville, NY | On Site | Jul 24 |
 | **[Sparrow](https://www.sparrowup.com)** | **[Computer Science -> AI Product Management Internship](https://jobright.ai/jobs/info/6882fe796fcd973d15addfaa?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 24 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Product Management Intern](https://jobright.ai/jobs/info/68828fb4835a903aa07eee4d?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Arcade](https://www.arcade.ai)** | **[Intern, Associate Product Manager](https://jobright.ai/jobs/info/6882854c6fcd973d15ad9a0a?utm_campaign=1047&utm_source=git)** | Presidio, CA | Hybrid | Jul 24 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Product Management Intern](https://jobright.ai/jobs/info/68829e6b6fcd973d15adb010?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Dermalogica](http://www.dermalogica.com/)** | **[Intern - Global Product Development](https://jobright.ai/jobs/info/688270bf6fcd973d15ad9308?utm_campaign=1047&utm_source=git)** | Carson, CA | Hybrid | Jul 24 |
 | **[Complama](www.complama.com)** | **[Product Management Intern (Fall 2025)](https://jobright.ai/jobs/info/68816a2516ea5743a3738f18?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Jul 24 |
 | **[Creatorain](creatorain.com)** | **[Product Manager Fellowship (UCLA - Hybrid)](https://jobright.ai/jobs/info/688162a529ad6b2744ae1bb2?utm_campaign=1047&utm_source=git)** | LA Metro Area | Hybrid | Jul 23 |
