@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jobright.ai](https://jobright.ai)** | **[Product Analyst I - Internship](https://jobright.ai/jobs/info/6884a352b651c92cb78aa0c8?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 26 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Fall Starts (BS/MS)](https://jobright.ai/jobs/info/6875cfbd5cebcd1dd51c3abc?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 26 |
 | **[Jobright.ai](https://jobright.ai)** | **[Product Innovation Intern, Internship](https://jobright.ai/jobs/info/68846cffb651c92cb78a857a?utm_campaign=1047&utm_source=git)** | Costa Mesa, CA | Hybrid | Jul 25 |
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Product Innovation Intern - Hybrid](https://jobright.ai/jobs/info/68843fa44174df41e0f9063a?utm_campaign=1047&utm_source=git)** | Costa Mesa, CA | Hybrid | Jul 25 |
 | **[Jobright.ai](https://jobright.ai)** | **[Product Development Intern - Internship](https://jobright.ai/jobs/info/6884561efbbf032d00067a97?utm_campaign=1047&utm_source=git)** | Denver, CO | On Site | Jul 25 |
@@ -86,7 +88,7 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Product Development Intern, Beverage (early September through mid-December)](https://jobright.ai/jobs/info/6863767dd9418499feff5d43?utm_campaign=1047&utm_source=git)** | Needham, MA | Hybrid | Jul 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687b9080ed63844c944a8f82?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 22 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Product Management Student Experience](https://jobright.ai/jobs/info/68634e1fa95141c2a0f504e3?utm_campaign=1047&utm_source=git)** | Johnson Creek, WI | On Site | Jul 22 |
-| **[Hypergiant](https://www.hypergiant.com/sensory-sciences/)** | **[SkillBridge Internship (Product Manager)](https://jobright.ai/jobs/info/687e9b97764c3d7411c44cf1?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Jul 21 |
+| **[Hypergiant](https://www.hypergiant.com/sensory-sciences/)** | **[SkillBridge Internship (Product Manager)](https://jobright.ai/jobs/info/687e53a9764c3d7411c42b3d?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Jul 21 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall 2025 Product Development Internship](https://jobright.ai/jobs/info/687e529c764c3d7411c42ae6?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jul 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/687b337c764c3d7411c314c5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 21 |
 | **[Workato](http://www.workato.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/687fc58d764c3d7411c4cf4a?utm_campaign=1047&utm_source=git)** | Palo Alto, California | On Site | Jul 20 |
