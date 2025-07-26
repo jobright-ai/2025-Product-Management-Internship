@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Product Innovation Intern - Hybrid](https://jobright.ai/jobs/info/6884319cb54cac0f1e73c99b?utm_campaign=1047&utm_source=git)** | Costa Mesa, CA,  Remote | Hybrid | Jul 25 |
-| **[GoldBug](http://goldbuginc.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68840cbcb54cac0f1e73bc58?utm_campaign=1047&utm_source=git)** | Denver, CO | On Site | Jul 25 |
 | **[Zwilling J.A. Henckels (Vietnam)](http://zwilling.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/6883f2e06fcd973d15ae4b66?utm_campaign=1047&utm_source=git)** | Pleasantville, NY | On Site | Jul 25 |
+| **[GoldBug](http://goldbuginc.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68840cbcb54cac0f1e73bc58?utm_campaign=1047&utm_source=git)** | Denver, CO | On Site | Jul 25 |
+| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Product Innovation Intern - Hybrid](https://jobright.ai/jobs/info/68843fa44174df41e0f9063a?utm_campaign=1047&utm_source=git)** | Costa Mesa, CA | Hybrid | Jul 25 |
+| ↳ | **[Product Innovation Intern - Hybrid](https://jobright.ai/jobs/info/688434e66fcd973d15ae655b?utm_campaign=1047&utm_source=git)** | Los Angeles, CA,  Remote | Hybrid | Jul 25 |
+| ↳ | **[Product Innovation Intern - Hybrid](https://jobright.ai/jobs/info/6884319cb54cac0f1e73c99b?utm_campaign=1047&utm_source=git)** | Costa Mesa, CA,  Remote | Hybrid | Jul 25 |
 | **[OLIVER CHRISTIAN HEROLD](https://www.oliverchristianherold.com/)** | **[🚨 Product Development / Fitting Assistant – Fashion Internship (NYC-Based / Part-Time / College Credit Eligible)](https://jobright.ai/jobs/info/6883e82e835a903aa07f8b4b?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jul 25 |
+| **[Retrofête](https://retrofete.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/688450f5b651c92cb78a6b40?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Jul 25 |
 | **[Endpointech](https://www.endpointech.com/)** | **[Software Promoter & Product Evangelist](https://jobright.ai/jobs/info/6883b248835a903aa07f6dfb?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 25 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Fellow - Product Development and Procurement](https://jobright.ai/jobs/info/688322a06fcd973d15adfb0a?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jul 25 |
 | **[Arcade](https://www.arcade.ai)** | **[Intern, Associate Product Manager](https://jobright.ai/jobs/info/6882eb456fcd973d15add279?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jul 24 |
+| **[ZWILLING J.A. Henckels LLC](http://www.zwilling.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/688445d04174df41e0f90b86?utm_campaign=1047&utm_source=git)** | Pleasantville, NY | On Site | Jul 24 |
 | **[Sparrow](https://www.sparrowup.com)** | **[Computer Science -> AI Product Management Internship](https://jobright.ai/jobs/info/6882fe796fcd973d15addfaa?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Product Management Intern](https://jobright.ai/jobs/info/68828fb4835a903aa07eee4d?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Arcade](https://www.arcade.ai)** | **[Intern, Associate Product Manager](https://jobright.ai/jobs/info/6882854c6fcd973d15ad9a0a?utm_campaign=1047&utm_source=git)** | Presidio, CA | Hybrid | Jul 24 |
@@ -79,8 +83,7 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Product Development Intern, Beverage (early September through mid-December)](https://jobright.ai/jobs/info/6863767dd9418499feff5d43?utm_campaign=1047&utm_source=git)** | Needham, MA | Hybrid | Jul 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687b9080ed63844c944a8f82?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 22 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Product Management Student Experience](https://jobright.ai/jobs/info/68634e1fa95141c2a0f504e3?utm_campaign=1047&utm_source=git)** | Johnson Creek, WI | On Site | Jul 22 |
-| **[Komatsu](http://www.ehrbar.com)** | **[Product & Service Development Associate- Chicago, IL](https://jobright.ai/jobs/info/6884313e835a903aa07faa45?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jul 21 |
-| **[Hypergiant](https://www.hypergiant.com/sensory-sciences/)** | **[SkillBridge Internship (Product Manager)](https://jobright.ai/jobs/info/687e53a9764c3d7411c42b3d?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Jul 21 |
+| **[Hypergiant](https://www.hypergiant.com/sensory-sciences/)** | **[SkillBridge Internship (Product Manager)](https://jobright.ai/jobs/info/687e9b97764c3d7411c44cf1?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Jul 21 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall 2025 Product Development Internship](https://jobright.ai/jobs/info/687e529c764c3d7411c42ae6?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jul 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/687b337c764c3d7411c314c5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 21 |
 | **[Workato](http://www.workato.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/687fc58d764c3d7411c4cf4a?utm_campaign=1047&utm_source=git)** | Palo Alto, California | On Site | Jul 20 |
@@ -94,5 +97,4 @@ For a complete list, click the following sortable link below:
 | **[Rippling](https://www.rippling.com)** | **[Product Lead Internship - Summer 2026](https://jobright.ai/jobs/info/687f04b4db19f31cf0d6efaf?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jul 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6875d799ae2f413e4a5aa1f7?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 19 |
 | **[Schaeffler](https://www.schaeffler.us)** | **[Co-Op - Product Management](https://jobright.ai/jobs/info/68737d224001e95011b1615d?utm_campaign=1047&utm_source=git)** | Strongsville, OH | On Site | Jul 19 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-PGC)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6879d6c6a7fc8904e39660de?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
