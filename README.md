@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Skillsoft](http://www.skillsoft.com)** | **[Summer Intern - AI Product Manager](https://jobright.ai/jobs/info/68850a1afbbf032d0006bba0?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 26 |
+| **[Jobright.ai](https://jobright.ai)** | **[AI Product Management Intern - Internship - (Remote)](https://jobright.ai/jobs/info/688586a1fbbf032d0006cae4?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 26 |
+| **[Skillsoft](http://www.skillsoft.com)** | **[Summer Intern - AI Product Manager](https://jobright.ai/jobs/info/6884e744fbbf032d0006b59f?utm_campaign=1047&utm_source=git)** | US - Remote | Remote | Jul 26 |
+| ↳ | **[Summer Intern - AI Product Manager](https://jobright.ai/jobs/info/68850a1afbbf032d0006bba0?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Jobright.ai](https://jobright.ai)** | **[Product Manager Intern (Internship)](https://jobright.ai/jobs/info/6885054db651c92cb78aae6c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 26 |
 | ↳ | **[Product Manager Intern, Internship](https://jobright.ai/jobs/info/6884ffc44174df41e0f95c27?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Fall Starts (BS/MS)](https://jobright.ai/jobs/info/6875cfbd5cebcd1dd51c3abc?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 26 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2025Fall Starts (BS/MS)](https://jobright.ai/jobs/info/6875d691ae2f413e4a5aa0c4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 26 |
-| **[Skillsoft](http://www.skillsoft.com)** | **[Summer Intern - AI Product Manager](https://jobright.ai/jobs/info/6884e744fbbf032d0006b59f?utm_campaign=1047&utm_source=git)** | US - Remote | Remote | Jul 26 |
 | **[Jobright.ai](https://jobright.ai)** | **[Product Analyst I - Internship](https://jobright.ai/jobs/info/6884a352b651c92cb78aa0c8?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 26 |
 | **[Jobright.ai](https://jobright.ai)** | **[Product Innovation Intern, Internship](https://jobright.ai/jobs/info/68846cffb651c92cb78a857a?utm_campaign=1047&utm_source=git)** | Costa Mesa, CA | Hybrid | Jul 25 |
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Product Innovation Intern - Hybrid](https://jobright.ai/jobs/info/68843fa44174df41e0f9063a?utm_campaign=1047&utm_source=git)** | Costa Mesa, CA | Hybrid | Jul 25 |
