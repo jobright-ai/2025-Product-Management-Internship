@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jobright.ai](https://jobright.ai)** | **[Chassis Product Manager - Internship](https://jobright.ai/jobs/info/688602744174df41e0f99928?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 27 |
 | **[Jobright.ai](https://jobright.ai)** | **[AI Product Management Intern - Internship - (Remote)](https://jobright.ai/jobs/info/688586a1fbbf032d0006cae4?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Skillsoft](http://www.skillsoft.com)** | **[Summer Intern - AI Product Manager](https://jobright.ai/jobs/info/6884e744fbbf032d0006b59f?utm_campaign=1047&utm_source=git)** | US - Remote | Remote | Jul 26 |
 | ↳ | **[Summer Intern - AI Product Manager](https://jobright.ai/jobs/info/68850a1afbbf032d0006bba0?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 26 |
