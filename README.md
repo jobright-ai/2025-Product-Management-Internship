@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integrate](https://integratebpd.com)** | **[Product Management Intern (Software Engineering)](https://jobright.ai/jobs/info/6887edd4fbbf032d0007789a?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 28 |
 | **[Fact Finders Pro](https://www.FactFindersPro.com)** | **[Intern Product & GTM Research Analyst](https://jobright.ai/jobs/info/6887c47f4174df41e0fa0543?utm_campaign=1047&utm_source=git)** | Seattle, WA | Remote | Jul 28 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Product Manager Internship at Pando Electric](https://jobright.ai/jobs/info/688769f673e3e13cbd93d9a2?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jul 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/687b322d764c3d7411c313bb?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 28 |
