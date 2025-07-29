@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Fydo](https://fydo.ai)** | **[Technical Product Intern (Fall 2025)](https://jobright.ai/jobs/info/68890af009808a6103e445ac?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 29 |
+| **[Adaptive Security](https://adaptivesecurity.com)** | **[AI Product Intern](https://jobright.ai/jobs/info/6889345c09808a6103e45c74?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jul 29 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Product Development Intern, Flavor (early September through mid-December)](https://jobright.ai/jobs/info/6888e5de09808a6103e4350f?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | Jul 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Privacy and Responsibility) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/687b7269764c3d7411c32c95?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 29 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/687b8290764c3d7411c33403?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 29 |
@@ -81,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Product Innovation Intern - Hybrid](https://jobright.ai/jobs/info/6887fbd2fbbf032d00077f37?utm_campaign=1047&utm_source=git)** | Costa Mesa, CA,  Remote | Hybrid | Jul 25 |
 | ↳ | **[Product Innovation Intern - Hybrid](https://jobright.ai/jobs/info/6887fc1673e3e13cbd9419ed?utm_campaign=1047&utm_source=git)** | Los Angeles, CA,  Remote | Hybrid | Jul 25 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/68850c3afbbf032d0006bcf7?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Jul 25 |
-| **[Retrofête](https://retrofete.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/688450f5b651c92cb78a6b40?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Jul 25 |
 | **[Endpointech](https://www.endpointech.com/)** | **[Software Promoter & Product Evangelist](https://jobright.ai/jobs/info/6883b248835a903aa07f6dfb?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Workato](http://www.workato.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/686ff1a1a5ae807a59cf47be?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Jul 25 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Fellow - Product Development and Procurement](https://jobright.ai/jobs/info/688322a06fcd973d15adfb0a?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jul 25 |
