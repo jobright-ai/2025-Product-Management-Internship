@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Graduate (TikTok Shop Logistics Fulfillment Experience) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6888480873e3e13cbd943b1b?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
+| ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6888460173e3e13cbd9439fc?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
+| ↳ | **[Product Manager Intern (TikTok Shop Seller Risk/Performance Score Product) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/68883daafbbf032d00079852?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
+| ↳ | **[Product Manager Intern (TikTok Shop Operation Product, CRM) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68883c504174df41e0fa3b1d?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
+| ↳ | **[Product Manager Intern (TikTok Shop, Merchandise Growth) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68883844fbbf032d0007969e?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
+| ↳ | **[Product Manager Intern (TikTok Shop IPR Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688835be73e3e13cbd942feb?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Product Management Intern](https://jobright.ai/jobs/info/68829e6b6fcd973d15adb010?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 28 |
 | **[Integrate](https://integratebpd.com)** | **[Product Management Intern (Software Engineering)](https://jobright.ai/jobs/info/6887edd4fbbf032d0007789a?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 28 |
-| **[Fact Finders Pro](https://www.FactFindersPro.com)** | **[Intern Product & GTM Research Analyst](https://jobright.ai/jobs/info/6887c47f4174df41e0fa0543?utm_campaign=1047&utm_source=git)** | Seattle, WA | Remote | Jul 28 |
-| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Product Manager Internship at Pando Electric](https://jobright.ai/jobs/info/688769f673e3e13cbd93d9a2?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Jul 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/687b322d764c3d7411c313bb?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 28 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Fall Starts ((MBA)](https://jobright.ai/jobs/info/684be6c9a0e956a8afae5e08?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 28 |
 | ↳ | **[Product Manager Intern (TikTok-Search) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/687b9375ed63844c944a94bb?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 28 |
@@ -69,8 +74,9 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Fall Starts (BS/MS)](https://jobright.ai/jobs/info/6875cfbd5cebcd1dd51c3abc?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 26 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2025Fall Starts (BS/MS)](https://jobright.ai/jobs/info/6875d691ae2f413e4a5aa0c4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 26 |
 | **[Zwilling J.A. Henckels (Vietnam)](http://zwilling.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/6883f2e06fcd973d15ae4b66?utm_campaign=1047&utm_source=git)** | Pleasantville, NY | On Site | Jul 25 |
+| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Product Innovation Intern - Hybrid](https://jobright.ai/jobs/info/6887fbd2fbbf032d00077f37?utm_campaign=1047&utm_source=git)** | Costa Mesa, CA,  Remote | Hybrid | Jul 25 |
+| ↳ | **[Product Innovation Intern - Hybrid](https://jobright.ai/jobs/info/6887fc1673e3e13cbd9419ed?utm_campaign=1047&utm_source=git)** | Los Angeles, CA,  Remote | Hybrid | Jul 25 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/68850c3afbbf032d0006bcf7?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Jul 25 |
-| **[OLIVER CHRISTIAN HEROLD](https://www.oliverchristianherold.com/)** | **[🚨 Product Development / Fitting Assistant – Fashion Internship (NYC-Based / Part-Time / College Credit Eligible)](https://jobright.ai/jobs/info/6883e82e835a903aa07f8b4b?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jul 25 |
 | **[Retrofête](https://retrofete.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/688450f5b651c92cb78a6b40?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Jul 25 |
 | **[Endpointech](https://www.endpointech.com/)** | **[Software Promoter & Product Evangelist](https://jobright.ai/jobs/info/6883b248835a903aa07f6dfb?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Workato](http://www.workato.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/686ff1a1a5ae807a59cf47be?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Jul 25 |
@@ -78,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Arcade](https://www.arcade.ai)** | **[Intern, Associate Product Manager](https://jobright.ai/jobs/info/6882eb456fcd973d15add279?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jul 24 |
 | **[ZWILLING J.A. Henckels LLC](https://www.zwilling.com/be-nl/demeyere/)** | **[Product Development Intern](https://jobright.ai/jobs/info/688445d04174df41e0f90b86?utm_campaign=1047&utm_source=git)** | Pleasantville, NY | On Site | Jul 24 |
 | **[Sparrow](https://www.sparrowup.com)** | **[Computer Science -> AI Product Management Internship](https://jobright.ai/jobs/info/6882fe796fcd973d15addfaa?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 24 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Product Management Intern](https://jobright.ai/jobs/info/68828fb4835a903aa07eee4d?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Arcade](https://www.arcade.ai)** | **[Intern, Associate Product Manager](https://jobright.ai/jobs/info/6882854c6fcd973d15ad9a0a?utm_campaign=1047&utm_source=git)** | Presidio, CA | Hybrid | Jul 24 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Product Management Intern](https://jobright.ai/jobs/info/68829e6b6fcd973d15adb010?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Dermalogica](http://www.dermalogica.com/)** | **[Intern - Global Product Development](https://jobright.ai/jobs/info/688270bf6fcd973d15ad9308?utm_campaign=1047&utm_source=git)** | Carson, CA | Hybrid | Jul 24 |
 | **[Complama](www.complama.com)** | **[Product Management Intern (Fall 2025)](https://jobright.ai/jobs/info/68816a2516ea5743a3738f18?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Jul 24 |
 | **[Creatorain](creatorain.com)** | **[Product Manager Fellowship (UCLA - Hybrid)](https://jobright.ai/jobs/info/688162a529ad6b2744ae1bb2?utm_campaign=1047&utm_source=git)** | LA Metro Area | Hybrid | Jul 23 |
@@ -89,6 +95,4 @@ For a complete list, click the following sortable link below:
 | **[ASM](https://www.asm.com)** | **[Global Product Operations Intern (Fall 2025)](https://jobright.ai/jobs/info/6880fac1f4f06100f3a22a10?utm_campaign=1047&utm_source=git)** | Greater Phoenix Area | On Site | Jul 23 |
 | **[SAP](https://www.sap.com)** | **[SAP Emarsys iXp Intern - Product Management for Communication Channels](https://jobright.ai/jobs/info/688076b02097a271a89a4ff9?utm_campaign=1047&utm_source=git)** | Newtown Square, PA | Hybrid | Jul 22 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Product Development Intern, Beverage (early September through mid-December)](https://jobright.ai/jobs/info/6863767dd9418499feff5d43?utm_campaign=1047&utm_source=git)** | Needham, MA | Hybrid | Jul 22 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687b9080ed63844c944a8f82?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 22 |
-| **[Bobcat Company](https://www.bobcat.com)** | **[2025 Product Management Student Experience](https://jobright.ai/jobs/info/68634e1fa95141c2a0f504e3?utm_campaign=1047&utm_source=git)** | Johnson Creek, WI | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
