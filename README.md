@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern - Search Ads - Fall 2025 (BS/ MS)](https://jobright.ai/jobs/info/688992fe9f961617fe215a5e?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 29 |
 | **[Anker Innovations LTD](https://us.anker.com/)** | **[GTM Intern](https://jobright.ai/jobs/info/6881589a29ad6b2744ae1793?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Jul 29 |
 | **[Hypergiant](https://www.hypergiant.com/sensory-sciences/)** | **[SkillBridge Internship (Product Manager)](https://jobright.ai/jobs/info/687e9b97764c3d7411c44cf1?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 29 |
 | **[Adaptive Security](https://adaptivesecurity.com)** | **[AI Product Intern](https://jobright.ai/jobs/info/6889345c09808a6103e45c74?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jul 29 |
@@ -80,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Fall Starts (BS/MS)](https://jobright.ai/jobs/info/6875cfbd5cebcd1dd51c3abc?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 26 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2025Fall Starts (BS/MS)](https://jobright.ai/jobs/info/6875d691ae2f413e4a5aa0c4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 26 |
 | **[Zwilling J.A. Henckels (Vietnam)](http://zwilling.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/6883f2e06fcd973d15ae4b66?utm_campaign=1047&utm_source=git)** | Pleasantville, NY | On Site | Jul 25 |
-| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Product Innovation Intern - Hybrid](https://jobright.ai/jobs/info/6887fbd2fbbf032d00077f37?utm_campaign=1047&utm_source=git)** | Costa Mesa, CA,  Remote | Hybrid | Jul 25 |
-| ↳ | **[Product Innovation Intern - Hybrid](https://jobright.ai/jobs/info/6887fc1673e3e13cbd9419ed?utm_campaign=1047&utm_source=git)** | Los Angeles, CA,  Remote | Hybrid | Jul 25 |
+| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Product Innovation Intern - Hybrid](https://jobright.ai/jobs/info/6887fc1673e3e13cbd9419ed?utm_campaign=1047&utm_source=git)** | Los Angeles, CA,  Remote | Hybrid | Jul 25 |
+| ↳ | **[Product Innovation Intern - Hybrid](https://jobright.ai/jobs/info/6887fbd2fbbf032d00077f37?utm_campaign=1047&utm_source=git)** | Costa Mesa, CA,  Remote | Hybrid | Jul 25 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/68850c3afbbf032d0006bcf7?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Jul 25 |
 | **[Endpointech](https://www.endpointech.com/)** | **[Software Promoter & Product Evangelist](https://jobright.ai/jobs/info/6883b248835a903aa07f6dfb?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Workato](http://www.workato.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/686ff1a1a5ae807a59cf47be?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Jul 25 |
@@ -95,5 +96,4 @@ For a complete list, click the following sortable link below:
 | **[Creatorain](creatorain.com)** | **[Product Manager Fellowship (UCLA - Hybrid)](https://jobright.ai/jobs/info/688162a529ad6b2744ae1bb2?utm_campaign=1047&utm_source=git)** | LA Metro Area | Hybrid | Jul 23 |
 | ↳ | **[Product Manager Fellowship (Cornell Tech Campus- Hybrid)](https://jobright.ai/jobs/info/6881502029ad6b2744ae116f?utm_campaign=1047&utm_source=git)** | NYC Metro Area | Hybrid | Jul 23 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/687c9fcced63844c944b02b7?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Jul 23 |
-| **[ASM](https://www.asm.com)** | **[Global Product Operations Intern (Fall 2025)](https://jobright.ai/jobs/info/6880fac1f4f06100f3a22a10?utm_campaign=1047&utm_source=git)** | Greater Phoenix Area | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
