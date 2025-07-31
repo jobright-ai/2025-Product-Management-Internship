@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 AI & Data Summer Internship Program - Product Management Team](https://jobright.ai/jobs/info/688b239c9f961617fe2220be?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | **[Hypergiant](https://www.hypergiant.com/sensory-sciences/)** | **[SkillBridge Internship (Product Manager)](https://jobright.ai/jobs/info/687e9b97764c3d7411c44cf1?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 31 |
-| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 AI & Data Summer Internship Program - Product Management Team](https://jobright.ai/jobs/info/688b239c9f961617fe2220be?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-PGC) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/687b56f12097a271a8983314?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 30 |
 | ↳ | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance)- 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/688aefa49f961617fe21f791?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 30 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Product Development Intern, Flavor (early September through mid-December)](https://jobright.ai/jobs/info/6889be3aaab47a17f6705586?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Jul 29 |
@@ -94,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Fellow - Product Development and Procurement](https://jobright.ai/jobs/info/688322a06fcd973d15adfb0a?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jul 25 |
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/6882fe796fcd973d15addfaa?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Arcade](https://www.arcade.ai)** | **[Intern, Associate Product Manager](https://jobright.ai/jobs/info/6882eb456fcd973d15add279?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Jul 24 |
-| **[ZWILLING J.A. Henckels LLC](https://www.zwilling.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/688445d04174df41e0f90b86?utm_campaign=1047&utm_source=git)** | Pleasantville, NY | On Site | Jul 24 |
+| **[ZWILLING J.A. Henckels LLC](https://www.zwilling.com/be-nl/demeyere/)** | **[Product Development Intern](https://jobright.ai/jobs/info/688445d04174df41e0f90b86?utm_campaign=1047&utm_source=git)** | Pleasantville, NY | On Site | Jul 24 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Product Service Student Experience](https://jobright.ai/jobs/info/68488de91d19366aff0844a6?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Jul 24 |
-| **[Arcade](https://www.arcade.ai)** | **[Intern, Associate Product Manager](https://jobright.ai/jobs/info/6882854c6fcd973d15ad9a0a?utm_campaign=1047&utm_source=git)** | Presidio, CA | Hybrid | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
