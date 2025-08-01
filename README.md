@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Komatsu](http://www.ehrbar.com)** | **[Product & Service Development Associate- Chicago, IL](https://jobright.ai/jobs/info/68898e5209808a6103e4876b?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Jul 31 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Product Development Intern, Flavor (early September through mid-December)](https://jobright.ai/jobs/info/6888e5de09808a6103e4350f?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | Jul 31 |
 | **[Arcade](https://www.arcade.ai)** | **[Intern, Associate Product Manager](https://jobright.ai/jobs/info/6882854c6fcd973d15ad9a0a?utm_campaign=1047&utm_source=git)** | Presidio, CA | Hybrid | Jul 31 |
 | **[Workato](http://www.workato.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/686ff1a1a5ae807a59cf47be?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Jul 31 |
@@ -91,5 +92,4 @@ For a complete list, click the following sortable link below:
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/68850c3afbbf032d0006bcf7?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Jul 25 |
 | **[Endpointech](https://www.endpointech.com/)** | **[Software Promoter & Product Evangelist](https://jobright.ai/jobs/info/6883b248835a903aa07f6dfb?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 25 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Fellow - Product Development and Procurement](https://jobright.ai/jobs/info/688322a06fcd973d15adfb0a?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Jul 25 |
-| **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/6882fe796fcd973d15addfaa?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
