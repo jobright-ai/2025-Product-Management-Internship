@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Product Development Intern, Beverage (early September through mid-December)](https://jobright.ai/jobs/info/6863767dd9418499feff5d43?utm_campaign=1047&utm_source=git)** | Needham, MA | Hybrid | Jul 31 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product Infrastructure]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688c392f1808534a89cb9823?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 31 |
 | ↳ | **[Product Manager Intern [TikTok-Product-Comprehensive Search]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688c368c3a30793eb9640f04?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 31 |
 | ↳ | **[Product Manager Intern [TikTok-Product-Privacy and Responsibility]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688c30ff906ac06e1d1d1948?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 31 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Product Development Intern, Flavor (early September through mid-December)](https://jobright.ai/jobs/info/6889be3aaab47a17f6705586?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Jul 31 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 AI & Data Summer Internship Program - Product Management Team](https://jobright.ai/jobs/info/688b239c9f961617fe2220be?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | **[Hypergiant](https://www.hypergiant.com/sensory-sciences/)** | **[SkillBridge Internship (Product Manager)](https://jobright.ai/jobs/info/687e9b97764c3d7411c44cf1?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 31 |
-| **[PanAgora Asset Management](http://www.panagora.com)** | **[Fall 2025 Intern – Product Analyst](https://jobright.ai/jobs/info/688be37a906ac06e1d1cf378?utm_campaign=1047&utm_source=git)** | MA Boston - Federal St | Hybrid | Jul 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-PGC) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/687b56f12097a271a8983314?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 30 |
 | ↳ | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance)- 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/688aefa49f961617fe21f791?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Business Risk Integrated Control) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688999949f961617fe215e88?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 29 |
@@ -83,7 +83,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (TikTok Shop Operation Product, CRM) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68883c504174df41e0fa3b1d?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
 | ↳ | **[Product Manager Intern (TikTok Shop, Merchandise Growth) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68883844fbbf032d0007969e?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
 | ↳ | **[Product Manager Intern (TikTok Shop IPR Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688835be73e3e13cbd942feb?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Product Management Intern](https://jobright.ai/jobs/info/68828fb4835a903aa07eee4d?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 28 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Product Management Intern](https://jobright.ai/jobs/info/68829e6b6fcd973d15adb010?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/687b322d764c3d7411c313bb?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 28 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Fall Starts ((MBA)](https://jobright.ai/jobs/info/684be6c9a0e956a8afae5e08?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 28 |
 | ↳ | **[Product Manager Intern (TikTok-Search) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/687b9375ed63844c944a94bb?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 28 |
