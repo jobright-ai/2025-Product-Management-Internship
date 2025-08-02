@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[TikTok](https://www.tiktok.com)** | **[Issue Discovery Operation Intern [TikTok-Product-Content Ecosystem]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688d86ede5cead4afd456726?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 01 |
+| ↳ | **[Product Strategist Intern [TikTok-Product-Business Analytics]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688d99bc6a4aac5783cd47ef?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 01 |
 | **[Rheem Manufacturing](http://www.rheem.com)** | **[Temporary Product Management Administrative Assistant OR Internship](https://jobright.ai/jobs/info/6859a81a4241677d9152652e?utm_campaign=1047&utm_source=git)** | Lewisville, TX, United States | Hybrid | Aug 01 |
 | **[ASUS](https://www.asus.com)** | **[Product Manager Assistant (Seasonal Internship)](https://jobright.ai/jobs/info/686cd62e303f7f63cb03f993?utm_campaign=1047&utm_source=git)** | Fremont, CA | On Site | Aug 01 |
 | **[HeyGen](https://www.heygen.com)** | **[Product Manager, New Graduate](https://jobright.ai/jobs/info/686e3b5555962911d17acd68?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Aug 01 |
