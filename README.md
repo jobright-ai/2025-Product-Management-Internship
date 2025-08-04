@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Klein Tools](https://www.kleintools.com/)** | **[Externship - Product Management](https://jobright.ai/jobs/info/6890287ee5cead4afd46257e?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Aug 03 |
+| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Product Management Intern (Intern Program)](https://jobright.ai/jobs/info/67efea7a59f59bf6232ef6f4?utm_campaign=1047&utm_source=git)** | 3735 Green Road, Beachwood, OH, 44122, US | On Site | Aug 03 |
+| **[Hume AI](https://hume.ai)** | **[Internship - GTM (San Jose)](https://jobright.ai/jobs/info/6890367bf5ee707a15db4a40?utm_campaign=1047&utm_source=git)** | San Jose, California, United States | On Site | Aug 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search-Comprehensive Search) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6839b8054b9b2fb9dde9e071?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 03 |
 | **[Wahed](https://www.wahed.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/6854119929aa7224b99ac656?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 03 |
 | **[ASUS](https://www.asus.com)** | **[Product Manager Assistant (Seasonal Role/Internship)](https://jobright.ai/jobs/info/6859a81a4241677d915265a6?utm_campaign=1047&utm_source=git)** | City Of Industry, California | On Site | Aug 03 |
