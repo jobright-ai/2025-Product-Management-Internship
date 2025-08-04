@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68912997f5ee707a15dbca0f?utm_campaign=1047&utm_source=git)** | Golden Valley, MN | On Site | Aug 04 |
+| ↳ | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68912970f47efe21139534ba?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | On Site | Aug 04 |
+| ↳ | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689129414c7e851b90acc90c?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Aug 04 |
+| ↳ | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68912940f5ee707a15dbc9a2?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Aug 04 |
+| ↳ | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/6891290e4c7e851b90acc8cc?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Aug 04 |
+| ↳ | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689128e7f47efe21139533b4?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Aug 04 |
+| ↳ | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689128b1f5ee707a15dbc8ea?utm_campaign=1047&utm_source=git)** | Apex, NC | On Site | Aug 04 |
 | **[Lean-Education Agile Foundry Laboratory](www.l-eaflab.org)** | **[Product Management - 24-week Program](https://jobright.ai/jobs/info/68910aa34c7e851b90acb892?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 04 |
 | **[Altruist](https://altruist.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/689101b54c7e851b90acb222?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 04 |
 | ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/6890fcd34c7e851b90acb038?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Aug 04 |
@@ -113,9 +120,4 @@ For a complete list, click the following sortable link below:
 | **[Anker Innovations LTD](https://us.anker.com/)** | **[GTM Intern](https://jobright.ai/jobs/info/6881589a29ad6b2744ae1793?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Jul 29 |
 | **[Adaptive Security](https://adaptivesecurity.com)** | **[AI Product Intern](https://jobright.ai/jobs/info/6889345c09808a6103e45c74?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Jul 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/687b8290764c3d7411c33403?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 29 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/688ee9e76a4aac5783cdb5ee?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 28 |
-| ↳ | **[Product Manager Graduate (TikTok Shop Logistics Fulfillment Experience) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6888480873e3e13cbd943b1b?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
-| ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6888460173e3e13cbd9439fc?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
-| ↳ | **[Product Manager Intern (TikTok Shop Seller Risk/Performance Score Product) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/68883daafbbf032d00079852?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
-| ↳ | **[Product Manager Intern (TikTok Shop Operation Product, CRM) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68883c504174df41e0fa3b1d?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
