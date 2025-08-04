@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lean-Education Agile Foundry Laboratory](www.l-eaflab.org)** | **[Product Management - 24-week Program](https://jobright.ai/jobs/info/68910aa34c7e851b90acb892?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 04 |
+| **[Altruist](https://altruist.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/689101b54c7e851b90acb222?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 04 |
+| ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/6890fcd34c7e851b90acb038?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Aug 04 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Externship - Product Management](https://jobright.ai/jobs/info/6890ef1c4c7e851b90acab2f?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Aug 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-PGC) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67b974dbbddd297339eb48eb?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Aug 04 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Data Science) - 2025 Summer (PhD)](https://jobright.ai/jobs/info/67ba39cccee5a1224a2743c0?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Aug 04 |
@@ -115,6 +118,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6888460173e3e13cbd9439fc?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
 | ↳ | **[Product Manager Intern (TikTok Shop Seller Risk/Performance Score Product) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/68883daafbbf032d00079852?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
 | ↳ | **[Product Manager Intern (TikTok Shop Operation Product, CRM) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68883c504174df41e0fa3b1d?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
-| ↳ | **[Product Manager Intern (TikTok Shop, Merchandise Growth) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68883844fbbf032d0007969e?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
-| ↳ | **[Product Manager Intern (TikTok Shop IPR Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688835be73e3e13cbd942feb?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
