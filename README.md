@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Influcio](http://www.influcio.com)** | **[Product Manager Intern (Unpaid)](https://jobright.ai/jobs/info/68924cf5f47efe211395b29a?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/687b322d764c3d7411c313bb?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 05 |
 | **[Adaptive Security](https://adaptivesecurity.com)** | **[AI Product Intern](https://jobright.ai/jobs/info/6889345c09808a6103e45c74?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[Clerkie](https://clerkie.io)** | **[Product Management Intern (2 openings)](https://jobright.ai/jobs/info/6890c070f5ee707a15db9645?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 05 |
 | **[Altruist](https://altruist.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/6891439c4c7e851b90acd4c6?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Aug 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product-Search Growth]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6891886c4c7e851b90acf90e?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 05 |
 | **[Altruist](https://altruist.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/689144544c7e851b90acd510?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 05 |
+| **[RIB Software](https://www.rib-software.eu.com)** | **[Product Research Intern](https://jobright.ai/jobs/info/688064fd2097a271a89a41a3?utm_campaign=1047&utm_source=git)** | Alpharetta, GA | On Site | Aug 05 |
 | **[Heidi Health](https://www.heidihealth.com)** | **[Product Intern](https://jobright.ai/jobs/info/6891ca9f4c7e851b90ad2142?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Aug 05 |
 | **[Hypergiant](https://www.hypergiant.com/sensory-sciences/)** | **[SkillBridge Internship (Product Manager)](https://jobright.ai/jobs/info/687e53a9764c3d7411c42b3d?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 04 |
 | **[GoldBug](http://goldbuginc.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/683ef3461e0c94f15fb5cfc2?utm_campaign=1047&utm_source=git)** | Denver, Colorado, United States | On Site | Aug 04 |
