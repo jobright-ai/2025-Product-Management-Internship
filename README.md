@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Altruist](https://altruist.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/689144544c7e851b90acd510?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 04 |
+| ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/6891439c4c7e851b90acd4c6?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Aug 04 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern [TikTok-Product-Business Analytics]-2025 Start (BS/MS)](https://jobright.ai/jobs/info/68912d76f5ee707a15dbcbfa?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 04 |
+| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/68912ba8f47efe2113953632?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Aug 04 |
 | **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68912997f5ee707a15dbca0f?utm_campaign=1047&utm_source=git)** | Golden Valley, MN | On Site | Aug 04 |
 | ↳ | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68912970f47efe21139534ba?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | On Site | Aug 04 |
 | ↳ | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689129414c7e851b90acc90c?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Aug 04 |
@@ -67,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Lean-Education Agile Foundry Laboratory](www.l-eaflab.org)** | **[Product Management - 24-week Program](https://jobright.ai/jobs/info/68910aa34c7e851b90acb892?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 04 |
 | **[Altruist](https://altruist.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/689101b54c7e851b90acb222?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 04 |
 | ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/6890fcd34c7e851b90acb038?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Aug 04 |
-| **[Klein Tools](https://www.kleintools.com/)** | **[Externship - Product Management](https://jobright.ai/jobs/info/6890ef1c4c7e851b90acab2f?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Aug 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-PGC) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67b974dbbddd297339eb48eb?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Aug 04 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Data Science) - 2025 Summer (PhD)](https://jobright.ai/jobs/info/67ba39cccee5a1224a2743c0?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Aug 04 |
 | ↳ | **[Product Manager Intern (TikTok-Search) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67b99c4156465ff41688aadc?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Aug 04 |
@@ -95,7 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Rheem Manufacturing](http://www.rheem.com)** | **[Temporary Product Management Administrative Assistant OR Internship](https://jobright.ai/jobs/info/6859a81a4241677d9152652e?utm_campaign=1047&utm_source=git)** | Lewisville, TX, United States | Hybrid | Aug 01 |
 | **[ASUS](https://www.asus.com)** | **[Product Manager Assistant (Seasonal Internship)](https://jobright.ai/jobs/info/686cd62e303f7f63cb03f993?utm_campaign=1047&utm_source=git)** | Fremont, CA | On Site | Aug 01 |
 | **[HeyGen](https://www.heygen.com)** | **[Product Manager, New Graduate](https://jobright.ai/jobs/info/686e3b5555962911d17acd68?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Aug 01 |
-| **[Red Aspen](https://www.redaspenlove.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/688cfb843a30793eb9647abe?utm_campaign=1047&utm_source=git)** | Meridian, ID | On Site | Aug 01 |
+| **[Red Aspen](https://www.redaspenlove.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/688cedfd3a30793eb96473a4?utm_campaign=1047&utm_source=git)** | Meridian, ID | On Site | Aug 01 |
 | **[Klaviyo](http://www.klaviyo.com)** | **[Lead Product Manager, Internal Tools](https://jobright.ai/jobs/info/686efb1179d32ae4330020ff?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Aug 01 |
 | **[Jane Street](https://www.janestreet.com)** | **[Strategy and Product](https://jobright.ai/jobs/info/686fe79201cc0956e7e7dd42?utm_campaign=1047&utm_source=git)** | New York, New York, United States | On Site | Aug 01 |
 | **[Workato](http://www.workato.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/687fc58d764c3d7411c4cf4a?utm_campaign=1047&utm_source=git)** | Palo Alto, California | On Site | Jul 31 |
