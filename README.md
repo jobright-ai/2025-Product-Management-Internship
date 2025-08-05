@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Groflex AI](https://groflex.ai)** | **[Product Owner Intern](https://jobright.ai/jobs/info/6891cdee4c7e851b90ad21b5?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 05 |
+| **[Heidi Health](https://www.heidihealth.com)** | **[Product Intern](https://jobright.ai/jobs/info/6891ca9f4c7e851b90ad2142?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Aug 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product-Search Growth]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6891886c4c7e851b90acf90e?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 04 |
+| **[Hypergiant](https://www.hypergiant.com/sensory-sciences/)** | **[SkillBridge Internship (Product Manager)](https://jobright.ai/jobs/info/687e53a9764c3d7411c42b3d?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 04 |
 | **[GoldBug](http://goldbuginc.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/683ef3461e0c94f15fb5cfc2?utm_campaign=1047&utm_source=git)** | Denver, Colorado, United States | On Site | Aug 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67b5484d7f0d1a6fdfd90f14?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Aug 04 |
 | ↳ | **[Product Manager Intern (TikTok-Search) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67b99c4156465ff41688aae7?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Aug 04 |
@@ -74,6 +77,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689170aef47efe21139553b1?utm_campaign=1047&utm_source=git)** | Twin Cities Area | On Site | Aug 04 |
 | ↳ | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68916c18f47efe21139551b8?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Aug 04 |
 | **[Red Aspen](https://www.redaspenlove.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/689164e7f47efe2113954d40?utm_campaign=1047&utm_source=git)** | Meridian, ID | On Site | Aug 04 |
+| **[Heidi Health](https://www.heidihealth.com)** | **[Product Intern](https://jobright.ai/jobs/info/6891c48bf47efe2113958ae0?utm_campaign=1047&utm_source=git)** | San Francisco | On Site | Aug 04 |
 | **[Altruist](https://altruist.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/689144544c7e851b90acd510?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 04 |
 | ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/6891439c4c7e851b90acd4c6?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Aug 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern [TikTok-Product-Business Analytics]-2025 Start (BS/MS)](https://jobright.ai/jobs/info/68912d76f5ee707a15dbcbfa?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 04 |
