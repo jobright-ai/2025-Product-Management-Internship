@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rheem Manufacturing](http://www.rheem.com)** | **[Product Management Engineering Internship](https://jobright.ai/jobs/info/6859a59e9e2fd3a003794343?utm_campaign=1047&utm_source=git)** | Lewisville, TX | Hybrid | Aug 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product Infrastructure) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6875e5ad299cbc74b8758a74?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 06 |
 | ↳ | **[Product Manager Intern (Content and Service Lead Ads ) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689319a6f47efe2113962e37?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 06 |
 | **[Influcio](http://www.influcio.com)** | **[Product Manager Intern (Unpaid)](https://jobright.ai/jobs/info/68924cf5f47efe211395b29a?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 05 |
