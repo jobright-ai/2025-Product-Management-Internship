@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Content and Service Lead Ads ) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689319a6f47efe2113962e37?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 06 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product Infrastructure) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6875e5ad299cbc74b8758a74?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 06 |
+| ↳ | **[Product Manager Intern (Content and Service Lead Ads ) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689319a6f47efe2113962e37?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 06 |
 | **[Influcio](http://www.influcio.com)** | **[Product Manager Intern (Unpaid)](https://jobright.ai/jobs/info/68924cf5f47efe211395b29a?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/687b322d764c3d7411c313bb?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 05 |
 | **[Adaptive Security](https://adaptivesecurity.com)** | **[AI Product Intern](https://jobright.ai/jobs/info/6889345c09808a6103e45c74?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Aug 05 |
