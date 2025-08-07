@@ -138,5 +138,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern [TikTok-Product-Comprehensive Search]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688ee53f6a4aac5783cdb0cf?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 31 |
 | ↳ | **[Product Manager Intern [TikTok-Product Infrastructure]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688c392f1808534a89cb9823?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 31 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Product Development Intern, Flavor (early September through mid-December)](https://jobright.ai/jobs/info/6888e5de09808a6103e4350f?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | Jul 31 |
-| **[Arcade](https://www.arcade.ai)** | **[Intern, Associate Product Manager](https://jobright.ai/jobs/info/6882854c6fcd973d15ad9a0a?utm_campaign=1047&utm_source=git)** | Presidio, CA | Hybrid | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
