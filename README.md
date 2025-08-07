@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Skin Gym](https://www.skingymco.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/689406f84c7e851b90ae22dd?utm_campaign=1047&utm_source=git)** | LA Metro Area | On Site | Aug 06 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Product Strategy Intern- Spring 2026](https://jobright.ai/jobs/info/6893c32df47efe2113966cc7?utm_campaign=1047&utm_source=git)** | Jacksonville, Florida, United States | On Site | Aug 06 |
 | ↳ | **[Product Strategy Intern- Spring 2026](https://jobright.ai/jobs/info/6893bb00a9199876488dfab9?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Aug 06 |
 | **[Rheem Manufacturing](http://www.rheem.com)** | **[Product Management Engineering Internship](https://jobright.ai/jobs/info/6859a59e9e2fd3a003794343?utm_campaign=1047&utm_source=git)** | Lewisville, TX | Hybrid | Aug 06 |
