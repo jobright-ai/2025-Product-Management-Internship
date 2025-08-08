@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cosm](https://www.cosm.com)** | **[Product Intern, Web & Mobile](https://jobright.ai/jobs/info/68956c4d4ed2ea559ca55a10?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 07 |
+| **[HCA Healthcare](https://hcahealthcare.com/)** | **[Intern Business Analyst](https://jobright.ai/jobs/info/68955a3473b3a600fe886d90?utm_campaign=1047&utm_source=git)** | Nashville, TN | On Site | Aug 07 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Products Intern](https://jobright.ai/jobs/info/689556a14ed2ea559ca55178?utm_campaign=1047&utm_source=git)** | Strongsville, OH | On Site | Aug 07 |
 | **[Cosm](https://www.cosm.com)** | **[Product Intern, Web & Mobile](https://jobright.ai/jobs/info/68954a9d8c6d6b4426778a2d?utm_campaign=1047&utm_source=git)** | Playa Vista, Los Angeles, CA, USA | On Site | Aug 07 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Management: Internship Opportunities](https://jobright.ai/jobs/info/689537794ed2ea559ca5423d?utm_campaign=1047&utm_source=git)** | Redmond, WA | Hybrid | Aug 07 |
