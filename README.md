@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Entrepreneurs of Tomorrow](http://www.entrepreneursoftomorrow.org)** | **[Product Manager Intern (Unpaid)](https://jobright.ai/jobs/info/68951d864ed2ea559ca539b4?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 07 |
-| **[Microsoft](https://www.microsoft.com)** | **[Product Management: Internship Opportunities](https://jobright.ai/jobs/info/689510c68c6d6b442677717e?utm_campaign=1047&utm_source=git)** | Redmond, Washington, United States | Hybrid | Aug 07 |
+| **[Microsoft](https://www.microsoft.com)** | **[Product Management: Internship Opportunities](https://jobright.ai/jobs/info/689537794ed2ea559ca5423d?utm_campaign=1047&utm_source=git)** | Redmond, WA | Hybrid | Aug 07 |
+| ↳ | **[Product Management: Internship Opportunities](https://jobright.ai/jobs/info/689510c68c6d6b442677717e?utm_campaign=1047&utm_source=git)** | Redmond, Washington, United States | Hybrid | Aug 07 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[PL Product Management, Intern](https://jobright.ai/jobs/info/689502d973b3a600fe8844f5?utm_campaign=1047&utm_source=git)** | NJM - Trenton | On Site | Aug 07 |
 | **[Arcade](https://www.arcade.ai)** | **[Intern, Associate Product Manager](https://jobright.ai/jobs/info/6882eb456fcd973d15add279?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Aug 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/68787a915cebcd1dd51dafa5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 07 |
@@ -131,8 +131,4 @@ For a complete list, click the following sortable link below:
 | **[HeyGen](https://www.heygen.com)** | **[Product Manager, New Graduate](https://jobright.ai/jobs/info/686e3b5555962911d17acd68?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Aug 01 |
 | **[Red Aspen](https://www.redaspenlove.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/688cedfd3a30793eb96473a4?utm_campaign=1047&utm_source=git)** | Meridian, ID | On Site | Aug 01 |
 | **[Klaviyo](http://www.klaviyo.com)** | **[Lead Product Manager, Internal Tools](https://jobright.ai/jobs/info/686efb1179d32ae4330020ff?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Aug 01 |
-| **[Jane Street](https://www.janestreet.com)** | **[Strategy and Product](https://jobright.ai/jobs/info/686fe79201cc0956e7e7dd42?utm_campaign=1047&utm_source=git)** | New York, New York, United States | On Site | Aug 01 |
-| **[Workato](http://www.workato.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/687fc58d764c3d7411c4cf4a?utm_campaign=1047&utm_source=git)** | Palo Alto, California | On Site | Jul 31 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Product Development Intern, Beverage (early September through mid-December)](https://jobright.ai/jobs/info/6863767dd9418499feff5d43?utm_campaign=1047&utm_source=git)** | Needham, MA | Hybrid | Jul 31 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product-Privacy and Responsibility]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688f021de5cead4afd45fb3f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
