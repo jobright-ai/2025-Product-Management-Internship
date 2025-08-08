@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Products Intern](https://jobright.ai/jobs/info/689556a14ed2ea559ca55178?utm_campaign=1047&utm_source=git)** | Strongsville, OH | On Site | Aug 07 |
+| **[Cosm](https://www.cosm.com)** | **[Product Intern, Web & Mobile](https://jobright.ai/jobs/info/68954a9d8c6d6b4426778a2d?utm_campaign=1047&utm_source=git)** | Playa Vista, Los Angeles, CA, USA | On Site | Aug 07 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Management: Internship Opportunities](https://jobright.ai/jobs/info/689537794ed2ea559ca5423d?utm_campaign=1047&utm_source=git)** | Redmond, WA | Hybrid | Aug 07 |
 | ↳ | **[Product Management: Internship Opportunities](https://jobright.ai/jobs/info/689510c68c6d6b442677717e?utm_campaign=1047&utm_source=git)** | Redmond, Washington, United States | Hybrid | Aug 07 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[PL Product Management, Intern](https://jobright.ai/jobs/info/689502d973b3a600fe8844f5?utm_campaign=1047&utm_source=git)** | NJM - Trenton | On Site | Aug 07 |
@@ -130,5 +132,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Issue Discovery Operation Intern [TikTok-Product-Content Ecosystem]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688e2c42e5cead4afd45bf2f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 01 |
 | **[HeyGen](https://www.heygen.com)** | **[Product Manager, New Graduate](https://jobright.ai/jobs/info/686e3b5555962911d17acd68?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Aug 01 |
 | **[Red Aspen](https://www.redaspenlove.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/688cedfd3a30793eb96473a4?utm_campaign=1047&utm_source=git)** | Meridian, ID | On Site | Aug 01 |
-| **[Klaviyo](http://www.klaviyo.com)** | **[Lead Product Manager, Internal Tools](https://jobright.ai/jobs/info/686efb1179d32ae4330020ff?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
