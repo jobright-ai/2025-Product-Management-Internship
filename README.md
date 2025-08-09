@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rippling](https://www.rippling.com)** | **[Product Lead Internship - Summer 2026](https://jobright.ai/jobs/info/687f1395764c3d7411c48c4d?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Aug 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Product operations Intern (TikTok-PGC)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/688ed873cdbd821a36642828?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 09 |
+| ↳ | **[Product Manager Intern (TikTok-Product-Open Platform)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/688f00a0cdbd821a36644326?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 09 |
 | ↳ | **[Product Manager Intern (TikTok-PGC)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6879d6c6a7fc8904e39660de?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 09 |
 | ↳ | **[Product Manager Intern (TikTok-Search) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6875d799ae2f413e4a5aa1f7?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 09 |
+| **[Polaris Inc.](https://www.polaris.com)** | **[Digital & Information Technology - Digital Product Development Internship - Summer 2026](https://jobright.ai/jobs/info/6897af298c6d6b4426790622?utm_campaign=1047&utm_source=git)** | Vermillion, SD, USA | On Site | Aug 08 |
+| ↳ | **[Digital & Information Technology - Digital Product Development Internship - Summer 2026](https://jobright.ai/jobs/info/6897adc073b3a600fe89dbe0?utm_campaign=1047&utm_source=git)** | Plymouth, MN, USA | On Site | Aug 08 |
 | **[Databricks](https://www.databricks.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/689752ea1b9e81727f19857e?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Aug 08 |
 | ↳ | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/689736671b9e81727f1963a0?utm_campaign=1047&utm_source=git)** | Bellevue, Washington | On Site | Aug 08 |
+| **[Dematic](http://www.dematic.com)** | **[Engineering and Product Management Intern](https://jobright.ai/jobs/info/688330f4835a903aa07f4a40?utm_campaign=1047&utm_source=git)** | Wauwatosa, WI | On Site | Aug 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Music Discovery) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6879c9542097a271a897a438?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 08 |
 | **[Cosm](https://www.cosm.com)** | **[Product Intern, Web & Mobile](https://jobright.ai/jobs/info/68956c4d4ed2ea559ca55a10?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 07 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Intern Business Analyst](https://jobright.ai/jobs/info/68955a3473b3a600fe886d90?utm_campaign=1047&utm_source=git)** | Nashville, TN | On Site | Aug 07 |
@@ -69,8 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Cosm](https://www.cosm.com)** | **[Product Intern, Web & Mobile](https://jobright.ai/jobs/info/68954a9d8c6d6b4426778a2d?utm_campaign=1047&utm_source=git)** | Playa Vista, Los Angeles, CA, USA | On Site | Aug 07 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Management: Internship Opportunities](https://jobright.ai/jobs/info/689537794ed2ea559ca5423d?utm_campaign=1047&utm_source=git)** | Redmond, WA | Hybrid | Aug 07 |
 | ↳ | **[Product Management: Internship Opportunities](https://jobright.ai/jobs/info/689510c68c6d6b442677717e?utm_campaign=1047&utm_source=git)** | Redmond, Washington, United States | Hybrid | Aug 07 |
-| **[Entrepreneurs of Tomorrow](http://www.entrepreneursoftomorrow.org)** | **[Product Manager Intern (Unpaid)](https://jobright.ai/jobs/info/689575398c6d6b4426779f93?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 07 |
-| **[NJM Insurance Group](https://www.njm.com)** | **[PL Product Management, Intern](https://jobright.ai/jobs/info/689502d973b3a600fe8844f5?utm_campaign=1047&utm_source=git)** | NJM - Trenton | On Site | Aug 07 |
 | **[US Tiger Securities, Inc.](https://www.itigerup.com/?lang=en_US)** | **[Product Management Intern (Japanese Fluency Required)](https://jobright.ai/jobs/info/68957ef94ed2ea559ca565b3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Aug 07 |
 | **[Arcade](https://www.arcade.ai)** | **[Intern, Associate Product Manager](https://jobright.ai/jobs/info/6882eb456fcd973d15add279?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Aug 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/68787a915cebcd1dd51dafa5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 07 |
@@ -85,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[RF-SMART](http://rfsmart.com/)** | **[Product Strategy Intern- Spring 2026](https://jobright.ai/jobs/info/6893bb00a9199876488dfab9?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Aug 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product Infrastructure) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/6875e5ad299cbc74b8758a74?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 06 |
 | ↳ | **[Product Manager Intern (Content and Service Lead Ads ) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689319a6f47efe2113962e37?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 06 |
-| **[Influcio](http://www.influcio.com)** | **[Product Manager Intern (Unpaid)](https://jobright.ai/jobs/info/68924cf5f47efe211395b29a?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/687b322d764c3d7411c313bb?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 05 |
 | **[Adaptive Security](https://adaptivesecurity.com)** | **[AI Product Intern](https://jobright.ai/jobs/info/6889345c09808a6103e45c74?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[Clerkie](https://clerkie.io)** | **[Product Management Intern (2 openings)](https://jobright.ai/jobs/info/6890c070f5ee707a15db9645?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 05 |
