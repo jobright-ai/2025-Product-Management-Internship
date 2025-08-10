@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ReplyQuickAI](https://www.replyquick.ai)** | **[Product GTM Internship](https://jobright.ai/jobs/info/6898bdce83d13d1f5b690c97?utm_campaign=1047&utm_source=git)** | Sarasota, FL | Remote | Aug 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product Infrastructure)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687606e65cebcd1dd51c5dce?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 10 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687b592d2097a271a898344a?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 10 |
+| **[Rippling](https://www.rippling.com)** | **[Product Lead Internship - Summer 2026](https://jobright.ai/jobs/info/687f04b4db19f31cf0d6efaf?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Aug 09 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Digital & Information Technology - Digital Product Development Internship - Summer 2026](https://jobright.ai/jobs/info/68980a2573b3a600fe8a205c?utm_campaign=1047&utm_source=git)** | Plymouth, MN | On Site | Aug 09 |
 | ↳ | **[Digital & Information Technology - Digital Product Development Internship - Summer 2026](https://jobright.ai/jobs/info/6897c74973b3a600fe89f645?utm_campaign=1047&utm_source=git)** | Vermillion, SD | On Site | Aug 09 |
 | **[Rippling](https://www.rippling.com)** | **[Product Lead Internship - Summer 2026](https://jobright.ai/jobs/info/687f1395764c3d7411c48c4d?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Aug 09 |
