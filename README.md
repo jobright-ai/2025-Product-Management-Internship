@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[ReplyQuickAI](https://www.replyquick.ai)** | **[Product GTM Internship](https://jobright.ai/jobs/info/6898bdce83d13d1f5b690c97?utm_campaign=1047&utm_source=git)** | Sarasota, FL | Remote | Aug 10 |
+| **[Schaeffler](https://www.schaeffler.us)** | **[Co-Op - Product Management](https://jobright.ai/jobs/info/68737d224001e95011b1615d?utm_campaign=1047&utm_source=git)** | Strongsville, OH | On Site | Aug 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product Infrastructure)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687606e65cebcd1dd51c5dce?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 10 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687b592d2097a271a898344a?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 10 |
 | **[Rippling](https://www.rippling.com)** | **[Product Lead Internship - Summer 2026](https://jobright.ai/jobs/info/687f04b4db19f31cf0d6efaf?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Aug 09 |
@@ -83,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Cosm](https://www.cosm.com)** | **[Product Intern, Web & Mobile](https://jobright.ai/jobs/info/68954a9d8c6d6b4426778a2d?utm_campaign=1047&utm_source=git)** | Playa Vista, Los Angeles, CA, USA | On Site | Aug 07 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Management: Internship Opportunities](https://jobright.ai/jobs/info/689537794ed2ea559ca5423d?utm_campaign=1047&utm_source=git)** | Redmond, WA | Hybrid | Aug 07 |
 | ↳ | **[Product Management: Internship Opportunities](https://jobright.ai/jobs/info/689510c68c6d6b442677717e?utm_campaign=1047&utm_source=git)** | Redmond, Washington, United States | Hybrid | Aug 07 |
-| **[US Tiger Securities, Inc.](https://www.itigerup.com/?lang=en_US)** | **[Product Management Intern (Japanese Fluency Required)](https://jobright.ai/jobs/info/68957ef94ed2ea559ca565b3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Aug 07 |
 | **[Arcade](https://www.arcade.ai)** | **[Intern, Associate Product Manager](https://jobright.ai/jobs/info/6882eb456fcd973d15add279?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Aug 07 |
 | **[Heidi Health](https://www.heidihealth.com)** | **[Product Intern](https://jobright.ai/jobs/info/6891c48bf47efe2113958ae0?utm_campaign=1047&utm_source=git)** | San Francisco | On Site | Aug 07 |
 | **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68916c18f47efe21139551b8?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Aug 07 |
