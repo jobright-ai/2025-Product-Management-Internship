@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Polaris Inc.](https://www.polaris.com)** | **[Digital & Information Technology - Digital Product Development Internship - Summer 2026](https://jobright.ai/jobs/info/6897c74973b3a600fe89f645?utm_campaign=1047&utm_source=git)** | Vermillion, SD | On Site | Aug 09 |
 | **[Rippling](https://www.rippling.com)** | **[Product Lead Internship - Summer 2026](https://jobright.ai/jobs/info/687f1395764c3d7411c48c4d?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Aug 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Product operations Intern (TikTok-PGC)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/688ed873cdbd821a36642828?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 09 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Open Platform)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/688f00a0cdbd821a36644326?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 09 |
 | ↳ | **[Product Manager Intern (TikTok-PGC)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6879d6c6a7fc8904e39660de?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 09 |
 | ↳ | **[Product Manager Intern (TikTok-Search) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6875d799ae2f413e4a5aa1f7?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 09 |
-| **[Polaris Inc.](https://www.polaris.com)** | **[Digital & Information Technology - Digital Product Development Internship - Summer 2026](https://jobright.ai/jobs/info/6897af298c6d6b4426790622?utm_campaign=1047&utm_source=git)** | Vermillion, SD, USA | On Site | Aug 08 |
-| ↳ | **[Digital & Information Technology - Digital Product Development Internship - Summer 2026](https://jobright.ai/jobs/info/6897adc073b3a600fe89dbe0?utm_campaign=1047&utm_source=git)** | Plymouth, MN, USA | On Site | Aug 08 |
+| **[Polaris Inc.](https://www.polaris.com)** | **[Digital & Information Technology - Digital Product Development Internship - Summer 2026](https://jobright.ai/jobs/info/6897adc073b3a600fe89dbe0?utm_campaign=1047&utm_source=git)** | Plymouth, MN, USA | On Site | Aug 08 |
+| ↳ | **[Digital & Information Technology - Digital Product Development Internship - Summer 2026](https://jobright.ai/jobs/info/6897af298c6d6b4426790622?utm_campaign=1047&utm_source=git)** | Vermillion, SD, USA | On Site | Aug 08 |
 | **[Databricks](https://www.databricks.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/689752ea1b9e81727f19857e?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Aug 08 |
 | ↳ | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/689736671b9e81727f1963a0?utm_campaign=1047&utm_source=git)** | Bellevue, Washington | On Site | Aug 08 |
 | **[Dematic](http://www.dematic.com)** | **[Engineering and Product Management Intern](https://jobright.ai/jobs/info/688330f4835a903aa07f4a40?utm_campaign=1047&utm_source=git)** | Wauwatosa, WI | On Site | Aug 08 |
@@ -138,5 +139,4 @@ For a complete list, click the following sortable link below:
 | **[ASUS](https://www.asus.com)** | **[Product Manager Assistant (Seasonal Role/Internship)](https://jobright.ai/jobs/info/6859a81a4241677d915265a6?utm_campaign=1047&utm_source=git)** | City Of Industry, California | On Site | Aug 03 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Product Development Intern, Beverage (early September through mid-December)](https://jobright.ai/jobs/info/6862e0f22a212b5f966d1423?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | Hybrid | Aug 03 |
 | **[Porsche Design of America](http://www.porsche-design.com)** | **[Operations & Product Development Intern](https://jobright.ai/jobs/info/6864175037e43d01e9b2deab?utm_campaign=1047&utm_source=git)** | Costa Mesa, CA | On Site | Aug 03 |
-| **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Product Management Intern (Intern Program)](https://jobright.ai/jobs/info/6875cbe35cebcd1dd51c3709?utm_campaign=1047&utm_source=git)** | Beachwood, OH | On Site | Aug 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
