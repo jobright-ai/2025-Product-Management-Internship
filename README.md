@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a1f925574fd6bc0c7fdef?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
+| **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a50ef83d13d1f5b6981cd?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
+| ↳ | **[Undergrad Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a504583d13d1f5b698131?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
+| ↳ | **[Advanced Degree Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a1f925574fd6bc0c7fdef?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
 | ↳ | **[Undergrad Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a1ec7faa4e875e8255f70?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Advanced Degree Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a1bfe5574fd6bc0c7fc2f?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
 | ↳ | **[Undergrad Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a1a2ffaa4e875e8255d82?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
@@ -111,13 +113,4 @@ For a complete list, click the following sortable link below:
 | **[Altruist](https://altruist.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/689144544c7e851b90acd510?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 05 |
 | **[Red Aspen](https://www.redaspenlove.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/6892295af5ee707a15dc3838?utm_campaign=1047&utm_source=git)** | Meridian, ID | On Site | Aug 05 |
 | **[RIB Software](https://www.rib-software.eu.com)** | **[Product Research Intern](https://jobright.ai/jobs/info/688064fd2097a271a89a41a3?utm_campaign=1047&utm_source=git)** | Alpharetta, GA | On Site | Aug 05 |
-| **[GoldBug](http://goldbuginc.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/683ef3461e0c94f15fb5cfc2?utm_campaign=1047&utm_source=git)** | Denver, Colorado, United States | On Site | Aug 04 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67b5484d7f0d1a6fdfd90f14?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Aug 04 |
-| ↳ | **[Product Manager Intern (TikTok-Search) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67b99c4156465ff41688aae7?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Aug 04 |
-| ↳ | **[Product Manager Intern (TikTok-Search) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67dd0625270b52adc0794938?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Aug 04 |
-| ↳ | **[Product operations Intern (TikTok-PGC) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67f83edb5ee9e4895edfa5b0?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Aug 04 |
-| **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689177d14c7e851b90acedf1?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Aug 04 |
-| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Product Management Intern (Intern Program)](https://jobright.ai/jobs/info/67f01708ba92eb874814fbe1?utm_campaign=1047&utm_source=git)** | Beachwood, OH | Hybrid | Aug 04 |
-| **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689175e6f47efe2113955864?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | On Site | Aug 04 |
-| ↳ | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689174c1f5ee707a15dbea11?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
