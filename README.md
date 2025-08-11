@@ -123,16 +123,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689128b1f5ee707a15dbc8ea?utm_campaign=1047&utm_source=git)** | Apex, NC | On Site | Aug 04 |
 | **[Altruist](https://altruist.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/689101b54c7e851b90acb222?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 04 |
 | ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/6890fcd34c7e851b90acb038?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Aug 04 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-PGC) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67b974dbbddd297339eb48eb?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Aug 04 |
-| ↳ | **[Product Manager Intern (TikTok-Product-Data Science) - 2025 Summer (PhD)](https://jobright.ai/jobs/info/67ba39cccee5a1224a2743c0?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Aug 04 |
-| ↳ | **[Product Manager Intern (TikTok-Search) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67b99c4156465ff41688aadc?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Aug 04 |
-| ↳ | **[Product Manager Intern (TikTok-Product Infrastructure) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67b72133da578d7c2fddbae2?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Aug 04 |
-| ↳ | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/67b96b8cfa0a60124803af58?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Aug 04 |
-| ↳ | **[Product Manager Intern (TikTok-PGC) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67dd0625270b52adc0794941?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Aug 04 |
-| ↳ | **[Product Manager Intern (TikTok-Product Infrastructure) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/680b50c1e9b6074d5bb992b0?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Aug 04 |
-| ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67dd0625270b52adc0794942?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Aug 04 |
-| ↳ | **[Product Manager Intern (TikTok-Product-Open Platform) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67dd0625270b52adc0794958?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Aug 04 |
-| ↳ | **[Product Manager Intern (TikTok-Search) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67dd0625270b52adc0794943?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Aug 04 |
-| ↳ | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67d2cfca629bb295d37e52a7?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Aug 04 |
-| ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67dd0625270b52adc079497e?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
