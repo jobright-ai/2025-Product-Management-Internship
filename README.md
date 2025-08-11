@@ -135,7 +135,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (TikTok-Search) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67dd0625270b52adc0794943?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Aug 04 |
 | ↳ | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67d2cfca629bb295d37e52a7?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Aug 04 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67dd0625270b52adc079497e?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Aug 04 |
-| **[TikTok](https://www.tiktok.com)** | **[Product manager Intern (Music Copyright Solution) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/680b920e40d18751a6d5a194?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Aug 03 |
-| ↳ | **[Product manager Intern (Music Discovery) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/67eb8862213479a154c24489?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Aug 03 |
-| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Product Management Intern (Intern Program)](https://jobright.ai/jobs/info/67efea7a59f59bf6232ef6f4?utm_campaign=1047&utm_source=git)** | 3735 Green Road, Beachwood, OH, 44122, US | On Site | Aug 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
