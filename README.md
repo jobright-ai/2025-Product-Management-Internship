@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Product Development Program Associate - 2026](https://jobright.ai/jobs/info/689a0f86faa4e875e82557c7?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Product Development Program Associate - 2026](https://jobright.ai/jobs/info/689a0f48faa4e875e8255795?utm_campaign=1047&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Product Development Program Associate - 2026](https://jobright.ai/jobs/info/689a0f2583d13d1f5b695b21?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Product Development Program Associate - 2026](https://jobright.ai/jobs/info/689a0f1b5574fd6bc0c7f5e3?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Product Development Program Associate - 2026](https://jobright.ai/jobs/info/689a0f1afaa4e875e825576e?utm_campaign=1047&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Product Development Program Associate - 2026](https://jobright.ai/jobs/info/689a0eb583d13d1f5b695ad6?utm_campaign=1047&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Product Development Program Associate - 2026](https://jobright.ai/jobs/info/689a0eacfaa4e875e825572c?utm_campaign=1047&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Product Development Program Associate - 2026](https://jobright.ai/jobs/info/689a0e3d5574fd6bc0c7f56d?utm_campaign=1047&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Product Development Program Associate - 2026](https://jobright.ai/jobs/info/689a0dfb5574fd6bc0c7f53f?utm_campaign=1047&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Product Development Program Associate - 2026](https://jobright.ai/jobs/info/689a0de183d13d1f5b695a5c?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Aug 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6879222b2097a271a8974d78?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product Infrastructure)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687606e65cebcd1dd51c5dce?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 10 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687b592d2097a271a898344a?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 10 |
@@ -113,12 +123,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689174c1f5ee707a15dbea11?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Aug 04 |
 | **[HeyGen](https://www.heygen.com)** | **[Product Manager, New Graduate](https://jobright.ai/jobs/info/686de5fc2f7337a591dd4f66?utm_campaign=1047&utm_source=git)** | Los Angeles | On Site | Aug 04 |
 | **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689171aef5ee707a15dbe8e6?utm_campaign=1047&utm_source=git)** | Apex, NC | On Site | Aug 04 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern [TikTok-Product-Business Analytics]-2025 Start (BS/MS)](https://jobright.ai/jobs/info/68912d76f5ee707a15dbcbfa?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 04 |
-| **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68912997f5ee707a15dbca0f?utm_campaign=1047&utm_source=git)** | Golden Valley, MN | On Site | Aug 04 |
-| ↳ | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68912970f47efe21139534ba?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | On Site | Aug 04 |
-| ↳ | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689129414c7e851b90acc90c?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Aug 04 |
-| ↳ | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68912940f5ee707a15dbc9a2?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Aug 04 |
-| ↳ | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/6891290e4c7e851b90acc8cc?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Aug 04 |
-| ↳ | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689128e7f47efe21139533b4?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Aug 04 |
-| ↳ | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689128b1f5ee707a15dbc8ea?utm_campaign=1047&utm_source=git)** | Apex, NC | On Site | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
