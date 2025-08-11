@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a1f925574fd6bc0c7fdef?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
+| ↳ | **[Undergrad Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a1ec7faa4e875e8255f70?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
+| **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Advanced Degree Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a1bfe5574fd6bc0c7fc2f?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
+| ↳ | **[Undergrad Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a1a2ffaa4e875e8255d82?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Product Development Program Associate - 2026](https://jobright.ai/jobs/info/689a0f86faa4e875e82557c7?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Product Development Program Associate - 2026](https://jobright.ai/jobs/info/689a0f48faa4e875e8255795?utm_campaign=1047&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Product Development Program Associate - 2026](https://jobright.ai/jobs/info/689a0f2583d13d1f5b695b21?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Aug 11 |
