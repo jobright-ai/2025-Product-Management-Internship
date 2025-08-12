@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Product Development Intern, Beverage (early September through mid-December)](https://jobright.ai/jobs/info/6863767dd9418499feff5d43?utm_campaign=1047&utm_source=git)** | Needham, MA | Hybrid | Aug 12 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/689bb5c683d13d1f5b6a2e25?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 12 |
 | **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Product Development Program Associate - 2026](https://jobright.ai/jobs/info/689addbd5574fd6bc0c86fbe?utm_campaign=1047&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Product Development Program Associate - 2026](https://jobright.ai/jobs/info/689adcbd5574fd6bc0c86e50?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Product Development Program Associate - 2026](https://jobright.ai/jobs/info/689adb4a83d13d1f5b69d334?utm_campaign=1047&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
