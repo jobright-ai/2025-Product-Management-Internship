@@ -59,12 +59,10 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/68996d6983d13d1f5b692844?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 12 |
 | **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, MBA Product Manager - 2026](https://jobright.ai/jobs/info/689ae573faa4e875e825da5e?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Aug 11 |
-| ↳ | **[Former Discover Intern, MBA Product Manager - 2026](https://jobright.ai/jobs/info/689ae10d5574fd6bc0c87015?utm_campaign=1047&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Product Development Program Associate - 2026](https://jobright.ai/jobs/info/689addbd5574fd6bc0c86fbe?utm_campaign=1047&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Product Development Program Associate - 2026](https://jobright.ai/jobs/info/689adcbd5574fd6bc0c86e50?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Product Development Program Associate - 2026](https://jobright.ai/jobs/info/689adb4a83d13d1f5b69d334?utm_campaign=1047&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Product Development Program Associate - 2026](https://jobright.ai/jobs/info/689adab45574fd6bc0c86b73?utm_campaign=1047&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
-| ↳ | **[Former Discover Intern, MBA Product Manager - 2026](https://jobright.ai/jobs/info/689ada1383d13d1f5b69d1a8?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, MBA Product Manager - 2026](https://jobright.ai/jobs/info/689ad9d7faa4e875e825ce38?utm_campaign=1047&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Product Development Program Associate - 2026](https://jobright.ai/jobs/info/689ad9b983d13d1f5b69d127?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Aug 11 |
 | **[griddable.io](https://griddable.io)** | **[Summer 2026 Intern - Product Growth](https://jobright.ai/jobs/info/689ad7b783d13d1f5b69ce84?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Aug 11 |
@@ -92,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Open Platform)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/688f00a0cdbd821a36644326?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 09 |
 | ↳ | **[Product Manager Intern (TikTok-PGC)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6879d6c6a7fc8904e39660de?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 09 |
 | ↳ | **[Product Manager Intern (TikTok-Search) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6875d799ae2f413e4a5aa1f7?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 09 |
-| **[Bobcat Company](https://www.bobcat.com)** | **[2025 Ecommerce Development Student Experience](https://jobright.ai/jobs/info/685c495a5279b12c1551b8ce?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Aug 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Music Discovery) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68995de0faa4e875e8251b9f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 08 |
 | **[Danfoss](https://www.danfoss.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68982d22faa4e875e824afa6?utm_campaign=1047&utm_source=git)** | Tallahassee, FL | Hybrid | Aug 08 |
 | **[Databricks](https://www.databricks.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/6898662b83d13d1f5b68ff75?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Aug 08 |
