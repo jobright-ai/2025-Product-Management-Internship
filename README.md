@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Product Development Internship (Fall 2025)](https://jobright.ai/jobs/info/689c7df3faa4e875e8268965?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Aug 13 |
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Product Development Internship (Fall 2025)](https://jobright.ai/jobs/info/689be39379a9f96662534822?utm_campaign=1047&utm_source=git)** | NYC Office | On Site | Aug 12 |
 | **[Imperial Supplies](https://www.imperialsupplies.com)** | **[Category Management Internship- Fall 2025](https://jobright.ai/jobs/info/689bd108faa4e875e8263bb2?utm_campaign=1047&utm_source=git)** | Green Bay, WI | Hybrid | Aug 12 |
 | **[GiveDirectly](https://www.givedirectly.org/)** | **[Senior Product Manager, International Rapid Response Payment Systems](https://jobright.ai/jobs/info/689bcd54faa4e875e82639c5?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 12 |
 | ↳ | **[Senior Product Manager, International Rapid Response Payment Systems](https://jobright.ai/jobs/info/689bcbd679a9f96662533c77?utm_campaign=1047&utm_source=git)** | New York, NY | Remote | Aug 12 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Software Product Manager, Supply Chain (Winter/Spring 2026)](https://jobright.ai/jobs/info/689bbc48faa4e875e8263253?utm_campaign=1047&utm_source=git)** | Fremont, CA | On Site | Aug 12 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Product Development Intern, Beverage (early September through mid-December)](https://jobright.ai/jobs/info/6863767dd9418499feff5d43?utm_campaign=1047&utm_source=git)** | Needham, MA | Hybrid | Aug 12 |
-| **[Komatsu](http://www.ehrbar.com)** | **[Product & Service Development Associate- Chicago, IL](https://jobright.ai/jobs/info/6899b95afaa4e875e8253f95?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Aug 12 |
+| **[Komatsu](https://www.komatsu.jp)** | **[Product & Service Development Associate- Chicago, IL](https://jobright.ai/jobs/info/6899b95afaa4e875e8253f95?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Aug 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/689bb5c683d13d1f5b6a2e25?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 12 |
 | **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Product Development Program Associate - 2026](https://jobright.ai/jobs/info/689addbd5574fd6bc0c86fbe?utm_campaign=1047&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Product Development Program Associate - 2026](https://jobright.ai/jobs/info/689adcbd5574fd6bc0c86e50?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Aug 11 |
@@ -75,7 +76,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689a9d2a5574fd6bc0c8416f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 11 |
 | **[Winland Foods](https://winlandfoods.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/689a809583d13d1f5b699563?utm_campaign=1047&utm_source=git)** | IL Oak Brook | Hybrid | Aug 11 |
 | ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/689a802c5574fd6bc0c83028?utm_campaign=1047&utm_source=git)** | Oak Brook, IL | Hybrid | Aug 11 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Product Growth](https://jobright.ai/jobs/info/689a65b183d13d1f5b698ab2?utm_campaign=1047&utm_source=git)** | California - San Francisco | Hybrid | Aug 11 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Product Growth](https://jobright.ai/jobs/info/689a679583d13d1f5b698c05?utm_campaign=1047&utm_source=git)** | California - San Francisco | Hybrid | Aug 11 |
 | **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a50ef83d13d1f5b6981cd?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
 | ↳ | **[Undergrad Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a504583d13d1f5b698131?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
 | ↳ | **[Advanced Degree Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a1f925574fd6bc0c7fdef?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
@@ -117,8 +118,7 @@ For a complete list, click the following sortable link below:
 | **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689173bcf5ee707a15dbe991?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Aug 07 |
 | **[Heidi Health](https://www.heidihealth.com)** | **[Product Intern](https://jobright.ai/jobs/info/6891ca9f4c7e851b90ad2142?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Aug 07 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Product Strategy Intern- Spring 2026](https://jobright.ai/jobs/info/6893c32df47efe2113966cc7?utm_campaign=1047&utm_source=git)** | Jacksonville, Florida, United States | On Site | Aug 07 |
+| **[Skin Gym](https://www.skingymco.com)** | **[Product Development and Packaging Intern](https://jobright.ai/jobs/info/689406f84c7e851b90ae22dd?utm_campaign=1047&utm_source=git)** | LA Metro Area | On Site | Aug 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Content and Service Lead Ads ) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689c3a5d79a9f96662537dd0?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 06 |
 | ↳ | **[Product Manager Intern (TikTok-Product Infrastructure)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/6875e5ad299cbc74b8758a74?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 06 |
-| **[Skin Gym](https://www.skingymco.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/689406f84c7e851b90ae22dd?utm_campaign=1047&utm_source=git)** | LA Metro Area | On Site | Aug 06 |
-| **[RF-SMART](http://rfsmart.com/)** | **[Product Strategy Intern- Spring 2026](https://jobright.ai/jobs/info/6893bb00a9199876488dfab9?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
