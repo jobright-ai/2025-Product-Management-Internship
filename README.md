@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Product Development Internship (Fall 2025)](https://jobright.ai/jobs/info/689be39379a9f96662534822?utm_campaign=1047&utm_source=git)** | NYC Office | On Site | Aug 12 |
 | **[Imperial Supplies](https://www.imperialsupplies.com)** | **[Category Management Internship- Fall 2025](https://jobright.ai/jobs/info/689bd108faa4e875e8263bb2?utm_campaign=1047&utm_source=git)** | Green Bay, WI | Hybrid | Aug 12 |
 | **[GiveDirectly](https://www.givedirectly.org/)** | **[Senior Product Manager, International Rapid Response Payment Systems](https://jobright.ai/jobs/info/689bcd54faa4e875e82639c5?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 12 |
 | ↳ | **[Senior Product Manager, International Rapid Response Payment Systems](https://jobright.ai/jobs/info/689bcbd679a9f96662533c77?utm_campaign=1047&utm_source=git)** | New York, NY | Remote | Aug 12 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Software Product Manager, Supply Chain (Winter/Spring 2026)](https://jobright.ai/jobs/info/689bbc48faa4e875e8263253?utm_campaign=1047&utm_source=git)** | Fremont, CA | On Site | Aug 12 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Product Development Intern, Beverage (early September through mid-December)](https://jobright.ai/jobs/info/6863767dd9418499feff5d43?utm_campaign=1047&utm_source=git)** | Needham, MA | Hybrid | Aug 12 |
+| **[Komatsu](http://www.ehrbar.com)** | **[Product & Service Development Associate- Chicago, IL](https://jobright.ai/jobs/info/6899b95afaa4e875e8253f95?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Aug 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/689bb5c683d13d1f5b6a2e25?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 12 |
 | **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Product Development Program Associate - 2026](https://jobright.ai/jobs/info/689addbd5574fd6bc0c86fbe?utm_campaign=1047&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Product Development Program Associate - 2026](https://jobright.ai/jobs/info/689adcbd5574fd6bc0c86e50?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Aug 11 |
