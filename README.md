@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/688dc0326a4aac5783cd6f5d?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Aug 13 |
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Product Development Internship (Fall 2025)](https://jobright.ai/jobs/info/689c7df3faa4e875e8268965?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Aug 13 |
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Product Development Internship (Fall 2025)](https://jobright.ai/jobs/info/689be39379a9f96662534822?utm_campaign=1047&utm_source=git)** | NYC Office | On Site | Aug 12 |
 | **[Imperial Supplies](https://www.imperialsupplies.com)** | **[Category Management Internship- Fall 2025](https://jobright.ai/jobs/info/689bd108faa4e875e8263bb2?utm_campaign=1047&utm_source=git)** | Green Bay, WI | Hybrid | Aug 12 |
@@ -76,7 +77,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689a9d2a5574fd6bc0c8416f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 11 |
 | **[Winland Foods](https://winlandfoods.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/689a809583d13d1f5b699563?utm_campaign=1047&utm_source=git)** | IL Oak Brook | Hybrid | Aug 11 |
 | ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/689a802c5574fd6bc0c83028?utm_campaign=1047&utm_source=git)** | Oak Brook, IL | Hybrid | Aug 11 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Product Growth](https://jobright.ai/jobs/info/689a679583d13d1f5b698c05?utm_campaign=1047&utm_source=git)** | California - San Francisco | Hybrid | Aug 11 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Product Growth](https://jobright.ai/jobs/info/689a65b183d13d1f5b698ab2?utm_campaign=1047&utm_source=git)** | California - San Francisco | Hybrid | Aug 11 |
 | **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a50ef83d13d1f5b6981cd?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
 | ↳ | **[Undergrad Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a504583d13d1f5b698131?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
 | ↳ | **[Advanced Degree Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a1f925574fd6bc0c7fdef?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
@@ -119,6 +120,4 @@ For a complete list, click the following sortable link below:
 | **[Heidi Health](https://www.heidihealth.com)** | **[Product Intern](https://jobright.ai/jobs/info/6891ca9f4c7e851b90ad2142?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Aug 07 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Product Strategy Intern- Spring 2026](https://jobright.ai/jobs/info/6893c32df47efe2113966cc7?utm_campaign=1047&utm_source=git)** | Jacksonville, Florida, United States | On Site | Aug 07 |
 | **[Skin Gym](https://www.skingymco.com)** | **[Product Development and Packaging Intern](https://jobright.ai/jobs/info/689406f84c7e851b90ae22dd?utm_campaign=1047&utm_source=git)** | LA Metro Area | On Site | Aug 07 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Content and Service Lead Ads ) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689c3a5d79a9f96662537dd0?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 06 |
-| ↳ | **[Product Manager Intern (TikTok-Product Infrastructure)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/6875e5ad299cbc74b8758a74?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
