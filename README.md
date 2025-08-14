@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-PGC)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689d3c9679a9f9666253e8f0?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 13 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/688dc0326a4aac5783cd6f5d?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Aug 13 |
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Product Development Internship (Fall 2025)](https://jobright.ai/jobs/info/689c7df3faa4e875e8268965?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Aug 13 |
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Product Development Internship (Fall 2025)](https://jobright.ai/jobs/info/689be39379a9f96662534822?utm_campaign=1047&utm_source=git)** | NYC Office | On Site | Aug 12 |
@@ -77,12 +78,11 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689a9d2a5574fd6bc0c8416f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 11 |
 | **[Winland Foods](https://winlandfoods.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/689a809583d13d1f5b699563?utm_campaign=1047&utm_source=git)** | IL Oak Brook | Hybrid | Aug 11 |
 | ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/689a802c5574fd6bc0c83028?utm_campaign=1047&utm_source=git)** | Oak Brook, IL | Hybrid | Aug 11 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Product Growth](https://jobright.ai/jobs/info/689a65b183d13d1f5b698ab2?utm_campaign=1047&utm_source=git)** | California - San Francisco | Hybrid | Aug 11 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Product Growth](https://jobright.ai/jobs/info/689a679583d13d1f5b698c05?utm_campaign=1047&utm_source=git)** | California - San Francisco | Hybrid | Aug 11 |
 | **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a50ef83d13d1f5b6981cd?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
 | ↳ | **[Undergrad Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a504583d13d1f5b698131?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
 | ↳ | **[Advanced Degree Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a1f925574fd6bc0c7fdef?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
-| **[TikTok](https://www.tiktok.com)** | **[Product manager Intern (Music copyright solution) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/687b7d1f2097a271a8984726?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 11 |
-| **[Oracle](https://www.oracle.com/)** | **[Undergrad Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a1ec7faa4e875e8255f70?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
+| ↳ | **[Undergrad Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a1ec7faa4e875e8255f70?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Advanced Degree Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a1bfe5574fd6bc0c7fc2f?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
 | ↳ | **[Undergrad Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a1a2ffaa4e875e8255d82?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Product Development Program Associate - 2026](https://jobright.ai/jobs/info/689a0f48faa4e875e8255795?utm_campaign=1047&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
