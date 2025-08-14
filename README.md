@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ASM](https://www.asm.com)** | **[Global Product Operations Intern (Fall 2025)](https://jobright.ai/jobs/info/6880fac1f4f06100f3a22a10?utm_campaign=1047&utm_source=git)** | Greater Phoenix Area | On Site | Aug 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-PGC)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689d3c9679a9f9666253e8f0?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 13 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/688dc0326a4aac5783cd6f5d?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Aug 13 |
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Product Development Internship (Fall 2025)](https://jobright.ai/jobs/info/689c7df3faa4e875e8268965?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Aug 13 |
