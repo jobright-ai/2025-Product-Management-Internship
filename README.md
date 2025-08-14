@@ -78,7 +78,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689a9d2a5574fd6bc0c8416f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 11 |
 | **[Winland Foods](https://winlandfoods.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/689a809583d13d1f5b699563?utm_campaign=1047&utm_source=git)** | IL Oak Brook | Hybrid | Aug 11 |
 | ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/689a802c5574fd6bc0c83028?utm_campaign=1047&utm_source=git)** | Oak Brook, IL | Hybrid | Aug 11 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Product Growth](https://jobright.ai/jobs/info/689a679583d13d1f5b698c05?utm_campaign=1047&utm_source=git)** | California - San Francisco | Hybrid | Aug 11 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Product Growth](https://jobright.ai/jobs/info/689a65b183d13d1f5b698ab2?utm_campaign=1047&utm_source=git)** | California - San Francisco | Hybrid | Aug 11 |
 | **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a50ef83d13d1f5b6981cd?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
 | ↳ | **[Undergrad Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a504583d13d1f5b698131?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
 | ↳ | **[Advanced Degree Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a1f925574fd6bc0c7fdef?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
@@ -119,5 +119,4 @@ For a complete list, click the following sortable link below:
 | **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689173bcf5ee707a15dbe991?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Aug 07 |
 | **[Heidi Health](https://www.heidihealth.com)** | **[Product Intern](https://jobright.ai/jobs/info/6891ca9f4c7e851b90ad2142?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Aug 07 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Product Strategy Intern- Spring 2026](https://jobright.ai/jobs/info/6893c32df47efe2113966cc7?utm_campaign=1047&utm_source=git)** | Jacksonville, Florida, United States | On Site | Aug 07 |
-| **[Skin Gym](https://www.skingymco.com)** | **[Product Development and Packaging Intern](https://jobright.ai/jobs/info/689406f84c7e851b90ae22dd?utm_campaign=1047&utm_source=git)** | LA Metro Area | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
