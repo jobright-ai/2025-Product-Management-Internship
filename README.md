@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Entertainment Product Development Intern](https://jobright.ai/jobs/info/689e188c83d13d1f5b6b6b40?utm_campaign=1047&utm_source=git)** | Alberta, AL | On Site | Aug 14 |
 | **[TikTok](https://www.tiktok.com)** | **[User Product Operations Intern [TikTok Local Services] - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689ded89faa4e875e8275668?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Aug 14 |
 | **[ASM](https://www.asm.com)** | **[Global Product Operations Intern (Fall 2025)](https://jobright.ai/jobs/info/6880fac1f4f06100f3a22a10?utm_campaign=1047&utm_source=git)** | Greater Phoenix Area | On Site | Aug 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-PGC)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689d3c9679a9f9666253e8f0?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 13 |
@@ -79,7 +80,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689a9d2a5574fd6bc0c8416f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 11 |
 | **[Winland Foods](https://winlandfoods.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/689a809583d13d1f5b699563?utm_campaign=1047&utm_source=git)** | IL Oak Brook | Hybrid | Aug 11 |
 | ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/689a802c5574fd6bc0c83028?utm_campaign=1047&utm_source=git)** | Oak Brook, IL | Hybrid | Aug 11 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Product Growth](https://jobright.ai/jobs/info/689a65b183d13d1f5b698ab2?utm_campaign=1047&utm_source=git)** | California - San Francisco | Hybrid | Aug 11 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Product Growth](https://jobright.ai/jobs/info/689a679583d13d1f5b698c05?utm_campaign=1047&utm_source=git)** | California - San Francisco | Hybrid | Aug 11 |
 | **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a50ef83d13d1f5b6981cd?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
 | ↳ | **[Undergrad Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a504583d13d1f5b698131?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
 | ↳ | **[Advanced Degree Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a1f925574fd6bc0c7fdef?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
@@ -108,6 +109,4 @@ For a complete list, click the following sortable link below:
 | **[Dematic](http://www.dematic.com)** | **[Engineering and Product Management Intern](https://jobright.ai/jobs/info/688330f4835a903aa07f4a40?utm_campaign=1047&utm_source=git)** | Wauwatosa, WI | On Site | Aug 08 |
 | **[Cosm](https://www.cosm.com)** | **[Product Intern, Web & Mobile](https://jobright.ai/jobs/info/68956c4d4ed2ea559ca55a10?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 07 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Products Intern](https://jobright.ai/jobs/info/689556a14ed2ea559ca55178?utm_campaign=1047&utm_source=git)** | Strongsville, OH | On Site | Aug 07 |
-| **[Cosm](https://www.cosm.com)** | **[Product Intern, Web & Mobile](https://jobright.ai/jobs/info/68954a9d8c6d6b4426778a2d?utm_campaign=1047&utm_source=git)** | Playa Vista, Los Angeles, CA, USA | On Site | Aug 07 |
-| **[Microsoft](https://www.microsoft.com)** | **[Product Management: Internship Opportunities](https://jobright.ai/jobs/info/689537794ed2ea559ca5423d?utm_campaign=1047&utm_source=git)** | Redmond, WA | Hybrid | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
