@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Grid Automation Product Management Intern - Spring-Summer 2026](https://jobright.ai/jobs/info/689f34a779a9f96662554e28?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Aug 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategy & Operations Manager Project Intern- PSO Commerce - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/689e8f60faa4e875e827dc8a?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 14 |
 | **[Stellantis](https://www.stellantis.com)** | **[2026 Product Design Office (PDO) Business Planning Summer Internship](https://jobright.ai/jobs/info/689e763efaa4e875e827cdd8?utm_campaign=1047&utm_source=git)** | Auburn Hills, MI | Hybrid | Aug 14 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Entertainment Product Development Intern](https://jobright.ai/jobs/info/689e188c83d13d1f5b6b6b40?utm_campaign=1047&utm_source=git)** | Alberta, AL | On Site | Aug 14 |
