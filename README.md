@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Uline](http://www.uline.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/689f6e5083d13d1f5b6c6ac7?utm_campaign=1047&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
+| ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/689f6e3dfaa4e875e8286bba?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
+| ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/689f6e1b83d13d1f5b6c68fa?utm_campaign=1047&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
+| ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/689f6e1779a9f96662556d66?utm_campaign=1047&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
+| ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/689f6e15faa4e875e8286b0f?utm_campaign=1047&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
+| **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2025 Ecommerce Product Owner Internship](https://jobright.ai/jobs/info/689f67fe79a9f96662556a59?utm_campaign=1047&utm_source=git)** | Knoxville, TN | On Site | Aug 15 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Grid Automation Product Management Intern - Spring-Summer 2026](https://jobright.ai/jobs/info/689f34a779a9f96662554e28?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Aug 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategy & Operations Manager Project Intern- PSO Commerce - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/689e8f60faa4e875e827dc8a?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 14 |
 | **[Stellantis](https://www.stellantis.com)** | **[2026 Product Design Office (PDO) Business Planning Summer Internship](https://jobright.ai/jobs/info/689e763efaa4e875e827cdd8?utm_campaign=1047&utm_source=git)** | Auburn Hills, MI | Hybrid | Aug 14 |
@@ -83,7 +89,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689a9d2a5574fd6bc0c8416f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 11 |
 | **[Winland Foods](https://winlandfoods.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/689a809583d13d1f5b699563?utm_campaign=1047&utm_source=git)** | IL Oak Brook | Hybrid | Aug 11 |
 | ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/689a802c5574fd6bc0c83028?utm_campaign=1047&utm_source=git)** | Oak Brook, IL | Hybrid | Aug 11 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Product Growth](https://jobright.ai/jobs/info/689a65b183d13d1f5b698ab2?utm_campaign=1047&utm_source=git)** | California - San Francisco | Hybrid | Aug 11 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Product Growth](https://jobright.ai/jobs/info/689a679583d13d1f5b698c05?utm_campaign=1047&utm_source=git)** | California - San Francisco | Hybrid | Aug 11 |
 | **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a50ef83d13d1f5b6981cd?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
 | ↳ | **[Undergrad Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a504583d13d1f5b698131?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
 | ↳ | **[Advanced Degree Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a1f925574fd6bc0c7fdef?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
@@ -103,8 +109,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Open Platform)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/688f00a0cdbd821a36644326?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 09 |
 | ↳ | **[Product Manager Intern (TikTok-PGC)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6879d6c6a7fc8904e39660de?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 09 |
 | ↳ | **[Product Manager Intern (TikTok-Search) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6875d799ae2f413e4a5aa1f7?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 09 |
-| **[Danfoss](https://www.danfoss.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68982d22faa4e875e824afa6?utm_campaign=1047&utm_source=git)** | Tallahassee, FL | Hybrid | Aug 08 |
-| **[Databricks](https://www.databricks.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/6898662b83d13d1f5b68ff75?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Aug 08 |
-| ↳ | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68984545faa4e875e824c9d6?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Aug 08 |
-| ↳ | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/689752ea1b9e81727f19857e?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
