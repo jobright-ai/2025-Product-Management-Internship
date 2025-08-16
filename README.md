@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/68850c3afbbf032d0006bcf7?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Aug 16 |
 | **[Lifetime Benefit Solutions, Inc.](http://lifetimebenefitsolutions.com)** | **[College Intern I - Fall 2025 - Digital Products](https://jobright.ai/jobs/info/689fede2cc9ee94dc911ac32?utm_campaign=1047&utm_source=git)** | Buffalo, NY | On Site | Aug 15 |
 | ↳ | **[College Intern I - Fall 2025 - Digital Products](https://jobright.ai/jobs/info/689fed83cc9ee94dc911ab04?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Aug 15 |
 | ↳ | **[College Intern I - Fall 2025 - Digital Products](https://jobright.ai/jobs/info/689fe99283d13d1f5b6cbc97?utm_campaign=1047&utm_source=git)** | Utica, NY | On Site | Aug 15 |
