@@ -103,7 +103,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689a9d2a5574fd6bc0c8416f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 11 |
 | **[Winland Foods](https://winlandfoods.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/689a809583d13d1f5b699563?utm_campaign=1047&utm_source=git)** | IL Oak Brook | Hybrid | Aug 11 |
 | ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/689a802c5574fd6bc0c83028?utm_campaign=1047&utm_source=git)** | Oak Brook, IL | Hybrid | Aug 11 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Product Growth](https://jobright.ai/jobs/info/689a679583d13d1f5b698c05?utm_campaign=1047&utm_source=git)** | California - San Francisco | Hybrid | Aug 11 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Product Growth](https://jobright.ai/jobs/info/689a65b183d13d1f5b698ab2?utm_campaign=1047&utm_source=git)** | California - San Francisco | Hybrid | Aug 11 |
 | **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a50ef83d13d1f5b6981cd?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
 | ↳ | **[Undergrad Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a504583d13d1f5b698131?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
 | ↳ | **[Advanced Degree Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a1f925574fd6bc0c7fdef?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
@@ -118,5 +118,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6879222b2097a271a8974d78?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/689c2563faa4e875e82665fe?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 10 |
 | ↳ | **[Product Manager Intern (TikTok-Product Infrastructure)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687606e65cebcd1dd51c5dce?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 10 |
-| **[Rippling](https://www.rippling.com)** | **[Product Lead Internship - Summer 2026](https://jobright.ai/jobs/info/687f04b4db19f31cf0d6efaf?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Aug 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
