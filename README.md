@@ -122,5 +122,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Former Discover Intern, Product Development Program Associate - 2026](https://jobright.ai/jobs/info/689a0eb583d13d1f5b695ad6?utm_campaign=1047&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Search) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6879222b2097a271a8974d78?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/689c2563faa4e875e82665fe?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 10 |
-| ↳ | **[Product Manager Intern (TikTok-Product Infrastructure)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687606e65cebcd1dd51c5dce?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
