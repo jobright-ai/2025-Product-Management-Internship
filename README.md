@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Ads Attribution and Measurement Graduate (Measurement Signal and Privacy Product) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68a2d9c6468ac21d6fabb464?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 18 |
 | **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Product Management Intern (Intern Program)](https://jobright.ai/jobs/info/68a25aac83d13d1f5b6d5c1a?utm_campaign=1047&utm_source=git)** | Beachwood, OH | Hybrid | Aug 17 |
 | **[Apprenticely](https://apprenticely.org/)** | **[Associate Product Owner Intern](https://jobright.ai/jobs/info/68a0d73ecc9ee94dc9120a76?utm_campaign=1047&utm_source=git)** | Fayetteville, AR | On Site | Aug 16 |
 | **[Workato](http://www.workato.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/686ff1a1a5ae807a59cf47be?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Aug 16 |
@@ -76,12 +77,12 @@ For a complete list, click the following sortable link below:
 | **[Lifetime Benefit Solutions, Inc.](http://lifetimebenefitsolutions.com)** | **[College Intern I - Fall 2025 - Digital Products](https://jobright.ai/jobs/info/689fd6cdfaa4e875e828b92b?utm_campaign=1047&utm_source=git)** | Elmira, NY | On Site | Aug 15 |
 | **[Univera Healthcare](https://www.univerahealthcare.com)** | **[College Intern I - Fall 2025 - Digital Products](https://jobright.ai/jobs/info/689fc971cc9ee94dc9119cb2?utm_campaign=1047&utm_source=git)** | Buffalo, NY | On Site | Aug 15 |
 | **[Apprenticely](https://apprenticely.org/)** | **[Associate Product Owner Intern](https://jobright.ai/jobs/info/689fb655faa4e875e828a9ce?utm_campaign=1047&utm_source=git)** | Fayetteville, AR | On Site | Aug 15 |
-| **[Uline](http://www.uline.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/689f905c83d13d1f5b6c9a92?utm_campaign=1047&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Product Management Intern (Rochester, NY)](https://jobright.ai/jobs/info/689f901183d13d1f5b6c99b8?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Aug 15 |
 | **[Uline](http://www.uline.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/689f900183d13d1f5b6c998e?utm_campaign=1047&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
-| ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/689f8bedfaa4e875e82899f8?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
-| ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/689f8ac7b3e889632cf086d9?utm_campaign=1047&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
 | ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/689f6e5083d13d1f5b6c6ac7?utm_campaign=1047&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
+| ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/689f6e3dfaa4e875e8286bba?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
+| ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/689f6e1b83d13d1f5b6c68fa?utm_campaign=1047&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
+| ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/689f6e15faa4e875e8286b0f?utm_campaign=1047&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2025 Ecommerce Product Owner Internship](https://jobright.ai/jobs/info/689f67fe79a9f96662556a59?utm_campaign=1047&utm_source=git)** | Knoxville, TN | On Site | Aug 15 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Grid Automation Product Management Intern - Spring-Summer 2026](https://jobright.ai/jobs/info/689f34a779a9f96662554e28?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Aug 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategy & Operations Manager Project Intern- PSO Commerce - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/689e8f60faa4e875e827dc8a?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 14 |
