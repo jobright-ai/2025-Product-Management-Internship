@@ -79,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/68850c3afbbf032d0006bcf7?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Aug 16 |
 | **[Apprenticely](https://apprenticely.org/)** | **[Associate Product Owner Intern](https://jobright.ai/jobs/info/689fb655faa4e875e828a9ce?utm_campaign=1047&utm_source=git)** | Fayetteville, AR | On Site | Aug 15 |
 | **[Uline](http://www.uline.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/689f900183d13d1f5b6c998e?utm_campaign=1047&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
-| ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/689f8bedfaa4e875e82899f8?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
-| ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/689f6e5083d13d1f5b6c6ac7?utm_campaign=1047&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
+| ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/689f8ad4b3e889632cf086ff?utm_campaign=1047&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
+| ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/689f6e3dfaa4e875e8286bba?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
 | ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/689f6e1b83d13d1f5b6c68fa?utm_campaign=1047&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
 | ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/689f6e15faa4e875e8286b0f?utm_campaign=1047&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2025 Ecommerce Product Owner Internship](https://jobright.ai/jobs/info/689f67fe79a9f96662556a59?utm_campaign=1047&utm_source=git)** | Knoxville, TN | On Site | Aug 15 |
