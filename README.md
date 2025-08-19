@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chamberlain Group](http://www.chamberlaingroup.com)** | **[Intern, Product Management (Summer 2026)](https://jobright.ai/jobs/info/68a3bb70403ad4363b1c34d3?utm_campaign=1047&utm_source=git)** | Oak Brook, IL | On Site | Aug 18 |
+| **[Systems, LLC - Poweramp | DLM](https://loadingdocksystems.com)** | **[Intern, Product Management (Summer 2026)](https://jobright.ai/jobs/info/68a3b9251ab5f8579e8a7c4d?utm_campaign=1047&utm_source=git)** | Oak Brook, IL | Hybrid | Aug 18 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/68a38565403ad4363b1c2024?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Aug 18 |
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Multifamily Digital Product Analysis Intern- Summer 2026](https://jobright.ai/jobs/info/68a37e8137d3cc6b0d577886?utm_campaign=1047&utm_source=git)** | McLean, VA | On Site | Aug 18 |
 | **[SAP](https://www.sap.com)** | **[SAP Emarsys iXp Intern - Product Management](https://jobright.ai/jobs/info/68a36964403ad4363b1c0cea?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | Hybrid | Aug 18 |
@@ -80,16 +82,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Intern I - Fall 2025 - Digital Products](https://jobright.ai/jobs/info/689fe98bcc9ee94dc911a97f?utm_campaign=1047&utm_source=git)** | DeWitt, NY | On Site | Aug 15 |
 | ↳ | **[College Intern I - Fall 2025 - Digital Products](https://jobright.ai/jobs/info/689fe95ecc9ee94dc911a93f?utm_campaign=1047&utm_source=git)** | Binghamton, NY | On Site | Aug 15 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Fall 2025 - Digital Products](https://jobright.ai/jobs/info/689fe3cccc9ee94dc911a7dd?utm_campaign=1047&utm_source=git)** | Elmira, NY | On Site | Aug 15 |
-| ↳ | **[College Intern I - Fall 2025 - Digital Products](https://jobright.ai/jobs/info/689fe384faa4e875e828bced?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Aug 15 |
-| ↳ | **[College Intern I - Fall 2025 - Digital Products](https://jobright.ai/jobs/info/689fe0ddfaa4e875e828bc9a?utm_campaign=1047&utm_source=git)** | Binghamton, NY | On Site | Aug 15 |
-| ↳ | **[College Intern I - Fall 2025 - Digital Products](https://jobright.ai/jobs/info/689fe0d2cc9ee94dc911a70d?utm_campaign=1047&utm_source=git)** | DeWitt, NY | On Site | Aug 15 |
-| ↳ | **[College Intern I - Fall 2025 - Digital Products](https://jobright.ai/jobs/info/689fe0a6faa4e875e828bc1e?utm_campaign=1047&utm_source=git)** | Utica, NY | On Site | Aug 15 |
 | **[Lifetime Benefit Solutions, Inc.](http://lifetimebenefitsolutions.com)** | **[College Intern I - Fall 2025 - Digital Products](https://jobright.ai/jobs/info/689fd6cdfaa4e875e828b92b?utm_campaign=1047&utm_source=git)** | Elmira, NY | On Site | Aug 15 |
 | **[Univera Healthcare](https://www.univerahealthcare.com)** | **[College Intern I - Fall 2025 - Digital Products](https://jobright.ai/jobs/info/689fc971cc9ee94dc9119cb2?utm_campaign=1047&utm_source=git)** | Buffalo, NY | On Site | Aug 15 |
 | **[Apprenticely](https://apprenticely.org/)** | **[Associate Product Owner Intern](https://jobright.ai/jobs/info/689fb655faa4e875e828a9ce?utm_campaign=1047&utm_source=git)** | Fayetteville, AR | On Site | Aug 15 |
 | **[Uline](http://www.uline.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/689f905c83d13d1f5b6c9a92?utm_campaign=1047&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
 | ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/689f8bedfaa4e875e82899f8?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
-| ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/689f8ad4b3e889632cf086ff?utm_campaign=1047&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
+| ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/689f6e5083d13d1f5b6c6ac7?utm_campaign=1047&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
 | ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/689f6e1b83d13d1f5b6c68fa?utm_campaign=1047&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
 | ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/689f6e1779a9f96662556d66?utm_campaign=1047&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2025 Ecommerce Product Owner Internship](https://jobright.ai/jobs/info/689f67fe79a9f96662556a59?utm_campaign=1047&utm_source=git)** | Knoxville, TN | On Site | Aug 15 |
@@ -109,9 +107,4 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, Software Product Manager, Supply Chain (Winter/Spring 2026)](https://jobright.ai/jobs/info/689bbc48faa4e875e8263253?utm_campaign=1047&utm_source=git)** | Fremont, CA | On Site | Aug 12 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Product Development Intern, Beverage (early September through mid-December)](https://jobright.ai/jobs/info/6863767dd9418499feff5d43?utm_campaign=1047&utm_source=git)** | Needham, MA | Hybrid | Aug 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/689bb5c683d13d1f5b6a2e25?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 12 |
-| **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Product Development Program Associate - 2026](https://jobright.ai/jobs/info/689addbd5574fd6bc0c86fbe?utm_campaign=1047&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
-| ↳ | **[Former Discover Intern, Product Development Program Associate - 2026](https://jobright.ai/jobs/info/689adcbd5574fd6bc0c86e50?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Aug 11 |
-| ↳ | **[Former Discover Intern, Product Development Program Associate - 2026](https://jobright.ai/jobs/info/689adb4a83d13d1f5b69d334?utm_campaign=1047&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
-| ↳ | **[Former Discover Intern, Product Development Program Associate - 2026](https://jobright.ai/jobs/info/689adab45574fd6bc0c86b73?utm_campaign=1047&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
-| ↳ | **[Former Discover Intern, Product Development Program Associate - 2026](https://jobright.ai/jobs/info/689ad9b983d13d1f5b69d127?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
