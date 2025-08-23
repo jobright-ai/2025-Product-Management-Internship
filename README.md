@@ -121,5 +121,4 @@ For a complete list, click the following sortable link below:
 | **[Procter & Gamble](https://us.pg.com/)** | **[Project & Product Manager Internships](https://jobright.ai/jobs/info/68a3554f1ab5f8579e8a4c16?utm_campaign=1047&utm_source=git)** | CINCINNATI GENERAL OFFICES | On Site | Aug 18 |
 | **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Product Management Intern (Intern Program)](https://jobright.ai/jobs/info/68a25aac83d13d1f5b6d5c1a?utm_campaign=1047&utm_source=git)** | Beachwood, OH | Hybrid | Aug 17 |
 | **[Apprenticely](https://apprenticely.org/)** | **[Associate Product Owner Intern](https://jobright.ai/jobs/info/68a0d73ecc9ee94dc9120a76?utm_campaign=1047&utm_source=git)** | Fayetteville, AR | On Site | Aug 16 |
-| **[Workato](http://www.workato.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/686ff1a1a5ae807a59cf47be?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Aug 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
