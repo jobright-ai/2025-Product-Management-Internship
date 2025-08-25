@@ -70,7 +70,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (TikTok-PGC)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689d3c9679a9f9666253e8f0?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 | **[Upstart](https://upstart.com/about)** | **[Join our Product Talent Community!](https://jobright.ai/jobs/info/68a7a6cd33dd7158bbca894f?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689a9d2a5574fd6bc0c8416f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
-| ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Fall Starts ((MBA)](https://jobright.ai/jobs/info/684be6c9a0e956a8afae5e08?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 | ↳ | **[Product Manager Intern [TikTok-Product-Comprehensive Search]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688ee53f6a4aac5783cdb0cf?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Product Development Legal Summer Intern](https://jobright.ai/jobs/info/68a777a733dd7158bbca77bb?utm_campaign=1047&utm_source=git)** | Hartford, CT | On Site | Aug 21 |
 | **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Digital Product Management Summer Intern](https://jobright.ai/jobs/info/68a7766c33dd7158bbca7672?utm_campaign=1047&utm_source=git)** | Triad Area | Hybrid | Aug 21 |
@@ -113,5 +112,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Research Intern (2026)](https://jobright.ai/jobs/info/68a4a881e9f1c744da1231b6?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Aug 19 |
 | **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68732234a5ae807a59d07d2d?utm_campaign=1047&utm_source=git)** | Quincy, IL | On Site | Aug 19 |
 | **[Acres](https://www.acres.com)** | **[Associate Product Owner Intern (full-time 3-month internship)](https://jobright.ai/jobs/info/68a42985541cc3479840af66?utm_campaign=1047&utm_source=git)** | Fayetteville, AR | On Site | Aug 19 |
-| **[Freddie Mac](http://www.freddiemac.com)** | **[Multifamily Digital Product Analysis Intern- Summer 2026](https://jobright.ai/jobs/info/68a37e8137d3cc6b0d577886?utm_campaign=1047&utm_source=git)** | McLean, VA | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
