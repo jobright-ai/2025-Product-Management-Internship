@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[griddable.io](https://griddable.io)** | **[Summer 2026 Intern - Product Growth](https://jobright.ai/jobs/info/68abd498758f2e4ac3000d8b?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Aug 24 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68a8d2a7758f2e4ac3ff5a54?utm_campaign=1047&utm_source=git)** | Bridgeton, MO | On Site | Aug 22 |
 | **[HARMAN International](https://www.harman.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68a874ff6acf96396f72016a?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 22 |
 | **[Follio](https://www.follio.net/)** | **[Technical Product Manager Intern](https://jobright.ai/jobs/info/68a8b2496acf96396f721e06?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 22 |
