@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 Product Manager Technical paid intern  (Jan and May hires)](https://jobright.ai/jobs/info/68ac2116758f2e4ac3004574?utm_campaign=1047&utm_source=git)** | Riverton, UT, United States | Hybrid | Aug 25 |
 | **[griddable.io](https://griddable.io)** | **[Summer 2026 Intern - Product Growth](https://jobright.ai/jobs/info/68abd498758f2e4ac3000d8b?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Aug 24 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68a8d2a7758f2e4ac3ff5a54?utm_campaign=1047&utm_source=git)** | Bridgeton, MO | On Site | Aug 22 |
 | **[HARMAN International](https://www.harman.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68a874ff6acf96396f72016a?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 22 |
@@ -89,7 +90,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Strategist Intern [TikTok-Product-Business Analytics]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688e2c436a4aac5783cd88e8?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 | ↳ | **[Issue Discovery Operation Intern [TikTok-Product-Content Ecosystem]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688e2c42e5cead4afd45bf2f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 | ↳ | **[Product Manager Ads Attribution and Measurement Graduate (Measurement Signal and Privacy Product) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68a2d9c6468ac21d6fabb464?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
-| ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2025Fall Starts (BS/MS)](https://jobright.ai/jobs/info/68a7f26b758f2e4ac3fef646?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 | ↳ | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance)- 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/68a80751d627244576e30490?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 | ↳ | **[Product Operations Manager Intern (TikTok Shop, Merchandise Growth) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68a81ff433dd7158bbcac62a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Aug 21 |
 | ↳ | **[Product Manager Intern (TikTok Shop Operation Product, CRM) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68a7e253758f2e4ac3fef025?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Aug 21 |
@@ -117,6 +117,4 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP Emarsys iXp Intern - Product Management](https://jobright.ai/jobs/info/68a36964403ad4363b1c0cea?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | Hybrid | Aug 18 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Project & Product Manager Internships](https://jobright.ai/jobs/info/68a36208403ad4363b1c08ec?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Aug 18 |
 | **[Datadog](https://www.datadoghq.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68a35cc837d3cc6b0d5762e6?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Aug 18 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68a35911403ad4363b1c049a?utm_campaign=1047&utm_source=git)** | New York, New York, USA | Hybrid | Aug 18 |
-| **[Procter & Gamble](https://us.pg.com/)** | **[Project & Product Manager Internships](https://jobright.ai/jobs/info/68a3554f1ab5f8579e8a4c16?utm_campaign=1047&utm_source=git)** | CINCINNATI GENERAL OFFICES | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
