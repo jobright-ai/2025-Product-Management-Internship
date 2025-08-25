@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[2026 Product Manager Technical paid intern (Jan and May hires)](https://jobright.ai/jobs/info/68ac8896758f2e4ac30064e8?utm_campaign=1047&utm_source=git)** | Riverton, UT | Hybrid | Aug 25 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Product Management/Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac79be758f2e4ac3005e17?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 25 |
+| **[Prudential Financial](http://www.prudential.com)** | **[Prudential: 2026 Global Technology & Operations, Internship Program](https://jobright.ai/jobs/info/68ac773ad627244576e460a7?utm_campaign=1047&utm_source=git)** | Newark, NJ | Hybrid | Aug 25 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 Product Manager Technical paid intern (Jan and May hires)](https://jobright.ai/jobs/info/68ac76dcd627244576e4604a?utm_campaign=1047&utm_source=git)** | Riverton, UT | Hybrid | Aug 25 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/68ac7688758f2e4ac3005c5d?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Aug 25 |
+| **[PGIM](https://www.pgim.com)** | **[Prudential: 2026 Global Technology & Operations, Internship Program](https://jobright.ai/jobs/info/68ac75e6758f2e4ac3005b55?utm_campaign=1047&utm_source=git)** | Newark, NJ, USA | Hybrid | Aug 25 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 Product Manager Technical paid intern  (Jan and May hires)](https://jobright.ai/jobs/info/68ac2116758f2e4ac3004574?utm_campaign=1047&utm_source=git)** | Riverton, UT, United States | Hybrid | Aug 25 |
 | **[griddable.io](https://griddable.io)** | **[Summer 2026 Intern - Product Growth](https://jobright.ai/jobs/info/68abd498758f2e4ac3000d8b?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Aug 24 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68a8d2a7758f2e4ac3ff5a54?utm_campaign=1047&utm_source=git)** | Bridgeton, MO | On Site | Aug 22 |
 | **[HARMAN International](https://www.harman.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68a874ff6acf96396f72016a?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 22 |
-| **[Follio](https://www.follio.net/)** | **[Technical Product Manager Intern](https://jobright.ai/jobs/info/68a8b2496acf96396f721e06?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 22 |
-| **[HARMAN International](https://www.harman.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68a81dc1d627244576e3174a?utm_campaign=1047&utm_source=git)** | Northridge - California, USA | Hybrid | Aug 22 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68a81dc1d627244576e3174a?utm_campaign=1047&utm_source=git)** | Northridge - California, USA | Hybrid | Aug 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/68a9520ad627244576e38e3a?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 | ↳ | **[Product Solutions and Operations Project Intern - Content and Service Ads- Fall 2025 (BS/ MS)](https://jobright.ai/jobs/info/68a7ca30d627244576e2ed8d?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Aug 21 |
 | **[Juniper Systems](http://junipersys.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68a915fe758f2e4ac3ff7387?utm_campaign=1047&utm_source=git)** | Logan, UT | On Site | Aug 21 |
