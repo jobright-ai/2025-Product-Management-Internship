@@ -114,7 +114,4 @@ For a complete list, click the following sortable link below:
 | **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68732234a5ae807a59d07d2d?utm_campaign=1047&utm_source=git)** | Quincy, IL | On Site | Aug 19 |
 | **[Acres](https://www.acres.com)** | **[Associate Product Owner Intern (full-time 3-month internship)](https://jobright.ai/jobs/info/68a42985541cc3479840af66?utm_campaign=1047&utm_source=git)** | Fayetteville, AR | On Site | Aug 19 |
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Multifamily Digital Product Analysis Intern- Summer 2026](https://jobright.ai/jobs/info/68a37e8137d3cc6b0d577886?utm_campaign=1047&utm_source=git)** | McLean, VA | On Site | Aug 18 |
-| **[SAP](https://www.sap.com)** | **[SAP Emarsys iXp Intern - Product Management](https://jobright.ai/jobs/info/68a36964403ad4363b1c0cea?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | Hybrid | Aug 18 |
-| **[Procter & Gamble](https://us.pg.com/)** | **[Project & Product Manager Internships](https://jobright.ai/jobs/info/68a36208403ad4363b1c08ec?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Aug 18 |
-| **[Datadog](https://www.datadoghq.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68a35cc837d3cc6b0d5762e6?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
