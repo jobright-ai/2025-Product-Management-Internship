@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689175e6f47efe2113955864?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | On Site | Aug 26 |
+| **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689171aef5ee707a15dbe8e6?utm_campaign=1047&utm_source=git)** | Apex, NC | On Site | Aug 26 |
+| ↳ | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689177d14c7e851b90acedf1?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Aug 26 |
+| ↳ | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68916c18f47efe21139551b8?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Aug 26 |
+| ↳ | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689170aef47efe21139553b1?utm_campaign=1047&utm_source=git)** | Golden Valley, MN | On Site | Aug 26 |
+| ↳ | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689174c1f5ee707a15dbea11?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Aug 26 |
+| ↳ | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689175e6f47efe2113955864?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | On Site | Aug 26 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Product Manager, Machine Vision](https://jobright.ai/jobs/info/68ad6c36d627244576e4db8d?utm_campaign=1047&utm_source=git)** | Holtsville, NY | On Site | Aug 25 |
 | **[Life Alive Café](http://www.lifealive.com)** | **[Innovation and Product Development Intern](https://jobright.ai/jobs/info/68ad317e758f2e4ac300b9f7?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Aug 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern - SMB Industry Operations - 2025 Start (BS/ MS)](https://jobright.ai/jobs/info/68ad1642d627244576e4b177?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Aug 25 |
@@ -66,9 +71,9 @@ For a complete list, click the following sortable link below:
 | **[Cigna Healthcare](http://www.cigna.com)** | **[HD Product Strategy Intern](https://jobright.ai/jobs/info/68acbcddd627244576e48a6e?utm_campaign=1047&utm_source=git)** | Bloomfield, CT | Remote | Aug 25 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management/Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca838758f2e4ac300772f?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/68aca754758f2e4ac3007668?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Aug 25 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca463d627244576e478c6?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca5ba758f2e4ac30074ec?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
+| ↳ | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca463d627244576e478c6?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
 | ↳ | **[Product Management Engineering MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9afad627244576e473c3?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
-| ↳ | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9a3f758f2e4ac3006d42?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
 | ↳ | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9637daf1431824c963ff?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
 | ↳ | **[Product Management Engineering MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9633d627244576e47011?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
 | ↳ | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac95c7d627244576e46ff9?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
@@ -124,5 +129,4 @@ For a complete list, click the following sortable link below:
 | **[Engrain](http://engrain.com/)** | **[Product Implementation Intern](https://jobright.ai/jobs/info/68a53144758f2e4ac3fdcb13?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Aug 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product-Search Growth]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6891886c4c7e851b90acf90e?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 19 |
 | **[AQR Capital Management](https://www.aqr.com)** | **[2026 Research Product Specialist Summer Intern](https://jobright.ai/jobs/info/68a4fa5b758f2e4ac3fdb1ac?utm_campaign=1047&utm_source=git)** | Greenwich, CT | On Site | Aug 19 |
-| **[Figma](https://www.figma.com)** | **[Product Research Intern (2026)](https://jobright.ai/jobs/info/68a4c17b541cc3479840d732?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
