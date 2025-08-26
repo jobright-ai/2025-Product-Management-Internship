@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern - SMB Industry Operations - 2025 Start (BS/ MS)](https://jobright.ai/jobs/info/68ad1642d627244576e4b177?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Aug 25 |
 | **[The Cigna Group](https://www.cigna.com/)** | **[HD Product Strategy Intern](https://jobright.ai/jobs/info/68acf440daf1431824c99593?utm_campaign=1047&utm_source=git)** | Bloomfield, CT | Remote | Aug 25 |
 | **[Tru Fragrance & Beauty](https://www.trufragrance.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/68acc2b0758f2e4ac30088cc?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Aug 25 |
 | **[Cigna Healthcare](http://www.cigna.com)** | **[HD Product Strategy Intern](https://jobright.ai/jobs/info/68acbcddd627244576e48a6e?utm_campaign=1047&utm_source=git)** | Bloomfield, CT | Remote | Aug 25 |
@@ -67,7 +68,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Engineering MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9afad627244576e473c3?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
 | ↳ | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9637daf1431824c963ff?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
 | ↳ | **[Product Management Engineering MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9633d627244576e47011?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
-| ↳ | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac95c7d627244576e46ff9?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
+| ↳ | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac956bd627244576e46fe3?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[2026 Product Manager Technical paid intern (Jan and May hires)](https://jobright.ai/jobs/info/68ac8896758f2e4ac30064e8?utm_campaign=1047&utm_source=git)** | Riverton, UT | Hybrid | Aug 25 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management/Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac79be758f2e4ac3005e17?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 25 |
 | **[Prudential Financial](http://www.prudential.com)** | **[Prudential: 2026 Global Technology & Operations, Internship Program](https://jobright.ai/jobs/info/68ac773ad627244576e460a7?utm_campaign=1047&utm_source=git)** | Newark, NJ | Hybrid | Aug 25 |
@@ -91,7 +92,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Development Legal Summer Intern](https://jobright.ai/jobs/info/68a774af758f2e4ac3fec4df?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Aug 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Business Risk Integrated Control) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688999949f961617fe215e88?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 | ↳ | **[Product Strategist Project Intern [TikTok-Product-Business Analytics]-2025 Start (BS/MS)](https://jobright.ai/jobs/info/68912d76f5ee707a15dbcbfa?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
-| ↳ | **[Product Operations Project Intern - Search Ads - Fall 2025 (BS/ MS)](https://jobright.ai/jobs/info/688992fe9f961617fe215a5e?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 | ↳ | **[Product Manager Intern (TikTok Shop Seller Risk/Performance Score Product) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/68883daafbbf032d00079852?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Aug 21 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Technology, Data, AI & Ventures Summer Internship Program - Technical Product Management Intern](https://jobright.ai/jobs/info/68a570beb6a3617d7fa71e6c?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Aug 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/689bb5c683d13d1f5b6a2e25?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
@@ -123,5 +123,4 @@ For a complete list, click the following sortable link below:
 | **[Acres](https://www.acres.com)** | **[Product Intern (full-time 3-month internship)](https://jobright.ai/jobs/info/68a42985541cc3479840af66?utm_campaign=1047&utm_source=git)** | Fayetteville, AR | On Site | Aug 19 |
 | **[Figma](https://www.figma.com)** | **[Product Research Intern (2026)](https://jobright.ai/jobs/info/68a4c17b541cc3479840d732?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Aug 19 |
 | ↳ | **[Product Research Intern (2026)](https://jobright.ai/jobs/info/68a4a881e9f1c744da1231b6?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Aug 19 |
-| **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68732234a5ae807a59d07d2d?utm_campaign=1047&utm_source=git)** | Quincy, IL | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
