@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crown Fund](Crownfund.co)** | **[Product Management Intern](https://jobright.ai/jobs/info/68adb63edaf1431824c9d915?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Aug 26 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Product Development Co-op, Ninja (January through June)](https://jobright.ai/jobs/info/68adb094758f2e4ac300e0f0?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | Aug 26 |
+| ↳ | **[Spring 2026: Product Development Co-op, Shark (January through June)](https://jobright.ai/jobs/info/68adb081daf1431824c9d7dc?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | Aug 26 |
 | **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689171aef5ee707a15dbe8e6?utm_campaign=1047&utm_source=git)** | Apex, NC | On Site | Aug 26 |
 | ↳ | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689177d14c7e851b90acedf1?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Aug 26 |
 | ↳ | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68916c18f47efe21139551b8?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Aug 26 |
@@ -76,7 +79,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Engineering MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9afad627244576e473c3?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
 | ↳ | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9637daf1431824c963ff?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
 | ↳ | **[Product Management Engineering MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9633d627244576e47011?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
-| ↳ | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac95c7d627244576e46ff9?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
+| ↳ | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac956bd627244576e46fe3?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[2026 Product Manager Technical paid intern (Jan and May hires)](https://jobright.ai/jobs/info/68ac8896758f2e4ac30064e8?utm_campaign=1047&utm_source=git)** | Riverton, UT | Hybrid | Aug 25 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management/Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac79be758f2e4ac3005e17?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 25 |
 | **[Prudential Financial](http://www.prudential.com)** | **[Prudential: 2026 Global Technology & Operations, Internship Program](https://jobright.ai/jobs/info/68ac773ad627244576e460a7?utm_campaign=1047&utm_source=git)** | Newark, NJ | Hybrid | Aug 25 |
