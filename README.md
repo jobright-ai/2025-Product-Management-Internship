@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Life Alive Café](http://www.lifealive.com)** | **[Innovation and Product Development Intern](https://jobright.ai/jobs/info/68ad317e758f2e4ac300b9f7?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Aug 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern - SMB Industry Operations - 2025 Start (BS/ MS)](https://jobright.ai/jobs/info/68ad1642d627244576e4b177?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Aug 25 |
 | **[The Cigna Group](https://www.cigna.com/)** | **[HD Product Strategy Intern](https://jobright.ai/jobs/info/68acf440daf1431824c99593?utm_campaign=1047&utm_source=git)** | Bloomfield, CT | Remote | Aug 25 |
 | **[Tru Fragrance & Beauty](https://www.trufragrance.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/68acc2b0758f2e4ac30088cc?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Aug 25 |
@@ -68,7 +69,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Engineering MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9afad627244576e473c3?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
 | ↳ | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9637daf1431824c963ff?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
 | ↳ | **[Product Management Engineering MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9633d627244576e47011?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
-| ↳ | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac956bd627244576e46fe3?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
+| ↳ | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac95c7d627244576e46ff9?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[2026 Product Manager Technical paid intern (Jan and May hires)](https://jobright.ai/jobs/info/68ac8896758f2e4ac30064e8?utm_campaign=1047&utm_source=git)** | Riverton, UT | Hybrid | Aug 25 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management/Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac79be758f2e4ac3005e17?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 25 |
 | **[Prudential Financial](http://www.prudential.com)** | **[Prudential: 2026 Global Technology & Operations, Internship Program](https://jobright.ai/jobs/info/68ac773ad627244576e460a7?utm_campaign=1047&utm_source=git)** | Newark, NJ | Hybrid | Aug 25 |
@@ -76,7 +77,7 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/68ac7688758f2e4ac3005c5d?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Aug 25 |
 | **[PGIM](https://www.pgim.com)** | **[Prudential: 2026 Global Technology & Operations, Internship Program](https://jobright.ai/jobs/info/68ac75e6758f2e4ac3005b55?utm_campaign=1047&utm_source=git)** | Newark, NJ, USA | Hybrid | Aug 25 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 Product Manager Technical paid intern  (Jan and May hires)](https://jobright.ai/jobs/info/68ac2116758f2e4ac3004574?utm_campaign=1047&utm_source=git)** | Riverton, UT, United States | Hybrid | Aug 25 |
-| **[FECON](http://fecon.com)** | **[Product Management Engineering Co-Op](https://jobright.ai/jobs/info/68acc825d627244576e490c0?utm_campaign=1047&utm_source=git)** | Lebanon, OH | On Site | Aug 24 |
+| **[FECON](http://fecon.com)** | **[Product Management Engineering Co-Op](https://jobright.ai/jobs/info/68acc762d627244576e4901b?utm_campaign=1047&utm_source=git)** | Lebanon, OH | On Site | Aug 24 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68a8d2a7758f2e4ac3ff5a54?utm_campaign=1047&utm_source=git)** | Bridgeton, MO | On Site | Aug 22 |
 | **[HARMAN International](https://www.harman.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68a874ff6acf96396f72016a?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 22 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68a81dc1d627244576e3174a?utm_campaign=1047&utm_source=git)** | Northridge - California, USA | Hybrid | Aug 22 |
@@ -120,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Engrain](http://engrain.com/)** | **[Product Implementation Intern](https://jobright.ai/jobs/info/68a53144758f2e4ac3fdcb13?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Aug 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product-Search Growth]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6891886c4c7e851b90acf90e?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 19 |
 | **[AQR Capital Management](https://www.aqr.com)** | **[2026 Research Product Specialist Summer Intern](https://jobright.ai/jobs/info/68a4fa5b758f2e4ac3fdb1ac?utm_campaign=1047&utm_source=git)** | Greenwich, CT | On Site | Aug 19 |
-| **[Acres](https://www.acres.com)** | **[Product Intern (full-time 3-month internship)](https://jobright.ai/jobs/info/68a42985541cc3479840af66?utm_campaign=1047&utm_source=git)** | Fayetteville, AR | On Site | Aug 19 |
 | **[Figma](https://www.figma.com)** | **[Product Research Intern (2026)](https://jobright.ai/jobs/info/68a4c17b541cc3479840d732?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Aug 19 |
 | ↳ | **[Product Research Intern (2026)](https://jobright.ai/jobs/info/68a4a881e9f1c744da1231b6?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
