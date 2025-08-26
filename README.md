@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tangify](https://www.tangify.co)** | **[Business Intern](https://jobright.ai/jobs/info/68add6dfd627244576e4f46d?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 26 |
+| **[ICO Uniforms](http://icouniforms.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68adcfd6d627244576e4f109?utm_campaign=1047&utm_source=git)** | Miami Gardens, FL | On Site | Aug 26 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Product Development Co-op, CORE Quality (January through June)](https://jobright.ai/jobs/info/68adc42cd627244576e4ec5f?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | Aug 26 |
 | **[Crown Fund](Crownfund.co)** | **[Product Management Intern](https://jobright.ai/jobs/info/68adb63edaf1431824c9d915?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Aug 26 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Product Development Co-op, Ninja (January through June)](https://jobright.ai/jobs/info/68adb094758f2e4ac300e0f0?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | Aug 26 |
 | ↳ | **[Spring 2026: Product Development Co-op, Shark (January through June)](https://jobright.ai/jobs/info/68adb081daf1431824c9d7dc?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | Aug 26 |
@@ -68,10 +71,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689175e6f47efe2113955864?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | On Site | Aug 26 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Product Manager, Machine Vision](https://jobright.ai/jobs/info/68ad6c36d627244576e4db8d?utm_campaign=1047&utm_source=git)** | Holtsville, NY | On Site | Aug 25 |
 | **[Life Alive Café](http://www.lifealive.com)** | **[Innovation and Product Development Intern](https://jobright.ai/jobs/info/68ad317e758f2e4ac300b9f7?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Aug 25 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern - SMB Industry Operations - 2025 Start (BS/ MS)](https://jobright.ai/jobs/info/68ad1642d627244576e4b177?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Aug 25 |
-| **[The Cigna Group](https://www.cigna.com/)** | **[HD Product Strategy Intern](https://jobright.ai/jobs/info/68acf440daf1431824c99593?utm_campaign=1047&utm_source=git)** | Bloomfield, CT | Remote | Aug 25 |
 | **[Tru Fragrance & Beauty](https://www.trufragrance.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/68acc2b0758f2e4ac30088cc?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Aug 25 |
-| **[Cigna Healthcare](http://www.cigna.com)** | **[HD Product Strategy Intern](https://jobright.ai/jobs/info/68acbcddd627244576e48a6e?utm_campaign=1047&utm_source=git)** | Bloomfield, CT | Remote | Aug 25 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management/Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca838758f2e4ac300772f?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/68aca754758f2e4ac3007668?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Aug 25 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca5ba758f2e4ac30074ec?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
@@ -87,7 +87,7 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/68ac7688758f2e4ac3005c5d?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Aug 25 |
 | **[PGIM](https://www.pgim.com)** | **[Prudential: 2026 Global Technology & Operations, Internship Program](https://jobright.ai/jobs/info/68ac75e6758f2e4ac3005b55?utm_campaign=1047&utm_source=git)** | Newark, NJ, USA | Hybrid | Aug 25 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 Product Manager Technical paid intern  (Jan and May hires)](https://jobright.ai/jobs/info/68ac2116758f2e4ac3004574?utm_campaign=1047&utm_source=git)** | Riverton, UT, United States | Hybrid | Aug 25 |
-| **[FECON](http://fecon.com)** | **[Product Management Engineering Co-Op](https://jobright.ai/jobs/info/68acc762d627244576e4901b?utm_campaign=1047&utm_source=git)** | Lebanon, OH | On Site | Aug 24 |
+| **[FECON](http://fecon.com)** | **[Product Management Engineering Co-Op](https://jobright.ai/jobs/info/68acc825d627244576e490c0?utm_campaign=1047&utm_source=git)** | Lebanon, OH | On Site | Aug 24 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68a8d2a7758f2e4ac3ff5a54?utm_campaign=1047&utm_source=git)** | Bridgeton, MO | On Site | Aug 22 |
 | **[HARMAN International](https://www.harman.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68a874ff6acf96396f72016a?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 22 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68a81dc1d627244576e3174a?utm_campaign=1047&utm_source=git)** | Northridge - California, USA | Hybrid | Aug 22 |
@@ -105,8 +105,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Strategist Project Intern [TikTok-Product-Business Analytics]-2025 Start (BS/MS)](https://jobright.ai/jobs/info/68912d76f5ee707a15dbcbfa?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 | ↳ | **[Product Manager Intern (TikTok Shop Seller Risk/Performance Score Product) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/68883daafbbf032d00079852?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Aug 21 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Technology, Data, AI & Ventures Summer Internship Program - Technical Product Management Intern](https://jobright.ai/jobs/info/68a570beb6a3617d7fa71e6c?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Aug 21 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/689bb5c683d13d1f5b6a2e25?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
-| ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/689c2563faa4e875e82665fe?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/689c2563faa4e875e82665fe?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 | ↳ | **[Product Manager Intern [TikTok-Product Infrastructure]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688c392f1808534a89cb9823?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 | ↳ | **[Product manager Intern (TikTok-Search-Comprehensive Search) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68a80b4633dd7158bbcab5eb?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 | ↳ | **[Product Manager Intern [TikTok-Product-Privacy and Responsibility]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688f021de5cead4afd45fb3f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
@@ -131,5 +130,4 @@ For a complete list, click the following sortable link below:
 | **[Acres](https://www.acres.com)** | **[Product Intern (full-time 3-month internship)](https://jobright.ai/jobs/info/68a42985541cc3479840af66?utm_campaign=1047&utm_source=git)** | Fayetteville, AR | On Site | Aug 19 |
 | **[Engrain](http://engrain.com/)** | **[Product Implementation Intern](https://jobright.ai/jobs/info/68a53144758f2e4ac3fdcb13?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Aug 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product-Search Growth]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6891886c4c7e851b90acf90e?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 19 |
-| **[AQR Capital Management](https://www.aqr.com)** | **[2026 Research Product Specialist Summer Intern](https://jobright.ai/jobs/info/68a4fa5b758f2e4ac3fdb1ac?utm_campaign=1047&utm_source=git)** | Greenwich, CT | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
