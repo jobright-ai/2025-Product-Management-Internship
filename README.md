@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Gen AI Product Management](https://jobright.ai/jobs/info/68ae3e71758f2e4ac3012453?utm_campaign=1047&utm_source=git)** | Holtsville, NY | On Site | Aug 26 |
 | **[Grange Insurance](https://www.grangeinsurance.com/)** | **[Personal Lines Product Intern (hybrid)](https://jobright.ai/jobs/info/68ae016e758f2e4ac30101aa?utm_campaign=1047&utm_source=git)** | Columbus, OH | Hybrid | Aug 26 |
 | **[Hormel Foods](http://www.hormelfoods.com/)** | **[R&D Product Development Intern -Summer 2026- Austin, MN or Northbrook, IL](https://jobright.ai/jobs/info/68ade24ad627244576e4f8fd?utm_campaign=1047&utm_source=git)** | Austin, MN, United States | On Site | Aug 26 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Product Development Co-op, CORE Quality (January through June)](https://jobright.ai/jobs/info/68adc42cd627244576e4ec5f?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | Aug 26 |
@@ -74,9 +75,9 @@ For a complete list, click the following sortable link below:
 | **[Tru Fragrance & Beauty](https://www.trufragrance.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/68acc2b0758f2e4ac30088cc?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Aug 25 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management/Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca838758f2e4ac300772f?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/68aca754758f2e4ac3007668?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Aug 25 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca5ba758f2e4ac30074ec?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
-| ↳ | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca463d627244576e478c6?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca463d627244576e478c6?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
 | ↳ | **[Product Management Engineering MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9afad627244576e473c3?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
+| ↳ | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9a3f758f2e4ac3006d42?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
 | ↳ | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9637daf1431824c963ff?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
 | ↳ | **[Product Management Engineering MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9633d627244576e47011?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
 | ↳ | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac95c7d627244576e46ff9?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
@@ -87,7 +88,7 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/68ac7688758f2e4ac3005c5d?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Aug 25 |
 | **[PGIM](https://www.pgim.com)** | **[Prudential: 2026 Global Technology & Operations, Internship Program](https://jobright.ai/jobs/info/68ac75e6758f2e4ac3005b55?utm_campaign=1047&utm_source=git)** | Newark, NJ, USA | Hybrid | Aug 25 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 Product Manager Technical paid intern  (Jan and May hires)](https://jobright.ai/jobs/info/68ac2116758f2e4ac3004574?utm_campaign=1047&utm_source=git)** | Riverton, UT, United States | Hybrid | Aug 25 |
-| **[FECON](http://fecon.com)** | **[Product Management Engineering Co-Op](https://jobright.ai/jobs/info/68acc762d627244576e4901b?utm_campaign=1047&utm_source=git)** | Lebanon, OH | On Site | Aug 24 |
+| **[FECON](http://fecon.com)** | **[Product Management Engineering Co-Op](https://jobright.ai/jobs/info/68acc825d627244576e490c0?utm_campaign=1047&utm_source=git)** | Lebanon, OH | On Site | Aug 24 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68a8d2a7758f2e4ac3ff5a54?utm_campaign=1047&utm_source=git)** | Bridgeton, MO | On Site | Aug 22 |
 | **[HARMAN International](https://www.harman.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68a874ff6acf96396f72016a?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 22 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68a81dc1d627244576e3174a?utm_campaign=1047&utm_source=git)** | Northridge - California, USA | Hybrid | Aug 22 |
@@ -126,5 +127,4 @@ For a complete list, click the following sortable link below:
 | **[ATPCO](http://www.atpco.net)** | **[ Product Analyst Intern](https://jobright.ai/jobs/info/68a61ab5758f2e4ac3fe2926?utm_campaign=1047&utm_source=git)** | 2340 Dulles Corner Blvd, Herndon, VA 20171, USA | Hybrid | Aug 20 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Product Development Intern, Flavor (early September through mid-December)](https://jobright.ai/jobs/info/6889be3aaab47a17f6705586?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Aug 20 |
 | **[Adaptive Security](https://adaptivesecurity.com)** | **[AI Product Intern](https://jobright.ai/jobs/info/6889345c09808a6103e45c74?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Aug 20 |
-| **[Acres](https://www.acres.com)** | **[Product Intern (full-time 3-month internship)](https://jobright.ai/jobs/info/68a42985541cc3479840af66?utm_campaign=1047&utm_source=git)** | Fayetteville, AR | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
