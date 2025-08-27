@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Analog Devices](http://www.analog.com)** | **[Product Applications Intern](https://jobright.ai/jobs/info/68aea9cf7bcb7608b3d28c39?utm_campaign=1047&utm_source=git)** | Wilmington, MA | On Site | Aug 26 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Product Development Co-op, Ninja (January through June)](https://jobright.ai/jobs/info/68ae9b3903c5f15c2fd8a62e?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Aug 26 |
 | ↳ | **[Spring 2026: Product Development Co-op, CORE Quality (January through June)](https://jobright.ai/jobs/info/68ae9aa42daaba3984418f46?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Aug 26 |
 | ↳ | **[Spring 2026: Product Development Co-op, Shark (January through June)](https://jobright.ai/jobs/info/68ae994903c5f15c2fd8a42d?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Aug 26 |
@@ -99,7 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68a8d2a7758f2e4ac3ff5a54?utm_campaign=1047&utm_source=git)** | Bridgeton, MO | On Site | Aug 22 |
 | **[HARMAN International](https://www.harman.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68a874ff6acf96396f72016a?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 22 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68a81dc1d627244576e3174a?utm_campaign=1047&utm_source=git)** | Northridge - California, USA | Hybrid | Aug 22 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/68a9520ad627244576e38e3a?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/68aea3052daaba39844192f9?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
+| ↳ | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/68a9520ad627244576e38e3a?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 | ↳ | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/68ae8fc5daf1431824ca41b1?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 | ↳ | **[Product Manager Intern [TikTok-Product-Search Growth]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6891886c4c7e851b90acf90e?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 | ↳ | **[Product Solutions and Operations Project Intern - Content and Service Ads- Fall 2025 (BS/ MS)](https://jobright.ai/jobs/info/68a7ca30d627244576e2ed8d?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Aug 21 |
@@ -134,6 +136,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[User Product Operations Intern [TikTok Local Services] - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689ded89faa4e875e8275668?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Aug 21 |
 | **[MAPFRE](https://www.mapfre.com)** | **[Intern - MA Product Execution](https://jobright.ai/jobs/info/68a66252758f2e4ac3fe48be?utm_campaign=1047&utm_source=git)** | Webster, MA | On Site | Aug 20 |
 | **[ATPCO](http://www.atpco.net)** | **[ Product Analyst Intern](https://jobright.ai/jobs/info/68a61ab5758f2e4ac3fe2926?utm_campaign=1047&utm_source=git)** | 2340 Dulles Corner Blvd, Herndon, VA 20171, USA | Hybrid | Aug 20 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Product Development Intern, Flavor (early September through mid-December)](https://jobright.ai/jobs/info/6889be3aaab47a17f6705586?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Aug 20 |
-| **[Adaptive Security](https://adaptivesecurity.com)** | **[AI Product Intern](https://jobright.ai/jobs/info/6889345c09808a6103e45c74?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
