@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Jr. Product Manager](https://jobright.ai/jobs/info/68afa6001f0a2a568a062fcc?utm_campaign=1047&utm_source=git)** | Holtsville, NY | On Site | Aug 27 |
 | **[Wonder](https://www.wonder.com)** | **[Ops Product Intern - Summer 2026](https://jobright.ai/jobs/info/68af99b4962903596357ddb5?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Aug 27 |
 | **[Mastercard](http://www.mastercard.com)** | **[Product Management Intern, Summer 2026 - United States](https://jobright.ai/jobs/info/68af7eeb2daaba398441ecad?utm_campaign=1047&utm_source=git)** | Arlington, Virginia | On Site | Aug 27 |
 | ↳ | **[Product Management Intern, Summer 2026 - United States](https://jobright.ai/jobs/info/68af7ece2daaba398441ec8e?utm_campaign=1047&utm_source=git)** | O'Fallon, Missouri | On Site | Aug 27 |
@@ -91,9 +92,9 @@ For a complete list, click the following sortable link below:
 | **[Tru Fragrance & Beauty](https://www.trufragrance.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/68acc2b0758f2e4ac30088cc?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Aug 25 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management/Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca838758f2e4ac300772f?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/68aca754758f2e4ac3007668?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Aug 25 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca463d627244576e478c6?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca5ba758f2e4ac30074ec?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
+| ↳ | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca463d627244576e478c6?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
 | ↳ | **[Product Management Engineering MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9afad627244576e473c3?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
-| ↳ | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9a3f758f2e4ac3006d42?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
 | ↳ | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9637daf1431824c963ff?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
 | ↳ | **[Product Management Engineering MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9633d627244576e47011?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
 | ↳ | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac95c7d627244576e46ff9?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
@@ -104,7 +105,7 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/68ac7688758f2e4ac3005c5d?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Aug 25 |
 | **[PGIM](https://www.pgim.com)** | **[Prudential: 2026 Global Technology & Operations, Internship Program](https://jobright.ai/jobs/info/68ac75e6758f2e4ac3005b55?utm_campaign=1047&utm_source=git)** | Newark, NJ, USA | Hybrid | Aug 25 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 Product Manager Technical paid intern  (Jan and May hires)](https://jobright.ai/jobs/info/68ac2116758f2e4ac3004574?utm_campaign=1047&utm_source=git)** | Riverton, UT, United States | Hybrid | Aug 25 |
-| **[FECON](http://fecon.com)** | **[Product Management Engineering Co-Op](https://jobright.ai/jobs/info/68acc762d627244576e4901b?utm_campaign=1047&utm_source=git)** | Lebanon, OH | On Site | Aug 24 |
+| **[FECON](http://fecon.com)** | **[Product Management Engineering Co-Op](https://jobright.ai/jobs/info/68acc825d627244576e490c0?utm_campaign=1047&utm_source=git)** | Lebanon, OH | On Site | Aug 24 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68a8d2a7758f2e4ac3ff5a54?utm_campaign=1047&utm_source=git)** | Bridgeton, MO | On Site | Aug 22 |
 | **[HARMAN International](https://www.harman.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68a874ff6acf96396f72016a?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 22 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68a81dc1d627244576e3174a?utm_campaign=1047&utm_source=git)** | Northridge - California, USA | Hybrid | Aug 22 |
@@ -125,22 +126,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Strategist Project Intern [TikTok-Product-Business Analytics]-2025 Start (BS/MS)](https://jobright.ai/jobs/info/68912d76f5ee707a15dbcbfa?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 | ↳ | **[Product Manager Intern (TikTok Shop Seller Risk/Performance Score Product) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/68883daafbbf032d00079852?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Aug 21 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Technology, Data, AI & Ventures Summer Internship Program - Technical Product Management Intern](https://jobright.ai/jobs/info/68a570beb6a3617d7fa71e6c?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Aug 21 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product Infrastructure]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688c392f1808534a89cb9823?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
-| ↳ | **[Product manager Intern (TikTok-Search-Comprehensive Search) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68a80b4633dd7158bbcab5eb?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
-| ↳ | **[Product Manager Intern [TikTok-Product-Privacy and Responsibility]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688f021de5cead4afd45fb3f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
-| ↳ | **[Product Strategist Intern [TikTok-Product-Business Analytics]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688e2c436a4aac5783cd88e8?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
-| ↳ | **[Issue Discovery Operation Intern [TikTok-Product-Content Ecosystem]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688e2c42e5cead4afd45bf2f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
-| ↳ | **[Product Manager Ads Attribution and Measurement Graduate (Measurement Signal and Privacy Product) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68a2d9c6468ac21d6fabb464?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
-| ↳ | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance)- 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/68a80751d627244576e30490?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
-| ↳ | **[Product Operations Manager Intern (TikTok Shop, Merchandise Growth) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68a81ff433dd7158bbcac62a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Aug 21 |
-| ↳ | **[Product Manager Intern (TikTok Shop Operation Product, CRM) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68a7e253758f2e4ac3fef025?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Aug 21 |
-| ↳ | **[Product Manager Intern (TikTok Shop IPR Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68a81b9cd627244576e311ac?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Aug 21 |
-| ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/68a7f64233dd7158bbcaa954?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
-| ↳ | **[Product Manager Intern [TikTok LIVE-Recommend Product]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68a7e945d627244576e2f6e2?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
-| ↳ | **[Product Strategy & Operations Manager Project Intern- PSO Commerce - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/689e8f60faa4e875e827dc8a?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
-| ↳ | **[Product Manager Intern(TikTok-Product-Social and Creation)- 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68a3d51737d3cc6b0d579fc4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
-| ↳ | **[Product Manager, Ads Attribution and Measurement Intern (Measurement Signal and Privacy Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68a2e01b468ac21d6fabb481?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
-| ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/687b8290764c3d7411c33403?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
-| ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68a7e4acd627244576e2f51f?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Aug 21 |
-| ↳ | **[User Product Operations Intern [TikTok Local Services] - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689ded89faa4e875e8275668?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
