@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/68afc6e5e723db6c9b7b34ac?utm_campaign=1047&utm_source=git)** | Dallas, TX | Hybrid | Aug 27 |
+| **[Relay](https://relaypro.com)** | **[Relay Pathways Intern - Product Management](https://jobright.ai/jobs/info/68afc557e723db6c9b7b32fe?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Aug 27 |
+| **[Red Aspen](https://www.redaspenlove.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68afcf52b47fb001d688d7fd?utm_campaign=1047&utm_source=git)** | Meridian, ID | On Site | Aug 27 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Jr. Product Manager](https://jobright.ai/jobs/info/68afa6001f0a2a568a062fcc?utm_campaign=1047&utm_source=git)** | Holtsville, NY | On Site | Aug 27 |
 | **[Wonder](https://www.wonder.com)** | **[Ops Product Intern - Summer 2026](https://jobright.ai/jobs/info/68af99b4962903596357ddb5?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Aug 27 |
 | **[Mastercard](http://www.mastercard.com)** | **[Product Management Intern, Summer 2026 - United States](https://jobright.ai/jobs/info/68af7eeb2daaba398441ecad?utm_campaign=1047&utm_source=git)** | Arlington, Virginia | On Site | Aug 27 |
