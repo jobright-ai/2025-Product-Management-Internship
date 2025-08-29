@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/68b1cbd2f4e41a61efd7fb94?utm_campaign=1047&utm_source=git)** | Iowa - Des Moines, 1100 Locust Street | On Site | Aug 29 |
+| ↳ | **[Summer 2026 Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/68b1cac5bc187f64e1bd6dbc?utm_campaign=1047&utm_source=git)** | Ohio - Columbus, One Nationwide Plaza | On Site | Aug 29 |
+| **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2026 Digital Channels Intern](https://jobright.ai/jobs/info/68b1c395bc187f64e1bd692c?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Aug 29 |
+| **[Louis Vuitton](http://www.louisvuitton.com)** | **[Digital Projects Intern - 6 Months](https://jobright.ai/jobs/info/68b1b5b5bc187f64e1bd640f?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Aug 29 |
 | **[Red Hat](http://www.redhat.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68b1aed7f4e41a61efd7efe2?utm_campaign=1047&utm_source=git)** | Raleigh | On Site | Aug 29 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68b1ae4ebc187f64e1bd60cf?utm_campaign=1047&utm_source=git)** | Boston | On Site | Aug 29 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68b19f2cbc187f64e1bd59cb?utm_campaign=1047&utm_source=git)** | Rocky Hill, None, US | On Site | Aug 29 |
@@ -98,14 +102,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689170aef47efe21139553b1?utm_campaign=1047&utm_source=git)** | Golden Valley, MN | On Site | Aug 26 |
 | ↳ | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689174c1f5ee707a15dbea11?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Aug 26 |
 | ↳ | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689175e6f47efe2113955864?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | On Site | Aug 26 |
-| **[Life Alive Café](http://www.lifealive.com)** | **[Innovation and Product Development Intern](https://jobright.ai/jobs/info/68ad317e758f2e4ac300b9f7?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Aug 25 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[2026 Product Manager Technical paid intern (Jan and May hires)](https://jobright.ai/jobs/info/68b135136fab621da7b0aeb8?utm_campaign=1047&utm_source=git)** | Riverton, UT | Hybrid | Aug 25 |
 | **[Tru Fragrance & Beauty](https://www.trufragrance.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/68acc2b0758f2e4ac30088cc?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Aug 25 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management/Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca838758f2e4ac300772f?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/68aca754758f2e4ac3007668?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Aug 25 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca5ba758f2e4ac30074ec?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
-| ↳ | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca463d627244576e478c6?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca463d627244576e478c6?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
 | ↳ | **[Product Management Engineering MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9afad627244576e473c3?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
+| ↳ | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9a3f758f2e4ac3006d42?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
 | ↳ | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9637daf1431824c963ff?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
 | ↳ | **[Product Management Engineering MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9633d627244576e47011?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
 | ↳ | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac956bd627244576e46fe3?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
