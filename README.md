@@ -58,15 +58,15 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Molex](http://www.molex.com)** | **[Molex Product Management Co-op (Fall 2025/Spring 2026)](https://jobright.ai/jobs/info/68b1591be815524ae11fe038?utm_campaign=1047&utm_source=git)** | Rochester Hills, MI | On Site | Aug 29 |
+| ↳ | **[Molex Product Management Intern Summer 2026](https://jobright.ai/jobs/info/68b17160e45862482170ee54?utm_campaign=1047&utm_source=git)** | Lisle, IL | On Site | Aug 29 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Product Engineer, Applications Engineering (Winter/Spring 2026)](https://jobright.ai/jobs/info/68b0d411b47fb001d6895c32?utm_campaign=1047&utm_source=git)** | Fremont, CA | On Site | Aug 28 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68b0a182b47fb001d6893f46?utm_campaign=1047&utm_source=git)** | Northfield, IL | On Site | Aug 28 |
 | ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68b088332d46f6396cae650e?utm_campaign=1047&utm_source=git)** | Chicago, Illinois | Hybrid | Aug 28 |
 | ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68b08832b47fb001d689324e?utm_campaign=1047&utm_source=git)** | Northfield, Illinois | Hybrid | Aug 28 |
 | **[OCBC](http://www.ocbc.com)** | **[Internship: Global Markets, Global Market Equities, Digital Platforms [Jan to Jun 2026]](https://jobright.ai/jobs/info/68b04cda13563e782a9f4b45?utm_campaign=1047&utm_source=git)** | South Centre, PA | On Site | Aug 28 |
-| **[Relay](https://relaypro.com)** | **[Relay Pathways Intern - Product Management](https://jobright.ai/jobs/info/68b01b3ab47fb001d688f9c0?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Aug 28 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/68afc6e5e723db6c9b7b34ac?utm_campaign=1047&utm_source=git)** | Dallas, TX | Hybrid | Aug 27 |
+| **[Relay](https://relaypro.com)** | **[Relay Pathways Intern - Product Management](https://jobright.ai/jobs/info/68afc557e723db6c9b7b32fe?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Aug 27 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Jr. Product Manager](https://jobright.ai/jobs/info/68afa6001f0a2a568a062fcc?utm_campaign=1047&utm_source=git)** | Holtsville, NY | On Site | Aug 27 |
-| **[Wonder](https://www.wonder.com)** | **[Ops Product Intern - Summer 2026](https://jobright.ai/jobs/info/68af99b4962903596357ddb5?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Aug 27 |
 | **[Mastercard](http://www.mastercard.com)** | **[Product Management Intern, Summer 2026 - United States](https://jobright.ai/jobs/info/68af7eeb2daaba398441ecad?utm_campaign=1047&utm_source=git)** | Arlington, Virginia | On Site | Aug 27 |
 | ↳ | **[Product Management Intern, Summer 2026 - United States](https://jobright.ai/jobs/info/68af7ece2daaba398441ec8e?utm_campaign=1047&utm_source=git)** | O'Fallon, Missouri | On Site | Aug 27 |
 | ↳ | **[Product Management Intern, Summer 2026 - United States](https://jobright.ai/jobs/info/68af7e1f1f0a2a568a0622d1?utm_campaign=1047&utm_source=git)** | Purchase, New York | On Site | Aug 27 |
@@ -100,18 +100,18 @@ For a complete list, click the following sortable link below:
 | **[Tru Fragrance & Beauty](https://www.trufragrance.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/68acc2b0758f2e4ac30088cc?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Aug 25 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management/Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca838758f2e4ac300772f?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/68aca754758f2e4ac3007668?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Aug 25 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca5ba758f2e4ac30074ec?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
-| ↳ | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca463d627244576e478c6?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca463d627244576e478c6?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
 | ↳ | **[Product Management Engineering MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9afad627244576e473c3?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
+| ↳ | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9a3f758f2e4ac3006d42?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
 | ↳ | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9637daf1431824c963ff?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
 | ↳ | **[Product Management Engineering MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9633d627244576e47011?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
-| ↳ | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac956bd627244576e46fe3?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
+| ↳ | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac95c7d627244576e46ff9?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
 | ↳ | **[Product Management/Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac79be758f2e4ac3005e17?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 25 |
 | **[Prudential Financial](http://www.prudential.com)** | **[Prudential: 2026 Global Technology & Operations, Internship Program](https://jobright.ai/jobs/info/68ac773ad627244576e460a7?utm_campaign=1047&utm_source=git)** | Newark, NJ | Hybrid | Aug 25 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 Product Manager Technical paid intern (Jan and May hires)](https://jobright.ai/jobs/info/68ac76dcd627244576e4604a?utm_campaign=1047&utm_source=git)** | Riverton, UT | Hybrid | Aug 25 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/68ac7688758f2e4ac3005c5d?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Aug 25 |
 | **[PGIM](https://www.pgim.com)** | **[Prudential: 2026 Global Technology & Operations, Internship Program](https://jobright.ai/jobs/info/68ac75e6758f2e4ac3005b55?utm_campaign=1047&utm_source=git)** | Newark, NJ, USA | Hybrid | Aug 25 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 Product Manager Technical paid intern  (Jan and May hires)](https://jobright.ai/jobs/info/68ac2116758f2e4ac3004574?utm_campaign=1047&utm_source=git)** | Riverton, UT, United States | Hybrid | Aug 25 |
-| **[FECON](http://fecon.com)** | **[Product Management Engineering Co-Op](https://jobright.ai/jobs/info/68acc762d627244576e4901b?utm_campaign=1047&utm_source=git)** | Lebanon, OH | On Site | Aug 24 |
+| **[FECON](http://fecon.com)** | **[Product Management Engineering Co-Op](https://jobright.ai/jobs/info/68acc825d627244576e490c0?utm_campaign=1047&utm_source=git)** | Lebanon, OH | On Site | Aug 24 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68a8d2a7758f2e4ac3ff5a54?utm_campaign=1047&utm_source=git)** | Bridgeton, MO | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
