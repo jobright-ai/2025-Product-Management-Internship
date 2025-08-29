@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68b1e671bc187f64e1bd799c?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | On Site | Aug 29 |
+| **[Red Hat](http://www.redhat.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68b1e659f4e41a61efd808ab?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Aug 29 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68b1e5babc187f64e1bd7918?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Aug 29 |
+| **[HCA Healthcare](https://hcahealthcare.com/)** | **[Intern Business Analyst](https://jobright.ai/jobs/info/68b1ce1ef4e41a61efd7fcbb?utm_campaign=1047&utm_source=git)** | Nashville, TN | On Site | Aug 29 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/68b1cbd2f4e41a61efd7fb94?utm_campaign=1047&utm_source=git)** | Iowa - Des Moines, 1100 Locust Street | On Site | Aug 29 |
 | ↳ | **[Summer 2026 Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/68b1cac5bc187f64e1bd6dbc?utm_campaign=1047&utm_source=git)** | Ohio - Columbus, One Nationwide Plaza | On Site | Aug 29 |
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2026 Digital Channels Intern](https://jobright.ai/jobs/info/68b1c395bc187f64e1bd692c?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Aug 29 |
