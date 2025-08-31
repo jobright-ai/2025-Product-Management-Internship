@@ -62,6 +62,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Product and Innovation Intern](https://jobright.ai/jobs/info/68b350d3f4e41a61efd88f8c?utm_campaign=1047&utm_source=git)** | Madison Ave Corp | On Site | Aug 30 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - Product Strategy Analyst, US - PIMCO](https://jobright.ai/jobs/info/68b3380dbc187f64e1bdfe9a?utm_campaign=1047&utm_source=git)** | Newport Beach, CA | On Site | Aug 30 |
 | ↳ | **[2026 MBA Summer Intern - Strategist, Product Strategy Group, US - PIMCO](https://jobright.ai/jobs/info/68b337c4bc187f64e1bdfe8e?utm_campaign=1047&utm_source=git)** | Newport Beach, CA | On Site | Aug 30 |
+| **[Danfoss](https://www.danfoss.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68982d22faa4e875e824afa6?utm_campaign=1047&utm_source=git)** | Tallahassee, FL | Hybrid | Aug 30 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Digital & Information Technology - Digital Product Development Internship - Summer 2026](https://jobright.ai/jobs/info/68b2f8b3f4e41a61efd88629?utm_campaign=1047&utm_source=git)** | Plymouth, MN | On Site | Aug 30 |
 | ↳ | **[Digital & Information Technology - Digital Product Development Internship - Summer 2026](https://jobright.ai/jobs/info/68b2f859f4e41a61efd885f8?utm_campaign=1047&utm_source=git)** | Vermillion, SD | On Site | Aug 30 |
 | **[Walmart](http://www.walmart.com)** | **[2025 Intern Conversion - 2026 FT: Product Manager III](https://jobright.ai/jobs/info/68b2e73bbc187f64e1bdf4e9?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Aug 30 |
@@ -71,7 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Databricks](https://www.databricks.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/689752ea1b9e81727f19857e?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Aug 30 |
 | ↳ | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/6898662b83d13d1f5b68ff75?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Aug 30 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern - 2026](https://jobright.ai/jobs/info/68b297b71ade4306aa638b8e?utm_campaign=1047&utm_source=git)** | Madison Heights, MI | On Site | Aug 29 |
-| ↳ | **[Product Innovation & Brand Management MBA Intern, DevaCurl - Spring 2026](https://jobright.ai/jobs/info/68b24e70bc187f64e1bda7a8?utm_campaign=1047&utm_source=git)** | Culver City, None, US | On Site | Aug 29 |
+| **[Dematic](http://www.dematic.com)** | **[Engineering and Product Management Intern](https://jobright.ai/jobs/info/688330f4835a903aa07f4a40?utm_campaign=1047&utm_source=git)** | Wauwatosa, WI | On Site | Aug 29 |
+| **[Henkel](http://www.henkel.com)** | **[Product Innovation & Brand Management MBA Intern, DevaCurl - Spring 2026](https://jobright.ai/jobs/info/68b24e70bc187f64e1bda7a8?utm_campaign=1047&utm_source=git)** | Culver City, None, US | On Site | Aug 29 |
 | ↳ | **[Product Development Intern - 2026](https://jobright.ai/jobs/info/68b24e5bf4e41a61efd834f8?utm_campaign=1047&utm_source=git)** | Madison Heights, None, US | On Site | Aug 29 |
 | ↳ | **[New Product Development MBA Intern, Joico - Spring 2026](https://jobright.ai/jobs/info/68b24ddbbc187f64e1bda73c?utm_campaign=1047&utm_source=git)** | Culver City, None, US | On Site | Aug 29 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Product Intern, Digital Strategy](https://jobright.ai/jobs/info/68b22ee61ade4306aa634c1e?utm_campaign=1047&utm_source=git)** | State College, PA, New York, NY or Remote | Remote | Aug 29 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Tru Fragrance & Beauty](https://www.trufragrance.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/68acc2b0758f2e4ac30088cc?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Aug 25 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management/Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca838758f2e4ac300772f?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Product Development](https://jobright.ai/jobs/info/68aca754758f2e4ac3007668?utm_campaign=1047&utm_source=git)** | Oakland, CA | Hybrid | Aug 25 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca5ba758f2e4ac30074ec?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
-| ↳ | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca463d627244576e478c6?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca463d627244576e478c6?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
 | ↳ | **[Product Management Engineering MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9afad627244576e473c3?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
+| ↳ | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9a3f758f2e4ac3006d42?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Aug 25 |
 | ↳ | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9637daf1431824c963ff?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
-| ↳ | **[Product Management Engineering MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9633d627244576e47011?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
-| ↳ | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac95c7d627244576e46ff9?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
