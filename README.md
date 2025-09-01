@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TE Connectivity](http://www.te.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68b59fe91ade4306aa642941?utm_campaign=1047&utm_source=git)** | Montgomery County, PA | On Site | Sep 01 |
+| **[Ember Shore Solutions](https://www.linkedin.com/company/69294145)** | **[Retail Product Innovation Intern](https://jobright.ai/jobs/info/68b59b80bc187f64e1be77ea?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | Remote | Sep 01 |
+| **[Databricks](https://www.databricks.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68b592801ade4306aa6423d4?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Sep 01 |
 | **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Product Management Intern (Intern Program)](https://jobright.ai/jobs/info/68b57938f4e41a61efd8fd0a?utm_campaign=1047&utm_source=git)** | Beachwood, OH | Hybrid | Sep 01 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Product Development Purchasing Intern - Large Tractors](https://jobright.ai/jobs/info/68b56251bc187f64e1be68b5?utm_campaign=1047&utm_source=git)** | Oak Brook, IL | Hybrid | Sep 01 |
 | ↳ | **[Parts Lifecycle Intern](https://jobright.ai/jobs/info/68b56244f4e41a61efd8f891?utm_campaign=1047&utm_source=git)** | Racine, WI | Hybrid | Sep 01 |
@@ -87,6 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Rippling](https://www.rippling.com)** | **[Product Lead Internship - Summer 2026](https://jobright.ai/jobs/info/687f1395764c3d7411c48c4d?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Aug 30 |
 | ↳ | **[Product Lead Internship - Summer 2026](https://jobright.ai/jobs/info/687f04b4db19f31cf0d6efaf?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Aug 30 |
 | **[Gelpac](https://www.gelpac.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/68b2eda51ade4306aa63a5fb?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Aug 30 |
+| **[Henkel](http://www.henkel.com)** | **[Product Innovation & Brand Management MBA Intern, DevaCurl - Spring 2026](https://jobright.ai/jobs/info/68b2395cbc187f64e1bd9f84?utm_campaign=1047&utm_source=git)** | Culver City, CA | On Site | Aug 30 |
+| ↳ | **[New Product Development MBA Intern, Joico - Spring 2026](https://jobright.ai/jobs/info/68b23a49f4e41a61efd82d67?utm_campaign=1047&utm_source=git)** | Culver City, CA | On Site | Aug 30 |
 | **[Databricks](https://www.databricks.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/689752ea1b9e81727f19857e?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Aug 30 |
 | ↳ | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/6898662b83d13d1f5b68ff75?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Aug 30 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern - 2026](https://jobright.ai/jobs/info/68b297b71ade4306aa638b8e?utm_campaign=1047&utm_source=git)** | Madison Heights, MI | On Site | Aug 29 |
@@ -109,8 +114,6 @@ For a complete list, click the following sortable link below:
 | **[PIMCO](http://www.pimco.com)** | **[2026 MBA Summer Intern – Strategist, Product Strategy Group, US](https://jobright.ai/jobs/info/68b237f21ade4306aa634f7e?utm_campaign=1047&utm_source=git)** | Newport Beach, CA USA | On Site | Aug 29 |
 | ↳ | **[2026 Summer Intern - Product Strategy Analyst, US](https://jobright.ai/jobs/info/68b237e31ade4306aa634f78?utm_campaign=1047&utm_source=git)** | Newport Beach, CA USA | On Site | Aug 29 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68b23587f4e41a61efd82b33?utm_campaign=1047&utm_source=git)** | Lincoln, NE | On Site | Aug 29 |
-| **[Henkel](http://www.henkel.com)** | **[Product Innovation & Brand Management MBA Intern – DevaCurl - Spring 2026](https://jobright.ai/jobs/info/68b2395cbc187f64e1bd9f84?utm_campaign=1047&utm_source=git)** | Culver City, CA | Hybrid | Aug 29 |
-| ↳ | **[New Product Development MBA Intern - Joico - Spring 2026](https://jobright.ai/jobs/info/68b23a49f4e41a61efd82d67?utm_campaign=1047&utm_source=git)** | Culver City, CA | Hybrid | Aug 29 |
 | **[Appian](http://www.appian.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68b22dbebc187f64e1bd9b20?utm_campaign=1047&utm_source=git)** | McLean, Virginia | On Site | Aug 29 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/68b213e21ade4306aa6344c3?utm_campaign=1047&utm_source=git)** | Des Moines, IA | On Site | Aug 29 |
 | **[Inspire](https://inspirebrands.com)** | **[Guest Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68b204b91ade4306aa633dbd?utm_campaign=1047&utm_source=git)** | Boston Support Center | On Site | Aug 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026: Product Development Co-op, Shark (January through June)](https://jobright.ai/jobs/info/68ae994903c5f15c2fd8a42d?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Aug 26 |
 | **[Analog Devices](http://www.analog.com)** | **[Product Applications Intern](https://jobright.ai/jobs/info/68ae898ddaf1431824ca3cc3?utm_campaign=1047&utm_source=git)** | US, MA, Wilmington | On Site | Aug 26 |
 | ↳ | **[Product Applications Intern](https://jobright.ai/jobs/info/68ae894ed627244576e54c5d?utm_campaign=1047&utm_source=git)** | US, CO, Colorado Springs, Centennial | On Site | Aug 26 |
-| ↳ | **[Product Applications Intern](https://jobright.ai/jobs/info/68ae88eddaf1431824ca3c83?utm_campaign=1047&utm_source=git)** | US, NC, Durham | On Site | Aug 26 |
-| **[Altruist](https://altruist.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68b124c26fab621da7b0a1c2?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 26 |
-| **[Grange Insurance](https://www.grangeinsurance.com/)** | **[Personal Lines Product Intern (hybrid)](https://jobright.ai/jobs/info/68ae016e758f2e4ac30101aa?utm_campaign=1047&utm_source=git)** | Columbus, OH | Hybrid | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
