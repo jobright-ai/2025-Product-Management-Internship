@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - Product Strategy Analyst, US - PIMCO](https://jobright.ai/jobs/info/68b5cb1cbc187f64e1be8433?utm_campaign=1047&utm_source=git)** | Newport Beach, CA | On Site | Sep 01 |
 | **[Mutual of Omaha](http://www.mutualofomaha.com)** | **[Summer 2026 Product Owner Intern - Remote](https://jobright.ai/jobs/info/68b5ad4a1ade4306aa642c47?utm_campaign=1047&utm_source=git)** | Omaha, NE | Remote | Sep 01 |
 | **[TE Connectivity](http://www.te.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68b59fe91ade4306aa642941?utm_campaign=1047&utm_source=git)** | Montgomery County, PA | On Site | Sep 01 |
 | **[Ember Shore Solutions](https://www.linkedin.com/company/69294145)** | **[Retail Product Innovation Intern](https://jobright.ai/jobs/info/68b59b80bc187f64e1be77ea?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | Remote | Sep 01 |
@@ -128,7 +129,7 @@ For a complete list, click the following sortable link below:
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Intern Business Analyst](https://jobright.ai/jobs/info/68b1ce1ef4e41a61efd7fcbb?utm_campaign=1047&utm_source=git)** | Nashville, TN | On Site | Aug 29 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/68b1cbd2f4e41a61efd7fb94?utm_campaign=1047&utm_source=git)** | Iowa - Des Moines, 1100 Locust Street | On Site | Aug 29 |
 | ↳ | **[Summer 2026 Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/68b1cac5bc187f64e1bd6dbc?utm_campaign=1047&utm_source=git)** | Ohio - Columbus, One Nationwide Plaza | On Site | Aug 29 |
-| **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2026 Digital Channels Intern](https://jobright.ai/jobs/info/68b1c395bc187f64e1bd692c?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Aug 29 |
+| **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2026 Digital Channels Intern](https://jobright.ai/jobs/info/68b1c73e1ade4306aa631d34?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Aug 29 |
 | **[Red Hat](http://www.redhat.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68b1aed7f4e41a61efd7efe2?utm_campaign=1047&utm_source=git)** | Raleigh | On Site | Aug 29 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68b1ae4ebc187f64e1bd60cf?utm_campaign=1047&utm_source=git)** | Boston | On Site | Aug 29 |
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2026 Digital Channels Intern](https://jobright.ai/jobs/info/68b28a021ade4306aa637eba?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Aug 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026: Product Development Co-op, CORE Quality (January through June)](https://jobright.ai/jobs/info/68ae9aa42daaba3984418f46?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Aug 26 |
 | ↳ | **[Spring 2026: Product Development Co-op, Shark (January through June)](https://jobright.ai/jobs/info/68ae994903c5f15c2fd8a42d?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Aug 26 |
 | **[Analog Devices](http://www.analog.com)** | **[Product Applications Intern](https://jobright.ai/jobs/info/68ae898ddaf1431824ca3cc3?utm_campaign=1047&utm_source=git)** | US, MA, Wilmington | On Site | Aug 26 |
-| ↳ | **[Product Applications Intern](https://jobright.ai/jobs/info/68ae894ed627244576e54c5d?utm_campaign=1047&utm_source=git)** | US, CO, Colorado Springs, Centennial | On Site | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
