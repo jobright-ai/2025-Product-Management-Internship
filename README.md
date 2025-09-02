@@ -91,7 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Product Mgmt Intern](https://jobright.ai/jobs/info/68b54a841ade4306aa6410e4?utm_campaign=1047&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Product Mgmt Intern](https://jobright.ai/jobs/info/68b549c3f4e41a61efd8ef02?utm_campaign=1047&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
 | **[84.51˚](http://8451.com/)** | **[Product Owner - Internship Program 2026](https://jobright.ai/jobs/info/68b53f9d1ade4306aa640cc9?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Aug 31 |
-| **[Textron](http://textron.com)** | **[2026 Product Mgmt Intern](https://jobright.ai/jobs/info/68b526a71ade4306aa6405d8?utm_campaign=1047&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
+| **[Textron](http://textron.com)** | **[2026 Product Mgmt Intern](https://jobright.ai/jobs/info/68b5281af4e41a61efd8e91d?utm_campaign=1047&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
 | **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 Product Mgmt Intern](https://jobright.ai/jobs/info/68b524c3f4e41a61efd8e520?utm_campaign=1047&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Product & Franchise Strategy Intern, Spring 2026](https://jobright.ai/jobs/info/68b52087bc187f64e1be551b?utm_campaign=1047&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Aug 31 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Digital Product and Innovation Intern](https://jobright.ai/jobs/info/68b43d70f4e41a61efd8c0d6?utm_campaign=1047&utm_source=git)** | Miami, FL | On Site | Aug 31 |
@@ -109,6 +109,7 @@ For a complete list, click the following sortable link below:
 | **[Gelpac](https://www.gelpac.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/68b2eda51ade4306aa63a5fb?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Aug 30 |
 | **[Databricks](https://www.databricks.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/689752ea1b9e81727f19857e?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Aug 30 |
 | ↳ | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/6898662b83d13d1f5b68ff75?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Aug 30 |
+| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Products Intern](https://jobright.ai/jobs/info/689556a14ed2ea559ca55178?utm_campaign=1047&utm_source=git)** | Strongsville, OH | On Site | Aug 30 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern - 2026](https://jobright.ai/jobs/info/68b297b71ade4306aa638b8e?utm_campaign=1047&utm_source=git)** | Madison Heights, MI | On Site | Aug 29 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[Digital Projects Intern - 6 Months](https://jobright.ai/jobs/info/68b52749bc187f64e1be57d9?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Aug 29 |
 | **[Dematic](http://www.dematic.com)** | **[Engineering and Product Management Intern](https://jobright.ai/jobs/info/688330f4835a903aa07f4a40?utm_campaign=1047&utm_source=git)** | Wauwatosa, WI | On Site | Aug 29 |
@@ -146,7 +147,7 @@ For a complete list, click the following sortable link below:
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Intern Business Analyst](https://jobright.ai/jobs/info/68b1ce1ef4e41a61efd7fcbb?utm_campaign=1047&utm_source=git)** | Nashville, TN | On Site | Aug 29 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/68b1cbd2f4e41a61efd7fb94?utm_campaign=1047&utm_source=git)** | Iowa - Des Moines, 1100 Locust Street | On Site | Aug 29 |
 | ↳ | **[Summer 2026 Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/68b1cac5bc187f64e1bd6dbc?utm_campaign=1047&utm_source=git)** | Ohio - Columbus, One Nationwide Plaza | On Site | Aug 29 |
-| **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2026 Digital Channels Intern](https://jobright.ai/jobs/info/68b1c395bc187f64e1bd692c?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Aug 29 |
+| **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2026 Digital Channels Intern](https://jobright.ai/jobs/info/68b1c73e1ade4306aa631d34?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Aug 29 |
 | **[Red Hat](http://www.redhat.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68b1aed7f4e41a61efd7efe2?utm_campaign=1047&utm_source=git)** | Raleigh | On Site | Aug 29 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68b1ae4ebc187f64e1bd60cf?utm_campaign=1047&utm_source=git)** | Boston | On Site | Aug 29 |
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2026 Digital Channels Intern](https://jobright.ai/jobs/info/68b28a021ade4306aa637eba?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Aug 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, Product Engineer, Applications Engineering (Winter/Spring 2026)](https://jobright.ai/jobs/info/68b5272cbc187f64e1be5774?utm_campaign=1047&utm_source=git)** | Fremont, CA | On Site | Aug 28 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68b0a182b47fb001d6893f46?utm_campaign=1047&utm_source=git)** | Northfield, IL | On Site | Aug 28 |
 | ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68b088332d46f6396cae650e?utm_campaign=1047&utm_source=git)** | Chicago, Illinois | Hybrid | Aug 28 |
-| ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68b08832b47fb001d689324e?utm_campaign=1047&utm_source=git)** | Northfield, Illinois | Hybrid | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
