@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68b68331f4e41a61efd937b4?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Sep 01 |
+| ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68b6832ff4e41a61efd937b3?utm_campaign=1047&utm_source=git)** | Dayton, OH | On Site | Sep 01 |
+| **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Product Wellness Solutions](https://jobright.ai/jobs/info/68b67283f4e41a61efd92f4f?utm_campaign=1047&utm_source=git)** | Boston | Hybrid | Sep 01 |
+| **[Travelers](https://www.travelers.com)** | **[Product Management Development Program (PMDP) Intern](https://jobright.ai/jobs/info/68b671e21ade4306aa645055?utm_campaign=1047&utm_source=git)** | CT - Hartford | On Site | Sep 01 |
 | **[Donaldson](http://donaldson.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68b648cbbc187f64e1be921a?utm_campaign=1047&utm_source=git)** | Bloomington, MN (USA) | On Site | Sep 01 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/68b6267abc187f64e1be8e1b?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | Hybrid | Sep 01 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/68b630eebc187f64e1be8fa8?utm_campaign=1047&utm_source=git)** | Rochester, MN | Hybrid | Sep 01 |
@@ -87,7 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Product Mgmt Intern](https://jobright.ai/jobs/info/68b54a841ade4306aa6410e4?utm_campaign=1047&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Product Mgmt Intern](https://jobright.ai/jobs/info/68b549c3f4e41a61efd8ef02?utm_campaign=1047&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
 | **[84.51˚](http://8451.com/)** | **[Product Owner - Internship Program 2026](https://jobright.ai/jobs/info/68b53f9d1ade4306aa640cc9?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Aug 31 |
-| **[Textron](http://textron.com)** | **[2026 Product Mgmt Intern](https://jobright.ai/jobs/info/68b526a71ade4306aa6405d8?utm_campaign=1047&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
+| **[Textron](http://textron.com)** | **[2026 Product Mgmt Intern](https://jobright.ai/jobs/info/68b5281af4e41a61efd8e91d?utm_campaign=1047&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
 | **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 Product Mgmt Intern](https://jobright.ai/jobs/info/68b524c3f4e41a61efd8e520?utm_campaign=1047&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Product & Franchise Strategy Intern, Spring 2026](https://jobright.ai/jobs/info/68b52087bc187f64e1be551b?utm_campaign=1047&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Aug 31 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Digital Product and Innovation Intern](https://jobright.ai/jobs/info/68b43d70f4e41a61efd8c0d6?utm_campaign=1047&utm_source=git)** | Miami, FL | On Site | Aug 31 |
@@ -103,8 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Rippling](https://www.rippling.com)** | **[Product Lead Internship - Summer 2026](https://jobright.ai/jobs/info/687f1395764c3d7411c48c4d?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Aug 30 |
 | ↳ | **[Product Lead Internship - Summer 2026](https://jobright.ai/jobs/info/687f04b4db19f31cf0d6efaf?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Aug 30 |
 | **[Gelpac](https://www.gelpac.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/68b2eda51ade4306aa63a5fb?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Aug 30 |
-| **[Henkel](http://www.henkel.com)** | **[Product Innovation & Brand Management MBA Intern, DevaCurl - Spring 2026](https://jobright.ai/jobs/info/68b2395cbc187f64e1bd9f84?utm_campaign=1047&utm_source=git)** | Culver City, CA | On Site | Aug 30 |
-| ↳ | **[New Product Development MBA Intern, Joico - Spring 2026](https://jobright.ai/jobs/info/68b23a49f4e41a61efd82d67?utm_campaign=1047&utm_source=git)** | Culver City, CA | On Site | Aug 30 |
 | **[Databricks](https://www.databricks.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/689752ea1b9e81727f19857e?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Aug 30 |
 | ↳ | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/6898662b83d13d1f5b68ff75?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Aug 30 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern - 2026](https://jobright.ai/jobs/info/68b297b71ade4306aa638b8e?utm_campaign=1047&utm_source=git)** | Madison Heights, MI | On Site | Aug 29 |
@@ -113,6 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[Product Innovation & Brand Management MBA Intern, DevaCurl - Spring 2026](https://jobright.ai/jobs/info/68b24e70bc187f64e1bda7a8?utm_campaign=1047&utm_source=git)** | Culver City, None, US | On Site | Aug 29 |
 | ↳ | **[Product Development Intern - 2026](https://jobright.ai/jobs/info/68b24e5bf4e41a61efd834f8?utm_campaign=1047&utm_source=git)** | Madison Heights, None, US | On Site | Aug 29 |
 | ↳ | **[New Product Development MBA Intern, Joico - Spring 2026](https://jobright.ai/jobs/info/68b24ddbbc187f64e1bda73c?utm_campaign=1047&utm_source=git)** | Culver City, None, US | On Site | Aug 29 |
+| **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Jr. Product Manager](https://jobright.ai/jobs/info/68afa6001f0a2a568a062fcc?utm_campaign=1047&utm_source=git)** | Holtsville, NY | On Site | Aug 29 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Product Intern, Digital Strategy](https://jobright.ai/jobs/info/68b22ee61ade4306aa634c1e?utm_campaign=1047&utm_source=git)** | State College, PA, New York, NY or Remote | Remote | Aug 29 |
 | ↳ | **[Product Intern, Digital Strategy](https://jobright.ai/jobs/info/68b24805bc187f64e1bda423?utm_campaign=1047&utm_source=git)** | State College, PA | On Site | Aug 29 |
 | **[Appian](http://www.appian.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68b248b6bc187f64e1bda4c6?utm_campaign=1047&utm_source=git)** | McLean, VA | On Site | Aug 29 |
@@ -127,6 +130,8 @@ For a complete list, click the following sortable link below:
 | **[PIMCO](http://www.pimco.com)** | **[2026 MBA Summer Intern – Strategist, Product Strategy Group, US](https://jobright.ai/jobs/info/68b237f21ade4306aa634f7e?utm_campaign=1047&utm_source=git)** | Newport Beach, CA USA | On Site | Aug 29 |
 | ↳ | **[2026 Summer Intern - Product Strategy Analyst, US](https://jobright.ai/jobs/info/68b237e31ade4306aa634f78?utm_campaign=1047&utm_source=git)** | Newport Beach, CA USA | On Site | Aug 29 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68b23587f4e41a61efd82b33?utm_campaign=1047&utm_source=git)** | Lincoln, NE | On Site | Aug 29 |
+| **[Henkel](http://www.henkel.com)** | **[Product Innovation & Brand Management MBA Intern – DevaCurl - Spring 2026](https://jobright.ai/jobs/info/68b2395cbc187f64e1bd9f84?utm_campaign=1047&utm_source=git)** | Culver City, CA | Hybrid | Aug 29 |
+| ↳ | **[New Product Development MBA Intern - Joico - Spring 2026](https://jobright.ai/jobs/info/68b23a49f4e41a61efd82d67?utm_campaign=1047&utm_source=git)** | Culver City, CA | Hybrid | Aug 29 |
 | **[Appian](http://www.appian.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68b22dbebc187f64e1bd9b20?utm_campaign=1047&utm_source=git)** | McLean, Virginia | On Site | Aug 29 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/68b213e21ade4306aa6344c3?utm_campaign=1047&utm_source=git)** | Des Moines, IA | On Site | Aug 29 |
 | **[Inspire](https://inspirebrands.com)** | **[Guest Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68b204b91ade4306aa633dbd?utm_campaign=1047&utm_source=git)** | Boston Support Center | On Site | Aug 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68b0a182b47fb001d6893f46?utm_campaign=1047&utm_source=git)** | Northfield, IL | On Site | Aug 28 |
 | ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68b088332d46f6396cae650e?utm_campaign=1047&utm_source=git)** | Chicago, Illinois | Hybrid | Aug 28 |
 | ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68b08832b47fb001d689324e?utm_campaign=1047&utm_source=git)** | Northfield, Illinois | Hybrid | Aug 28 |
-| **[OCBC](http://www.ocbc.com)** | **[Internship: Global Markets, Global Market Equities, Digital Platforms [Jan to Jun 2026]](https://jobright.ai/jobs/info/68b04cda13563e782a9f4b45?utm_campaign=1047&utm_source=git)** | South Centre, PA | On Site | Aug 28 |
-| **[Relay](https://relaypro.com)** | **[Relay Pathways Intern - Product Management](https://jobright.ai/jobs/info/68b01b3ab47fb001d688f9c0?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Aug 28 |
-| **[Wonder](https://www.wonder.com)** | **[Ops Product Intern - Summer 2026](https://jobright.ai/jobs/info/68b29846bc187f64e1bddcd5?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Aug 27 |
-| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/68afc6e5e723db6c9b7b34ac?utm_campaign=1047&utm_source=git)** | Dallas, TX | Hybrid | Aug 27 |
-| **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Jr. Product Manager](https://jobright.ai/jobs/info/68afa6001f0a2a568a062fcc?utm_campaign=1047&utm_source=git)** | Holtsville, NY | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
