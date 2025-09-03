@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FlairX](https://www.flairx.ai/)** | **[AI Product Manager Intern](https://jobright.ai/jobs/info/68b7c4aba10b650604b605bc?utm_campaign=1047&utm_source=git)** | United States | Remote | Sep 02 |
 | **[Engrain](http://engrain.com/)** | **[Product Implementation Intern](https://jobright.ai/jobs/info/68b7a5fc1ade4306aa64cd1f?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Sep 02 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Responsible AI & Technology Product Analyst](https://jobright.ai/jobs/info/68b7a4761ade4306aa64cc1f?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Sep 02 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Product Management Intern](https://jobright.ai/jobs/info/68b7a1151ade4306aa64cbd1?utm_campaign=1047&utm_source=git)** | San Mateo, CA | Hybrid | Sep 02 |
@@ -79,16 +80,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Former Discover Intern, MBA Product Manager - 2026](https://jobright.ai/jobs/info/68b78454f4e41a61efd99879?utm_campaign=1047&utm_source=git)** | McLean, VA | Hybrid | Sep 02 |
 | **[The Hartford](https://www.hartfordlife.com)** | **[Tech & Ops Program Summer 2026 – Operations & Analytics Intern (Charlotte)](https://jobright.ai/jobs/info/68b77fcb1ade4306aa64b7b7?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Sep 02 |
 | ↳ | **[Tech & Ops Program Summer 2026 – Operations & Analytics Intern (Columbus)](https://jobright.ai/jobs/info/68b77c8b2124650c1402313b?utm_campaign=1047&utm_source=git)** | Columbus, OH | Hybrid | Sep 02 |
-| **[Allegion](https://www.allegion.com)** | **[Product Experience Intern](https://jobright.ai/jobs/info/68b77bf32124650c140230ac?utm_campaign=1047&utm_source=git)** | Carmel, IN | On Site | Sep 02 |
+| **[Allegion](https://www.allegion.com)** | **[Summer Intern - Product Management, Commercial Electronics](https://jobright.ai/jobs/info/68b77c892124650c14023137?utm_campaign=1047&utm_source=git)** | Carmel, IN | On Site | Sep 02 |
+| ↳ | **[Product Experience Intern](https://jobright.ai/jobs/info/68b77bf32124650c140230ac?utm_campaign=1047&utm_source=git)** | Carmel, IN | On Site | Sep 02 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - RFID Software Product Management](https://jobright.ai/jobs/info/68b7791e1ade4306aa64b383?utm_campaign=1047&utm_source=git)** | Holtsville, NY | On Site | Sep 02 |
 | ↳ | **[2026 Summer Internship (US) - Product Manager](https://jobright.ai/jobs/info/68b779141ade4306aa64b375?utm_campaign=1047&utm_source=git)** | Holtsville, NY | On Site | Sep 02 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[Spring 2026 Product Management Kroger Technology & Digital Intern](https://jobright.ai/jobs/info/68b777482124650c14022f43?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Sep 02 |
-| **[Allegion](https://www.allegion.com)** | **[Summer Intern - Product Management, Commercial Electronics](https://jobright.ai/jobs/info/68b764cbf4e41a61efd98bf3?utm_campaign=1047&utm_source=git)** | Carmel, IN | On Site | Sep 02 |
 | **[The Hartford](https://www.hartfordlife.com)** | **[Tech & Ops Program Summer 2026 – Operations & Analytics Intern (Columbus)](https://jobright.ai/jobs/info/68b758e51ade4306aa64a5cf?utm_campaign=1047&utm_source=git)** | Columbus, OH | Hybrid | Sep 02 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Responsible AI & Technology Product Analyst](https://jobright.ai/jobs/info/68b758771ade4306aa64a559?utm_campaign=1047&utm_source=git)** | Washington - Seattle | Hybrid | Sep 02 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Product Management Intern](https://jobright.ai/jobs/info/68b7586e1ade4306aa64a549?utm_campaign=1047&utm_source=git)** | San Mateo, CA, United States | On Site | Sep 02 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Responsible AI & Technology Product Analyst](https://jobright.ai/jobs/info/68b757091ade4306aa64a328?utm_campaign=1047&utm_source=git)** | Washington - Seattle | Hybrid | Sep 02 |
 | **[Free People](http://www.freepeople.com)** | **[Free People Movement Buying Intern](https://jobright.ai/jobs/info/68b7512af4e41a61efd98075?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Sep 02 |
-| **[Cencora](http://www.cencora.com)** | **[Generic Category Management Intern](https://jobright.ai/jobs/info/68b74dc61ade4306aa649dd3?utm_campaign=1047&utm_source=git)** | Conshohocken, PA | On Site | Sep 02 |
 | **[Altium Packaging](https://www.containerexperts.com/)** | **[2026 Product Management Intern](https://jobright.ai/jobs/info/68b749981ade4306aa649bd3?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Sep 02 |
 | **[WoodmenLife](https://www.woodmenlife.org/)** | **[Product Owner Intern - Summer 2026](https://jobright.ai/jobs/info/68b7484c1ade4306aa6499d1?utm_campaign=1047&utm_source=git)** | Omaha, NE | Hybrid | Sep 02 |
 | ↳ | **[Product Owner Intern - Summer 2026](https://jobright.ai/jobs/info/68b74760f4e41a61efd978a1?utm_campaign=1047&utm_source=git)** | WoodmenLife Home Office, Omaha, Nebraska, United States of America | Hybrid | Sep 02 |
@@ -112,6 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Supplies and Sensors Product Management](https://jobright.ai/jobs/info/68b724ae1ade4306aa647f14?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Sep 02 |
 | **[US Foods](https://www.usfoods.com/)** | **[Intern - Product Analyst (Hybrid: Onsite & Remote)](https://jobright.ai/jobs/info/68b71c2c1ade4306aa647a80?utm_campaign=1047&utm_source=git)** | Rosemont IL | Hybrid | Sep 02 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Spring 2026 Product Management Kroger Technology & Digital Intern](https://jobright.ai/jobs/info/68b7068cf4e41a61efd951ab?utm_campaign=1047&utm_source=git)** | 11450 Grooms Rd, Blue Ash, OH, 45242, US | On Site | Sep 02 |
+| **[Cencora](http://www.cencora.com)** | **[Generic Category Management Intern](https://jobright.ai/jobs/info/68b702a61ade4306aa647081?utm_campaign=1047&utm_source=git)** | Conshohocken, PA | On Site | Sep 02 |
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Product & Franchise Strategy Intern, Spring 2026](https://jobright.ai/jobs/info/68b702121ade4306aa64701c?utm_campaign=1047&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 02 |
 | **[URBN (Urban Outfitters, Anthropologie Group, Free People & Nuuly)](http://urbn.com)** | **[URBN Digital Product Creation Intern](https://jobright.ai/jobs/info/68b6ffce2124650c1401eab1?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Sep 02 |
 | ↳ | **[URBN Product Development Intern](https://jobright.ai/jobs/info/68b6ff442124650c1401ea57?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Sep 02 |
@@ -136,6 +137,7 @@ For a complete list, click the following sortable link below:
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68b732b12124650c140201d7?utm_campaign=1047&utm_source=git)** | Westminster, CO | On Site | Sep 01 |
 | ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68b68331f4e41a61efd937b4?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Sep 01 |
 | ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68b6832ff4e41a61efd937b3?utm_campaign=1047&utm_source=git)** | Dayton, OH | On Site | Sep 01 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (MBA)](https://jobright.ai/jobs/info/68b7d1480514b74d7c3eaa94?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 01 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Product Wellness Solutions](https://jobright.ai/jobs/info/68b67283f4e41a61efd92f4f?utm_campaign=1047&utm_source=git)** | Boston | Hybrid | Sep 01 |
 | **[Travelers](https://www.travelers.com)** | **[Product Management Development Program (PMDP) Intern](https://jobright.ai/jobs/info/68b671e21ade4306aa645055?utm_campaign=1047&utm_source=git)** | CT - Hartford | On Site | Sep 01 |
 | **[Donaldson](http://donaldson.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68b648cbbc187f64e1be921a?utm_campaign=1047&utm_source=git)** | Bloomington, MN (USA) | On Site | Sep 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mutual of Omaha](http://www.mutualofomaha.com)** | **[Summer 2026 Product Owner Intern - Remote](https://jobright.ai/jobs/info/68b5ad4a1ade4306aa642c47?utm_campaign=1047&utm_source=git)** | Omaha, NE | Remote | Sep 01 |
 | **[TE Connectivity](http://www.te.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68b59fe91ade4306aa642941?utm_campaign=1047&utm_source=git)** | Montgomery County, PA | On Site | Sep 01 |
 | **[Databricks](https://www.databricks.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68b592801ade4306aa6423d4?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Sep 01 |
-| **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Product Management Intern (Intern Program)](https://jobright.ai/jobs/info/68b57938f4e41a61efd8fd0a?utm_campaign=1047&utm_source=git)** | Beachwood, OH | Hybrid | Sep 01 |
-| **[CNH](http://www.cnhindustrial.com)** | **[Product Development Purchasing Intern - Large Tractors](https://jobright.ai/jobs/info/68b56251bc187f64e1be68b5?utm_campaign=1047&utm_source=git)** | Oak Brook, IL | Hybrid | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
