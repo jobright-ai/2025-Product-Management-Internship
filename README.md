@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Terex Corporation](http://www.terex.com)** | **[2026 Product Management Intern](https://jobright.ai/jobs/info/68ba95dd6105227d1189f8b5?utm_campaign=1047&utm_source=git)** | USA, WA, Bothell | Hybrid | Sep 05 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Product Development, Cosmetics](https://jobright.ai/jobs/info/68ba80966105227d1189e874?utm_campaign=1047&utm_source=git)** | Oakland, CA | On Site | Sep 04 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Supply Chain Product Management Co-op - Spring 2026](https://jobright.ai/jobs/info/68ba936e5f38327491868981?utm_campaign=1047&utm_source=git)** | Salisbury, NC | Hybrid | Sep 04 |
 | **[Pratt Miller](http://prattmiller.com)** | **[Product Intern - Summer 2026](https://jobright.ai/jobs/info/68ba4c9d5f38327491865b7a?utm_campaign=1047&utm_source=git)** | New Hudson, MI | On Site | Sep 04 |
@@ -118,7 +119,7 @@ For a complete list, click the following sortable link below:
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Product Management Intern](https://jobright.ai/jobs/info/68b7a1151ade4306aa64cbd1?utm_campaign=1047&utm_source=git)** | San Mateo, CA | Hybrid | Sep 02 |
 | **[Belden Inc.](http://belden.com)** | **[Product Management Internship](https://jobright.ai/jobs/info/68b7a0471ade4306aa64cb2b?utm_campaign=1047&utm_source=git)** | Carmel, IN | Remote | Sep 02 |
 | **[Georgia-Pacific LLC](http://www.gp.com/aboutus/companyoverview/index.html)** | **[Georgia-Pacific Business Analyst/Product Owner Internship - Summer 2026](https://jobright.ai/jobs/info/68b79da42124650c14024746?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Sep 02 |
-| **[Belk](http://www.belk.com)** | **[Summer 2026 Intern: Planner (Product Inventory Analyst)](https://jobright.ai/jobs/info/68b79c431ade4306aa64c98b?utm_campaign=1047&utm_source=git)** | Charlotte, NC - Corporate Office | Hybrid | Sep 02 |
+| **[Belk](http://www.belk.com)** | **[Summer 2026 Intern: Planner (Product Inventory Analyst)](https://jobright.ai/jobs/info/68b79ccb2124650c14024632?utm_campaign=1047&utm_source=git)** | Charlotte, NC - Corporate Office | Hybrid | Sep 02 |
 | **[McNeilus Truck and Manufacturing, Inc.](https://mcneilusgarbagetrucks.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68b79ba42124650c140244a4?utm_campaign=1047&utm_source=git)** | Dodge Center, MN | On Site | Sep 02 |
 | **[ Georgia Pacific](gp.com)** | **[Georgia-Pacific Business Analyst/Product Owner Internship - Summer 2026](https://jobright.ai/jobs/info/68b79ace1ade4306aa64c957?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Sep 02 |
 | **[Belk](http://www.belk.com)** | **[Summer 2026 Intern: Planner (Product Inventory Analyst)](https://jobright.ai/jobs/info/68b79aa01ade4306aa64c91d?utm_campaign=1047&utm_source=git)** | Charlotte Metro | On Site | Sep 02 |
@@ -143,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[The Hartford](http://www.thehartford.com)** | **[Tech & Ops Program Summer 2026 – Operations & Analytics Intern (Columbus)](https://jobright.ai/jobs/info/68b758e51ade4306aa64a5cf?utm_campaign=1047&utm_source=git)** | Columbus, OH | Hybrid | Sep 02 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Product Management Intern](https://jobright.ai/jobs/info/68b7586e1ade4306aa64a549?utm_campaign=1047&utm_source=git)** | San Mateo, CA, United States | On Site | Sep 02 |
 | **[Free People](http://www.freepeople.com)** | **[Free People Movement Buying Intern](https://jobright.ai/jobs/info/68b7512af4e41a61efd98075?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Sep 02 |
-| **[Cencora](http://www.cencora.com)** | **[Generic Category Management Intern](https://jobright.ai/jobs/info/68b74dc61ade4306aa649dd3?utm_campaign=1047&utm_source=git)** | Conshohocken, PA | On Site | Sep 02 |
 | **[Altium Packaging](https://www.containerexperts.com/)** | **[2026 Product Management Intern](https://jobright.ai/jobs/info/68b749981ade4306aa649bd3?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Sep 02 |
 | **[WoodmenLife](https://www.woodmenlife.org/)** | **[Product Owner Intern - Summer 2026](https://jobright.ai/jobs/info/68b7484c1ade4306aa6499d1?utm_campaign=1047&utm_source=git)** | Omaha, NE | Hybrid | Sep 02 |
 | ↳ | **[Product Owner Intern - Summer 2026](https://jobright.ai/jobs/info/68b74760f4e41a61efd978a1?utm_campaign=1047&utm_source=git)** | WoodmenLife Home Office, Omaha, Nebraska, United States of America | Hybrid | Sep 02 |
