@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: WiFi Product Team](https://jobright.ai/jobs/info/68bbc7938043103d4f22c6bc?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2026 Product Development, US Consumer Services - New York, NY](https://jobright.ai/jobs/info/68bb993d5f3832749187096e?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Sep 05 |
 | **[Force Factor](https://forcefactor.com/)** | **[Summer 2026 Product Development Intern](https://jobright.ai/jobs/info/68bb7c258043103d4f228fee?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Sep 05 |
 | **[Apollo Global Management, Inc.](https://www.apollo.com)** | **[2026 Summer Analyst, Product Management](https://jobright.ai/jobs/info/68bb93245f383274918705db?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Sep 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DICK'S Sporting Goods](http://www.dickssportinggoods.com)** | **[Product Management - Summer 2026 Corporate Internship](https://jobright.ai/jobs/info/68b8805507090163b6ba2334?utm_campaign=1047&utm_source=git)** | Coraopolis, PA | Hybrid | Sep 03 |
 | **[Allegion](https://www.allegion.com)** | **[Summer Intern - Order Management Transformation](https://jobright.ai/jobs/info/68b87a4407090163b6ba1f79?utm_campaign=1047&utm_source=git)** | Indiana, United States | Remote | Sep 03 |
 | **[USAA](https://www.usaa.com)** | **[Product Management Analyst Intern](https://jobright.ai/jobs/info/68b86fa307090163b6ba1a72?utm_campaign=1047&utm_source=git)** | San Antonio Home Office I | On Site | Sep 03 |
-| **[Allegion](https://www.allegion.com)** | **[Summer Intern - Order Management Transformation](https://jobright.ai/jobs/info/68b8524c5b42bc4562823a81?utm_campaign=1047&utm_source=git)** | Remote, Indiana | Remote | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
