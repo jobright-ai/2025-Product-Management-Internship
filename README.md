@@ -61,7 +61,8 @@ For a complete list, click the following sortable link below:
 | **[ABB](https://global.abb/group/en)** | **[Product Data Management Intern](https://jobright.ai/jobs/info/68bbdf5d5f38327491873c82?utm_campaign=1047&utm_source=git)** | Location, WV | On Site | Sep 06 |
 | **[SPX Technologies](http://www.spx.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/68bbdee75f38327491873c27?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Sep 06 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[PL Product Management Analyst Intern](https://jobright.ai/jobs/info/68bbdb748043103d4f22d177?utm_campaign=1047&utm_source=git)** | Trenton, NJ | On Site | Sep 05 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Mobile Product](https://jobright.ai/jobs/info/68bbcfa28043103d4f22cc57?utm_campaign=1047&utm_source=git)** | Stamford, CT | On Site | Sep 05 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Video Product](https://jobright.ai/jobs/info/68bbd7c46105227d118aa498?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
+| ↳ | **[2026 Summer Intern: Mobile Product](https://jobright.ai/jobs/info/68bbcfa28043103d4f22cc57?utm_campaign=1047&utm_source=git)** | Stamford, CT | On Site | Sep 05 |
 | ↳ | **[2026 Summer Intern: WiFi Product Team](https://jobright.ai/jobs/info/68bbc7938043103d4f22c6bc?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2026 Product Development, US Consumer Services - New York, NY](https://jobright.ai/jobs/info/68bb993d5f3832749187096e?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Sep 05 |
 | **[Force Factor](https://forcefactor.com/)** | **[Summer 2026 Product Development Intern](https://jobright.ai/jobs/info/68bb7c258043103d4f228fee?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Sep 05 |
@@ -127,7 +128,7 @@ For a complete list, click the following sortable link below:
 | **[MillerKnoll](http://www.millerknoll.com/)** | **[3D Product Specification Tools Intern](https://jobright.ai/jobs/info/68ba2b708043103d4f21e0c9?utm_campaign=1047&utm_source=git)** | Holland, MI | On Site | Sep 04 |
 | **[Sam's Club](http://www.samsclub.com)** | **[2026 Summer Corporate Intern: Sam's Club Product Management](https://jobright.ai/jobs/info/68ba25838043103d4f21de40?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Sep 04 |
 | **[Anker Innovations LTD](https://us.anker.com/)** | **[GTM Intern](https://jobright.ai/jobs/info/6881589a29ad6b2744ae1793?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Sep 04 |
-| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/68ba15918043103d4f21d5ac?utm_campaign=1047&utm_source=git)** | Milwaukee, Wisconsin, United States | Hybrid | Sep 04 |
+| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/68ba14d38043103d4f21d52c?utm_campaign=1047&utm_source=git)** | Milwaukee, Wisconsin, United States | Hybrid | Sep 04 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[P&A Product Management Intern](https://jobright.ai/jobs/info/68b9f2668043103d4f21c1d5?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI | On Site | Sep 04 |
 | ↳ | **[Parts & Accessories Product Management Intern](https://jobright.ai/jobs/info/68b9f2138043103d4f21c17f?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI | On Site | Sep 04 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Product Intern - Summer 2026](https://jobright.ai/jobs/info/68b9ee8f8043103d4f21bf8c?utm_campaign=1047&utm_source=git)** | New Hudson, Michigan, United States | On Site | Sep 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68b8a43f07090163b6ba3b9d?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Sep 03 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Product Management Intern (Summer 2026) - St. Louis, MO](https://jobright.ai/jobs/info/68b893abea901c0d269f78ce?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Sep 03 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Co-Op: Strategic Product Planning (Spring 2026)](https://jobright.ai/jobs/info/68b89329ea901c0d269f783a?utm_campaign=1047&utm_source=git)** | Greensboro, NC | On Site | Sep 03 |
-| **[The Friedkin Group](http://apply2jobs.com)** | **[Summer Intern -  Product Analyst](https://jobright.ai/jobs/info/68b8924aea901c0d269f7648?utm_campaign=1047&utm_source=git)** | US-TX-Houston | On Site | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
