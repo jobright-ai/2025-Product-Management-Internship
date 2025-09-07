@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Schaeffler](https://www.schaeffler.us)** | **[Co-Op - Product Management](https://jobright.ai/jobs/info/68bd947de57feb02eb0ac0bf?utm_campaign=1047&utm_source=git)** | Strongsville, OH | On Site | Sep 07 |
 | **[Cox Automotive Inc.](http://www.coxautoinc.com)** | **[Product Management Intern- Summer 2026](https://jobright.ai/jobs/info/68bc8c2fae79610dacddbd55?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Sep 06 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2026 Pricing Strategy Analyst Student Experience](https://jobright.ai/jobs/info/68bc8459ae79610dacddbcda?utm_campaign=1047&utm_source=git)** | West Fargo, ND | On Site | Sep 06 |
 | **[Uline](http://www.uline.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/689f905c83d13d1f5b6c9a92?utm_campaign=1047&utm_source=git)** | Pleasant Prairie, WI | On Site | Sep 06 |
@@ -65,8 +66,7 @@ For a complete list, click the following sortable link below:
 | **[ABB](https://global.abb/group/en)** | **[Product Data Management Intern](https://jobright.ai/jobs/info/68bbdf5d5f38327491873c82?utm_campaign=1047&utm_source=git)** | Location, WV | On Site | Sep 06 |
 | **[SPX Technologies](http://www.spx.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/68bbdee75f38327491873c27?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Sep 06 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[PL Product Management Analyst Intern](https://jobright.ai/jobs/info/68bbdb748043103d4f22d177?utm_campaign=1047&utm_source=git)** | Trenton, NJ | On Site | Sep 05 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Video Product](https://jobright.ai/jobs/info/68bbd7c46105227d118aa498?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
-| ↳ | **[2026 Summer Intern: Mobile Product](https://jobright.ai/jobs/info/68bbcfa28043103d4f22cc57?utm_campaign=1047&utm_source=git)** | Stamford, CT | On Site | Sep 05 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Mobile Product](https://jobright.ai/jobs/info/68bbcfa28043103d4f22cc57?utm_campaign=1047&utm_source=git)** | Stamford, CT | On Site | Sep 05 |
 | ↳ | **[2026 Summer Intern: WiFi Product Team](https://jobright.ai/jobs/info/68bbc7938043103d4f22c6bc?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2026 Product Development, US Consumer Services - New York, NY](https://jobright.ai/jobs/info/68bb993d5f3832749187096e?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Sep 05 |
 | **[Acxiom](http://www.acxiom.com)** | **[Intern - Product Manager](https://jobright.ai/jobs/info/68bb94646105227d118a748d?utm_campaign=1047&utm_source=git)** | United States | Remote | Sep 05 |
@@ -105,7 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Copeland](https://www.copeland.com)** | **[Spring (Jan 5 -May 11) - 2026 - Product Management /Controls & Smart Home Technologies Internship](https://jobright.ai/jobs/info/68bb1fc46105227d118a3222?utm_campaign=1047&utm_source=git)** | St. Louis, MO, USA | On Site | Sep 05 |
 | **[Allegion](https://www.allegion.com)** | **[Summer Intern - Product Data](https://jobright.ai/jobs/info/68bb1a288043103d4f22577e?utm_campaign=1047&utm_source=git)** | Greater Indianapolis | On Site | Sep 05 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68bb19476105227d118a2dbf?utm_campaign=1047&utm_source=git)** | Elgin, IL | On Site | Sep 05 |
-| **[Allegion](https://www.allegion.com)** | **[Summer Intern - Product Data](https://jobright.ai/jobs/info/68bb174c6105227d118a2d7b?utm_campaign=1047&utm_source=git)** | Indianapolis, IN - Hague Rd | On Site | Sep 05 |
+| **[Allegion](https://www.allegion.com)** | **[Summer Intern - Product Data](https://jobright.ai/jobs/info/68bb17186105227d118a2d56?utm_campaign=1047&utm_source=git)** | Indianapolis, IN - Hague Rd | On Site | Sep 05 |
 | **[CLEAResult](http://www.clearesult.com)** | **[Intern – Digital Product Strategy - Energy Transition & DERs](https://jobright.ai/jobs/info/68bb17098043103d4f2256d0?utm_campaign=1047&utm_source=git)** | Remote - Texas | Remote | Sep 05 |
 | ↳ | **[Intern – Digital Product Strategy - Energy Transition & DERs](https://jobright.ai/jobs/info/68bb16765f3832749186bef6?utm_campaign=1047&utm_source=git)** | Remote - Massachusetts | Remote | Sep 05 |
 | **[Allegion](https://www.allegion.com)** | **[Summer Intern - Product Data](https://jobright.ai/jobs/info/68bb16695f3832749186beed?utm_campaign=1047&utm_source=git)** | Colorado Springs, CO | On Site | Sep 05 |
