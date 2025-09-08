@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - MCBU NPI Manager](https://jobright.ai/jobs/info/68be156bc4c5904ff60047a5?utm_campaign=1047&utm_source=git)** | Boise, ID - Main Site | On Site | Sep 07 |
+| **[Page closed](http://www.doosanbobcat.com/)** | **[2026 Product Management Student Experience](https://jobright.ai/jobs/info/68be0e97df5eec448f63da45?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Sep 07 |
 | **[Cox Automotive Inc.](http://www.coxautoinc.com)** | **[Product Management Intern- Summer 2026](https://jobright.ai/jobs/info/68bde043c4c5904ff6004485?utm_campaign=1047&utm_source=git)** | Mission, KS | On Site | Sep 07 |
 | ↳ | **[Product Management Intern- Summer 2026](https://jobright.ai/jobs/info/68bddeaddf5eec448f63d74c?utm_campaign=1047&utm_source=git)** | North Hills, NY | On Site | Sep 07 |
 | ↳ | **[Product Management Intern- Summer 2026](https://jobright.ai/jobs/info/68bdde93df5eec448f63d745?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Sep 07 |
@@ -71,16 +73,17 @@ For a complete list, click the following sortable link below:
 | **[ABB](https://global.abb/group/en)** | **[Product Data Management Intern](https://jobright.ai/jobs/info/68bbdf5d5f38327491873c82?utm_campaign=1047&utm_source=git)** | Location, WV | On Site | Sep 06 |
 | **[SPX Technologies](http://www.spx.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/68bbdee75f38327491873c27?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Sep 06 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[PL Product Management Analyst Intern](https://jobright.ai/jobs/info/68bbdb748043103d4f22d177?utm_campaign=1047&utm_source=git)** | Trenton, NJ | On Site | Sep 05 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Mobile Product](https://jobright.ai/jobs/info/68bbcfa28043103d4f22cc57?utm_campaign=1047&utm_source=git)** | Stamford, CT | On Site | Sep 05 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Video Product](https://jobright.ai/jobs/info/68bbd7c46105227d118aa498?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
+| ↳ | **[2026 Summer Intern: Mobile Product](https://jobright.ai/jobs/info/68bbcfa28043103d4f22cc57?utm_campaign=1047&utm_source=git)** | Stamford, CT | On Site | Sep 05 |
 | ↳ | **[2026 Summer Intern: WiFi Product Team](https://jobright.ai/jobs/info/68bbc7938043103d4f22c6bc?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2026 Product Development, US Consumer Services - New York, NY](https://jobright.ai/jobs/info/68bb993d5f3832749187096e?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Sep 05 |
+| **[Acxiom](http://www.acxiom.com)** | **[Intern - Product Manager](https://jobright.ai/jobs/info/68bb94646105227d118a748d?utm_campaign=1047&utm_source=git)** | United States | Remote | Sep 05 |
 | **[Force Factor](https://forcefactor.com/)** | **[Summer 2026 Product Development Intern](https://jobright.ai/jobs/info/68bb7c258043103d4f228fee?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Sep 05 |
 | **[Apollo Global Management, Inc.](https://www.apollo.com)** | **[2026 Summer Analyst, Product Management](https://jobright.ai/jobs/info/68bb93245f383274918705db?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Sep 05 |
 | ↳ | **[2026 Summer Associate, Product Management](https://jobright.ai/jobs/info/68bb91565f3832749187047f?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Sep 05 |
 | **[Copeland](https://www.copeland.com)** | **[Spring (Jan 5- May 11) - 2026 Business Analyst, Innovation Internship](https://jobright.ai/jobs/info/68bb91546105227d118a71a2?utm_campaign=1047&utm_source=git)** | Dayton, OH | On Site | Sep 05 |
 | **[Atlassian](https://www.atlassian.com)** | **[Associate Product Management Intern, Summer 2026 U.S.](https://jobright.ai/jobs/info/68bb8e446105227d118a7175?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Sep 05 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[Ecommerce Development Intern](https://jobright.ai/jobs/info/68bb8d655f38327491870378?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Sep 05 |
-| **[Acxiom](http://www.acxiom.com)** | **[Intern - Product Manager](https://jobright.ai/jobs/info/68bb8d268043103d4f229974?utm_campaign=1047&utm_source=git)** | United States | Remote | Sep 05 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Food and Beverage Category Management Intern](https://jobright.ai/jobs/info/68bb7f565f3832749186f964?utm_campaign=1047&utm_source=git)** | Knoxville, TN | On Site | Sep 05 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern](https://jobright.ai/jobs/info/68bb7ea76105227d118a65e6?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Sep 05 |
 | **[Sargento](http://www.sargento.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68bb7d955f3832749186f7de?utm_campaign=1047&utm_source=git)** | Elkhart Lake, WI | Hybrid | Sep 05 |
@@ -134,7 +137,7 @@ For a complete list, click the following sortable link below:
 | **[MillerKnoll](http://www.millerknoll.com/)** | **[3D Product Specification Tools Intern](https://jobright.ai/jobs/info/68ba2b708043103d4f21e0c9?utm_campaign=1047&utm_source=git)** | Holland, MI | On Site | Sep 04 |
 | **[Sam's Club](http://www.samsclub.com)** | **[2026 Summer Corporate Intern: Sam's Club Product Management](https://jobright.ai/jobs/info/68ba25838043103d4f21de40?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Sep 04 |
 | **[Anker Innovations LTD](https://us.anker.com/)** | **[GTM Intern](https://jobright.ai/jobs/info/6881589a29ad6b2744ae1793?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Sep 04 |
-| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/68ba14d38043103d4f21d52c?utm_campaign=1047&utm_source=git)** | Milwaukee, Wisconsin, United States | Hybrid | Sep 04 |
+| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/68ba15918043103d4f21d5ac?utm_campaign=1047&utm_source=git)** | Milwaukee, Wisconsin, United States | Hybrid | Sep 04 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[P&A Product Management Intern](https://jobright.ai/jobs/info/68b9f2668043103d4f21c1d5?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI | On Site | Sep 04 |
 | ↳ | **[Parts & Accessories Product Management Intern](https://jobright.ai/jobs/info/68b9f2138043103d4f21c17f?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI | On Site | Sep 04 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Product Intern - Summer 2026](https://jobright.ai/jobs/info/68b9ee8f8043103d4f21bf8c?utm_campaign=1047&utm_source=git)** | New Hudson, Michigan, United States | On Site | Sep 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/68aebe937bcb7608b3d29365?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Sep 04 |
 | **[GiveDirectly](https://www.givedirectly.org/)** | **[Senior Product Manager, International Rapid Response Payment Systems](https://jobright.ai/jobs/info/689bcd54faa4e875e82639c5?utm_campaign=1047&utm_source=git)** | United States | Remote | Sep 04 |
 | **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[P3 Rx Intern](https://jobright.ai/jobs/info/68b986546105227d118953e8?utm_campaign=1047&utm_source=git)** | Lunenburg, MA | On Site | Sep 04 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern - Product Line Data Analyst](https://jobright.ai/jobs/info/68b90c7c5b42bc4562829ef0?utm_campaign=1047&utm_source=git)** | MTI - California - Remote (C) | Remote | Sep 03 |
-| **[Persona](https://withpersona.com)** | **[Product Design, Intern (Summer 2026)](https://jobright.ai/jobs/info/68b8f1595b42bc45628291c6?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Sep 03 |
-| **[12th Tribe](https://www.12thtribe.com)** | **[Product Intern](https://jobright.ai/jobs/info/68b8e3d15b42bc4562828ac0?utm_campaign=1047&utm_source=git)** | Los Angeles, California, United States | On Site | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
