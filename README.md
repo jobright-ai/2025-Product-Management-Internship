@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Haleon](http://www.haleon.com/)** | **[2026 Intern: Product Design and AD(12 weeks, June 2026 start)](https://jobright.ai/jobs/info/68bf16368e65e77df55b6dac?utm_campaign=1047&utm_source=git)** | Richmond Sherwood | On Site | Sep 08 |
+| **[Henkel](http://www.henkel.com)** | **[Hair Color Product Development Intern - Fall 2026 - Summer 2027](https://jobright.ai/jobs/info/68bf15528e65e77df55b6c68?utm_campaign=1047&utm_source=git)** | Darien, CT | Hybrid | Sep 08 |
+| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - Product Strategy Analyst, US - PIMCO](https://jobright.ai/jobs/info/68bf11db5c5d5f14f46d3678?utm_campaign=1047&utm_source=git)** | Newport Beach, CA | On Site | Sep 08 |
+| **[HMH](https://hmhw.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68bf09425c5d5f14f46d3107?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Sep 08 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship – Product Strategy Intern](https://jobright.ai/jobs/info/68bef9305c5d5f14f46d28c1?utm_campaign=1047&utm_source=git)** | New York City | Hybrid | Sep 08 |
 | **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[Product Mgmnt Intern: Starts Summer 2026](https://jobright.ai/jobs/info/68bede5d702aa35207aa117d?utm_campaign=1047&utm_source=git)** | Omaha, NE | Hybrid | Sep 08 |
 | **[Augusta National Golf Club](https://www.masters.org)** | **[Design and Product Development Intern](https://jobright.ai/jobs/info/68bedd7f5c5d5f14f46d19e6?utm_campaign=1047&utm_source=git)** | Augusta Office | On Site | Sep 08 |
-| **[GALLO](https://www.gallo.com)** | **[Product Insights & Innovation Internship 2026](https://jobright.ai/jobs/info/68bedbdb8e65e77df55b4da5?utm_campaign=1047&utm_source=git)** | Modesto, CA | On Site | Sep 08 |
 | **[Veeam Software](http://www.veeam.com)** | **[Product Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68bed0e88e65e77df55b4858?utm_campaign=1047&utm_source=git)** | Columbus, OH, USA | On Site | Sep 08 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - MCBU NPI Manager](https://jobright.ai/jobs/info/68be2044c4c5904ff600483b?utm_campaign=1047&utm_source=git)** | Boise, ID | On Site | Sep 07 |
 | ↳ | **[Intern - MCBU NPI Manager](https://jobright.ai/jobs/info/68be156bc4c5904ff60047a5?utm_campaign=1047&utm_source=git)** | Boise, ID - Main Site | On Site | Sep 07 |
@@ -82,8 +85,7 @@ For a complete list, click the following sortable link below:
 | **[ABB](https://global.abb/group/en)** | **[Product Data Management Intern](https://jobright.ai/jobs/info/68bbdf5d5f38327491873c82?utm_campaign=1047&utm_source=git)** | Location, WV | On Site | Sep 06 |
 | **[SPX Technologies](http://www.spx.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/68bbdee75f38327491873c27?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Sep 06 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[PL Product Management Analyst Intern](https://jobright.ai/jobs/info/68bbdb748043103d4f22d177?utm_campaign=1047&utm_source=git)** | Trenton, NJ | On Site | Sep 05 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Video Product](https://jobright.ai/jobs/info/68bbd7c46105227d118aa498?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
-| ↳ | **[2026 Summer Intern: Mobile Product](https://jobright.ai/jobs/info/68bbcfa28043103d4f22cc57?utm_campaign=1047&utm_source=git)** | Stamford, CT | On Site | Sep 05 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Mobile Product](https://jobright.ai/jobs/info/68bbcfa28043103d4f22cc57?utm_campaign=1047&utm_source=git)** | Stamford, CT | On Site | Sep 05 |
 | ↳ | **[2026 Summer Intern: WiFi Product Team](https://jobright.ai/jobs/info/68bbc7938043103d4f22c6bc?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/68be5d673d31ec76b7e89d16?utm_campaign=1047&utm_source=git)** | Lowell, MA | On Site | Sep 05 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/68be57cfc4c5904ff6005a34?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 05 |
@@ -103,11 +105,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate Internship (Product Strategist)](https://jobright.ai/jobs/info/68bb7b8d8043103d4f228f70?utm_campaign=1047&utm_source=git)** | Vienna, VA | Hybrid | Sep 05 |
 | ↳ | **[Summer Associate Internship (Product Manager)](https://jobright.ai/jobs/info/68bb7a376105227d118a6511?utm_campaign=1047&utm_source=git)** | Vienna, VA | Hybrid | Sep 05 |
 | ↳ | **[Summer Associate Internship (Product Strategist)](https://jobright.ai/jobs/info/68bb79bb8043103d4f228ddc?utm_campaign=1047&utm_source=git)** | Pensacola, FL | Hybrid | Sep 05 |
+| **[Lightcast](https://lightcast.io)** | **[Product Implementation Management Intern](https://jobright.ai/jobs/info/68bb78436105227d118a632b?utm_campaign=1047&utm_source=git)** | Moscow, ID | On Site | Sep 05 |
 | **[CNA Insurance](http://www.cna.com)** | **[Technology Internship Program (Agile Product Design)](https://jobright.ai/jobs/info/68bb72945f3832749186f3a0?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Sep 05 |
 | **[Apollo Global Management, Inc.](https://www.apollo.com)** | **[2026 Summer Analyst, Product Management](https://jobright.ai/jobs/info/68bb808c8043103d4f2290d1?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Sep 05 |
 | **[Athene](https://www.athene.com/)** | **[2026 Summer Associate, Product Management](https://jobright.ai/jobs/info/68bb57298043103d4f227f9f?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Sep 05 |
 | **[Force Factor](https://forcefactor.com/)** | **[Summer 2026 Product Development Intern](https://jobright.ai/jobs/info/68bb50818043103d4f227c81?utm_campaign=1047&utm_source=git)** | Boston, MA. | On Site | Sep 05 |
-| **[Lightcast](https://lightcast.io)** | **[Product Implementation Management Intern](https://jobright.ai/jobs/info/68bb4d575f3832749186e37c?utm_campaign=1047&utm_source=git)** | Moscow, ID | On Site | Sep 05 |
 | **[CLEAResult](http://www.clearesult.com)** | **[Intern – Digital Product Strategy - Energy Transition & DERs](https://jobright.ai/jobs/info/68bb4d216105227d118a50e5?utm_campaign=1047&utm_source=git)** | Massachusetts, United States | On Site | Sep 05 |
 | **[Athene](https://www.athene.com/)** | **[2026 Summer Analyst, Product Management](https://jobright.ai/jobs/info/68bb4cd68043103d4f227a7c?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Sep 05 |
 | **[CNA Hardy](https://www.cnahardy.com/)** | **[Technology Internship Program (Agile Product Design)](https://jobright.ai/jobs/info/68bb492c6105227d118a4e2f?utm_campaign=1047&utm_source=git)** | Chicago, IL, USA | Hybrid | Sep 05 |
@@ -117,15 +119,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern – Digital Product Strategy - Energy Transition & DERs](https://jobright.ai/jobs/info/68bb41a86105227d118a4989?utm_campaign=1047&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Sep 05 |
 | ↳ | **[Intern – Digital Product Strategy - Energy Transition & DERs](https://jobright.ai/jobs/info/68bb41906105227d118a4974?utm_campaign=1047&utm_source=git)** | Texas, United States | On Site | Sep 05 |
 | **[Copeland](https://www.copeland.com)** | **[Spring (Jan 5- May 11) - 2026 Business Analyst, Innovation Internship](https://jobright.ai/jobs/info/68bb40148043103d4f227085?utm_campaign=1047&utm_source=git)** | Dayton, OH, USA | On Site | Sep 05 |
-| **[Acxiom](http://www.acxiom.com)** | **[Intern - Product Manager](https://jobright.ai/jobs/info/68bb3fa08043103d4f226fbb?utm_campaign=1047&utm_source=git)** | Remote/Homebased | Remote | Sep 05 |
 | **[CLEAResult](http://www.clearesult.com)** | **[Intern – Digital Product Strategy - Energy Transition & DERs](https://jobright.ai/jobs/info/68bb3ed16105227d118a466e?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Sep 05 |
 | **[Blackstone](http://blackstone.com)** | **[2026 Blackstone Product Manager Summer Analyst](https://jobright.ai/jobs/info/68bb3afa6105227d118a45d9?utm_campaign=1047&utm_source=git)** | Miami, FL | On Site | Sep 05 |
+| **[Acxiom](http://www.acxiom.com)** | **[Intern - Product Manager - Spring 2026](https://jobright.ai/jobs/info/68bb415e6105227d118a4921?utm_campaign=1047&utm_source=git)** | Remote/Homebased | Remote | Sep 05 |
 | **[ Pilot Company](http://www.pilotflyingj.com)** | **[Food and Beverage Category Management Intern](https://jobright.ai/jobs/info/68bb320a5f3832749186cfe7?utm_campaign=1047&utm_source=git)** | 5508 Lonas Drive, Knoxville, TN | On Site | Sep 05 |
 | **[Cox Enterprises](http://coxenterprises.com)** | **[Product Management Intern- Summer 2026](https://jobright.ai/jobs/info/68bb22b68043103d4f225d33?utm_campaign=1047&utm_source=git)** | Atlanta GA | Hybrid | Sep 05 |
 | **[Copeland](https://www.copeland.com)** | **[Spring (Jan 5 -May 11) - 2026 - Product Management /Controls & Smart Home Technologies Internship](https://jobright.ai/jobs/info/68bb1fc46105227d118a3222?utm_campaign=1047&utm_source=git)** | St. Louis, MO, USA | On Site | Sep 05 |
 | **[Allegion](https://www.allegion.com)** | **[Summer Intern - Product Data](https://jobright.ai/jobs/info/68bb1a288043103d4f22577e?utm_campaign=1047&utm_source=git)** | Greater Indianapolis | On Site | Sep 05 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68bb19476105227d118a2dbf?utm_campaign=1047&utm_source=git)** | Elgin, IL | On Site | Sep 05 |
-| **[Allegion](https://www.allegion.com)** | **[Summer Intern - Product Data](https://jobright.ai/jobs/info/68bb174c6105227d118a2d7b?utm_campaign=1047&utm_source=git)** | Indianapolis, IN - Hague Rd | On Site | Sep 05 |
+| **[Allegion](https://www.allegion.com)** | **[Summer Intern - Product Data](https://jobright.ai/jobs/info/68bb17186105227d118a2d56?utm_campaign=1047&utm_source=git)** | Indianapolis, IN - Hague Rd | On Site | Sep 05 |
 | **[CLEAResult](http://www.clearesult.com)** | **[Intern – Digital Product Strategy - Energy Transition & DERs](https://jobright.ai/jobs/info/68bb17098043103d4f2256d0?utm_campaign=1047&utm_source=git)** | Remote - Texas | Remote | Sep 05 |
 | ↳ | **[Intern – Digital Product Strategy - Energy Transition & DERs](https://jobright.ai/jobs/info/68bb16765f3832749186bef6?utm_campaign=1047&utm_source=git)** | Remote - Massachusetts | Remote | Sep 05 |
 | **[Allegion](https://www.allegion.com)** | **[Summer Intern - Product Data](https://jobright.ai/jobs/info/68bb16695f3832749186beed?utm_campaign=1047&utm_source=git)** | Colorado Springs, CO | On Site | Sep 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Product Intern - Summer 2026](https://jobright.ai/jobs/info/68b9ee8f8043103d4f21bf8c?utm_campaign=1047&utm_source=git)** | New Hudson, Michigan, United States | On Site | Sep 04 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[P&A Product Management Intern](https://jobright.ai/jobs/info/68b9ee8b6105227d118996da?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI | Hybrid | Sep 04 |
 | ↳ | **[Parts & Accessories Product Management Intern](https://jobright.ai/jobs/info/68b9ee198043103d4f21bf64?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI | Hybrid | Sep 04 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Product Management Intern (Colorado)](https://jobright.ai/jobs/info/68b9ecda6105227d118994ef?utm_campaign=1047&utm_source=git)** | Fort Collins Area | Hybrid | Sep 04 |
-| **[NJM Insurance Group](https://www.njm.com)** | **[PL Product Management Analyst Intern](https://jobright.ai/jobs/info/68b9ea4e8043103d4f21bc23?utm_campaign=1047&utm_source=git)** | Trenton, NJ | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
