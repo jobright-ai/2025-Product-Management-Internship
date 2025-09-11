@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hudl](http://www.hudl.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68c2ed9f5001f8077bf5f6f2?utm_campaign=1047&utm_source=git)** | Lincoln, NE | On Site | Sep 11 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68c2ecf55001f8077bf5f635?utm_campaign=1047&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | Hybrid | Sep 11 |
+| **[Mapei](https://www.mapei.com/ca/)** | **[Intern, Product Management](https://jobright.ai/jobs/info/68c2e2b663829b0a8a4fd9d4?utm_campaign=1047&utm_source=git)** | 1144 E Newport Center Dr, Deerfield Beach, FL, 33442, US | On Site | Sep 11 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68c2d0e85001f8077bf5e477?utm_campaign=1047&utm_source=git)** | Alpharetta, GA | On Site | Sep 11 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern(TikTok-Product-Social and Creation)- 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68a3d51737d3cc6b0d579fc4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
+| ↳ | **[Product Strategist Intern [TikTok-Product-Business Analytics]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688e2c436a4aac5783cd88e8?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
 | **[MAPFRE](https://www.mapfre.com)** | **[Intern - MA Product Execution](https://jobright.ai/jobs/info/68a66252758f2e4ac3fe48be?utm_campaign=1047&utm_source=git)** | Webster, MA | On Site | Sep 11 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Recommend Product]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68a7e945d627244576e2f6e2?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
+| **[TikTok](https://www.tiktok.com)** | **[Product manager Intern (TikTok-Search-Comprehensive Search) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68b7c0da0514b74d7c3e9e34?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
+| ↳ | **[Product Manager Intern (Content and Service Lead Ads ) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689c3a5d79a9f96662537dd0?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
+| ↳ | **[Product Manager Intern [TikTok LIVE-Recommend Product]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68a7e945d627244576e2f6e2?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
 | ↳ | **[AI Product Operations Intern [TikTok-Product-Issue Discovery]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688e2c42e5cead4afd45bf2f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
 | **[JLG Industries](http://www.jlg.com/en)** | **[Product Management Intern](https://jobright.ai/jobs/info/68c236a74d652f044775dd2a?utm_campaign=1047&utm_source=git)** | Hagerstown, MD | On Site | Sep 10 |
 | **[HARTING Technology Group](https://www.harting.com/)** | **[Product Manager (Engineering) Intern (Summer 2026)](https://jobright.ai/jobs/info/68c21dfa63b706703e111af0?utm_campaign=1047&utm_source=git)** | Elgin, IL | On Site | Sep 10 |
@@ -121,7 +128,7 @@ For a complete list, click the following sortable link below:
 | **[Veeam Software](http://www.veeam.com)** | **[Product Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68c064f2702aa35207aacad0?utm_campaign=1047&utm_source=git)** | Columbus, OH | On Site | Sep 09 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Junior Product Manager Intern](https://jobright.ai/jobs/info/68b55d7e1ade4306aa6418d1?utm_campaign=1047&utm_source=git)** | Holland, WI | Hybrid | Sep 09 |
 | **[Vermeer Corporation](https://borestore.com/)** | **[Product Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/68c05a338e65e77df55c03b8?utm_campaign=1047&utm_source=git)** | Pella, Iowa, USA - Corporate Office | On Site | Sep 09 |
-| **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68c04d6e5c5d5f14f46dc859?utm_campaign=1047&utm_source=git)** | Springfield, TN | On Site | Sep 09 |
+| **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68c04c4f8e65e77df55bfdba?utm_campaign=1047&utm_source=git)** | Springfield, TN | On Site | Sep 09 |
 | **[American Tower](https://www.americantower.com/)** | **[Product and Strategy Intern](https://jobright.ai/jobs/info/68c04bc98e65e77df55bfd04?utm_campaign=1047&utm_source=git)** | Woburn, MA | Hybrid | Sep 09 |
 | ↳ | **[Product and Strategy Intern](https://jobright.ai/jobs/info/68c043a98e65e77df55bf8f2?utm_campaign=1047&utm_source=git)** | Woburn, MA, United States | On Site | Sep 09 |
 | **[Cigna Healthcare](http://www.cigna.com)** | **[Accredo Product  - Summer Intern](https://jobright.ai/jobs/info/68c02ee08e65e77df55bf160?utm_campaign=1047&utm_source=git)** | St. Louis, MO | Hybrid | Sep 09 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Haleon](http://www.haleon.com/)** | **[2026 Intern: Product Design and AD(12 weeks, June 2026 start)](https://jobright.ai/jobs/info/68bf49b15c5d5f14f46d5c7c?utm_campaign=1047&utm_source=git)** | Richmond, VA | Hybrid | Sep 08 |
 | **[Cox Automotive Inc.](http://www.coxautoinc.com)** | **[Product Management Intern- Summer 2026](https://jobright.ai/jobs/info/68bde043c4c5904ff6004485?utm_campaign=1047&utm_source=git)** | Mission, KS | On Site | Sep 08 |
 | **[Haleon](http://www.haleon.com/)** | **[2026 Co-Op: Product Design (6 Months, January 2026 start)](https://jobright.ai/jobs/info/68bf4184702aa35207aa4d4f?utm_campaign=1047&utm_source=git)** | Richmond, VA | Hybrid | Sep 08 |
-| ↳ | **[2026 Intern: Product Development - OTC (12 weeks, June 2026 start)](https://jobright.ai/jobs/info/68bf3eb75c5d5f14f46d53c8?utm_campaign=1047&utm_source=git)** | Richmond, VA | Hybrid | Sep 08 |
-| **[Bayer](https://www.bayer.com)** | **[Product Supply Controlling Intern](https://jobright.ai/jobs/info/68bf3a5b8e65e77df55b8629?utm_campaign=1047&utm_source=git)** | Creve Coeur, MO | On Site | Sep 08 |
-| **[Southwire Company](http://southwire.com)** | **[Product Development Co-Op](https://jobright.ai/jobs/info/68bf36a28e65e77df55b8597?utm_campaign=1047&utm_source=git)** | Carrollton, GA | Hybrid | Sep 08 |
-| **[HMH](https://hmhw.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68bf3607702aa35207aa44d8?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Sep 08 |
-| **[GALLO](https://www.gallo.com)** | **[Product Insights & Innovation Internship 2026](https://jobright.ai/jobs/info/68bf34d65c5d5f14f46d4d42?utm_campaign=1047&utm_source=git)** | Modesto, CA | On Site | Sep 08 |
-| **[Bobcat Company](https://www.bobcat.com)** | **[2026 Product Service Student Experience](https://jobright.ai/jobs/info/68bf2f4f702aa35207aa401f?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Sep 08 |
-| **[Haleon](http://www.haleon.com/)** | **[2026 Intern: Product Development - Vitamins and Supplements (12 weeks, June 2026 start)](https://jobright.ai/jobs/info/68bf27ee702aa35207aa3a61?utm_campaign=1047&utm_source=git)** | Richmond Sherwood | On Site | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
