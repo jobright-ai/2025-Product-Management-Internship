@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tyler Technologies](https://www.tylertech.com/)** | **[Product Analyst Intern, Summer 2026](https://jobright.ai/jobs/info/68c4d763fce86561b9289c91?utm_campaign=1047&utm_source=git)** | Plano, TX | On Site | Sep 12 |
+| **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Behavioral Analytics Intern](https://jobright.ai/jobs/info/68c4cd9731e5763f188e3bd9?utm_campaign=1047&utm_source=git)** | Raleigh, NC | Hybrid | Sep 12 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Technical Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68c4b7e5fce86561b9288c02?utm_campaign=1047&utm_source=git)** | Middleton, WI | On Site | Sep 12 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68c4ae0d31e5763f188e2aa7?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | Hybrid | Sep 12 |
 | ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68c4ad7531e5763f188e29a9?utm_campaign=1047&utm_source=git)** | Irvine, CA | Hybrid | Sep 12 |
@@ -78,7 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Workiva](http://www.workiva.com)** | **[Spring & Summer 2026 Intern - Product Analyst (Carbon)](https://jobright.ai/jobs/info/68c3dde5e396b25cb5c64365?utm_campaign=1047&utm_source=git)** | United States | Remote | Sep 12 |
 | **[Domaine](https://www.halfhelix.com/)** | **[Apprenticeship Program – Product Management Track - USA](https://jobright.ai/jobs/info/68c3ce6880e77b1fa6fcd1ae?utm_campaign=1047&utm_source=git)** | United States | Remote | Sep 12 |
 | **[Workiva](http://www.workiva.com)** | **[Spring & Summer 2026 Intern - Product Analyst (Carbon)](https://jobright.ai/jobs/info/68c3b1e680e77b1fa6fcc22e?utm_campaign=1047&utm_source=git)** | USA - Remote | Remote | Sep 11 |
-| **[TikTok](https://www.tiktok.com)** | **[User Product Operations Intern [TikTok Local Services] - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689ded89faa4e875e8275668?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Sep 11 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/68b7befd0514b74d7c3e99b0?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
+| ↳ | **[User Product Operations Intern [TikTok Local Services] - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689ded89faa4e875e8275668?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Sep 11 |
 | ↳ | **[Product Manager Intern [TikTok-Product Infrastructure]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688c392f1808534a89cb9823?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
 | ↳ | **[Product Manager Intern [TikTok-Product-Search Growth]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6891886c4c7e851b90acf90e?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68a3d51737d3cc6b0d579fc4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ILIA Beauty](https://iliabeauty.com/)** | **[Product Development Intern - Laguna Beach, CA](https://jobright.ai/jobs/info/68c07c098e65e77df55c191a?utm_campaign=1047&utm_source=git)** | Laguna Beach, California, United States | On Site | Sep 09 |
 | **[Planview](http://www.planview.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68c07b94702aa35207aad8f1?utm_campaign=1047&utm_source=git)** | Austin, Texas | On Site | Sep 09 |
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68c0786b702aa35207aad58a?utm_campaign=1047&utm_source=git)** | Springfield, TN | On Site | Sep 09 |
-| **[Vermeer Corporation](https://borestore.com/)** | **[Product Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/68c077f2702aa35207aad4e0?utm_campaign=1047&utm_source=git)** | Pella, IA | On Site | Sep 09 |
-| **[Accredo Specialty Pharmacy](http://www.accredo.com/)** | **[Accredo Product  - Summer Intern](https://jobright.ai/jobs/info/68c06e21702aa35207aad054?utm_campaign=1047&utm_source=git)** | St Louis, MO | Hybrid | Sep 09 |
-| **[Hill's Pet Nutrition](https://www.hillspet.com)** | **[2026 Product Design-Sensory & Analytical Co-Op](https://jobright.ai/jobs/info/68c06d2e702aa35207aacf96?utm_campaign=1047&utm_source=git)** | Topeka, KS | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
