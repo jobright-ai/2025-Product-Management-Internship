@@ -58,7 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Inspire](https://inspirebrands.com)** | **[Guest Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68c5921fc96a22563ece956d?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Sep 13 |
+| **[Seagate Technology](http://www.seagate.com)** | **[Product Delivery and Experience (PDE) - Summer 2026 Intern](https://jobright.ai/jobs/info/68c5b3127d0db41142734de1?utm_campaign=1047&utm_source=git)** | Shakopee, MN | On Site | Sep 13 |
 | **[ABB](https://global.abb/group/en)** | **[Internship Product Management](https://jobright.ai/jobs/info/68c52323db52c07d288417c5?utm_campaign=1047&utm_source=git)** | Location, WV | Hybrid | Sep 13 |
+| **[Inspire](https://inspirebrands.com)** | **[Guest Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68c5b064db52c07d2884398c?utm_campaign=1047&utm_source=git)** | Canton, MA | On Site | Sep 12 |
 | **[Tyler Technologies](https://www.tylertech.com/)** | **[Product Analyst Intern, Summer 2026](https://jobright.ai/jobs/info/68c4d763fce86561b9289c91?utm_campaign=1047&utm_source=git)** | Plano, TX | On Site | Sep 12 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Behavioral Analytics Intern](https://jobright.ai/jobs/info/68c4cd9731e5763f188e3bd9?utm_campaign=1047&utm_source=git)** | Raleigh, NC | Hybrid | Sep 12 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Technical Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68c4b7e5fce86561b9288c02?utm_campaign=1047&utm_source=git)** | Middleton, WI | On Site | Sep 12 |
@@ -148,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[Fortrea](https://www.fortrea.com)** | **[Intern - Technical Product Owner](https://jobright.ai/jobs/info/68c0e41e702aa35207ab15bd?utm_campaign=1047&utm_source=git)** | Remote_United States | Hybrid | Sep 09 |
 | ↳ | **[Intern - Technical Product Owner](https://jobright.ai/jobs/info/68c0e3fd5c5d5f14f46e1e9c?utm_campaign=1047&utm_source=git)** | Durham NC | Hybrid | Sep 09 |
 | **[ITT Inc.](http://www.itt.com)** | **[Product Management Co-op - Vertical Products (Spring/Summer 2026)](https://jobright.ai/jobs/info/68c0cbcb8e65e77df55c46e1?utm_campaign=1047&utm_source=git)** | Placentia, CA | On Site | Sep 09 |
-| **[Kingland](http://www.kingland.com)** | **[Advanced Product Analyst Intern](https://jobright.ai/jobs/info/68c1ef6263b706703e11058b?utm_campaign=1047&utm_source=git)** | Ames, IA | On Site | Sep 09 |
 | **[PayPal](https://www.paypal.com/home)** | **[Product Manager Intern - Technical](https://jobright.ai/jobs/info/68c0c07e5c5d5f14f46e0b8e?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Sep 09 |
 | **[ILIA Beauty](https://iliabeauty.com/)** | **[Product Development Intern - Laguna Beach, CA](https://jobright.ai/jobs/info/68c099a35c5d5f14f46df95c?utm_campaign=1047&utm_source=git)** | Laguna Beach, CA | On Site | Sep 09 |
 | **[Haleon](http://www.haleon.com/)** | **[2026 Intern: Product Development - Digestive Health (12 weeks, June 2026 start)](https://jobright.ai/jobs/info/68c091eb5c5d5f14f46df4b0?utm_campaign=1047&utm_source=git)** | Richmond, VA | Hybrid | Sep 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Product Management Intern (Colorado)](https://jobright.ai/jobs/info/68b9ecda6105227d118994ef?utm_campaign=1047&utm_source=git)** | Fort Collins Area | Hybrid | Sep 09 |
 | **[ILIA Beauty](https://iliabeauty.com/)** | **[Product Development Intern - Laguna Beach, CA](https://jobright.ai/jobs/info/68c07c098e65e77df55c191a?utm_campaign=1047&utm_source=git)** | Laguna Beach, California, United States | On Site | Sep 09 |
 | **[Planview](http://www.planview.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68c07b94702aa35207aad8f1?utm_campaign=1047&utm_source=git)** | Austin, Texas | On Site | Sep 09 |
-| **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68c0786b702aa35207aad58a?utm_campaign=1047&utm_source=git)** | Springfield, TN | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
