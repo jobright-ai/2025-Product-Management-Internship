@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Inspire](https://inspirebrands.com)** | **[Guest Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68c5921fc96a22563ece956d?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Sep 13 |
 | **[ABB](https://global.abb/group/en)** | **[Internship Product Management](https://jobright.ai/jobs/info/68c52323db52c07d288417c5?utm_campaign=1047&utm_source=git)** | Location, WV | Hybrid | Sep 13 |
 | **[Tyler Technologies](https://www.tylertech.com/)** | **[Product Analyst Intern, Summer 2026](https://jobright.ai/jobs/info/68c4d763fce86561b9289c91?utm_campaign=1047&utm_source=git)** | Plano, TX | On Site | Sep 12 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Behavioral Analytics Intern](https://jobright.ai/jobs/info/68c4cd9731e5763f188e3bd9?utm_campaign=1047&utm_source=git)** | Raleigh, NC | Hybrid | Sep 12 |
@@ -99,7 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Hudl](http://www.hudl.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68c2ed9f5001f8077bf5f6f2?utm_campaign=1047&utm_source=git)** | Lincoln, NE | On Site | Sep 11 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68c2ecf55001f8077bf5f635?utm_campaign=1047&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | Hybrid | Sep 11 |
 | **[Mapei](https://www.mapei.com/ca/)** | **[Intern, Product Management](https://jobright.ai/jobs/info/68c2e2b663829b0a8a4fd9d4?utm_campaign=1047&utm_source=git)** | 1144 E Newport Center Dr, Deerfield Beach, FL, 33442, US | On Site | Sep 11 |
-| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68c2d0e85001f8077bf5e477?utm_campaign=1047&utm_source=git)** | Alpharetta, GA | On Site | Sep 11 |
+| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68c2a7b563829b0a8a4fb8d7?utm_campaign=1047&utm_source=git)** | Alpharetta, GA | On Site | Sep 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/68b7beb25e55be5e2604d2d5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
 | ↳ | **[Product Strategist Intern [TikTok-Product-Business Analytics]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688e2c436a4aac5783cd88e8?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
 | **[MAPFRE](https://www.mapfre.com)** | **[Intern - MA Product Execution](https://jobright.ai/jobs/info/68a66252758f2e4ac3fe48be?utm_campaign=1047&utm_source=git)** | Webster, MA | On Site | Sep 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Product Management Intern Level D (Lynchburg, VA)](https://jobright.ai/jobs/info/68c08b668e65e77df55c263f?utm_campaign=1047&utm_source=git)** | Lynchburg, VA | On Site | Sep 09 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Product Management Intern (Colorado)](https://jobright.ai/jobs/info/68b9ecda6105227d118994ef?utm_campaign=1047&utm_source=git)** | Fort Collins Area | Hybrid | Sep 09 |
 | **[ILIA Beauty](https://iliabeauty.com/)** | **[Product Development Intern - Laguna Beach, CA](https://jobright.ai/jobs/info/68c07c098e65e77df55c191a?utm_campaign=1047&utm_source=git)** | Laguna Beach, California, United States | On Site | Sep 09 |
-| **[Planview](http://www.planview.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68c07b94702aa35207aad8f1?utm_campaign=1047&utm_source=git)** | Austin, Texas | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
