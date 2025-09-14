@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[USAA](https://www.usaa.com)** | **[Digital Technical Product Management Intern](https://jobright.ai/jobs/info/68c6feb2c96a22563ecf0361?utm_campaign=1047&utm_source=git)** | Plano, TX | On Site | Sep 14 |
+| ↳ | **[Product Management Analyst Intern](https://jobright.ai/jobs/info/68c6f956db52c07d28849fdd?utm_campaign=1047&utm_source=git)** | San Antonio, TX | On Site | Sep 14 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Product Delivery and Experience (PDE) - Summer 2026 Intern](https://jobright.ai/jobs/info/68c5b3127d0db41142734de1?utm_campaign=1047&utm_source=git)** | Shakopee, MN | On Site | Sep 13 |
 | **[ABB](https://global.abb/group/en)** | **[Internship Product Management](https://jobright.ai/jobs/info/68c52323db52c07d288417c5?utm_campaign=1047&utm_source=git)** | Location, WV | Hybrid | Sep 13 |
 | **[Inspire](https://inspirebrands.com)** | **[Guest Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68c5b064db52c07d2884398c?utm_campaign=1047&utm_source=git)** | Canton, MA | On Site | Sep 12 |
@@ -74,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Product Development Legal Summer Intern](https://jobright.ai/jobs/info/68a774af758f2e4ac3fec4df?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Sep 12 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Technology, Data, AI & Ventures Summer Internship Program - Technical Product Management Intern](https://jobright.ai/jobs/info/68a570beb6a3617d7fa71e6c?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Sep 12 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Parts Lifecycle Intern](https://jobright.ai/jobs/info/68b56244f4e41a61efd8f891?utm_campaign=1047&utm_source=git)** | Racine, WI | Hybrid | Sep 12 |
-| **[Databricks](https://www.databricks.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68c3e855e471ef3ce16d2b02?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Sep 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Ads Attribution and Measurement Graduate (Measurement Signal and Privacy Product) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68a2d9c6468ac21d6fabb464?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 12 |
 | **[Domaine](https://www.halfhelix.com/)** | **[Apprenticeship Program – Product Management Track - USA](https://jobright.ai/jobs/info/68c3ce6880e77b1fa6fcd1ae?utm_campaign=1047&utm_source=git)** | United States | Remote | Sep 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop IPR Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68a81b9cd627244576e311ac?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Sep 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Planview](http://www.planview.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68c07b94702aa35207aad8f1?utm_campaign=1047&utm_source=git)** | Austin, Texas | On Site | Sep 09 |
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68c0786b702aa35207aad58a?utm_campaign=1047&utm_source=git)** | Springfield, TN | On Site | Sep 09 |
 | **[Vermeer Corporation](https://borestore.com/)** | **[Product Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/68c077f2702aa35207aad4e0?utm_campaign=1047&utm_source=git)** | Pella, IA | On Site | Sep 09 |
-| **[Accredo Specialty Pharmacy](http://www.accredo.com/)** | **[Accredo Product  - Summer Intern](https://jobright.ai/jobs/info/68c06e21702aa35207aad054?utm_campaign=1047&utm_source=git)** | St Louis, MO | Hybrid | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
