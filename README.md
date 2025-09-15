@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Duolingo](https://www.duolingo.com)** | **[Associate Product Manager, Intern](https://jobright.ai/jobs/info/68c84be6f9c6ff7aedf0cb0d?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Sep 15 |
 | **[CDK Global](https://www.cdkglobal.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68c8343b983e6768bc54abd5?utm_campaign=1047&utm_source=git)** | Austin, TX, USA | Hybrid | Sep 15 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68c8343595f5211cd2ce28b5?utm_campaign=1047&utm_source=git)** | Portland, OR, USA | Hybrid | Sep 15 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68c83425f9c6ff7aedf0bd24?utm_campaign=1047&utm_source=git)** | Hoffman Estates, IL, USA | Hybrid | Sep 15 |
-| **[Emerse](www.emerse.in)** | **[Product Developer](https://jobright.ai/jobs/info/68c833d595f5211cd2ce2818?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | On Site | Sep 15 |
 | **[Duolingo](https://www.duolingo.com)** | **[Associate Product Manager, Intern](https://jobright.ai/jobs/info/68c82a3a95f5211cd2ce22b1?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Sep 15 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast AI Product Intern](https://jobright.ai/jobs/info/68c824ed983e6768bc54a179?utm_campaign=1047&utm_source=git)** | PA - Philadelphia, 1701 John F Kennedy Blvd | On Site | Sep 15 |
 | ↳ | **[Comcast Product Analyst Intern](https://jobright.ai/jobs/info/68c7fb68983e6768bc548bf0?utm_campaign=1047&utm_source=git)** | PA - Philadelphia, 1800 Arch St | On Site | Sep 15 |
@@ -82,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[ServiceNow](http://www.servicenow.com)** | **[Sr. Outbound Product Manager Intern (MBA) - Summer 2026](https://jobright.ai/jobs/info/68c4705ae396b25cb5c680c2?utm_campaign=1047&utm_source=git)** |  4810 Eastgate Mall, San Diego, CALIFORNIA, United States | Remote | Sep 12 |
 | ↳ | **[Sr. Inbound Product Manager Intern (MBA) - Summer 2026](https://jobright.ai/jobs/info/68c46fa714bb275ce019359b?utm_campaign=1047&utm_source=git)** |  4810 Eastgate Mall, San Diego, CALIFORNIA, United States | Remote | Sep 12 |
 | **[Cox Enterprises](http://coxenterprises.com)** | **[Product Owner Intern - Summer 2026](https://jobright.ai/jobs/info/68c46f5814bb275ce019351b?utm_campaign=1047&utm_source=git)** | Atlanta GA | Hybrid | Sep 12 |
+| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Technology, Data, AI & Ventures Summer Internship Program - Technical Product Management Intern](https://jobright.ai/jobs/info/68c84057983e6768bc54b0e4?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Sep 12 |
 | **[ALLY Energy](http://www.allyenergy.com)** | **[Spring Product Management Internship - Co-op 2026 NY) (Skaneateles, Opportunities](https://jobright.ai/jobs/info/68c82a6495f5211cd2ce22cc?utm_campaign=1047&utm_source=git)** | Skaneateles, NY | On Site | Sep 12 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Product Development Legal Summer Intern](https://jobright.ai/jobs/info/68a774af758f2e4ac3fec4df?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Sep 12 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Parts Lifecycle Intern](https://jobright.ai/jobs/info/68b56244f4e41a61efd8f891?utm_campaign=1047&utm_source=git)** | Racine, WI | Hybrid | Sep 12 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Aftermarket Product Management Intern](https://jobright.ai/jobs/info/68c19d2b233c7d3e64d02d8e?utm_campaign=1047&utm_source=git)** | Hagerstown, Maryland, United States | On Site | Sep 10 |
 | **[Emerson](http://www.emerson.com)** | **[Product Management Engineering Intern](https://jobright.ai/jobs/info/68c196bf3fd8b059a20f09af?utm_campaign=1047&utm_source=git)** | 6021 Innovation Boulevard, Shakopee, MN, 55379, US | On Site | Sep 10 |
 | ↳ | **[Product Management Co-op (Jan26- May26)](https://jobright.ai/jobs/info/68c1953d4d652f04477583dd?utm_campaign=1047&utm_source=git)** | 6021 Innovation Boulevard, Shakopee, MN, 55379, US | On Site | Sep 10 |
+| **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[New Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68c19343233c7d3e64d026ee?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Sep 10 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[New Product Development (NPD) Sourcing Intern - Ditch Witch](https://jobright.ai/jobs/info/68c1926c233c7d3e64d02624?utm_campaign=1047&utm_source=git)** | Noble County, OK | On Site | Sep 10 |
-| **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[New Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68c191be233c7d3e64d02574?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Sep 10 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Competitiveness Intern, Heavy Duty Gas Turbine Product Management - Summer 2026](https://jobright.ai/jobs/info/68c191273fd8b059a20f071a?utm_campaign=1047&utm_source=git)** | Atlanta | On Site | Sep 10 |
 | ↳ | **[GE Vernova Competitiveness Intern, Heavy Duty Gas Turbine Product Management - Summer 2026](https://jobright.ai/jobs/info/68c190b54d652f04477581d5?utm_campaign=1047&utm_source=git)** | Greenville | On Site | Sep 10 |
 | **[Figma](https://www.figma.com)** | **[Product Research Intern (2026)](https://jobright.ai/jobs/info/68b26879bc187f64e1bdb08a?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Sep 10 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Associate Product Manager](https://jobright.ai/jobs/info/68c151e83fd8b059a20ef6bb?utm_campaign=1047&utm_source=git)** | Lehi, UT | On Site | Sep 10 |
 | **[PayPal](https://www.paypal.com/home)** | **[Product Manager Intern - Technical](https://jobright.ai/jobs/info/68c62df67d0db41142736091?utm_campaign=1047&utm_source=git)** | San Jose, California, United States of America | Hybrid | Sep 10 |
-| **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68c2687733864f172f9c0586?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
