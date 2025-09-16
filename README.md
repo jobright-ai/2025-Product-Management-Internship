@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Jr Product Owner - 2026 Summer Internship (Chicago Hybrid)](https://jobright.ai/jobs/info/68c91bb1f9c6ff7aedf183f8?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Sep 16 |
 | **[HomeInheritance](www.homeinheritance.com)** | **[Tech intern](https://jobright.ai/jobs/info/68c8e77bf9c6ff7aedf145e0?utm_campaign=1047&utm_source=git)** | Miami, FL | Remote | Sep 15 |
 | **[TE Connectivity](http://www.te.com)** | **[PRODUCT MANAGEMENT INTERN](https://jobright.ai/jobs/info/68c8d9eb983e6768bc5522f9?utm_campaign=1047&utm_source=git)** | Montgomery County, PA | On Site | Sep 15 |
 | **[GALLO](https://www.gallo.com)** | **[Product Insights & Innovation Internship 2026](https://jobright.ai/jobs/info/68bf34d65c5d5f14f46d4d42?utm_campaign=1047&utm_source=git)** | Modesto, CA | On Site | Sep 15 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Management: Internship Opportunities](https://jobright.ai/jobs/info/68c89b18983e6768bc54f62f?utm_campaign=1047&utm_source=git)** | Redmond, Washington, United States | On Site | Sep 15 |
 | ↳ | **[Product Manager: MBA Internship Opportunities](https://jobright.ai/jobs/info/68c8b684f9c6ff7aedf11cb9?utm_campaign=1047&utm_source=git)** | Redmond, WA | Hybrid | Sep 15 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Sales Product Owner - 2026 Summer Internship (Chicago Hybrid)](https://jobright.ai/jobs/info/68c8c09bf9c6ff7aedf12462?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Sep 15 |
+| ↳ | **[Jr Product Owner - 2026 Summer Internship (Chicago Hybrid)](https://jobright.ai/jobs/info/68c8c020f9c6ff7aedf12424?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Sep 15 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Specialist II (Intern) United States](https://jobright.ai/jobs/info/68c8bda2983e6768bc550f05?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 15 |
 | ↳ | **[Product Management Specialist II (Intern) United States](https://jobright.ai/jobs/info/68c8b58995f5211cd2ce898f?utm_campaign=1047&utm_source=git)** | San Jose, California, US | On Site | Sep 15 |
 | **[Nike](http://www.nike.com)** | **[Footwear Product Creation Undergraduate Internship](https://jobright.ai/jobs/info/68c8b4d795f5211cd2ce8833?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Sep 15 |
@@ -79,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Copeland](https://www.copeland.com)** | **[Summer 2026 Business Analyst & Innovation Intern](https://jobright.ai/jobs/info/68c88a58f9c6ff7aedf10024?utm_campaign=1047&utm_source=git)** | Dayton, OH | On Site | Sep 15 |
 | ↳ | **[Summer 2026 Business Analyst & Innovation Intern](https://jobright.ai/jobs/info/68c861f595f5211cd2ce44f9?utm_campaign=1047&utm_source=git)** | Dayton, OH, USA | On Site | Sep 15 |
 | **[HARTING Technology Group](https://www.harting.com/)** | **[Product Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68c87bba983e6768bc54e0a4?utm_campaign=1047&utm_source=git)** | Elgin, IL | On Site | Sep 15 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Product Analyst Intern](https://jobright.ai/jobs/info/68c944b8a0c52d598ea36857?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Sep 15 |
 | **[USAA](https://www.usaa.com)** | **[Digital Technical Product Management Intern](https://jobright.ai/jobs/info/68c8544ff9c6ff7aedf0d10e?utm_campaign=1047&utm_source=git)** | San Antonio, TX | On Site | Sep 15 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Convergence and Emerging Growth Product Intern](https://jobright.ai/jobs/info/68c871a5f9c6ff7aedf0e9f8?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Sep 15 |
 | **[Duolingo](https://www.duolingo.com)** | **[Associate Product Manager, Intern](https://jobright.ai/jobs/info/68c84be6f9c6ff7aedf0cb0d?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Sep 15 |
@@ -130,8 +131,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[AI Product Operations Intern [TikTok-Product-Governance Efficiency]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689128fbf47efe21139533d5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/68b7befd0514b74d7c3e99b0?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
 | **[Quartz Health Solutions](https://quartzbenefits.com/)** | **[Intern - Health Insurance Product Intern](https://jobright.ai/jobs/info/68c62dff7d0db4114273609c?utm_campaign=1047&utm_source=git)** | US-WI-Madison | On Site | Sep 11 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product Infrastructure]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688c392f1808534a89cb9823?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
-| ↳ | **[Product Manager Intern [TikTok-Product-Search Growth]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6891886c4c7e851b90acf90e?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product-Search Growth]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6891886c4c7e851b90acf90e?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
 | ↳ | **[Product Strategist Project Intern [TikTok-Product-Business Analytics]-2025 Start (BS/MS)](https://jobright.ai/jobs/info/68912d76f5ee707a15dbcbfa?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
 | **[Hudl](http://www.hudl.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68c8a928f9c6ff7aedf113bc?utm_campaign=1047&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | Sep 11 |
 | **[Insulet Corporation](https://www.insulet.com)** | **[Co-op, Product Management and Design: January-June 2026 (Hybrid)](https://jobright.ai/jobs/info/68c332565adaee6c9bda8253?utm_campaign=1047&utm_source=git)** | Acton, MA | Hybrid | Sep 11 |
