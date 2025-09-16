@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cisco](http://www.cisco.com)** | **[Product Management Specialist II (Intern) United States](https://jobright.ai/jobs/info/68c8bda2983e6768bc550f05?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 15 |
-| **[Microsoft](https://www.microsoft.com)** | **[Product Manager: MBA Internship Opportunities](https://jobright.ai/jobs/info/68c8b684f9c6ff7aedf11cb9?utm_campaign=1047&utm_source=git)** | Redmond, WA | Hybrid | Sep 15 |
-| **[Cisco](http://www.cisco.com)** | **[Product Management Specialist II (Intern) United States](https://jobright.ai/jobs/info/68c8b58995f5211cd2ce898f?utm_campaign=1047&utm_source=git)** | San Jose, California, US | On Site | Sep 15 |
+| **[TE Connectivity](http://www.te.com)** | **[PRODUCT MANAGEMENT INTERN](https://jobright.ai/jobs/info/68c8d9eb983e6768bc5522f9?utm_campaign=1047&utm_source=git)** | Montgomery County, PA | On Site | Sep 15 |
+| **[GALLO](https://www.gallo.com)** | **[Product Insights & Innovation Internship 2026](https://jobright.ai/jobs/info/68bf34d65c5d5f14f46d4d42?utm_campaign=1047&utm_source=git)** | Modesto, CA | On Site | Sep 15 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Management: Internship Opportunities](https://jobright.ai/jobs/info/68c89b18983e6768bc54f62f?utm_campaign=1047&utm_source=git)** | Redmond, Washington, United States | On Site | Sep 15 |
+| ↳ | **[Product Manager: MBA Internship Opportunities](https://jobright.ai/jobs/info/68c8b684f9c6ff7aedf11cb9?utm_campaign=1047&utm_source=git)** | Redmond, WA | Hybrid | Sep 15 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Sales Product Owner - 2026 Summer Internship (Chicago Hybrid)](https://jobright.ai/jobs/info/68c8c09bf9c6ff7aedf12462?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Sep 15 |
+| ↳ | **[Jr Product Owner - 2026 Summer Internship (Chicago Hybrid)](https://jobright.ai/jobs/info/68c8c020f9c6ff7aedf12424?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Sep 15 |
+| **[Cisco](http://www.cisco.com)** | **[Product Management Specialist II (Intern) United States](https://jobright.ai/jobs/info/68c8bda2983e6768bc550f05?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 15 |
+| ↳ | **[Product Management Specialist II (Intern) United States](https://jobright.ai/jobs/info/68c8b58995f5211cd2ce898f?utm_campaign=1047&utm_source=git)** | San Jose, California, US | On Site | Sep 15 |
 | **[Nike](http://www.nike.com)** | **[Footwear Product Creation Undergraduate Internship](https://jobright.ai/jobs/info/68c8b4d795f5211cd2ce8833?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Sep 15 |
 | ↳ | **[Product Management Graduate Internship](https://jobright.ai/jobs/info/68c8b35e95f5211cd2ce85d6?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Sep 15 |
 | **[The Home Depot](https://www.homedepot.com)** | **[Product Management Internship (Summer 2026 - Hybrid)](https://jobright.ai/jobs/info/68c8a0b6983e6768bc54fbf5?utm_campaign=1047&utm_source=git)** | STORE SUPPORT CENTER, ATLANTA - 9090 | Hybrid | Sep 15 |
@@ -106,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Technology, Data, AI & Ventures Summer Internship Program - Technical Product Management Intern](https://jobright.ai/jobs/info/68c84057983e6768bc54b0e4?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Sep 12 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Parts Lifecycle Intern](https://jobright.ai/jobs/info/68b56244f4e41a61efd8f891?utm_campaign=1047&utm_source=git)** | Racine, WI | Hybrid | Sep 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/68b7c051a10b650604b6029c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 12 |
-| **[Domaine](https://www.halfhelix.com/)** | **[Apprenticeship Program – Product Management Track - USA](https://jobright.ai/jobs/info/68c3ce6880e77b1fa6fcd1ae?utm_campaign=1047&utm_source=git)** | United States | Remote | Sep 12 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68c7b76227f0732240603ef1?utm_campaign=1047&utm_source=git)** | Alpharetta, GA | On Site | Sep 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689a9d2a5574fd6bc0c8416f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
 | ↳ | **[Product Manager, Ads Attribution and Measurement Intern (Measurement Signal and Privacy Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68c7c31f369c3763c743b6ca?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
@@ -136,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Content Ecosystem)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/687b8290764c3d7411c33403?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
 | **[Hudl](http://www.hudl.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68c2ed9f5001f8077bf5f6f2?utm_campaign=1047&utm_source=git)** | Lincoln, NE | On Site | Sep 11 |
 | **[Mapei](https://www.mapei.com/ca/)** | **[Intern, Product Management](https://jobright.ai/jobs/info/68c2e2b663829b0a8a4fd9d4?utm_campaign=1047&utm_source=git)** | 1144 E Newport Center Dr, Deerfield Beach, FL, 33442, US | On Site | Sep 11 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68a3d51737d3cc6b0d579fc4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68c2a7b563829b0a8a4fb8d7?utm_campaign=1047&utm_source=git)** | Alpharetta, GA | On Site | Sep 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/68b7beb25e55be5e2604d2d5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
 | ↳ | **[Product Strategist Intern [TikTok-Product-Business Analytics]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688e2c436a4aac5783cd88e8?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/68c653d7c96a22563eced457?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Sep 10 |
 | **[Selective Insurance](https://www.selective.com/)** | **[Product Internship, Commercial Lines – Branchville, NJ (Hybrid)](https://jobright.ai/jobs/info/68c7aac37d0db4114273f57e?utm_campaign=1047&utm_source=git)** | Branchville, NJ | Hybrid | Sep 10 |
 | **[JLG Industries](http://www.jlg.com/en)** | **[Aftermarket Product Management Intern](https://jobright.ai/jobs/info/68c78eb7c96a22563ecf242b?utm_campaign=1047&utm_source=git)** | Hagerstown, MD | On Site | Sep 10 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68c236a74d652f044775dd2a?utm_campaign=1047&utm_source=git)** | Hagerstown, MD | On Site | Sep 10 |
-| **[HARTING Technology Group](https://www.harting.com/)** | **[Product Manager (Engineering) Intern (Summer 2026)](https://jobright.ai/jobs/info/68c21dfa63b706703e111af0?utm_campaign=1047&utm_source=git)** | Elgin, IL | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
