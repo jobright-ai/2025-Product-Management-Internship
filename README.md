@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Appian UK](https://appian.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68ca7d3306a34016008c8fce?utm_campaign=1047&utm_source=git)** | McLean, VA | On Site | Sep 17 |
+| **[Dell Technologies](https://www.delltechnologies.com)** | **[Undergraduate Product Management Intern](https://jobright.ai/jobs/info/68ca775c5f9f0336447ddfce?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Sep 17 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Product Development Intern, Ninja (February to May)](https://jobright.ai/jobs/info/68ca5c3d5f9f0336447dc8dc?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Sep 16 |
 | ↳ | **[Summer 2026: Product Development Intern, Ninja (May to August)](https://jobright.ai/jobs/info/68ca5a4c5f9f0336447dc56b?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Sep 16 |
 | ↳ | **[Summer 2026: Product Development Intern, Shark (May to August)](https://jobright.ai/jobs/info/68ca592006a34016008c7257?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Sep 16 |
@@ -74,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[DIRECTV](https://www.directv.com/)** | **[2026 DIRECTV Product Content Internship](https://jobright.ai/jobs/info/68c9a637a0c52d598ea396f4?utm_campaign=1047&utm_source=git)** | El Segundo, CA | Remote | Sep 16 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Undergraduate Product Management Intern](https://jobright.ai/jobs/info/68c9a32aa0c52d598ea39606?utm_campaign=1047&utm_source=git)** | Austin, Texas, United States | On Site | Sep 16 |
 | ↳ | **[MBA Product Management Internship](https://jobright.ai/jobs/info/68c9a0f4f9c6ff7aedf1ba3d?utm_campaign=1047&utm_source=git)** | Austin, Texas, United States | On Site | Sep 16 |
+| **[DIRECTV](https://www.directv.com/)** | **[2026 DIRECTV Customer Operations Product Management Internship (MBA)](https://jobright.ai/jobs/info/68ca76bf5f9f0336447ddf7c?utm_campaign=1047&utm_source=git)** | El Segundo, CA | Remote | Sep 16 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Development Intern, Ninja (May to August)](https://jobright.ai/jobs/info/68c993fca0c52d598ea38c31?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | Sep 16 |
 | ↳ | **[Summer 2026: Product Development Intern, Shark (May to August)](https://jobright.ai/jobs/info/68c9927695f5211cd2cf1a41?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | Sep 16 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Retail Product Innovation Intern](https://jobright.ai/jobs/info/68c98c72a0c52d598ea386a2?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | Remote | Sep 16 |
@@ -84,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product Infrastructure]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ca155df61c922772a72901?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 16 |
 | **[Cox Automotive Inc.](http://www.coxautoinc.com)** | **[Product Owner Intern - Summer 2026](https://jobright.ai/jobs/info/68c9dbe295f5211cd2cf54f8?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Sep 16 |
 | **[Altruist](https://altruist.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68b124c26fab621da7b0a1c2?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Sep 16 |
-| **[Inspire](https://inspirebrands.com)** | **[Guest Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68ca5a7906a34016008c75a6?utm_campaign=1047&utm_source=git)** | Canton, MA | On Site | Sep 16 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Management: Internship Opportunities](https://jobright.ai/jobs/info/68c9558b95f5211cd2cefb3c?utm_campaign=1047&utm_source=git)** | Redmond, WA | On Site | Sep 16 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Engineering MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9afad627244576e473c3?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Sep 16 |
 | **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68c9f0a8d10eb800af14851a?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Sep 16 |
@@ -93,11 +95,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68c80d02983e6768bc549234?utm_campaign=1047&utm_source=git)** | Golden Valley, MN | On Site | Sep 16 |
 | **[The Home Depot](https://www.homedepot.com)** | **[Product Management Internship (Summer 2026 - Hybrid)](https://jobright.ai/jobs/info/68c95ed8f9c6ff7aedf194fe?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Sep 16 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Jr Product Owner - 2026 Summer Internship (Chicago Hybrid)](https://jobright.ai/jobs/info/68c91bb1f9c6ff7aedf183f8?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Sep 16 |
-| ↳ | **[Sales Product Owner - 2026 Summer Internship (Chicago Hybrid)](https://jobright.ai/jobs/info/68c90e4495f5211cd2cedd93?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Sep 16 |
 | **[TE Connectivity](http://www.te.com)** | **[PRODUCT MANAGEMENT INTERN](https://jobright.ai/jobs/info/68c8d9eb983e6768bc5522f9?utm_campaign=1047&utm_source=git)** | Montgomery County, PA | On Site | Sep 15 |
 | **[GALLO](https://www.gallo.com)** | **[Product Insights & Innovation Internship 2026](https://jobright.ai/jobs/info/68bf34d65c5d5f14f46d4d42?utm_campaign=1047&utm_source=git)** | Modesto, CA | On Site | Sep 15 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Management: Internship Opportunities](https://jobright.ai/jobs/info/68c89b18983e6768bc54f62f?utm_campaign=1047&utm_source=git)** | Redmond, Washington, United States | On Site | Sep 15 |
 | ↳ | **[Product Manager: MBA Internship Opportunities](https://jobright.ai/jobs/info/68c8b684f9c6ff7aedf11cb9?utm_campaign=1047&utm_source=git)** | Redmond, WA | Hybrid | Sep 15 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Sales Product Owner - 2026 Summer Internship (Chicago Hybrid)](https://jobright.ai/jobs/info/68c8c09bf9c6ff7aedf12462?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Sep 15 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Specialist II (Intern) United States](https://jobright.ai/jobs/info/68c8bda2983e6768bc550f05?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 15 |
 | ↳ | **[Product Management Specialist II (Intern) United States](https://jobright.ai/jobs/info/68c8b58995f5211cd2ce898f?utm_campaign=1047&utm_source=git)** | San Jose, California, US | On Site | Sep 15 |
 | **[Nike](http://www.nike.com)** | **[Footwear Product Creation Undergraduate Internship](https://jobright.ai/jobs/info/68c8b4d795f5211cd2ce8833?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Sep 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Ads Attribution and Measurement Graduate (Measurement Signal and Privacy Product) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68ca62665f9f0336447dce2a?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68c7b76227f0732240603ef1?utm_campaign=1047&utm_source=git)** | Alpharetta, GA | On Site | Sep 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager, Ads Attribution and Measurement Intern (Measurement Signal and Privacy Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68c7c31f369c3763c743b6ca?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
-| ↳ | **[Product Manager Intern (TikTok Shop IPR Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ca5b755f9f0336447dc783?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Sep 11 |
-| **[Workiva](http://www.workiva.com)** | **[Spring & Summer 2026 Intern - Product Analyst (Carbon)](https://jobright.ai/jobs/info/68c3b1e680e77b1fa6fcc22e?utm_campaign=1047&utm_source=git)** | USA - Remote | Remote | Sep 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
