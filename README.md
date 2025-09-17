@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Appian UK](https://appian.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68ca7d3306a34016008c8fce?utm_campaign=1047&utm_source=git)** | McLean, VA | On Site | Sep 17 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Undergraduate Product Management Intern](https://jobright.ai/jobs/info/68ca775c5f9f0336447ddfce?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Sep 17 |
+| ↳ | **[MBA Product Management Internship](https://jobright.ai/jobs/info/68ca8e8ecca9271990ce417b?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Sep 17 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Product Development Intern, Ninja (February to May)](https://jobright.ai/jobs/info/68ca5c3d5f9f0336447dc8dc?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Sep 16 |
 | ↳ | **[Summer 2026: Product Development Intern, Ninja (May to August)](https://jobright.ai/jobs/info/68ca5a4c5f9f0336447dc56b?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Sep 16 |
 | ↳ | **[Summer 2026: Product Development Intern, Shark (May to August)](https://jobright.ai/jobs/info/68ca592006a34016008c7257?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Sep 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MAPFRE](https://www.mapfre.com)** | **[Intern - MA Product Execution](https://jobright.ai/jobs/info/68c915f395f5211cd2cee570?utm_campaign=1047&utm_source=git)** | Webster, MA | On Site | Sep 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Ads Attribution and Measurement Graduate (Measurement Signal and Privacy Product) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68ca62665f9f0336447dce2a?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68c7b76227f0732240603ef1?utm_campaign=1047&utm_source=git)** | Alpharetta, GA | On Site | Sep 11 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager, Ads Attribution and Measurement Intern (Measurement Signal and Privacy Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68c7c31f369c3763c743b6ca?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
