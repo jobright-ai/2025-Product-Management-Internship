@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Product Planning Internship - Summer 2026- Franklin, TN](https://jobright.ai/jobs/info/68cd78ab1ad6b16f02899ee3?utm_campaign=1047&utm_source=git)** | Franklin, Tennessee - United States of America | On Site | Sep 19 |
+| **[Molex](http://www.molex.com)** | **[Molex Product Management Intern Summer 2026](https://jobright.ai/jobs/info/68cd6f331ad6b16f028998b1?utm_campaign=1047&utm_source=git)** | Lisle, IL | On Site | Sep 19 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Mobile Product](https://jobright.ai/jobs/info/68cce843d11b445e0bee42c5?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Sep 18 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship- Digital Product Owner (Summer 2026)](https://jobright.ai/jobs/info/68cd0cc61ad6b16f028941b2?utm_campaign=1047&utm_source=git)** | Orlando, FL | On Site | Sep 18 |
 | **[Flint Hills Resources](http://www.fhr.com)** | **[Fall 2025 Product Analyst Co-Op](https://jobright.ai/jobs/info/68ccc86bfa466330fef9111d?utm_campaign=1047&utm_source=git)** | Wichita, KS | Hybrid | Sep 18 |
@@ -70,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Product Planning and Pricing](https://jobright.ai/jobs/info/68cc6c47128dc347fd924a91?utm_campaign=1047&utm_source=git)** | Camden, NJ, United States | On Site | Sep 18 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Shorex Product Analysis](https://jobright.ai/jobs/info/68ccd77677add66568aba15d?utm_campaign=1047&utm_source=git)** | Seattle, WA | Remote | Sep 18 |
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Product Development Intern or Co-op](https://jobright.ai/jobs/info/68cc63db16d00d2beeb1ecdf?utm_campaign=1047&utm_source=git)** | Stevens Point, WI | On Site | Sep 18 |
-| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Retail Product Innovation Intern(US Citizen)](https://jobright.ai/jobs/info/68cc49db16d00d2beeb1d086?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | Remote | Sep 18 |
 | **[Schwan's Company](http://www.schwanscompany.com/)** | **[Product Development Intern - Summer 2026 - Marshall, MN](https://jobright.ai/jobs/info/68cc3dab128dc347fd92166e?utm_campaign=1047&utm_source=git)** | Marshall, MN | On Site | Sep 18 |
 | ↳ | **[Product Development Intern - Summer 2026 - Florence, KY](https://jobright.ai/jobs/info/68cc3d5116d00d2beeb1c29e?utm_campaign=1047&utm_source=git)** | Florence, KY | On Site | Sep 18 |
 | ↳ | **[Product Development Intern - Summer 2026 - La Palma, CA](https://jobright.ai/jobs/info/68cc36297342c7623ae60f70?utm_campaign=1047&utm_source=git)** | La Palma, CA | On Site | Sep 18 |
@@ -140,8 +141,11 @@ For a complete list, click the following sortable link below:
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Summer 2026 Product Development Intern](https://jobright.ai/jobs/info/68c982b8a0c52d598ea38103?utm_campaign=1047&utm_source=git)** | Springfield, MO (Bass Pro Shops Base Camp) | On Site | Sep 16 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Global Product Portfolio Intern](https://jobright.ai/jobs/info/68c98274a0c52d598ea3806d?utm_campaign=1047&utm_source=git)** | Westchester, IL | Hybrid | Sep 16 |
 | **[Haleon](http://www.haleon.com/)** | **[2026 Co-Op: Product Development - Respiratory (12 months, January 2026 start)](https://jobright.ai/jobs/info/68c981fcf9c6ff7aedf1a5dd?utm_campaign=1047&utm_source=git)** | Richmond Sherwood | On Site | Sep 16 |
+| **[Microsoft](https://www.microsoft.com)** | **[Product Manager: MBA Internship Opportunities](https://jobright.ai/jobs/info/68cd779a1ad6b16f02899cc5?utm_campaign=1047&utm_source=git)** | Redmond, WA | On Site | Sep 16 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Specialist II (Intern) United States](https://jobright.ai/jobs/info/68cc277816d00d2beeb1ade2?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 16 |
 | **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68c63d7ac96a22563ecebd36?utm_campaign=1047&utm_source=git)** | Apex, NC | On Site | Sep 16 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Product Management Engineering MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68cd683fe23def7af55b98fe?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Sep 16 |
+| **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68cd671fe23def7af55b9799?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Sep 16 |
 | **[CDK Global](https://www.cdkglobal.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68cd5c191ad6b16f028988b5?utm_campaign=1047&utm_source=git)** | Hoffman Estates, IL | On Site | Sep 16 |
 | **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68c82d06f9c6ff7aedf0badd?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Sep 16 |
 | **[Nike](http://www.nike.com)** | **[Footwear Product Creation Undergraduate Internship](https://jobright.ai/jobs/info/68cd22feb2a74e1837ed3163?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Sep 16 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Product Management: Internship Opportunities](https://jobright.ai/jobs/info/68c89b18983e6768bc54f62f?utm_campaign=1047&utm_source=git)** | Redmond, Washington, United States | On Site | Sep 15 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Sales Product Owner - 2026 Summer Internship (Chicago Hybrid)](https://jobright.ai/jobs/info/68c8c09bf9c6ff7aedf12462?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Sep 15 |
 | ↳ | **[Jr Product Owner - 2026 Summer Internship (Chicago Hybrid)](https://jobright.ai/jobs/info/68c8c020f9c6ff7aedf12424?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Sep 15 |
-| **[Cisco](http://www.cisco.com)** | **[Product Management Specialist II (Intern) United States](https://jobright.ai/jobs/info/68c8b58995f5211cd2ce898f?utm_campaign=1047&utm_source=git)** | San Jose, California, US | On Site | Sep 15 |
-| **[The Home Depot](https://www.homedepot.com)** | **[Product Management Internship (Summer 2026 - Hybrid)](https://jobright.ai/jobs/info/68c8a0b6983e6768bc54fbf5?utm_campaign=1047&utm_source=git)** | STORE SUPPORT CENTER, ATLANTA - 9090 | Hybrid | Sep 15 |
-| **[Microsoft](https://www.microsoft.com)** | **[Product Manager: MBA Internship Opportunities](https://jobright.ai/jobs/info/68c87ba3f9c6ff7aedf0f597?utm_campaign=1047&utm_source=git)** | Redmond, Washington, United States | Hybrid | Sep 15 |
-| **[O-I](http://www.o-i.com)** | **[Product Leadership Development Program - 2026](https://jobright.ai/jobs/info/68c86d0395f5211cd2ce500b?utm_campaign=1047&utm_source=git)** | Perrysburg, OH | On Site | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
