@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ServiceNow](http://www.servicenow.com)** | **[ServiceNow Security Organization (SSO) - Associate Security Product Business Analyst Intern](https://jobright.ai/jobs/info/68cdf998e23def7af55c0ac2?utm_campaign=1047&utm_source=git)** |  4810 Eastgate Mall, San Diego, CALIFORNIA, United States | On Site | Sep 19 |
+| **[Dart Container](https://www.dartcontainer.com)** | **[Product Line and Trade Management Intern](https://jobright.ai/jobs/info/68cdee511ad6b16f028a008b?utm_campaign=1047&utm_source=git)** | Mason, MI | On Site | Sep 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Consumable Licensing Intern, Spring 2026](https://jobright.ai/jobs/info/68cde958b2a74e1837edd440?utm_campaign=1047&utm_source=git)** | Celebration, FL, USA | Hybrid | Sep 19 |
 | **[Sharp Business USA](https://business.sharpusa.com)** | **[Remote Management & AI Software Product Management Intern](https://jobright.ai/jobs/info/68cddf3f1ad6b16f0289f8f2?utm_campaign=1047&utm_source=git)** | Montvale, NJ | Hybrid | Sep 19 |
 | **[TE Connectivity](http://www.te.com)** | **[PRODUCT MANAGEMENT INTERN](https://jobright.ai/jobs/info/68cdba7cb2a74e1837edbb63?utm_campaign=1047&utm_source=git)** | Middletown, PA | On Site | Sep 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TE Connectivity](http://www.te.com)** | **[PRODUCT MANAGEMENT INTERN](https://jobright.ai/jobs/info/68cd9555e23def7af55bc267?utm_campaign=1047&utm_source=git)** | Montgomery County, PA | On Site | Sep 16 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Summer 2026 Product Development Intern](https://jobright.ai/jobs/info/68c982b8a0c52d598ea38103?utm_campaign=1047&utm_source=git)** | Springfield, MO (Bass Pro Shops Base Camp) | On Site | Sep 16 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Global Product Portfolio Intern](https://jobright.ai/jobs/info/68c98274a0c52d598ea3806d?utm_campaign=1047&utm_source=git)** | Westchester, IL | Hybrid | Sep 16 |
-| **[Haleon](http://www.haleon.com/)** | **[2026 Co-Op: Product Development - Respiratory (12 months, January 2026 start)](https://jobright.ai/jobs/info/68c981fcf9c6ff7aedf1a5dd?utm_campaign=1047&utm_source=git)** | Richmond Sherwood | On Site | Sep 16 |
-| **[Microsoft](https://www.microsoft.com)** | **[Product Manager: MBA Internship Opportunities](https://jobright.ai/jobs/info/68cd779a1ad6b16f02899cc5?utm_campaign=1047&utm_source=git)** | Redmond, WA | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
