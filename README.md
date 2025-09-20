@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Retail Product Innovation Intern](https://jobright.ai/jobs/info/68cef1ec846f0b04af67ded5?utm_campaign=1047&utm_source=git)** | United States | Remote | Sep 20 |
+| **[AaronBux Asset Management Firm LLC](www.AaronBux.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68ceeecffb49c96ca6ea46f7?utm_campaign=1047&utm_source=git)** | United States | Remote | Sep 20 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern - 2026](https://jobright.ai/jobs/info/68cebe83fb49c96ca6ea32dd?utm_campaign=1047&utm_source=git)** | Madison Heights, MI | On Site | Sep 20 |
 | **[Hach](http://www.hach.com)** | **[Product Manager](https://jobright.ai/jobs/info/68ceb53e846f0b04af67c76f?utm_campaign=1047&utm_source=git)** | Loveland, CO | Hybrid | Sep 20 |
 | **[PIMCO](http://www.pimco.com)** | **[2026 MBA Summer Intern – Strategist, Product Strategy Group, US](https://jobright.ai/jobs/info/68b244951ade4306aa6353db?utm_campaign=1047&utm_source=git)** | Newport Beach, CA | On Site | Sep 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DIRECTV](https://www.directv.com/)** | **[2026 DIRECTV Product Content Internship](https://jobright.ai/jobs/info/68cb96d6ba798c1a501d2850?utm_campaign=1047&utm_source=git)** | El Segundo, CA | Remote | Sep 16 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68ccd7f1d11b445e0bee28f2?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Sep 16 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Summer 2026 Product Development Intern](https://jobright.ai/jobs/info/68cccf91a77e5d7d744f5e3e?utm_campaign=1047&utm_source=git)** | Springfield, MO | On Site | Sep 16 |
-| **[ServiceNow](http://www.servicenow.com)** | **[ServiceNow Security Organization (SSO) - Associate Security Product Business Analyst Intern](https://jobright.ai/jobs/info/68ca079cf16e3266d2821f5f?utm_campaign=1047&utm_source=git)** |  4810 Eastgate Mall, San Diego, CALIFORNIA, United States | On Site | Sep 16 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9a3f758f2e4ac3006d42?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
