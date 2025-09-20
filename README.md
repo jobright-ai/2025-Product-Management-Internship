@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager, Intern (Travel & Entertainment Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ce0acd1ad6b16f028a15b3?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 19 |
 | **[ServiceNow](http://www.servicenow.com)** | **[ServiceNow Security Organization (SSO) - Associate Security Product Business Analyst Intern](https://jobright.ai/jobs/info/68cdf998e23def7af55c0ac2?utm_campaign=1047&utm_source=git)** |  4810 Eastgate Mall, San Diego, CALIFORNIA, United States | On Site | Sep 19 |
 | **[Dart Container](https://www.dartcontainer.com)** | **[Product Line and Trade Management Intern](https://jobright.ai/jobs/info/68cdee511ad6b16f028a008b?utm_campaign=1047&utm_source=git)** | Mason, MI | On Site | Sep 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Consumable Licensing Intern, Spring 2026](https://jobright.ai/jobs/info/68cde958b2a74e1837edd440?utm_campaign=1047&utm_source=git)** | Celebration, FL, USA | Hybrid | Sep 19 |
@@ -100,6 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[2026 Internship - Shorex Product Analysis](https://jobright.ai/jobs/info/68cb71479e3a822f5d246198?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | Remote | Sep 17 |
 | **[Princess Cruises](http://www.princess.com)** | **[2026 Internship - Shorex Product Analysis](https://jobright.ai/jobs/info/68cb707bba798c1a501cf8f1?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | Remote | Sep 17 |
 | **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[2026 Summer Intern: Product Development](https://jobright.ai/jobs/info/68cbfc2c128dc347fd91cda2?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Sep 17 |
+| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68ce1776e23def7af55c1f30?utm_campaign=1047&utm_source=git)** | Downers Grove, IL | On Site | Sep 17 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Development Intern, Ninja (May to August)](https://jobright.ai/jobs/info/68ce190ee23def7af55c2356?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Sep 17 |
 | **[Immuta](http://www.immuta.com/)** | **[Product Research Internship Summer 2026](https://jobright.ai/jobs/info/68cb324d9e3a822f5d243a7b?utm_campaign=1047&utm_source=git)** | Columbus, OH | On Site | Sep 17 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Global Offer and Product Operations Undergrad Intern](https://jobright.ai/jobs/info/68cb26aeefdec76df36b9790?utm_campaign=1047&utm_source=git)** | Austin, Texas, United States | On Site | Sep 17 |
 | **[Apprenticely](https://apprenticely.org/)** | **[Product Management  Intern](https://jobright.ai/jobs/info/689fb655faa4e875e828a9ce?utm_campaign=1047&utm_source=git)** | Fayetteville, AR | On Site | Sep 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026: Product Development Intern, Shark (May to August)](https://jobright.ai/jobs/info/68c9927695f5211cd2cf1a41?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | Sep 16 |
 | **[Nike](http://www.nike.com)** | **[Product Management Graduate Internship](https://jobright.ai/jobs/info/68cd9801b2a74e1837ed96dd?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Sep 16 |
 | **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68cd941e1ad6b16f0289bab8?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Sep 16 |
-| **[TE Connectivity](http://www.te.com)** | **[PRODUCT MANAGEMENT INTERN](https://jobright.ai/jobs/info/68cd9555e23def7af55bc267?utm_campaign=1047&utm_source=git)** | Montgomery County, PA | On Site | Sep 16 |
-| **[Bass Pro Shops](https://www.basspro.com)** | **[Summer 2026 Product Development Intern](https://jobright.ai/jobs/info/68c982b8a0c52d598ea38103?utm_campaign=1047&utm_source=git)** | Springfield, MO (Bass Pro Shops Base Camp) | On Site | Sep 16 |
-| **[Ingredion Incorporated](http://ingredion.com)** | **[Global Product Portfolio Intern](https://jobright.ai/jobs/info/68c98274a0c52d598ea3806d?utm_campaign=1047&utm_source=git)** | Westchester, IL | Hybrid | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
