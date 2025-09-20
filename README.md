@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Consumable Licensing Intern, Spring 2026](https://jobright.ai/jobs/info/68cde958b2a74e1837edd440?utm_campaign=1047&utm_source=git)** | Celebration, FL, USA | Hybrid | Sep 19 |
+| **[Sharp Business USA](https://business.sharpusa.com)** | **[Remote Management & AI Software Product Management Intern](https://jobright.ai/jobs/info/68cddf3f1ad6b16f0289f8f2?utm_campaign=1047&utm_source=git)** | Montvale, NJ | Hybrid | Sep 19 |
 | **[TE Connectivity](http://www.te.com)** | **[PRODUCT MANAGEMENT INTERN](https://jobright.ai/jobs/info/68cdba7cb2a74e1837edbb63?utm_campaign=1047&utm_source=git)** | Middletown, PA | On Site | Sep 19 |
 | **[Voloridge Health](http://www.voloridgehealth.com)** | **[Health Product Management Intern 2026](https://jobright.ai/jobs/info/68cdb6d2e23def7af55be7a5?utm_campaign=1047&utm_source=git)** | Jupiter, FL | On Site | Sep 19 |
 | **[Organic Valley](https://www.organicvalley.coop)** | **[Product Development Intern](https://jobright.ai/jobs/info/68cdb1b11ad6b16f0289ddcd?utm_campaign=1047&utm_source=git)** | La Farge, WI | Hybrid | Sep 19 |
@@ -64,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Product Management Intern 2026](https://jobright.ai/jobs/info/68cd9b061ad6b16f0289c24e?utm_campaign=1047&utm_source=git)** | Jupiter, FL | On Site | Sep 19 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Product Planning Internship - Summer 2026- Franklin, TN](https://jobright.ai/jobs/info/68cd78ab1ad6b16f02899ee3?utm_campaign=1047&utm_source=git)** | Franklin, Tennessee - United States of America | On Site | Sep 19 |
 | **[Molex](http://www.molex.com)** | **[Molex Product Management Intern Summer 2026](https://jobright.ai/jobs/info/68cd6f331ad6b16f028998b1?utm_campaign=1047&utm_source=git)** | Lisle, IL | On Site | Sep 19 |
+| **[OCBC](http://www.ocbc.com)** | **[Internship: Global Markets, Global Market Equities, Digital Platforms [Jan to Jun 2026]](https://jobright.ai/jobs/info/68b7c0b95e55be5e2604d78e?utm_campaign=1047&utm_source=git)** | South Centre, PA | On Site | Sep 19 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship- Digital Product Owner (Summer 2026)](https://jobright.ai/jobs/info/68cd036ce5ac5c0dc6d26493?utm_campaign=1047&utm_source=git)** | Orlando, FL | On Site | Sep 19 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Mobile Product](https://jobright.ai/jobs/info/68cce843d11b445e0bee42c5?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Sep 18 |
 | **[Flint Hills Resources](http://www.fhr.com)** | **[Fall 2025 Product Analyst Co-Op](https://jobright.ai/jobs/info/68ccc86bfa466330fef9111d?utm_campaign=1047&utm_source=git)** | Wichita, KS | Hybrid | Sep 18 |
@@ -101,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Emerson](http://www.emerson.com)** | **[Product Management Engineering Intern](https://jobright.ai/jobs/info/68cc49de16d00d2beeb1d090?utm_campaign=1047&utm_source=git)** | Boulder, CO | On Site | Sep 17 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Specialist I (Co-Op) United States](https://jobright.ai/jobs/info/68cb28299e3a822f5d24318f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 17 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68cb062b9e3a822f5d2415d7?utm_campaign=1047&utm_source=git)** | Downers Grove, IL | On Site | Sep 17 |
-| **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Retail Product Innovation Intern](https://jobright.ai/jobs/info/68caf88fefdec76df36b73e5?utm_campaign=1047&utm_source=git)** | United States | Remote | Sep 17 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Product Service Strategy Intern](https://jobright.ai/jobs/info/68cb3f50ba798c1a501cd92f?utm_campaign=1047&utm_source=git)** | Olathe, Kansas | On Site | Sep 17 |
 | **[Copeland](https://www.copeland.com)** | **[Spring 2026 - Product Management / Controls & Smart Home Technologies Intern](https://jobright.ai/jobs/info/68caf45cefdec76df36b702b?utm_campaign=1047&utm_source=git)** | St. Louis, MO, USA | On Site | Sep 17 |
 | **[We Insure](https://weinsuregroup.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68cae5b7efdec76df36b6624?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Sep 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Global Product Portfolio Intern](https://jobright.ai/jobs/info/68c98274a0c52d598ea3806d?utm_campaign=1047&utm_source=git)** | Westchester, IL | Hybrid | Sep 16 |
 | **[Haleon](http://www.haleon.com/)** | **[2026 Co-Op: Product Development - Respiratory (12 months, January 2026 start)](https://jobright.ai/jobs/info/68c981fcf9c6ff7aedf1a5dd?utm_campaign=1047&utm_source=git)** | Richmond Sherwood | On Site | Sep 16 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Manager: MBA Internship Opportunities](https://jobright.ai/jobs/info/68cd779a1ad6b16f02899cc5?utm_campaign=1047&utm_source=git)** | Redmond, WA | On Site | Sep 16 |
-| **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68c63d7ac96a22563ecebd36?utm_campaign=1047&utm_source=git)** | Apex, NC | On Site | Sep 16 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Product Management Engineering MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68cd683fe23def7af55b98fe?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
