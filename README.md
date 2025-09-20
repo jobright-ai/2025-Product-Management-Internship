@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ABB](https://global.abb/group/en)** | **[Internship Product Management](https://jobright.ai/jobs/info/68ce5547fb49c96ca6e9f16c?utm_campaign=1047&utm_source=git)** | Location, WV | On Site | Sep 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager, Intern (Travel & Entertainment Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ce0acd1ad6b16f028a15b3?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 19 |
 | **[ServiceNow](http://www.servicenow.com)** | **[ServiceNow Security Organization (SSO) - Associate Security Product Business Analyst Intern](https://jobright.ai/jobs/info/68cdf998e23def7af55c0ac2?utm_campaign=1047&utm_source=git)** |  4810 Eastgate Mall, San Diego, CALIFORNIA, United States | On Site | Sep 19 |
 | **[Dart Container](https://www.dartcontainer.com)** | **[Product Line and Trade Management Intern](https://jobright.ai/jobs/info/68cdee511ad6b16f028a008b?utm_campaign=1047&utm_source=git)** | Mason, MI | On Site | Sep 19 |
@@ -87,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Schwan's Company](http://www.schwanscompany.com/)** | **[Product Development Intern - Summer 2026 - Marshall, MN](https://jobright.ai/jobs/info/68cc3dab128dc347fd92166e?utm_campaign=1047&utm_source=git)** | Marshall, MN | On Site | Sep 18 |
 | ↳ | **[Product Development Intern - Summer 2026 - Florence, KY](https://jobright.ai/jobs/info/68cc3d5116d00d2beeb1c29e?utm_campaign=1047&utm_source=git)** | Florence, KY | On Site | Sep 18 |
 | ↳ | **[Product Development Intern - Summer 2026 - La Palma, CA](https://jobright.ai/jobs/info/68cc36297342c7623ae60f70?utm_campaign=1047&utm_source=git)** | La Palma, CA | On Site | Sep 18 |
-| **[Munich Re](https://www.munichre.com)** | **[Product Management Intern, NA Integrated Analytics (2026 Summer - New York)](https://jobright.ai/jobs/info/68cc2a137342c7623ae603e9?utm_campaign=1047&utm_source=git)** | NYC Metro Area | Hybrid | Sep 18 |
 | **[Copeland](https://www.copeland.com)** | **[Spring 2026 - Product Management / Controls & Smart Home Technologies Intern](https://jobright.ai/jobs/info/68cd5e271ad6b16f02898cd8?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Sep 18 |
 | **[Wonder](https://www.wonder.com)** | **[Ops Product Intern - Summer 2026](https://jobright.ai/jobs/info/68b29846bc187f64e1bddcd5?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Sep 18 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Product Analyst Intern](https://jobright.ai/jobs/info/68cd521ab2a74e1837ed5279?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Sep 18 |
@@ -134,6 +134,8 @@ For a complete list, click the following sortable link below:
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Global Product Portfolio Intern](https://jobright.ai/jobs/info/68cd21e11ad6b16f0289575b?utm_campaign=1047&utm_source=git)** | Westchester, IL | On Site | Sep 16 |
 | **[PayPal](https://www.paypal.com/home)** | **[Product Manager Intern - Technical](https://jobright.ai/jobs/info/68ccfefa77add66568abd69f?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Sep 16 |
 | **[ITT Inc.](http://www.itt.com)** | **[Product Management Co-op - Horizontal Products (Spring/Summer 2026)](https://jobright.ai/jobs/info/68cc1c1e7342c7623ae5f50a?utm_campaign=1047&utm_source=git)** | US-TX-Stafford | On Site | Sep 16 |
+| **[ServiceNow](http://www.servicenow.com)** | **[ServiceNow Security Organization (SSO) - Associate Security Product Business Analyst Intern](https://jobright.ai/jobs/info/68ce41cc1ad6b16f028a3662?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Sep 16 |
+| **[Altruist](https://altruist.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68ce43bcb2a74e1837ee0f7d?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Sep 16 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Management: Internship Opportunities](https://jobright.ai/jobs/info/68cd13c7b2a74e1837ed1f63?utm_campaign=1047&utm_source=git)** | Redmond, WA | On Site | Sep 16 |
 | **[Haleon](http://www.haleon.com/)** | **[2026 Co-Op: Product Development - Respiratory (12 months, January 2026 start)](https://jobright.ai/jobs/info/68cba66defdec76df36c0350?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Sep 16 |
 | **[DIRECTV](https://www.directv.com/)** | **[2026 DIRECTV Product Content Internship](https://jobright.ai/jobs/info/68cb96d6ba798c1a501d2850?utm_campaign=1047&utm_source=git)** | El Segundo, CA | Remote | Sep 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[MBA Product Management Internship](https://jobright.ai/jobs/info/68c9a0f4f9c6ff7aedf1ba3d?utm_campaign=1047&utm_source=git)** | Austin, Texas, United States | On Site | Sep 16 |
 | **[Copeland](https://www.copeland.com)** | **[Summer 2026 Business Analyst & Innovation Intern](https://jobright.ai/jobs/info/68cd9c571ad6b16f0289c442?utm_campaign=1047&utm_source=git)** | Dayton, OH | On Site | Sep 16 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Development Intern, Ninja (May to August)](https://jobright.ai/jobs/info/68c993fca0c52d598ea38c31?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | Sep 16 |
-| ↳ | **[Summer 2026: Product Development Intern, Shark (May to August)](https://jobright.ai/jobs/info/68c9927695f5211cd2cf1a41?utm_campaign=1047&utm_source=git)** | Needham, MA, United States | On Site | Sep 16 |
-| **[Nike](http://www.nike.com)** | **[Product Management Graduate Internship](https://jobright.ai/jobs/info/68cd9801b2a74e1837ed96dd?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
