@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Henkel](http://www.henkel.com)** | **[Product Development Intern - 2026](https://jobright.ai/jobs/info/68cebe83fb49c96ca6ea32dd?utm_campaign=1047&utm_source=git)** | Madison Heights, MI | On Site | Sep 20 |
+| **[Hach](http://www.hach.com)** | **[Product Manager](https://jobright.ai/jobs/info/68ceb53e846f0b04af67c76f?utm_campaign=1047&utm_source=git)** | Loveland, CO | Hybrid | Sep 20 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Product Planning Internship - Summer 2026- Franklin, TN](https://jobright.ai/jobs/info/68ceab8dfb49c96ca6ea2bcb?utm_campaign=1047&utm_source=git)** | Franklin, TN | On Site | Sep 20 |
+| **[GALLO](https://www.gallo.com)** | **[Product Insights & Innovation Internship 2026](https://jobright.ai/jobs/info/68cdbae81ad6b16f0289e5ba?utm_campaign=1047&utm_source=git)** | Modesto, CA | On Site | Sep 20 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Product Planning and Pricing](https://jobright.ai/jobs/info/68cea98cdbd9fb154ede1e53?utm_campaign=1047&utm_source=git)** | Camden, NJ | On Site | Sep 20 |
 | **[ABB](https://global.abb/group/en)** | **[Internship Global Product Specialist](https://jobright.ai/jobs/info/68cea5d1846f0b04af67be88?utm_campaign=1047&utm_source=git)** | Location, WV | Hybrid | Sep 20 |
 | **[Olin](http://www.olin.com/)** | **[Product Management Intern - 2026](https://jobright.ai/jobs/info/68ce9023dbd9fb154ede0bfb?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Sep 20 |
@@ -94,7 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Schwan's Company](http://www.schwanscompany.com/)** | **[Product Development Intern - Summer 2026 - Marshall, MN](https://jobright.ai/jobs/info/68cc3dab128dc347fd92166e?utm_campaign=1047&utm_source=git)** | Marshall, MN | On Site | Sep 18 |
 | ↳ | **[Product Development Intern - Summer 2026 - Florence, KY](https://jobright.ai/jobs/info/68cc3d5116d00d2beeb1c29e?utm_campaign=1047&utm_source=git)** | Florence, KY | On Site | Sep 18 |
 | ↳ | **[Product Development Intern - Summer 2026 - La Palma, CA](https://jobright.ai/jobs/info/68cc36297342c7623ae60f70?utm_campaign=1047&utm_source=git)** | La Palma, CA | On Site | Sep 18 |
-| **[Copeland](https://www.copeland.com)** | **[Spring 2026 - Product Management / Controls & Smart Home Technologies Intern](https://jobright.ai/jobs/info/68cd5e271ad6b16f02898cd8?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Sep 18 |
+| **[Copeland](https://www.copeland.com)** | **[Spring 2026 - Product Management / Controls & Smart Home Technologies Intern](https://jobright.ai/jobs/info/68cecb20dbd9fb154ede2d86?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Sep 18 |
 | **[Wonder](https://www.wonder.com)** | **[Ops Product Intern - Summer 2026](https://jobright.ai/jobs/info/68b29846bc187f64e1bddcd5?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Sep 18 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Product Analyst Intern](https://jobright.ai/jobs/info/68cd521ab2a74e1837ed5279?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Sep 18 |
 | **[Analog Devices](http://www.analog.com)** | **[Product Applications Intern](https://jobright.ai/jobs/info/68c653c6c96a22563eced424?utm_campaign=1047&utm_source=git)** | Wilmington, MA | On Site | Sep 18 |
@@ -105,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Summer Intern](https://jobright.ai/jobs/info/68ccf71e77add66568abcd16?utm_campaign=1047&utm_source=git)** | Erie, PA | On Site | Sep 17 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Specialist I (Co-Op) United States](https://jobright.ai/jobs/info/68ccff7477add66568abd775?utm_campaign=1047&utm_source=git)** | Ohio, United States | On Site | Sep 17 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Product Development Intern, Ninja (February to May)](https://jobright.ai/jobs/info/68cce1d3d11b445e0bee3b04?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Sep 17 |
-| **[Apex Fintech Solutions](https://apexfintechsolutions.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68cc667e7342c7623ae643c4?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Sep 17 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[2026 Internship - Shorex Product Analysis](https://jobright.ai/jobs/info/68cb71479e3a822f5d246198?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | Remote | Sep 17 |
 | **[Princess Cruises](http://www.princess.com)** | **[2026 Internship - Shorex Product Analysis](https://jobright.ai/jobs/info/68cb707bba798c1a501cf8f1?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | Remote | Sep 17 |
 | **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[2026 Summer Intern: Product Development](https://jobright.ai/jobs/info/68cbfc2c128dc347fd91cda2?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Sep 17 |
@@ -131,6 +133,7 @@ For a complete list, click the following sortable link below:
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/68cad47c9e3a822f5d23f74a?utm_campaign=1047&utm_source=git)** | United States | Remote | Sep 17 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Summer Intern](https://jobright.ai/jobs/info/68cc6551128dc347fd9244bf?utm_campaign=1047&utm_source=git)** | Erie, PA | On Site | Sep 17 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[MBA Product Management Internship](https://jobright.ai/jobs/info/68cd80451ad6b16f0289a603?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Sep 17 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product Infrastructure]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cec2a3fb49c96ca6ea341f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 17 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Product Development Co-op, CORE Quality (January through June)](https://jobright.ai/jobs/info/68ae9aa42daaba3984418f46?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Sep 17 |
 | **[Cox Automotive Inc.](http://www.coxautoinc.com)** | **[Product Owner Intern - Summer 2026](https://jobright.ai/jobs/info/68cd5d64b2a74e1837ed6174?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Sep 17 |
 | **[Exceeds](http://exceeds.ai)** | **[Full Stack Product Builder Internship](https://jobright.ai/jobs/info/68c9a743a0c52d598ea398eb?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Sep 17 |
@@ -138,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Development Intern, Shark (May to August)](https://jobright.ai/jobs/info/68cbfb80128dc347fd91cc8f?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Sep 17 |
 | **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68cd23dee23def7af55b60fd?utm_campaign=1047&utm_source=git)** | Golden Valley, MN | On Site | Sep 17 |
 | **[DIRECTV](https://www.directv.com/)** | **[2026 DIRECTV Customer Operations Product Management Internship (MBA)](https://jobright.ai/jobs/info/68cd0a78e23def7af55b41cd?utm_campaign=1047&utm_source=git)** | El Segundo, CA | Remote | Sep 16 |
-| **[Ingredion Incorporated](http://ingredion.com)** | **[Global Product Portfolio Intern](https://jobright.ai/jobs/info/68cd21e11ad6b16f0289575b?utm_campaign=1047&utm_source=git)** | Westchester, IL | On Site | Sep 16 |
 | **[PayPal](https://www.paypal.com/home)** | **[Product Manager Intern - Technical](https://jobright.ai/jobs/info/68ccfefa77add66568abd69f?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Sep 16 |
 | **[ServiceNow](http://www.servicenow.com)** | **[ServiceNow Security Organization (SSO) - Associate Security Product Business Analyst Intern](https://jobright.ai/jobs/info/68ce41cc1ad6b16f028a3662?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Sep 16 |
 | **[Altruist](https://altruist.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68ce43bcb2a74e1837ee0f7d?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Sep 16 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Emerson](http://www.emerson.com)** | **[Product Manager Co-Op](https://jobright.ai/jobs/info/68c9cf50f9c6ff7aedf1df2c?utm_campaign=1047&utm_source=git)** | 301 S 1st Avenue, Marshalltown, IA, 50158, US | On Site | Sep 16 |
 | **[CoreLogic](https://www.corelogic.com/)** | **[Intern, Product Management and Analysis](https://jobright.ai/jobs/info/68c9cc2795f5211cd2cf4631?utm_campaign=1047&utm_source=git)** | Dallas, TX | Hybrid | Sep 16 |
 | **[Watts Water Technologies](https://www.watts.com)** | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/68c9b192f9c6ff7aedf1c639?utm_campaign=1047&utm_source=git)** | Menomonee Falls, WI | On Site | Sep 16 |
-| **[GALLO](https://www.gallo.com)** | **[Product Insights & Innovation Internship 2026](https://jobright.ai/jobs/info/68cdbae81ad6b16f0289e5ba?utm_campaign=1047&utm_source=git)** | Modesto, CA | On Site | Sep 16 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Undergraduate Product Management Intern](https://jobright.ai/jobs/info/68c9a32aa0c52d598ea39606?utm_campaign=1047&utm_source=git)** | Austin, Texas, United States | On Site | Sep 16 |
-| ↳ | **[MBA Product Management Internship](https://jobright.ai/jobs/info/68c9a0f4f9c6ff7aedf1ba3d?utm_campaign=1047&utm_source=git)** | Austin, Texas, United States | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
