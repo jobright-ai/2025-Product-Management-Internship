@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/68cfdf10fb49c96ca6eac1f8?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Sep 21 |
 | **[GiveDirectly](https://www.givedirectly.org/)** | **[Senior Product Manager, International Rapid Response Payment Systems](https://jobright.ai/jobs/info/68cba8d89e3a822f5d249d3c?utm_campaign=1047&utm_source=git)** | United States | Remote | Sep 20 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern - 2026](https://jobright.ai/jobs/info/68cebe83fb49c96ca6ea32dd?utm_campaign=1047&utm_source=git)** | Madison Heights, MI | On Site | Sep 20 |
 | **[Hach](http://www.hach.com)** | **[Product Manager](https://jobright.ai/jobs/info/68ceb53e846f0b04af67c76f?utm_campaign=1047&utm_source=git)** | Loveland, CO | Hybrid | Sep 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PayPal](https://www.paypal.com/home)** | **[Product Manager Intern - Technical](https://jobright.ai/jobs/info/68ccfefa77add66568abd69f?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Sep 16 |
 | **[ServiceNow](http://www.servicenow.com)** | **[ServiceNow Security Organization (SSO) - Associate Security Product Business Analyst Intern](https://jobright.ai/jobs/info/68ce41cc1ad6b16f028a3662?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Sep 16 |
 | **[Altruist](https://altruist.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68ce43bcb2a74e1837ee0f7d?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Sep 16 |
-| **[Microsoft](https://www.microsoft.com)** | **[Product Management: Internship Opportunities](https://jobright.ai/jobs/info/68cd13c7b2a74e1837ed1f63?utm_campaign=1047&utm_source=git)** | Redmond, WA | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
