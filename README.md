@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Retail Product Innovation Intern](https://jobright.ai/jobs/info/68cef1ec846f0b04af67ded5?utm_campaign=1047&utm_source=git)** | United States | Remote | Sep 20 |
 | **[GiveDirectly](https://www.givedirectly.org/)** | **[Senior Product Manager, International Rapid Response Payment Systems](https://jobright.ai/jobs/info/68cba8d89e3a822f5d249d3c?utm_campaign=1047&utm_source=git)** | United States | Remote | Sep 20 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern - 2026](https://jobright.ai/jobs/info/68cebe83fb49c96ca6ea32dd?utm_campaign=1047&utm_source=git)** | Madison Heights, MI | On Site | Sep 20 |
 | **[Hach](http://www.hach.com)** | **[Product Manager](https://jobright.ai/jobs/info/68ceb53e846f0b04af67c76f?utm_campaign=1047&utm_source=git)** | Loveland, CO | Hybrid | Sep 20 |
@@ -89,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Dematic](http://www.dematic.com)** | **[Engineering and Product Management Intern](https://jobright.ai/jobs/info/68c66d147d0db4114273a0f6?utm_campaign=1047&utm_source=git)** | Wauwatosa, WI | On Site | Sep 19 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Product Strategy Intern- Spring 2026](https://jobright.ai/jobs/info/6893bb00a9199876488dfab9?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Sep 19 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship- Digital Product Owner (Summer 2026)](https://jobright.ai/jobs/info/68cd036ce5ac5c0dc6d26493?utm_campaign=1047&utm_source=git)** | Orlando, FL | On Site | Sep 19 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Mobile Product](https://jobright.ai/jobs/info/68cf94acfb49c96ca6ea9847?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Sep 18 |
 | **[Flint Hills Resources](http://www.fhr.com)** | **[Fall 2025 Product Analyst Co-Op](https://jobright.ai/jobs/info/68ccc86bfa466330fef9111d?utm_campaign=1047&utm_source=git)** | Wichita, KS | Hybrid | Sep 18 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Food Science Internship – Product Development – Summer 2026](https://jobright.ai/jobs/info/68ccacbb128dc347fd928104?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Sep 18 |
 | **[Inspire](https://inspirebrands.com)** | **[Guest Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68cf473edbd9fb154ede5dea?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Sep 18 |
@@ -151,10 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Undergraduate Product Management Intern](https://jobright.ai/jobs/info/68cb7b5bba798c1a501d040e?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Sep 17 |
 | **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68cd23dee23def7af55b60fd?utm_campaign=1047&utm_source=git)** | Golden Valley, MN | On Site | Sep 17 |
 | **[DIRECTV](https://www.directv.com/)** | **[2026 DIRECTV Customer Operations Product Management Internship (MBA)](https://jobright.ai/jobs/info/68cd0a78e23def7af55b41cd?utm_campaign=1047&utm_source=git)** | El Segundo, CA | Remote | Sep 16 |
+| **[The Home Depot](https://www.homedepot.com)** | **[Product Management Internship (Summer 2026 - Hybrid/ In-Office)](https://jobright.ai/jobs/info/68cfa832dbd9fb154ede96a0?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Sep 16 |
 | **[PayPal](https://www.paypal.com/home)** | **[Product Manager Intern - Technical](https://jobright.ai/jobs/info/68ccfefa77add66568abd69f?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Sep 16 |
 | **[ServiceNow](http://www.servicenow.com)** | **[ServiceNow Security Organization (SSO) - Associate Security Product Business Analyst Intern](https://jobright.ai/jobs/info/68ce41cc1ad6b16f028a3662?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Sep 16 |
 | **[Altruist](https://altruist.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68ce43bcb2a74e1837ee0f7d?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Sep 16 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Management: Internship Opportunities](https://jobright.ai/jobs/info/68cd13c7b2a74e1837ed1f63?utm_campaign=1047&utm_source=git)** | Redmond, WA | On Site | Sep 16 |
 | **[Haleon](http://www.haleon.com/)** | **[2026 Co-Op: Product Development - Respiratory (12 months, January 2026 start)](https://jobright.ai/jobs/info/68cba66defdec76df36c0350?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Sep 16 |
-| **[DIRECTV](https://www.directv.com/)** | **[2026 DIRECTV Product Content Internship](https://jobright.ai/jobs/info/68cb96d6ba798c1a501d2850?utm_campaign=1047&utm_source=git)** | El Segundo, CA | Remote | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
