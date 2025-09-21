@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Retail Product Innovation Intern](https://jobright.ai/jobs/info/68cef1ec846f0b04af67ded5?utm_campaign=1047&utm_source=git)** | United States | Remote | Sep 20 |
-| **[AaronBux Asset Management Firm LLC](www.AaronBux.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68ceeecffb49c96ca6ea46f7?utm_campaign=1047&utm_source=git)** | United States | Remote | Sep 20 |
 | **[GiveDirectly](https://www.givedirectly.org/)** | **[Senior Product Manager, International Rapid Response Payment Systems](https://jobright.ai/jobs/info/68cba8d89e3a822f5d249d3c?utm_campaign=1047&utm_source=git)** | United States | Remote | Sep 20 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern - 2026](https://jobright.ai/jobs/info/68cebe83fb49c96ca6ea32dd?utm_campaign=1047&utm_source=git)** | Madison Heights, MI | On Site | Sep 20 |
 | **[Hach](http://www.hach.com)** | **[Product Manager](https://jobright.ai/jobs/info/68ceb53e846f0b04af67c76f?utm_campaign=1047&utm_source=git)** | Loveland, CO | Hybrid | Sep 20 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Haleon](http://www.haleon.com/)** | **[2026 Co-Op: Product Development - Respiratory (12 months, January 2026 start)](https://jobright.ai/jobs/info/68cba66defdec76df36c0350?utm_campaign=1047&utm_source=git)** | Richmond, VA | On Site | Sep 16 |
 | **[DIRECTV](https://www.directv.com/)** | **[2026 DIRECTV Product Content Internship](https://jobright.ai/jobs/info/68cb96d6ba798c1a501d2850?utm_campaign=1047&utm_source=git)** | El Segundo, CA | Remote | Sep 16 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68ccd7f1d11b445e0bee28f2?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Sep 16 |
+| **[Bass Pro Shops](https://www.basspro.com)** | **[Summer 2026 Product Development Intern](https://jobright.ai/jobs/info/68cccf91a77e5d7d744f5e3e?utm_campaign=1047&utm_source=git)** | Springfield, MO | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
