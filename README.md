@@ -102,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Product Planning and Pricing](https://jobright.ai/jobs/info/68cc6c47128dc347fd924a91?utm_campaign=1047&utm_source=git)** | Camden, NJ, United States | On Site | Sep 18 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Shorex Product Analysis](https://jobright.ai/jobs/info/68ccd77677add66568aba15d?utm_campaign=1047&utm_source=git)** | Seattle, WA | Remote | Sep 18 |
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Product Development Intern or Co-op](https://jobright.ai/jobs/info/68cc63db16d00d2beeb1ecdf?utm_campaign=1047&utm_source=git)** | Stevens Point, WI | On Site | Sep 18 |
+| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/68c10a1a702aa35207ab2faa?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Sep 18 |
 | **[Schwan's Company](http://www.schwanscompany.com/)** | **[Product Development Intern - Summer 2026 - Marshall, MN](https://jobright.ai/jobs/info/68cc3dab128dc347fd92166e?utm_campaign=1047&utm_source=git)** | Marshall, MN | On Site | Sep 18 |
 | ↳ | **[Product Development Intern - Summer 2026 - Florence, KY](https://jobright.ai/jobs/info/68cc3d5116d00d2beeb1c29e?utm_campaign=1047&utm_source=git)** | Florence, KY | On Site | Sep 18 |
 | ↳ | **[Product Development Intern - Summer 2026 - La Palma, CA](https://jobright.ai/jobs/info/68cc36297342c7623ae60f70?utm_campaign=1047&utm_source=git)** | La Palma, CA | On Site | Sep 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Global Product Portfolio Intern](https://jobright.ai/jobs/info/68cfc097dbd9fb154edeaa0d?utm_campaign=1047&utm_source=git)** | Westchester, IL | On Site | Sep 17 |
 | **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68cd23dee23def7af55b60fd?utm_campaign=1047&utm_source=git)** | Golden Valley, MN | On Site | Sep 17 |
 | **[DIRECTV](https://www.directv.com/)** | **[2026 DIRECTV Customer Operations Product Management Internship (MBA)](https://jobright.ai/jobs/info/68cd0a78e23def7af55b41cd?utm_campaign=1047&utm_source=git)** | El Segundo, CA | Remote | Sep 16 |
-| **[The Home Depot](https://www.homedepot.com)** | **[Product Management Internship (Summer 2026 - Hybrid/ In-Office)](https://jobright.ai/jobs/info/68cfa832dbd9fb154ede96a0?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
