@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Number 6](https://www.linkedin.com/company/108269947)** | **[Retail Product Innovation Intern](https://jobright.ai/jobs/info/68d1bf7a17554c2d9eedf5a0?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | Remote | Sep 22 |
+| **[Autodesk](http://www.autodesk.com)** | **[Intern, Product Manager](https://jobright.ai/jobs/info/68d1b85717554c2d9eedf016?utm_campaign=1047&utm_source=git)** | San Francisco, CA, USA | Hybrid | Sep 22 |
+| **[COYUCHI](https://www.coyuchi.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68d1b0b58c62e63bc7fce830?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | On Site | Sep 22 |
+| **[Organic Valley](https://www.organicvalley.coop)** | **[Product Development Intern](https://jobright.ai/jobs/info/68cdb1b11ad6b16f0289ddcd?utm_campaign=1047&utm_source=git)** | La Farge, WI | Hybrid | Sep 22 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68d1a7d58c62e63bc7fce07e?utm_campaign=1047&utm_source=git)** | Paso Robles, CA | On Site | Sep 22 |
 | **[State Street](http://www.statestreet.com)** | **[Product Management Support, CO-OP](https://jobright.ai/jobs/info/68d1a5f617554c2d9eede079?utm_campaign=1047&utm_source=git)** | Quincy, Massachusetts | On Site | Sep 22 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[2026 Summer Internship Product Development](https://jobright.ai/jobs/info/68d19eaacece431f8b585d77?utm_campaign=1047&utm_source=git)** | New Brunswick - NJ - US | Hybrid | Sep 22 |
@@ -77,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Rippling](https://www.rippling.com)** | **[Product Lead Internship - Summer 2026](https://jobright.ai/jobs/info/68cccddaa77e5d7d744f5975?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Sep 21 |
 | **[Henkel](http://www.henkel.com)** | **[New Product Development MBA Intern, Joico - Spring 2026](https://jobright.ai/jobs/info/68b23a49f4e41a61efd82d67?utm_campaign=1047&utm_source=git)** | Culver City, CA | On Site | Sep 20 |
 | **[Appian](http://www.appian.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68ce7d8ddbd9fb154ede0196?utm_campaign=1047&utm_source=git)** | McLean, VA | On Site | Sep 20 |
+| **[Sharp Business USA](https://business.sharpusa.com)** | **[Remote Management & AI Software Product Management Intern](https://jobright.ai/jobs/info/68d1c42b17554c2d9eedf73c?utm_campaign=1047&utm_source=git)** | Montvale, NJ | Hybrid | Sep 20 |
 | **[GiveDirectly](https://www.givedirectly.org/)** | **[Senior Product Manager, International Rapid Response Payment Systems](https://jobright.ai/jobs/info/68cba8d89e3a822f5d249d3c?utm_campaign=1047&utm_source=git)** | United States | Remote | Sep 20 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68b1e671bc187f64e1bd799c?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | On Site | Sep 20 |
 | ↳ | **[Product Development Intern - 2026](https://jobright.ai/jobs/info/68cebe83fb49c96ca6ea32dd?utm_campaign=1047&utm_source=git)** | Madison Heights, MI | On Site | Sep 20 |
@@ -96,10 +101,8 @@ For a complete list, click the following sortable link below:
 | **[ServiceNow](http://www.servicenow.com)** | **[ServiceNow Security Organization (SSO) - Associate Security Product Business Analyst Intern](https://jobright.ai/jobs/info/68cdf998e23def7af55c0ac2?utm_campaign=1047&utm_source=git)** |  4810 Eastgate Mall, San Diego, CALIFORNIA, United States | On Site | Sep 19 |
 | **[Dart Container](https://www.dartcontainer.com)** | **[Product Line and Trade Management Intern](https://jobright.ai/jobs/info/68cdee511ad6b16f028a008b?utm_campaign=1047&utm_source=git)** | Mason, MI | On Site | Sep 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Consumable Licensing Intern, Spring 2026](https://jobright.ai/jobs/info/68cde958b2a74e1837edd440?utm_campaign=1047&utm_source=git)** | Celebration, FL, USA | Hybrid | Sep 19 |
-| **[Sharp Business USA](https://business.sharpusa.com)** | **[Remote Management & AI Software Product Management Intern](https://jobright.ai/jobs/info/68cddf3f1ad6b16f0289f8f2?utm_campaign=1047&utm_source=git)** | Montvale, NJ | Hybrid | Sep 19 |
 | **[TE Connectivity](http://www.te.com)** | **[PRODUCT MANAGEMENT INTERN](https://jobright.ai/jobs/info/68cdba7cb2a74e1837edbb63?utm_campaign=1047&utm_source=git)** | Middletown, PA | On Site | Sep 19 |
 | **[Voloridge Health](http://www.voloridgehealth.com)** | **[Health Product Management Intern 2026](https://jobright.ai/jobs/info/68cdb6d2e23def7af55be7a5?utm_campaign=1047&utm_source=git)** | Jupiter, FL | On Site | Sep 19 |
-| **[Organic Valley](https://www.organicvalley.coop)** | **[Product Development Intern](https://jobright.ai/jobs/info/68cdb1b11ad6b16f0289ddcd?utm_campaign=1047&utm_source=git)** | La Farge, WI | Hybrid | Sep 19 |
 | **[Brilliant.org](https://brilliant.org)** | **[Product Design Intern](https://jobright.ai/jobs/info/68cdaf2ee23def7af55bdfa1?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Sep 19 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Product Management Intern 2026](https://jobright.ai/jobs/info/68cd9b061ad6b16f0289c24e?utm_campaign=1047&utm_source=git)** | Jupiter, FL | On Site | Sep 19 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Pricing Analytics & Product Development](https://jobright.ai/jobs/info/68cedbe0dbd9fb154ede3379?utm_campaign=1047&utm_source=git)** | Fort Worth, TX | Hybrid | Sep 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Product Service Strategy Intern](https://jobright.ai/jobs/info/68cb3f50ba798c1a501cd92f?utm_campaign=1047&utm_source=git)** | Olathe, Kansas | On Site | Sep 17 |
 | **[Copeland](https://www.copeland.com)** | **[Spring 2026 - Product Management / Controls & Smart Home Technologies Intern](https://jobright.ai/jobs/info/68caf45cefdec76df36b702b?utm_campaign=1047&utm_source=git)** | St. Louis, MO, USA | On Site | Sep 17 |
 | **[We Insure](https://weinsuregroup.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68cae5b7efdec76df36b6624?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Sep 17 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68cae5609e3a822f5d23fe77?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Sep 17 |
-| **[Panduit](http://www.panduit.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68cae518d905e25191d9d210?utm_campaign=1047&utm_source=git)** | USA IL Tinley Park WHQ | Hybrid | Sep 17 |
-| **[We Insure](https://weinsuregroup.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68cae5159e3a822f5d23fe1d?utm_campaign=1047&utm_source=git)** | Dallas, TX | Hybrid | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
