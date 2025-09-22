@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68d1605ffa731f61692de63a?utm_campaign=1047&utm_source=git)** | Paso Robles, CA | On Site | Sep 22 |
 | **[Google](https://www.google.com)** | **[Associate Product Manager Intern, Summer 2026](https://jobright.ai/jobs/info/68d14a17fa731f61692ddbc7?utm_campaign=1047&utm_source=git)** | Participation in the internship program requires that you are located in the United States for the duration of the internship program. | Remote | Sep 22 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Recommend Product]-2026 Summer (MBA)](https://jobright.ai/jobs/info/68ce673c846f0b04af6797ff?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 22 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Apps and API) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68b7dfc45e55be5e2604ee5c?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Sep 22 |
+| ↳ | **[Product Manager Intern [TikTok LIVE-Recommend Product]-2026 Summer (MBA)](https://jobright.ai/jobs/info/68ce673c846f0b04af6797ff?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 22 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68d0f299f1976376178f0d9d?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Sep 21 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Digital & Information Technology - Digital Product Development Internship - Summer 2026](https://jobright.ai/jobs/info/68b2f859f4e41a61efd885f8?utm_campaign=1047&utm_source=git)** | Vermillion, SD | On Site | Sep 21 |
 | **[Henkel](http://www.henkel.com)** | **[Product Innovation & Brand Management MBA Intern, DevaCurl - Spring 2026](https://jobright.ai/jobs/info/68b2395cbc187f64e1bd9f84?utm_campaign=1047&utm_source=git)** | Culver City, CA | On Site | Sep 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Product Growth](https://jobright.ai/jobs/info/68cc2342128dc347fd91fabb?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Sep 17 |
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/68cad47c9e3a822f5d23f74a?utm_campaign=1047&utm_source=git)** | United States | Remote | Sep 17 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Summer Intern](https://jobright.ai/jobs/info/68cc6551128dc347fd9244bf?utm_campaign=1047&utm_source=git)** | Erie, PA | On Site | Sep 17 |
-| **[Dell Technologies](https://www.delltechnologies.com)** | **[MBA Product Management Internship](https://jobright.ai/jobs/info/68cd80451ad6b16f0289a603?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Sep 17 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product Infrastructure]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cec2a3fb49c96ca6ea341f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
