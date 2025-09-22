@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68d0f299f1976376178f0d9d?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Sep 21 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/68cfdf10fb49c96ca6eac1f8?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Sep 21 |
 | **[Rippling](https://www.rippling.com)** | **[Product Lead Internship - Summer 2026](https://jobright.ai/jobs/info/68cccddaa77e5d7d744f5975?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Sep 21 |
 | **[Henkel](http://www.henkel.com)** | **[New Product Development MBA Intern, Joico - Spring 2026](https://jobright.ai/jobs/info/68b23a49f4e41a61efd82d67?utm_campaign=1047&utm_source=git)** | Culver City, CA | On Site | Sep 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cox Automotive Inc.](http://www.coxautoinc.com)** | **[Product Owner Intern - Summer 2026](https://jobright.ai/jobs/info/68cd5d64b2a74e1837ed6174?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Sep 17 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Development Intern, Shark (May to August)](https://jobright.ai/jobs/info/68cbfb80128dc347fd91cc8f?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Sep 17 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Undergraduate Product Management Intern](https://jobright.ai/jobs/info/68cb7b5bba798c1a501d040e?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Sep 17 |
-| **[Ingredion Incorporated](http://ingredion.com)** | **[Global Product Portfolio Intern](https://jobright.ai/jobs/info/68cfc097dbd9fb154edeaa0d?utm_campaign=1047&utm_source=git)** | Westchester, IL | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
