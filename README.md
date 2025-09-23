@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Digital Product Manager Intern](https://jobright.ai/jobs/info/68d20a8417554c2d9eee261d?utm_campaign=1047&utm_source=git)** | Plymouth, MN | Hybrid | Sep 22 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68d1fc2917554c2d9eee1e74?utm_campaign=1047&utm_source=git)** | Des Moines, IA | Hybrid | Sep 22 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Co-Op: Strategic Product Planning (Spring 2026)](https://jobright.ai/jobs/info/68d1fab717554c2d9eee1c97?utm_campaign=1047&utm_source=git)** | Greensboro, NC | On Site | Sep 22 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Product Manager](https://jobright.ai/jobs/info/68d1f4eaa54edb3bf3e180d6?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Sep 22 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Internship (US) - Product Management](https://jobright.ai/jobs/info/68d1da308c62e63bc7fd02d2?utm_campaign=1047&utm_source=git)** | Holtsville, NY | On Site | Sep 22 |
 | **[Number 6](https://www.linkedin.com/company/108269947)** | **[Retail Product Innovation Intern](https://jobright.ai/jobs/info/68d1bf7a17554c2d9eedf5a0?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | Remote | Sep 22 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Product Manager](https://jobright.ai/jobs/info/68d1b85717554c2d9eedf016?utm_campaign=1047&utm_source=git)** | San Francisco, CA, USA | Hybrid | Sep 22 |
-| **[COYUCHI](https://www.coyuchi.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68d1b0b58c62e63bc7fce830?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | On Site | Sep 22 |
 | **[Organic Valley](https://www.organicvalley.coop)** | **[Product Development Intern](https://jobright.ai/jobs/info/68cdb1b11ad6b16f0289ddcd?utm_campaign=1047&utm_source=git)** | La Farge, WI | Hybrid | Sep 22 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68d1a7d58c62e63bc7fce07e?utm_campaign=1047&utm_source=git)** | Paso Robles, CA | On Site | Sep 22 |
 | **[State Street](http://www.statestreet.com)** | **[Product Management Support, CO-OP](https://jobright.ai/jobs/info/68d1a5f617554c2d9eede079?utm_campaign=1047&utm_source=git)** | Quincy, Massachusetts | On Site | Sep 22 |
