@@ -57,15 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Anthropologie Weddings](https://www.bhldn.com)** | **[URBN Product Development Intern](https://jobright.ai/jobs/info/68d2f78817554c2d9eeec4b4?utm_campaign=1047&utm_source=git)** | US-PA-Philadelphia | On Site | Sep 23 |
+| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - HR&D - Technology Product Analyst](https://jobright.ai/jobs/info/68d2f2938c62e63bc7fdbe03?utm_campaign=1047&utm_source=git)** | Tempe, AZ | Hybrid | Sep 23 |
+| **[IDEAS](http://www.ideas.firm.in)** | **[Product Management Intern](https://jobright.ai/jobs/info/68d2ef14f0d9af73038dcf54?utm_campaign=1047&utm_source=git)** | US-MN-Bloomington | Hybrid | Sep 23 |
+| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - HR&D - Technology Product Analyst](https://jobright.ai/jobs/info/68d2eeb0f0d9af73038dceb0?utm_campaign=1047&utm_source=git)** | Bloomington, IL | Hybrid | Sep 23 |
+| ↳ | **[Summer 2026 Intern - HR&D - Technology Product Analyst](https://jobright.ai/jobs/info/68d2edbe8c62e63bc7fdb812?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Sep 23 |
+| **[Sonoco](https://www.sonoco.com/)** | **[Intern - IT Product Lifecycle Management and Supply Chain Management](https://jobright.ai/jobs/info/68d2ed90f0d9af73038dcc86?utm_campaign=1047&utm_source=git)** | Hartsville, SC, USA | Hybrid | Sep 23 |
+| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - HR&D - Technology Product Analyst](https://jobright.ai/jobs/info/68d2ed228c62e63bc7fdb73d?utm_campaign=1047&utm_source=git)** | Richardson, TX | Hybrid | Sep 23 |
 | **[IDeaS Revenue Solutions](http://www.ideas.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68d2dc64f0d9af73038dc1de?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 23 |
 | **[State Street](http://www.statestreet.com)** | **[Product Design Engineer, CO-OP](https://jobright.ai/jobs/info/68d2dbdff0d9af73038dc0f6?utm_campaign=1047&utm_source=git)** | Quincy, MA | On Site | Sep 23 |
 | **[Security Benefit](https://securitybenefit.com)** | **[Internship - Derivatives Product Management](https://jobright.ai/jobs/info/68d2d4378c62e63bc7fda794?utm_campaign=1047&utm_source=git)** | Overland Park, KS | Hybrid | Sep 23 |
 | **[State Street](http://www.statestreet.com)** | **[Product Design Engineer, CO-OP](https://jobright.ai/jobs/info/68d2cf5d8c62e63bc7fda567?utm_campaign=1047&utm_source=git)** | Quincy, Massachusetts | On Site | Sep 23 |
-| **[Air Liquide](http://www.airliquide.com)** | **[VIE - Product Management Analyst(M/F/D)](https://jobright.ai/jobs/info/68d2cc1e8c62e63bc7fda049?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Sep 23 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Retail Product Innovation Intern](https://jobright.ai/jobs/info/68d2c8c88c62e63bc7fd9d55?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | Remote | Sep 23 |
+| **[Air Liquide](http://www.airliquide.com)** | **[VIE - Product Management Analyst(M/F/D)](https://jobright.ai/jobs/info/68d2cc1e8c62e63bc7fda049?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Sep 23 |
 | **[Insulet Corporation](https://www.insulet.com)** | **[Graduate Co-op, Product Management: January - June 2026 (Hybrid)](https://jobright.ai/jobs/info/68d2b2e417554c2d9eee9052?utm_campaign=1047&utm_source=git)** | Acton, Massachusetts | Hybrid | Sep 23 |
 | **[ABB](https://global.abb/group/en)** | **[Internship Global Product Specialist](https://jobright.ai/jobs/info/68cea5d1846f0b04af67be88?utm_campaign=1047&utm_source=git)** | Location, WV | Hybrid | Sep 23 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/68ce4831846f0b04af677cc2?utm_campaign=1047&utm_source=git)** | Durham, NC | On Site | Sep 23 |
+| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/68cd1c831ad6b16f02895315?utm_campaign=1047&utm_source=git)** | Rochester, MN | On Site | Sep 23 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/68ce4831846f0b04af677cc2?utm_campaign=1047&utm_source=git)** | Durham, NC | On Site | Sep 23 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/68be7d33e57feb02eb0aee6e?utm_campaign=1047&utm_source=git)** | Lowell, MA | On Site | Sep 23 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[2026 Summer Internship Product Development](https://jobright.ai/jobs/info/68d2527417554c2d9eee6f79?utm_campaign=1047&utm_source=git)** | Summit, NJ | Hybrid | Sep 23 |
 | ↳ | **[2026 Summer Internship Product Development](https://jobright.ai/jobs/info/68d25127a54edb3bf3e1d75e?utm_campaign=1047&utm_source=git)** | Madison, NJ | Hybrid | Sep 23 |
@@ -81,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Product Management, Print Development](https://jobright.ai/jobs/info/68d1db6117554c2d9eee0374?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Sep 22 |
 | ↳ | **[2026 Summer Internship (US) - Product Management](https://jobright.ai/jobs/info/68d1da308c62e63bc7fd02d2?utm_campaign=1047&utm_source=git)** | Holtsville, NY | On Site | Sep 22 |
 | **[Wonder](https://www.wonder.com)** | **[Ops Product Intern - Summer 2026](https://jobright.ai/jobs/info/68b29846bc187f64e1bddcd5?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Sep 22 |
-| **[Number 6](https://www.linkedin.com/company/108269947)** | **[Retail Product Innovation Intern](https://jobright.ai/jobs/info/68d1bf7a17554c2d9eedf5a0?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | Remote | Sep 22 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Product Manager](https://jobright.ai/jobs/info/68d1b85717554c2d9eedf016?utm_campaign=1047&utm_source=git)** | San Francisco, CA, USA | Hybrid | Sep 22 |
 | **[Organic Valley](https://www.organicvalley.coop)** | **[Product Development Intern](https://jobright.ai/jobs/info/68cdb1b11ad6b16f0289ddcd?utm_campaign=1047&utm_source=git)** | La Farge, WI | Hybrid | Sep 22 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68d1a7d58c62e63bc7fce07e?utm_campaign=1047&utm_source=git)** | Paso Robles, CA | On Site | Sep 22 |
@@ -91,7 +98,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Internship Product Development](https://jobright.ai/jobs/info/68d19d6217554c2d9eedd3cc?utm_campaign=1047&utm_source=git)** | Summit West - NJ - US | Hybrid | Sep 22 |
 | **[Olin](http://www.olin.com/)** | **[Product Stewardship Intern - 2026](https://jobright.ai/jobs/info/68d19815cece431f8b58594b?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Sep 22 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Product Design CO-OP](https://jobright.ai/jobs/info/68d192f28c62e63bc7fcccf2?utm_campaign=1047&utm_source=git)** | Breinigsville, PA | On Site | Sep 22 |
-| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Retail Product Innovation Intern](https://jobright.ai/jobs/info/68d183a7cece431f8b584a37?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | Remote | Sep 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (MBA)](https://jobright.ai/jobs/info/68b7d1480514b74d7c3eaa94?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 22 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68d1605ffa731f61692de63a?utm_campaign=1047&utm_source=git)** | Paso Robles, CA | On Site | Sep 22 |
 | **[Google](https://www.google.com)** | **[Associate Product Manager Intern, Summer 2026](https://jobright.ai/jobs/info/68d14a17fa731f61692ddbc7?utm_campaign=1047&utm_source=git)** | Participation in the internship program requires that you are located in the United States for the duration of the internship program. | Remote | Sep 22 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Product Development Intern or Co-op](https://jobright.ai/jobs/info/68cc63db16d00d2beeb1ecdf?utm_campaign=1047&utm_source=git)** | Stevens Point, WI | On Site | Sep 18 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/68c10a1a702aa35207ab2faa?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Sep 18 |
 | **[Schwan's Company](http://www.schwanscompany.com/)** | **[Product Development Intern - Summer 2026 - Marshall, MN](https://jobright.ai/jobs/info/68cc3dab128dc347fd92166e?utm_campaign=1047&utm_source=git)** | Marshall, MN | On Site | Sep 18 |
-| ↳ | **[Product Development Intern - Summer 2026 - Florence, KY](https://jobright.ai/jobs/info/68cc3d5116d00d2beeb1c29e?utm_campaign=1047&utm_source=git)** | Florence, KY | On Site | Sep 18 |
-| ↳ | **[Product Development Intern - Summer 2026 - La Palma, CA](https://jobright.ai/jobs/info/68cc36297342c7623ae60f70?utm_campaign=1047&utm_source=git)** | La Palma, CA | On Site | Sep 18 |
-| **[Apex Fintech Solutions](https://apexfintechsolutions.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68cedd15846f0b04af67d7f9?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Sep 18 |
-| **[Munich Re](https://www.munichre.com)** | **[Product Management Intern, NA Integrated Analytics (2026 Summer - New York)](https://jobright.ai/jobs/info/68cecfe9846f0b04af67d2eb?utm_campaign=1047&utm_source=git)** | NYC Metro Area | Hybrid | Sep 18 |
-| **[Copeland](https://www.copeland.com)** | **[Spring 2026 - Product Management / Controls & Smart Home Technologies Intern](https://jobright.ai/jobs/info/68cecb20dbd9fb154ede2d86?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Sep 18 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Product Analyst Intern](https://jobright.ai/jobs/info/68cd521ab2a74e1837ed5279?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
