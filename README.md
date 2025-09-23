@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bristol Myers Squibb](http://www.bms.com)** | **[2026 Summer Internship Product Development](https://jobright.ai/jobs/info/68d24a81a54edb3bf3e1d026?utm_campaign=1047&utm_source=git)** | New Brunswick, NJ | Hybrid | Sep 23 |
+| **[Trimble Inc.](http://www.trimble.com)** | **[Construction/Civil Engineering Product Manager Intern](https://jobright.ai/jobs/info/68d2357f8c62e63bc7fd5684?utm_campaign=1047&utm_source=git)** | Westminster, CO | On Site | Sep 22 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Digital Product Manager Intern](https://jobright.ai/jobs/info/68d20a8417554c2d9eee261d?utm_campaign=1047&utm_source=git)** | Plymouth, MN | Hybrid | Sep 22 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68d1fc2917554c2d9eee1e74?utm_campaign=1047&utm_source=git)** | Des Moines, IA | Hybrid | Sep 22 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Co-Op: Strategic Product Planning (Spring 2026)](https://jobright.ai/jobs/info/68d1fab717554c2d9eee1c97?utm_campaign=1047&utm_source=git)** | Greensboro, NC | On Site | Sep 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Princess Cruises](http://www.princess.com)** | **[2026 Internship - Shorex Product Analysis](https://jobright.ai/jobs/info/68cb707bba798c1a501cf8f1?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | Remote | Sep 17 |
 | **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[2026 Summer Intern: Product Development](https://jobright.ai/jobs/info/68cbfc2c128dc347fd91cda2?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Sep 17 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Development Intern, Ninja (May to August)](https://jobright.ai/jobs/info/68ce190ee23def7af55c2356?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Sep 17 |
-| **[Cisco](http://www.cisco.com)** | **[Product Management Specialist I (Co-Op) United States](https://jobright.ai/jobs/info/68cc2c0d7342c7623ae606e2?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 17 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[Product Service Strategy Intern](https://jobright.ai/jobs/info/68cf4673846f0b04af6801b8?utm_campaign=1047&utm_source=git)** | Olathe, KS | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
