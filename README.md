@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Principal Financial Group](https://www.principalam.com/)** | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68d1fc2917554c2d9eee1e74?utm_campaign=1047&utm_source=git)** | Des Moines, IA | Hybrid | Sep 22 |
+| **[Volvo Group](http://www.volvogroup.com)** | **[Co-Op: Strategic Product Planning (Spring 2026)](https://jobright.ai/jobs/info/68d1fab717554c2d9eee1c97?utm_campaign=1047&utm_source=git)** | Greensboro, NC | On Site | Sep 22 |
+| **[Autodesk](http://www.autodesk.com)** | **[Intern, Product Manager](https://jobright.ai/jobs/info/68d1f4eaa54edb3bf3e180d6?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Sep 22 |
+| **[Trimble Inc.](http://www.trimble.com)** | **[Construction/Civil Engineering Product Manager Intern](https://jobright.ai/jobs/info/68d1ef1f17554c2d9eee1445?utm_campaign=1047&utm_source=git)** | US - CO, Westminster | On Site | Sep 22 |
+| **[Warp](https://wearewarp.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68d1e6cca54edb3bf3e17594?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 22 |
 | **[State Street](http://www.statestreet.com)** | **[Product Management Support, CO-OP](https://jobright.ai/jobs/info/68d1ddfb8c62e63bc7fd04ed?utm_campaign=1047&utm_source=git)** | Quincy, MA | On Site | Sep 22 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Product Management, Print Development](https://jobright.ai/jobs/info/68d1db6117554c2d9eee0374?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Sep 22 |
 | ↳ | **[2026 Summer Internship (US) - Product Management](https://jobright.ai/jobs/info/68d1da308c62e63bc7fd02d2?utm_campaign=1047&utm_source=git)** | Holtsville, NY | On Site | Sep 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Development Intern, Ninja (May to August)](https://jobright.ai/jobs/info/68ce190ee23def7af55c2356?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Sep 17 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Product Service Strategy Intern](https://jobright.ai/jobs/info/68cf4673846f0b04af6801b8?utm_campaign=1047&utm_source=git)** | Olathe, KS | On Site | Sep 17 |
 | **[Immuta](http://www.immuta.com/)** | **[Product Research Internship Summer 2026](https://jobright.ai/jobs/info/68cb324d9e3a822f5d243a7b?utm_campaign=1047&utm_source=git)** | Columbus, OH | On Site | Sep 17 |
-| **[Dell Technologies](https://www.delltechnologies.com)** | **[Global Offer and Product Operations Undergrad Intern](https://jobright.ai/jobs/info/68cb26aeefdec76df36b9790?utm_campaign=1047&utm_source=git)** | Austin, Texas, United States | On Site | Sep 17 |
-| **[Apprenticely](https://apprenticely.org/)** | **[Product Management  Intern](https://jobright.ai/jobs/info/689fb655faa4e875e828a9ce?utm_campaign=1047&utm_source=git)** | Fayetteville, AR | On Site | Sep 17 |
-| **[Emerson](http://www.emerson.com)** | **[Product Management Engineering Intern](https://jobright.ai/jobs/info/68cc49de16d00d2beeb1d090?utm_campaign=1047&utm_source=git)** | Boulder, CO | On Site | Sep 17 |
-| **[Cisco](http://www.cisco.com)** | **[Product Management Specialist I (Co-Op) United States](https://jobright.ai/jobs/info/68cb28299e3a822f5d24318f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 17 |
-| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68cb062b9e3a822f5d2415d7?utm_campaign=1047&utm_source=git)** | Downers Grove, IL | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
