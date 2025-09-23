@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/68be7d33e57feb02eb0aee6e?utm_campaign=1047&utm_source=git)** | Lowell, MA | On Site | Sep 23 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[2026 Summer Internship Product Development](https://jobright.ai/jobs/info/68d2527417554c2d9eee6f79?utm_campaign=1047&utm_source=git)** | Summit, NJ | Hybrid | Sep 23 |
 | ↳ | **[2026 Summer Internship Product Development](https://jobright.ai/jobs/info/68d25127a54edb3bf3e1d75e?utm_campaign=1047&utm_source=git)** | Madison, NJ | Hybrid | Sep 23 |
 | ↳ | **[2026 Summer Internship Product Development](https://jobright.ai/jobs/info/68d24a81a54edb3bf3e1d026?utm_campaign=1047&utm_source=git)** | New Brunswick, NJ | Hybrid | Sep 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Product Management Specialist I (Co-Op) United States](https://jobright.ai/jobs/info/68ccff7477add66568abd775?utm_campaign=1047&utm_source=git)** | Ohio, United States | On Site | Sep 17 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Product Development Intern, Ninja (February to May)](https://jobright.ai/jobs/info/68cce1d3d11b445e0bee3b04?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Sep 17 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf7b99fb49c96ca6ea8e0c?utm_campaign=1047&utm_source=git)** | Downers Grove, IL | On Site | Sep 17 |
-| **[Carnival Corporation](http://carnivalcorp.com)** | **[2026 Internship - Shorex Product Analysis](https://jobright.ai/jobs/info/68cb71479e3a822f5d246198?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | Remote | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
