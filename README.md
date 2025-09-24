@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Digital Product Intern](https://jobright.ai/jobs/info/68d3168b8c62e63bc7fdda41?utm_campaign=1047&utm_source=git)** | USA-TX - Dallas Office | On Site | Sep 23 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Product Development Internship (Summer 2026)](https://jobright.ai/jobs/info/68d3130df0d9af73038dedc9?utm_campaign=1047&utm_source=git)** | Framingham, MA 01701 | Hybrid | Sep 23 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - MBA Product Management](https://jobright.ai/jobs/info/68d3126e17554c2d9eeed9de?utm_campaign=1047&utm_source=git)** | Warren, Michigan, United States of America | Hybrid | Sep 23 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Convergence and Emerging Growth Product Intern](https://jobright.ai/jobs/info/68d308e68c62e63bc7fdd0d5?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Sep 23 |
 | **[Sonoco](https://www.sonoco.com/)** | **[Intern - IT Product Lifecycle Management and Supply Chain Management](https://jobright.ai/jobs/info/68d3015f17554c2d9eeeccf3?utm_campaign=1047&utm_source=git)** | Hartsville, SC | On Site | Sep 23 |
 | **[Insulet Corporation](https://www.insulet.com)** | **[Graduate Co-op, Product Management: January - June 2026 (Hybrid)](https://jobright.ai/jobs/info/68d300b48c62e63bc7fdc9fa?utm_campaign=1047&utm_source=git)** | Acton, MA | Hybrid | Sep 23 |
-| **[Cencora](http://www.cencora.com)** | **[Consumer Products Category Management Intern](https://jobright.ai/jobs/info/68d2fc51f0d9af73038ddd5c?utm_campaign=1047&utm_source=git)** | Conshohocken, PA | On Site | Sep 23 |
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[URBN Product Development Intern](https://jobright.ai/jobs/info/68d2f78817554c2d9eeec4b4?utm_campaign=1047&utm_source=git)** | US-PA-Philadelphia | On Site | Sep 23 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - HR&D - Technology Product Analyst](https://jobright.ai/jobs/info/68d2f2938c62e63bc7fdbe03?utm_campaign=1047&utm_source=git)** | Tempe, AZ | Hybrid | Sep 23 |
 | **[IDEAS](http://www.ideas.firm.in)** | **[Product Management Intern](https://jobright.ai/jobs/info/68d2ef14f0d9af73038dcf54?utm_campaign=1047&utm_source=git)** | US-MN-Bloomington | Hybrid | Sep 23 |
