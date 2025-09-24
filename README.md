@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Product Management Intern](https://jobright.ai/jobs/info/68cf476efb49c96ca6ea69da?utm_campaign=1047&utm_source=git)** | San Mateo, CA | Hybrid | Sep 24 |
+| **[Qualcomm](http://www.qualcomm.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68ce426024dd5209002f0f06?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Sep 24 |
 | **[US Foods](https://www.usfoods.com/)** | **[Intern - Product Analyst (Hybrid: Onsite & Remote)](https://jobright.ai/jobs/info/68d3c4648c62e63bc7fe47cc?utm_campaign=1047&utm_source=git)** | Rosemont, IL | Hybrid | Sep 24 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/68d39e1217554c2d9eef38bd?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Sep 24 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/68d378aa952b4a32e23d5e12?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Sep 23 |
@@ -77,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Insulet Corporation](https://www.insulet.com)** | **[Graduate Co-op, Product Management: January - June 2026 (Hybrid)](https://jobright.ai/jobs/info/68d300b48c62e63bc7fdc9fa?utm_campaign=1047&utm_source=git)** | Acton, MA | Hybrid | Sep 23 |
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[URBN Product Development Intern](https://jobright.ai/jobs/info/68d2f78817554c2d9eeec4b4?utm_campaign=1047&utm_source=git)** | US-PA-Philadelphia | On Site | Sep 23 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - HR&D - Technology Product Analyst](https://jobright.ai/jobs/info/68d2f2938c62e63bc7fdbe03?utm_campaign=1047&utm_source=git)** | Tempe, AZ | Hybrid | Sep 23 |
+| **[WK Kellogg Co](https://www.wkkellogg.com/en-us/home.html)** | **[Research and Development Intern](https://jobright.ai/jobs/info/68d2f83bf0d9af73038dd872?utm_campaign=1047&utm_source=git)** | Battle Creek, MI | On Site | Sep 23 |
 | **[IDEAS](http://www.ideas.firm.in)** | **[Product Management Intern](https://jobright.ai/jobs/info/68d2ef14f0d9af73038dcf54?utm_campaign=1047&utm_source=git)** | US-MN-Bloomington | Hybrid | Sep 23 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - HR&D - Technology Product Analyst](https://jobright.ai/jobs/info/68d2eeb0f0d9af73038dceb0?utm_campaign=1047&utm_source=git)** | Bloomington, IL | Hybrid | Sep 23 |
 | ↳ | **[Summer 2026 Intern - HR&D - Technology Product Analyst](https://jobright.ai/jobs/info/68d2edbe8c62e63bc7fdb812?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Sep 23 |
@@ -89,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Air Liquide](http://www.airliquide.com)** | **[VIE - Product Management Analyst(M/F/D)](https://jobright.ai/jobs/info/68d2cc1e8c62e63bc7fda049?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Sep 23 |
 | **[Insulet Corporation](https://www.insulet.com)** | **[Graduate Co-op, Product Management: January - June 2026 (Hybrid)](https://jobright.ai/jobs/info/68d2b2e417554c2d9eee9052?utm_campaign=1047&utm_source=git)** | Acton, Massachusetts | Hybrid | Sep 23 |
 | **[ABB](https://global.abb/group/en)** | **[Internship Global Product Specialist](https://jobright.ai/jobs/info/68cea5d1846f0b04af67be88?utm_campaign=1047&utm_source=git)** | Location, WV | Hybrid | Sep 23 |
+| **[Johnson & Johnson MedTech](https://www.jnjmedicaldevices.com/)** | **[Co-op Product Managment VC Spring 2026](https://jobright.ai/jobs/info/68cbfd9a7342c7623ae5d071?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Sep 23 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/68cd1c831ad6b16f02895315?utm_campaign=1047&utm_source=git)** | Rochester, MN | On Site | Sep 23 |
 | **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Product Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/68c83456f9c6ff7aedf0bda1?utm_campaign=1047&utm_source=git)** | United States | Remote | Sep 23 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/68ce4831846f0b04af677cc2?utm_campaign=1047&utm_source=git)** | Durham, NC | On Site | Sep 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brilliant.org](https://brilliant.org)** | **[Product Design Intern](https://jobright.ai/jobs/info/68cdaf2ee23def7af55bdfa1?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Sep 19 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Product Management Intern 2026](https://jobright.ai/jobs/info/68cd9b061ad6b16f0289c24e?utm_campaign=1047&utm_source=git)** | Jupiter, FL | On Site | Sep 19 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Pricing Analytics & Product Development](https://jobright.ai/jobs/info/68cedbe0dbd9fb154ede3379?utm_campaign=1047&utm_source=git)** | Fort Worth, TX | Hybrid | Sep 19 |
-| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Product Planning Internship - Summer 2026- Franklin, TN](https://jobright.ai/jobs/info/68cd78ab1ad6b16f02899ee3?utm_campaign=1047&utm_source=git)** | Franklin, Tennessee - United States of America | On Site | Sep 19 |
-| **[Molex](http://www.molex.com)** | **[Molex Product Management Intern Summer 2026](https://jobright.ai/jobs/info/68cd6f331ad6b16f028998b1?utm_campaign=1047&utm_source=git)** | Lisle, IL | On Site | Sep 19 |
-| **[OCBC](http://www.ocbc.com)** | **[Internship: Global Markets, Global Market Equities, Digital Platforms [Jan to Jun 2026]](https://jobright.ai/jobs/info/68b7c0b95e55be5e2604d78e?utm_campaign=1047&utm_source=git)** | South Centre, PA | On Site | Sep 19 |
-| **[Molex](http://www.molex.com)** | **[Molex Product Management Co-op (Fall 2025/Spring 2026)](https://jobright.ai/jobs/info/68ceaa17dbd9fb154ede1f70?utm_campaign=1047&utm_source=git)** | Rochester Hills, MI | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
