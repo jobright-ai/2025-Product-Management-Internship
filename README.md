@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Project Intern (Brand Effectiveness - Monetization Product) 2025 Start (BS/ MS)](https://jobright.ai/jobs/info/68d3528217554c2d9eeefd34?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 23 |
+| **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Digital Product Intern](https://jobright.ai/jobs/info/68d34dfb8c62e63bc7fdfa41?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Sep 23 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - MBA Product Management](https://jobright.ai/jobs/info/68d34df58c62e63bc7fdfa33?utm_campaign=1047&utm_source=git)** | Warren, MI | Hybrid | Sep 23 |
 | **[Lennox](http://www.lennox.com)** | **[Category Analyst Intern](https://jobright.ai/jobs/info/68d34dc4f0d9af73038e0eac?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Sep 23 |
 | **[IDEAS](http://www.ideas.firm.in)** | **[Product Management Intern](https://jobright.ai/jobs/info/68d349538c62e63bc7fdf5f2?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 23 |
 | **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Category Analyst Intern](https://jobright.ai/jobs/info/68d3436717554c2d9eeef2a0?utm_campaign=1047&utm_source=git)** | US-TX-Richardson | On Site | Sep 23 |
+| **[Appian](http://www.appian.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68ce7d8ddbd9fb154ede0196?utm_campaign=1047&utm_source=git)** | McLean, VA | On Site | Sep 23 |
 | **[Dawn Foods Global](https://www.dawnfoods.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68d332e78c62e63bc7fde8a7?utm_campaign=1047&utm_source=git)** | Jackson, MI | On Site | Sep 23 |
 | **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Digital Product Intern](https://jobright.ai/jobs/info/68d3168b8c62e63bc7fdda41?utm_campaign=1047&utm_source=git)** | USA-TX - Dallas Office | On Site | Sep 23 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Product Development Internship (Summer 2026)](https://jobright.ai/jobs/info/68d3130df0d9af73038dedc9?utm_campaign=1047&utm_source=git)** | Framingham, MA 01701 | Hybrid | Sep 23 |
@@ -68,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Convergence and Emerging Growth Product Intern](https://jobright.ai/jobs/info/68d308e68c62e63bc7fdd0d5?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Sep 23 |
 | **[Sonoco](https://www.sonoco.com/)** | **[Intern - IT Product Lifecycle Management and Supply Chain Management](https://jobright.ai/jobs/info/68d3015f17554c2d9eeeccf3?utm_campaign=1047&utm_source=git)** | Hartsville, SC | On Site | Sep 23 |
 | **[Insulet Corporation](https://www.insulet.com)** | **[Graduate Co-op, Product Management: January - June 2026 (Hybrid)](https://jobright.ai/jobs/info/68d300b48c62e63bc7fdc9fa?utm_campaign=1047&utm_source=git)** | Acton, MA | Hybrid | Sep 23 |
+| **[Cencora](http://www.cencora.com)** | **[Consumer Products Category Management Intern](https://jobright.ai/jobs/info/68d2fc51f0d9af73038ddd5c?utm_campaign=1047&utm_source=git)** | Conshohocken, PA | On Site | Sep 23 |
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[URBN Product Development Intern](https://jobright.ai/jobs/info/68d2f78817554c2d9eeec4b4?utm_campaign=1047&utm_source=git)** | US-PA-Philadelphia | On Site | Sep 23 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - HR&D - Technology Product Analyst](https://jobright.ai/jobs/info/68d2f2938c62e63bc7fdbe03?utm_campaign=1047&utm_source=git)** | Tempe, AZ | Hybrid | Sep 23 |
 | **[IDEAS](http://www.ideas.firm.in)** | **[Product Management Intern](https://jobright.ai/jobs/info/68d2ef14f0d9af73038dcf54?utm_campaign=1047&utm_source=git)** | US-MN-Bloomington | Hybrid | Sep 23 |
@@ -75,7 +79,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Intern - HR&D - Technology Product Analyst](https://jobright.ai/jobs/info/68d2edbe8c62e63bc7fdb812?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Sep 23 |
 | **[Sonoco](https://www.sonoco.com/)** | **[Intern - IT Product Lifecycle Management and Supply Chain Management](https://jobright.ai/jobs/info/68d2ed90f0d9af73038dcc86?utm_campaign=1047&utm_source=git)** | Hartsville, SC, USA | Hybrid | Sep 23 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - HR&D - Technology Product Analyst](https://jobright.ai/jobs/info/68d2ed228c62e63bc7fdb73d?utm_campaign=1047&utm_source=git)** | Richardson, TX | Hybrid | Sep 23 |
-| **[IDeaS Revenue Solutions](http://www.ideas.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68d2dc64f0d9af73038dc1de?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 23 |
 | **[State Street](http://www.statestreet.com)** | **[Product Design Engineer, CO-OP](https://jobright.ai/jobs/info/68d2dbdff0d9af73038dc0f6?utm_campaign=1047&utm_source=git)** | Quincy, MA | On Site | Sep 23 |
 | **[Security Benefit](https://securitybenefit.com)** | **[Internship - Derivatives Product Management](https://jobright.ai/jobs/info/68d2d4378c62e63bc7fda794?utm_campaign=1047&utm_source=git)** | Overland Park, KS | Hybrid | Sep 23 |
 | **[State Street](http://www.statestreet.com)** | **[Product Design Engineer, CO-OP](https://jobright.ai/jobs/info/68d2cf5d8c62e63bc7fda567?utm_campaign=1047&utm_source=git)** | Quincy, Massachusetts | On Site | Sep 23 |
@@ -122,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/68cfdf10fb49c96ca6eac1f8?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Sep 21 |
 | **[Rippling](https://www.rippling.com)** | **[Product Lead Internship - Summer 2026](https://jobright.ai/jobs/info/68cccddaa77e5d7d744f5975?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Sep 21 |
 | **[Henkel](http://www.henkel.com)** | **[New Product Development MBA Intern, Joico - Spring 2026](https://jobright.ai/jobs/info/68b23a49f4e41a61efd82d67?utm_campaign=1047&utm_source=git)** | Culver City, CA | On Site | Sep 20 |
-| **[Appian](http://www.appian.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68ce7d8ddbd9fb154ede0196?utm_campaign=1047&utm_source=git)** | McLean, VA | On Site | Sep 20 |
 | **[GiveDirectly](https://www.givedirectly.org/)** | **[Senior Product Manager, International Rapid Response Payment Systems](https://jobright.ai/jobs/info/68cba8d89e3a822f5d249d3c?utm_campaign=1047&utm_source=git)** | United States | Remote | Sep 20 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68b1e671bc187f64e1bd799c?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | On Site | Sep 20 |
 | ↳ | **[Product Development Intern - 2026](https://jobright.ai/jobs/info/68cebe83fb49c96ca6ea32dd?utm_campaign=1047&utm_source=git)** | Madison Heights, MI | On Site | Sep 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship- Digital Product Owner (Summer 2026)](https://jobright.ai/jobs/info/68cd036ce5ac5c0dc6d26493?utm_campaign=1047&utm_source=git)** | Orlando, FL | On Site | Sep 19 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Mobile Product](https://jobright.ai/jobs/info/68cf94acfb49c96ca6ea9847?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Sep 18 |
 | **[The Walt Disney Company Nordic & Baltic](https://thewaltdisneycompany.com/)** | **[Consumable Licensing Intern, Spring 2026](https://jobright.ai/jobs/info/68d226a2a54edb3bf3e1b312?utm_campaign=1047&utm_source=git)** | Celebration, FL | On Site | Sep 18 |
-| **[Flint Hills Resources](http://www.fhr.com)** | **[Fall 2025 Product Analyst Co-Op](https://jobright.ai/jobs/info/68ccc86bfa466330fef9111d?utm_campaign=1047&utm_source=git)** | Wichita, KS | Hybrid | Sep 18 |
-| **[Conagra Brands](http://www.conagrabrands.com/)** | **[Food Science Internship – Product Development – Summer 2026](https://jobright.ai/jobs/info/68ccacbb128dc347fd928104?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
