@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - MBA Product Management](https://jobright.ai/jobs/info/68d34df58c62e63bc7fdfa33?utm_campaign=1047&utm_source=git)** | Warren, MI | Hybrid | Sep 23 |
+| **[Lennox](http://www.lennox.com)** | **[Category Analyst Intern](https://jobright.ai/jobs/info/68d34dc4f0d9af73038e0eac?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Sep 23 |
+| **[IDEAS](http://www.ideas.firm.in)** | **[Product Management Intern](https://jobright.ai/jobs/info/68d349538c62e63bc7fdf5f2?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 23 |
+| **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Category Analyst Intern](https://jobright.ai/jobs/info/68d3436717554c2d9eeef2a0?utm_campaign=1047&utm_source=git)** | US-TX-Richardson | On Site | Sep 23 |
+| **[Dawn Foods Global](https://www.dawnfoods.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68d332e78c62e63bc7fde8a7?utm_campaign=1047&utm_source=git)** | Jackson, MI | On Site | Sep 23 |
 | **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Digital Product Intern](https://jobright.ai/jobs/info/68d3168b8c62e63bc7fdda41?utm_campaign=1047&utm_source=git)** | USA-TX - Dallas Office | On Site | Sep 23 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Product Development Internship (Summer 2026)](https://jobright.ai/jobs/info/68d3130df0d9af73038dedc9?utm_campaign=1047&utm_source=git)** | Framingham, MA 01701 | Hybrid | Sep 23 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - MBA Product Management](https://jobright.ai/jobs/info/68d3126e17554c2d9eeed9de?utm_campaign=1047&utm_source=git)** | Warren, Michigan, United States of America | Hybrid | Sep 23 |
@@ -91,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Product Manager](https://jobright.ai/jobs/info/68d1f4eaa54edb3bf3e180d6?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Sep 22 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Construction/Civil Engineering Product Manager Intern](https://jobright.ai/jobs/info/68d1ef1f17554c2d9eee1445?utm_campaign=1047&utm_source=git)** | US - CO, Westminster | On Site | Sep 22 |
 | **[Warp](https://wearewarp.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68d1e6cca54edb3bf3e17594?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 22 |
-| **[State Street](http://www.statestreet.com)** | **[Product Management Support, CO-OP](https://jobright.ai/jobs/info/68d1ddfb8c62e63bc7fd04ed?utm_campaign=1047&utm_source=git)** | Quincy, MA | On Site | Sep 22 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Product Management, Print Development](https://jobright.ai/jobs/info/68d1db6117554c2d9eee0374?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Sep 22 |
 | ↳ | **[2026 Summer Internship (US) - Product Management](https://jobright.ai/jobs/info/68d1da308c62e63bc7fd02d2?utm_campaign=1047&utm_source=git)** | Holtsville, NY | On Site | Sep 22 |
 | **[Wonder](https://www.wonder.com)** | **[Ops Product Intern - Summer 2026](https://jobright.ai/jobs/info/68b29846bc187f64e1bddcd5?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Sep 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company Nordic & Baltic](https://thewaltdisneycompany.com/)** | **[Consumable Licensing Intern, Spring 2026](https://jobright.ai/jobs/info/68d226a2a54edb3bf3e1b312?utm_campaign=1047&utm_source=git)** | Celebration, FL | On Site | Sep 18 |
 | **[Flint Hills Resources](http://www.fhr.com)** | **[Fall 2025 Product Analyst Co-Op](https://jobright.ai/jobs/info/68ccc86bfa466330fef9111d?utm_campaign=1047&utm_source=git)** | Wichita, KS | Hybrid | Sep 18 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Food Science Internship – Product Development – Summer 2026](https://jobright.ai/jobs/info/68ccacbb128dc347fd928104?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Sep 18 |
-| **[Inspire](https://inspirebrands.com)** | **[Guest Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68cf473edbd9fb154ede5dea?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Sep 18 |
-| **[Brilliant.org](https://brilliant.org)** | **[Product Design Intern](https://jobright.ai/jobs/info/68cc721416d00d2beeb1fbd0?utm_campaign=1047&utm_source=git)** | SF | On Site | Sep 18 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Pricing Analytics & Product Development](https://jobright.ai/jobs/info/68cc6d3b128dc347fd924cf4?utm_campaign=1047&utm_source=git)** | 801 Cherry Street, Fort Worth, TX, 76102, US | On Site | Sep 18 |
-| **[Van Subaru](http://www.vansubaru.com)** | **[INTERN - Product Planning and Pricing](https://jobright.ai/jobs/info/68cc6d21128dc347fd924cc3?utm_campaign=1047&utm_source=git)** | Camden, NJ, United States | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
