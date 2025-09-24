@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[US Foods](https://www.usfoods.com/)** | **[Intern - Product Analyst (Hybrid: Onsite & Remote)](https://jobright.ai/jobs/info/68d3c4648c62e63bc7fe47cc?utm_campaign=1047&utm_source=git)** | Rosemont, IL | Hybrid | Sep 24 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/68d39e1217554c2d9eef38bd?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Sep 24 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/68d378aa952b4a32e23d5e12?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Sep 23 |
 | ↳ | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/68d377a217554c2d9eef1b76?utm_campaign=1047&utm_source=git)** | San Francisco | On Site | Sep 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Molex](http://www.molex.com)** | **[Molex Product Management Intern Summer 2026](https://jobright.ai/jobs/info/68cd6f331ad6b16f028998b1?utm_campaign=1047&utm_source=git)** | Lisle, IL | On Site | Sep 19 |
 | **[OCBC](http://www.ocbc.com)** | **[Internship: Global Markets, Global Market Equities, Digital Platforms [Jan to Jun 2026]](https://jobright.ai/jobs/info/68b7c0b95e55be5e2604d78e?utm_campaign=1047&utm_source=git)** | South Centre, PA | On Site | Sep 19 |
 | **[Molex](http://www.molex.com)** | **[Molex Product Management Co-op (Fall 2025/Spring 2026)](https://jobright.ai/jobs/info/68ceaa17dbd9fb154ede1f70?utm_campaign=1047&utm_source=git)** | Rochester Hills, MI | On Site | Sep 19 |
-| **[Dematic](http://www.dematic.com)** | **[Engineering and Product Management Intern](https://jobright.ai/jobs/info/68c66d147d0db4114273a0f6?utm_campaign=1047&utm_source=git)** | Wauwatosa, WI | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
