@@ -81,7 +81,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/68d377a217554c2d9eef1b76?utm_campaign=1047&utm_source=git)** | San Francisco | On Site | Sep 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Project Intern (Brand Effectiveness - Monetization Product) 2025 Start (BS/ MS)](https://jobright.ai/jobs/info/68d3528217554c2d9eeefd34?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 23 |
 | **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Digital Product Intern](https://jobright.ai/jobs/info/68d34dfb8c62e63bc7fdfa41?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Sep 23 |
-| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - MBA Product Management](https://jobright.ai/jobs/info/68d34df58c62e63bc7fdfa33?utm_campaign=1047&utm_source=git)** | Warren, MI | Hybrid | Sep 23 |
 | **[Lennox](http://www.lennox.com)** | **[Category Analyst Intern](https://jobright.ai/jobs/info/68d34dc4f0d9af73038e0eac?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Sep 23 |
 | **[IDEAS](http://www.ideas.firm.in)** | **[Product Management Intern](https://jobright.ai/jobs/info/68d349538c62e63bc7fdf5f2?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 23 |
 | **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Category Analyst Intern](https://jobright.ai/jobs/info/68d3436717554c2d9eeef2a0?utm_campaign=1047&utm_source=git)** | US-TX-Richardson | On Site | Sep 23 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Development Co-op - 2026](https://jobright.ai/jobs/info/68ce7dc7846f0b04af67a628?utm_campaign=1047&utm_source=git)** | Angleton, TX | On Site | Sep 20 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Products Intern](https://jobright.ai/jobs/info/689556a14ed2ea559ca55178?utm_campaign=1047&utm_source=git)** | Strongsville, OH | On Site | Sep 20 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/68b213e21ade4306aa6344c3?utm_campaign=1047&utm_source=git)** | Des Moines, IA | On Site | Sep 20 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager, Intern (Travel & Entertainment Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ce0acd1ad6b16f028a15b3?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
