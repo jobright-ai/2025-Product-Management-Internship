@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-PGC)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68d4f34d2ed36439e51e3791?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 25 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Product Manager Intern, Go-To-Market Operations (Winter/Spring 2026)](https://jobright.ai/jobs/info/68d4e07b8c62e63bc7fed55c?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Sep 24 |
+| **[Umbrage](http://umbrage.com)** | **[Product Manager Intern - Summer 2026](https://jobright.ai/jobs/info/68d4db508c62e63bc7fed3d3?utm_campaign=1047&utm_source=git)** | Houston, TX | Remote | Sep 24 |
+| **[Hach](http://www.hach.com)** | **[Product Manager/Marketing Manager](https://jobright.ai/jobs/info/68d4f1a1e678d65ec7d898b0?utm_campaign=1047&utm_source=git)** | Loveland, CO | Hybrid | Sep 24 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Operations Customer Center (OCC) Product Management (Spring 2026)](https://jobright.ai/jobs/info/68d4afa5fcd3367e8df16d02?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Sep 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Recommend Product]-2026 Summer (MBA)](https://jobright.ai/jobs/info/68d4a6ac8c62e63bc7feb414?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 24 |
 | ↳ | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (MBA)](https://jobright.ai/jobs/info/68d4a6178c62e63bc7feb37f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 24 |
@@ -71,7 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Workiva](http://www.workiva.com)** | **[Spring & Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/68d3ff4f8c62e63bc7fe537a?utm_campaign=1047&utm_source=git)** | United States | Remote | Sep 24 |
 | **[Allegion](https://www.allegion.com)** | **[Product Experience Intern](https://jobright.ai/jobs/info/68ccee0077add66568abc018?utm_campaign=1047&utm_source=git)** | Carmel, IN | On Site | Sep 24 |
 | **[ABB](https://global.abb/group/en)** | **[Internship Product Management](https://jobright.ai/jobs/info/68ce5547fb49c96ca6e9f16c?utm_campaign=1047&utm_source=git)** | Location, WV | On Site | Sep 24 |
-| **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Product Management Intern](https://jobright.ai/jobs/info/68cf476efb49c96ca6ea69da?utm_campaign=1047&utm_source=git)** | San Mateo, CA | On Site | Sep 24 |
+| **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Product Management Intern](https://jobright.ai/jobs/info/68cf476efb49c96ca6ea69da?utm_campaign=1047&utm_source=git)** | San Mateo, CA | Hybrid | Sep 24 |
 | **[Travelers](https://www.travelers.com)** | **[Product Management Development Program (PMDP) Intern](https://jobright.ai/jobs/info/68b7440ef4e41a61efd97678?utm_campaign=1047&utm_source=git)** | Hartford, CT | On Site | Sep 24 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/68d39e1217554c2d9eef38bd?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Sep 24 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/68d378aa952b4a32e23d5e12?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Sep 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Olin](http://www.olin.com/)** | **[Product Management Intern - 2026](https://jobright.ai/jobs/info/68ce9023dbd9fb154ede0bfb?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Sep 20 |
 | ↳ | **[Product Development Co-op - 2026](https://jobright.ai/jobs/info/68ce7dc7846f0b04af67a628?utm_campaign=1047&utm_source=git)** | Angleton, TX | On Site | Sep 20 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Products Intern](https://jobright.ai/jobs/info/689556a14ed2ea559ca55178?utm_campaign=1047&utm_source=git)** | Strongsville, OH | On Site | Sep 20 |
-| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/68b213e21ade4306aa6344c3?utm_campaign=1047&utm_source=git)** | Des Moines, IA | On Site | Sep 20 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager, Intern (Travel & Entertainment Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ce0acd1ad6b16f028a15b3?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 19 |
-| **[ServiceNow](http://www.servicenow.com)** | **[ServiceNow Security Organization (SSO) - Associate Security Product Business Analyst Intern](https://jobright.ai/jobs/info/68cdf998e23def7af55c0ac2?utm_campaign=1047&utm_source=git)** |  4810 Eastgate Mall, San Diego, CALIFORNIA, United States | On Site | Sep 19 |
-| **[Dart Container](https://www.dartcontainer.com)** | **[Product Line and Trade Management Intern](https://jobright.ai/jobs/info/68cdee511ad6b16f028a008b?utm_campaign=1047&utm_source=git)** | Mason, MI | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
