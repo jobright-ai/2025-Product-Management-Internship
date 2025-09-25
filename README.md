@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Four Hands](https://fourhands.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68d575751f7fb2169ab104e9?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Sep 25 |
+| **[Pangaea](https://pangaea.holdings)** | **[Product Development Intern](https://jobright.ai/jobs/info/68d573621f7fb2169ab10185?utm_campaign=1047&utm_source=git)** | California, US | On Site | Sep 25 |
+| **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Retail Product Innovation Intern](https://jobright.ai/jobs/info/68d5683a63d77d6f6f3ee4aa?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Sep 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-PGC)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68d4f34d2ed36439e51e3791?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 25 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Product Manager Intern, Go-To-Market Operations (Winter/Spring 2026)](https://jobright.ai/jobs/info/68d4e07b8c62e63bc7fed55c?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Sep 24 |
 | **[Umbrage](http://umbrage.com)** | **[Product Manager Intern - Summer 2026](https://jobright.ai/jobs/info/68d4db508c62e63bc7fed3d3?utm_campaign=1047&utm_source=git)** | Houston, TX | Remote | Sep 24 |
@@ -71,6 +74,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Specialist I (Intern) United States](https://jobright.ai/jobs/info/68d444f48c62e63bc7fe75fa?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Sep 24 |
 | **[Align Technology](http://www.aligntech.com)** | **[Product Intern](https://jobright.ai/jobs/info/68d438038c62e63bc7fe6e5b?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 24 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68d4314817554c2d9eef6aa5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 24 |
+| **[Baker Hughes](https://www.bakerhughes.com/)** | **[Product Management - Spring Co-op Internship (Skaneateles, NY) 2026 Opportunities](https://jobright.ai/jobs/info/68c65eba7d0db41142739245?utm_campaign=1047&utm_source=git)** | Skaneateles, NY | On Site | Sep 24 |
 | **[Workiva](http://www.workiva.com)** | **[Spring & Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/68d3ff4f8c62e63bc7fe537a?utm_campaign=1047&utm_source=git)** | United States | Remote | Sep 24 |
 | **[Allegion](https://www.allegion.com)** | **[Product Experience Intern](https://jobright.ai/jobs/info/68ccee0077add66568abc018?utm_campaign=1047&utm_source=git)** | Carmel, IN | On Site | Sep 24 |
 | **[ABB](https://global.abb/group/en)** | **[Internship Product Management](https://jobright.ai/jobs/info/68ce5547fb49c96ca6e9f16c?utm_campaign=1047&utm_source=git)** | Location, WV | On Site | Sep 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Product Planning Internship - Summer 2026- Franklin, TN](https://jobright.ai/jobs/info/68ceab8dfb49c96ca6ea2bcb?utm_campaign=1047&utm_source=git)** | Franklin, TN | On Site | Sep 20 |
 | **[GALLO](https://www.gallo.com)** | **[Product Insights & Innovation Internship 2026](https://jobright.ai/jobs/info/68cdbae81ad6b16f0289e5ba?utm_campaign=1047&utm_source=git)** | Modesto, CA | On Site | Sep 20 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Product Planning and Pricing](https://jobright.ai/jobs/info/68cea98cdbd9fb154ede1e53?utm_campaign=1047&utm_source=git)** | Camden, NJ | On Site | Sep 20 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/68cc16fd7342c7623ae5ec95?utm_campaign=1047&utm_source=git)** | Lincoln, NE | On Site | Sep 20 |
-| **[Olin](http://www.olin.com/)** | **[Product Management Intern - 2026](https://jobright.ai/jobs/info/68ce9023dbd9fb154ede0bfb?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Sep 20 |
-| ↳ | **[Product Development Co-op - 2026](https://jobright.ai/jobs/info/68ce7dc7846f0b04af67a628?utm_campaign=1047&utm_source=git)** | Angleton, TX | On Site | Sep 20 |
-| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Products Intern](https://jobright.ai/jobs/info/689556a14ed2ea559ca55178?utm_campaign=1047&utm_source=git)** | Strongsville, OH | On Site | Sep 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
