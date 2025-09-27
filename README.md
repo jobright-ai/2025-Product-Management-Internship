@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Product Innovation Intern](https://jobright.ai/jobs/info/68d81c9b7796a83635f0f02f?utm_campaign=1047&utm_source=git)** | Pennsylvania, United States | Remote | Sep 27 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68cc0cd416d00d2beeb18eac?utm_campaign=1047&utm_source=git)** | Elgin, IL | On Site | Sep 27 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Mobile Product](https://jobright.ai/jobs/info/68cf7327dbd9fb154ede7e82?utm_campaign=1047&utm_source=git)** | Stamford, CT | On Site | Sep 27 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: WiFi Product Team](https://jobright.ai/jobs/info/68bbc7938043103d4f22c6bc?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Sep 27 |
+| ↳ | **[2026 Summer Intern: Mobile Product](https://jobright.ai/jobs/info/68cf7327dbd9fb154ede7e82?utm_campaign=1047&utm_source=git)** | Stamford, CT | On Site | Sep 27 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[Ecommerce Development Intern](https://jobright.ai/jobs/info/68bb8d655f38327491870378?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Sep 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern - SMB Industry Operations - 2025 Start (BS/ MS)](https://jobright.ai/jobs/info/68d776fd295f8e37655da926?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Sep 26 |
 | **[Khan Academy](http://khanacademy.org/)** | **[Sr. Product Manager, International](https://jobright.ai/jobs/info/68d76f5861a175619f8cd20d?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Sep 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lennox](http://www.lennox.com)** | **[Category Analyst Intern](https://jobright.ai/jobs/info/68d34dc4f0d9af73038e0eac?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Sep 23 |
 | **[IDEAS](http://www.ideas.firm.in)** | **[Product Management Intern](https://jobright.ai/jobs/info/68d349538c62e63bc7fdf5f2?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 23 |
 | **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Category Analyst Intern](https://jobright.ai/jobs/info/68d3436717554c2d9eeef2a0?utm_campaign=1047&utm_source=git)** | US-TX-Richardson | On Site | Sep 23 |
-| **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Product Wellness Solutions](https://jobright.ai/jobs/info/68ca44c39f583c3191e3efde?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Sep 23 |
-| **[Appian](http://www.appian.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68ce7d8ddbd9fb154ede0196?utm_campaign=1047&utm_source=git)** | McLean, VA | On Site | Sep 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
