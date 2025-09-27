@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Mobile Product](https://jobright.ai/jobs/info/68cf7327dbd9fb154ede7e82?utm_campaign=1047&utm_source=git)** | Stamford, CT | On Site | Sep 27 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[Ecommerce Development Intern](https://jobright.ai/jobs/info/68bb8d655f38327491870378?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Sep 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern - SMB Industry Operations - 2025 Start (BS/ MS)](https://jobright.ai/jobs/info/68d776fd295f8e37655da926?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Sep 26 |
 | **[Khan Academy](http://khanacademy.org/)** | **[Sr. Product Manager, International](https://jobright.ai/jobs/info/68d76f5861a175619f8cd20d?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Sep 26 |
+| **[Lennox](http://www.lennox.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68d7ea8d7a37c712687d6f7e?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Sep 26 |
 | **[Walmart](http://www.walmart.com)** | **[2025 Intern Conversion: 2026 FT Product Manager II](https://jobright.ai/jobs/info/68d7495de5293e3538af3a33?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Sep 26 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Sales Product Owner - 2026 Summer Internship (Chicago Hybrid)](https://jobright.ai/jobs/info/68d7493ce5293e3538af39dd?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Sep 26 |
 | **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Product Development](https://jobright.ai/jobs/info/68d748e0cb1d8e52c9766bbf?utm_campaign=1047&utm_source=git)** | Hunt Valley, MD | On Site | Sep 26 |
@@ -140,6 +142,7 @@ For a complete list, click the following sortable link below:
 | **[WoodmenLife](https://www.woodmenlife.org/)** | **[Product Owner Intern - Summer 2026](https://jobright.ai/jobs/info/68cf113ffb49c96ca6ea58b6?utm_campaign=1047&utm_source=git)** | Omaha, NE | Hybrid | Sep 24 |
 | **[Winland Foods](https://winlandfoods.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68cc287f16d00d2beeb1afdf?utm_campaign=1047&utm_source=git)** | Oak Brook, IL | On Site | Sep 24 |
 | **[Travelers](https://www.travelers.com)** | **[Product Management Development Program (PMDP) Intern](https://jobright.ai/jobs/info/68b7440ef4e41a61efd97678?utm_campaign=1047&utm_source=git)** | Hartford, CT | On Site | Sep 24 |
+| **[WK Kellogg Co](https://www.wkkellogg.com/en-us/home.html)** | **[Research and Development Intern](https://jobright.ai/jobs/info/68d2f83bf0d9af73038dd872?utm_campaign=1047&utm_source=git)** | Battle Creek, MI | On Site | Sep 24 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/68d39e1217554c2d9eef38bd?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Sep 24 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - MBA Product Management](https://jobright.ai/jobs/info/68d63ecb894705799a2e9836?utm_campaign=1047&utm_source=git)** | Warren, MI | On Site | Sep 23 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/68d378aa952b4a32e23d5e12?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Sep 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dawn Foods Global](https://www.dawnfoods.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68d332e78c62e63bc7fde8a7?utm_campaign=1047&utm_source=git)** | Jackson, MI | On Site | Sep 23 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate Summer Internship Program - 2026 Product Development, Global Merchant & Network Services - New York, NY](https://jobright.ai/jobs/info/68d71c8245853d0e39ccd02f?utm_campaign=1047&utm_source=git)** | New York, New York, United States | Hybrid | Sep 23 |
 | **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Digital Product Intern](https://jobright.ai/jobs/info/68d3168b8c62e63bc7fdda41?utm_campaign=1047&utm_source=git)** | USA-TX - Dallas Office | On Site | Sep 23 |
-| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Product Development Internship (Summer 2026)](https://jobright.ai/jobs/info/68d3130df0d9af73038dedc9?utm_campaign=1047&utm_source=git)** | Framingham, MA 01701 | Hybrid | Sep 23 |
-| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - MBA Product Management](https://jobright.ai/jobs/info/68d3126e17554c2d9eeed9de?utm_campaign=1047&utm_source=git)** | Warren, Michigan, United States of America | Hybrid | Sep 23 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Convergence and Emerging Growth Product Intern](https://jobright.ai/jobs/info/68d308e68c62e63bc7fdd0d5?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Sep 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
