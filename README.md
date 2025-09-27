@@ -114,6 +114,7 @@ For a complete list, click the following sortable link below:
 | **[Umbrage](http://umbrage.com)** | **[Product Manager Intern - Summer 2026](https://jobright.ai/jobs/info/68d4db508c62e63bc7fed3d3?utm_campaign=1047&utm_source=git)** | Houston, TX | Remote | Sep 24 |
 | **[Hach](http://www.hach.com)** | **[Product Manager/Marketing Manager](https://jobright.ai/jobs/info/68d4f1a1e678d65ec7d898b0?utm_campaign=1047&utm_source=git)** | Loveland, CO | Hybrid | Sep 24 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast AI Product Intern](https://jobright.ai/jobs/info/68d62d244736ff202fdd0477?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Sep 24 |
+| **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Georgia-Pacific Business Analyst/Product Owner Internship - Summer 2026](https://jobright.ai/jobs/info/68b79da42124650c14024746?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Sep 24 |
 | **[EquiTrust Life Insurance Company](https://www.equitrust.com)** | **[Actuarial Intern (Product Management)](https://jobright.ai/jobs/info/68b745a71ade4306aa649661?utm_campaign=1047&utm_source=git)** | Des Moines Metro | Hybrid | Sep 24 |
 | **[Wipfli](http://www.wipfli.com)** | **[Product Development Internship-Summer 2026](https://jobright.ai/jobs/info/68d7711561a175619f8cda84?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 24 |
 | ↳ | **[Product Implementation Internship-Summer 2026](https://jobright.ai/jobs/info/68d0fe51f1976376178f191f?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Sep 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cencora](http://www.cencora.com)** | **[Consumer Products Category Management Intern](https://jobright.ai/jobs/info/68d2fc51f0d9af73038ddd5c?utm_campaign=1047&utm_source=git)** | Conshohocken, PA | On Site | Sep 23 |
 | **[Johnson & Johnson MedTech](https://www.jnjmedicaldevices.com/)** | **[Co-op Product Managment VC Summer 2026](https://jobright.ai/jobs/info/68cbfa4a7342c7623ae5cbaa?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Sep 23 |
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[URBN Product Development Intern](https://jobright.ai/jobs/info/68d2f78817554c2d9eeec4b4?utm_campaign=1047&utm_source=git)** | US-PA-Philadelphia | On Site | Sep 23 |
-| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - HR&D - Technology Product Analyst](https://jobright.ai/jobs/info/68d2f2938c62e63bc7fdbe03?utm_campaign=1047&utm_source=git)** | Tempe, AZ | Hybrid | Sep 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
