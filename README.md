@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bobcat Company](https://www.bobcat.com)** | **[Ecommerce Development Intern](https://jobright.ai/jobs/info/68bb8d655f38327491870378?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Sep 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern - SMB Industry Operations - 2025 Start (BS/ MS)](https://jobright.ai/jobs/info/68d776fd295f8e37655da926?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Sep 26 |
 | **[Khan Academy](http://khanacademy.org/)** | **[Sr. Product Manager, International](https://jobright.ai/jobs/info/68d76f5861a175619f8cd20d?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Sep 26 |
 | **[Walmart](http://www.walmart.com)** | **[2025 Intern Conversion: 2026 FT Product Manager II](https://jobright.ai/jobs/info/68d7495de5293e3538af3a33?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Sep 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Product Development Internship (Summer 2026)](https://jobright.ai/jobs/info/68d3130df0d9af73038dedc9?utm_campaign=1047&utm_source=git)** | Framingham, MA 01701 | Hybrid | Sep 23 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - MBA Product Management](https://jobright.ai/jobs/info/68d3126e17554c2d9eeed9de?utm_campaign=1047&utm_source=git)** | Warren, Michigan, United States of America | Hybrid | Sep 23 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Convergence and Emerging Growth Product Intern](https://jobright.ai/jobs/info/68d308e68c62e63bc7fdd0d5?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Sep 23 |
-| **[Sonoco](https://www.sonoco.com/)** | **[Intern - IT Product Lifecycle Management and Supply Chain Management](https://jobright.ai/jobs/info/68d3015f17554c2d9eeeccf3?utm_campaign=1047&utm_source=git)** | Hartsville, SC | On Site | Sep 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
