@@ -58,10 +58,11 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[ResX Technical Product Owner - Summer 2026 Intern](https://jobright.ai/jobs/info/68d85e81c9952514e1e95009?utm_campaign=1047&utm_source=git)** | Miami, FL | Hybrid | Sep 27 |
-| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Product Innovation Intern](https://jobright.ai/jobs/info/68d81c9b7796a83635f0f02f?utm_campaign=1047&utm_source=git)** | Pennsylvania, United States | Remote | Sep 27 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68cc0cd416d00d2beeb18eac?utm_campaign=1047&utm_source=git)** | Elgin, IL | On Site | Sep 27 |
+| **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2026 Product Development, US Consumer Services - New York, NY](https://jobright.ai/jobs/info/68ce8964846f0b04af67ae4f?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Sep 27 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Product Manager)](https://jobright.ai/jobs/info/68cd1a57e23def7af55b55ab?utm_campaign=1047&utm_source=git)** | Vienna, VA | On Site | Sep 27 |
 | ↳ | **[Summer Associate Internship (Product Strategist)](https://jobright.ai/jobs/info/68cc5b4b128dc347fd9233af?utm_campaign=1047&utm_source=git)** | Vienna, VA | On Site | Sep 27 |
+| ↳ | **[Summer Associate Internship (Credit Card Experiences Product Manager)](https://jobright.ai/jobs/info/68d2f29a8c62e63bc7fdbe10?utm_campaign=1047&utm_source=git)** | Vienna, VA | On Site | Sep 27 |
 | **[Copeland](https://www.copeland.com)** | **[Summer 2026 - Product Management / Controls & Smart Home Technologies Intern](https://jobright.ai/jobs/info/68c7c69a369c3763c743c1ef?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Sep 27 |
 | **[Uline](http://www.uline.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68ca36a9f61c922772a74f07?utm_campaign=1047&utm_source=git)** | Waukegan, IL | On Site | Sep 27 |
 | **[SPX Technologies](http://www.spx.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/68ccd8d75954791a1d6ffa47?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Sep 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Product Management Intern](https://jobright.ai/jobs/info/68cf476efb49c96ca6ea69da?utm_campaign=1047&utm_source=git)** | San Mateo, CA | Hybrid | Sep 24 |
 | **[WoodmenLife](https://www.woodmenlife.org/)** | **[Product Owner Intern - Summer 2026](https://jobright.ai/jobs/info/68cf113ffb49c96ca6ea58b6?utm_campaign=1047&utm_source=git)** | Omaha, NE | Hybrid | Sep 24 |
 | **[Winland Foods](https://winlandfoods.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68cc287f16d00d2beeb1afdf?utm_campaign=1047&utm_source=git)** | Oak Brook, IL | On Site | Sep 24 |
-| **[Travelers](https://www.travelers.com)** | **[Product Management Development Program (PMDP) Intern](https://jobright.ai/jobs/info/68b7440ef4e41a61efd97678?utm_campaign=1047&utm_source=git)** | Hartford, CT | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
