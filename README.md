@@ -139,6 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Operations Customer Center (OCC) Product Management (Spring 2026)](https://jobright.ai/jobs/info/68d4afa5fcd3367e8df16d02?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Sep 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Recommend Product]-2026 Summer (MBA)](https://jobright.ai/jobs/info/68d4a6ac8c62e63bc7feb414?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 24 |
 | ↳ | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (MBA)](https://jobright.ai/jobs/info/68d4a6178c62e63bc7feb37f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 24 |
+| **[Altium Packaging](https://www.containerexperts.com/)** | **[2026 Product Management Intern](https://jobright.ai/jobs/info/68b795c32124650c140240b5?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Sep 24 |
 | **[Johnsonville](http://www.johnsonville.com/)** | **[R&D Product Development Internship](https://jobright.ai/jobs/info/68b73cc7f4e41a61efd96d41?utm_campaign=1047&utm_source=git)** | Sheboygan Falls, WI | On Site | Sep 24 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Specialist I (Intern) United States](https://jobright.ai/jobs/info/68d4487617554c2d9eef7d7a?utm_campaign=1047&utm_source=git)** | San Jose, California, US | On Site | Sep 24 |
 | ↳ | **[Product Management Specialist I (Intern) United States](https://jobright.ai/jobs/info/68d44674ffc1276de3fd9132?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Winland Foods](https://winlandfoods.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68cc287f16d00d2beeb1afdf?utm_campaign=1047&utm_source=git)** | Oak Brook, IL | On Site | Sep 24 |
 | **[Travelers](https://www.travelers.com)** | **[Product Management Development Program (PMDP) Intern](https://jobright.ai/jobs/info/68b7440ef4e41a61efd97678?utm_campaign=1047&utm_source=git)** | Hartford, CT | On Site | Sep 24 |
 | **[WK Kellogg Co](https://www.wkkellogg.com/en-us/home.html)** | **[Research and Development Intern](https://jobright.ai/jobs/info/68d2f83bf0d9af73038dd872?utm_campaign=1047&utm_source=git)** | Battle Creek, MI | On Site | Sep 24 |
-| **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/68d39e1217554c2d9eef38bd?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
