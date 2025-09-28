@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carnival Corporation](http://carnivalcorp.com)** | **[ResX Technical Product Owner - Summer 2026 Intern](https://jobright.ai/jobs/info/68d85e81c9952514e1e95009?utm_campaign=1047&utm_source=git)** | Miami, FL | Hybrid | Sep 27 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Product Innovation Intern](https://jobright.ai/jobs/info/68d81c9b7796a83635f0f02f?utm_campaign=1047&utm_source=git)** | Pennsylvania, United States | Remote | Sep 27 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68cc0cd416d00d2beeb18eac?utm_campaign=1047&utm_source=git)** | Elgin, IL | On Site | Sep 27 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Product Manager)](https://jobright.ai/jobs/info/68cd1a57e23def7af55b55ab?utm_campaign=1047&utm_source=git)** | Vienna, VA | On Site | Sep 27 |
 | ↳ | **[Summer Associate Internship (Product Strategist)](https://jobright.ai/jobs/info/68cc5b4b128dc347fd9233af?utm_campaign=1047&utm_source=git)** | Vienna, VA | On Site | Sep 27 |
+| **[Copeland](https://www.copeland.com)** | **[Summer 2026 - Product Management / Controls & Smart Home Technologies Intern](https://jobright.ai/jobs/info/68c7c69a369c3763c743c1ef?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Sep 27 |
+| **[Uline](http://www.uline.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68ca36a9f61c922772a74f07?utm_campaign=1047&utm_source=git)** | Waukegan, IL | On Site | Sep 27 |
+| **[SPX Technologies](http://www.spx.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/68ccd8d75954791a1d6ffa47?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Sep 27 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: WiFi Product Team](https://jobright.ai/jobs/info/68bbc7938043103d4f22c6bc?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Sep 27 |
 | ↳ | **[2026 Summer Intern: Mobile Product](https://jobright.ai/jobs/info/68cf7327dbd9fb154ede7e82?utm_campaign=1047&utm_source=git)** | Stamford, CT | On Site | Sep 27 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[Ecommerce Development Intern](https://jobright.ai/jobs/info/68bb8d655f38327491870378?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Sep 27 |
@@ -79,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-PGC)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68d72727894705799a2f1169?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 26 |
 | **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68d71cb745853d0e39ccd044?utm_campaign=1047&utm_source=git)** | US-TX-Richardson | On Site | Sep 26 |
 | **[GALLO](https://www.gallo.com)** | **[Product Insights & Innovation Internship 2026](https://jobright.ai/jobs/info/68cdbae81ad6b16f0289e5ba?utm_campaign=1047&utm_source=git)** | Modesto, CA | On Site | Sep 26 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Seller Platform) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68ba3f1c6105227d1189c44d?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Sep 26 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Jr Product Owner - 2026 Summer Internship (Chicago Hybrid)](https://jobright.ai/jobs/info/68d723ce894705799a2f0e6d?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Sep 26 |
 | **[Five Below](http://www.fivebelow.com)** | **[Product Development Temp](https://jobright.ai/jobs/info/68d6f0dad3fe025a3015d447?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Sep 26 |
 | **[Workiva](http://www.workiva.com)** | **[Spring & Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/68d6ef97d3fe025a3015d312?utm_campaign=1047&utm_source=git)** | United States | Remote | Sep 26 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://www.travelers.com)** | **[Product Management Development Program (PMDP) Intern](https://jobright.ai/jobs/info/68b7440ef4e41a61efd97678?utm_campaign=1047&utm_source=git)** | Hartford, CT | On Site | Sep 24 |
 | **[WK Kellogg Co](https://www.wkkellogg.com/en-us/home.html)** | **[Research and Development Intern](https://jobright.ai/jobs/info/68d2f83bf0d9af73038dd872?utm_campaign=1047&utm_source=git)** | Battle Creek, MI | On Site | Sep 24 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/68d39e1217554c2d9eef38bd?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Sep 24 |
-| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - MBA Product Management](https://jobright.ai/jobs/info/68d63ecb894705799a2e9836?utm_campaign=1047&utm_source=git)** | Warren, MI | On Site | Sep 23 |
-| **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/68d378aa952b4a32e23d5e12?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Sep 23 |
-| ↳ | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/68d377a217554c2d9eef1b76?utm_campaign=1047&utm_source=git)** | San Francisco | On Site | Sep 23 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Project Intern (Brand Effectiveness - Monetization Product) 2025 Start (BS/ MS)](https://jobright.ai/jobs/info/68d3528217554c2d9eeefd34?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 23 |
-| **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Digital Product Intern](https://jobright.ai/jobs/info/68d34dfb8c62e63bc7fdfa41?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Sep 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
