@@ -78,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern - SMB Industry Operations - 2025 Start (BS/ MS)](https://jobright.ai/jobs/info/68d776fd295f8e37655da926?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Sep 26 |
 | **[Khan Academy](http://khanacademy.org/)** | **[Sr. Product Manager, International](https://jobright.ai/jobs/info/68d76f5861a175619f8cd20d?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Sep 26 |
 | **[Lennox](http://www.lennox.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68d7ea8d7a37c712687d6f7e?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Sep 26 |
+| **[Red Ventures](http://www.redventures.com)** | **[2026 LAUNCH Program: Data Science Product Manager Intern](https://jobright.ai/jobs/info/68d9fc966df7b8311bb0b5c9?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Sep 26 |
 | **[Walmart](http://www.walmart.com)** | **[2025 Intern Conversion: 2026 FT Product Manager II](https://jobright.ai/jobs/info/68d7495de5293e3538af3a33?utm_campaign=1047&utm_source=git)** | Bentonville, AR | On Site | Sep 26 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Sales Product Owner - 2026 Summer Internship (Chicago Hybrid)](https://jobright.ai/jobs/info/68d7493ce5293e3538af39dd?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Sep 26 |
 | **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Product Development](https://jobright.ai/jobs/info/68d748e0cb1d8e52c9766bbf?utm_campaign=1047&utm_source=git)** | Hunt Valley, MD | On Site | Sep 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Align Technology](http://www.aligntech.com)** | **[Product Intern](https://jobright.ai/jobs/info/68d438038c62e63bc7fe6e5b?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 24 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68d4314817554c2d9eef6aa5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 24 |
 | **[Wipfli](http://www.wipfli.com)** | **[Product Implementation Internship-Summer 2026](https://jobright.ai/jobs/info/68c88e0095f5211cd2ce66fb?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | Hybrid | Sep 24 |
-| **[Baker Hughes](https://www.bakerhughes.com/)** | **[Product Management - Spring Co-op Internship (Skaneateles, NY) 2026 Opportunities](https://jobright.ai/jobs/info/68c65eba7d0db41142739245?utm_campaign=1047&utm_source=git)** | Skaneateles, NY | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
