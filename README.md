@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hawl Technologies, LLC](https://hawltechs.com/)** | **[AI/Product Management Intern](https://jobright.ai/jobs/info/68d99ec1022fc803b4877833?utm_campaign=1047&utm_source=git)** | Texas, United States | Remote | Sep 28 |
+| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Grid Automation Product Management Intern - Spring-Summer 2026](https://jobright.ai/jobs/info/689f34a779a9f96662554e28?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Sep 28 |
 | **[Upstart](https://upstart.com/about)** | **[Join our Product Talent Community!](https://jobright.ai/jobs/info/68d8ee5a061b716fa2959b8b?utm_campaign=1047&utm_source=git)** | United States | Remote | Sep 28 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[ResX Technical Product Owner - Summer 2026 Intern](https://jobright.ai/jobs/info/68d85e81c9952514e1e95009?utm_campaign=1047&utm_source=git)** | Miami, FL | Hybrid | Sep 27 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern](https://jobright.ai/jobs/info/68c3adbf80e77b1fa6fcbfdc?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Sep 27 |
@@ -121,6 +121,7 @@ For a complete list, click the following sortable link below:
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/68aebe937bcb7608b3d29365?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Sep 25 |
 | **[Dawn Foods Global](https://www.dawnfoods.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68d607cf63d77d6f6f3f3e60?utm_campaign=1047&utm_source=git)** | Louisville, KY | On Site | Sep 25 |
 | **[Tencent](https://www.tencent.com/)** | **[Product Intern](https://jobright.ai/jobs/info/68d5f2932116ff37ee0916b8?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Sep 25 |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Operations Customer Center (OCC) Product Management (Spring 2026)](https://jobright.ai/jobs/info/68d9c8d1061b716fa295ae14?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Sep 25 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68cfc77ffb49c96ca6eab61a?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Sep 25 |
 | **[Pangaea](https://pangaea.holdings)** | **[Product Development Intern](https://jobright.ai/jobs/info/68d5aa371f7fb2169ab12cf1?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Sep 25 |
 | **[Tencent](https://www.tencent.com/)** | **[Product Intern](https://jobright.ai/jobs/info/68d5a93a14935e31e231aa5a?utm_campaign=1047&utm_source=git)** | US-California-Los Angeles | On Site | Sep 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68d4314817554c2d9eef6aa5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 24 |
 | **[Wipfli](http://www.wipfli.com)** | **[Product Implementation Internship-Summer 2026](https://jobright.ai/jobs/info/68c88e0095f5211cd2ce66fb?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | Hybrid | Sep 24 |
 | **[Baker Hughes](https://www.bakerhughes.com/)** | **[Product Management - Spring Co-op Internship (Skaneateles, NY) 2026 Opportunities](https://jobright.ai/jobs/info/68c65eba7d0db41142739245?utm_campaign=1047&utm_source=git)** | Skaneateles, NY | On Site | Sep 24 |
-| **[Allegion](https://www.allegion.com)** | **[Product Experience Intern](https://jobright.ai/jobs/info/68ccee0077add66568abc018?utm_campaign=1047&utm_source=git)** | Carmel, IN | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
