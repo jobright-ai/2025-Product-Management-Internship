@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Product Innovation Intern](https://jobright.ai/jobs/info/68da860407c157682e56abc7?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | Remote | Sep 29 |
 | **[BakedBot AI](https://bakedbot.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68da160e6df7b8311bb0c28f?utm_campaign=1047&utm_source=git)** | Chicago, IL | Remote | Sep 28 |
 | **[Uline](http://www.uline.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68ceff2e846f0b04af67e514?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Sep 28 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Grid Automation Product Management Intern - Spring-Summer 2026](https://jobright.ai/jobs/info/689f34a779a9f96662554e28?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Sep 28 |
@@ -76,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68ca36a9f61c922772a74f07?utm_campaign=1047&utm_source=git)** | Waukegan, IL | On Site | Sep 27 |
 | **[CNA Insurance](http://www.cna.com)** | **[Technology Internship Program (Agile Product Design)](https://jobright.ai/jobs/info/68bb72945f3832749186f3a0?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Sep 27 |
 | **[SPX Technologies](http://www.spx.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/68ccd8d75954791a1d6ffa47?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Sep 27 |
-| **[Workiva](http://www.workiva.com)** | **[Spring & Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/68da60ac07c157682e569fdc?utm_campaign=1047&utm_source=git)** | United States | Remote | Sep 27 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: WiFi Product Team](https://jobright.ai/jobs/info/68bbc7938043103d4f22c6bc?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Sep 27 |
 | ↳ | **[2026 Summer Intern: Mobile Product](https://jobright.ai/jobs/info/68cf7327dbd9fb154ede7e82?utm_campaign=1047&utm_source=git)** | Stamford, CT | On Site | Sep 27 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[Ecommerce Development Intern](https://jobright.ai/jobs/info/68bb8d655f38327491870378?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Sep 27 |
@@ -139,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Product Management Intern (Summer 2026) - St. Louis, MO](https://jobright.ai/jobs/info/68ccfe405954791a1d70271b?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Sep 25 |
 | **[GiveDirectly](https://www.givedirectly.org/)** | **[Senior Product Manager, International Rapid Response Payment Systems](https://jobright.ai/jobs/info/689bcbd679a9f96662533c77?utm_campaign=1047&utm_source=git)** | New York, NY | Remote | Sep 25 |
 | **[Oatey Company](https://www.oatey.com//)** | **[Product Management Intern](https://jobright.ai/jobs/info/68c8e25695f5211cd2ceac3e?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Sep 25 |
-| **[RJ Schinner Co., Inc.](https://www.rjschinner.com/)** | **[Pricing & Product Data Intern](https://jobright.ai/jobs/info/68da4f356df7b8311bb0e6da?utm_campaign=1047&utm_source=git)** | Menomonee Falls, WI | On Site | Sep 25 |
 | **[Wipfli](http://www.wipfli.com)** | **[Product Development Internship-Summer 2026](https://jobright.ai/jobs/info/68c8510f983e6768bc54bb25?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Sep 24 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Product Manager Intern, Go-To-Market Operations (Winter/Spring 2026)](https://jobright.ai/jobs/info/68d4e07b8c62e63bc7fed55c?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Sep 24 |
 | **[Umbrage](http://umbrage.com)** | **[Product Manager Intern - Summer 2026](https://jobright.ai/jobs/info/68d4db508c62e63bc7fed3d3?utm_campaign=1047&utm_source=git)** | Houston, TX | Remote | Sep 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Specialist I (Intern) United States](https://jobright.ai/jobs/info/68d44674ffc1276de3fd9132?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 24 |
 | ↳ | **[Product Management Specialist I (Intern) United States](https://jobright.ai/jobs/info/68d4462affc1276de3fd9068?utm_campaign=1047&utm_source=git)** | RTP North Carolina, Atlanta Georgia, Austin Texas, San Francisco California,  Chicago Illinois, New York City New York, Richardson Texas, Virginia, Ohio, Remote US | Remote | Sep 24 |
 | ↳ | **[Product Management Specialist I (Intern) United States](https://jobright.ai/jobs/info/68d444f48c62e63bc7fe75fa?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Sep 24 |
+| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Global Product Development](https://jobright.ai/jobs/info/68b73de02124650c14020c15?utm_campaign=1047&utm_source=git)** | Pontiac, MI | Hybrid | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
