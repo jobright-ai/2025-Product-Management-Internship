@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[BakedBot AI](https://bakedbot.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68da160e6df7b8311bb0c28f?utm_campaign=1047&utm_source=git)** | Chicago, IL | Remote | Sep 28 |
+| **[Uline](http://www.uline.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68ceff2e846f0b04af67e514?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Sep 28 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Grid Automation Product Management Intern - Spring-Summer 2026](https://jobright.ai/jobs/info/689f34a779a9f96662554e28?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Sep 28 |
 | **[Upstart](https://upstart.com/about)** | **[Join our Product Talent Community!](https://jobright.ai/jobs/info/68d8ee5a061b716fa2959b8b?utm_campaign=1047&utm_source=git)** | United States | Remote | Sep 28 |
 | **[Apollo Global Management, Inc.](https://www.apollo.com)** | **[2026 Summer Associate, Product Management](https://jobright.ai/jobs/info/68ce98c9846f0b04af67b670?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Sep 27 |
@@ -75,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68ca36a9f61c922772a74f07?utm_campaign=1047&utm_source=git)** | Waukegan, IL | On Site | Sep 27 |
 | **[CNA Insurance](http://www.cna.com)** | **[Technology Internship Program (Agile Product Design)](https://jobright.ai/jobs/info/68bb72945f3832749186f3a0?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Sep 27 |
 | **[SPX Technologies](http://www.spx.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/68ccd8d75954791a1d6ffa47?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Sep 27 |
+| **[Workiva](http://www.workiva.com)** | **[Spring & Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/68da60ac07c157682e569fdc?utm_campaign=1047&utm_source=git)** | United States | Remote | Sep 27 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: WiFi Product Team](https://jobright.ai/jobs/info/68bbc7938043103d4f22c6bc?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Sep 27 |
 | ↳ | **[2026 Summer Intern: Mobile Product](https://jobright.ai/jobs/info/68cf7327dbd9fb154ede7e82?utm_campaign=1047&utm_source=git)** | Stamford, CT | On Site | Sep 27 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[Ecommerce Development Intern](https://jobright.ai/jobs/info/68bb8d655f38327491870378?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Sep 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Specialist I (Intern) United States](https://jobright.ai/jobs/info/68d44674ffc1276de3fd9132?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 24 |
 | ↳ | **[Product Management Specialist I (Intern) United States](https://jobright.ai/jobs/info/68d4462affc1276de3fd9068?utm_campaign=1047&utm_source=git)** | RTP North Carolina, Atlanta Georgia, Austin Texas, San Francisco California,  Chicago Illinois, New York City New York, Richardson Texas, Virginia, Ohio, Remote US | Remote | Sep 24 |
 | ↳ | **[Product Management Specialist I (Intern) United States](https://jobright.ai/jobs/info/68d444f48c62e63bc7fe75fa?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Sep 24 |
-| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Global Product Development](https://jobright.ai/jobs/info/68b73de02124650c14020c15?utm_campaign=1047&utm_source=git)** | Pontiac, MI | Hybrid | Sep 24 |
-| **[Align Technology](http://www.aligntech.com)** | **[Product Intern](https://jobright.ai/jobs/info/68d438038c62e63bc7fe6e5b?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
