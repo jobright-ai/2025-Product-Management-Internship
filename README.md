@@ -63,7 +63,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technical Product Management Summer 2026 Internship](https://jobright.ai/jobs/info/68db0c98e9b48513789b17ee?utm_campaign=1047&utm_source=git)** | Plano, TX | On Site | Sep 29 |
 | **[VanEck](http://www.vaneck.com/)** | **[ETF Product Management Summer Intern](https://jobright.ai/jobs/info/68daff806df7b8311bb154ae?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Sep 29 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Product Graduate Intern](https://jobright.ai/jobs/info/68dae8030dffed6f83d2a7b9?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Sep 29 |
-| ↳ | **[Comcast Product Graduate Intern](https://jobright.ai/jobs/info/68dae2ba0b832179ca4b2601?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Sep 29 |
+| ↳ | **[Comcast Product Graduate Intern](https://jobright.ai/jobs/info/68dae1d60b832179ca4b2444?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Sep 29 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Product Management, Print Development](https://jobright.ai/jobs/info/68d74e99e5293e3538af3d92?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Sep 29 |
 | **[CSAA Insurance Group, a AAA Insurer](https://csaa-insurance.aaa.com)** | **[Insurance Product Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68dadd466df7b8311bb1346c?utm_campaign=1047&utm_source=git)** | Glendale, Arizona | Hybrid | Sep 29 |
 | **[DriveTime](https://www.drivetime.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68dad9786df7b8311bb130c4?utm_campaign=1047&utm_source=git)** | Tempe, AZ | On Site | Sep 29 |
