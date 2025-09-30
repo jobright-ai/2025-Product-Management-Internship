@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Verizon](https://www.verizon.com)** | **[Irving V Teamer for a Day: Technical Product Management Summer Internship 2026](https://jobright.ai/jobs/info/68db0f0f0dffed6f83d2c3f9?utm_campaign=1047&utm_source=git)** | Plano, TX | On Site | Sep 29 |
+| ↳ | **[Technical Product Management Summer 2026 Internship](https://jobright.ai/jobs/info/68db0c98e9b48513789b17ee?utm_campaign=1047&utm_source=git)** | Plano, TX | On Site | Sep 29 |
+| **[VanEck](http://www.vaneck.com/)** | **[ETF Product Management Summer Intern](https://jobright.ai/jobs/info/68daff806df7b8311bb154ae?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Sep 29 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Product Graduate Intern](https://jobright.ai/jobs/info/68dae8030dffed6f83d2a7b9?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Sep 29 |
-| ↳ | **[Comcast Product Graduate Intern](https://jobright.ai/jobs/info/68dae2ba0b832179ca4b2601?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Sep 29 |
+| ↳ | **[Comcast Product Graduate Intern](https://jobright.ai/jobs/info/68dae1d60b832179ca4b2444?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Sep 29 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Product Management, Print Development](https://jobright.ai/jobs/info/68d74e99e5293e3538af3d92?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Sep 29 |
 | **[CSAA Insurance Group, a AAA Insurer](https://csaa-insurance.aaa.com)** | **[Insurance Product Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68dadd466df7b8311bb1346c?utm_campaign=1047&utm_source=git)** | Glendale, Arizona | Hybrid | Sep 29 |
 | **[DriveTime](https://www.drivetime.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68dad9786df7b8311bb130c4?utm_campaign=1047&utm_source=git)** | Tempe, AZ | On Site | Sep 29 |
@@ -66,8 +69,9 @@ For a complete list, click the following sortable link below:
 | **[DriveTime](https://www.drivetime.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68dab90407c157682e56ccec?utm_campaign=1047&utm_source=git)** | 1720 W Rio Salado Pkwy Tempe, AZ 85281 | On Site | Sep 29 |
 | **[Under Armour](http://underarmour.com)** | **[Summer 2026 Internship, Product Line Management 1](https://jobright.ai/jobs/info/68daac680b832179ca4afa5b?utm_campaign=1047&utm_source=git)** | Baltimore, MD | Hybrid | Sep 29 |
 | ↳ | **[Summer 2026 Internship, Product Development](https://jobright.ai/jobs/info/68daac0807c157682e56c369?utm_campaign=1047&utm_source=git)** | Baltimore, MD | Hybrid | Sep 29 |
+| **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Digital Product Manager Intern](https://jobright.ai/jobs/info/68db07510dffed6f83d2bf28?utm_campaign=1047&utm_source=git)** | Plymouth, MN | On Site | Sep 29 |
 | **[State Street](http://www.statestreet.com)** | **[Product Design Engineer, CO-OP](https://jobright.ai/jobs/info/68da9c026df7b8311bb0ff7b?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Sep 29 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Product Graduate Intern](https://jobright.ai/jobs/info/68da98ac0b832179ca4aeac1?utm_campaign=1047&utm_source=git)** | NY - New York, 1407 Broadway Floor 12 | On Site | Sep 29 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Product Graduate Intern](https://jobright.ai/jobs/info/68da98860b832179ca4aea6c?utm_campaign=1047&utm_source=git)** | NY - New York, 1407 Broadway Floor 12 | On Site | Sep 29 |
 | **[Packed Party](http://packedparty.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/68da97c56df7b8311bb0fd5a?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Sep 29 |
 | **[Uline](http://www.uline.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68c7bc5a369c3763c743b0a2?utm_campaign=1047&utm_source=git)** | Kenosha, WI | On Site | Sep 28 |
 | ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68ceff2e846f0b04af67e514?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Sep 28 |
@@ -75,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Upstart](https://upstart.com/about)** | **[Join our Product Talent Community!](https://jobright.ai/jobs/info/68d8ee5a061b716fa2959b8b?utm_campaign=1047&utm_source=git)** | United States | Remote | Sep 28 |
 | **[Apollo Global Management, Inc.](https://www.apollo.com)** | **[2026 Summer Associate, Product Management](https://jobright.ai/jobs/info/68ce98c9846f0b04af67b670?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Sep 27 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Product Strategist)](https://jobright.ai/jobs/info/68cedc56dbd9fb154ede3437?utm_campaign=1047&utm_source=git)** | Pensacola, FL | On Site | Sep 27 |
+| **[GALLO](https://www.gallo.com)** | **[Product Insights & Innovation Internship 2026 June - December](https://jobright.ai/jobs/info/68cdbae81ad6b16f0289e5ba?utm_campaign=1047&utm_source=git)** | Modesto, CA | On Site | Sep 27 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[ResX Technical Product Owner - Summer 2026 Intern](https://jobright.ai/jobs/info/68d85e81c9952514e1e95009?utm_campaign=1047&utm_source=git)** | Miami, FL | Hybrid | Sep 27 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern](https://jobright.ai/jobs/info/68c3adbf80e77b1fa6fcbfdc?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Sep 27 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68cc0cd416d00d2beeb18eac?utm_campaign=1047&utm_source=git)** | Elgin, IL | On Site | Sep 27 |
@@ -103,7 +108,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[MBA Product Intern - Summer 2026](https://jobright.ai/jobs/info/68d729b7d3fe025a3015f591?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Sep 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-PGC)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68d72727894705799a2f1169?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 26 |
 | **[Heatcraft Worldwide Refrigeration](http://www.heatcraftrpd.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68d71cb745853d0e39ccd044?utm_campaign=1047&utm_source=git)** | US-TX-Richardson | On Site | Sep 26 |
-| **[GALLO](https://www.gallo.com)** | **[Product Insights & Innovation Internship 2026](https://jobright.ai/jobs/info/68cdbae81ad6b16f0289e5ba?utm_campaign=1047&utm_source=git)** | Modesto, CA | On Site | Sep 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Seller Platform) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68ba3f1c6105227d1189c44d?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Sep 26 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Jr Product Owner - 2026 Summer Internship (Chicago Hybrid)](https://jobright.ai/jobs/info/68d723ce894705799a2f0e6d?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Sep 26 |
 | **[Five Below](http://www.fivebelow.com)** | **[Product Development Temp](https://jobright.ai/jobs/info/68d6f0dad3fe025a3015d447?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Sep 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hach](http://www.hach.com)** | **[Product Manager/Marketing Manager](https://jobright.ai/jobs/info/68d4f1a1e678d65ec7d898b0?utm_campaign=1047&utm_source=git)** | Loveland, CO | Hybrid | Sep 24 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast AI Product Intern](https://jobright.ai/jobs/info/68d62d244736ff202fdd0477?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | On Site | Sep 24 |
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Georgia-Pacific Business Analyst/Product Owner Internship - Summer 2026](https://jobright.ai/jobs/info/68b79da42124650c14024746?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Sep 24 |
-| **[EquiTrust Life Insurance Company](https://www.equitrust.com)** | **[Actuarial Intern (Product Management)](https://jobright.ai/jobs/info/68b745a71ade4306aa649661?utm_campaign=1047&utm_source=git)** | Des Moines Metro | Hybrid | Sep 24 |
-| **[Wipfli](http://www.wipfli.com)** | **[Product Development Internship-Summer 2026](https://jobright.ai/jobs/info/68d7711561a175619f8cda84?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 24 |
-| ↳ | **[Product Implementation Internship-Summer 2026](https://jobright.ai/jobs/info/68d0fe51f1976376178f191f?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Sep 24 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Recommend Product]-2026 Summer (MBA)](https://jobright.ai/jobs/info/68d4a6ac8c62e63bc7feb414?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
