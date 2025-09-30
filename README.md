@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crown Fund](Crownfund.co)** | **[Product Management Intern](https://jobright.ai/jobs/info/68dc210a66059a42a715bdab?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Sep 30 |
+| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/68dc1d0397329f2f77322aba?utm_campaign=1047&utm_source=git)** | Chelmsford, MA | Hybrid | Sep 30 |
 | **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Product Innovation Intern](https://jobright.ai/jobs/info/68dc0c51d6470e72cf4d8340?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | Remote | Sep 30 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Credit Card Experiences Product Manager)](https://jobright.ai/jobs/info/68dbfa2f6f6c5c3fadf3586d?utm_campaign=1047&utm_source=git)** | Pensacola, FL | Hybrid | Sep 30 |
 | **[Henkel](http://www.henkel.com)** | **[Hair Color Product Development Intern - Fall 2026 - Summer 2027](https://jobright.ai/jobs/info/68c8fc8695f5211cd2cecbc8?utm_campaign=1047&utm_source=git)** | Darien, CT | Hybrid | Sep 30 |
