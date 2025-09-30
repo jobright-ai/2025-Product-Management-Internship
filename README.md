@@ -59,7 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Intern [Global Monetization Product and Technology]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68db68d39f13662d20e4b0b9?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 29 |
 | ↳ | **[Global Product Strategist Intern-(MSO) 2026 Summer (MBA)](https://jobright.ai/jobs/info/68db68949f13662d20e4af85?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Sep 29 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Product Graduate Intern](https://jobright.ai/jobs/info/68db271f6df7b8311bb164ea?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Sep 29 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Product Graduate Intern](https://jobright.ai/jobs/info/68db285ae9b48513789b2292?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Sep 29 |
 | ↳ | **[Comcast Product Graduate Intern](https://jobright.ai/jobs/info/68db256d0dffed6f83d2cb0e?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Sep 29 |
 | **[Verizon](https://www.verizon.com)** | **[Irving V Teamer for a Day: Technical Product Management Summer Internship 2026](https://jobright.ai/jobs/info/68db0f0f0dffed6f83d2c3f9?utm_campaign=1047&utm_source=git)** | Plano, TX | On Site | Sep 29 |
 | ↳ | **[Technical Product Management Summer 2026 Internship](https://jobright.ai/jobs/info/68db0c98e9b48513789b17ee?utm_campaign=1047&utm_source=git)** | Plano, TX | On Site | Sep 29 |
