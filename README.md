@@ -75,6 +75,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Internship, Product Development](https://jobright.ai/jobs/info/68daac0807c157682e56c369?utm_campaign=1047&utm_source=git)** | Baltimore, MD | Hybrid | Sep 29 |
 | **[State Street](http://www.statestreet.com)** | **[Product Design Engineer, CO-OP](https://jobright.ai/jobs/info/68da9c026df7b8311bb0ff7b?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Sep 29 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Product Graduate Intern](https://jobright.ai/jobs/info/68da98ac0b832179ca4aeac1?utm_campaign=1047&utm_source=git)** | NY - New York, 1407 Broadway Floor 12 | On Site | Sep 29 |
+| **[Schaeffler](https://www.schaeffler.us)** | **[Co-Op - Product Management](https://jobright.ai/jobs/info/68d15c7dfa731f61692de32e?utm_campaign=1047&utm_source=git)** | Strongsville, OH | On Site | Sep 29 |
 | **[Uline](http://www.uline.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68c7bc5a369c3763c743b0a2?utm_campaign=1047&utm_source=git)** | Kenosha, WI | On Site | Sep 28 |
 | ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68ceff2e846f0b04af67e514?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Sep 28 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Grid Automation Product Management Intern - Spring-Summer 2026](https://jobright.ai/jobs/info/689f34a779a9f96662554e28?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Sep 28 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Product Management Intern (Summer 2026) - St. Louis, MO](https://jobright.ai/jobs/info/68ccfe405954791a1d70271b?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Sep 25 |
 | **[GiveDirectly](https://www.givedirectly.org/)** | **[Senior Product Manager, International Rapid Response Payment Systems](https://jobright.ai/jobs/info/689bcbd679a9f96662533c77?utm_campaign=1047&utm_source=git)** | New York, NY | Remote | Sep 25 |
 | **[Oatey Company](https://www.oatey.com//)** | **[Product Management Intern](https://jobright.ai/jobs/info/68c8e25695f5211cd2ceac3e?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Sep 25 |
+| **[Wipfli](http://www.wipfli.com)** | **[Product Development Internship-Summer 2026](https://jobright.ai/jobs/info/68b7945a1ade4306aa64c3e3?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | Hybrid | Sep 25 |
 | **[Wipfli](http://www.wipfli.com)** | **[Product Development Internship-Summer 2026](https://jobright.ai/jobs/info/68c8510f983e6768bc54bb25?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Sep 24 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Product Manager Intern, Go-To-Market Operations (Winter/Spring 2026)](https://jobright.ai/jobs/info/68d4e07b8c62e63bc7fed55c?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Sep 24 |
-| **[Umbrage](http://umbrage.com)** | **[Product Manager Intern - Summer 2026](https://jobright.ai/jobs/info/68d4db508c62e63bc7fed3d3?utm_campaign=1047&utm_source=git)** | Houston, TX | Remote | Sep 24 |
-| **[Hach](http://www.hach.com)** | **[Product Manager/Marketing Manager](https://jobright.ai/jobs/info/68d4f1a1e678d65ec7d898b0?utm_campaign=1047&utm_source=git)** | Loveland, CO | Hybrid | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
