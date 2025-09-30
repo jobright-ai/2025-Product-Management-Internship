@@ -59,13 +59,13 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Intern [Global Monetization Product and Technology]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68db68d39f13662d20e4b0b9?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Sep 29 |
 | ↳ | **[Global Product Strategist Intern-(MSO) 2026 Summer (MBA)](https://jobright.ai/jobs/info/68db68949f13662d20e4af85?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Sep 29 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Product Graduate Intern](https://jobright.ai/jobs/info/68db285ae9b48513789b2292?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Sep 29 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Product Graduate Intern](https://jobright.ai/jobs/info/68db271f6df7b8311bb164ea?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Sep 29 |
 | ↳ | **[Comcast Product Graduate Intern](https://jobright.ai/jobs/info/68db256d0dffed6f83d2cb0e?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Sep 29 |
 | **[Verizon](https://www.verizon.com)** | **[Irving V Teamer for a Day: Technical Product Management Summer Internship 2026](https://jobright.ai/jobs/info/68db0f0f0dffed6f83d2c3f9?utm_campaign=1047&utm_source=git)** | Plano, TX | On Site | Sep 29 |
 | ↳ | **[Technical Product Management Summer 2026 Internship](https://jobright.ai/jobs/info/68db0c98e9b48513789b17ee?utm_campaign=1047&utm_source=git)** | Plano, TX | On Site | Sep 29 |
 | **[VanEck](http://www.vaneck.com/)** | **[ETF Product Management Summer Intern](https://jobright.ai/jobs/info/68daff806df7b8311bb154ae?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Sep 29 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Product Graduate Intern](https://jobright.ai/jobs/info/68dae8030dffed6f83d2a7b9?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Sep 29 |
-| ↳ | **[Comcast Product Graduate Intern](https://jobright.ai/jobs/info/68dae2ba0b832179ca4b2601?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Sep 29 |
+| ↳ | **[Comcast Product Graduate Intern](https://jobright.ai/jobs/info/68dae1d60b832179ca4b2444?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Sep 29 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Product Management, Print Development](https://jobright.ai/jobs/info/68d74e99e5293e3538af3d92?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Sep 29 |
 | **[CSAA Insurance Group, a AAA Insurer](https://csaa-insurance.aaa.com)** | **[Insurance Product Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68dadd466df7b8311bb1346c?utm_campaign=1047&utm_source=git)** | Glendale, Arizona | Hybrid | Sep 29 |
 | **[DriveTime](https://www.drivetime.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68dad9786df7b8311bb130c4?utm_campaign=1047&utm_source=git)** | Tempe, AZ | On Site | Sep 29 |
@@ -74,7 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Under Armour](http://underarmour.com)** | **[Summer 2026 Internship, Product Line Management 1](https://jobright.ai/jobs/info/68daac680b832179ca4afa5b?utm_campaign=1047&utm_source=git)** | Baltimore, MD | Hybrid | Sep 29 |
 | ↳ | **[Summer 2026 Internship, Product Development](https://jobright.ai/jobs/info/68daac0807c157682e56c369?utm_campaign=1047&utm_source=git)** | Baltimore, MD | Hybrid | Sep 29 |
 | **[State Street](http://www.statestreet.com)** | **[Product Design Engineer, CO-OP](https://jobright.ai/jobs/info/68da9c026df7b8311bb0ff7b?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Sep 29 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Product Graduate Intern](https://jobright.ai/jobs/info/68da98860b832179ca4aea6c?utm_campaign=1047&utm_source=git)** | NY - New York, 1407 Broadway Floor 12 | On Site | Sep 29 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Product Graduate Intern](https://jobright.ai/jobs/info/68da98ac0b832179ca4aeac1?utm_campaign=1047&utm_source=git)** | NY - New York, 1407 Broadway Floor 12 | On Site | Sep 29 |
 | **[Uline](http://www.uline.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68c7bc5a369c3763c743b0a2?utm_campaign=1047&utm_source=git)** | Kenosha, WI | On Site | Sep 28 |
 | ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68ceff2e846f0b04af67e514?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Sep 28 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Grid Automation Product Management Intern - Spring-Summer 2026](https://jobright.ai/jobs/info/689f34a779a9f96662554e28?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Sep 28 |
