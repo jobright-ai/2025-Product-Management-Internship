@@ -40,7 +40,7 @@
 
 ---
 <h4>
-Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">7</span> days are listed due to capacity constraints.
+Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">14</span> days are listed due to capacity constraints.
 <br>
 For a complete list, click the following sortable link below:
 </h4>
@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[United Airlines](https://www.united.com)** | **[Intern - United for Business Product Development (Summer 2026)](https://jobright.ai/jobs/info/68dcaf56a125e75c422a3fbe?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Sep 30 |
+| **[GALLO](https://www.gallo.com)** | **[Product Insights & Innovation Internship 2026 June - December](https://jobright.ai/jobs/info/68cdbae81ad6b16f0289e5ba?utm_campaign=1047&utm_source=git)** | Modesto, CA | On Site | Sep 30 |
 | **[Epic Games](https://epicgames.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/68dc880eddc10244dd676468?utm_campaign=1047&utm_source=git)** | Cary, NC | On Site | Sep 30 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Mass Market Strategy Business Intern   - MN, CO, WI](https://jobright.ai/jobs/info/68dc838aaccfd24b67e563a3?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | On Site | Sep 30 |
 | ↳ | **[Mass Market Strategy Business Intern   - MN, CO, WI](https://jobright.ai/jobs/info/68dc7c63a125e75c422a119b?utm_campaign=1047&utm_source=git)** | Eau Claire, WI | On Site | Sep 30 |
@@ -67,14 +68,13 @@ For a complete list, click the following sortable link below:
 | **[GoFundMe](http://www.gofundme.com)** | **[Product Management Internship (MBA)](https://jobright.ai/jobs/info/68dc5fa9accfd24b67e54e45?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Sep 30 |
 | **[Epic Games](https://epicgames.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/68dc5c4addc10244dd674a95?utm_campaign=1047&utm_source=git)** | Cary,North Carolina,United States | On Site | Sep 30 |
 | **[Macy's](http://www.macysjobs.com)** | **[Macy's 2026 Summer Internship - Product Development](https://jobright.ai/jobs/info/68dc8b37accfd24b67e567c8?utm_campaign=1047&utm_source=git)** | 151 West 34th Street, New York, NY, 10001, US | On Site | Sep 30 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Mass Market Strategy Business Intern   - MN, CO, WI](https://jobright.ai/jobs/info/68dc7db8ddc10244dd67614d?utm_campaign=1047&utm_source=git)** | Eau Claire, WI, 54701 | On Site | Sep 30 |
-| ↳ | **[Mass Market Strategy Business Intern   - MN, CO, WI](https://jobright.ai/jobs/info/68dc7dbba125e75c422a16c9?utm_campaign=1047&utm_source=git)** | Denver, CO, 80205 | On Site | Sep 30 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Mass Market Strategy Business Intern   - MN, CO, WI](https://jobright.ai/jobs/info/68dc7dbba125e75c422a16c9?utm_campaign=1047&utm_source=git)** | Denver, CO, 80205 | On Site | Sep 30 |
+| ↳ | **[Mass Market Strategy Business Intern   - MN, CO, WI](https://jobright.ai/jobs/info/68dc7db8ddc10244dd67614d?utm_campaign=1047&utm_source=git)** | Eau Claire, WI, 54701 | On Site | Sep 30 |
 | ↳ | **[Mass Market Strategy Business Intern   - MN, CO, WI](https://jobright.ai/jobs/info/68dc7d26accfd24b67e55f49?utm_campaign=1047&utm_source=git)** | Minneapolis, MN, 55401 | On Site | Sep 30 |
 | **[Watts Water Technologies](https://www.watts.com)** | **[UI/UX Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/68dc7d26ddc10244dd675f00?utm_campaign=1047&utm_source=git)** | Blauvelt, NY | On Site | Sep 30 |
 | **[Nestlé](https://www.nestle.com)** | **[Nestlé Product Development Intern](https://jobright.ai/jobs/info/68dc4027a125e75c4229ece6?utm_campaign=1047&utm_source=git)** | Arlington, VA | On Site | Sep 30 |
 | ↳ | **[Nestlé Product Development Intern](https://jobright.ai/jobs/info/68dc3f69a125e75c4229eb4c?utm_campaign=1047&utm_source=git)** | Solon, OH | On Site | Sep 30 |
 | **[United Airlines](https://www.united.com)** | **[Intern - United for Business Product Development (Summer 2026)](https://jobright.ai/jobs/info/68dc7ccba125e75c422a1319?utm_campaign=1047&utm_source=git)** | United States-IL-WHQ - Chicago - Corporate Support Center - Willis Tower | On Site | Sep 30 |
-| **[enGen](https://goengen.com)** | **[Summer 2026 Associate Product Owner Undergraduate Intern](https://jobright.ai/jobs/info/68dc3875731a8047320678e4?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Sep 30 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate IT Product Intern - Summer 2026](https://jobright.ai/jobs/info/68dc7d6fa125e75c422a158b?utm_campaign=1047&utm_source=git)** | 379 Interpace Pkwy, Parsippany, 07054 | On Site | Sep 30 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/68dc1d0397329f2f77322aba?utm_campaign=1047&utm_source=git)** | Chelmsford, MA | Hybrid | Sep 30 |
 | **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Product Innovation Intern](https://jobright.ai/jobs/info/68dc0c51d6470e72cf4d8340?utm_campaign=1047&utm_source=git)** | Philadelphia, PA | Remote | Sep 30 |
@@ -84,7 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[Hair Color Product Development Intern - Fall 2026 - Summer 2027](https://jobright.ai/jobs/info/68c8fc8695f5211cd2cecbc8?utm_campaign=1047&utm_source=git)** | Darien, CT | Hybrid | Sep 30 |
 | **[Cox Enterprises](http://coxenterprises.com)** | **[Product Management MBA Intern- Summer 2026](https://jobright.ai/jobs/info/68dc3a20b3249156189626da?utm_campaign=1047&utm_source=git)** | Long Island NY | Hybrid | Sep 30 |
 | ↳ | **[Product Management MBA Intern- Summer 2026](https://jobright.ai/jobs/info/68dc39f9a271e745b8a7cfa1?utm_campaign=1047&utm_source=git)** | Atlanta GA | Hybrid | Sep 30 |
-| **[HNI Workplace Furnishings, LLC](https://www.hnicorp.com/careers)** | **[Intern - Product Management - Summer 2026](https://jobright.ai/jobs/info/68dcdc73ddc10244dd67aff6?utm_campaign=1047&utm_source=git)** | Muscatine, IA | Hybrid | Sep 30 |
-| **[GALLO](https://www.gallo.com)** | **[Product Insights & Innovation Internship 2026 June - December](https://jobright.ai/jobs/info/68cdbae81ad6b16f0289e5ba?utm_campaign=1047&utm_source=git)** | Modesto, CA | On Site | Sep 27 |
+| **[Stellantis](https://www.stellantis.com/)** | **[2026 Product Design Office (PDO) Business Planning Summer Internship](https://jobright.ai/jobs/info/68dcf5e8ddc10244dd67bd74?utm_campaign=1047&utm_source=git)** | Auburn Hills, MI | Hybrid | Sep 28 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 LAUNCH Program: Data Science Product Manager Intern](https://jobright.ai/jobs/info/68dca5e8a125e75c422a3876?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Sep 26 |
+| **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Digital Product Intern](https://jobright.ai/jobs/info/68dcdc0bddc10244dd67ae80?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Sep 24 |
+| **[Dart Container](https://www.dartcontainer.com)** | **[Product Line and Trade Management Intern](https://jobright.ai/jobs/info/68dcd21faccfd24b67e5a621?utm_campaign=1047&utm_source=git)** | Mason, MI | On Site | Sep 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
