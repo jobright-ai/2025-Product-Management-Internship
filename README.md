@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[United Airlines](https://www.united.com)** | **[Intern - United for Business Product Development (Summer 2026)](https://jobright.ai/jobs/info/68dcaf56a125e75c422a3fbe?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Sep 30 |
 | **[Epic Games](https://epicgames.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/68dc880eddc10244dd676468?utm_campaign=1047&utm_source=git)** | Cary, NC | On Site | Sep 30 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Mass Market Strategy Business Intern   - MN, CO, WI](https://jobright.ai/jobs/info/68dc838aaccfd24b67e563a3?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | On Site | Sep 30 |
 | ↳ | **[Mass Market Strategy Business Intern   - MN, CO, WI](https://jobright.ai/jobs/info/68dc7c63a125e75c422a119b?utm_campaign=1047&utm_source=git)** | Eau Claire, WI | On Site | Sep 30 |
@@ -81,9 +82,9 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Credit Card Experiences Product Manager)](https://jobright.ai/jobs/info/68dbfa2f6f6c5c3fadf3586d?utm_campaign=1047&utm_source=git)** | Pensacola, FL | Hybrid | Sep 30 |
 | **[Watts Water Technologies](https://www.watts.com)** | **[Product Specialist Intern, Summer 2026](https://jobright.ai/jobs/info/68dc5f0da125e75c422a01ef?utm_campaign=1047&utm_source=git)** | Fort Worth, TX | On Site | Sep 30 |
 | **[Henkel](http://www.henkel.com)** | **[Hair Color Product Development Intern - Fall 2026 - Summer 2027](https://jobright.ai/jobs/info/68c8fc8695f5211cd2cecbc8?utm_campaign=1047&utm_source=git)** | Darien, CT | Hybrid | Sep 30 |
-| **[Cox Enterprises](http://coxenterprises.com)** | **[Product Management MBA Intern- Summer 2026](https://jobright.ai/jobs/info/68dc3a20b3249156189626da?utm_campaign=1047&utm_source=git)** | Long Island NY | Hybrid | Sep 30 |
-| ↳ | **[Product Management MBA Intern- Summer 2026](https://jobright.ai/jobs/info/68dc39f9a271e745b8a7cfa1?utm_campaign=1047&utm_source=git)** | Atlanta GA | Hybrid | Sep 30 |
+| **[Cox Enterprises](http://coxenterprises.com)** | **[Product Management MBA Intern- Summer 2026](https://jobright.ai/jobs/info/68dc39f9a271e745b8a7cfa1?utm_campaign=1047&utm_source=git)** | Atlanta GA | Hybrid | Sep 30 |
+| ↳ | **[Product Management MBA Intern- Summer 2026](https://jobright.ai/jobs/info/68dc3a20b3249156189626da?utm_campaign=1047&utm_source=git)** | Long Island NY | Hybrid | Sep 30 |
 | **[GALLO](https://www.gallo.com)** | **[Product Insights & Innovation Internship 2026 June - December](https://jobright.ai/jobs/info/68cdbae81ad6b16f0289e5ba?utm_campaign=1047&utm_source=git)** | Modesto, CA | On Site | Sep 27 |
-| **[Ibotta](https://home.ibotta.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/68d7574b7a37c712687c9539?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Sep 26 |
+| **[Red Ventures](http://www.redventures.com)** | **[2026 LAUNCH Program: Data Science Product Manager Intern](https://jobright.ai/jobs/info/68dca5e8a125e75c422a3876?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Sep 26 |
 | **[Baker Hughes](https://www.bakerhughes.com/)** | **[Product Management - Spring Co-op Internship (Skaneateles, NY) 2026 Opportunities](https://jobright.ai/jobs/info/68dc4f6fddc10244dd67417a?utm_campaign=1047&utm_source=git)** | US-NY-SKANEATELES-721 VISIONS DRIVE | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
