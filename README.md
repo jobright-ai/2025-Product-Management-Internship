@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lifetime Benefit Solutions, Inc.](http://lifetimebenefitsolutions.com)** | **[College Intern I - Summer 2026 - Product Implementation](https://jobright.ai/jobs/info/68ddb5e9ddc10244dd683388?utm_campaign=1047&utm_source=git)** | Binghamton, NY | On Site | Oct 01 |
+| ↳ | **[College Intern I - Summer 2026 - Product Implementation](https://jobright.ai/jobs/info/68ddb5bbddc10244dd6832f7?utm_campaign=1047&utm_source=git)** | Buffalo, NY | On Site | Oct 01 |
+| ↳ | **[College Intern I - Summer 2026 - Product Implementation](https://jobright.ai/jobs/info/68ddb5bbddc10244dd6832f6?utm_campaign=1047&utm_source=git)** | Utica, NY | On Site | Oct 01 |
+| ↳ | **[College Intern I - Summer 2026 - Product Implementation](https://jobright.ai/jobs/info/68ddb5adddc10244dd6832c8?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Oct 01 |
+| ↳ | **[College Intern I - Summer 2026 - Product Implementation](https://jobright.ai/jobs/info/68ddb4eba125e75c422ae702?utm_campaign=1047&utm_source=git)** | Elmira, NY | On Site | Oct 01 |
+| ↳ | **[College Intern I - Summer 2026 - Product Implementation](https://jobright.ai/jobs/info/68ddb2b044d32141e0bfa545?utm_campaign=1047&utm_source=git)** | DeWitt, NY | On Site | Oct 01 |
 | **[Duolingo](https://www.duolingo.com)** | **[Product Manager, MBA Intern](https://jobright.ai/jobs/info/68dd8b3844d32141e0bf7d4a?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Oct 01 |
 | **[Community Economic Defense Project](https://www.cedproject.org)** | **[ Associate Product Management Intern/Co-op, New Ventures  ](https://jobright.ai/jobs/info/68dd837944d32141e0bf7667?utm_campaign=1047&utm_source=git)** | United States | Remote | Oct 01 |
 | **[Duolingo](https://www.duolingo.com)** | **[Product Manager, Intern (Masters/MBA)](https://jobright.ai/jobs/info/68dd7b2844d32141e0bf7116?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Oct 01 |
