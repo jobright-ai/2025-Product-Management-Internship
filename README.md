@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Total Quality Logistics](http://www.tql.com/)** | **[Product Manager](https://jobright.ai/jobs/info/68deb85ba125e75c422b6047?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | Hybrid | Oct 02 |
+| **[Koch](https://www.kochinc.com)** | **[Summer 2026 - Business Systems Analyst/Product Analyst Internship](https://jobright.ai/jobs/info/68deb00da125e75c422b5c10?utm_campaign=1047&utm_source=git)** | Wichita, KS | On Site | Oct 02 |
 | **[Quantum Pulse Consulting](https://qpulse.tech/case-studies/)** | **[General Intern](https://jobright.ai/jobs/info/68de627fa125e75c422b4200?utm_campaign=1047&utm_source=git)** | United States | Remote | Oct 02 |
+| **[HARTING Technology Group](https://www.harting.com/)** | **[Product Manager (Engineering) Intern (Summer 2026)](https://jobright.ai/jobs/info/68dcdd7caccfd24b67e5b0bd?utm_campaign=1047&utm_source=git)** | Elgin, IL | On Site | Oct 02 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68de41dc09bda65a4b62891e?utm_campaign=1047&utm_source=git)** | Redwood City, CA | Hybrid | Oct 02 |
 | **[Walturn](https://www.walturn.com)** | **[Tech Analyst - Intern](https://jobright.ai/jobs/info/68de37cda125e75c422b2786?utm_campaign=1047&utm_source=git)** | Princeton, NJ | Remote | Oct 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Signature Experiences,  Product Strategy and Planning Intern, Summer 2026](https://jobright.ai/jobs/info/68de00f4a125e75c422b0f3b?utm_campaign=1047&utm_source=git)** | Celebration, FL, USA | On Site | Oct 01 |
@@ -71,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Snippd. Inc](www.snippd.me)** | **[Retail Grocery Product Development & Marketing](https://jobright.ai/jobs/info/68de974209bda65a4b62ba58?utm_campaign=1047&utm_source=git)** | United States | On Site | Oct 01 |
 | **[Duolingo for Schools](schools.duolingo.com)** | **[Associate Product Manager, Recent Grad](https://jobright.ai/jobs/info/68ddbf1bddc10244dd683705?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Oct 01 |
 | **[Lifetime Benefit Solutions, Inc.](http://lifetimebenefitsolutions.com)** | **[College Intern I - Summer 2026 - Product Implementation](https://jobright.ai/jobs/info/68ddb5e9ddc10244dd683388?utm_campaign=1047&utm_source=git)** | Binghamton, NY | On Site | Oct 01 |
-| ↳ | **[College Intern I - Summer 2026 - Product Implementation](https://jobright.ai/jobs/info/68ddb5bbddc10244dd6832f6?utm_campaign=1047&utm_source=git)** | Utica, NY | On Site | Oct 01 |
 | ↳ | **[College Intern I - Summer 2026 - Product Implementation](https://jobright.ai/jobs/info/68ddb5bbddc10244dd6832f7?utm_campaign=1047&utm_source=git)** | Buffalo, NY | On Site | Oct 01 |
+| ↳ | **[College Intern I - Summer 2026 - Product Implementation](https://jobright.ai/jobs/info/68ddb5bbddc10244dd6832f6?utm_campaign=1047&utm_source=git)** | Utica, NY | On Site | Oct 01 |
 | ↳ | **[College Intern I - Summer 2026 - Product Implementation](https://jobright.ai/jobs/info/68ddb5adddc10244dd6832c8?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Oct 01 |
 | ↳ | **[College Intern I - Summer 2026 - Product Implementation](https://jobright.ai/jobs/info/68ddb4eba125e75c422ae702?utm_campaign=1047&utm_source=git)** | Elmira, NY | On Site | Oct 01 |
 | ↳ | **[College Intern I - Summer 2026 - Product Implementation](https://jobright.ai/jobs/info/68ddb2b044d32141e0bfa545?utm_campaign=1047&utm_source=git)** | DeWitt, NY | On Site | Oct 01 |
@@ -101,9 +104,9 @@ For a complete list, click the following sortable link below:
 | **[GoFundMe](http://www.gofundme.com)** | **[Product Management Internship (MBA)](https://jobright.ai/jobs/info/68dc5fa9accfd24b67e54e45?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Sep 30 |
 | **[Epic Games](https://epicgames.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/68dc5c4addc10244dd674a95?utm_campaign=1047&utm_source=git)** | Cary,North Carolina,United States | On Site | Sep 30 |
 | **[Macy's](http://www.macysjobs.com)** | **[Macy's 2026 Summer Internship - Product Development](https://jobright.ai/jobs/info/68dc8b37accfd24b67e567c8?utm_campaign=1047&utm_source=git)** | 151 West 34th Street, New York, NY, 10001, US | On Site | Sep 30 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Mass Market Strategy Business Intern   - MN, CO, WI](https://jobright.ai/jobs/info/68dc7db8ddc10244dd67614d?utm_campaign=1047&utm_source=git)** | Eau Claire, WI, 54701 | On Site | Sep 30 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Mass Market Strategy Business Intern   - MN, CO, WI](https://jobright.ai/jobs/info/68dc7d26accfd24b67e55f49?utm_campaign=1047&utm_source=git)** | Minneapolis, MN, 55401 | On Site | Sep 30 |
+| ↳ | **[Mass Market Strategy Business Intern   - MN, CO, WI](https://jobright.ai/jobs/info/68dc7db8ddc10244dd67614d?utm_campaign=1047&utm_source=git)** | Eau Claire, WI, 54701 | On Site | Sep 30 |
 | ↳ | **[Mass Market Strategy Business Intern   - MN, CO, WI](https://jobright.ai/jobs/info/68dc7dbba125e75c422a16c9?utm_campaign=1047&utm_source=git)** | Denver, CO, 80205 | On Site | Sep 30 |
-| ↳ | **[Mass Market Strategy Business Intern   - MN, CO, WI](https://jobright.ai/jobs/info/68dc7d26accfd24b67e55f49?utm_campaign=1047&utm_source=git)** | Minneapolis, MN, 55401 | On Site | Sep 30 |
 | **[Watts Water Technologies](https://www.watts.com)** | **[UI/UX Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/68dc7d26ddc10244dd675f00?utm_campaign=1047&utm_source=git)** | Blauvelt, NY | On Site | Sep 30 |
 | **[Nestlé](https://www.nestle.com)** | **[Nestlé Product Development Intern](https://jobright.ai/jobs/info/68dc4027a125e75c4229ece6?utm_campaign=1047&utm_source=git)** | Arlington, VA | On Site | Sep 30 |
 | ↳ | **[Nestlé Product Development Intern](https://jobright.ai/jobs/info/68dc3f69a125e75c4229eb4c?utm_campaign=1047&utm_source=git)** | Solon, OH | On Site | Sep 30 |
