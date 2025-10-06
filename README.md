@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68e2c93bf758fe1f97e5ac16?utm_campaign=1047&utm_source=git)** | Andover, Massachusetts, United States of America | Hybrid | Oct 05 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Consumer Products Sustainability Strategy Intern, Spring 2026](https://jobright.ai/jobs/info/68e300961852e62f007f8bfe?utm_campaign=1047&utm_source=git)** | Kissimmee, FL, USA | Hybrid | Oct 05 |
+| **[Esurgi, Inc.](https://myesurgi.com/)** | **[Entrepreneurship/Product Management Student Intern](https://jobright.ai/jobs/info/68e2fb391852e62f007f8bd2?utm_campaign=1047&utm_source=git)** | Maryland, United States | Remote | Oct 05 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68e2f306b99ec3563b0dd2b4?utm_campaign=1047&utm_source=git)** | Roseville, CA | Hybrid | Oct 05 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68e2f304f758fe1f97e5b11e?utm_campaign=1047&utm_source=git)** | Chippewa Falls, WI | Hybrid | Oct 05 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68e2f2d4b99ec3563b0dd29e?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Oct 05 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68e2f2bab99ec3563b0dd294?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Oct 05 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68e2efb6f758fe1f97e5b0c7?utm_campaign=1047&utm_source=git)** | Bloomington, MN | Hybrid | Oct 05 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68e2ef4e1852e62f007f8ac5?utm_campaign=1047&utm_source=git)** | Andover, MA | Hybrid | Oct 05 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68e2c93bf758fe1f97e5ac16?utm_campaign=1047&utm_source=git)** | Andover, Massachusetts, United States of America | Hybrid | Oct 05 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68e2c939b99ec3563b0dcd7b?utm_campaign=1047&utm_source=git)** | San Jose, California, United States of America | Hybrid | Oct 05 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68e2c937b99ec3563b0dcd79?utm_campaign=1047&utm_source=git)** | Chippewa Falls, Wisconsin, United States of America | Hybrid | Oct 05 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68e2c937b99ec3563b0dcd78?utm_campaign=1047&utm_source=git)** | Roseville, California, United States of America | Hybrid | Oct 05 |
@@ -113,8 +121,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Product Manager, Recent Grad](https://jobright.ai/jobs/info/68ddbf1bddc10244dd683705?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Oct 01 |
 | **[Univera Healthcare](https://www.univerahealthcare.com)** | **[College Intern I - Summer 2026 - Product Implementation](https://jobright.ai/jobs/info/68ddc1ffddc10244dd683796?utm_campaign=1047&utm_source=git)** | Buffalo, NY | On Site | Oct 01 |
 | **[Lifetime Benefit Solutions, Inc.](http://lifetimebenefitsolutions.com)** | **[College Intern I - Summer 2026 - Product Implementation](https://jobright.ai/jobs/info/68ddb5e9ddc10244dd683388?utm_campaign=1047&utm_source=git)** | Binghamton, NY | On Site | Oct 01 |
-| ↳ | **[College Intern I - Summer 2026 - Product Implementation](https://jobright.ai/jobs/info/68ddb5bbddc10244dd6832f7?utm_campaign=1047&utm_source=git)** | Buffalo, NY | On Site | Oct 01 |
 | ↳ | **[College Intern I - Summer 2026 - Product Implementation](https://jobright.ai/jobs/info/68ddb5bbddc10244dd6832f6?utm_campaign=1047&utm_source=git)** | Utica, NY | On Site | Oct 01 |
+| ↳ | **[College Intern I - Summer 2026 - Product Implementation](https://jobright.ai/jobs/info/68ddb5bbddc10244dd6832f7?utm_campaign=1047&utm_source=git)** | Buffalo, NY | On Site | Oct 01 |
 | ↳ | **[College Intern I - Summer 2026 - Product Implementation](https://jobright.ai/jobs/info/68ddb5adddc10244dd6832c8?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Oct 01 |
 | ↳ | **[College Intern I - Summer 2026 - Product Implementation](https://jobright.ai/jobs/info/68ddb4eba125e75c422ae702?utm_campaign=1047&utm_source=git)** | Elmira, NY | On Site | Oct 01 |
 | ↳ | **[College Intern I - Summer 2026 - Product Implementation](https://jobright.ai/jobs/info/68ddb2b044d32141e0bfa545?utm_campaign=1047&utm_source=git)** | DeWitt, NY | On Site | Oct 01 |
@@ -138,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Epic Games](https://epicgames.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/68dc5c4addc10244dd674a95?utm_campaign=1047&utm_source=git)** | Cary,North Carolina,United States | On Site | Sep 30 |
 | **[Macy's](http://www.macysjobs.com)** | **[Macy's 2026 Summer Internship - Product Development](https://jobright.ai/jobs/info/68dc8b37accfd24b67e567c8?utm_campaign=1047&utm_source=git)** | 151 West 34th Street, New York, NY, 10001, US | On Site | Sep 30 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Mass Market Strategy Business Intern   - MN, CO, WI](https://jobright.ai/jobs/info/68dc7db8ddc10244dd67614d?utm_campaign=1047&utm_source=git)** | Eau Claire, WI, 54701 | On Site | Sep 30 |
-| ↳ | **[Mass Market Strategy Business Intern   - MN, CO, WI](https://jobright.ai/jobs/info/68dc7d26accfd24b67e55f49?utm_campaign=1047&utm_source=git)** | Minneapolis, MN, 55401 | On Site | Sep 30 |
 | ↳ | **[Mass Market Strategy Business Intern   - MN, CO, WI](https://jobright.ai/jobs/info/68dc7dbba125e75c422a16c9?utm_campaign=1047&utm_source=git)** | Denver, CO, 80205 | On Site | Sep 30 |
+| ↳ | **[Mass Market Strategy Business Intern   - MN, CO, WI](https://jobright.ai/jobs/info/68dc7d26accfd24b67e55f49?utm_campaign=1047&utm_source=git)** | Minneapolis, MN, 55401 | On Site | Sep 30 |
 | **[Watts Water Technologies](https://www.watts.com)** | **[UI/UX Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/68dc7d26ddc10244dd675f00?utm_campaign=1047&utm_source=git)** | Blauvelt, NY | On Site | Sep 30 |
 | **[Nestlé](https://www.nestle.com)** | **[Nestlé Product Development Intern](https://jobright.ai/jobs/info/68dc4027a125e75c4229ece6?utm_campaign=1047&utm_source=git)** | Arlington, VA | On Site | Sep 30 |
 | ↳ | **[Nestlé Product Development Intern](https://jobright.ai/jobs/info/68dc3f69a125e75c4229eb4c?utm_campaign=1047&utm_source=git)** | Solon, OH | On Site | Sep 30 |
@@ -149,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/68dc1d0397329f2f77322aba?utm_campaign=1047&utm_source=git)** | Chelmsford, MA | Hybrid | Sep 30 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Associate Product Owner Undergraduate Intern](https://jobright.ai/jobs/info/68dc5edfa125e75c422a0160?utm_campaign=1047&utm_source=git)** | Pittsburgh PA, 15222, PAP, Penn Avenue Place | Hybrid | Sep 30 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Credit Card Experiences Product Manager)](https://jobright.ai/jobs/info/68dbfa2f6f6c5c3fadf3586d?utm_campaign=1047&utm_source=git)** | Pensacola, FL | Hybrid | Sep 30 |
-| **[Watts Water Technologies](https://www.watts.com)** | **[Product Specialist Intern, Summer 2026](https://jobright.ai/jobs/info/68dc5f0da125e75c422a01ef?utm_campaign=1047&utm_source=git)** | Fort Worth, TX | On Site | Sep 30 |
-| **[Henkel](http://www.henkel.com)** | **[Hair Color Product Development Intern - Fall 2026 - Summer 2027](https://jobright.ai/jobs/info/68c8fc8695f5211cd2cecbc8?utm_campaign=1047&utm_source=git)** | Darien, CT | Hybrid | Sep 30 |
-| **[Cox Enterprises](http://coxenterprises.com)** | **[Product Management MBA Intern- Summer 2026](https://jobright.ai/jobs/info/68dc39f9a271e745b8a7cfa1?utm_campaign=1047&utm_source=git)** | Atlanta GA | Hybrid | Sep 30 |
-| ↳ | **[Product Management MBA Intern- Summer 2026](https://jobright.ai/jobs/info/68dc3a20b3249156189626da?utm_campaign=1047&utm_source=git)** | Long Island NY | Hybrid | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
