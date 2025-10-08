@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Development Intern, Shark (May to August)](https://jobright.ai/jobs/info/68cbfb80128dc347fd91cc8f?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Oct 08 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Product Development Co-op, Shark (January through June)](https://jobright.ai/jobs/info/68ae994903c5f15c2fd8a42d?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Oct 08 |
+| ↳ | **[Summer 2026: Product Development Intern, Shark (May to August)](https://jobright.ai/jobs/info/68cbfb80128dc347fd91cc8f?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Oct 08 |
 | **[HeyGen](https://www.heygen.com)** | **[Product Manager, New Graduate](https://jobright.ai/jobs/info/68e5ff891852e62f0081708a?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Oct 07 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Agency Operations Support Intern – Summer 2026](https://jobright.ai/jobs/info/68e5b838e8daec61499a3de5?utm_campaign=1047&utm_source=git)** | West Des Moines, IA, US | On Site | Oct 07 |
 | **[PennEngineering®](http://www.pemnet.com/)** | **[New Product Development Intern - Summer 2026](https://jobright.ai/jobs/info/68e5983e1852e62f00812944?utm_campaign=1047&utm_source=git)** | Danboro, PA | On Site | Oct 07 |
@@ -76,9 +77,9 @@ For a complete list, click the following sortable link below:
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Product Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68e4219cf758fe1f97e6444a?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Oct 07 |
 | **[GALLO](https://www.gallo.com)** | **[Product Insights & Innovation Internship 2026 June - December](https://jobright.ai/jobs/info/68cdbae81ad6b16f0289e5ba?utm_campaign=1047&utm_source=git)** | Modesto, CA | On Site | Oct 06 |
 | **[DriveWealth](https://drivewealth.com)** | **[Summer 2026 Intern, Product](https://jobright.ai/jobs/info/68e482e81852e62f00806ac7?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 06 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Business & Product Strategy Intern](https://jobright.ai/jobs/info/68e47cc5b99ec3563b0ead2d?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 06 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Product Intern](https://jobright.ai/jobs/info/68e47db3b99ec3563b0eae11?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 06 |
+| ↳ | **[Summer 2026 Internship - Business & Product Strategy Intern](https://jobright.ai/jobs/info/68e47cc5b99ec3563b0ead2d?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 06 |
 | ↳ | **[Summer 2026 Internship - Product Strategy Intern](https://jobright.ai/jobs/info/68e47bd3b99ec3563b0eac15?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Oct 06 |
-| ↳ | **[Summer 2026 Internship - Product Intern](https://jobright.ai/jobs/info/68e47b28b99ec3563b0eab75?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 06 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Web Product Manager Intern - Summer 2026](https://jobright.ai/jobs/info/68e47449b99ec3563b0ea79f?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Oct 06 |
 | ↳ | **[Product Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68e473821852e62f008061b2?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Oct 06 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Product Management MBA Intern](https://jobright.ai/jobs/info/68e468271852e62f008057d2?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA, USA | On Site | Oct 06 |
@@ -125,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Product Manager, Sales Platform](https://jobright.ai/jobs/info/68dffa52b99ec3563b0ca9cb?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Oct 03 |
 | ↳ | **[2026 Intern - Product Manager, Sales Platform](https://jobright.ai/jobs/info/68dfecf8b99ec3563b0ca2c2?utm_campaign=1047&utm_source=git)** | San Francisco | Hybrid | Oct 03 |
 | **[EX Venture Inc.](https://ex-zerocarbon.com/)** | **[AI & Product Development Specialist Internship In Bali](https://jobright.ai/jobs/info/68dfdb68b99ec3563b0c9a43?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 03 |
-| **[HARTING Technology Group](https://www.harting.com/)** | **[Product Manager (Engineering) Intern (Summer 2026)](https://jobright.ai/jobs/info/68e22d011852e62f007f6c8a?utm_campaign=1047&utm_source=git)** | Elgin, IL | On Site | Oct 03 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Commercial Banking Intern – Digital Product - Summer 2026](https://jobright.ai/jobs/info/68df2cc56be63b6ec996cd0c?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Oct 02 |
 | ↳ | **[Treasury Management Product Intern - Summer 2026](https://jobright.ai/jobs/info/68df2dacfe896042b0b7782b?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Oct 02 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - IT Product Management](https://jobright.ai/jobs/info/68df24d56be63b6ec996c999?utm_campaign=1047&utm_source=git)** | Durham, NC | On Site | Oct 02 |
@@ -145,9 +145,8 @@ For a complete list, click the following sortable link below:
 | **[Duolingo for Schools](schools.duolingo.com)** | **[Product Manager, MBA Intern](https://jobright.ai/jobs/info/68ddcd2409bda65a4b624677?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Oct 01 |
 | **[Univera Healthcare](https://www.univerahealthcare.com)** | **[College Intern I - Summer 2026 - Product Implementation](https://jobright.ai/jobs/info/68ddc1ffddc10244dd683796?utm_campaign=1047&utm_source=git)** | Buffalo, NY | On Site | Oct 01 |
 | **[Lifetime Benefit Solutions, Inc.](http://lifetimebenefitsolutions.com)** | **[College Intern I - Summer 2026 - Product Implementation](https://jobright.ai/jobs/info/68ddb5e9ddc10244dd683388?utm_campaign=1047&utm_source=git)** | Binghamton, NY | On Site | Oct 01 |
-| ↳ | **[College Intern I - Summer 2026 - Product Implementation](https://jobright.ai/jobs/info/68ddb5bbddc10244dd6832f7?utm_campaign=1047&utm_source=git)** | Buffalo, NY | On Site | Oct 01 |
 | ↳ | **[College Intern I - Summer 2026 - Product Implementation](https://jobright.ai/jobs/info/68ddb5bbddc10244dd6832f6?utm_campaign=1047&utm_source=git)** | Utica, NY | On Site | Oct 01 |
+| ↳ | **[College Intern I - Summer 2026 - Product Implementation](https://jobright.ai/jobs/info/68ddb5bbddc10244dd6832f7?utm_campaign=1047&utm_source=git)** | Buffalo, NY | On Site | Oct 01 |
 | ↳ | **[College Intern I - Summer 2026 - Product Implementation](https://jobright.ai/jobs/info/68ddb5adddc10244dd6832c8?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Oct 01 |
 | ↳ | **[College Intern I - Summer 2026 - Product Implementation](https://jobright.ai/jobs/info/68ddb4eba125e75c422ae702?utm_campaign=1047&utm_source=git)** | Elmira, NY | On Site | Oct 01 |
-| ↳ | **[College Intern I - Summer 2026 - Product Implementation](https://jobright.ai/jobs/info/68ddb2b044d32141e0bfa545?utm_campaign=1047&utm_source=git)** | DeWitt, NY | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
