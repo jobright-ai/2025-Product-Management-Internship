@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crown Fund](Crownfund.co)** | **[Product Management Intern](https://jobright.ai/jobs/info/68ee0bb56335d3323612e8f7?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Oct 14 |
 | **[Ericsson](https://www.ericsson.com)** | **[Productization  Intern](https://jobright.ai/jobs/info/68edd20481fdd1626d39fc4a?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Oct 13 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/68edb51570b66e2345d4006e?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Oct 13 |
 | **[H&R Block](https://www.hrblock.com)** | **[Embark Intern - Product Management](https://jobright.ai/jobs/info/68eda57281fdd1626d39e16d?utm_campaign=1047&utm_source=git)** | KANSAS CITY, Missouri | On Site | Oct 13 |
@@ -84,7 +85,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Intern: New York, Bellevue or Los Angeles – Summer 2026](https://jobright.ai/jobs/info/68ed1d256335d332361258d5?utm_campaign=1047&utm_source=git)** | NY New York 230 Park Avenue South | Hybrid | Oct 13 |
 | **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68ed1cf06335d33236125893?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Oct 13 |
 | ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/68ed11ff81fdd1626d398950?utm_campaign=1047&utm_source=git)** | USA, Texas, Dallas | On Site | Oct 13 |
-| ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/68ed11d770b66e2345d3a327?utm_campaign=1047&utm_source=git)** | USA, Texas, Houston | On Site | Oct 13 |
+| ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/68ed11b181fdd1626d3988fd?utm_campaign=1047&utm_source=git)** | USA, Texas, Houston | On Site | Oct 13 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68ecb9071eecd439f43fd91e?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Oct 13 |
 | **[HARTING Technology Group](https://www.harting.com/)** | **[Product Manager (Engineering) Intern (Summer 2026)](https://jobright.ai/jobs/info/68e87a9509580a2fe57f8127?utm_campaign=1047&utm_source=git)** | Elgin, IL | On Site | Oct 11 |
 | **[Lightpath](https://lightpathfiber.com/)** | **[Intern - Product Manager](https://jobright.ai/jobs/info/68ec81531eecd439f43f971d?utm_campaign=1047&utm_source=git)** | Bethpage, NY | On Site | Oct 11 |
@@ -104,7 +105,7 @@ For a complete list, click the following sortable link below:
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Pricing Analytics & Product Development](https://jobright.ai/jobs/info/68cedbe0dbd9fb154ede3379?utm_campaign=1047&utm_source=git)** | Fort Worth, TX | Hybrid | Oct 10 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Product Management Intern - Knee Preservation](https://jobright.ai/jobs/info/68e9869d65768b6412b1d1f2?utm_campaign=1047&utm_source=git)** | Naples, FL | On Site | Oct 10 |
 | **[Chick-fil-A Corporate Support Center](https://www.chick-fil-a.com/)** | **[Digital Transformation and Technology Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68ea3750db8fbc4015c664ff?utm_campaign=1047&utm_source=git)** | US-GA-Atlanta | Hybrid | Oct 10 |
-| **[SageSure](https://www.sagesure.com)** | **[Software Product Management Intern](https://jobright.ai/jobs/info/68e94b470930fe0bc4623e82?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | On Site | Oct 10 |
+| **[SageSure](https://www.sagesure.com)** | **[Software Product Management Intern](https://jobright.ai/jobs/info/68e93ca80930fe0bc4623682?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | On Site | Oct 10 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Management: Internship Opportunities](https://jobright.ai/jobs/info/68e937340930fe0bc4623273?utm_campaign=1047&utm_source=git)** | New York, New York, United States | Hybrid | Oct 10 |
 | **[EXPRESS](http://express.com)** | **[Product Development Summer Internship](https://jobright.ai/jobs/info/68e936560930fe0bc46231cb?utm_campaign=1047&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Oct 10 |
 | **[Chick-fil-A Corporate Support Center](https://www.chick-fil-a.com/)** | **[Digital Transformation and Technology Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68ea5d3e76a1db7c5985a701?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Oct 10 |
@@ -133,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[State Street](http://www.statestreet.com)** | **[State Street Product Office - Summer Internship 2026](https://jobright.ai/jobs/info/68edbddc70b66e2345d403d0?utm_campaign=1047&utm_source=git)** | Quincy, MA | On Site | Oct 08 |
 | **[M.M.LaFleur](http://mmlafleur.com)** | **[Production and Product Development Intern](https://jobright.ai/jobs/info/68e708d5ae2b894b1d720c26?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Oct 08 |
 | **[Farm Credit Services of America](https://www.fcsamerica.com/)** | **[Product Capability - Intern](https://jobright.ai/jobs/info/68e6f38bae2b894b1d71ff1a?utm_campaign=1047&utm_source=git)** | Omaha, NE | On Site | Oct 08 |
-| **[Patreon](http://www.patreon.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68e6c819ae2b894b1d71dbe7?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Oct 08 |
 | **[Ariat International](http://www.ariat.com)** | **[Footwear Product Development Intern](https://jobright.ai/jobs/info/68e6e3e5e8daec61499b01cf?utm_campaign=1047&utm_source=git)** | San Leandro, CA | Hybrid | Oct 08 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Management Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/68e6cdb6ae2b894b1d71ddad?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
 | **[Cook Medical](http://www.cookmedical.com)** | **[Product Management Intern - Endoscopy Medical Devices](https://jobright.ai/jobs/info/68ea36ecdb8fbc4015c6645b?utm_campaign=1047&utm_source=git)** | Bloomington IN United States | Hybrid | Oct 08 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Q2](https://www.q2.com)** | **[2026 Summer Internship - Product Management](https://jobright.ai/jobs/info/68e587edae2b894b1d7109ba?utm_campaign=1047&utm_source=git)** | United States | Remote | Oct 07 |
 | **[EnviroLogix](http://envirologix.com)** | **[New Product Development Intern](https://jobright.ai/jobs/info/68e57dac1852e62f00810ba6?utm_campaign=1047&utm_source=git)** | Portland, ME | On Site | Oct 07 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Agency Operations Support Intern - Summer 2026](https://jobright.ai/jobs/info/68e571b51852e62f00810215?utm_campaign=1047&utm_source=git)** | West Des Moines, IA | On Site | Oct 07 |
-| **[Ensign-Bickford Aerospace & Defense Company (EBAD)](https://www.ebad.com/)** | **[New Product Development Intern](https://jobright.ai/jobs/info/68e56b841852e62f0080fbf3?utm_campaign=1047&utm_source=git)** | Portland, ME | On Site | Oct 07 |
+| **[Ensign-Bickford Aerospace & Defense Company (EBAD)](https://www.ebad.com/)** | **[New Product Development Intern](https://jobright.ai/jobs/info/68e56c89ae2b894b1d70ecbe?utm_campaign=1047&utm_source=git)** | Portland, ME | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
