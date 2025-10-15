@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lucid Software](https://lucid.co)** | **[Product Management Internship Summer 2026](https://jobright.ai/jobs/info/68eff6979821486c423c8385?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 15 |
+| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Underwriting/Product Management Intern - Specialty Equipment (Spring 2026)](https://jobright.ai/jobs/info/68eff4639821486c423c81f6?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Oct 15 |
+| **[The Block](https://www.theblock.co)** | **[Crypto Product Reviews Intern](https://jobright.ai/jobs/info/68eff287de50091dbfa5104e?utm_campaign=1047&utm_source=git)** | Remote within United States | Remote | Oct 15 |
+| **[Lucid Software](https://lucid.co)** | **[Product Management Internship Summer 2026](https://jobright.ai/jobs/info/68eff0d978ba1621431e11a6?utm_campaign=1047&utm_source=git)** | Raleigh, NC | Hybrid | Oct 15 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Onshape Product Management Intern](https://jobright.ai/jobs/info/68efc19b9821486c423c71b8?utm_campaign=1047&utm_source=git)** | Sacramento, CA | On Site | Oct 15 |
 | **[Hubbell Gas Utility Solutions (HGUS)](https://www.hubbell.com/continentalindustries/en)** | **[Product Management Intern (Summer 2026) - St. Louis, MO](https://jobright.ai/jobs/info/68efaed478ba1621431dfc7d?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Oct 15 |
 | **[PlayStation](https://www.playstation.com/)** | **[Product Management Intern - Undergraduate](https://jobright.ai/jobs/info/68ef2ce3a1a1d02df61ea74c?utm_campaign=1047&utm_source=git)** | United States of America | On Site | Oct 14 |
@@ -147,6 +151,4 @@ For a complete list, click the following sortable link below:
 | **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[2026 Summer Intern: Product Development](https://jobright.ai/jobs/info/68cbfc2c128dc347fd91cda2?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Oct 09 |
 | **[Cook Medical](http://www.cookmedical.com)** | **[Product Management Intern - Endoscopy Medical Devices](https://jobright.ai/jobs/info/68ea4c2376a1db7c59859e7f?utm_campaign=1047&utm_source=git)** | Bloomington, IN | On Site | Oct 09 |
 | **[Michael Foods](http://michaelfoods.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68e74552ae2b894b1d72307a?utm_campaign=1047&utm_source=git)** | Chaska, MN | On Site | Oct 08 |
-| **[M.M.LaFleur](http://mmlafleur.com)** | **[Production and Product Development Intern](https://jobright.ai/jobs/info/68e71e86ae2b894b1d72198c?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 08 |
-| **[State Street](http://www.statestreet.com)** | **[State Street Product Office - Summer Internship 2026](https://jobright.ai/jobs/info/68edbddc70b66e2345d403d0?utm_campaign=1047&utm_source=git)** | Quincy, MA | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
