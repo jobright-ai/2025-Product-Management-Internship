@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walturn](https://www.walturn.com)** | **[Tech Analyst AI - Intern](https://jobright.ai/jobs/info/68ef8bd5de50091dbfa4f10b?utm_campaign=1047&utm_source=git)** | Harvard, IL | On Site | Oct 15 |
 | **[Crown Fund](Crownfund.co)** | **[Product Management Intern](https://jobright.ai/jobs/info/68ef6922de50091dbfa4e794?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Oct 15 |
 | **[PlayStation](https://www.playstation.com/)** | **[Product Management Intern - Undergraduate](https://jobright.ai/jobs/info/68ef2ce3a1a1d02df61ea74c?utm_campaign=1047&utm_source=git)** | United States of America | On Site | Oct 14 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Product Management Intern (Master's/MBA)](https://jobright.ai/jobs/info/68ef267ca1a1d02df61e9d7c?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Oct 14 |
@@ -105,7 +106,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Intern: New York, Bellevue or Los Angeles – Summer 2026](https://jobright.ai/jobs/info/68ed1d256335d332361258d5?utm_campaign=1047&utm_source=git)** | NY New York 230 Park Avenue South | Hybrid | Oct 13 |
 | **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68ed1cf06335d33236125893?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Oct 13 |
 | ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/68ed11ff81fdd1626d398950?utm_campaign=1047&utm_source=git)** | USA, Texas, Dallas | On Site | Oct 13 |
-| ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/68ed11b181fdd1626d3988fd?utm_campaign=1047&utm_source=git)** | USA, Texas, Houston | On Site | Oct 13 |
+| ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/68ed11d770b66e2345d3a327?utm_campaign=1047&utm_source=git)** | USA, Texas, Houston | On Site | Oct 13 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68ecb9071eecd439f43fd91e?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Oct 13 |
 | **[Dematic](http://www.dematic.com)** | **[Engineering and Product Management Intern](https://jobright.ai/jobs/info/68e07a79f758fe1f97e4d7bf?utm_campaign=1047&utm_source=git)** | Wauwatosa, WI | On Site | Oct 11 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Digital Product Manager Intern](https://jobright.ai/jobs/info/68ea724b8369791ef7821fed?utm_campaign=1047&utm_source=git)** | Irving, TX | On Site | Oct 11 |
@@ -150,10 +151,4 @@ For a complete list, click the following sortable link below:
 | **[M.M.LaFleur](http://mmlafleur.com)** | **[Production and Product Development Intern](https://jobright.ai/jobs/info/68e708d5ae2b894b1d720c26?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Oct 08 |
 | **[Farm Credit Services of America](https://www.fcsamerica.com/)** | **[Product Capability - Intern](https://jobright.ai/jobs/info/68e6f38bae2b894b1d71ff1a?utm_campaign=1047&utm_source=git)** | Omaha, NE | On Site | Oct 08 |
 | **[Ariat International](http://www.ariat.com)** | **[Footwear Product Development Intern](https://jobright.ai/jobs/info/68e6e3e5e8daec61499b01cf?utm_campaign=1047&utm_source=git)** | San Leandro, CA | Hybrid | Oct 08 |
-| **[Sigma](http://sigmacomputing.com)** | **[Product Management Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/68e6cdb6ae2b894b1d71ddad?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
-| **[Cook Medical](http://www.cookmedical.com)** | **[Product Management Intern - Endoscopy Medical Devices](https://jobright.ai/jobs/info/68ea36824ae33307d3eda5ef?utm_campaign=1047&utm_source=git)** | US-IN-Bloomington | Hybrid | Oct 08 |
-| ↳ | **[Product Management Intern - Endoscopy Medical Devices](https://jobright.ai/jobs/info/68ea36ecdb8fbc4015c6645b?utm_campaign=1047&utm_source=git)** | Bloomington IN United States | Hybrid | Oct 08 |
-| **[Porsche Cars North America](http://www.porscheusa.com)** | **[Strategy, Products and Services Intern](https://jobright.ai/jobs/info/68e6c6a5ae2b894b1d71da20?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Oct 08 |
-| ↳ | **[Digital Platforms Intern](https://jobright.ai/jobs/info/68e6be72ae2b894b1d71d394?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Oct 08 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Product Development Intern, Ninja (February to May)](https://jobright.ai/jobs/info/68cce1d3d11b445e0bee3b04?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
