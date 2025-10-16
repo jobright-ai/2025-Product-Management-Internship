@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intelliguard®](https://ig.solutions/)** | **[Product Intern](https://jobright.ai/jobs/info/68f1581ce6870116b1f575e6?utm_campaign=1047&utm_source=git)** | Columbus, OH | Hybrid | Oct 16 |
 | **[Uline](http://www.uline.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f1374ce6870116b1f54dde?utm_campaign=1047&utm_source=git)** | Glenview, IL | On Site | Oct 16 |
 | **[FieldPulse](https://www.fieldpulse.com/)** | **[Product Summer 2026 Intern](https://jobright.ai/jobs/info/68f13378ef766b3f0fd09c50?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Oct 16 |
 | **[Uline](http://www.uline.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f12f3fe6870116b1f545f3?utm_campaign=1047&utm_source=git)** | Kenosha, WI | On Site | Oct 16 |
@@ -77,9 +78,9 @@ For a complete list, click the following sortable link below:
 | **[Red Hat](http://www.redhat.com)** | **[Product Training Analyst Intern](https://jobright.ai/jobs/info/68f01e809821486c423c8e3d?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Oct 15 |
 | **[Versana](https://versana.io)** | **[Product Internship (Summer 2026)](https://jobright.ai/jobs/info/68effce478ba1621431e1510?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Oct 15 |
 | **[Lucid Software](https://lucid.co)** | **[Product Management Internship Summer 2026](https://jobright.ai/jobs/info/68f01e3fde50091dbfa51cb2?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 15 |
-| ↳ | **[Product Management Internship Summer 2026](https://jobright.ai/jobs/info/68f023179821486c423c9410?utm_campaign=1047&utm_source=git)** | Raleigh, NC | Hybrid | Oct 15 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Underwriting/Product Management Intern - Specialty Equipment (Spring 2026)](https://jobright.ai/jobs/info/68eff4639821486c423c81f6?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Oct 15 |
 | **[The Block](https://www.theblock.co)** | **[Crypto Product Reviews Intern](https://jobright.ai/jobs/info/68eff287de50091dbfa5104e?utm_campaign=1047&utm_source=git)** | Remote within United States | Remote | Oct 15 |
+| **[Lucid Software](https://lucid.co)** | **[Product Management Internship Summer 2026](https://jobright.ai/jobs/info/68eff0d978ba1621431e11a6?utm_campaign=1047&utm_source=git)** | Raleigh, NC | Hybrid | Oct 15 |
 | **[Lennox](http://www.lennox.com)** | **[Category Analyst Intern](https://jobright.ai/jobs/info/68d34dc4f0d9af73038e0eac?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Oct 15 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68ecb9071eecd439f43fd91e?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Oct 15 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Onshape Product Management Intern](https://jobright.ai/jobs/info/68efc19b9821486c423c71b8?utm_campaign=1047&utm_source=git)** | Sacramento, CA | On Site | Oct 15 |
@@ -148,7 +149,7 @@ For a complete list, click the following sortable link below:
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Pricing Analytics & Product Development](https://jobright.ai/jobs/info/68cedbe0dbd9fb154ede3379?utm_campaign=1047&utm_source=git)** | Fort Worth, TX | Hybrid | Oct 10 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Product Management Intern - Knee Preservation](https://jobright.ai/jobs/info/68e9869d65768b6412b1d1f2?utm_campaign=1047&utm_source=git)** | Naples, FL | On Site | Oct 10 |
 | **[Chick-fil-A Corporate Support Center](https://www.chick-fil-a.com/)** | **[Digital Transformation and Technology Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68ea3750db8fbc4015c664ff?utm_campaign=1047&utm_source=git)** | US-GA-Atlanta | Hybrid | Oct 10 |
-| **[SageSure](https://www.sagesure.com)** | **[Software Product Management Intern](https://jobright.ai/jobs/info/68e94b470930fe0bc4623e82?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | On Site | Oct 10 |
+| **[SageSure](https://www.sagesure.com)** | **[Software Product Management Intern](https://jobright.ai/jobs/info/68e93ca80930fe0bc4623682?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | On Site | Oct 10 |
 | **[EXPRESS](http://express.com)** | **[Product Development Summer Internship](https://jobright.ai/jobs/info/68e936560930fe0bc46231cb?utm_campaign=1047&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Oct 10 |
 | **[Chick-fil-A Corporate Support Center](https://www.chick-fil-a.com/)** | **[Digital Transformation and Technology Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68ea5d3e76a1db7c5985a701?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
