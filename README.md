@@ -114,7 +114,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/68ed604981fdd1626d39bbaa?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Oct 13 |
 | **[Okta](http://www.okta.com)** | **[MBA Product Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/68ed397b70b66e2345d3b9bf?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | On Site | Oct 13 |
 | **[TE Connectivity](http://www.te.com)** | **[PRODUCT MANAGEMENT CO-OP/INTERN](https://jobright.ai/jobs/info/68ed2f8770b66e2345d3b579?utm_campaign=1047&utm_source=git)** | Montgomery County, PA | On Site | Oct 13 |
-| **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68ed1f4770b66e2345d3aa31?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Oct 13 |
+| **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68ed1df381fdd1626d399178?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Oct 13 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[WB Games Product Management Intern Co-op: Needham, MA - January-May 2026](https://jobright.ai/jobs/info/68ed1db770b66e2345d3a9cb?utm_campaign=1047&utm_source=git)** | MA Needham 117 Kendrick St | Hybrid | Oct 13 |
 | ↳ | **[WB Games Product Management Intern Co-op: Needham, MA - June-December 2026](https://jobright.ai/jobs/info/68ed1da781fdd1626d399109?utm_campaign=1047&utm_source=git)** | MA Needham 117 Kendrick St | Hybrid | Oct 13 |
 | ↳ | **[Product Management Intern: New York, Bellevue or Los Angeles – Summer 2026](https://jobright.ai/jobs/info/68ed1d3881fdd1626d39906d?utm_campaign=1047&utm_source=git)** | CA Culver City 8900 Venice Blvd., Ivy Station | Hybrid | Oct 13 |
@@ -153,8 +153,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Technology Data Product Analyst Intern](https://jobright.ai/jobs/info/68e812b309580a2fe57f33ab?utm_campaign=1047&utm_source=git)** | OT999: 1CP - Farmington, CT One Carrier Place, Farmington, CT, 06032 USA | Hybrid | Oct 09 |
 | **[Lila Sciences](https://www.lila.ai)** | **[Product Strategy Intern, Life Sciences](https://jobright.ai/jobs/info/68e80d2a09580a2fe57f2c8a?utm_campaign=1047&utm_source=git)** | Cambridge, MA | On Site | Oct 09 |
 | **[Sheetz](https://www.sheetz.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/68e8092409580a2fe57f2922?utm_campaign=1047&utm_source=git)** | PITTSBURGH, Pennsylvania | Remote | Oct 09 |
-| **[Lila Sciences](https://www.lila.ai)** | **[Product Strategy Intern, Physical Sciences](https://jobright.ai/jobs/info/68e7ff5dc4895107182c08b0?utm_campaign=1047&utm_source=git)** | Cambridge, MA | Hybrid | Oct 09 |
-| **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[2026 Technology Product & Strategy Summer Intern](https://jobright.ai/jobs/info/68e7f74709580a2fe57f1a96?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Oct 09 |
-| **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate IT Product Intern - Summer 2026](https://jobright.ai/jobs/info/68dd3b0244d32141e0bf4b42?utm_campaign=1047&utm_source=git)** | Parsippany, NJ | On Site | Oct 09 |
-| **[Tanium](http://www.tanium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68e7f254c4895107182bffb4?utm_campaign=1047&utm_source=git)** | Durham, NC (Hybrid) | Hybrid | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
