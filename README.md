@@ -69,9 +69,9 @@ For a complete list, click the following sortable link below:
 | **[Red Hat](http://www.redhat.com)** | **[Product Training Analyst Intern](https://jobright.ai/jobs/info/68f01e809821486c423c8e3d?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Oct 15 |
 | **[Versana](https://versana.io)** | **[Product Internship (Summer 2026)](https://jobright.ai/jobs/info/68effce478ba1621431e1510?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Oct 15 |
 | **[Lucid Software](https://lucid.co)** | **[Product Management Internship Summer 2026](https://jobright.ai/jobs/info/68f01e3fde50091dbfa51cb2?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 15 |
-| ↳ | **[Product Management Internship Summer 2026](https://jobright.ai/jobs/info/68f023179821486c423c9410?utm_campaign=1047&utm_source=git)** | Raleigh, NC | Hybrid | Oct 15 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Underwriting/Product Management Intern - Specialty Equipment (Spring 2026)](https://jobright.ai/jobs/info/68eff4639821486c423c81f6?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Oct 15 |
 | **[The Block](https://www.theblock.co)** | **[Crypto Product Reviews Intern](https://jobright.ai/jobs/info/68eff287de50091dbfa5104e?utm_campaign=1047&utm_source=git)** | Remote within United States | Remote | Oct 15 |
+| **[Lucid Software](https://lucid.co)** | **[Product Management Internship Summer 2026](https://jobright.ai/jobs/info/68eff0d978ba1621431e11a6?utm_campaign=1047&utm_source=git)** | Raleigh, NC | Hybrid | Oct 15 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Onshape Product Management Intern](https://jobright.ai/jobs/info/68efc19b9821486c423c71b8?utm_campaign=1047&utm_source=git)** | Sacramento, CA | On Site | Oct 15 |
 | **[Hubbell Gas Utility Solutions (HGUS)](https://www.hubbell.com/continentalindustries/en)** | **[Product Management Intern (Summer 2026) - St. Louis, MO](https://jobright.ai/jobs/info/68efaed478ba1621431dfc7d?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Oct 15 |
 | **[PlayStation](https://www.playstation.com/)** | **[Product Management Intern - Undergraduate](https://jobright.ai/jobs/info/68ef2ce3a1a1d02df61ea74c?utm_campaign=1047&utm_source=git)** | United States of America | On Site | Oct 14 |
@@ -122,7 +122,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Intern: New York, Bellevue or Los Angeles – Summer 2026](https://jobright.ai/jobs/info/68ed1d256335d332361258d5?utm_campaign=1047&utm_source=git)** | NY New York 230 Park Avenue South | Hybrid | Oct 13 |
 | **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68ed1cf06335d33236125893?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Oct 13 |
 | ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/68ed11ff81fdd1626d398950?utm_campaign=1047&utm_source=git)** | USA, Texas, Dallas | On Site | Oct 13 |
-| ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/68ed11d770b66e2345d3a327?utm_campaign=1047&utm_source=git)** | USA, Texas, Houston | On Site | Oct 13 |
+| ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/68ed11b181fdd1626d3988fd?utm_campaign=1047&utm_source=git)** | USA, Texas, Houston | On Site | Oct 13 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68ecb9071eecd439f43fd91e?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Oct 13 |
 | **[Dematic](http://www.dematic.com)** | **[Engineering and Product Management Intern](https://jobright.ai/jobs/info/68e07a79f758fe1f97e4d7bf?utm_campaign=1047&utm_source=git)** | Wauwatosa, WI | On Site | Oct 11 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Digital Product Manager Intern](https://jobright.ai/jobs/info/68ea724b8369791ef7821fed?utm_campaign=1047&utm_source=git)** | Irving, TX | On Site | Oct 11 |
@@ -143,5 +143,4 @@ For a complete list, click the following sortable link below:
 | **[EXPRESS](http://express.com)** | **[Product Development Summer Internship](https://jobright.ai/jobs/info/68e936560930fe0bc46231cb?utm_campaign=1047&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Oct 10 |
 | **[Chick-fil-A Corporate Support Center](https://www.chick-fil-a.com/)** | **[Digital Transformation and Technology Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68ea5d3e76a1db7c5985a701?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Oct 10 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Global Product Strategy](https://jobright.ai/jobs/info/68e876c1cc49a84b7e106651?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Oct 09 |
-| **[GALLO](http://www.gallocareers.com)** | **[Product Insights & Innovation Internship 2026 June - December](https://jobright.ai/jobs/info/68cdbae81ad6b16f0289e5ba?utm_campaign=1047&utm_source=git)** | Modesto, CA | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
