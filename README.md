@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Uline](http://www.uline.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f12f3fe6870116b1f545f3?utm_campaign=1047&utm_source=git)** | Kenosha, WI | On Site | Oct 16 |
+| ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f12d3ef462172a5a7d3bf6?utm_campaign=1047&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 16 |
+| ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f12a8aef766b3f0fd093ec?utm_campaign=1047&utm_source=git)** | Waukegan, IL | On Site | Oct 16 |
+| ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f12a54ef766b3f0fd093bf?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Oct 16 |
+| **[FieldPulse](https://www.fieldpulse.com/)** | **[Product Internship](https://jobright.ai/jobs/info/68f118c2e6870116b1f53ae1?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Oct 16 |
 | **[Amazon](https://amazon.com)** | **[2026 Amazon Leadership Accelerator (ALA) Product Manager Internship](https://jobright.ai/jobs/info/68f061cb2e327452a0a4c9fc?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Oct 15 |
 | **[Nestlé](https://www.nestle.com)** | **[Nestlé R&D Product Development Intern](https://jobright.ai/jobs/info/68f057c423b5702fba8ca19f?utm_campaign=1047&utm_source=git)** | Solon, OH | On Site | Oct 15 |
 | **[Experian](http://www.experianplc.com)** | **[Product Management Xcelerator Rotation Program (Entry Level Product) - Remote](https://jobright.ai/jobs/info/68f0529699530851ee6ec795?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Oct 15 |
@@ -68,7 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Skydio](https://www.skydio.com)** | **[Hardware Product Management Intern](https://jobright.ai/jobs/info/68efff76de50091dbfa5156b?utm_campaign=1047&utm_source=git)** | San Mateo, CA | On Site | Oct 15 |
 | **[Red Hat](http://www.redhat.com)** | **[Product Training Analyst Intern](https://jobright.ai/jobs/info/68f01e809821486c423c8e3d?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Oct 15 |
 | **[Versana](https://versana.io)** | **[Product Internship (Summer 2026)](https://jobright.ai/jobs/info/68effce478ba1621431e1510?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Oct 15 |
-| **[Lucid Software](https://lucid.co)** | **[Product Management Internship Summer 2026](https://jobright.ai/jobs/info/68f01e3fde50091dbfa51cb2?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 15 |
+| **[Lucid Software](https://lucid.co)** | **[Product Management Internship Summer 2026](https://jobright.ai/jobs/info/68eff6979821486c423c8385?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 15 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Underwriting/Product Management Intern - Specialty Equipment (Spring 2026)](https://jobright.ai/jobs/info/68eff4639821486c423c81f6?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Oct 15 |
 | **[The Block](https://www.theblock.co)** | **[Crypto Product Reviews Intern](https://jobright.ai/jobs/info/68eff287de50091dbfa5104e?utm_campaign=1047&utm_source=git)** | Remote within United States | Remote | Oct 15 |
 | **[Lucid Software](https://lucid.co)** | **[Product Management Internship Summer 2026](https://jobright.ai/jobs/info/68eff0d978ba1621431e11a6?utm_campaign=1047&utm_source=git)** | Raleigh, NC | Hybrid | Oct 15 |
@@ -114,7 +119,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/68ed604981fdd1626d39bbaa?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Oct 13 |
 | **[Okta](http://www.okta.com)** | **[MBA Product Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/68ed397b70b66e2345d3b9bf?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | On Site | Oct 13 |
 | **[TE Connectivity](http://www.te.com)** | **[PRODUCT MANAGEMENT CO-OP/INTERN](https://jobright.ai/jobs/info/68ed2f8770b66e2345d3b579?utm_campaign=1047&utm_source=git)** | Montgomery County, PA | On Site | Oct 13 |
-| **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68ed1f4770b66e2345d3aa31?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Oct 13 |
+| **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68ed1df381fdd1626d399178?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Oct 13 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[WB Games Product Management Intern Co-op: Needham, MA - January-May 2026](https://jobright.ai/jobs/info/68ed1db770b66e2345d3a9cb?utm_campaign=1047&utm_source=git)** | MA Needham 117 Kendrick St | Hybrid | Oct 13 |
 | ↳ | **[WB Games Product Management Intern Co-op: Needham, MA - June-December 2026](https://jobright.ai/jobs/info/68ed1da781fdd1626d399109?utm_campaign=1047&utm_source=git)** | MA Needham 117 Kendrick St | Hybrid | Oct 13 |
 | ↳ | **[Product Management Intern: New York, Bellevue or Los Angeles – Summer 2026](https://jobright.ai/jobs/info/68ed1d3881fdd1626d39906d?utm_campaign=1047&utm_source=git)** | CA Culver City 8900 Venice Blvd., Ivy Station | Hybrid | Oct 13 |
@@ -141,6 +146,7 @@ For a complete list, click the following sortable link below:
 | **[Chick-fil-A Corporate Support Center](https://www.chick-fil-a.com/)** | **[Digital Transformation and Technology Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68ea3750db8fbc4015c664ff?utm_campaign=1047&utm_source=git)** | US-GA-Atlanta | Hybrid | Oct 10 |
 | **[SageSure](https://www.sagesure.com)** | **[Software Product Management Intern](https://jobright.ai/jobs/info/68e93ca80930fe0bc4623682?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | On Site | Oct 10 |
 | **[EXPRESS](http://express.com)** | **[Product Development Summer Internship](https://jobright.ai/jobs/info/68e936560930fe0bc46231cb?utm_campaign=1047&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Oct 10 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Mobile Product](https://jobright.ai/jobs/info/68f118abef766b3f0fd08980?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Oct 10 |
 | **[Chick-fil-A Corporate Support Center](https://www.chick-fil-a.com/)** | **[Digital Transformation and Technology Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68ea5d3e76a1db7c5985a701?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Oct 10 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Global Product Strategy](https://jobright.ai/jobs/info/68e876c1cc49a84b7e106651?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
