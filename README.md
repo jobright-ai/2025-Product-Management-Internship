@@ -57,17 +57,29 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nike](http://www.nike.com)** | **[NIKE, Inc. Footwear Product Creation Undergraduate Internship](https://jobright.ai/jobs/info/68f1bddee6870116b1f5ca8d?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Oct 17 |
+| **[Toast](https://pos.toasttab.com)** | **[MBA Product Manager Intern](https://jobright.ai/jobs/info/68f2924676a51a4307bc4dcb?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Oct 17 |
+| **[CLEAResult](http://www.clearesult.com)** | **[MBA Intern – Digital Product Strategy, Energy Transition & DERs](https://jobright.ai/jobs/info/68f27f189a65fd345857d201?utm_campaign=1047&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Oct 17 |
+| **[Toast](https://pos.toasttab.com)** | **[MBA Product Manager Intern](https://jobright.ai/jobs/info/68f291e49a65fd345857db43?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Oct 17 |
+| **[Ingredion Incorporated](http://ingredion.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68cbde77ba798c1a501d5b3f?utm_campaign=1047&utm_source=git)** | Westchester, IL | Hybrid | Oct 17 |
+| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/68aebe937bcb7608b3d29365?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Oct 17 |
+| **[Relay](https://relaypro.com)** | **[Relay Launchpad Intern - Product Management](https://jobright.ai/jobs/info/68d68b5dd3fe025a3015a4f4?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Oct 17 |
+| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Product Management Intern (Summer 2026) - St. Louis, MO](https://jobright.ai/jobs/info/68ccfe405954791a1d70271b?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Oct 17 |
+| **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68ed24eb70b66e2345d3ad4f?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Oct 17 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Product Development, Cosmetics](https://jobright.ai/jobs/info/68ce2c65e23def7af55c2c9a?utm_campaign=1047&utm_source=git)** | Oakland, CA | On Site | Oct 17 |
 | **[Enerpac Tool Group](https://www.enerpactoolgroup.com/)** | **[Intern - Product Commercialization & Go-To Market](https://jobright.ai/jobs/info/68f1f30eef766b3f0fd13f54?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Oct 17 |
-| **[Nelnet](https://nelnetinc.com)** | **[New Ventures Intern](https://jobright.ai/jobs/info/68f1d4e1f462172a5a7dceab?utm_campaign=1047&utm_source=git)** | Lincoln, NE | On Site | Oct 16 |
+| **[Nelnet](https://nelnetinc.com)** | **[New Ventures Intern](https://jobright.ai/jobs/info/68f21736af0b5a06b5849f4d?utm_campaign=1047&utm_source=git)** | Lincoln, NE | On Site | Oct 17 |
+| **[SHOPLINE](http://www.shoplineapp.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68f23a3665ce784c102efba8?utm_campaign=1047&utm_source=git)** | Pasadena, CA | Hybrid | Oct 17 |
 | **[ByteDance](http://bytedance.com)** | **[Product Manager Intern (Multi-Cloud CDN)- 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68f1bc32f462172a5a7dbdea?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 16 |
 | **[Enerpac Tool Group](https://www.enerpactoolgroup.com/)** | **[Intern - Product Commercialization & Go-To Market](https://jobright.ai/jobs/info/68f1b07ef462172a5a7db3ce?utm_campaign=1047&utm_source=git)** | Milwaukee, Wisconsin | On Site | Oct 16 |
+| **[ModMed](https://www.modmed.com)** | **[Product Development Summer 2026 Internship](https://jobright.ai/jobs/info/68eeb96ce0db92422580a57c?utm_campaign=1047&utm_source=git)** | Boca Raton, Florida | Hybrid | Oct 16 |
 | **[Illumio](http://www.illumio.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Oct 16 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Product Management, Energy Engineering (Winter/Spring 2026)](https://jobright.ai/jobs/info/68f18688ef766b3f0fd0f1e0?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Oct 16 |
 | **[Intelliguard®](https://ig.solutions/)** | **[Product Intern](https://jobright.ai/jobs/info/68f17b64e6870116b1f59971?utm_campaign=1047&utm_source=git)** | Columbus, OH | Hybrid | Oct 16 |
 | **[Vitasigns](www.vitasigns.com)** | **[Product Operations Intern (AI & Automation)](https://jobright.ai/jobs/info/68f177a6f462172a5a7d8dc5?utm_campaign=1047&utm_source=git)** | Newport Beach, CA | Hybrid | Oct 16 |
-| **[Nike](http://www.nike.com)** | **[NIKE, Inc. Product Management Graduate Internship](https://jobright.ai/jobs/info/68f1be2fe6870116b1f5cb5b?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Oct 16 |
-| ↳ | **[NIKE, Inc. Footwear Product Creation Undergraduate Internship](https://jobright.ai/jobs/info/68f1bddee6870116b1f5ca8d?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Oct 16 |
 | **[Intelliguard®](https://ig.solutions/)** | **[Product Intern](https://jobright.ai/jobs/info/68f1581ce6870116b1f575e6?utm_campaign=1047&utm_source=git)** | Columbus, OH | Hybrid | Oct 16 |
+| **[Nike](http://www.nike.com)** | **[NIKE, Inc. Product Management Graduate Internship](https://jobright.ai/jobs/info/68f1be2fe6870116b1f5cb5b?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Oct 16 |
+| **[Brimar Industries](http://brimar.com)** | **[Product Associate Intern (Marketing)](https://jobright.ai/jobs/info/68f22bb2cb0abf15612f4d64?utm_campaign=1047&utm_source=git)** | Jessup, PA, US | On Site | Oct 16 |
 | **[Uline](http://www.uline.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f1374ce6870116b1f54dde?utm_campaign=1047&utm_source=git)** | Glenview, IL | On Site | Oct 16 |
 | **[FieldPulse](https://www.fieldpulse.com/)** | **[Product Summer 2026 Intern](https://jobright.ai/jobs/info/68f13378ef766b3f0fd09c50?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Oct 16 |
 | **[Uline](http://www.uline.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f12f3fe6870116b1f545f3?utm_campaign=1047&utm_source=git)** | Kenosha, WI | On Site | Oct 16 |
@@ -76,6 +88,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f12a54ef766b3f0fd093bf?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Oct 16 |
 | **[FieldPulse](https://www.fieldpulse.com/)** | **[Product Internship](https://jobright.ai/jobs/info/68f118c2e6870116b1f53ae1?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Oct 16 |
 | **[Dealer Tire](http://dealertire.com)** | **[Product Experience Intern](https://jobright.ai/jobs/info/68f132fef462172a5a7d4134?utm_campaign=1047&utm_source=git)** | Remote Pennsylvania | Remote | Oct 16 |
+| **[Altium Packaging](https://altiumpkg.com/)** | **[2026 Product Management Intern](https://jobright.ai/jobs/info/68b795c32124650c140240b5?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Oct 16 |
 | **[Oatey Company](https://www.oatey.com//)** | **[Product Management Intern](https://jobright.ai/jobs/info/68c8e25695f5211cd2ceac3e?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Oct 16 |
 | **[Wipfli](http://www.wipfli.com)** | **[Product Implementation Internship-Summer 2026](https://jobright.ai/jobs/info/68ecb50c1eecd439f43fd7dc?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Oct 16 |
 | ↳ | **[Product Implementation Internship-Summer 2026](https://jobright.ai/jobs/info/68c88e0095f5211cd2ce66fb?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 16 |
@@ -118,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[Publicis Sapient](https://www.publicissapient.com)** | **[Product Manager Intern (Class of 2027)](https://jobright.ai/jobs/info/68eec595e0db92422580b327?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Oct 14 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68eaf44b76a1db7c5985c773?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Oct 14 |
 | **[Danaher Corporation](https://www.danaher.com/)** | **[Product Management & Strategy Intern](https://jobright.ai/jobs/info/68eeb97246e5b153e5a5ebcf?utm_campaign=1047&utm_source=git)** | Los Angeles, California, United States | Hybrid | Oct 14 |
-| **[ModMed](https://www.modmed.com)** | **[Product Development Summer 2026 Internship](https://jobright.ai/jobs/info/68eeb96ce0db92422580a57c?utm_campaign=1047&utm_source=git)** | Boca Raton, Florida | Hybrid | Oct 14 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Product Management Organization Intern](https://jobright.ai/jobs/info/68eeb800d078b81ad160e30f?utm_campaign=1047&utm_source=git)** | Jacksonville, Florida, United States of America | On Site | Oct 14 |
 | **[Experian](http://www.experianplc.com)** | **[Product Management Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/68eeb171d078b81ad160dd7b?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Oct 14 |
 | **[HARTING Technology Group](https://www.harting.com/)** | **[Product Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68efb4df9821486c423c6c83?utm_campaign=1047&utm_source=git)** | Elgin, IL | On Site | Oct 14 |
@@ -144,17 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/68ed604981fdd1626d39bbaa?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Oct 13 |
 | **[Okta](http://www.okta.com)** | **[MBA Product Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/68ed397b70b66e2345d3b9bf?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | On Site | Oct 13 |
 | **[TE Connectivity](http://www.te.com)** | **[PRODUCT MANAGEMENT CO-OP/INTERN](https://jobright.ai/jobs/info/68ed2f8770b66e2345d3b579?utm_campaign=1047&utm_source=git)** | Montgomery County, PA | On Site | Oct 13 |
-| **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68ed1f4770b66e2345d3aa31?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Oct 13 |
-| **[Warner Bros. Discovery](https://wbd.com/)** | **[WB Games Product Management Intern Co-op: Needham, MA - January-May 2026](https://jobright.ai/jobs/info/68ed1db770b66e2345d3a9cb?utm_campaign=1047&utm_source=git)** | MA Needham 117 Kendrick St | Hybrid | Oct 13 |
-| ↳ | **[WB Games Product Management Intern Co-op: Needham, MA - June-December 2026](https://jobright.ai/jobs/info/68ed1da781fdd1626d399109?utm_campaign=1047&utm_source=git)** | MA Needham 117 Kendrick St | Hybrid | Oct 13 |
-| ↳ | **[Product Management Intern: New York, Bellevue or Los Angeles – Summer 2026](https://jobright.ai/jobs/info/68ed1d3881fdd1626d39906d?utm_campaign=1047&utm_source=git)** | CA Culver City 8900 Venice Blvd., Ivy Station | Hybrid | Oct 13 |
-| ↳ | **[Product Management Intern: New York, Bellevue or Los Angeles – Summer 2026](https://jobright.ai/jobs/info/68ed1d2870b66e2345d3a921?utm_campaign=1047&utm_source=git)** | WA Bellevue 205 108th Avenue NE, Suite S200 | Hybrid | Oct 13 |
-| ↳ | **[Product Management Intern: New York, Bellevue or Los Angeles – Summer 2026](https://jobright.ai/jobs/info/68ed1d256335d332361258d5?utm_campaign=1047&utm_source=git)** | NY New York 230 Park Avenue South | Hybrid | Oct 13 |
-| **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68ed1cf06335d33236125893?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Oct 13 |
-| ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/68ed11ff81fdd1626d398950?utm_campaign=1047&utm_source=git)** | USA, Texas, Dallas | On Site | Oct 13 |
-| ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/68ed11d770b66e2345d3a327?utm_campaign=1047&utm_source=git)** | USA, Texas, Houston | On Site | Oct 13 |
-| **[Lightpath](https://lightpathfiber.com/)** | **[Intern - Product Manager](https://jobright.ai/jobs/info/68f1e9d6e6870116b1f5e45c?utm_campaign=1047&utm_source=git)** | Bethpage, NY | On Site | Oct 11 |
-| **[Dematic](http://www.dematic.com)** | **[Engineering and Product Management Intern](https://jobright.ai/jobs/info/68e07a79f758fe1f97e4d7bf?utm_campaign=1047&utm_source=git)** | Wauwatosa, WI | On Site | Oct 11 |
-| **[7-Eleven](http://www.7-eleven.com)** | **[Digital Product Manager Intern](https://jobright.ai/jobs/info/68ea724b8369791ef7821fed?utm_campaign=1047&utm_source=git)** | Irving, TX | On Site | Oct 11 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Decision Science Product Graduate Associate, Spring 2026](https://jobright.ai/jobs/info/68ea6ad276a1db7c5985ae3c?utm_campaign=1047&utm_source=git)** | Lake Buena Vista, FL | On Site | Oct 11 |
+| **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68ed1df381fdd1626d399178?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
