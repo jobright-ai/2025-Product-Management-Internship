@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ibotta](https://home.ibotta.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/68d7574b7a37c712687c9539?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Oct 18 |
 | **[Capital One](http://www.capitalone.com)** | **[MBA Product Intern - Summer 2026](https://jobright.ai/jobs/info/68d729e2d3fe025a3015f5ab?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Oct 18 |
 | ↳ | **[MBA Product Intern - Summer 2026](https://jobright.ai/jobs/info/68d72bd4894705799a2f12f8?utm_campaign=1047&utm_source=git)** | Richmond, VA | Hybrid | Oct 18 |
 | ↳ | **[MBA Product Intern - Summer 2026](https://jobright.ai/jobs/info/68d72b15894705799a2f125b?utm_campaign=1047&utm_source=git)** | McLean, VA | Hybrid | Oct 18 |
@@ -79,8 +80,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager, AI User Experience - Intern](https://jobright.ai/jobs/info/68f2b87a76a51a4307bc7732?utm_campaign=1047&utm_source=git)** | San Mateo, California | On Site | Oct 17 |
 | **[GiveDirectly](https://www.givedirectly.org/)** | **[Senior Product Manager, International Rapid Response Payment Systems](https://jobright.ai/jobs/info/689bcbd679a9f96662533c77?utm_campaign=1047&utm_source=git)** | New York, NY | Remote | Oct 17 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Product Graduate Intern](https://jobright.ai/jobs/info/68f29c4976a51a4307bc54c3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 17 |
-| **[Nike](http://www.nike.com)** | **[NIKE, Inc. Product Management Graduate Internship](https://jobright.ai/jobs/info/68f1be2fe6870116b1f5cb5b?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Oct 17 |
-| ↳ | **[NIKE, Inc. Footwear Product Creation Undergraduate Internship](https://jobright.ai/jobs/info/68f1bddee6870116b1f5ca8d?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Oct 17 |
 | **[Toast](https://pos.toasttab.com)** | **[MBA Product Manager Intern](https://jobright.ai/jobs/info/68f291e49a65fd345857db43?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Oct 17 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68cbde77ba798c1a501d5b3f?utm_campaign=1047&utm_source=git)** | Westchester, IL | Hybrid | Oct 17 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/68aebe937bcb7608b3d29365?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Oct 17 |
@@ -99,6 +98,8 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, Product Management, Energy Engineering (Winter/Spring 2026)](https://jobright.ai/jobs/info/68f18688ef766b3f0fd0f1e0?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Oct 16 |
 | **[Intelliguard®](https://ig.solutions/)** | **[Product Intern](https://jobright.ai/jobs/info/68f17b64e6870116b1f59971?utm_campaign=1047&utm_source=git)** | Columbus, OH | Hybrid | Oct 16 |
 | **[Vitasigns](www.vitasigns.com)** | **[Product Operations Intern (AI & Automation)](https://jobright.ai/jobs/info/68f177a6f462172a5a7d8dc5?utm_campaign=1047&utm_source=git)** | Newport Beach, CA | Hybrid | Oct 16 |
+| **[Nike](http://www.nike.com)** | **[NIKE, Inc. Product Management Graduate Internship](https://jobright.ai/jobs/info/68f1be2fe6870116b1f5cb5b?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Oct 16 |
+| ↳ | **[NIKE, Inc. Footwear Product Creation Undergraduate Internship](https://jobright.ai/jobs/info/68f1bddee6870116b1f5ca8d?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Oct 16 |
 | **[Intelliguard®](https://ig.solutions/)** | **[Product Intern](https://jobright.ai/jobs/info/68f1581ce6870116b1f575e6?utm_campaign=1047&utm_source=git)** | Columbus, OH | Hybrid | Oct 16 |
 | **[Brimar Industries](http://brimar.com)** | **[Product Associate Intern (Marketing)](https://jobright.ai/jobs/info/68f22bb2cb0abf15612f4d64?utm_campaign=1047&utm_source=git)** | Jessup, PA, US | On Site | Oct 16 |
 | **[Uline](http://www.uline.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f1374ce6870116b1f54dde?utm_campaign=1047&utm_source=git)** | Glenview, IL | On Site | Oct 16 |
@@ -127,10 +128,10 @@ For a complete list, click the following sortable link below:
 | **[Skydio](https://www.skydio.com)** | **[Hardware Product Management Intern](https://jobright.ai/jobs/info/68efff76de50091dbfa5156b?utm_campaign=1047&utm_source=git)** | San Mateo, CA | On Site | Oct 15 |
 | **[Red Hat](http://www.redhat.com)** | **[Product Training Analyst Intern](https://jobright.ai/jobs/info/68f01e809821486c423c8e3d?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Oct 15 |
 | **[Versana](https://versana.io)** | **[Product Internship (Summer 2026)](https://jobright.ai/jobs/info/68effce478ba1621431e1510?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Oct 15 |
-| **[Lucid Software](https://lucid.co)** | **[Product Management Internship Summer 2026](https://jobright.ai/jobs/info/68eff6979821486c423c8385?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 15 |
+| **[Lucid Software](https://lucid.co)** | **[Product Management Internship Summer 2026](https://jobright.ai/jobs/info/68f01e3fde50091dbfa51cb2?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 15 |
+| ↳ | **[Product Management Internship Summer 2026](https://jobright.ai/jobs/info/68f023179821486c423c9410?utm_campaign=1047&utm_source=git)** | Raleigh, NC | Hybrid | Oct 15 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Underwriting/Product Management Intern - Specialty Equipment (Spring 2026)](https://jobright.ai/jobs/info/68eff4639821486c423c81f6?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | On Site | Oct 15 |
 | **[The Block](https://www.theblock.co)** | **[Crypto Product Reviews Intern](https://jobright.ai/jobs/info/68eff287de50091dbfa5104e?utm_campaign=1047&utm_source=git)** | Remote within United States | Remote | Oct 15 |
-| **[Lucid Software](https://lucid.co)** | **[Product Management Internship Summer 2026](https://jobright.ai/jobs/info/68eff0d978ba1621431e11a6?utm_campaign=1047&utm_source=git)** | Raleigh, NC | Hybrid | Oct 15 |
 | **[Lennox](http://www.lennox.com)** | **[Category Analyst Intern](https://jobright.ai/jobs/info/68d34dc4f0d9af73038e0eac?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Oct 15 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68ecb9071eecd439f43fd91e?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Oct 15 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Onshape Product Management Intern](https://jobright.ai/jobs/info/68efc19b9821486c423c71b8?utm_campaign=1047&utm_source=git)** | Sacramento, CA | On Site | Oct 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HARTING Technology Group](https://www.harting.com/)** | **[Product Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68efb4df9821486c423c6c83?utm_campaign=1047&utm_source=git)** | Elgin, IL | On Site | Oct 14 |
 | **[Publicis Sapient](https://www.publicissapient.com)** | **[Product Manager Intern (Class of 2027)](https://jobright.ai/jobs/info/68eea91ee0db9242258093af?utm_campaign=1047&utm_source=git)** | Chicago, Illinois | On Site | Oct 14 |
 | **[Experian](http://www.experianplc.com)** | **[Product Management Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/68eea72e46e5b153e5a5dd6e?utm_campaign=1047&utm_source=git)** | United States, United States, United States | Hybrid | Oct 14 |
-| **[Anthropologie Weddings](https://www.bhldn.com)** | **[URBN Digital Product Creation Intern](https://jobright.ai/jobs/info/68eea72646e5b153e5a5dd4a?utm_campaign=1047&utm_source=git)** | US-PA-Philadelphia | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
