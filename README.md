@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Atlassian](https://www.atlassian.com)** | **[Associate Product Management Intern, Summer 2026 U.S.](https://jobright.ai/jobs/info/68edfbb070b66e2345d42f2b?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Oct 19 |
+| **[Bobcat Company](https://www.bobcat.com)** | **[Ecommerce Development Intern](https://jobright.ai/jobs/info/68bb8d655f38327491870378?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Oct 19 |
 | **[Truewind](https://www.truewind.ai)** | **[Product Management Intern (Market Research & Growth)](https://jobright.ai/jobs/info/68f489ac9a63986de7576058?utm_campaign=1047&utm_source=git)** | San Francisco, CA, US | On Site | Oct 18 |
 | ↳ | **[Product Management Intern (Market Research & Growth)](https://jobright.ai/jobs/info/68f4870376a51a4307bd1fbd?utm_campaign=1047&utm_source=git)** | San Francisco, CA, US | On Site | Oct 18 |
 | ↳ | **[Product Management Intern (Market Research & Growth)](https://jobright.ai/jobs/info/68f44aa19a63986de7574892?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Oct 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Product Management Intern (Master's/MBA)](https://jobright.ai/jobs/info/68ef267ca1a1d02df61e9d7c?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Oct 14 |
 | **[Phenomenex](http://www.phenomenex.com)** | **[Product Management & Strategy Intern](https://jobright.ai/jobs/info/68eeff9a20456578d5eb3d9f?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Oct 14 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Product Management Intern - Foot & Ankle and Trauma](https://jobright.ai/jobs/info/68eeedbe46e5b153e5a611f7?utm_campaign=1047&utm_source=git)** | Naples, FL | On Site | Oct 14 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Product Management Intern (Master's/MBA)](https://jobright.ai/jobs/info/68eede79e0db92422580c48e?utm_campaign=1047&utm_source=git)** | Chippewa Falls, WI | Hybrid | Oct 14 |
-| ↳ | **[Product Management Intern (Master's/MBA)](https://jobright.ai/jobs/info/68eedcfed078b81ad1610262?utm_campaign=1047&utm_source=git)** | Andover, MA | Hybrid | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
