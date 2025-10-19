@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First Chicago Insurance Company](https://www.firstchicagoinsurance.com/)** | **[Product Analysis Intern](https://jobright.ai/jobs/info/68f5410576a51a4307bd4a62?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Oct 19 |
 | **[Copeland](https://www.copeland.com)** | **[2026 Business Analyst, Innovation Internship](https://jobright.ai/jobs/info/68bb91546105227d118a71a2?utm_campaign=1047&utm_source=git)** | Dayton, OH | On Site | Oct 19 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Product Manager)](https://jobright.ai/jobs/info/68cd1a57e23def7af55b55ab?utm_campaign=1047&utm_source=git)** | Vienna, VA | Hybrid | Oct 19 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern](https://jobright.ai/jobs/info/68c3adbf80e77b1fa6fcbfdc?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Oct 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Block](https://www.theblock.co)** | **[Crypto Product Reviews Intern](https://jobright.ai/jobs/info/68eff287de50091dbfa5104e?utm_campaign=1047&utm_source=git)** | Remote within United States | Remote | Oct 15 |
 | **[Lennox](http://www.lennox.com)** | **[Category Analyst Intern](https://jobright.ai/jobs/info/68d34dc4f0d9af73038e0eac?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Oct 15 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68ecb9071eecd439f43fd91e?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Oct 15 |
-| **[PTC](http://ptc.co/VLED30oHtEh)** | **[Onshape Product Management Intern](https://jobright.ai/jobs/info/68efc19b9821486c423c71b8?utm_campaign=1047&utm_source=git)** | Sacramento, CA | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
