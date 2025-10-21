@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern - Product Management](https://jobright.ai/jobs/info/68f6cfb19a63986de75827a7?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Oct 20 |
 | **[Second Dinner](http://seconddinner.com)** | **[[2026] Product Manager Intern, Unannounced Super Fun Video Game](https://jobright.ai/jobs/info/68f6c88e76a51a4307bde40b?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Oct 20 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Technology Product Development Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/68f6bd179a63986de7581d54?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Oct 20 |
 | **[Intuit](https://www.intuit.com)** | **[Product Manager 2, Rotational Product Management Program](https://jobright.ai/jobs/info/68f6bcb99a65fd3458596bae?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Oct 20 |
@@ -129,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68ed24eb70b66e2345d3ad4f?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Oct 17 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Product Development, Cosmetics](https://jobright.ai/jobs/info/68ce2c65e23def7af55c2c9a?utm_campaign=1047&utm_source=git)** | Oakland, CA | On Site | Oct 17 |
 | **[Enerpac Tool Group](https://www.enerpactoolgroup.com/)** | **[Intern - Product Commercialization & Go-To Market](https://jobright.ai/jobs/info/68f1f30eef766b3f0fd13f54?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Oct 17 |
+| **[Nelnet](https://nelnetinc.com)** | **[New Ventures Intern](https://jobright.ai/jobs/info/68f21736af0b5a06b5849f4d?utm_campaign=1047&utm_source=git)** | Lincoln, NE | On Site | Oct 17 |
 | **[SHOPLINE](http://www.shoplineapp.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68f23a3665ce784c102efba8?utm_campaign=1047&utm_source=git)** | Pasadena, CA | Hybrid | Oct 17 |
-| **[Nelnet](https://nelnetinc.com)** | **[New Ventures Intern](https://jobright.ai/jobs/info/68f1d4e1f462172a5a7dceab?utm_campaign=1047&utm_source=git)** | Lincoln, NE | On Site | Oct 16 |
 | **[ByteDance](http://bytedance.com)** | **[Product Manager Intern (Multi-Cloud CDN)- 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68f1bc32f462172a5a7dbdea?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 16 |
 | **[Enerpac Tool Group](https://www.enerpactoolgroup.com/)** | **[Intern - Product Commercialization & Go-To Market](https://jobright.ai/jobs/info/68f1b07ef462172a5a7db3ce?utm_campaign=1047&utm_source=git)** | Milwaukee, Wisconsin | On Site | Oct 16 |
 | **[ModMed](https://www.modmed.com)** | **[Product Development Summer 2026 Internship](https://jobright.ai/jobs/info/68eeb96ce0db92422580a57c?utm_campaign=1047&utm_source=git)** | Boca Raton, Florida | Hybrid | Oct 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[2026 Amazon Leadership Accelerator (ALA) Product Manager Internship](https://jobright.ai/jobs/info/68f061cb2e327452a0a4c9fc?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Oct 15 |
 | **[Nestlé](https://www.nestle.com)** | **[Nestlé R&D Product Development Intern](https://jobright.ai/jobs/info/68f057c423b5702fba8ca19f?utm_campaign=1047&utm_source=git)** | Solon, OH | On Site | Oct 15 |
 | **[Visa](https://www.visa.com)** | **[Technical Product/Project Management Intern - Summer 2026, Austin](https://jobright.ai/jobs/info/68f033ba78ba1621431e3623?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Oct 15 |
-| **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/68f003129821486c423c8a38?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
