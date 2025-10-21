@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Product Management Intern (Master's/MBA)](https://jobright.ai/jobs/info/68ef267ca1a1d02df61e9d7c?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Oct 20 |
+| ↳ | **[Product Management Intern (Master's/MBA)](https://jobright.ai/jobs/info/68eed2fad078b81ad160fb9e?utm_campaign=1047&utm_source=git)** | Spring, TX | Hybrid | Oct 20 |
 | **[Primerica](https://www.primerica.com)** | **[Product Development Intern - WLM-2025-3i](https://jobright.ai/jobs/info/68f6fa429a65fd3458598c72?utm_campaign=1047&utm_source=git)** | Trenton, NJ | On Site | Oct 20 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern - Product Management](https://jobright.ai/jobs/info/68f6cfb19a63986de75827a7?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Oct 20 |
 | **[Second Dinner](http://seconddinner.com)** | **[[2026] Product Manager Intern, Unannounced Super Fun Video Game](https://jobright.ai/jobs/info/68f6c88e76a51a4307bde40b?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Oct 20 |
@@ -117,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[CRM Product Project Intern [TikTok-PGC-Creator Strategy]-2025 Start (BS/MS)](https://jobright.ai/jobs/info/68ce209be23def7af55c2592?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 18 |
 | ↳ | **[Product Operations Project Intern - SMB Industry Operations - 2025 Start (BS/ MS)](https://jobright.ai/jobs/info/68f223ddcb0abf15612f475e?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Oct 18 |
 | ↳ | **[Product Manager Intern (TikTok-PGC)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68d72727894705799a2f1169?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 18 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Product Management Intern (Master's/MBA)](https://jobright.ai/jobs/info/68eed2fad078b81ad160fb9e?utm_campaign=1047&utm_source=git)** | Spring, TX | Hybrid | Oct 17 |
 | **[Munich Re](https://www.munichre.com)** | **[Product Management Intern, NA Integrated Analytics (2026 Summer - New York)](https://jobright.ai/jobs/info/68f30c6e9a63986de756e751?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Oct 17 |
 | **[Qualcomm](http://www.qualcomm.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f2ffeb9a65fd3458582a81?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Oct 17 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Product Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68f2fcbd9a63986de756dadb?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Oct 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dawn Foods Global](https://www.dawnfoods.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68d332e78c62e63bc7fde8a7?utm_campaign=1047&utm_source=git)** | Jackson, MI | On Site | Oct 15 |
 | **[Amazon](https://amazon.com)** | **[2026 Amazon Leadership Accelerator (ALA) Product Manager Internship](https://jobright.ai/jobs/info/68f061cb2e327452a0a4c9fc?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Oct 15 |
 | **[Nestlé](https://www.nestle.com)** | **[Nestlé R&D Product Development Intern](https://jobright.ai/jobs/info/68f057c423b5702fba8ca19f?utm_campaign=1047&utm_source=git)** | Solon, OH | On Site | Oct 15 |
-| **[Visa](https://www.visa.com)** | **[Technical Product/Project Management Intern - Summer 2026, Austin](https://jobright.ai/jobs/info/68f033ba78ba1621431e3623?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
