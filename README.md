@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GiveDirectly](https://www.givedirectly.org/)** | **[Senior Product Manager, International Rapid Response Payment Systems](https://jobright.ai/jobs/info/68cba8d89e3a822f5d249d3c?utm_campaign=1047&utm_source=git)** | United States | Remote | Oct 21 |
+| **[The Bancorp](http://www.thebancorp.com/)** | **[Product Development Intern (Hybrid)](https://jobright.ai/jobs/info/68f7f3aa5dc1be601281ef77?utm_campaign=1047&utm_source=git)** | US-SD-Sioux Falls | Hybrid | Oct 21 |
+| **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - EMC Product Management](https://jobright.ai/jobs/info/68f7f079ec6dbe7073fcec44?utm_campaign=1047&utm_source=git)** | Holtsville, NY | On Site | Oct 21 |
+| **[First Solar](http://www.firstsolar.com)** | **[Product & Technology Intern (Spring 2026)](https://jobright.ai/jobs/info/68f7f0535dc1be601281ea73?utm_campaign=1047&utm_source=git)** | Perrysburg, OH | On Site | Oct 21 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68bf1907702aa35207aa31d6?utm_campaign=1047&utm_source=git)** | Mentor, OH | On Site | Oct 21 |
 | **[First Solar](http://www.firstsolar.com)** | **[Product & Technology Intern (Spring 2026)](https://jobright.ai/jobs/info/68f7a95ab0edcf159dc85d78?utm_campaign=1047&utm_source=git)** | 28101 Cedar Park Blvd, Perrysburg, OH, 43551, US | On Site | Oct 21 |
 | **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Product](https://jobright.ai/jobs/info/68cff95edbd9fb154edec6af?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Oct 21 |
@@ -73,8 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern - Product Management](https://jobright.ai/jobs/info/68f6cfb19a63986de75827a7?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Oct 20 |
 | **[Second Dinner](http://seconddinner.com)** | **[[2026] Product Manager Intern, Unannounced Super Fun Video Game](https://jobright.ai/jobs/info/68f6c88e76a51a4307bde40b?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Oct 20 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Technology Product Development Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/68f6bd179a63986de7581d54?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Oct 20 |
-| **[Intuit](https://www.intuit.com)** | **[Product Manager 2, Rotational Product Management Program](https://jobright.ai/jobs/info/68f6bcb99a65fd3458596bae?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Oct 20 |
-| ↳ | **[Product Manager Intern, Rotational Product Management Program](https://jobright.ai/jobs/info/68f6b62d9a65fd34585966c7?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Oct 20 |
 | **[Santander](https://www.santander.com/)** | **[Deposit Product Strategy Intern](https://jobright.ai/jobs/info/68f6a21776a51a4307bdc9a1?utm_campaign=1047&utm_source=git)** | Boston | On Site | Oct 20 |
 | **[Wawa, Inc.](https://www.wawa.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68f6a0719a63986de7580792?utm_campaign=1047&utm_source=git)** | Media, PA | On Site | Oct 20 |
 | **[Santander](https://www.santander.com/)** | **[Deposit Product Strategy Intern](https://jobright.ai/jobs/info/68f6a0669a65fd345859545a?utm_campaign=1047&utm_source=git)** | New York | On Site | Oct 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Intern](https://jobright.ai/jobs/info/68f1581ce6870116b1f575e6?utm_campaign=1047&utm_source=git)** | Columbus, OH | Hybrid | Oct 16 |
 | **[Brimar Industries](http://brimar.com)** | **[Product Associate Intern (Marketing)](https://jobright.ai/jobs/info/68f22bb2cb0abf15612f4d64?utm_campaign=1047&utm_source=git)** | Jessup, PA, US | On Site | Oct 16 |
 | **[Uline](http://www.uline.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f1374ce6870116b1f54dde?utm_campaign=1047&utm_source=git)** | Glenview, IL | On Site | Oct 16 |
-| **[FieldPulse](https://www.fieldpulse.com/)** | **[Product Summer 2026 Intern](https://jobright.ai/jobs/info/68f13378ef766b3f0fd09c50?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Oct 16 |
-| **[Uline](http://www.uline.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f12f3fe6870116b1f545f3?utm_campaign=1047&utm_source=git)** | Kenosha, WI | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
