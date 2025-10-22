@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ferrara](https://www.ferrara.com)** | **[Product Development Internship Program 2026](https://jobright.ai/jobs/info/68bf8d995c5d5f14f46d7eeb?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Oct 22 |
+| **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68cdfa5f1ad6b16f028a06db?utm_campaign=1047&utm_source=git)** | Quincy, IL | On Site | Oct 22 |
+| **[Aptiv](http://www.aptiv.com)** | **[Product Line Purchasing Intern](https://jobright.ai/jobs/info/68cda788b2a74e1837eda629?utm_campaign=1047&utm_source=git)** | Troy, MI | On Site | Oct 22 |
+| **[Epic Games](https://epicgames.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/68f08a71a6b9004b5e3212a1?utm_campaign=1047&utm_source=git)** | Cary, NC | On Site | Oct 22 |
 | **[Faraday Future](https://www.ff.com)** | **[Part Time Product Associate Intern](https://jobright.ai/jobs/info/68f87c60a628d10664e83465?utm_campaign=1047&utm_source=git)** | Gardena, CA | On Site | Oct 21 |
 | ↳ | **[Part Time Product Associate Intern](https://jobright.ai/jobs/info/68f84fa56de2db04dc3ddd22?utm_campaign=1047&utm_source=git)** | Gardena, California, United States | On Site | Oct 21 |
 | **[Experian](http://www.experianplc.com)** | **[Product Management Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/68f83e166de2db04dc3dd0ad?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Oct 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wipfli](http://www.wipfli.com)** | **[Product Implementation Internship-Summer 2026](https://jobright.ai/jobs/info/68f88822a628d10664e83a56?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 17 |
 | **[Nelnet](https://nelnetinc.com)** | **[New Ventures Intern](https://jobright.ai/jobs/info/68f1d4e1f462172a5a7dceab?utm_campaign=1047&utm_source=git)** | Lincoln, NE | On Site | Oct 16 |
 | **[ByteDance](http://bytedance.com)** | **[Product Manager Intern (Multi-Cloud CDN)- 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68f1bc32f462172a5a7dbdea?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 16 |
-| **[Enerpac Tool Group](https://www.enerpactoolgroup.com/)** | **[Intern - Product Commercialization & Go-To Market](https://jobright.ai/jobs/info/68f1b07ef462172a5a7db3ce?utm_campaign=1047&utm_source=git)** | Milwaukee, Wisconsin | On Site | Oct 16 |
-| **[ModMed](https://www.modmed.com)** | **[Product Development Summer 2026 Internship](https://jobright.ai/jobs/info/68eeb96ce0db92422580a57c?utm_campaign=1047&utm_source=git)** | Boca Raton, Florida | Hybrid | Oct 16 |
-| **[RJ Schinner Co., Inc.](https://www.rjschinner.com/)** | **[Pricing & Product Data Intern](https://jobright.ai/jobs/info/68f303009a63986de756dee0?utm_campaign=1047&utm_source=git)** | Menomonee Falls, WI | On Site | Oct 16 |
-| **[Illumio](http://www.illumio.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
