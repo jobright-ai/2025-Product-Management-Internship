@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Exact Sciences](https://www.exactsciences.com)** | **[Product Manager, Genetics Intern](https://jobright.ai/jobs/info/68f91894cadb2e5a06a61282?utm_campaign=1047&utm_source=git)** | US - WI - Madison | On Site | Oct 22 |
+| **[Exact Sciences](https://www.exactsciences.com)** | **[Product Manager, Genetics Intern](https://jobright.ai/jobs/info/68f93e75cadb2e5a06a62dd3?utm_campaign=1047&utm_source=git)** | Marshfield, WI | On Site | Oct 22 |
+| ↳ | **[Product Manager, Genetics Intern](https://jobright.ai/jobs/info/68f93be06de2db04dc3e701c?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Oct 22 |
+| ↳ | **[Product Manager, Genetics Intern](https://jobright.ai/jobs/info/68f91894cadb2e5a06a61282?utm_campaign=1047&utm_source=git)** | US - WI - Madison | On Site | Oct 22 |
 | ↳ | **[Product Manager, Genetics Intern](https://jobright.ai/jobs/info/68f916cb6de2db04dc3e5473?utm_campaign=1047&utm_source=git)** | US - WI - Marshfield | On Site | Oct 22 |
 | **[PCOnline](https://pconlineus.com/)** | **[Technical Product Manager (Intern)](https://jobright.ai/jobs/info/68f90b8bcadb2e5a06a60659?utm_campaign=1047&utm_source=git)** | Newark, DE | On Site | Oct 22 |
 | **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Product](https://jobright.ai/jobs/info/68c54fb4c96a22563ece85d0?utm_campaign=1047&utm_source=git)** | Fort Mill, SC | Hybrid | Oct 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (TikTok-PGC)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68d72727894705799a2f1169?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 18 |
 | **[Agropur](http://www.agropur.com/en/)** | **[Product Development Intern](https://jobright.ai/jobs/info/68ce061f1ad6b16f028a11d2?utm_campaign=1047&utm_source=git)** | Appleton, WI | On Site | Oct 17 |
 | **[Munich Re](https://www.munichre.com)** | **[Product Management Intern, NA Integrated Analytics (2026 Summer - New York)](https://jobright.ai/jobs/info/68f30c6e9a63986de756e751?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Oct 17 |
-| **[Qualcomm](http://www.qualcomm.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f2ffeb9a65fd3458582a81?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Oct 17 |
-| **[Exact Sciences](https://www.exactsciences.com)** | **[Product Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68f2fcbd9a63986de756dadb?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
