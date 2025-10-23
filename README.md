@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nike](http://www.nike.com)** | **[NIKE, Inc. Footwear Product Creation Undergraduate Internship](https://jobright.ai/jobs/info/68f1bddee6870116b1f5ca8d?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Oct 22 |
 | **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/68f003129821486c423c8a38?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Oct 22 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Oct 22 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Product Manager, Genetics Intern](https://jobright.ai/jobs/info/68f93e75cadb2e5a06a62dd3?utm_campaign=1047&utm_source=git)** | Marshfield, WI | On Site | Oct 22 |
@@ -112,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Exact Sciences](https://www.exactsciences.com)** | **[MCED Product Management Operations Intern - Summer 2026](https://jobright.ai/jobs/info/68f671469a63986de757e66d?utm_campaign=1047&utm_source=git)** | US - WI - Madison | On Site | Oct 20 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Technology & Product Strategy Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/68f661a676a51a4307bd9df5?utm_campaign=1047&utm_source=git)** | Superior, MI | Hybrid | Oct 20 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc. Product Management Graduate Internship](https://jobright.ai/jobs/info/68f1be2fe6870116b1f5cb5b?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Oct 20 |
-| ↳ | **[NIKE, Inc. Footwear Product Creation Undergraduate Internship](https://jobright.ai/jobs/info/68f1bddee6870116b1f5ca8d?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Oct 20 |
 | **[Agropur](http://www.agropur.com/en/)** | **[Product Development Intern](https://jobright.ai/jobs/info/68f659a79a63986de757da4d?utm_campaign=1047&utm_source=git)** | Appleton | On Site | Oct 20 |
 | **[Nestlé](https://www.nestle.com)** | **[Nestlé Product Development Intern](https://jobright.ai/jobs/info/68dc3f69a125e75c4229eb4c?utm_campaign=1047&utm_source=git)** | Solon, OH | On Site | Oct 20 |
 | **[Silicon Ranch Corporation](https://www.siliconranch.com/)** | **[Intern, Clearloop Product & Programs](https://jobright.ai/jobs/info/68f654bd9a65fd345859253a?utm_campaign=1047&utm_source=git)** | Nashville, TN or Boston, MA | On Site | Oct 20 |
@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[MBA Product Intern - Summer 2026](https://jobright.ai/jobs/info/68d72bd4894705799a2f12f8?utm_campaign=1047&utm_source=git)** | Richmond, VA | Hybrid | Oct 18 |
 | ↳ | **[MBA Product Intern - Summer 2026](https://jobright.ai/jobs/info/68d72b15894705799a2f125b?utm_campaign=1047&utm_source=git)** | McLean, VA | Hybrid | Oct 18 |
 | ↳ | **[MBA Product Intern - Summer 2026](https://jobright.ai/jobs/info/68d729b7d3fe025a3015f591?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Oct 18 |
-| **[TikTok](https://www.tiktok.com)** | **[CRM Product Project Intern [TikTok-PGC-Creator Strategy]-2025 Start (BS/MS)](https://jobright.ai/jobs/info/68ce209be23def7af55c2592?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 18 |
-| ↳ | **[Product Operations Project Intern - SMB Industry Operations - 2025 Start (BS/ MS)](https://jobright.ai/jobs/info/68f223ddcb0abf15612f475e?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Oct 18 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern - SMB Industry Operations - 2025 Start (BS/ MS)](https://jobright.ai/jobs/info/68f223ddcb0abf15612f475e?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Oct 18 |
 | ↳ | **[Product Manager Intern (TikTok-PGC)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68d72727894705799a2f1169?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 18 |
 | **[Agropur](http://www.agropur.com/en/)** | **[Product Development Intern](https://jobright.ai/jobs/info/68ce061f1ad6b16f028a11d2?utm_campaign=1047&utm_source=git)** | Appleton, WI | On Site | Oct 17 |
+| **[Munich Re](https://www.munichre.com)** | **[Product Management Intern, NA Integrated Analytics (2026 Summer - New York)](https://jobright.ai/jobs/info/68f30c6e9a63986de756e751?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
