@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Competitiveness Intern, Heavy Duty Gas Turbine Product Management - Summer 2026](https://jobright.ai/jobs/info/68d65114894705799a2eab01?utm_campaign=1047&utm_source=git)** | Greenville, SC | On Site | Oct 23 |
 | **[Duolingo](https://www.duolingo.com)** | **[Product Manager, MBA Intern](https://jobright.ai/jobs/info/68dd8b3844d32141e0bf7d4a?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Oct 23 |
 | **[TikTok](https://www.tiktok.com)** | **[User Product Operations Intern [TikTok Local Services] - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ccf1795954791a1d7018f5?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Oct 23 |
 | ↳ | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd5bece23def7af55b8a98?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 23 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[P&A Product Management Intern](https://jobright.ai/jobs/info/68cc5900128dc347fd922df5?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI | On Site | Oct 18 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 LAUNCH Program: Data Science Product Manager Intern](https://jobright.ai/jobs/info/68f312cf9a63986de756ec54?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Oct 18 |
 | **[Ibotta](https://home.ibotta.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/68d7574b7a37c712687c9539?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Oct 18 |
-| **[Capital One](http://www.capitalone.com)** | **[MBA Product Intern - Summer 2026](https://jobright.ai/jobs/info/68d729e2d3fe025a3015f5ab?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Oct 18 |
-| ↳ | **[MBA Product Intern - Summer 2026](https://jobright.ai/jobs/info/68d72bd4894705799a2f12f8?utm_campaign=1047&utm_source=git)** | Richmond, VA | Hybrid | Oct 18 |
+| **[Agropur](http://www.agropur.com/en/)** | **[Product Development Intern](https://jobright.ai/jobs/info/68ce061f1ad6b16f028a11d2?utm_campaign=1047&utm_source=git)** | Appleton, WI | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
