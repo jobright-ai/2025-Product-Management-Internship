@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Family Insurance](http://amfamventures.com/)** | **[Summer 2026 Internship - Product Strategy and Development](https://jobright.ai/jobs/info/68fa6084edd190144238ba60?utm_campaign=1047&utm_source=git)** | WI Madison | Hybrid | Oct 23 |
+| **[Coinbase](https://www.coinbase.com)** | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/68fa5e0e7959161d33e62705?utm_campaign=1047&utm_source=git)** | Hybrid - New York, NY | On Site | Oct 23 |
+| **[Electronic Arts (EA)](https://www.ea.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68ea0741cdf8d94b293a443f?utm_campaign=1047&utm_source=git)** | Redwood City, CA | Hybrid | Oct 23 |
+| **[American Express](http://www.americanexpress.com)** | **[Campus Graduate Summer Internship Program - 2026 Product Development, US Consumer Services - New York, NY](https://jobright.ai/jobs/info/68c1e5053fd8b059a20f3c2e?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Oct 23 |
 | **[EX Venture Inc.](https://ex-zerocarbon.com/)** | **[AI & Product Development Specialist Internship In Bali](https://jobright.ai/jobs/info/68fa3d887959161d33e610ac?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Oct 23 |
 | ↳ | **[AI & Product Development Specialist Internship In Bali](https://jobright.ai/jobs/info/68fa4d03edd190144238a99b?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 23 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Competitiveness Intern, Heavy Duty Gas Turbine Product Management - Summer 2026](https://jobright.ai/jobs/info/68d65114894705799a2eab01?utm_campaign=1047&utm_source=git)** | Greenville, SC | On Site | Oct 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate Summer Internship Program - 2026 Product Development, Global Merchant & Network Services - New York, NY](https://jobright.ai/jobs/info/68d71f9345853d0e39ccd0af?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Oct 18 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Product Strategist)](https://jobright.ai/jobs/info/68cedc56dbd9fb154ede3437?utm_campaign=1047&utm_source=git)** | Pensacola, FL | On Site | Oct 18 |
 | ↳ | **[Summer Associate Internship (Product Strategist)](https://jobright.ai/jobs/info/68bb7b8d8043103d4f228f70?utm_campaign=1047&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Sales Product Owner - 2026 Summer Internship (Chicago Hybrid)](https://jobright.ai/jobs/info/68d7493ce5293e3538af39dd?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Oct 18 |
-| **[Brunswick Corporation](http://www.brunswick.com)** | **[P&A Product Management Intern](https://jobright.ai/jobs/info/68cc5900128dc347fd922df5?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI | On Site | Oct 18 |
-| **[Red Ventures](http://www.redventures.com)** | **[2026 LAUNCH Program: Data Science Product Manager Intern](https://jobright.ai/jobs/info/68f312cf9a63986de756ec54?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Oct 18 |
-| **[Ibotta](https://home.ibotta.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/68d7574b7a37c712687c9539?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
