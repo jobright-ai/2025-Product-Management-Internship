@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TE Connectivity](http://www.te.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68fa9dc0b2c86843bf21040c?utm_campaign=1047&utm_source=git)** | Fuquay-Varina, NC | On Site | Oct 23 |
+| **[The Minnesota Star Tribune](http://www.startribunecompany.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68fa8885edd190144238ddb9?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 23 |
 | **[US Tiger Securities, Inc.](https://www.itigerup.com/?lang=en_US)** | **[Product Management Intern (Japanese Fluency Required)](https://jobright.ai/jobs/info/68fa8077edd190144238d471?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 23 |
 | **[Cook Medical](http://www.cookmedical.com)** | **[Product Management/Marketing Internship - Vascular Interventional Medical Devices](https://jobright.ai/jobs/info/68fa7d6367272b29af72fba0?utm_campaign=1047&utm_source=git)** | US-IN-Bloomington | Hybrid | Oct 23 |
 | ↳ | **[Product Management/Marketing Internship - Vascular Interventional Medical Devices](https://jobright.ai/jobs/info/68fa7d3bedd190144238cffd?utm_campaign=1047&utm_source=git)** | Bloomington, IN | Hybrid | Oct 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Intern (Market Research & Growth)](https://jobright.ai/jobs/info/68f4870376a51a4307bd1fbd?utm_campaign=1047&utm_source=git)** | San Francisco, CA, US | On Site | Oct 18 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Parts & Accessories Product Management Intern](https://jobright.ai/jobs/info/68f9d5c77b89366816034725?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI | On Site | Oct 18 |
 | **[Lennox](http://www.lennox.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68f864b34bafad6d2d7622b0?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Oct 18 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Credit Card Experiences Product Manager)](https://jobright.ai/jobs/info/68d2f29a8c62e63bc7fdbe10?utm_campaign=1047&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
-| ↳ | **[Summer Associate Internship (Product Strategist)](https://jobright.ai/jobs/info/68cc5b4b128dc347fd9233af?utm_campaign=1047&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
