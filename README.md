@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Duolingo](https://www.duolingo.com)** | **[Product Manager, MBA Intern](https://jobright.ai/jobs/info/68dd8b3844d32141e0bf7d4a?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Oct 23 |
+| **[TikTok](https://www.tiktok.com)** | **[User Product Operations Intern [TikTok Local Services] - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ccf1795954791a1d7018f5?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Oct 23 |
+| ↳ | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd5bece23def7af55b8a98?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 23 |
+| ↳ | **[Product Manager Intern [TikTok-Product-Comprehensive Search]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ccfd0677add66568abd2f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 23 |
+| **[Datadog](https://www.datadoghq.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68cd3bfd1ad6b16f02896db9?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Oct 23 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc. Footwear Product Creation Undergraduate Internship](https://jobright.ai/jobs/info/68f1bddee6870116b1f5ca8d?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Oct 22 |
 | **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/68f003129821486c423c8a38?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Oct 22 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Oct 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ibotta](https://home.ibotta.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/68d7574b7a37c712687c9539?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Oct 18 |
 | **[Capital One](http://www.capitalone.com)** | **[MBA Product Intern - Summer 2026](https://jobright.ai/jobs/info/68d729e2d3fe025a3015f5ab?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Oct 18 |
 | ↳ | **[MBA Product Intern - Summer 2026](https://jobright.ai/jobs/info/68d72bd4894705799a2f12f8?utm_campaign=1047&utm_source=git)** | Richmond, VA | Hybrid | Oct 18 |
-| ↳ | **[MBA Product Intern - Summer 2026](https://jobright.ai/jobs/info/68d72b15894705799a2f125b?utm_campaign=1047&utm_source=git)** | McLean, VA | Hybrid | Oct 18 |
-| ↳ | **[MBA Product Intern - Summer 2026](https://jobright.ai/jobs/info/68d729b7d3fe025a3015f591?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Oct 18 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern - SMB Industry Operations - 2025 Start (BS/ MS)](https://jobright.ai/jobs/info/68f223ddcb0abf15612f475e?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Oct 18 |
-| **[Munich Re](https://www.munichre.com)** | **[Product Management Intern, NA Integrated Analytics (2026 Summer - New York)](https://jobright.ai/jobs/info/68f30c6e9a63986de756e751?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Oct 17 |
-| **[Exact Sciences](https://www.exactsciences.com)** | **[Product Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68f2fcbd9a63986de756dadb?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
