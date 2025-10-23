@@ -138,6 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Bobcat Company](https://www.bobcat.com)** | **[Ecommerce Development Intern](https://jobright.ai/jobs/info/68bb8d655f38327491870378?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Oct 19 |
 | **[Truewind](https://www.truewind.ai)** | **[Product Management Intern (Market Research & Growth)](https://jobright.ai/jobs/info/68f489ac9a63986de7576058?utm_campaign=1047&utm_source=git)** | San Francisco, CA, US | On Site | Oct 18 |
 | ↳ | **[Product Management Intern (Market Research & Growth)](https://jobright.ai/jobs/info/68f4870376a51a4307bd1fbd?utm_campaign=1047&utm_source=git)** | San Francisco, CA, US | On Site | Oct 18 |
+| **[Brunswick Corporation](http://www.brunswick.com)** | **[Parts & Accessories Product Management Intern](https://jobright.ai/jobs/info/68f9d5c77b89366816034725?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI | On Site | Oct 18 |
 | **[Lennox](http://www.lennox.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68f864b34bafad6d2d7622b0?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Oct 18 |
 | **[Truewind](https://www.truewind.ai)** | **[Product Management Intern (Market Research & Growth)](https://jobright.ai/jobs/info/68f44aa19a63986de7574892?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Oct 18 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Credit Card Experiences Product Manager)](https://jobright.ai/jobs/info/68d2f29a8c62e63bc7fdbe10?utm_campaign=1047&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[MBA Product Intern - Summer 2026](https://jobright.ai/jobs/info/68d72b15894705799a2f125b?utm_campaign=1047&utm_source=git)** | McLean, VA | Hybrid | Oct 18 |
 | ↳ | **[MBA Product Intern - Summer 2026](https://jobright.ai/jobs/info/68d729b7d3fe025a3015f591?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Oct 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern - SMB Industry Operations - 2025 Start (BS/ MS)](https://jobright.ai/jobs/info/68f223ddcb0abf15612f475e?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Oct 18 |
-| **[Agropur](http://www.agropur.com/en/)** | **[Product Development Intern](https://jobright.ai/jobs/info/68ce061f1ad6b16f028a11d2?utm_campaign=1047&utm_source=git)** | Appleton, WI | On Site | Oct 17 |
 | **[Munich Re](https://www.munichre.com)** | **[Product Management Intern, NA Integrated Analytics (2026 Summer - New York)](https://jobright.ai/jobs/info/68f30c6e9a63986de756e751?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Oct 17 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Product Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68f2fcbd9a63986de756dadb?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
