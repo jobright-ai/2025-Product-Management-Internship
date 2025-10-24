@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tencent](https://www.tencent.com/)** | **[Tencent Cloud CPaaS Product Management Intern](https://jobright.ai/jobs/info/68fbe98bf55bb021a889df09?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Oct 24 |
+| ↳ | **[Tencent Cloud CPaaS Product Management Intern](https://jobright.ai/jobs/info/68fbe6c84129dd33cd13614e?utm_campaign=1047&utm_source=git)** | US-California-Palo Alto | On Site | Oct 24 |
+| **[Schneider Electric](https://www.se.com)** | **[Graduate Product Owner Intern](https://jobright.ai/jobs/info/68fbe0974129dd33cd135c4b?utm_campaign=1047&utm_source=git)** | Nashville, TN | On Site | Oct 24 |
+| ↳ | **[Graduate Product Owner Intern](https://jobright.ai/jobs/info/68fbdd214129dd33cd13591c?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Oct 24 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Digital Product Analyst Internship](https://jobright.ai/jobs/info/68fbd4824129dd33cd1352f8?utm_campaign=1047&utm_source=git)** | Columbus, OH | On Site | Oct 24 |
 | **[Align Technology](http://www.aligntech.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68d4314817554c2d9eef6aa5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
 | **[Life Fitness  / Hammer Strength](https://www.lifefitness.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68fb982bf55bb021a889aabb?utm_campaign=1047&utm_source=git)** | Rosemont, IL | On Site | Oct 24 |
@@ -79,8 +83,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Content Operations Intern (TikTok-Product-Content Ecosystem)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688e2c42e5cead4afd45bf2f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/68fb2e543c99cc1d96029630?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
 | ↳ | **[Product Manager Intern [TikTok-Product-Search Growth]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cc67477342c7623ae64528?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
-| ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd18b31ad6b16f02894c64?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
 | ↳ | **[Product manager Intern (TikTok-Search-Comprehensive Search) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68cc52dd128dc347fd922a2d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
+| ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd18b31ad6b16f02894c64?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
 | ↳ | **[Product Manager Intern [TikTok-Product-Privacy and Responsibility]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688f021de5cead4afd45fb3f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
 | ↳ | **[Product Manager Intern [TikTok LIVE-Recommend Product]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cdc3ebe23def7af55bf226?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
 | ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ccd909d11b445e0bee2c44?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Oct 24 |
@@ -113,8 +117,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Oct 22 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Product Manager, Genetics Intern](https://jobright.ai/jobs/info/68f93e75cadb2e5a06a62dd3?utm_campaign=1047&utm_source=git)** | Marshfield, WI | On Site | Oct 22 |
 | ↳ | **[Product Manager, Genetics Intern](https://jobright.ai/jobs/info/68f93be06de2db04dc3e701c?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Oct 22 |
-| **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - EMC Product Management](https://jobright.ai/jobs/info/68fbd2494129dd33cd135086?utm_campaign=1047&utm_source=git)** | Holtsville, NY | On Site | Oct 22 |
-| **[Exact Sciences](https://www.exactsciences.com)** | **[Product Manager, Genetics Intern](https://jobright.ai/jobs/info/68f91894cadb2e5a06a61282?utm_campaign=1047&utm_source=git)** | US - WI - Madison | On Site | Oct 22 |
+| ↳ | **[Product Manager, Genetics Intern](https://jobright.ai/jobs/info/68f91894cadb2e5a06a61282?utm_campaign=1047&utm_source=git)** | US - WI - Madison | On Site | Oct 22 |
 | ↳ | **[Product Manager, Genetics Intern](https://jobright.ai/jobs/info/68f916cb6de2db04dc3e5473?utm_campaign=1047&utm_source=git)** | US - WI - Marshfield | On Site | Oct 22 |
 | **[PCOnline](https://pconlineus.com/)** | **[Technical Product Manager (Intern)](https://jobright.ai/jobs/info/68f90b8bcadb2e5a06a60659?utm_campaign=1047&utm_source=git)** | Newark, DE | On Site | Oct 22 |
 | **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Product](https://jobright.ai/jobs/info/68c54fb4c96a22563ece85d0?utm_campaign=1047&utm_source=git)** | Fort Mill, SC | Hybrid | Oct 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Technology Product Development Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/68f6bd179a63986de7581d54?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Oct 20 |
 | **[Santander](https://www.santander.com/)** | **[Deposit Product Strategy Intern](https://jobright.ai/jobs/info/68f6a21776a51a4307bdc9a1?utm_campaign=1047&utm_source=git)** | Boston | On Site | Oct 20 |
 | **[Wawa, Inc.](https://www.wawa.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68f6a0719a63986de7580792?utm_campaign=1047&utm_source=git)** | Media, PA | On Site | Oct 20 |
-| **[Santander](https://www.santander.com/)** | **[Deposit Product Strategy Intern](https://jobright.ai/jobs/info/68f6a0669a65fd345859545a?utm_campaign=1047&utm_source=git)** | New York | On Site | Oct 20 |
-| **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Product Development, Intern](https://jobright.ai/jobs/info/68f69c749a65fd3458595206?utm_campaign=1047&utm_source=git)** | Hunt Valley, MD | On Site | Oct 20 |
-| **[Exact Sciences](https://www.exactsciences.com)** | **[MCED Product Management Operations Intern - Summer 2026](https://jobright.ai/jobs/info/68f694af76a51a4307bdbea6?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
