@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TE Connectivity](http://www.te.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68fb0901e154835f11ef9507?utm_campaign=1047&utm_source=git)** | Fuquay-Varina, NC | On Site | Oct 23 |
 | **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Product Development](https://jobright.ai/jobs/info/68d748e0cb1d8e52c9766bbf?utm_campaign=1047&utm_source=git)** | Hunt Valley, MD | On Site | Oct 23 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - MCBU NPI Manager](https://jobright.ai/jobs/info/68facb0267272b29af733936?utm_campaign=1047&utm_source=git)** | Boise, ID | On Site | Oct 23 |
 | **[The Minnesota Star Tribune](http://www.startribunecompany.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68fa8885edd190144238ddb9?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Truewind](https://www.truewind.ai)** | **[Product Management Intern (Market Research & Growth)](https://jobright.ai/jobs/info/68f489ac9a63986de7576058?utm_campaign=1047&utm_source=git)** | San Francisco, CA, US | On Site | Oct 18 |
 | ↳ | **[Product Management Intern (Market Research & Growth)](https://jobright.ai/jobs/info/68f4870376a51a4307bd1fbd?utm_campaign=1047&utm_source=git)** | San Francisco, CA, US | On Site | Oct 18 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Parts & Accessories Product Management Intern](https://jobright.ai/jobs/info/68f9d5c77b89366816034725?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI | On Site | Oct 18 |
-| **[Lennox](http://www.lennox.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68f864b34bafad6d2d7622b0?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
