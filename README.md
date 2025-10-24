@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Product Development](https://jobright.ai/jobs/info/68d748e0cb1d8e52c9766bbf?utm_campaign=1047&utm_source=git)** | Hunt Valley, MD | On Site | Oct 23 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - MCBU NPI Manager](https://jobright.ai/jobs/info/68facb0267272b29af733936?utm_campaign=1047&utm_source=git)** | Boise, ID | On Site | Oct 23 |
-| **[TE Connectivity](http://www.te.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68fa9dc0b2c86843bf21040c?utm_campaign=1047&utm_source=git)** | Fuquay-Varina, NC | On Site | Oct 23 |
 | **[The Minnesota Star Tribune](http://www.startribunecompany.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68fa8885edd190144238ddb9?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 23 |
 | **[US Tiger Securities, Inc.](https://www.itigerup.com/?lang=en_US)** | **[Product Management Intern (Japanese Fluency Required)](https://jobright.ai/jobs/info/68fa8077edd190144238d471?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 23 |
 | **[Cook Medical](http://www.cookmedical.com)** | **[Product Management/Marketing Internship - Vascular Interventional Medical Devices](https://jobright.ai/jobs/info/68fa7d6367272b29af72fba0?utm_campaign=1047&utm_source=git)** | US-IN-Bloomington | Hybrid | Oct 23 |
