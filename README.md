@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Digital Product Analyst Internship](https://jobright.ai/jobs/info/68fbd4824129dd33cd1352f8?utm_campaign=1047&utm_source=git)** | Columbus, OH | On Site | Oct 24 |
 | **[Align Technology](http://www.aligntech.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68d4314817554c2d9eef6aa5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
 | **[Life Fitness  / Hammer Strength](https://www.lifefitness.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68fb982bf55bb021a889aabb?utm_campaign=1047&utm_source=git)** | Rosemont, IL | On Site | Oct 24 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Digital Product Analyst Internship](https://jobright.ai/jobs/info/68fb96f093c49825ab103ecc?utm_campaign=1047&utm_source=git)** | Ohio - Columbus Metro | On Site | Oct 24 |
@@ -112,7 +113,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Oct 22 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Product Manager, Genetics Intern](https://jobright.ai/jobs/info/68f93e75cadb2e5a06a62dd3?utm_campaign=1047&utm_source=git)** | Marshfield, WI | On Site | Oct 22 |
 | ↳ | **[Product Manager, Genetics Intern](https://jobright.ai/jobs/info/68f93be06de2db04dc3e701c?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Oct 22 |
-| ↳ | **[Product Manager, Genetics Intern](https://jobright.ai/jobs/info/68f91894cadb2e5a06a61282?utm_campaign=1047&utm_source=git)** | US - WI - Madison | On Site | Oct 22 |
+| **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - EMC Product Management](https://jobright.ai/jobs/info/68fbd2494129dd33cd135086?utm_campaign=1047&utm_source=git)** | Holtsville, NY | On Site | Oct 22 |
+| **[Exact Sciences](https://www.exactsciences.com)** | **[Product Manager, Genetics Intern](https://jobright.ai/jobs/info/68f91894cadb2e5a06a61282?utm_campaign=1047&utm_source=git)** | US - WI - Madison | On Site | Oct 22 |
 | ↳ | **[Product Manager, Genetics Intern](https://jobright.ai/jobs/info/68f916cb6de2db04dc3e5473?utm_campaign=1047&utm_source=git)** | US - WI - Marshfield | On Site | Oct 22 |
 | **[PCOnline](https://pconlineus.com/)** | **[Technical Product Manager (Intern)](https://jobright.ai/jobs/info/68f90b8bcadb2e5a06a60659?utm_campaign=1047&utm_source=git)** | Newark, DE | On Site | Oct 22 |
 | **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Product](https://jobright.ai/jobs/info/68c54fb4c96a22563ece85d0?utm_campaign=1047&utm_source=git)** | Fort Mill, SC | Hybrid | Oct 22 |
@@ -135,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[The Bancorp](http://www.thebancorp.com/)** | **[Product Development Intern (Hybrid)](https://jobright.ai/jobs/info/68f800d2b0edcf159dc8d9c1?utm_campaign=1047&utm_source=git)** | Greater Sioux Falls Area | Hybrid | Oct 21 |
 | **[GiveDirectly](https://www.givedirectly.org/)** | **[Senior Product Manager, International Rapid Response Payment Systems](https://jobright.ai/jobs/info/68cba8d89e3a822f5d249d3c?utm_campaign=1047&utm_source=git)** | United States | Remote | Oct 21 |
 | **[The Bancorp](http://www.thebancorp.com/)** | **[Product Development Intern (Hybrid)](https://jobright.ai/jobs/info/68f7f3aa5dc1be601281ef77?utm_campaign=1047&utm_source=git)** | US-SD-Sioux Falls | Hybrid | Oct 21 |
-| **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - EMC Product Management](https://jobright.ai/jobs/info/68f7f079ec6dbe7073fcec44?utm_campaign=1047&utm_source=git)** | Holtsville, NY | On Site | Oct 21 |
 | **[First Solar](http://www.firstsolar.com)** | **[Product & Technology Intern (Spring 2026)](https://jobright.ai/jobs/info/68f7f0535dc1be601281ea73?utm_campaign=1047&utm_source=git)** | Perrysburg, OH | On Site | Oct 21 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68bf1907702aa35207aa31d6?utm_campaign=1047&utm_source=git)** | Mentor, OH | On Site | Oct 21 |
 | **[First Solar](http://www.firstsolar.com)** | **[Product & Technology Intern (Spring 2026)](https://jobright.ai/jobs/info/68f7a95ab0edcf159dc85d78?utm_campaign=1047&utm_source=git)** | 28101 Cedar Park Blvd, Perrysburg, OH, 43551, US | On Site | Oct 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Santander](https://www.santander.com/)** | **[Deposit Product Strategy Intern](https://jobright.ai/jobs/info/68f6a0669a65fd345859545a?utm_campaign=1047&utm_source=git)** | New York | On Site | Oct 20 |
 | **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Product Development, Intern](https://jobright.ai/jobs/info/68f69c749a65fd3458595206?utm_campaign=1047&utm_source=git)** | Hunt Valley, MD | On Site | Oct 20 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[MCED Product Management Operations Intern - Summer 2026](https://jobright.ai/jobs/info/68f694af76a51a4307bdbea6?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Oct 20 |
-| **[Levi Strauss & Co.](http://levistrauss.com/)** | **[F.I.T. Intern Allocation](https://jobright.ai/jobs/info/68f68b039a65fd3458594494?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
