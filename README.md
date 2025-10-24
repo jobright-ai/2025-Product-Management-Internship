@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - MCBU NPI Manager](https://jobright.ai/jobs/info/68facb0267272b29af733936?utm_campaign=1047&utm_source=git)** | Boise, ID | On Site | Oct 23 |
 | **[TE Connectivity](http://www.te.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68fa9dc0b2c86843bf21040c?utm_campaign=1047&utm_source=git)** | Fuquay-Varina, NC | On Site | Oct 23 |
 | **[The Minnesota Star Tribune](http://www.startribunecompany.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68fa8885edd190144238ddb9?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 23 |
 | **[US Tiger Securities, Inc.](https://www.itigerup.com/?lang=en_US)** | **[Product Management Intern (Japanese Fluency Required)](https://jobright.ai/jobs/info/68fa8077edd190144238d471?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 23 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[RJ Schinner Co., Inc.](https://www.rjschinner.com/)** | **[Pricing & Product Data Intern](https://jobright.ai/jobs/info/68f303009a63986de756dee0?utm_campaign=1047&utm_source=git)** | Menomonee Falls, WI | On Site | Oct 23 |
 | **[American Family Insurance](http://amfamventures.com/)** | **[Summer 2026 Internship - Product Strategy and Development](https://jobright.ai/jobs/info/68fa6084edd190144238ba60?utm_campaign=1047&utm_source=git)** | WI Madison | Hybrid | Oct 23 |
 | **[Coinbase](https://www.coinbase.com)** | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/68fa5e0e7959161d33e62705?utm_campaign=1047&utm_source=git)** | Hybrid - New York, NY | On Site | Oct 23 |
-| **[Electronic Arts (EA)](https://www.ea.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68ea0741cdf8d94b293a443f?utm_campaign=1047&utm_source=git)** | Redwood City, CA | Hybrid | Oct 23 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate Summer Internship Program - 2026 Product Development, US Consumer Services - New York, NY](https://jobright.ai/jobs/info/68c1e5053fd8b059a20f3c2e?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Oct 23 |
 | **[EX Venture Inc.](https://ex-zerocarbon.com/)** | **[AI & Product Development Specialist Internship In Bali](https://jobright.ai/jobs/info/68fa3d887959161d33e610ac?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Oct 23 |
 | ↳ | **[AI & Product Development Specialist Internship In Bali](https://jobright.ai/jobs/info/68fa4d03edd190144238a99b?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 23 |
@@ -78,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc. Footwear Product Creation Undergraduate Internship](https://jobright.ai/jobs/info/68f1bddee6870116b1f5ca8d?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Oct 22 |
 | **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/68f003129821486c423c8a38?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Oct 22 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Oct 22 |
-| **[HNI Workplace Furnishings, LLC](https://www.hnicorp.com/careers)** | **[Intern - Product Management - Summer 2026](https://jobright.ai/jobs/info/68fabb4aedd190144239053c?utm_campaign=1047&utm_source=git)** | Muscatine, IA | Hybrid | Oct 22 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Product Manager, Genetics Intern](https://jobright.ai/jobs/info/68f93e75cadb2e5a06a62dd3?utm_campaign=1047&utm_source=git)** | Marshfield, WI | On Site | Oct 22 |
 | ↳ | **[Product Manager, Genetics Intern](https://jobright.ai/jobs/info/68f93be06de2db04dc3e701c?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Oct 22 |
 | ↳ | **[Product Manager, Genetics Intern](https://jobright.ai/jobs/info/68f91894cadb2e5a06a61282?utm_campaign=1047&utm_source=git)** | US - WI - Madison | On Site | Oct 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Truewind](https://www.truewind.ai)** | **[Product Management Intern (Market Research & Growth)](https://jobright.ai/jobs/info/68f489ac9a63986de7576058?utm_campaign=1047&utm_source=git)** | San Francisco, CA, US | On Site | Oct 18 |
 | ↳ | **[Product Management Intern (Market Research & Growth)](https://jobright.ai/jobs/info/68f4870376a51a4307bd1fbd?utm_campaign=1047&utm_source=git)** | San Francisco, CA, US | On Site | Oct 18 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Parts & Accessories Product Management Intern](https://jobright.ai/jobs/info/68f9d5c77b89366816034725?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI | On Site | Oct 18 |
+| **[Lennox](http://www.lennox.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68f864b34bafad6d2d7622b0?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
