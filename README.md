@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ServiceNow](http://www.servicenow.com)** | **[Sr. Inbound Product Manager Intern (MBA) - Summer 2026](https://jobright.ai/jobs/info/68cd4a671ad6b16f028978fa?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Oct 25 |
+| ↳ | **[Product Manager Intern (Masters Degree) - Summer 2026](https://jobright.ai/jobs/info/68cd7963e23def7af55ba506?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Oct 25 |
+| ↳ | **[Sr. Outbound Product Manager Intern (MBA) - Summer 2026](https://jobright.ai/jobs/info/68cd5c31e23def7af55b8b1c?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Oct 25 |
+| **[Henkel](http://www.henkel.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68cb966dba798c1a501d2713?utm_campaign=1047&utm_source=git)** | Irvine, CA | Hybrid | Oct 25 |
+| ↳ | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68cd8ab5e23def7af55bb715?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | Hybrid | Oct 25 |
+| **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Digital Product Management Summer Intern](https://jobright.ai/jobs/info/68e0a656b99ec3563b0d1bbe?utm_campaign=1047&utm_source=git)** | Triad Area | Hybrid | Oct 25 |
+| **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Product Development Legal Summer Intern](https://jobright.ai/jobs/info/68c8f0f4f9c6ff7aedf1506b?utm_campaign=1047&utm_source=git)** | Hartford, CT | On Site | Oct 25 |
+| **[Henkel](http://www.henkel.com)** | **[Pricing & Product Portfolio Intern – Summer 2026](https://jobright.ai/jobs/info/68cf03c3846f0b04af67e905?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ | Hybrid | Oct 25 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Merchandise Planning Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e04c60f758fe1f97e4c19d?utm_campaign=1047&utm_source=git)** | Reynoldsburg, OH | Hybrid | Oct 25 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Technical Product Management - Summer 2026](https://jobright.ai/jobs/info/68e084b6f758fe1f97e4ddae?utm_campaign=1047&utm_source=git)** | Newark, CA | On Site | Oct 25 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/68e03467b99ec3563b0cd42e?utm_campaign=1047&utm_source=git)** | Research Park, CA | Hybrid | Oct 25 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Product Management Intern](https://jobright.ai/jobs/info/68bf78638e65e77df55ba7f6?utm_campaign=1047&utm_source=git)** | Northbrook, IL | On Site | Oct 22 |
 | ↳ | **[2026 Summer Intern: Product Management Intern](https://jobright.ai/jobs/info/68cd21afe23def7af55b5d8e?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Oct 22 |
 | **[American Tower](https://www.americantower.com/)** | **[Product and Strategy Intern](https://jobright.ai/jobs/info/68cd03cee5ac5c0dc6d26569?utm_campaign=1047&utm_source=git)** | Woburn, MA | Hybrid | Oct 22 |
-| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/68dc1d0397329f2f77322aba?utm_campaign=1047&utm_source=git)** | Chelmsford, MA | Hybrid | Oct 22 |
-| **[Ferrara](https://www.ferrara.com)** | **[Product Development Internship Program 2026](https://jobright.ai/jobs/info/68bf8d995c5d5f14f46d7eeb?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Oct 22 |
-| **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68cdfa5f1ad6b16f028a06db?utm_campaign=1047&utm_source=git)** | Quincy, IL | On Site | Oct 22 |
-| **[Aptiv](http://www.aptiv.com)** | **[Product Line Purchasing Intern](https://jobright.ai/jobs/info/68cda788b2a74e1837eda629?utm_campaign=1047&utm_source=git)** | Troy, MI | On Site | Oct 22 |
-| **[Epic Games](https://epicgames.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/68f08a71a6b9004b5e3212a1?utm_campaign=1047&utm_source=git)** | Cary, NC | On Site | Oct 22 |
-| **[Faraday Future](https://www.ff.com)** | **[Part Time Product Associate Intern](https://jobright.ai/jobs/info/68f87c60a628d10664e83465?utm_campaign=1047&utm_source=git)** | Gardena, CA | On Site | Oct 21 |
-| ↳ | **[Part Time Product Associate Intern](https://jobright.ai/jobs/info/68f84fa56de2db04dc3ddd22?utm_campaign=1047&utm_source=git)** | Gardena, California, United States | On Site | Oct 21 |
-| **[Experian](http://www.experianplc.com)** | **[Product Management Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/68f83e166de2db04dc3dd0ad?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
