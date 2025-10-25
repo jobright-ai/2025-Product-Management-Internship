@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Merchandise Planning Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e04c60f758fe1f97e4c19d?utm_campaign=1047&utm_source=git)** | Reynoldsburg, OH | Hybrid | Oct 25 |
+| **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Technical Product Management - Summer 2026](https://jobright.ai/jobs/info/68e084b6f758fe1f97e4ddae?utm_campaign=1047&utm_source=git)** | Newark, CA | On Site | Oct 25 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/68e03467b99ec3563b0cd42e?utm_campaign=1047&utm_source=git)** | Research Park, CA | Hybrid | Oct 25 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Operations Intern [TikTok-Product-Governance Efficiency]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689128fbf47efe21139533d5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 25 |
 | **[Databricks](https://www.databricks.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd6359b2a74e1837ed6556?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Oct 25 |
@@ -103,8 +105,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Content Operations Intern (TikTok-Product-Content Ecosystem)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688e2c42e5cead4afd45bf2f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/68fb2e543c99cc1d96029630?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
 | ↳ | **[Product Manager Intern [TikTok-Product-Search Growth]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cc67477342c7623ae64528?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
-| ↳ | **[Product manager Intern (TikTok-Search-Comprehensive Search) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68cc52dd128dc347fd922a2d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd18b31ad6b16f02894c64?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
+| ↳ | **[Product manager Intern (TikTok-Search-Comprehensive Search) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68cc52dd128dc347fd922a2d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
 | ↳ | **[Product Manager Intern [TikTok-Product-Privacy and Responsibility]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688f021de5cead4afd45fb3f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
 | ↳ | **[Product Manager Intern [TikTok LIVE-Recommend Product]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cdc3ebe23def7af55bf226?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
 | ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ccd909d11b445e0bee2c44?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Oct 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Faraday Future](https://www.ff.com)** | **[Part Time Product Associate Intern](https://jobright.ai/jobs/info/68f87c60a628d10664e83465?utm_campaign=1047&utm_source=git)** | Gardena, CA | On Site | Oct 21 |
 | ↳ | **[Part Time Product Associate Intern](https://jobright.ai/jobs/info/68f84fa56de2db04dc3ddd22?utm_campaign=1047&utm_source=git)** | Gardena, California, United States | On Site | Oct 21 |
 | **[Experian](http://www.experianplc.com)** | **[Product Management Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/68f83e166de2db04dc3dd0ad?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Oct 21 |
-| ↳ | **[Product Management Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/68f838f96de2db04dc3dcd8b?utm_campaign=1047&utm_source=git)** | United States, United States, United States, United States | Hybrid | Oct 21 |
-| **[TikTok](https://www.tiktok.com)** | **[Global Product Strategist Intern-(MSO) 2026 Summer (MBA)](https://jobright.ai/jobs/info/68fab001b2c86843bf211022?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
