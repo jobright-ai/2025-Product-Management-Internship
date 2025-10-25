@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Uber Freight](https://www.uberfreight.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68fc042f93c49825ab108c5d?utm_campaign=1047&utm_source=git)** | Chicago, IL 60607, United States | On Site | Oct 24 |
+| ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68fbffa8f55bb021a889f422?utm_campaign=1047&utm_source=git)** | Frisco, TX 75034, United States | On Site | Oct 24 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Digital Imaging User Research](https://jobright.ai/jobs/info/68fbff3893c49825ab1086f4?utm_campaign=1047&utm_source=git)** | San Francisco | Hybrid | Oct 24 |
 | **[Tencent](https://www.tencent.com/)** | **[Tencent Cloud CPaaS Product Management Intern](https://jobright.ai/jobs/info/68fbe98bf55bb021a889df09?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Oct 24 |
 | ↳ | **[Tencent Cloud CPaaS Product Management Intern](https://jobright.ai/jobs/info/68fbe6c84129dd33cd13614e?utm_campaign=1047&utm_source=git)** | US-California-Palo Alto | On Site | Oct 24 |
 | **[Schneider Electric](https://www.se.com)** | **[Graduate Product Owner Intern](https://jobright.ai/jobs/info/68fbe0974129dd33cd135c4b?utm_campaign=1047&utm_source=git)** | Nashville, TN | On Site | Oct 24 |
 | ↳ | **[Graduate Product Owner Intern](https://jobright.ai/jobs/info/68fbdd214129dd33cd13591c?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Oct 24 |
+| **[Life Fitness  / Hammer Strength](https://www.lifefitness.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68fbf4f34129dd33cd136e7b?utm_campaign=1047&utm_source=git)** | Rosemont, IL | On Site | Oct 24 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Digital Product Analyst Internship](https://jobright.ai/jobs/info/68fbd4824129dd33cd1352f8?utm_campaign=1047&utm_source=git)** | Columbus, OH | On Site | Oct 24 |
 | **[Align Technology](http://www.aligntech.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68d4314817554c2d9eef6aa5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
-| **[Life Fitness  / Hammer Strength](https://www.lifefitness.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68fb982bf55bb021a889aabb?utm_campaign=1047&utm_source=git)** | Rosemont, IL | On Site | Oct 24 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Digital Product Analyst Internship](https://jobright.ai/jobs/info/68fb96f093c49825ab103ecc?utm_campaign=1047&utm_source=git)** | Ohio - Columbus Metro | On Site | Oct 24 |
 | ↳ | **[Summer 2026 Digital Product Analyst Internship](https://jobright.ai/jobs/info/68fb93f2f55bb021a889a994?utm_campaign=1047&utm_source=git)** | Ohio - Columbus, One Nationwide Plaza | On Site | Oct 24 |
 | ↳ | **[Summer 2026 Digital Product Analyst Internship](https://jobright.ai/jobs/info/68fb93014129dd33cd132e1b?utm_campaign=1047&utm_source=git)** | Ohio - Columbus | On Site | Oct 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Primerica](https://www.primerica.com)** | **[Product Development Intern - WLM-2025-3i](https://jobright.ai/jobs/info/68f6fa429a65fd3458598c72?utm_campaign=1047&utm_source=git)** | Trenton, NJ | On Site | Oct 20 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern - Product Management](https://jobright.ai/jobs/info/68f6cfb19a63986de75827a7?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Oct 20 |
 | **[Second Dinner](http://seconddinner.com)** | **[[2026] Product Manager Intern, Unannounced Super Fun Video Game](https://jobright.ai/jobs/info/68f6c88e76a51a4307bde40b?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Oct 20 |
-| **[Stifel Financial Corp.](http://www.stifel.com)** | **[Technology Product Development Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/68f6bd179a63986de7581d54?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Oct 20 |
-| **[Santander](https://www.santander.com/)** | **[Deposit Product Strategy Intern](https://jobright.ai/jobs/info/68f6a21776a51a4307bdc9a1?utm_campaign=1047&utm_source=git)** | Boston | On Site | Oct 20 |
-| **[Wawa, Inc.](https://www.wawa.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68f6a0719a63986de7580792?utm_campaign=1047&utm_source=git)** | Media, PA | On Site | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
