@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Uber Freight](https://www.uberfreight.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68fc3dce93c49825ab10b1de?utm_campaign=1047&utm_source=git)** | Frisco, TX | On Site | Oct 24 |
+| **[Brooks Running](http://www.brooksrunning.com)** | **[Run Perception Graduate Internship, Run Research Team - January 2026](https://jobright.ai/jobs/info/68fc3d4a93c49825ab10b16d?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Oct 24 |
+| **[Uber Freight](https://www.uberfreight.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68fc3abf93c49825ab10b000?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Oct 24 |
+| **[Align Technology](http://www.aligntech.com)** | **[Product Intern](https://jobright.ai/jobs/info/68fc2e6493c49825ab10a91e?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Product Management Intern - Shoulder Arthroplasty](https://jobright.ai/jobs/info/68fc1c30f55bb021a88a0823?utm_campaign=1047&utm_source=git)** | Naples, FL | On Site | Oct 24 |
 | **[Uber Freight](https://www.uberfreight.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68fc042f93c49825ab108c5d?utm_campaign=1047&utm_source=git)** | Chicago, IL 60607, United States | On Site | Oct 24 |
 | ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68fbffa8f55bb021a889f422?utm_campaign=1047&utm_source=git)** | Frisco, TX 75034, United States | On Site | Oct 24 |
@@ -88,8 +92,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Content Operations Intern (TikTok-Product-Content Ecosystem)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688e2c42e5cead4afd45bf2f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/68fb2e543c99cc1d96029630?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
 | ↳ | **[Product Manager Intern [TikTok-Product-Search Growth]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cc67477342c7623ae64528?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
-| ↳ | **[Product manager Intern (TikTok-Search-Comprehensive Search) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68cc52dd128dc347fd922a2d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd18b31ad6b16f02894c64?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
+| ↳ | **[Product manager Intern (TikTok-Search-Comprehensive Search) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68cc52dd128dc347fd922a2d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
 | ↳ | **[Product Manager Intern [TikTok-Product-Privacy and Responsibility]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688f021de5cead4afd45fb3f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
 | ↳ | **[Product Manager Intern [TikTok LIVE-Recommend Product]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cdc3ebe23def7af55bf226?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
 | ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ccd909d11b445e0bee2c44?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Oct 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[7-Eleven](http://www.7-eleven.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68f797185dc1be601281694a?utm_campaign=1047&utm_source=git)** | Irving, TX | On Site | Oct 21 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Deposit Product Strategy Intern](https://jobright.ai/jobs/info/68f790acb0edcf159dc8388c?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Oct 21 |
 | **[Verizon](https://www.verizon.com)** | **[Technical Product Management Summer 2026 Internship](https://jobright.ai/jobs/info/68db0c98e9b48513789b17ee?utm_campaign=1047&utm_source=git)** | Plano, TX | On Site | Oct 21 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Strategist Intern [Global Monetization Product and Technology]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68db68d39f13662d20e4b0b9?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 21 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Product Management Intern (Master's/MBA)](https://jobright.ai/jobs/info/68ef267ca1a1d02df61e9d7c?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Oct 20 |
-| ↳ | **[Product Management Intern (Master's/MBA)](https://jobright.ai/jobs/info/68eed2fad078b81ad160fb9e?utm_campaign=1047&utm_source=git)** | Spring, TX | Hybrid | Oct 20 |
-| **[Primerica](https://www.primerica.com)** | **[Product Development Intern - WLM-2025-3i](https://jobright.ai/jobs/info/68f6fa429a65fd3458598c72?utm_campaign=1047&utm_source=git)** | Trenton, NJ | On Site | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
