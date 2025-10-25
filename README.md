@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arthrex](https://www.arthrex.com/)** | **[Product Management Intern - Shoulder Arthroplasty](https://jobright.ai/jobs/info/68fc1c30f55bb021a88a0823?utm_campaign=1047&utm_source=git)** | Naples, FL | On Site | Oct 24 |
 | **[Uber Freight](https://www.uberfreight.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68fc042f93c49825ab108c5d?utm_campaign=1047&utm_source=git)** | Chicago, IL 60607, United States | On Site | Oct 24 |
 | ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68fbffa8f55bb021a889f422?utm_campaign=1047&utm_source=git)** | Frisco, TX 75034, United States | On Site | Oct 24 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Digital Imaging User Research](https://jobright.ai/jobs/info/68fbff3893c49825ab1086f4?utm_campaign=1047&utm_source=git)** | San Francisco | Hybrid | Oct 24 |
@@ -67,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Life Fitness  / Hammer Strength](https://www.lifefitness.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68fbf4f34129dd33cd136e7b?utm_campaign=1047&utm_source=git)** | Rosemont, IL | On Site | Oct 24 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Digital Product Analyst Internship](https://jobright.ai/jobs/info/68fbd4824129dd33cd1352f8?utm_campaign=1047&utm_source=git)** | Columbus, OH | On Site | Oct 24 |
 | **[Align Technology](http://www.aligntech.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68d4314817554c2d9eef6aa5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
+| **[Life Fitness  / Hammer Strength](https://www.lifefitness.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68fb982bf55bb021a889aabb?utm_campaign=1047&utm_source=git)** | Rosemont, IL | On Site | Oct 24 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Digital Product Analyst Internship](https://jobright.ai/jobs/info/68fb96f093c49825ab103ecc?utm_campaign=1047&utm_source=git)** | Ohio - Columbus Metro | On Site | Oct 24 |
 | ↳ | **[Summer 2026 Digital Product Analyst Internship](https://jobright.ai/jobs/info/68fb93f2f55bb021a889a994?utm_campaign=1047&utm_source=git)** | Ohio - Columbus, One Nationwide Plaza | On Site | Oct 24 |
 | ↳ | **[Summer 2026 Digital Product Analyst Internship](https://jobright.ai/jobs/info/68fb93014129dd33cd132e1b?utm_campaign=1047&utm_source=git)** | Ohio - Columbus | On Site | Oct 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Product Management Intern (Master's/MBA)](https://jobright.ai/jobs/info/68ef267ca1a1d02df61e9d7c?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Oct 20 |
 | ↳ | **[Product Management Intern (Master's/MBA)](https://jobright.ai/jobs/info/68eed2fad078b81ad160fb9e?utm_campaign=1047&utm_source=git)** | Spring, TX | Hybrid | Oct 20 |
 | **[Primerica](https://www.primerica.com)** | **[Product Development Intern - WLM-2025-3i](https://jobright.ai/jobs/info/68f6fa429a65fd3458598c72?utm_campaign=1047&utm_source=git)** | Trenton, NJ | On Site | Oct 20 |
-| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern - Product Management](https://jobright.ai/jobs/info/68f6cfb19a63986de75827a7?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Oct 20 |
-| **[Second Dinner](http://seconddinner.com)** | **[[2026] Product Manager Intern, Unannounced Super Fun Video Game](https://jobright.ai/jobs/info/68f6c88e76a51a4307bde40b?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
