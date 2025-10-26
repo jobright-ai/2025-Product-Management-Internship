@@ -80,8 +80,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Intern - Product Manager, Sales Platform](https://jobright.ai/jobs/info/68dffa52b99ec3563b0ca9cb?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Oct 25 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Digital Imaging User Research](https://jobright.ai/jobs/info/68fc4f8993c49825ab10bd33?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
 | **[Uber Freight](https://www.uberfreight.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68fc3dce93c49825ab10b1de?utm_campaign=1047&utm_source=git)** | Frisco, TX | On Site | Oct 24 |
-| **[Brooks Running](http://www.brooksrunning.com)** | **[Run Perception Graduate Internship, Run Research Team - January 2026](https://jobright.ai/jobs/info/68fc3d4a93c49825ab10b16d?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Oct 24 |
-| **[Uber Freight](https://www.uberfreight.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68fc3abf93c49825ab10b000?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Oct 24 |
+| ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68fc3abf93c49825ab10b000?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Oct 24 |
 | **[Align Technology](http://www.aligntech.com)** | **[Product Intern](https://jobright.ai/jobs/info/68fc2e6493c49825ab10a91e?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Product Management Intern - Shoulder Arthroplasty](https://jobright.ai/jobs/info/68fc1c30f55bb021a88a0823?utm_campaign=1047&utm_source=git)** | Naples, FL | On Site | Oct 24 |
 | **[Uber Freight](https://www.uberfreight.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68fc042f93c49825ab108c5d?utm_campaign=1047&utm_source=git)** | Chicago, IL 60607, United States | On Site | Oct 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Nestlé](https://www.nestle.com)** | **[Nestlé Product Development Intern](https://jobright.ai/jobs/info/68dc4027a125e75c4229ece6?utm_campaign=1047&utm_source=git)** | Arlington, VA | On Site | Oct 22 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Product Management Intern](https://jobright.ai/jobs/info/68bf78638e65e77df55ba7f6?utm_campaign=1047&utm_source=git)** | Northbrook, IL | On Site | Oct 22 |
 | ↳ | **[2026 Summer Intern: Product Management Intern](https://jobright.ai/jobs/info/68cd21afe23def7af55b5d8e?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Oct 22 |
+| **[American Tower](https://www.americantower.com/)** | **[Product and Strategy Intern](https://jobright.ai/jobs/info/68cd03cee5ac5c0dc6d26569?utm_campaign=1047&utm_source=git)** | Woburn, MA | Hybrid | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
