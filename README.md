@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSAA Insurance Group, a AAA Insurer](https://csaa-insurance.aaa.com)** | **[Product Strategy and Development Intern - Summer 2026](https://jobright.ai/jobs/info/68ffb180e0c73b3a1119d7ec?utm_campaign=1047&utm_source=git)** | Arizona - Home Teleworkers | Hybrid | Oct 27 |
+| **[Bridge ](https://www.bridgemarketplace.com)** | **[AI Product Builder (Intern / Early Career)](https://jobright.ai/jobs/info/68ffb0a4e0c73b3a1119d748?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 27 |
+| **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68ffa8bf0ab3b222462acd4c?utm_campaign=1047&utm_source=git)** | Carol Stream, IL | On Site | Oct 27 |
+| **[KHAITE](https://khaite.com/)** | **[Product Development & Production, Non-Apparel Intern, Spring 2026](https://jobright.ai/jobs/info/68ff9ff40ab3b222462ac904?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 27 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Product Management Internship (MBA)](https://jobright.ai/jobs/info/68dc5fa9accfd24b67e54e45?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Oct 26 |
 | **[Okta](http://www.okta.com)** | **[MBA Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68fef28c0ab3b222462a86c7?utm_campaign=1047&utm_source=git)** | San Francisco, California | On Site | Oct 26 |
 | **[GlobalFoundries](https://gf.com/)** | **[Product Management Intern, Ultra Low Power CMOS (Summer 2026)](https://jobright.ai/jobs/info/68fed1bee04ac838fb5b4ca1?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Oct 26 |
@@ -67,6 +71,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Internship Program / Commercial Track: • Vendor Management • Marketing • Business Development • Product Management • Sales](https://jobright.ai/jobs/info/68e1098fb99ec3563b0d5b20?utm_campaign=1047&utm_source=git)** | Greenville, SC | Hybrid | Oct 26 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Technical Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f70ece76a51a4307be08d2?utm_campaign=1047&utm_source=git)** | Middleton, WI | On Site | Oct 26 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Behavioral Analytics Intern](https://jobright.ai/jobs/info/68cefe4dfb49c96ca6ea4b58?utm_campaign=1047&utm_source=git)** | Raleigh, NC | Hybrid | Oct 26 |
+| **[Uber Freight](https://www.uberfreight.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68ffaf3de04ac838fb5ba5aa?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Oct 25 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Sr. Inbound Product Manager Intern (MBA) - Summer 2026](https://jobright.ai/jobs/info/68cd4a671ad6b16f028978fa?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Oct 25 |
 | ↳ | **[Product Manager Intern (Masters Degree) - Summer 2026](https://jobright.ai/jobs/info/68cd7963e23def7af55ba506?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Oct 25 |
 | ↳ | **[Sr. Outbound Product Manager Intern (MBA) - Summer 2026](https://jobright.ai/jobs/info/68cd5c31e23def7af55b8b1c?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Oct 25 |
@@ -88,12 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Product Manager, ATS Digital Media](https://jobright.ai/jobs/info/68e04b26b99ec3563b0ce508?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Oct 25 |
 | ↳ | **[2026 Intern - Product Manager, Sales Platform](https://jobright.ai/jobs/info/68dffa52b99ec3563b0ca9cb?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Oct 25 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Digital Imaging User Research](https://jobright.ai/jobs/info/68fc4f8993c49825ab10bd33?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
-| **[Uber Freight](https://www.uberfreight.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68fc3dce93c49825ab10b1de?utm_campaign=1047&utm_source=git)** | Frisco, TX | On Site | Oct 24 |
-| ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68fc3abf93c49825ab10b000?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Oct 24 |
 | **[Align Technology](http://www.aligntech.com)** | **[Product Intern](https://jobright.ai/jobs/info/68fc2e6493c49825ab10a91e?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Product Management Intern - Shoulder Arthroplasty](https://jobright.ai/jobs/info/68fc1c30f55bb021a88a0823?utm_campaign=1047&utm_source=git)** | Naples, FL | On Site | Oct 24 |
-| **[Uber Freight](https://www.uberfreight.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68fc042f93c49825ab108c5d?utm_campaign=1047&utm_source=git)** | Chicago, IL 60607, United States | On Site | Oct 24 |
-| ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68fbffa8f55bb021a889f422?utm_campaign=1047&utm_source=git)** | Frisco, TX 75034, United States | On Site | Oct 24 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Digital Imaging User Research](https://jobright.ai/jobs/info/68fbff3893c49825ab1086f4?utm_campaign=1047&utm_source=git)** | San Francisco | Hybrid | Oct 24 |
 | **[Tencent](https://www.tencent.com/)** | **[Tencent Cloud CPaaS Product Management Intern](https://jobright.ai/jobs/info/68fbe98bf55bb021a889df09?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Oct 24 |
 | ↳ | **[Tencent Cloud CPaaS Product Management Intern](https://jobright.ai/jobs/info/68fbe6c84129dd33cd13614e?utm_campaign=1047&utm_source=git)** | US-California-Palo Alto | On Site | Oct 24 |
@@ -149,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[User Product Operations Intern [TikTok Local Services] - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ccf1795954791a1d7018f5?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Oct 23 |
 | ↳ | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd5bece23def7af55b8a98?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 23 |
 | ↳ | **[Product Manager Intern [TikTok-Product-Comprehensive Search]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ccfd0677add66568abd2f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 23 |
-| **[Datadog](https://www.datadoghq.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68cd3bfd1ad6b16f02896db9?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Oct 23 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc. Footwear Product Creation Undergraduate Internship](https://jobright.ai/jobs/info/68f1bddee6870116b1f5ca8d?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Oct 22 |
 | **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/68f003129821486c423c8a38?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Oct 22 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Oct 22 |
