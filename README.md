@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nike](http://www.nike.com)** | **[Nike, Inc. Product Business Integration Undergraduate Internship](https://jobright.ai/jobs/info/68ffc78be0c73b3a1119e384?utm_campaign=1047&utm_source=git)** | Beaverton, Oregon | On Site | Oct 27 |
+| ↳ | **[Nike, Inc. Product Business Integration Graduate Internship](https://jobright.ai/jobs/info/68ffc72f0ab3b222462addf3?utm_campaign=1047&utm_source=git)** | Beaverton, Oregon | On Site | Oct 27 |
+| **[Lumafield](https://www.lumafield.com)** | **[Product Intern, Hardware](https://jobright.ai/jobs/info/68ffb8b9e0c73b3a1119dbc1?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Oct 27 |
+| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/68ffb822e04ac838fb5baa5a?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Oct 27 |
+| **[KHAITE](https://khaite.com/)** | **[Product Development & Production, Non-Apparel Intern, Spring 2026](https://jobright.ai/jobs/info/68ffb4be0ab3b222462ad448?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 27 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/68ffb2a30ab3b222462ad321?utm_campaign=1047&utm_source=git)** | New York, NY, USA | On Site | Oct 27 |
 | **[CSAA Insurance Group, a AAA Insurer](https://csaa-insurance.aaa.com)** | **[Product Strategy and Development Intern - Summer 2026](https://jobright.ai/jobs/info/68ffb180e0c73b3a1119d7ec?utm_campaign=1047&utm_source=git)** | Arizona - Home Teleworkers | Hybrid | Oct 27 |
-| **[Bridge ](https://www.bridgemarketplace.com)** | **[AI Product Builder (Intern / Early Career)](https://jobright.ai/jobs/info/68ffb0a4e0c73b3a1119d748?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 27 |
 | **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68ffa8bf0ab3b222462acd4c?utm_campaign=1047&utm_source=git)** | Carol Stream, IL | On Site | Oct 27 |
-| **[KHAITE](https://khaite.com/)** | **[Product Development & Production, Non-Apparel Intern, Spring 2026](https://jobright.ai/jobs/info/68ff9ff40ab3b222462ac904?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 27 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Product Management Internship (MBA)](https://jobright.ai/jobs/info/68dc5fa9accfd24b67e54e45?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Oct 26 |
 | **[Okta](http://www.okta.com)** | **[MBA Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68fef28c0ab3b222462a86c7?utm_campaign=1047&utm_source=git)** | San Francisco, California | On Site | Oct 26 |
 | **[GlobalFoundries](https://gf.com/)** | **[Product Management Intern, Ultra Low Power CMOS (Summer 2026)](https://jobright.ai/jobs/info/68fed1bee04ac838fb5b4ca1?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Oct 26 |
@@ -71,7 +75,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Internship Program / Commercial Track: • Vendor Management • Marketing • Business Development • Product Management • Sales](https://jobright.ai/jobs/info/68e1098fb99ec3563b0d5b20?utm_campaign=1047&utm_source=git)** | Greenville, SC | Hybrid | Oct 26 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Technical Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f70ece76a51a4307be08d2?utm_campaign=1047&utm_source=git)** | Middleton, WI | On Site | Oct 26 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Behavioral Analytics Intern](https://jobright.ai/jobs/info/68cefe4dfb49c96ca6ea4b58?utm_campaign=1047&utm_source=git)** | Raleigh, NC | Hybrid | Oct 26 |
-| **[Uber Freight](https://www.uberfreight.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68ffaf3de04ac838fb5ba5aa?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Oct 25 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Sr. Inbound Product Manager Intern (MBA) - Summer 2026](https://jobright.ai/jobs/info/68cd4a671ad6b16f028978fa?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Oct 25 |
 | ↳ | **[Product Manager Intern (Masters Degree) - Summer 2026](https://jobright.ai/jobs/info/68cd7963e23def7af55ba506?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Oct 25 |
 | ↳ | **[Sr. Outbound Product Manager Intern (MBA) - Summer 2026](https://jobright.ai/jobs/info/68cd5c31e23def7af55b8b1c?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Oct 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/68f003129821486c423c8a38?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Oct 22 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Oct 22 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Product Manager, Genetics Intern](https://jobright.ai/jobs/info/68f93e75cadb2e5a06a62dd3?utm_campaign=1047&utm_source=git)** | Marshfield, WI | On Site | Oct 22 |
-| ↳ | **[Product Manager, Genetics Intern](https://jobright.ai/jobs/info/68f93be06de2db04dc3e701c?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Oct 22 |
-| ↳ | **[Product Manager, Genetics Intern](https://jobright.ai/jobs/info/68f91894cadb2e5a06a61282?utm_campaign=1047&utm_source=git)** | US - WI - Madison | On Site | Oct 22 |
-| ↳ | **[Product Manager, Genetics Intern](https://jobright.ai/jobs/info/68f916cb6de2db04dc3e5473?utm_campaign=1047&utm_source=git)** | US - WI - Marshfield | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
