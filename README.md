@@ -57,14 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Nike](http://www.nike.com)** | **[Nike, Inc. Product Business Integration Undergraduate Internship](https://jobright.ai/jobs/info/68ffc78be0c73b3a1119e384?utm_campaign=1047&utm_source=git)** | Beaverton, Oregon | On Site | Oct 27 |
-| ↳ | **[Nike, Inc. Product Business Integration Graduate Internship](https://jobright.ai/jobs/info/68ffc72f0ab3b222462addf3?utm_campaign=1047&utm_source=git)** | Beaverton, Oregon | On Site | Oct 27 |
+| **[Nike](http://www.nike.com)** | **[Nike, Inc. Product Business Integration Graduate Internship](https://jobright.ai/jobs/info/68ffc72f0ab3b222462addf3?utm_campaign=1047&utm_source=git)** | Beaverton, Oregon | On Site | Oct 27 |
+| ↳ | **[Nike, Inc. Product Business Integration Undergraduate Internship](https://jobright.ai/jobs/info/68ffc78be0c73b3a1119e384?utm_campaign=1047&utm_source=git)** | Beaverton, Oregon | On Site | Oct 27 |
 | **[Lumafield](https://www.lumafield.com)** | **[Product Intern, Hardware](https://jobright.ai/jobs/info/68ffb8b9e0c73b3a1119dbc1?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Oct 27 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/68ffb822e04ac838fb5baa5a?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Oct 27 |
-| **[KHAITE](https://khaite.com/)** | **[Product Development & Production, Non-Apparel Intern, Spring 2026](https://jobright.ai/jobs/info/68ffb4be0ab3b222462ad448?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 27 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/68ffb2a30ab3b222462ad321?utm_campaign=1047&utm_source=git)** | New York, NY, USA | On Site | Oct 27 |
 | **[CSAA Insurance Group, a AAA Insurer](https://csaa-insurance.aaa.com)** | **[Product Strategy and Development Intern - Summer 2026](https://jobright.ai/jobs/info/68ffb180e0c73b3a1119d7ec?utm_campaign=1047&utm_source=git)** | Arizona - Home Teleworkers | Hybrid | Oct 27 |
 | **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68ffa8bf0ab3b222462acd4c?utm_campaign=1047&utm_source=git)** | Carol Stream, IL | On Site | Oct 27 |
+| **[KHAITE](https://khaite.com/)** | **[Product Development & Production, Non-Apparel Intern, Spring 2026](https://jobright.ai/jobs/info/68ff9ff40ab3b222462ac904?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 27 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Product Management Internship (MBA)](https://jobright.ai/jobs/info/68dc5fa9accfd24b67e54e45?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Oct 26 |
 | **[Okta](http://www.okta.com)** | **[MBA Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68fef28c0ab3b222462a86c7?utm_campaign=1047&utm_source=git)** | San Francisco, California | On Site | Oct 26 |
 | **[GlobalFoundries](https://gf.com/)** | **[Product Management Intern, Ultra Low Power CMOS (Summer 2026)](https://jobright.ai/jobs/info/68fed1bee04ac838fb5b4ca1?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Oct 26 |
