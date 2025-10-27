@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GlobalFoundries](https://gf.com/)** | **[Product Management Intern, Feature-Rich CMOS (Summer 2026)](https://jobright.ai/jobs/info/68fed0a0e0c73b3a11197cc0?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Oct 26 |
+| **[GlobalFoundries](https://gf.com/)** | **[Product Management Intern, Ultra Low Power CMOS (Summer 2026)](https://jobright.ai/jobs/info/68fed1bee04ac838fb5b4ca1?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Oct 26 |
+| ↳ | **[Product Management Intern, Feature-Rich CMOS (Summer 2026)](https://jobright.ai/jobs/info/68fed0a0e0c73b3a11197cc0?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Oct 26 |
 | ↳ | **[Product Management Intern, Ultra Low Power CMOS (Summer 2026)](https://jobright.ai/jobs/info/68fe89cbe04ac838fb5b465e?utm_campaign=1047&utm_source=git)** | USA - Texas - Austin | On Site | Oct 26 |
 | ↳ | **[Product Management Intern, Feature-Rich CMOS (Summer 2026)](https://jobright.ai/jobs/info/68fe8703e0c73b3a11197632?utm_campaign=1047&utm_source=git)** | USA - Texas - Austin | On Site | Oct 26 |
 | **[TD SYNNEX North America](http://www.techdata.com)** | **[Summer 2026 Internship Program / Commercial Track: • Vendor Management • Marketing • Business Development • Product Management • Sales](https://jobright.ai/jobs/info/68e109571852e62f007f116e?utm_campaign=1047&utm_source=git)** | Clearwater, FL | Hybrid | Oct 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager, Genetics Intern](https://jobright.ai/jobs/info/68f91894cadb2e5a06a61282?utm_campaign=1047&utm_source=git)** | US - WI - Madison | On Site | Oct 22 |
 | ↳ | **[Product Manager, Genetics Intern](https://jobright.ai/jobs/info/68f916cb6de2db04dc3e5473?utm_campaign=1047&utm_source=git)** | US - WI - Marshfield | On Site | Oct 22 |
 | **[PCOnline](https://pconlineus.com/)** | **[Technical Product Manager (Intern)](https://jobright.ai/jobs/info/68f90b8bcadb2e5a06a60659?utm_campaign=1047&utm_source=git)** | Newark, DE | On Site | Oct 22 |
-| **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Product](https://jobright.ai/jobs/info/68c54fb4c96a22563ece85d0?utm_campaign=1047&utm_source=git)** | Fort Mill, SC | Hybrid | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
