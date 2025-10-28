@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Nike](http://www.nike.com)** | **[Nike, Inc. Product Business Integration Graduate Internship](https://jobright.ai/jobs/info/68ffc72f0ab3b222462addf3?utm_campaign=1047&utm_source=git)** | Beaverton, Oregon | On Site | Oct 27 |
+| **[Nike](http://www.nike.com)** | **[Nike, Inc. Product Business Integration Graduate Internship](https://jobright.ai/jobs/info/690035d50ab3b222462b2ec3?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Oct 27 |
+| **[Acuity](http://www.acuitybrands.com)** | **[Product Management Intern - Technology](https://jobright.ai/jobs/info/69003102e0c73b3a111a32a2?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Oct 27 |
+| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/6900305be0c73b3a111a31fa?utm_campaign=1047&utm_source=git)** | Chelmsford, MA | Hybrid | Oct 27 |
+| **[Nike](http://www.nike.com)** | **[Nike, Inc. Product Business Integration Undergraduate Internship](https://jobright.ai/jobs/info/69002d59e0c73b3a111a2f22?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Oct 27 |
+| ↳ | **[Nike, Inc. Product Business Integration Graduate Internship](https://jobright.ai/jobs/info/68ffc72f0ab3b222462addf3?utm_campaign=1047&utm_source=git)** | Beaverton, Oregon | On Site | Oct 27 |
 | **[KHAITE](https://khaite.com/)** | **[Product Development & Production, Non-Apparel Intern, Spring 2026](https://jobright.ai/jobs/info/68ffdddee0c73b3a1119f92f?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 27 |
 | **[Nike](http://www.nike.com)** | **[Nike, Inc. Product Business Integration Undergraduate Internship](https://jobright.ai/jobs/info/68ffc78be0c73b3a1119e384?utm_campaign=1047&utm_source=git)** | Beaverton, Oregon | On Site | Oct 27 |
 | **[Lumafield](https://www.lumafield.com)** | **[Product Intern, Hardware](https://jobright.ai/jobs/info/68ffb8b9e0c73b3a1119dbc1?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Oct 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[User Product Operations Intern [TikTok Local Services] - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ccf1795954791a1d7018f5?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Oct 23 |
 | ↳ | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd5bece23def7af55b8a98?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 23 |
 | ↳ | **[Product Manager Intern [TikTok-Product-Comprehensive Search]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ccfd0677add66568abd2f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 23 |
-| **[Nike](http://www.nike.com)** | **[NIKE, Inc. Footwear Product Creation Undergraduate Internship](https://jobright.ai/jobs/info/68f1bddee6870116b1f5ca8d?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Oct 22 |
-| **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/68f003129821486c423c8a38?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Oct 22 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Oct 22 |
-| **[Exact Sciences](https://www.exactsciences.com)** | **[Product Manager, Genetics Intern](https://jobright.ai/jobs/info/68f93e75cadb2e5a06a62dd3?utm_campaign=1047&utm_source=git)** | Marshfield, WI | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
