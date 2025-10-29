@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cloudflare](http://www.cloudflare.com)** | **[Product Manager Intern (Spring 2026)](https://jobright.ai/jobs/info/69026fa6ff462851fefe2fe8?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Oct 29 |
+| **[Nestlé](https://www.nestle.com)** | **[Nestlé Product Development Intern](https://jobright.ai/jobs/info/68dc4027a125e75c4229ece6?utm_campaign=1047&utm_source=git)** | Arlington, VA | On Site | Oct 29 |
+| ↳ | **[Nestlé Product Development Intern](https://jobright.ai/jobs/info/68dc3f69a125e75c4229eb4c?utm_campaign=1047&utm_source=git)** | Solon, OH | On Site | Oct 29 |
+| **[Nike](http://www.nike.com)** | **[NIKE, Inc. Product Management Graduate Internship](https://jobright.ai/jobs/info/68f1be2fe6870116b1f5cb5b?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Oct 29 |
+| **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - RFID Software Product Management](https://jobright.ai/jobs/info/69027b43ff462851fefe38a7?utm_campaign=1047&utm_source=git)** | Holtsville, NY | On Site | Oct 29 |
+| **[Value Aligners](Valuealigners.com)** | **[Cybersecurity Product Manager Intern](https://jobright.ai/jobs/info/69027abc98707b2b0fe6fec2?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Oct 29 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Product Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/690276d698707b2b0fe6fa45?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Oct 29 |
+| ↳ | **[Product Manager Intern (Spring 2026)](https://jobright.ai/jobs/info/69026fa6ff462851fefe2fe8?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Oct 29 |
 | **[Mujin US](https://mujin-corp.com/)** | **[Product Development-GT Intern (Spring 2026)](https://jobright.ai/jobs/info/69026c7798707b2b0fe6f322?utm_campaign=1047&utm_source=git)** | Suwanee, Georgia, United States | On Site | Oct 29 |
 | ↳ | **[Product Development-GT Intern (Summer 2026)](https://jobright.ai/jobs/info/690263d300a1816c41e9d811?utm_campaign=1047&utm_source=git)** | Suwanee, Georgia, United States | On Site | Oct 29 |
 | **[AAR](http://aarcorp.com)** | **[Product Line Rep Intern: Parts Supply](https://jobright.ai/jobs/info/69024c2eff462851fefe1ad0?utm_campaign=1047&utm_source=git)** | United States-Illinois-Wood Dale | On Site | Oct 29 |
@@ -108,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[Glean](https://www.glean.com)** | **[Product Management, Intern (Fall 2025)](https://jobright.ai/jobs/info/68e456f0b99ec3563b0e95fb?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Oct 28 |
 | **[DriveWealth](https://drivewealth.com)** | **[Summer 2026 Intern, Product](https://jobright.ai/jobs/info/68e482e81852e62f00806ac7?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 28 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6900b8bdf8ce7a040fdb8ea3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 28 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Product Intern](https://jobright.ai/jobs/info/68e47db3b99ec3563b0eae11?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 28 |
-| ↳ | **[Summer 2026 Internship - Product Strategy Intern](https://jobright.ai/jobs/info/68e47bd3b99ec3563b0eac15?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Oct 28 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Product Strategy Intern](https://jobright.ai/jobs/info/68e47bd3b99ec3563b0eac15?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Oct 28 |
+| ↳ | **[Summer 2026 Internship - Product Intern](https://jobright.ai/jobs/info/68e47b28b99ec3563b0eab75?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Search Safety Product Manager Project Intern [TikTok-Safety Products-Search]-2025 Start (BS/MS)](https://jobright.ai/jobs/info/6900b149d5259a1b3cfee015?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 28 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Business & Product Strategy Intern](https://jobright.ai/jobs/info/68e47cc5b99ec3563b0ead2d?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 28 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management/Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca838758f2e4ac300772f?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Oct 28 |
@@ -117,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[Everspring](http://everspringpartners.com)** | **[Director of Product Portfolio Development](https://jobright.ai/jobs/info/68e467e21852e62f00805748?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Oct 28 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6900c1b1f8ce7a040fdb9114?utm_campaign=1047&utm_source=git)** | Santa Monica, CA | On Site | Oct 28 |
 | ↳ | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6900c131d5259a1b3cfee4fd?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 28 |
-| **[Exact Sciences](https://www.exactsciences.com)** | **[Product Development Intern (Summer 2026)](https://jobright.ai/jobs/info/68f02df3de50091dbfa52de4?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Oct 28 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Product Management MBA Intern](https://jobright.ai/jobs/info/68e459351852e62f00804edf?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Oct 28 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Video Product](https://jobright.ai/jobs/info/68fcb14de04ac838fb5abf07?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Oct 28 |
 | ↳ | **[2026 Summer Intern: WiFi Product Team](https://jobright.ai/jobs/info/68fc7c5abf1f431bc45f4849?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Oct 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68cb966dba798c1a501d2713?utm_campaign=1047&utm_source=git)** | Irvine, CA | Hybrid | Oct 25 |
 | ↳ | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68cd8ab5e23def7af55bb715?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | Hybrid | Oct 25 |
 | **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Digital Product Management Summer Intern](https://jobright.ai/jobs/info/68e0a656b99ec3563b0d1bbe?utm_campaign=1047&utm_source=git)** | Triad Area | Hybrid | Oct 25 |
-| **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Product Development Legal Summer Intern](https://jobright.ai/jobs/info/68c8f0f4f9c6ff7aedf1506b?utm_campaign=1047&utm_source=git)** | Hartford, CT | On Site | Oct 25 |
-| **[Henkel](http://www.henkel.com)** | **[Pricing & Product Portfolio Intern – Summer 2026](https://jobright.ai/jobs/info/68cf03c3846f0b04af67e905?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ | Hybrid | Oct 25 |
-| **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Merchandise Planning Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e04c60f758fe1f97e4c19d?utm_campaign=1047&utm_source=git)** | Reynoldsburg, OH | Hybrid | Oct 25 |
-| **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Technical Product Management - Summer 2026](https://jobright.ai/jobs/info/68e084b6f758fe1f97e4ddae?utm_campaign=1047&utm_source=git)** | Newark, CA | On Site | Oct 25 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/68e03467b99ec3563b0cd42e?utm_campaign=1047&utm_source=git)** | Research Park, CA | Hybrid | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
