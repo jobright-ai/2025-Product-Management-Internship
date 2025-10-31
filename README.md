@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Product Development Intern or Co-op](https://jobright.ai/jobs/info/68cc63db16d00d2beeb1ecdf?utm_campaign=1047&utm_source=git)** | Stevens Point, WI | On Site | Oct 31 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6904a75aff462851feff6c6a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Oct 31 |
 | **[Lila Sciences](https://www.lila.ai)** | **[Product Strategy Intern, Life Sciences](https://jobright.ai/jobs/info/68e80d2a09580a2fe57f2c8a?utm_campaign=1047&utm_source=git)** | Cambridge, MA | Hybrid | Oct 31 |
+| ↳ | **[Product Strategy Intern, Physical Sciences](https://jobright.ai/jobs/info/68e7ff5dc4895107182c08b0?utm_campaign=1047&utm_source=git)** | Cambridge, MA | Hybrid | Oct 31 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Video Product](https://jobright.ai/jobs/info/68fda356e0c73b3a11194037?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Oct 31 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf7b99fb49c96ca6ea8e0c?utm_campaign=1047&utm_source=git)** | Downers Grove, IL | On Site | Oct 31 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Mobile Product](https://jobright.ai/jobs/info/68fc9a1e0ab3b2224629d521?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Oct 31 |
-| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Summer Intern](https://jobright.ai/jobs/info/68ccf71e77add66568abcd16?utm_campaign=1047&utm_source=git)** | Erie, PA | On Site | Oct 31 |
+| ↳ | **[Product Management Summer Intern](https://jobright.ai/jobs/info/68ccf71e77add66568abcd16?utm_campaign=1047&utm_source=git)** | Erie, PA | On Site | Oct 31 |
 | **[Teamworks](http://www.teamworks.com)** | **[Product Management MBA Intern (Remote)](https://jobright.ai/jobs/info/69046325ff462851feff4fe8?utm_campaign=1047&utm_source=git)** | United States | Remote | Oct 31 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/69044f29d64a22104aa98d67?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Oct 30 |
 | **[ModMed](https://www.modmed.com)** | **[Product Development Summer 2026 Internship](https://jobright.ai/jobs/info/68eeb96ce0db92422580a57c?utm_campaign=1047&utm_source=git)** | Boca Raton, Florida | Hybrid | Oct 30 |
@@ -78,8 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6903d461d64a22104aa939a9?utm_campaign=1047&utm_source=git)** | Scarborough, ME | Hybrid | Oct 30 |
 | **[TekniPlex](http://www.tekni-plex.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/6903ce1f63502c0aded6cb8c?utm_campaign=1047&utm_source=git)** | Dublin, VA | On Site | Oct 30 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product and Technology Analytics Intern, NYC](https://jobright.ai/jobs/info/6903cbd9d64a22104aa93374?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 30 |
-| **[Nike](http://www.nike.com)** | **[Nike, Inc. Product Business Integration Graduate Internship](https://jobright.ai/jobs/info/690035d50ab3b222462b2ec3?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Oct 30 |
-| ↳ | **[Nike, Inc. Product Business Integration Undergraduate Internship](https://jobright.ai/jobs/info/69002d59e0c73b3a111a2f22?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Oct 30 |
+| **[Nike](http://www.nike.com)** | **[Nike, Inc. Product Business Integration Undergraduate Internship](https://jobright.ai/jobs/info/69002d59e0c73b3a111a2f22?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Oct 30 |
 | **[WorldBiz Tech Consulting](https://worldbiztechconsulting.com)** | **[Product launch & Sales-INTERNSHIP](https://jobright.ai/jobs/info/6903c640ff462851fefee950?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Oct 30 |
 | **[Nestlé](https://www.nestle.com)** | **[Nestlé Professional Product Development Intern](https://jobright.ai/jobs/info/6903e1cfd64a22104aa9479c?utm_campaign=1047&utm_source=git)** | Solon, OH | On Site | Oct 30 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[Product Intern - Ideation](https://jobright.ai/jobs/info/6903be3f63502c0aded6bc78?utm_campaign=1047&utm_source=git)** | Colmar, PA | On Site | Oct 30 |
@@ -140,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/69010b30d5259a1b3cff0bbb?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 29 |
 | **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68c82d06f9c6ff7aedf0badd?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Oct 29 |
 | **[Q2](https://www.q2.com)** | **[2026 Summer Internship - Product Management](https://jobright.ai/jobs/info/68e587edae2b894b1d7109ba?utm_campaign=1047&utm_source=git)** | United States | Remote | Oct 29 |
+| **[Glean](https://www.glean.com)** | **[Product Management, Intern (Fall 2025)](https://jobright.ai/jobs/info/68e456f0b99ec3563b0e95fb?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Oct 28 |
 | **[The Bancorp](http://www.thebancorp.com/)** | **[Product Development Intern (Hybrid)](https://jobright.ai/jobs/info/69018a9ef8ce7a040fdc0a66?utm_campaign=1047&utm_source=git)** | Greater Sioux Falls Area | Hybrid | Oct 28 |
 | **[PayPal](https://www.paypal.com/home)** | **[Product Manager Wallet Intern - MBA](https://jobright.ai/jobs/info/69018987f8ce7a040fdc0979?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Oct 28 |
 | **[The New York Times](https://www.nytco.com/)** | **[Product Managment, Wirecutter Intern](https://jobright.ai/jobs/info/690183c0f8ce7a040fdc05d7?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GiveDirectly](https://www.givedirectly.org/)** | **[Senior Product Manager, International Rapid Response Payment Systems](https://jobright.ai/jobs/info/68cba8d89e3a822f5d249d3c?utm_campaign=1047&utm_source=git)** | United States | Remote | Oct 28 |
 | **[CDK Global](http://www.cdkglobal.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68cfe521dbd9fb154edeb9bc?utm_campaign=1047&utm_source=git)** | Hoffman Estates, IL | Hybrid | Oct 28 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68ccfdcad11b445e0bee5a00?utm_campaign=1047&utm_source=git)** | Portland, OR | Hybrid | Oct 28 |
-| **[Copeland](https://www.copeland.com)** | **[Summer 2026 Business Analyst & Innovation Intern](https://jobright.ai/jobs/info/68cf24d2dbd9fb154ede5426?utm_campaign=1047&utm_source=git)** | Dayton, OH | On Site | Oct 28 |
-| **[CDK Global](http://www.cdkglobal.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68ce240cb2a74e1837edfafe?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
