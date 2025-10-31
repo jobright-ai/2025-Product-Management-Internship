@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arcesium](http://www.arcesium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/690429b163502c0aded711e1?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Oct 30 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/6904238f63502c0aded70ab1?utm_campaign=1047&utm_source=git)** | California - San Francisco | Hybrid | Oct 30 |
+| ↳ | **[Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/69041a44d64a22104aa96ef3?utm_campaign=1047&utm_source=git)** | New York - New York | Hybrid | Oct 30 |
+| **[Kendra Scott](http://www.kendrascott.com)** | **[Product Developement Intern](https://jobright.ai/jobs/info/69041705ff462851feff29cd?utm_campaign=1047&utm_source=git)** | Austin Texas | On Site | Oct 30 |
 | **[H&R Block](https://www.hrblock.com)** | **[Embark Intern - Product Management](https://jobright.ai/jobs/info/69040f00d64a22104aa967dd?utm_campaign=1047&utm_source=git)** | Kansas City, MO | On Site | Oct 30 |
 | **[Arcesium](http://www.arcesium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6903f3c763502c0aded6ea7a?utm_campaign=1047&utm_source=git)** | New York | On Site | Oct 30 |
 | **[GALLO](http://www.gallocareers.com)** | **[Product Insights & Innovation Internship 2026 June - December](https://jobright.ai/jobs/info/68cdbae81ad6b16f0289e5ba?utm_campaign=1047&utm_source=git)** | Modesto, CA | On Site | Oct 30 |
@@ -150,11 +154,7 @@ For a complete list, click the following sortable link below:
 | **[CDK Global](http://www.cdkglobal.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68ce240cb2a74e1837edfafe?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Oct 28 |
 | **[DriveWealth](https://drivewealth.com)** | **[Summer 2026 Intern, Product](https://jobright.ai/jobs/info/68e482e81852e62f00806ac7?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 28 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6900b8bdf8ce7a040fdb8ea3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 28 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Product Intern](https://jobright.ai/jobs/info/68e47db3b99ec3563b0eae11?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 28 |
-| ↳ | **[Summer 2026 Internship - Product Strategy Intern](https://jobright.ai/jobs/info/68e47bd3b99ec3563b0eac15?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Oct 28 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Product Strategy Intern](https://jobright.ai/jobs/info/68e47bd3b99ec3563b0eac15?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Oct 28 |
+| ↳ | **[Summer 2026 Internship - Product Intern](https://jobright.ai/jobs/info/68e47b28b99ec3563b0eab75?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Search Safety Product Manager Project Intern [TikTok-Safety Products-Search]-2025 Start (BS/MS)](https://jobright.ai/jobs/info/6900b149d5259a1b3cfee015?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 28 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Business & Product Strategy Intern](https://jobright.ai/jobs/info/68e47cc5b99ec3563b0ead2d?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 28 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Product Management/Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca838758f2e4ac300772f?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Oct 28 |
-| **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68cd083db2a74e1837ed0ae4?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Oct 28 |
-| **[Everspring](http://everspringpartners.com)** | **[Director of Product Portfolio Development](https://jobright.ai/jobs/info/68e467e21852e62f00805748?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
