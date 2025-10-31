@@ -57,11 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Copeland](https://www.copeland.com)** | **[Spring 2026 - Product Management / Controls & Smart Home Technologies Intern](https://jobright.ai/jobs/info/68cecb20dbd9fb154ede2d86?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Oct 31 |
+| **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Shorex Product Analysis](https://jobright.ai/jobs/info/68ccd77677add66568aba15d?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Oct 31 |
+| **[Tanium](http://www.tanium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68e8183cc4895107182c2223?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Oct 31 |
+| **[Schwan's Company](http://www.schwanscompany.com/)** | **[Product Development Intern - Summer 2026 - Marshall, MN](https://jobright.ai/jobs/info/68cc3dab128dc347fd92166e?utm_campaign=1047&utm_source=git)** | Marshall, MN | On Site | Oct 31 |
+| **[Lever Middleware Test Company](http://www.lever.co)** | **[Product Operations - Intern](https://jobright.ai/jobs/info/6904bf69122e8474c78d2ed8?utm_campaign=1047&utm_source=git)** | Beverly Hills, California | On Site | Oct 31 |
+| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/68c10a1a702aa35207ab2faa?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Oct 31 |
+| **[Schwan's Company](http://www.schwanscompany.com/)** | **[Product Development Intern - Summer 2026 - La Palma, CA](https://jobright.ai/jobs/info/68cc36297342c7623ae60f70?utm_campaign=1047&utm_source=git)** | La Palma, CA | On Site | Oct 31 |
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Product Development Intern or Co-op](https://jobright.ai/jobs/info/68cc63db16d00d2beeb1ecdf?utm_campaign=1047&utm_source=git)** | Stevens Point, WI | On Site | Oct 31 |
+| **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[2026 Technology Product & Strategy Summer Intern](https://jobright.ai/jobs/info/68e84458cc49a84b7e1048a9?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Oct 31 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6904a75aff462851feff6c6a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Oct 31 |
+| **[Kendra Scott](http://www.kendrascott.com)** | **[Product Developement Intern](https://jobright.ai/jobs/info/6904be0b122e8474c78d2e63?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Oct 31 |
 | **[Lila Sciences](https://www.lila.ai)** | **[Product Strategy Intern, Life Sciences](https://jobright.ai/jobs/info/68e80d2a09580a2fe57f2c8a?utm_campaign=1047&utm_source=git)** | Cambridge, MA | Hybrid | Oct 31 |
 | ↳ | **[Product Strategy Intern, Physical Sciences](https://jobright.ai/jobs/info/68e7ff5dc4895107182c08b0?utm_campaign=1047&utm_source=git)** | Cambridge, MA | Hybrid | Oct 31 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Video Product](https://jobright.ai/jobs/info/68fda356e0c73b3a11194037?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Oct 31 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf7b99fb49c96ca6ea8e0c?utm_campaign=1047&utm_source=git)** | Downers Grove, IL | On Site | Oct 31 |
 | ↳ | **[Product Management Summer Intern](https://jobright.ai/jobs/info/68ccf71e77add66568abcd16?utm_campaign=1047&utm_source=git)** | Erie, PA | On Site | Oct 31 |
 | **[Teamworks](http://www.teamworks.com)** | **[Product Management MBA Intern (Remote)](https://jobright.ai/jobs/info/69046325ff462851feff4fe8?utm_campaign=1047&utm_source=git)** | United States | Remote | Oct 31 |
@@ -127,8 +135,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026: Product Development Intern, Ninja (February to May)](https://jobright.ai/jobs/info/68cce1d3d11b445e0bee3b04?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Oct 29 |
 | **[PennEngineering®](http://www.pemnet.com/)** | **[New Product Development Intern - Summer 2026](https://jobright.ai/jobs/info/68e5983e1852e62f00812944?utm_campaign=1047&utm_source=git)** | Danboro, PA | On Site | Oct 29 |
 | **[Schneider](https://schneider.com)** | **[Product Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69025195ff462851fefe1d32?utm_campaign=1047&utm_source=git)** | Green Bay, WI | On Site | Oct 29 |
-| **[AAR](http://aarcorp.com)** | **[Product Line Rep Intern: Parts Supply](https://jobright.ai/jobs/info/69024bf300a1816c41e9caed?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | Oct 29 |
-| ↳ | **[Product Line Rep Intern: Defense Distribution](https://jobright.ai/jobs/info/69024dfeff462851fefe1c3b?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | Oct 29 |
+| **[AAR](http://aarcorp.com)** | **[Product Line Rep Intern: Defense Distribution](https://jobright.ai/jobs/info/69024dfeff462851fefe1c3b?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | Oct 29 |
+| ↳ | **[Product Line Rep Intern: Parts Supply](https://jobright.ai/jobs/info/69024bf300a1816c41e9caed?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | Oct 29 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Product Development Co-op, Shark (January through June)](https://jobright.ai/jobs/info/68ae994903c5f15c2fd8a42d?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Oct 29 |
 | **[AQR Capital Management](https://www.aqr.com)** | **[2026 Research Product Specialist Summer Intern](https://jobright.ai/jobs/info/68e51f57ae2b894b1d70ae81?utm_campaign=1047&utm_source=git)** | Greenwich, CT | On Site | Oct 29 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9a3f758f2e4ac3006d42?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Oct 29 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HCSS](http://hcss.nl)** | **[Product Analyst Intern - Spring 2026](https://jobright.ai/jobs/info/690297a098707b2b0fe715c3?utm_campaign=1047&utm_source=git)** | Sugar Land, TX | On Site | Oct 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Intern [Global Monetization Product and Technology]-2026 Summer (MBA)](https://jobright.ai/jobs/info/690156bc4539ea1f2141f57c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 28 |
 | **[PayPal](https://www.paypal.com/home)** | **[Product Manager Wallet Intern - MBA](https://jobright.ai/jobs/info/690139e3d5259a1b3cff3278?utm_campaign=1047&utm_source=git)** | San Jose, California, United States of America | Hybrid | Oct 28 |
-| **[The New York Times](https://www.nytco.com/)** | **[Product Managment, Wirecutter Intern](https://jobright.ai/jobs/info/690133374539ea1f2141ddee?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 28 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 Product Management Kroger Technology & Digital Intern](https://jobright.ai/jobs/info/69013041f8ce7a040fdbd2e4?utm_campaign=1047&utm_source=git)** | 11450 Grooms Rd, Blue Ash, OH, 45242, US | On Site | Oct 28 |
-| **[InComm Payments](https://www.incomm.com/)** | **[Product Implementation Intern](https://jobright.ai/jobs/info/69011b21d5259a1b3cff1743?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Oct 28 |
-| **[Webull Financial](https://www.webullcorp.com)** | **[Webull 2026 Summer Internship - NY](https://jobright.ai/jobs/info/690111d4f8ce7a040fdbbb4d?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 28 |
-| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/690243d398707b2b0fe6d9ab?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Oct 28 |
-| **[GiveDirectly](https://www.givedirectly.org/)** | **[Senior Product Manager, International Rapid Response Payment Systems](https://jobright.ai/jobs/info/68cba8d89e3a822f5d249d3c?utm_campaign=1047&utm_source=git)** | United States | Remote | Oct 28 |
-| **[CDK Global](http://www.cdkglobal.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68cfe521dbd9fb154edeb9bc?utm_campaign=1047&utm_source=git)** | Hoffman Estates, IL | Hybrid | Oct 28 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68ccfdcad11b445e0bee5a00?utm_campaign=1047&utm_source=git)** | Portland, OR | Hybrid | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
