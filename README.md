@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Optimum](http://www.optimum.com)** | **[Intern](https://jobright.ai/jobs/info/69057089ff462851feffd665?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 31 |
+| **[MongoDB](https://www.mongodb.com/)** | **[2026 - FinTech Product Management Intern, Palo Alto](https://jobright.ai/jobs/info/690567a8122e8474c78d8c4d?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Oct 31 |
+| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Product Planning](https://jobright.ai/jobs/info/69056755122e8474c78d8c01?utm_campaign=1047&utm_source=git)** | Kirkland, WA | On Site | Oct 31 |
+| **[GlobalFoundries](https://gf.com/)** | **[Product Management Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/690565a5122e8474c78d8aca?utm_campaign=1047&utm_source=git)** | Malta, NY | On Site | Oct 31 |
 | **[Pierce Manufacturing](http://www.piercemfg.com/)** | **[Product Management Intern (Year Round)](https://jobright.ai/jobs/info/690536cd63502c0aded798e1?utm_campaign=1047&utm_source=git)** | Appleton, WI | On Site | Oct 31 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 – Product Strategy Intern (Master's)](https://jobright.ai/jobs/info/69052f4163502c0aded793c8?utm_campaign=1047&utm_source=git)** | Cary, NC | Hybrid | Oct 31 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - FinTech Product Management Intern, Palo Alto](https://jobright.ai/jobs/info/6905268d63502c0aded78bf5?utm_campaign=1047&utm_source=git)** | Palo Alto | On Site | Oct 31 |
@@ -140,21 +144,17 @@ For a complete list, click the following sortable link below:
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Global Product Portfolio Intern](https://jobright.ai/jobs/info/68cfc097dbd9fb154edeaa0d?utm_campaign=1047&utm_source=git)** | Westchester, IL | Hybrid | Oct 29 |
 | **[AAR](http://aarcorp.com)** | **[Product Line Rep Intern: Defense Distribution](https://jobright.ai/jobs/info/6902433298707b2b0fe6d940?utm_campaign=1047&utm_source=git)** | United States-Illinois-Wood Dale | On Site | Oct 29 |
 | ↳ | **[Product Line Rep Intern: Commercial Distribution](https://jobright.ai/jobs/info/690233a798707b2b0fe6d0d4?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | Oct 29 |
-| **[G&W Electric Co.](http://www.gwelec.com/)** | **[Intern - Product Management - Summer 2026](https://jobright.ai/jobs/info/690232d5ff462851fefe0b60?utm_campaign=1047&utm_source=git)** | Bolingbrook, IL | On Site | Oct 29 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Development Intern, Shark (May to August)](https://jobright.ai/jobs/info/68cbfb80128dc347fd91cc8f?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Oct 29 |
 | ↳ | **[Summer 2026: Product Development Intern, Ninja (May to August)](https://jobright.ai/jobs/info/68ce190ee23def7af55c2356?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Oct 29 |
 | ↳ | **[Spring 2026: Product Development Intern, Ninja (February to May)](https://jobright.ai/jobs/info/68cce1d3d11b445e0bee3b04?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Oct 29 |
 | **[PennEngineering®](http://www.pemnet.com/)** | **[New Product Development Intern - Summer 2026](https://jobright.ai/jobs/info/68e5983e1852e62f00812944?utm_campaign=1047&utm_source=git)** | Danboro, PA | On Site | Oct 29 |
 | **[Schneider](https://schneider.com)** | **[Product Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69025195ff462851fefe1d32?utm_campaign=1047&utm_source=git)** | Green Bay, WI | On Site | Oct 29 |
-| **[AAR](http://aarcorp.com)** | **[Product Line Rep Intern: Parts Supply](https://jobright.ai/jobs/info/69024bf300a1816c41e9caed?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | Oct 29 |
-| ↳ | **[Product Line Rep Intern: Defense Distribution](https://jobright.ai/jobs/info/69024dfeff462851fefe1c3b?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | Oct 29 |
+| **[AAR](http://aarcorp.com)** | **[Product Line Rep Intern: Defense Distribution](https://jobright.ai/jobs/info/69024dfeff462851fefe1c3b?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | Oct 29 |
+| ↳ | **[Product Line Rep Intern: Parts Supply](https://jobright.ai/jobs/info/69024bf300a1816c41e9caed?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | Oct 29 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Product Development Co-op, Shark (January through June)](https://jobright.ai/jobs/info/68ae994903c5f15c2fd8a42d?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Oct 29 |
 | **[AQR Capital Management](https://www.aqr.com)** | **[2026 Research Product Specialist Summer Intern](https://jobright.ai/jobs/info/68e51f57ae2b894b1d70ae81?utm_campaign=1047&utm_source=git)** | Greenwich, CT | On Site | Oct 29 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Product Management Engineering MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68cd683fe23def7af55b98fe?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Oct 29 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac9a3f758f2e4ac3006d42?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Oct 29 |
+| ↳ | **[Product Management Engineering MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68cd683fe23def7af55b98fe?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Oct 29 |
 | **[SageSure](https://www.sagesure.com)** | **[Software Product Management Intern](https://jobright.ai/jobs/info/6902278598707b2b0fe6cc8b?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | On Site | Oct 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product Infrastructure]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fb307a9e8e925ac6c8981e?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Oct 29 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68cea171846f0b04af67bbb1?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Oct 29 |
-| **[Bass Pro Shops](https://www.basspro.com)** | **[Summer 2026 Product Development Intern](https://jobright.ai/jobs/info/68cccf91a77e5d7d744f5e3e?utm_campaign=1047&utm_source=git)** | Springfield, MO | On Site | Oct 29 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6902343098707b2b0fe6d112?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Oct 29 |
-| **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68c663dcdb52c07d28848282?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
