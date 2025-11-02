@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Red Hat](http://www.redhat.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68c78894c96a22563ecf1cd0?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Nov 02 |
+| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/68f6071e9a63986de757c1c5?utm_campaign=1047&utm_source=git)** | Des Moines, IA | On Site | Nov 02 |
+| **[Red Hat](http://www.redhat.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68c6492b7d0db41142737cdf?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Nov 02 |
 | **[Selective Insurance](https://www.selective.com/)** | **[Product Internship, Personal Lines - Branchville, NJ (Hybrid)](https://jobright.ai/jobs/info/68e7fe38cc49a84b7e10056c?utm_campaign=1047&utm_source=git)** | Branchville, NJ | Hybrid | Nov 01 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Pricing Analytics & Product Development](https://jobright.ai/jobs/info/68cedbe0dbd9fb154ede3379?utm_campaign=1047&utm_source=git)** | Fort Worth, TX | Hybrid | Nov 01 |
 | **[EXPRESS](http://express.com)** | **[Product Development Summer Internship](https://jobright.ai/jobs/info/68e936560930fe0bc46231cb?utm_campaign=1047&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Nov 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AAR](http://aarcorp.com)** | **[Product Line Rep Intern: Parts Supply](https://jobright.ai/jobs/info/69024c2eff462851fefe1ad0?utm_campaign=1047&utm_source=git)** | United States-Illinois-Wood Dale | On Site | Oct 29 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Global Product Portfolio Intern](https://jobright.ai/jobs/info/68cfc097dbd9fb154edeaa0d?utm_campaign=1047&utm_source=git)** | Westchester, IL | Hybrid | Oct 29 |
 | **[AAR](http://aarcorp.com)** | **[Product Line Rep Intern: Defense Distribution](https://jobright.ai/jobs/info/6902433298707b2b0fe6d940?utm_campaign=1047&utm_source=git)** | United States-Illinois-Wood Dale | On Site | Oct 29 |
-| ↳ | **[Product Line Rep Intern: Commercial Distribution](https://jobright.ai/jobs/info/690233a798707b2b0fe6d0d4?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | Oct 29 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Development Intern, Shark (May to August)](https://jobright.ai/jobs/info/68cbfb80128dc347fd91cc8f?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Oct 29 |
-| ↳ | **[Summer 2026: Product Development Intern, Ninja (May to August)](https://jobright.ai/jobs/info/68ce190ee23def7af55c2356?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
