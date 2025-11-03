@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[S&P Global](https://www.spglobal.com)** | **[Product Specialist Intern - ETF & Benchmark Solutions (Early Careers)](https://jobright.ai/jobs/info/6907ef2763502c0aded899ff?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 02 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product Infrastructure]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6907e4b3ff462851fe00bc37?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 02 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68b1e671bc187f64e1bd799c?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | On Site | Nov 02 |
 | ↳ | **[New Product Development MBA Intern, Joico - Spring 2026](https://jobright.ai/jobs/info/68b23a49f4e41a61efd82d67?utm_campaign=1047&utm_source=git)** | Culver City, CA | Hybrid | Nov 02 |
 | ↳ | **[Product Innovation & Brand Management MBA Intern, DevaCurl - Spring 2026](https://jobright.ai/jobs/info/68b2395cbc187f64e1bd9f84?utm_campaign=1047&utm_source=git)** | Culver City, CA | Hybrid | Nov 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[R&D Product Operations Intern](https://jobright.ai/jobs/info/690294bdff462851fefe4ea6?utm_campaign=1047&utm_source=git)** | Boston, MA, USA | On Site | Oct 29 |
 | **[Nestlé](https://www.nestle.com)** | **[Nestlé Product Development Intern](https://jobright.ai/jobs/info/68dc4027a125e75c4229ece6?utm_campaign=1047&utm_source=git)** | Arlington, VA | On Site | Oct 29 |
 | ↳ | **[Nestlé Product Development Intern](https://jobright.ai/jobs/info/68dc3f69a125e75c4229eb4c?utm_campaign=1047&utm_source=git)** | Solon, OH | On Site | Oct 29 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[Product Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/690276d698707b2b0fe6fa45?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Oct 29 |
-| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Product Management, AI](https://jobright.ai/jobs/info/6902912198707b2b0fe7121c?utm_campaign=1047&utm_source=git)** | CA-Remote | Remote | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
