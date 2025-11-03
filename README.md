@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Product Specialist](https://jobright.ai/jobs/info/690854ed122e8474c78e9d5a?utm_campaign=1047&utm_source=git)** | Maryland Heights, MO | On Site | Nov 02 |
+| **[ModMed](https://www.modmed.com)** | **[Product Development Summer 2026 Internship](https://jobright.ai/jobs/info/68eeb96ce0db92422580a57c?utm_campaign=1047&utm_source=git)** | Boca Raton, Florida | Hybrid | Nov 02 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Specialist Intern - ETF & Benchmark Solutions (Early Careers)](https://jobright.ai/jobs/info/6908126d63502c0aded8a0a7?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 02 |
 | ↳ | **[Product Specialist Intern - ETF & Benchmark Solutions (Early Careers)](https://jobright.ai/jobs/info/6907ecc5ff462851fe00bd4b?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product Infrastructure]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6907e4b3ff462851fe00bc37?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 02 |
@@ -79,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68ef6aadde50091dbfa4e978?utm_campaign=1047&utm_source=git)** | Northfield, IL | Hybrid | Nov 01 |
 | **[Dart Container](https://www.dartcontainer.com)** | **[Product Line and Trade Management Intern](https://jobright.ai/jobs/info/68dcd21faccfd24b67e5a621?utm_campaign=1047&utm_source=git)** | Mason, MI | On Site | Nov 01 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Product Strategy Intern- Spring 2026](https://jobright.ai/jobs/info/6893bb00a9199876488dfab9?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Nov 01 |
-| **[Kendra Scott](http://www.kendrascott.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/6904be0b122e8474c78d2e63?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Nov 01 |
 | **[Lumafield](https://www.lumafield.com)** | **[Product Intern, Hardware](https://jobright.ai/jobs/info/68ffb8b9e0c73b3a1119dbc1?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Oct 31 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Product Management Internship (MBA)](https://jobright.ai/jobs/info/68dc5fa9accfd24b67e54e45?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Oct 31 |
 | **[Optimum](http://www.optimum.com)** | **[Intern](https://jobright.ai/jobs/info/69057089ff462851feffd665?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 31 |
@@ -105,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Product Development Intern or Co-op](https://jobright.ai/jobs/info/68cc63db16d00d2beeb1ecdf?utm_campaign=1047&utm_source=git)** | Stevens Point, WI | On Site | Oct 31 |
 | **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[2026 Technology Product & Strategy Summer Intern](https://jobright.ai/jobs/info/68e84458cc49a84b7e1048a9?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Oct 31 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6904a75aff462851feff6c6a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Oct 31 |
+| **[Kendra Scott](http://www.kendrascott.com)** | **[Product Developement Intern](https://jobright.ai/jobs/info/6904be0b122e8474c78d2e63?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Oct 31 |
 | **[Lila Sciences](https://www.lila.ai)** | **[Product Strategy Intern, Life Sciences](https://jobright.ai/jobs/info/68e80d2a09580a2fe57f2c8a?utm_campaign=1047&utm_source=git)** | Cambridge, MA | Hybrid | Oct 31 |
 | ↳ | **[Product Strategy Intern, Physical Sciences](https://jobright.ai/jobs/info/68e7ff5dc4895107182c08b0?utm_campaign=1047&utm_source=git)** | Cambridge, MA | Hybrid | Oct 31 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf7b99fb49c96ca6ea8e0c?utm_campaign=1047&utm_source=git)** | Downers Grove, IL | On Site | Oct 31 |
@@ -113,8 +115,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern: Video Product](https://jobright.ai/jobs/info/69059025ff462851feffe9c2?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Oct 31 |
 | **[Teamworks](http://www.teamworks.com)** | **[Product Management MBA Intern (Remote)](https://jobright.ai/jobs/info/69046325ff462851feff4fe8?utm_campaign=1047&utm_source=git)** | United States | Remote | Oct 31 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/69044f29d64a22104aa98d67?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Oct 30 |
-| **[ModMed](https://www.modmed.com)** | **[Product Development Summer 2026 Internship](https://jobright.ai/jobs/info/68eeb96ce0db92422580a57c?utm_campaign=1047&utm_source=git)** | Boca Raton, Florida | Hybrid | Oct 30 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/6904631dff462851feff4fe6?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Oct 30 |
+| ↳ | **[Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/6904631dff462851feff4fe6?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Oct 30 |
 | **[Arcesium](http://www.arcesium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/690429b163502c0aded711e1?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Oct 30 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/6904238f63502c0aded70ab1?utm_campaign=1047&utm_source=git)** | California - San Francisco | Hybrid | Oct 30 |
 | ↳ | **[Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/69041a44d64a22104aa96ef3?utm_campaign=1047&utm_source=git)** | New York - New York | Hybrid | Oct 30 |
@@ -126,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6903d461d64a22104aa939a9?utm_campaign=1047&utm_source=git)** | Scarborough, ME | Hybrid | Oct 30 |
 | **[TekniPlex](http://www.tekni-plex.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/6903ce1f63502c0aded6cb8c?utm_campaign=1047&utm_source=git)** | Dublin, VA | On Site | Oct 30 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product and Technology Analytics Intern, NYC](https://jobright.ai/jobs/info/6903cbd9d64a22104aa93374?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 30 |
-| **[Nike](http://www.nike.com)** | **[Nike, Inc. Product Business Integration Undergraduate Internship](https://jobright.ai/jobs/info/69002d59e0c73b3a111a2f22?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Oct 30 |
-| ↳ | **[Nike, Inc. Product Business Integration Graduate Internship](https://jobright.ai/jobs/info/690035d50ab3b222462b2ec3?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Oct 30 |
+| **[Nike](http://www.nike.com)** | **[Nike, Inc. Product Business Integration Graduate Internship](https://jobright.ai/jobs/info/690035d50ab3b222462b2ec3?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Oct 30 |
+| ↳ | **[Nike, Inc. Product Business Integration Undergraduate Internship](https://jobright.ai/jobs/info/69002d59e0c73b3a111a2f22?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Oct 30 |
 | **[WorldBiz Tech Consulting](https://worldbiztechconsulting.com)** | **[Product launch & Sales-INTERNSHIP](https://jobright.ai/jobs/info/6903c640ff462851fefee950?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Oct 30 |
 | **[Nestlé](https://www.nestle.com)** | **[Nestlé Professional Product Development Intern](https://jobright.ai/jobs/info/6903e1cfd64a22104aa9479c?utm_campaign=1047&utm_source=git)** | Solon, OH | On Site | Oct 30 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[Product Intern - Ideation](https://jobright.ai/jobs/info/6903be3f63502c0aded6bc78?utm_campaign=1047&utm_source=git)** | Colmar, PA | On Site | Oct 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RaceTrac](http://www.racetrac.com/)** | **[MarTech Digital Guest Experience Intern (Summer 2026)](https://jobright.ai/jobs/info/6902bc2000a1816c41ea0fdc?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Oct 29 |
 | **[McGraw Hill](http://www.mheducation.com)** | **[Product Enablement Intern](https://jobright.ai/jobs/info/6902baf9ff462851fefe5fb5?utm_campaign=1047&utm_source=git)** | US-Remote | Hybrid | Oct 29 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[R&D Product Operations Intern](https://jobright.ai/jobs/info/690294bdff462851fefe4ea6?utm_campaign=1047&utm_source=git)** | Boston, MA, USA | On Site | Oct 29 |
-| **[Nestlé](https://www.nestle.com)** | **[Nestlé Product Development Intern](https://jobright.ai/jobs/info/68dc4027a125e75c4229ece6?utm_campaign=1047&utm_source=git)** | Arlington, VA | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
