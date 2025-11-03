@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[S&P Global](https://www.spglobal.com)** | **[Product Specialist Intern - ETF & Benchmark Solutions (Early Careers)](https://jobright.ai/jobs/info/6907ef2763502c0aded899ff?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 02 |
+| **[S&P Global](https://www.spglobal.com)** | **[Product Specialist Intern - ETF & Benchmark Solutions (Early Careers)](https://jobright.ai/jobs/info/6907ecc5ff462851fe00bd4b?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product Infrastructure]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6907e4b3ff462851fe00bc37?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 02 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68b1e671bc187f64e1bd799c?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | On Site | Nov 02 |
 | ↳ | **[New Product Development MBA Intern, Joico - Spring 2026](https://jobright.ai/jobs/info/68b23a49f4e41a61efd82d67?utm_campaign=1047&utm_source=git)** | Culver City, CA | Hybrid | Nov 02 |
