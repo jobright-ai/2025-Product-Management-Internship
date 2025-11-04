@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Awardco](https://www.award.co)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69099b14d046ab6061cd6faa?utm_campaign=1047&utm_source=git)** | Lindon, UT | On Site | Nov 03 |
 | **[Oracle](https://www.oracle.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/690982a94a1b456627b01331?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 03 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Product Engineer, Registration Operations (Winter/Spring 2026)](https://jobright.ai/jobs/info/69097ccdd046ab6061cd5e8f?utm_campaign=1047&utm_source=git)** | Fremont, CA | On Site | Nov 03 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Parts Product Management Intern Summer 2026](https://jobright.ai/jobs/info/690970c2d046ab6061cd5521?utm_campaign=1047&utm_source=git)** | Cranberry Township, PA | Hybrid | Nov 03 |
@@ -119,7 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Product Development Intern or Co-op](https://jobright.ai/jobs/info/68cc63db16d00d2beeb1ecdf?utm_campaign=1047&utm_source=git)** | Stevens Point, WI | On Site | Oct 31 |
 | **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[2026 Technology Product & Strategy Summer Intern](https://jobright.ai/jobs/info/68e84458cc49a84b7e1048a9?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Oct 31 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6904a75aff462851feff6c6a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Oct 31 |
-| **[Kendra Scott](http://www.kendrascott.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/6904be0b122e8474c78d2e63?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Oct 31 |
+| **[Kendra Scott](http://www.kendrascott.com)** | **[Product Developement Intern](https://jobright.ai/jobs/info/6904be0b122e8474c78d2e63?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Oct 31 |
 | **[Lila Sciences](https://www.lila.ai)** | **[Product Strategy Intern, Life Sciences](https://jobright.ai/jobs/info/68e80d2a09580a2fe57f2c8a?utm_campaign=1047&utm_source=git)** | Cambridge, MA | Hybrid | Oct 31 |
 | ↳ | **[Product Strategy Intern, Physical Sciences](https://jobright.ai/jobs/info/68e7ff5dc4895107182c08b0?utm_campaign=1047&utm_source=git)** | Cambridge, MA | Hybrid | Oct 31 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf7b99fb49c96ca6ea8e0c?utm_campaign=1047&utm_source=git)** | Downers Grove, IL | On Site | Oct 31 |
@@ -140,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6903d461d64a22104aa939a9?utm_campaign=1047&utm_source=git)** | Scarborough, ME | Hybrid | Oct 30 |
 | **[TekniPlex](http://www.tekni-plex.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/6903ce1f63502c0aded6cb8c?utm_campaign=1047&utm_source=git)** | Dublin, VA | On Site | Oct 30 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product and Technology Analytics Intern, NYC](https://jobright.ai/jobs/info/6903cbd9d64a22104aa93374?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Oct 30 |
-| **[Nike](http://www.nike.com)** | **[Nike, Inc. Product Business Integration Undergraduate Internship](https://jobright.ai/jobs/info/69002d59e0c73b3a111a2f22?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Oct 30 |
-| ↳ | **[Nike, Inc. Product Business Integration Graduate Internship](https://jobright.ai/jobs/info/690035d50ab3b222462b2ec3?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Oct 30 |
+| **[Nike](http://www.nike.com)** | **[Nike, Inc. Product Business Integration Graduate Internship](https://jobright.ai/jobs/info/690035d50ab3b222462b2ec3?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Oct 30 |
+| ↳ | **[Nike, Inc. Product Business Integration Undergraduate Internship](https://jobright.ai/jobs/info/69002d59e0c73b3a111a2f22?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Oct 30 |
 | **[Nestlé](https://www.nestle.com)** | **[Nestlé Professional Product Development Intern](https://jobright.ai/jobs/info/6903e1cfd64a22104aa9479c?utm_campaign=1047&utm_source=git)** | Solon, OH | On Site | Oct 30 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[Product Intern - Ideation](https://jobright.ai/jobs/info/6903be3f63502c0aded6bc78?utm_campaign=1047&utm_source=git)** | Colmar, PA | On Site | Oct 30 |
 | ↳ | **[Intern - Product](https://jobright.ai/jobs/info/6903b9b563502c0aded6b8d0?utm_campaign=1047&utm_source=git)** | Colmar, PA | On Site | Oct 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Product Development Co-op, CORE Quality (January through June)](https://jobright.ai/jobs/info/68ae9aa42daaba3984418f46?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Oct 30 |
 | **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[2026 Summer Intern: Product Development](https://jobright.ai/jobs/info/68cbfc2c128dc347fd91cda2?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Oct 30 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Product Service Strategy Intern](https://jobright.ai/jobs/info/68cf4673846f0b04af6801b8?utm_campaign=1047&utm_source=git)** | Olathe, KS | On Site | Oct 30 |
-| **[Apex Fintech Solutions](https://apexfintechsolutions.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68cedd15846f0b04af67d7f9?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
