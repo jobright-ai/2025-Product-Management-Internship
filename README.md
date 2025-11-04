@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Parts Product Management Intern Summer 2026](https://jobright.ai/jobs/info/690970c2d046ab6061cd5521?utm_campaign=1047&utm_source=git)** | Cranberry Township, PA | Hybrid | Nov 03 |
+| **[Awardco](https://www.award.co)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69095ce6d046ab6061cd4999?utm_campaign=1047&utm_source=git)** | Lindon, Utah | On Site | Nov 03 |
 | **[Oracle](https://www.oracle.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69095751d046ab6061cd46cd?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 03 |
 | **[Patterson-Kelley](http://harscopk.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/69095630d046ab6061cd45cc?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Nov 03 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69094ea2bcccf20de59d9cf6?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 03 |
 | **[TE Connectivity](http://www.te.com)** | **[Product Pricing Analyst- Intern](https://jobright.ai/jobs/info/690943204a1b456627afead1?utm_campaign=1047&utm_source=git)** | Montgomery County, PA | Remote | Nov 03 |
+| **[BoldVoice](https://boldvoice.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69096114bcccf20de59da8d6?utm_campaign=1047&utm_source=git)** | New York, NY, USA | Hybrid | Nov 03 |
 | **[Riot Games](http://www.riotgames.com)** | **[Insights Analyst Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69092852d046ab6061cd2427?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Remote | Nov 03 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Product Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/690925ef4a1b456627afd3d9?utm_campaign=1047&utm_source=git)** | Neenah, WI | Hybrid | Nov 03 |
 | **[State Street](http://www.statestreet.com)** | **[Product Management Support, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6904b25aff462851feff6e3f?utm_campaign=1047&utm_source=git)** | Quincy, MA | On Site | Nov 03 |
@@ -72,7 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Product Specialist](https://jobright.ai/jobs/info/690854ed122e8474c78e9d5a?utm_campaign=1047&utm_source=git)** | Maryland Heights, MO | On Site | Nov 02 |
 | **[ModMed](https://www.modmed.com)** | **[Product Development Summer 2026 Internship](https://jobright.ai/jobs/info/68eeb96ce0db92422580a57c?utm_campaign=1047&utm_source=git)** | Boca Raton, Florida | Hybrid | Nov 02 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Specialist Intern - ETF & Benchmark Solutions (Early Careers)](https://jobright.ai/jobs/info/6908126d63502c0aded8a0a7?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 02 |
-| ↳ | **[Product Specialist Intern - ETF & Benchmark Solutions (Early Careers)](https://jobright.ai/jobs/info/6907ecc5ff462851fe00bd4b?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 02 |
+| ↳ | **[Product Specialist Intern - ETF & Benchmark Solutions (Early Careers)](https://jobright.ai/jobs/info/6907ef2763502c0aded899ff?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product Infrastructure]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6907e4b3ff462851fe00bc37?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 02 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68b1e671bc187f64e1bd799c?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | On Site | Nov 02 |
 | ↳ | **[New Product Development MBA Intern, Joico - Spring 2026](https://jobright.ai/jobs/info/68b23a49f4e41a61efd82d67?utm_campaign=1047&utm_source=git)** | Culver City, CA | Hybrid | Nov 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Apex Fintech Solutions](https://apexfintechsolutions.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68cedd15846f0b04af67d7f9?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Oct 30 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/690366b563502c0aded68942?utm_campaign=1047&utm_source=git)** | Santa Monica, CA | On Site | Oct 30 |
 | ↳ | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/69036996d64a22104aa8f465?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Oct 30 |
-| **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68cd23dee23def7af55b60fd?utm_campaign=1047&utm_source=git)** | Golden Valley, MN | On Site | Oct 30 |
-| ↳ | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68cd941e1ad6b16f0289bab8?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Oct 30 |
-| ↳ | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68cd671fe23def7af55b9799?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
