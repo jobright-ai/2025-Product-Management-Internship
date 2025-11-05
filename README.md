@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68ff9aebe04ac838fb5b9938?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Nov 05 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68f9b1d1cadb2e5a06a66eaf?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Nov 05 |
 | **[Winland Foods](https://winlandfoods.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68cc287f16d00d2beeb1afdf?utm_campaign=1047&utm_source=git)** | Oak Brook, IL | Hybrid | Nov 05 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Product Specialist](https://jobright.ai/jobs/info/690b66914a1b456627b0f499?utm_campaign=1047&utm_source=git)** | Maryland Heights, MO | On Site | Nov 05 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Product Wellness Solutions](https://jobright.ai/jobs/info/68ca44c39f583c3191e3efde?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Nov 05 |
 | **[Crown Fund](Crownfund.co)** | **[Product Development Intern](https://jobright.ai/jobs/info/690b5048d046ab6061ce3ad3?utm_campaign=1047&utm_source=git)** | Boston, MA | Remote | Nov 05 |
 | **[Security Benefit](https://securitybenefit.com)** | **[Internship - Derivatives Product Management](https://jobright.ai/jobs/info/68d2d4378c62e63bc7fda794?utm_campaign=1047&utm_source=git)** | Topeka, KS | Hybrid | Nov 05 |
+| **[AbbVie](https://www.abbvie.com)** | **[2026 Product Development, Science, and Technology Intern](https://jobright.ai/jobs/info/68ef16ce230ae70a14c3fcad?utm_campaign=1047&utm_source=git)** | North Chicago, IL | On Site | Nov 05 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer MBA Intern - Product Management](https://jobright.ai/jobs/info/69098f2dd046ab6061cd68aa?utm_campaign=1047&utm_source=git)** | Warren, MI | Hybrid | Nov 05 |
 | **[Phenomenex](http://www.phenomenex.com)** | **[Product Management & Strategy Intern](https://jobright.ai/jobs/info/68eeff9a20456578d5eb3d9f?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Nov 05 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/68d39e1217554c2d9eef38bd?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Nov 05 |
@@ -70,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Lindsay Corporation](http://lindsay.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68eecf35e0db92422580ba53?utm_campaign=1047&utm_source=git)** | Omaha, NE | On Site | Nov 05 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68ccceeea77e5d7d744f5c50?utm_campaign=1047&utm_source=git)** | Westminster, CO | On Site | Nov 05 |
 | ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68c4e83f7d0db4114272ede8?utm_campaign=1047&utm_source=git)** | Dayton, OH | On Site | Nov 05 |
+| **[Nike](http://www.nike.com)** | **[Nike, Inc. Product Business Integration Graduate Internship](https://jobright.ai/jobs/info/690035d50ab3b222462b2ec3?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Nov 05 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/690ac9e54a1b456627b0b5ff?utm_campaign=1047&utm_source=git)** | Everett, WA | Hybrid | Nov 04 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/690ac8c3d046ab6061ce03d1?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 04 |
 | **[Acuity Insurance](http://www.acuity.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/690ac6174a1b456627b0b3ea?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 04 |
@@ -91,7 +95,7 @@ For a complete list, click the following sortable link below:
 | **[WB Games Boston](https://careers.wbgames.com/studios/boston/)** | **[WB Games Product Management Intern Co-op: Needham, MA - June-December 2026](https://jobright.ai/jobs/info/68ed70bb81fdd1626d39c838?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Nov 04 |
 | ↳ | **[WB Games Product Management Intern Co-op: Needham, MA - January-May 2026](https://jobright.ai/jobs/info/68ed6cbb70b66e2345d3dcc2?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Nov 04 |
 | **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68f3d7739a65fd3458588729?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Nov 04 |
-| ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/68f47f969a63986de7575d8d?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Nov 04 |
+| ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/68ed1df381fdd1626d399178?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Nov 04 |
 | **[Ericsson](https://www.ericsson.com)** | **[Productization  Intern](https://jobright.ai/jobs/info/68edd20481fdd1626d39fc4a?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Nov 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Apps and API) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68fb5fa34129dd33cd131cbb?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 04 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6908c1ead046ab6061ccdc07?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Nov 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - FinTech Product Management Intern, Palo Alto](https://jobright.ai/jobs/info/6905268d63502c0aded78bf5?utm_campaign=1047&utm_source=git)** | Palo Alto | On Site | Oct 31 |
 | **[Experian](http://www.experianplc.com)** | **[Product Management Xcelerator Rotation Program (Entry Level Product) - Remote](https://jobright.ai/jobs/info/6905224263502c0aded787e1?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Oct 31 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Product Owner](https://jobright.ai/jobs/info/69050d55122e8474c78d5786?utm_campaign=1047&utm_source=git)** | Arlington, TX | Hybrid | Oct 31 |
-| **[L.L.Bean](http://www.llbean.com/)** | **[Merchandising Product Development Internship](https://jobright.ai/jobs/info/6904fde3122e8474c78d4e16?utm_campaign=1047&utm_source=git)** | Freeport, ME | On Site | Oct 31 |
-| **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Product Management Intern (Year Round)](https://jobright.ai/jobs/info/6904eab1122e8474c78d4365?utm_campaign=1047&utm_source=git)** | Appleton, Wisconsin, United States | On Site | Oct 31 |
-| **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Shorex Product Analysis](https://jobright.ai/jobs/info/68ccd77677add66568aba15d?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Oct 31 |
-| **[Tanium](http://www.tanium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68e8183cc4895107182c2223?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
