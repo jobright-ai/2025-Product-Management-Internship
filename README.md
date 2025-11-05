@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/690ac8c3d046ab6061ce03d1?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 04 |
+| **[Acuity Insurance](http://www.acuity.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/690ac6174a1b456627b0b3ea?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 04 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/690abaf0bcccf20de59e5530?utm_campaign=1047&utm_source=git)** | Sheboygan, WI | On Site | Nov 04 |
+| **[McGraw Hill](http://www.mheducation.com)** | **[Platform & Product Delivery Intern](https://jobright.ai/jobs/info/690aac33bcccf20de59e4d11?utm_campaign=1047&utm_source=git)** | US-OH-Remote | Remote | Nov 04 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/690aa2b7bcccf20de59e478c?utm_campaign=1047&utm_source=git)** | 6920 Seaway Blvd, Everett, WA, 98203, US | On Site | Nov 04 |
 | **[Rippling](https://www.rippling.com)** | **[Product Lead Internship - Summer 2026](https://jobright.ai/jobs/info/690a98574a1b456627b098ea?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Nov 04 |
 | **[Duolingo for Schools](schools.duolingo.com)** | **[Associate Product Manager, Thrive Intern](https://jobright.ai/jobs/info/690a97fd4a1b456627b098bf?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Nov 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf7b99fb49c96ca6ea8e0c?utm_campaign=1047&utm_source=git)** | Downers Grove, IL | On Site | Oct 31 |
 | ↳ | **[Product Management Summer Intern](https://jobright.ai/jobs/info/68ccf71e77add66568abcd16?utm_campaign=1047&utm_source=git)** | Erie, PA | On Site | Oct 31 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Mobile Product](https://jobright.ai/jobs/info/6905cf4a122e8474c78dc08e?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Oct 31 |
-| ↳ | **[2026 Summer Intern: Video Product](https://jobright.ai/jobs/info/69059025ff462851feffe9c2?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Oct 31 |
-| **[Teamworks](http://www.teamworks.com)** | **[Product Management MBA Intern (Remote)](https://jobright.ai/jobs/info/69046325ff462851feff4fe8?utm_campaign=1047&utm_source=git)** | United States | Remote | Oct 31 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/69044f29d64a22104aa98d67?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Oct 30 |
-| ↳ | **[Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/6904631dff462851feff4fe6?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
