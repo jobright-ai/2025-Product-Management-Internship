@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/690bc0174a1b456627b12623?utm_campaign=1047&utm_source=git)** | US-NY-Syracuse | On Site | Nov 05 |
+| **[Baker Hughes](https://www.bakerhughes.com/)** | **[Product Management - Spring Co-op Internship (Skaneateles, NY) 2026 Opportunities](https://jobright.ai/jobs/info/690bbf574a1b456627b1255a?utm_campaign=1047&utm_source=git)** | Skaneateles, NY | On Site | Nov 05 |
 | **[Mercury Marine](http://mercurymarine.com/)** | **[Parts & Accessories Product Management Intern](https://jobright.ai/jobs/info/690ba00d221b890c277f6550?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI | On Site | Nov 05 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Business Process Analyst, Summer FIS University Program 2026](https://jobright.ai/jobs/info/690b9108221b890c277f5cad?utm_campaign=1047&utm_source=git)** | US FL JAX 347 | On Site | Nov 05 |
 | **[Mercury Marine](http://mercurymarine.com/)** | **[P&A Product Management Intern](https://jobright.ai/jobs/info/690ba4c74a1b456627b11374?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI | On Site | Nov 05 |
@@ -97,7 +99,7 @@ For a complete list, click the following sortable link below:
 | **[WB Games Boston](https://careers.wbgames.com/studios/boston/)** | **[WB Games Product Management Intern Co-op: Needham, MA - June-December 2026](https://jobright.ai/jobs/info/68ed70bb81fdd1626d39c838?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Nov 04 |
 | ↳ | **[WB Games Product Management Intern Co-op: Needham, MA - January-May 2026](https://jobright.ai/jobs/info/68ed6cbb70b66e2345d3dcc2?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Nov 04 |
 | **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68f3d7739a65fd3458588729?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Nov 04 |
-| ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/68ed1df381fdd1626d399178?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Nov 04 |
+| ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/68f47f969a63986de7575d8d?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Nov 04 |
 | **[Ericsson](https://www.ericsson.com)** | **[Productization  Intern](https://jobright.ai/jobs/info/68edd20481fdd1626d39fc4a?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Nov 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Apps and API) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68fb5fa34129dd33cd131cbb?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 04 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6908c1ead046ab6061ccdc07?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Nov 04 |
@@ -141,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[Red Hat](http://www.redhat.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68c78894c96a22563ecf1cd0?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Nov 02 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Personal Lines Product Analyst Intern](https://jobright.ai/jobs/info/68f6071e9a63986de757c1c5?utm_campaign=1047&utm_source=git)** | Des Moines, IA | On Site | Nov 02 |
 | **[Red Hat](http://www.redhat.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68c6492b7d0db41142737cdf?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Nov 02 |
-| **[Selective Insurance](https://www.selective.com/)** | **[Product Internship, Personal Lines - Branchville, NJ (Hybrid)](https://jobright.ai/jobs/info/68e7fe38cc49a84b7e10056c?utm_campaign=1047&utm_source=git)** | Branchville, NJ | Hybrid | Nov 01 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Pricing Analytics & Product Development](https://jobright.ai/jobs/info/68cedbe0dbd9fb154ede3379?utm_campaign=1047&utm_source=git)** | Fort Worth, TX | Hybrid | Nov 01 |
 | **[EXPRESS](http://express.com)** | **[Product Development Summer Internship](https://jobright.ai/jobs/info/68e936560930fe0bc46231cb?utm_campaign=1047&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Nov 01 |
 | **[Voloridge Health](https://www.voloridge.com/health)** | **[Health Product Management Intern 2026](https://jobright.ai/jobs/info/68cdb6d2e23def7af55be7a5?utm_campaign=1047&utm_source=git)** | Jupiter, FL | On Site | Nov 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Product Planning](https://jobright.ai/jobs/info/69056755122e8474c78d8c01?utm_campaign=1047&utm_source=git)** | Kirkland, WA | On Site | Oct 31 |
 | **[Pierce Manufacturing](http://www.piercemfg.com/)** | **[Product Management Intern (Year Round)](https://jobright.ai/jobs/info/690536cd63502c0aded798e1?utm_campaign=1047&utm_source=git)** | Appleton, WI | On Site | Oct 31 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 – Product Strategy Intern (Master's)](https://jobright.ai/jobs/info/69052f4163502c0aded793c8?utm_campaign=1047&utm_source=git)** | Cary, NC | Hybrid | Oct 31 |
-| **[MongoDB](https://www.mongodb.com/)** | **[2026 - FinTech Product Management Intern, Palo Alto](https://jobright.ai/jobs/info/6905268d63502c0aded78bf5?utm_campaign=1047&utm_source=git)** | Palo Alto | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
