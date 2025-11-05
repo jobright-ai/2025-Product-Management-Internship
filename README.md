@@ -78,7 +78,7 @@ For a complete list, click the following sortable link below:
 | **[WB Games Boston](https://careers.wbgames.com/studios/boston/)** | **[WB Games Product Management Intern Co-op: Needham, MA - June-December 2026](https://jobright.ai/jobs/info/68ed70bb81fdd1626d39c838?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Nov 04 |
 | ↳ | **[WB Games Product Management Intern Co-op: Needham, MA - January-May 2026](https://jobright.ai/jobs/info/68ed6cbb70b66e2345d3dcc2?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Nov 04 |
 | **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68f3d7739a65fd3458588729?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Nov 04 |
-| ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/68f47f969a63986de7575d8d?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Nov 04 |
+| ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/68ed1df381fdd1626d399178?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Nov 04 |
 | **[Ericsson](https://www.ericsson.com)** | **[Productization  Intern](https://jobright.ai/jobs/info/68edd20481fdd1626d39fc4a?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Nov 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Apps and API) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68fb5fa34129dd33cd131cbb?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 04 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6908c1ead046ab6061ccdc07?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Nov 04 |
