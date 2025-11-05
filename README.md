@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rippling](https://www.rippling.com)** | **[Product Lead Internship - Summer 2026](https://jobright.ai/jobs/info/690a8cfa4a1b456627b0922c?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 04 |
 | **[Duolingo](https://www.duolingo.com)** | **[Associate Product Manager, Thrive Intern](https://jobright.ai/jobs/info/690a69d4d046ab6061cdc234?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Nov 04 |
 | ↳ | **[Associate Product Manager, Thrive Intern](https://jobright.ai/jobs/info/690a54f7d046ab6061cdb3ff?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Nov 04 |
 | **[Lumafield](https://www.lumafield.com)** | **[Product Intern, Software](https://jobright.ai/jobs/info/690a536e4a1b456627b06410?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Nov 04 |
@@ -103,7 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Product Specialist](https://jobright.ai/jobs/info/690854ed122e8474c78e9d5a?utm_campaign=1047&utm_source=git)** | Maryland Heights, MO | On Site | Nov 02 |
 | **[ModMed](https://www.modmed.com)** | **[Product Development Summer 2026 Internship](https://jobright.ai/jobs/info/68eeb96ce0db92422580a57c?utm_campaign=1047&utm_source=git)** | Boca Raton, Florida | Hybrid | Nov 02 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Specialist Intern - ETF & Benchmark Solutions (Early Careers)](https://jobright.ai/jobs/info/6908126d63502c0aded8a0a7?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 02 |
-| ↳ | **[Product Specialist Intern - ETF & Benchmark Solutions (Early Careers)](https://jobright.ai/jobs/info/6907ecc5ff462851fe00bd4b?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 02 |
+| ↳ | **[Product Specialist Intern - ETF & Benchmark Solutions (Early Careers)](https://jobright.ai/jobs/info/6907ef2763502c0aded899ff?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product Infrastructure]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6907e4b3ff462851fe00bc37?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 02 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68b1e671bc187f64e1bd799c?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | On Site | Nov 02 |
 | ↳ | **[New Product Development MBA Intern, Joico - Spring 2026](https://jobright.ai/jobs/info/68b23a49f4e41a61efd82d67?utm_campaign=1047&utm_source=git)** | Culver City, CA | Hybrid | Nov 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/69044f29d64a22104aa98d67?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Oct 30 |
 | ↳ | **[Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/6904631dff462851feff4fe6?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Oct 30 |
 | **[Arcesium](http://www.arcesium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/690429b163502c0aded711e1?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Oct 30 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/6904238f63502c0aded70ab1?utm_campaign=1047&utm_source=git)** | California - San Francisco | Hybrid | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
