@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Winland Foods](https://winlandfoods.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68cc287f16d00d2beeb1afdf?utm_campaign=1047&utm_source=git)** | Oak Brook, IL | Hybrid | Nov 05 |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Product Specialist](https://jobright.ai/jobs/info/690b66914a1b456627b0f499?utm_campaign=1047&utm_source=git)** | Maryland Heights, MO | On Site | Nov 05 |
+| **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Product Wellness Solutions](https://jobright.ai/jobs/info/68ca44c39f583c3191e3efde?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Nov 05 |
 | **[Crown Fund](Crownfund.co)** | **[Product Development Intern](https://jobright.ai/jobs/info/690b5048d046ab6061ce3ad3?utm_campaign=1047&utm_source=git)** | Boston, MA | Remote | Nov 05 |
 | **[Security Benefit](https://securitybenefit.com)** | **[Internship - Derivatives Product Management](https://jobright.ai/jobs/info/68d2d4378c62e63bc7fda794?utm_campaign=1047&utm_source=git)** | Topeka, KS | Hybrid | Nov 05 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer MBA Intern - Product Management](https://jobright.ai/jobs/info/69098f2dd046ab6061cd68aa?utm_campaign=1047&utm_source=git)** | Warren, MI | Hybrid | Nov 05 |
@@ -64,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/68d39e1217554c2d9eef38bd?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Nov 05 |
 | **[Lennox](http://www.lennox.com)** | **[Category Analyst Intern](https://jobright.ai/jobs/info/68d34dc4f0d9af73038e0eac?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Nov 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Project Intern (Brand Effectiveness - Monetization Product) 2025 Start (BS/ MS)](https://jobright.ai/jobs/info/68d3528217554c2d9eeefd34?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 05 |
+| **[Lindsay Corporation](http://lindsay.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68eecf35e0db92422580ba53?utm_campaign=1047&utm_source=git)** | Omaha, NE | On Site | Nov 05 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68ccceeea77e5d7d744f5c50?utm_campaign=1047&utm_source=git)** | Westminster, CO | On Site | Nov 05 |
 | ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68c4e83f7d0db4114272ede8?utm_campaign=1047&utm_source=git)** | Dayton, OH | On Site | Nov 05 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/690ac9e54a1b456627b0b5ff?utm_campaign=1047&utm_source=git)** | Everett, WA | Hybrid | Nov 04 |
@@ -98,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Munich Re](https://www.munichre.com)** | **[Product Management Intern, NA Integrated Analytics (2026 Summer - New York)](https://jobright.ai/jobs/info/6909d30ad046ab6061cd80dc?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Nov 04 |
 | **[Laveer Engineering](https://laveer.ca/)** | **[Parts Product Management Intern Summer 2026](https://jobright.ai/jobs/info/6909cf534a1b456627b0324a?utm_campaign=1047&utm_source=git)** | Cranberry Township, PA | Hybrid | Nov 04 |
 | **[PennEngineering®](http://www.pemnet.com/)** | **[New Product Development Intern - Summer 2026](https://jobright.ai/jobs/info/6909c1de4a1b456627b02de5?utm_campaign=1047&utm_source=git)** | Danboro, PA | On Site | Nov 04 |
-| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Product Specialist](https://jobright.ai/jobs/info/690a27a3d046ab6061cd99a5?utm_campaign=1047&utm_source=git)** | Maryland Heights, Missouri | On Site | Nov 04 |
 | **[Awardco](https://www.award.co)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69099b14d046ab6061cd6faa?utm_campaign=1047&utm_source=git)** | Lindon, UT | On Site | Nov 03 |
 | **[Oracle](https://www.oracle.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/690982a94a1b456627b01331?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 03 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Product Engineer, Registration Operations (Winter/Spring 2026)](https://jobright.ai/jobs/info/69097ccdd046ab6061cd5e8f?utm_campaign=1047&utm_source=git)** | Fremont, CA | On Site | Nov 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Product Management Intern (Year Round)](https://jobright.ai/jobs/info/6904eab1122e8474c78d4365?utm_campaign=1047&utm_source=git)** | Appleton, Wisconsin, United States | On Site | Oct 31 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Shorex Product Analysis](https://jobright.ai/jobs/info/68ccd77677add66568aba15d?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Oct 31 |
 | **[Tanium](http://www.tanium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68e8183cc4895107182c2223?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Oct 31 |
-| **[Lever Middleware Test Company](http://www.lever.co)** | **[Product Operations - Intern](https://jobright.ai/jobs/info/6904bf69122e8474c78d2ed8?utm_campaign=1047&utm_source=git)** | Beverly Hills, California | On Site | Oct 31 |
-| **[Genentech](http://gene.com)** | **[2026 Summer Intern - Global Product Strategy](https://jobright.ai/jobs/info/68e876c1cc49a84b7e106651?utm_campaign=1047&utm_source=git)** | South San Francisco, CA | On Site | Oct 31 |
-| **[Schwan's Company](http://www.schwanscompany.com/)** | **[Product Development Intern - Summer 2026 - La Palma, CA](https://jobright.ai/jobs/info/68cc36297342c7623ae60f70?utm_campaign=1047&utm_source=git)** | La Palma, CA | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
