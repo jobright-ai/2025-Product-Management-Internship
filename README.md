@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/68d39e1217554c2d9eef38bd?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Nov 05 |
+| **[Lennox](http://www.lennox.com)** | **[Category Analyst Intern](https://jobright.ai/jobs/info/68d34dc4f0d9af73038e0eac?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Nov 05 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Project Intern (Brand Effectiveness - Monetization Product) 2025 Start (BS/ MS)](https://jobright.ai/jobs/info/68d3528217554c2d9eeefd34?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 05 |
+| **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68ccceeea77e5d7d744f5c50?utm_campaign=1047&utm_source=git)** | Westminster, CO | On Site | Nov 05 |
+| ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68c4e83f7d0db4114272ede8?utm_campaign=1047&utm_source=git)** | Dayton, OH | On Site | Nov 05 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/690ac9e54a1b456627b0b5ff?utm_campaign=1047&utm_source=git)** | Everett, WA | Hybrid | Nov 04 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/690ac8c3d046ab6061ce03d1?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 04 |
 | **[Acuity Insurance](http://www.acuity.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/690ac6174a1b456627b0b3ea?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Product Development Intern or Co-op](https://jobright.ai/jobs/info/68cc63db16d00d2beeb1ecdf?utm_campaign=1047&utm_source=git)** | Stevens Point, WI | On Site | Oct 31 |
 | **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[2026 Technology Product & Strategy Summer Intern](https://jobright.ai/jobs/info/68e84458cc49a84b7e1048a9?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Oct 31 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Product Management Intern, Summer 2026](https://jobright.ai/jobs/info/6904a75aff462851feff6c6a?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Oct 31 |
-| **[Kendra Scott](http://www.kendrascott.com)** | **[Product Developement Intern](https://jobright.ai/jobs/info/6904be0b122e8474c78d2e63?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Oct 31 |
-| **[Lila Sciences](https://www.lila.ai)** | **[Product Strategy Intern, Life Sciences](https://jobright.ai/jobs/info/68e80d2a09580a2fe57f2c8a?utm_campaign=1047&utm_source=git)** | Cambridge, MA | Hybrid | Oct 31 |
-| ↳ | **[Product Strategy Intern, Physical Sciences](https://jobright.ai/jobs/info/68e7ff5dc4895107182c08b0?utm_campaign=1047&utm_source=git)** | Cambridge, MA | Hybrid | Oct 31 |
-| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf7b99fb49c96ca6ea8e0c?utm_campaign=1047&utm_source=git)** | Downers Grove, IL | On Site | Oct 31 |
-| ↳ | **[Product Management Summer Intern](https://jobright.ai/jobs/info/68ccf71e77add66568abcd16?utm_campaign=1047&utm_source=git)** | Erie, PA | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
