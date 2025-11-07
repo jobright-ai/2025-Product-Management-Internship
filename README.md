@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Product Operations Intern](https://jobright.ai/jobs/info/690d49204a1b456627b202c4?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 06 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/690d3a92221b890c27804f9b?utm_campaign=1047&utm_source=git)** | US - CO, Westminster | On Site | Nov 06 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charels Schwab Digital Product Internship](https://jobright.ai/jobs/info/690d14424a1b456627b1d6a6?utm_campaign=1047&utm_source=git)** | Omaha, NE | On Site | Nov 06 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Agency Operations Support Intern - Summer 2026](https://jobright.ai/jobs/info/690d0e53221b890c278027e3?utm_campaign=1047&utm_source=git)** | West Des Moines, IA | On Site | Nov 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Product Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/690925ef4a1b456627afd3d9?utm_campaign=1047&utm_source=git)** | Neenah, WI | Hybrid | Nov 03 |
 | **[Levi Strauss & Co.](http://levistrauss.com/)** | **[F.I.T. Intern Product Management](https://jobright.ai/jobs/info/69090c424a1b456627afbbd9?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Nov 03 |
 | **[Riot Games](http://www.riotgames.com)** | **[Insights Analyst Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/690902ccbcccf20de59d5e08?utm_campaign=1047&utm_source=git)** | Los Angeles, USA | Remote | Nov 03 |
+| **[Levi Strauss & Co.](http://levistrauss.com/)** | **[F.I.T. Intern Product Management](https://jobright.ai/jobs/info/6908c0d8d046ab6061ccdbe0?utm_campaign=1047&utm_source=git)** | HQ-Office, San Francisco, CA, USA | On Site | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
