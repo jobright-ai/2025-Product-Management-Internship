@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tyler Technologies](https://www.tylertech.com/)** | **[Product Analyst Intern, Summer 2026](https://jobright.ai/jobs/info/68cda69db2a74e1837eda47a?utm_campaign=1047&utm_source=git)** | Plano, TX | On Site | Nov 06 |
+| **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/690d712d4a1b456627b215e5?utm_campaign=1047&utm_source=git)** | Westminster, CO | On Site | Nov 06 |
+| **[First Solar](http://www.firstsolar.com)** | **[Product & Technology Intern (Spring 2026)](https://jobright.ai/jobs/info/68f7f0535dc1be601281ea73?utm_campaign=1047&utm_source=git)** | Perrysburg, OH | On Site | Nov 06 |
+| **[McCain Foods](http://www.mccain.com)** | **[Research and Development Product Development Internship](https://jobright.ai/jobs/info/690d7970221b890c278070d0?utm_campaign=1047&utm_source=git)** | Appleton, WI | On Site | Nov 06 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/690d3a92221b890c27804f9b?utm_campaign=1047&utm_source=git)** | US - CO, Westminster | On Site | Nov 06 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charels Schwab Digital Product Internship](https://jobright.ai/jobs/info/690d14424a1b456627b1d6a6?utm_campaign=1047&utm_source=git)** | Omaha, NE | On Site | Nov 06 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Agency Operations Support Intern - Summer 2026](https://jobright.ai/jobs/info/690d0e53221b890c278027e3?utm_campaign=1047&utm_source=git)** | West Des Moines, IA | On Site | Nov 06 |
@@ -136,7 +140,7 @@ For a complete list, click the following sortable link below:
 | **[WB Games Boston](https://careers.wbgames.com/studios/boston/)** | **[WB Games Product Management Intern Co-op: Needham, MA - June-December 2026](https://jobright.ai/jobs/info/68ed70bb81fdd1626d39c838?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Nov 04 |
 | ↳ | **[WB Games Product Management Intern Co-op: Needham, MA - January-May 2026](https://jobright.ai/jobs/info/68ed6cbb70b66e2345d3dcc2?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Nov 04 |
 | **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68f3d7739a65fd3458588729?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Nov 04 |
-| ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/68f47f969a63986de7575d8d?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Nov 04 |
+| ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/68ed1df381fdd1626d399178?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Nov 04 |
 | **[Ericsson](https://www.ericsson.com)** | **[Productization  Intern](https://jobright.ai/jobs/info/68edd20481fdd1626d39fc4a?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Nov 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Apps and API) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68fb5fa34129dd33cd131cbb?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 04 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6908c1ead046ab6061ccdc07?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Nov 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TE Connectivity](http://www.te.com)** | **[Product Pricing Analyst- Intern](https://jobright.ai/jobs/info/690943204a1b456627afead1?utm_campaign=1047&utm_source=git)** | Montgomery County, PA | Remote | Nov 03 |
 | **[BoldVoice](https://boldvoice.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69096114bcccf20de59da8d6?utm_campaign=1047&utm_source=git)** | New York, NY, USA | Hybrid | Nov 03 |
 | **[Riot Games](http://www.riotgames.com)** | **[Insights Analyst Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69092852d046ab6061cd2427?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Remote | Nov 03 |
-| **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Product Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/690925ef4a1b456627afd3d9?utm_campaign=1047&utm_source=git)** | Neenah, WI | Hybrid | Nov 03 |
-| **[Levi Strauss & Co.](http://levistrauss.com/)** | **[F.I.T. Intern Product Management](https://jobright.ai/jobs/info/69090c424a1b456627afbbd9?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Nov 03 |
-| **[Riot Games](http://www.riotgames.com)** | **[Insights Analyst Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/690902ccbcccf20de59d5e08?utm_campaign=1047&utm_source=git)** | Los Angeles, USA | Remote | Nov 03 |
-| **[Levi Strauss & Co.](http://levistrauss.com/)** | **[F.I.T. Intern Product Management](https://jobright.ai/jobs/info/6908c0d8d046ab6061ccdbe0?utm_campaign=1047&utm_source=git)** | HQ-Office, San Francisco, CA, USA | On Site | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
