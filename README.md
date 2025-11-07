@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern-Program/Product Development](https://jobright.ai/jobs/info/690e2cd8221b890c2780b76c?utm_campaign=1047&utm_source=git)** | Tower 500 500 Renaissance Ctr, Detroit, MI, 48243, US | On Site | Nov 07 |
+| **[Ingredion Incorporated](http://ingredion.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68faf6c09e8e925ac6c87ec2?utm_campaign=1047&utm_source=git)** | Westchester, IL | Hybrid | Nov 07 |
+| **[Uline](http://www.uline.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f12f3fe6870116b1f545f3?utm_campaign=1047&utm_source=git)** | Kenosha, WI | On Site | Nov 07 |
+| ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f12a8aef766b3f0fd093ec?utm_campaign=1047&utm_source=git)** | Waukegan, IL | On Site | Nov 07 |
+| **[Federal Home Loan Bank of Dallas](https://www.fhlb.com/)** | **[Product Operations and Member Services Intern-1](https://jobright.ai/jobs/info/690e2bced046ab6061cfaf4f?utm_campaign=1047&utm_source=git)** | Irving, TX | On Site | Nov 07 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Product Management Intern (Summer 2026) - St. Louis, MO](https://jobright.ai/jobs/info/68ccfe405954791a1d70271b?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Nov 07 |
 | **[Allen Flavors, Inc.](http://allenflavors.com)** | **[PRODUCT DEVELOPMENT INTERN](https://jobright.ai/jobs/info/690dfa25d046ab6061cfa02a?utm_campaign=1047&utm_source=git)** | South Plainfield, NJ, USA | On Site | Nov 07 |
 | **[Quantum Pulse Consulting](https://qpulse.tech/case-studies/)** | **[General Intern](https://jobright.ai/jobs/info/690df95dd046ab6061cf9ff7?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 07 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WB Games Boston](https://careers.wbgames.com/studios/boston/)** | **[WB Games Product Management Intern Co-op: Needham, MA - June-December 2026](https://jobright.ai/jobs/info/68ed70bb81fdd1626d39c838?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Nov 04 |
 | ↳ | **[WB Games Product Management Intern Co-op: Needham, MA - January-May 2026](https://jobright.ai/jobs/info/68ed6cbb70b66e2345d3dcc2?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Nov 04 |
 | **[Oracle](https://www.oracle.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/690e0fbc44146d3b6ec51027?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 04 |
-| **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68f3d7739a65fd3458588729?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Nov 04 |
-| ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/68ed1df381fdd1626d399178?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Nov 04 |
-| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69047d1fff462851feff5b0f?utm_campaign=1047&utm_source=git)** | Paso Robles, CA | On Site | Nov 04 |
-| **[Ericsson](https://www.ericsson.com)** | **[Productization  Intern](https://jobright.ai/jobs/info/68edd20481fdd1626d39fc4a?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Nov 04 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Apps and API) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68fb5fa34129dd33cd131cbb?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
