@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SPX Technologies](https://www.spx.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/68ccd8d75954791a1d6ffa47?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Nov 09 |
+| **[Bobcat Company](https://www.bobcat.com)** | **[Ecommerce Development Intern](https://jobright.ai/jobs/info/68bb8d655f38327491870378?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Nov 09 |
+| **[Atlassian](https://www.atlassian.com)** | **[Associate Product Management Intern, Summer 2026 U.S.](https://jobright.ai/jobs/info/68f73935aed0577b7e04d062?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Nov 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Product Strategist)](https://jobright.ai/jobs/info/68bb7b8d8043103d4f228f70?utm_campaign=1047&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
 | ↳ | **[Summer Associate Internship (Credit Card Experiences Product Manager)](https://jobright.ai/jobs/info/68d2f29a8c62e63bc7fdbe10?utm_campaign=1047&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
 | ↳ | **[Summer Associate Internship (Product Strategist)](https://jobright.ai/jobs/info/68cc5b4b128dc347fd9233af?utm_campaign=1047&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68f9b1d1cadb2e5a06a66eaf?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Nov 05 |
 | **[Winland Foods](https://winlandfoods.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68cc287f16d00d2beeb1afdf?utm_campaign=1047&utm_source=git)** | Oak Brook, IL | Hybrid | Nov 05 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Product Development, Science, and Technology Intern](https://jobright.ai/jobs/info/68ef16ce230ae70a14c3fcad?utm_campaign=1047&utm_source=git)** | North Chicago, IL | On Site | Nov 05 |
-| **[General Motors](https://www.gm.com)** | **[2026 Summer MBA Intern - Product Management](https://jobright.ai/jobs/info/69098f2dd046ab6061cd68aa?utm_campaign=1047&utm_source=git)** | Warren, MI | Hybrid | Nov 05 |
-| **[Phenomenex](http://www.phenomenex.com)** | **[Product Management & Strategy Intern](https://jobright.ai/jobs/info/68eeff9a20456578d5eb3d9f?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Nov 05 |
-| **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/68d39e1217554c2d9eef38bd?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
