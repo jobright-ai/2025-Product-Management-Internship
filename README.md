@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern](https://jobright.ai/jobs/info/69057f64122e8474c78d96e6?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Nov 09 |
 | **[CNA Insurance](http://www.cna.com)** | **[Technology Internship Program (Agile Product Design)](https://jobright.ai/jobs/info/68bb72945f3832749186f3a0?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Nov 09 |
 | **[SPX Technologies](https://www.spx.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/68ccd8d75954791a1d6ffa47?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Nov 09 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[Ecommerce Development Intern](https://jobright.ai/jobs/info/68bb8d655f38327491870378?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Nov 09 |
@@ -90,8 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern-Program/Product Development](https://jobright.ai/jobs/info/690e2cd8221b890c2780b76c?utm_campaign=1047&utm_source=git)** | Tower 500 500 Renaissance Ctr, Detroit, MI, 48243, US | On Site | Nov 07 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68faf6c09e8e925ac6c87ec2?utm_campaign=1047&utm_source=git)** | Westchester, IL | Hybrid | Nov 07 |
 | **[Uline](http://www.uline.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f1374ce6870116b1f54dde?utm_campaign=1047&utm_source=git)** | Glenview, IL | On Site | Nov 07 |
-| **[The Dev Difference](https://www.thedevdifference.com/)** | **[Product Research & Design Intern](https://jobright.ai/jobs/info/690e1644d046ab6061cfa700?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 07 |
-| **[Uline](http://www.uline.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f12a54ef766b3f0fd093bf?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Nov 07 |
+| ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f12a54ef766b3f0fd093bf?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Nov 07 |
 | ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f12f3fe6870116b1f545f3?utm_campaign=1047&utm_source=git)** | Kenosha, WI | On Site | Nov 07 |
 | ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f12a8aef766b3f0fd093ec?utm_campaign=1047&utm_source=git)** | Waukegan, IL | On Site | Nov 07 |
 | **[Federal Home Loan Bank of Dallas](https://www.fhlb.com/)** | **[Product Operations and Member Services Intern-1](https://jobright.ai/jobs/info/690e2bced046ab6061cfaf4f?utm_campaign=1047&utm_source=git)** | Irving, TX | On Site | Nov 07 |
