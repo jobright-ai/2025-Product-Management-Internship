@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Leaf](https://www.getleaf.info/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69100e00988c2b7b4ec4fe46?utm_campaign=1047&utm_source=git)** | Frisco, TX | On Site | Nov 08 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Product Strategist)](https://jobright.ai/jobs/info/68bb7b8d8043103d4f228f70?utm_campaign=1047&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
 | ↳ | **[Summer Associate Internship (Credit Card Experiences Product Manager)](https://jobright.ai/jobs/info/68d2f29a8c62e63bc7fdbe10?utm_campaign=1047&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
 | ↳ | **[Summer Associate Internship (Product Strategist)](https://jobright.ai/jobs/info/68cc5b4b128dc347fd9233af?utm_campaign=1047&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
@@ -88,7 +87,8 @@ For a complete list, click the following sortable link below:
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68faf6c09e8e925ac6c87ec2?utm_campaign=1047&utm_source=git)** | Westchester, IL | Hybrid | Nov 07 |
 | **[Federal Home Loan Bank of Dallas](https://www.fhlb.com/)** | **[Product Operations and Member Services Intern-1](https://jobright.ai/jobs/info/690e3d12d046ab6061cfb8df?utm_campaign=1047&utm_source=git)** | Irving, TX | On Site | Nov 07 |
 | **[Uline](http://www.uline.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f1374ce6870116b1f54dde?utm_campaign=1047&utm_source=git)** | Glenview, IL | On Site | Nov 07 |
-| ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f12a54ef766b3f0fd093bf?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Nov 07 |
+| **[The Dev Difference](https://www.thedevdifference.com/)** | **[Product Research & Design Intern](https://jobright.ai/jobs/info/690e1644d046ab6061cfa700?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 07 |
+| **[Uline](http://www.uline.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f12a54ef766b3f0fd093bf?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Nov 07 |
 | ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f12f3fe6870116b1f545f3?utm_campaign=1047&utm_source=git)** | Kenosha, WI | On Site | Nov 07 |
 | ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f12a8aef766b3f0fd093ec?utm_campaign=1047&utm_source=git)** | Waukegan, IL | On Site | Nov 07 |
 | ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f12d3ef462172a5a7d3bf6?utm_campaign=1047&utm_source=git)** | Pleasant Prairie, WI | On Site | Nov 07 |
@@ -127,6 +127,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (MBA)](https://jobright.ai/jobs/info/68d4a6178c62e63bc7feb37f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 06 |
 | **[Wipfli](http://www.wipfli.com)** | **[Product Implementation Internship-Summer 2026](https://jobright.ai/jobs/info/68c88e0095f5211cd2ce66fb?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 06 |
 | **[Red Hat](http://www.redhat.com)** | **[Product Training Analyst Intern](https://jobright.ai/jobs/info/68f01e809821486c423c8e3d?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Nov 06 |
+| **[Legrand, North America](http://www.legrand.us)** | **[Product Management Intern](https://jobright.ai/jobs/info/691040f7bb519377733eb246?utm_campaign=1047&utm_source=git)** | Syracuse, NY | On Site | Nov 05 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Product Management MBA Internship](https://jobright.ai/jobs/info/690c44144a1b456627b1738d?utm_campaign=1047&utm_source=git)** | Round Rock, Texas, United States | On Site | Nov 05 |
 | **[CBRE Investment Management](https://www.cbreim.com)** | **[2026 CBRE Investment Management - Tech Product Intern - Talent Community](https://jobright.ai/jobs/info/690c37e6d046ab6061cebed2?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 05 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern Program – Product Design and Strategy Research Intern](https://jobright.ai/jobs/info/690d8e0a221b890c278079ac?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Nov 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[General Motors](https://www.gm.com)** | **[2026 Summer MBA Intern - Product Management](https://jobright.ai/jobs/info/69098f2dd046ab6061cd68aa?utm_campaign=1047&utm_source=git)** | Warren, MI | Hybrid | Nov 05 |
 | **[Phenomenex](http://www.phenomenex.com)** | **[Product Management & Strategy Intern](https://jobright.ai/jobs/info/68eeff9a20456578d5eb3d9f?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Nov 05 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/68d39e1217554c2d9eef38bd?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Nov 05 |
-| **[Lennox](http://www.lennox.com)** | **[Category Analyst Intern](https://jobright.ai/jobs/info/68d34dc4f0d9af73038e0eac?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
