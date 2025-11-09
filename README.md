@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Product Manager)](https://jobright.ai/jobs/info/68cd1a57e23def7af55b55ab?utm_campaign=1047&utm_source=git)** | Vienna, VA | Hybrid | Nov 09 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern](https://jobright.ai/jobs/info/69057f64122e8474c78d96e6?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Nov 09 |
 | **[CNA Insurance](http://www.cna.com)** | **[Technology Internship Program (Agile Product Design)](https://jobright.ai/jobs/info/68bb72945f3832749186f3a0?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Nov 09 |
 | **[SPX Technologies](https://www.spx.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/68ccd8d75954791a1d6ffa47?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Nov 09 |
@@ -115,7 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charels Schwab Digital Product Internship](https://jobright.ai/jobs/info/690d2007221b890c27803932?utm_campaign=1047&utm_source=git)** | Westlake, TX | On Site | Nov 06 |
 | ↳ | **[2026 Charels Schwab Digital Product Internship](https://jobright.ai/jobs/info/690d23a2d046ab6061cf351f?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Nov 06 |
 | **[Ariat International](http://www.ariat.com)** | **[Footwear Product Development Intern](https://jobright.ai/jobs/info/68e6e3e5e8daec61499b01cf?utm_campaign=1047&utm_source=git)** | San Leandro, CA | On Site | Nov 06 |
-| **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 Ecommerce Product Owner Intern](https://jobright.ai/jobs/info/690ce0fe221b890c278009b5?utm_campaign=1047&utm_source=git)** | Knoxville, TN | On Site | Nov 06 |
+| **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 Ecommerce Product Owner Intern](https://jobright.ai/jobs/info/690ce87c4a1b456627b1b6dd?utm_campaign=1047&utm_source=git)** | Knoxville, TN | On Site | Nov 06 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Product Specialist](https://jobright.ai/jobs/info/690cbbc1d046ab6061cef630?utm_campaign=1047&utm_source=git)** | Maryland Heights, MO | On Site | Nov 06 |
 | **[Amazon](https://amazon.com)** | **[2026 Amazon Leadership Accelerator (ALA) Product Manager Internship](https://jobright.ai/jobs/info/68f061cb2e327452a0a4c9fc?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 06 |
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Georgia-Pacific Business Analyst/Product Owner Internship - Summer 2026](https://jobright.ai/jobs/info/68b79da42124650c14024746?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Nov 06 |
@@ -136,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[CBRE Investment Management](https://www.cbreim.com)** | **[2026 CBRE Investment Management - Tech Product Intern - Talent Community](https://jobright.ai/jobs/info/690c37e6d046ab6061cebed2?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 05 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern Program – Product Design and Strategy Research Intern](https://jobright.ai/jobs/info/690d8e0a221b890c278079ac?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Nov 05 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Digital Technology (DT) - Inbound Product Manager Intern](https://jobright.ai/jobs/info/690c30394a1b456627b16d2b?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | Hybrid | Nov 05 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Product Manager Intern (Class of 2027)](https://jobright.ai/jobs/info/690d8d1b221b890c27807955?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Nov 05 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Manager MBA Intern, Enterprise AI - Summer 2026](https://jobright.ai/jobs/info/690c1314d046ab6061ceab75?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Nov 05 |
 | **[Epsilon](https://www.epsilon.com/us)** | **[Intern Program – Product Design and Strategy Research Intern](https://jobright.ai/jobs/info/690c12fc4a1b456627b15db0?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Nov 05 |
 | **[Experian](http://www.experianplc.com)** | **[Product Management Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/690c035c4a1b456627b15292?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Nov 05 |
