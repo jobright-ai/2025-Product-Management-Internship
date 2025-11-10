@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Root Inc.](https://www.root.com)** | **[Product Management Intern - Policyholder Experience](https://jobright.ai/jobs/info/691219f3ea9ab01b82bef839?utm_campaign=1047&utm_source=git)** | Remote (United States) | Remote | Nov 10 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Grid Automation Product Management Intern - Spring-Summer 2026](https://jobright.ai/jobs/info/689f34a779a9f96662554e28?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Nov 10 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Management Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/68e6cdb6ae2b894b1d71ddad?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Nov 10 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69100b7fbb519377733ea657?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Nov 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mercury Marine](http://mercurymarine.com/)** | **[P&A Product Management Intern](https://jobright.ai/jobs/info/690ba4c74a1b456627b11374?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI | On Site | Nov 05 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68ff9aebe04ac838fb5b9938?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Nov 05 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68f9b1d1cadb2e5a06a66eaf?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Nov 05 |
-| **[Winland Foods](https://winlandfoods.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68cc287f16d00d2beeb1afdf?utm_campaign=1047&utm_source=git)** | Oak Brook, IL | Hybrid | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
