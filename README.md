@@ -59,6 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Intern [Global Monetization Product and Technology]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68db68d39f13662d20e4b0b9?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 11 |
 | ↳ | **[Global Product Strategist Intern-(MSO) 2026 Summer (MBA)](https://jobright.ai/jobs/info/68fab001b2c86843bf211022?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Nov 11 |
+| **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Product Development, Intern](https://jobright.ai/jobs/info/68f69c749a65fd3458595206?utm_campaign=1047&utm_source=git)** | Hunt Valley, MD | On Site | Nov 11 |
+| **[Levi Strauss & Co.](http://levistrauss.com/)** | **[F.I.T. Intern, Product Development](https://jobright.ai/jobs/info/68f639c69a65fd3458591aec?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Nov 11 |
 | **[Tencent](https://www.tencent.com/)** | **[[Tencent Cloud 2026 Internship Program] Product Intern, Real-Time Interaction PaaS (Shenzhen)](https://jobright.ai/jobs/info/6912dfb3c98948514c47f0c4?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Nov 10 |
 | **[griddable.io](https://griddable.io)** | **[Summer 2026 Intern - Product Security Operations Specialist](https://jobright.ai/jobs/info/6912bb18ea9ab01b82bf4916?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Nov 10 |
 | **[Adobe](http://www.adobe.com)** | **[2026 SAMI Intern - Product Manager, Community Engagement](https://jobright.ai/jobs/info/6912da16c98948514c47ed07?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 10 |
@@ -67,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Product Management Internship](https://jobright.ai/jobs/info/6912e159c98948514c47f1dc?utm_campaign=1047&utm_source=git)** | California, United States | Hybrid | Nov 10 |
 | **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Personal Lines Product Intern CA Team](https://jobright.ai/jobs/info/6912c0d3c98948514c47dd20?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Nov 10 |
 | ↳ | **[Personal Lines Product Intern National](https://jobright.ai/jobs/info/6912c2efea9ab01b82bf4ca3?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Nov 10 |
+| ↳ | **[Personal Lines Product Intern CA Team](https://jobright.ai/jobs/info/6913325ee344172248f6feea?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 10 |
 | ↳ | **[Personal Lines Product Intern National](https://jobright.ai/jobs/info/6912bbfdea9ab01b82bf4981?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 10 |
 | **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Product Management / Data Analysis](https://jobright.ai/jobs/info/6912bcd6ea9ab01b82bf49e6?utm_campaign=1047&utm_source=git)** | Charlotte, AR | On Site | Nov 10 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Product Security Operations Specialist](https://jobright.ai/jobs/info/69128c14c98948514c47c7b1?utm_campaign=1047&utm_source=git)** | California - San Francisco | Hybrid | Nov 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f12a54ef766b3f0fd093bf?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Nov 07 |
 | ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f12f3fe6870116b1f545f3?utm_campaign=1047&utm_source=git)** | Kenosha, WI | On Site | Nov 07 |
 | ↳ | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f12a8aef766b3f0fd093ec?utm_campaign=1047&utm_source=git)** | Waukegan, IL | On Site | Nov 07 |
-| **[Federal Home Loan Bank of Dallas](https://www.fhlb.com/)** | **[Product Operations and Member Services Intern-1](https://jobright.ai/jobs/info/690e2bced046ab6061cfaf4f?utm_campaign=1047&utm_source=git)** | Irving, TX | On Site | Nov 07 |
-| **[Uline](http://www.uline.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f12d3ef462172a5a7d3bf6?utm_campaign=1047&utm_source=git)** | Pleasant Prairie, WI | On Site | Nov 07 |
-| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Product Management Intern (Summer 2026) - St. Louis, MO](https://jobright.ai/jobs/info/68ccfe405954791a1d70271b?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
