@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tencent](https://www.tencent.com/)** | **[[Tencent Cloud 2026 Internship Program] Product Intern, Real-Time Interaction PaaS (Shenzhen)](https://jobright.ai/jobs/info/6912dfb3c98948514c47f0c4?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Nov 10 |
 | **[griddable.io](https://griddable.io)** | **[Summer 2026 Intern - Product Security Operations Specialist](https://jobright.ai/jobs/info/6912bb18ea9ab01b82bf4916?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Nov 10 |
+| **[Adobe](http://www.adobe.com)** | **[2026 SAMI Intern - Product Manager, Community Engagement](https://jobright.ai/jobs/info/6912da16c98948514c47ed07?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 10 |
+| ↳ | **[2026 SAMI Intern - Product Manager, AI Experience](https://jobright.ai/jobs/info/6912df28d1047e3565cffd35?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 10 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Media Tech – Enterprise Product Internships – Summer 2026](https://jobright.ai/jobs/info/6912c43dc98948514c47de9a?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
+| **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Product Management Internship](https://jobright.ai/jobs/info/6912e159c98948514c47f1dc?utm_campaign=1047&utm_source=git)** | California, United States | Hybrid | Nov 10 |
 | **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Personal Lines Product Intern CA Team](https://jobright.ai/jobs/info/6912c0d3c98948514c47dd20?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Nov 10 |
 | ↳ | **[Personal Lines Product Intern National](https://jobright.ai/jobs/info/6912c2efea9ab01b82bf4ca3?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Nov 10 |
 | ↳ | **[Personal Lines Product Intern National](https://jobright.ai/jobs/info/6912bbfdea9ab01b82bf4981?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 10 |
@@ -100,9 +104,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Member Onboarding Product Management Undergraduate Intern](https://jobright.ai/jobs/info/691244dfd1047e3565cfac76?utm_campaign=1047&utm_source=git)** | AR, Working at Home -  Arkansas | Remote | Nov 10 |
 | ↳ | **[Summer 2026 Member Onboarding Product Management Undergraduate Intern](https://jobright.ai/jobs/info/691243dad1047e3565cfabee?utm_campaign=1047&utm_source=git)** | NH, Working at Home - New Hampshire | Remote | Nov 10 |
 | ↳ | **[Summer 2026 Member Onboarding Product Management Undergraduate Intern](https://jobright.ai/jobs/info/69125f94c98948514c47b191?utm_campaign=1047&utm_source=git)** | Erie-Meadville Area | On Site | Nov 10 |
-| ↳ | **[Summer 2026 Member Onboarding Product Management Undergraduate Intern](https://jobright.ai/jobs/info/6912557eea9ab01b82bf1817?utm_campaign=1047&utm_source=git)** | KY, Working at Home - Kentucky | Remote | Nov 10 |
 | ↳ | **[Summer 2026 Member Onboarding Product Management Undergraduate Intern](https://jobright.ai/jobs/info/69125439ea9ab01b82bf1735?utm_campaign=1047&utm_source=git)** | NV, Working at Home - Nevada | Remote | Nov 10 |
 | ↳ | **[Summer 2026 Member Onboarding Product Management Undergraduate Intern](https://jobright.ai/jobs/info/69125933ea9ab01b82bf1ace?utm_campaign=1047&utm_source=git)** | MI, Working at Home - Michigan | Remote | Nov 10 |
+| ↳ | **[Summer 2026 Member Onboarding Product Management Undergraduate Intern](https://jobright.ai/jobs/info/6912557eea9ab01b82bf1817?utm_campaign=1047&utm_source=git)** | KY, Working at Home - Kentucky | Remote | Nov 10 |
 | **[Root Inc.](https://www.root.com)** | **[Product Management Intern - Policyholder Experience](https://jobright.ai/jobs/info/691269f0d1047e3565cfc5bf?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 10 |
 | ↳ | **[Product Management Intern - Policyholder Experience](https://jobright.ai/jobs/info/691219f3ea9ab01b82bef839?utm_campaign=1047&utm_source=git)** | Remote (United States) | Remote | Nov 10 |
 | ↳ | **[Product Management Intern - Distribution](https://jobright.ai/jobs/info/691233a2d1047e3565cfa3d3?utm_campaign=1047&utm_source=git)** | Remote (United States) | Remote | Nov 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Product Management Intern (Summer 2026) - St. Louis, MO](https://jobright.ai/jobs/info/68ccfe405954791a1d70271b?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Nov 07 |
 | **[Allen Flavors, Inc.](http://allenflavors.com)** | **[PRODUCT DEVELOPMENT INTERN](https://jobright.ai/jobs/info/690dfa25d046ab6061cfa02a?utm_campaign=1047&utm_source=git)** | South Plainfield, NJ, USA | On Site | Nov 07 |
 | **[Relay](https://relaypro.com)** | **[Relay Launchpad Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/68d68b5dd3fe025a3015a4f4?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Nov 07 |
-| **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68ed24eb70b66e2345d3ad4f?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Nov 07 |
-| **[ByteDance](http://bytedance.com)** | **[Product Manager Intern (Multi-Cloud CDN)- 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68f1bc32f462172a5a7dbdea?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 07 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Seller Platform) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68ba3f1c6105227d1189c44d?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 07 |
-| **[Tyler Technologies](https://www.tylertech.com/)** | **[Product Analyst Intern, Summer 2026](https://jobright.ai/jobs/info/68cda69db2a74e1837eda47a?utm_campaign=1047&utm_source=git)** | Plano, TX | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
