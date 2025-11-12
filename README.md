@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[7-Eleven](http://www.7-eleven.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68f797185dc1be601281694a?utm_campaign=1047&utm_source=git)** | Irving, TX | On Site | Nov 12 |
 | **[Epic Games](https://epicgames.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/68f08a71a6b9004b5e3212a1?utm_campaign=1047&utm_source=git)** | Cary, NC | On Site | Nov 12 |
 | **[Aptiv](http://www.aptiv.com)** | **[Product Line Purchasing Intern](https://jobright.ai/jobs/info/68cda788b2a74e1837eda629?utm_campaign=1047&utm_source=git)** | Troy, MI | On Site | Nov 12 |
-| **[GenPark](https://genpark.ai)** | **[Growth Product Manager](https://jobright.ai/jobs/info/691428bd1465e02904e9ae6d?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 11 |
+| **[Crown Fund](Crownfund.co)** | **[Product Development Intern](https://jobright.ai/jobs/info/691482ab9c388539cbdec714?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Nov 12 |
 | **[Shop Online New York](https://www.topofny.com)** | **[Non-Paid Internship for Product Owner](https://jobright.ai/jobs/info/69141e85e344172248f7712f?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 11 |
 | **[Kalepa](https://www.kalepa.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6913d7c7d1047e3565d068f4?utm_campaign=1047&utm_source=git)** | New York, NY | Remote | Nov 11 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6913ceaf1465e02904e97c6a?utm_campaign=1047&utm_source=git)** | New York, NY. Remote | Remote | Nov 11 |
@@ -84,7 +85,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Global Product Strategist Intern-(MSO) 2026 Summer (MBA)](https://jobright.ai/jobs/info/68fab001b2c86843bf211022?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Nov 11 |
 | **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Product Development, Intern](https://jobright.ai/jobs/info/68f69c749a65fd3458595206?utm_campaign=1047&utm_source=git)** | Hunt Valley, MD | On Site | Nov 11 |
 | **[Levi Strauss & Co.](http://levistrauss.com/)** | **[F.I.T. Intern, Product Development](https://jobright.ai/jobs/info/68f639c69a65fd3458591aec?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Nov 11 |
-| **[Tencent](https://www.tencent.com/)** | **[[Tencent Cloud 2026 Internship Program] Product Intern, Real-Time Interaction PaaS (Shenzhen)](https://jobright.ai/jobs/info/6912dfb3c98948514c47f0c4?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Nov 10 |
+| **[Tencent](https://www.tencent.com/)** | **[[Tencent Cloud 2026 Internship Program] Product Intern, Real-Time Interaction PaaS (Shenzhen)](https://jobright.ai/jobs/info/6914767e9c388539cbdec436?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Nov 10 |
 | **[Adobe](http://www.adobe.com)** | **[2026 SAMI Intern - Product Manager, Community Engagement](https://jobright.ai/jobs/info/6912da16c98948514c47ed07?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 10 |
 | ↳ | **[2026 SAMI Intern - Product Manager, AI Experience](https://jobright.ai/jobs/info/6912df28d1047e3565cffd35?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 10 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Media Tech – Enterprise Product Internships – Summer 2026](https://jobright.ai/jobs/info/6912c43dc98948514c47de9a?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
@@ -131,8 +132,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Member Onboarding Product Management Undergraduate Intern](https://jobright.ai/jobs/info/691244dfd1047e3565cfac76?utm_campaign=1047&utm_source=git)** | AR, Working at Home -  Arkansas | Remote | Nov 10 |
 | ↳ | **[Summer 2026 Member Onboarding Product Management Undergraduate Intern](https://jobright.ai/jobs/info/691243dad1047e3565cfabee?utm_campaign=1047&utm_source=git)** | NH, Working at Home - New Hampshire | Remote | Nov 10 |
 | ↳ | **[Summer 2026 Member Onboarding Product Management Undergraduate Intern](https://jobright.ai/jobs/info/69125f94c98948514c47b191?utm_campaign=1047&utm_source=git)** | Erie-Meadville Area | On Site | Nov 10 |
-| ↳ | **[Summer 2026 Member Onboarding Product Management Undergraduate Intern](https://jobright.ai/jobs/info/69125439ea9ab01b82bf1735?utm_campaign=1047&utm_source=git)** | NV, Working at Home - Nevada | Remote | Nov 10 |
 | ↳ | **[Summer 2026 Member Onboarding Product Management Undergraduate Intern](https://jobright.ai/jobs/info/6912557eea9ab01b82bf1817?utm_campaign=1047&utm_source=git)** | KY, Working at Home - Kentucky | Remote | Nov 10 |
+| ↳ | **[Summer 2026 Member Onboarding Product Management Undergraduate Intern](https://jobright.ai/jobs/info/69125439ea9ab01b82bf1735?utm_campaign=1047&utm_source=git)** | NV, Working at Home - Nevada | Remote | Nov 10 |
 | ↳ | **[Summer 2026 Member Onboarding Product Management Undergraduate Intern](https://jobright.ai/jobs/info/69125933ea9ab01b82bf1ace?utm_campaign=1047&utm_source=git)** | MI, Working at Home - Michigan | Remote | Nov 10 |
 | **[Root Inc.](https://www.root.com)** | **[Product Management Intern - Policyholder Experience](https://jobright.ai/jobs/info/691269f0d1047e3565cfc5bf?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 10 |
 | ↳ | **[Product Management Intern - Policyholder Experience](https://jobright.ai/jobs/info/691219f3ea9ab01b82bef839?utm_campaign=1047&utm_source=git)** | Remote (United States) | Remote | Nov 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GiveDirectly](https://www.givedirectly.org/)** | **[Senior Product Manager, International Rapid Response Payment Systems](https://jobright.ai/jobs/info/689bcbd679a9f96662533c77?utm_campaign=1047&utm_source=git)** | New York, NY | Remote | Nov 08 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 LAUNCH Program: Data Science Product Manager Intern](https://jobright.ai/jobs/info/68f312cf9a63986de756ec54?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Nov 08 |
 | **[Ibotta](https://home.ibotta.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/68d7574b7a37c712687c9539?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Nov 08 |
-| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Product Specialist](https://jobright.ai/jobs/info/690f6a21bc852e6dc187d483?utm_campaign=1047&utm_source=git)** | Maryland Heights, Missouri | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
