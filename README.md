@@ -59,7 +59,10 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Associate Technical Product Manager Intern](https://jobright.ai/jobs/info/6914e2129c388539cbdee3ee?utm_campaign=1047&utm_source=git)** | Cincinnati, OH (USA) | Hybrid | Nov 12 |
 | **[Honeywell](http://www.honeywell.com)** | **[Product Management Summer Intern 2026 (Master's)](https://jobright.ai/jobs/info/6914e09d286ccf0a15128f27?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Nov 12 |
+| ↳ | **[Product Management Summer Intern 2026 (Master's)](https://jobright.ai/jobs/info/6914f9799c388539cbdef184?utm_campaign=1047&utm_source=git)** | Des Plaines, IL | On Site | Nov 12 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Associate Technical Product Manager Intern](https://jobright.ai/jobs/info/6914d0ad286ccf0a1512897d?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 12 |
+| **[Allegiant](https://www.allegiantair.com/)** | **[Commercial Products Intern](https://jobright.ai/jobs/info/6914f108286ccf0a15129773?utm_campaign=1047&utm_source=git)** | Las Vegas, NV | On Site | Nov 12 |
+| **[WillowTree](http://www.willowtreeapps.com)** | **[Product Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6914ed969c388539cbdee9f7?utm_campaign=1047&utm_source=git)** | United States of America | Hybrid | Nov 12 |
 | **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Product](https://jobright.ai/jobs/info/68c54fb4c96a22563ece85d0?utm_campaign=1047&utm_source=git)** | Fort Mill, SC | Hybrid | Nov 12 |
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68c0786b702aa35207aad58a?utm_campaign=1047&utm_source=git)** | Springfield, TN | On Site | Nov 12 |
 | **[State Street](http://www.statestreet.com)** | **[State Street Product Office - Summer Internship 2026](https://jobright.ai/jobs/info/6914b2ef286ccf0a15127ed3?utm_campaign=1047&utm_source=git)** | Quincy, MA | On Site | Nov 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bobcat Company](https://www.bobcat.com)** | **[Ecommerce Development Intern](https://jobright.ai/jobs/info/68bb8d655f38327491870378?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Nov 09 |
 | **[Atlassian](https://www.atlassian.com)** | **[Associate Product Management Intern, Summer 2026 U.S.](https://jobright.ai/jobs/info/68f73935aed0577b7e04d062?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Nov 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Product Strategist)](https://jobright.ai/jobs/info/68bb7b8d8043103d4f228f70?utm_campaign=1047&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
-| ↳ | **[Summer Associate Internship (Credit Card Experiences Product Manager)](https://jobright.ai/jobs/info/68d2f29a8c62e63bc7fdbe10?utm_campaign=1047&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
-| ↳ | **[Summer Associate Internship (Product Strategist)](https://jobright.ai/jobs/info/68cc5b4b128dc347fd9233af?utm_campaign=1047&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
-| ↳ | **[Summer Associate Internship (Product Strategist)](https://jobright.ai/jobs/info/68cedc56dbd9fb154ede3437?utm_campaign=1047&utm_source=git)** | Pensacola, FL | Hybrid | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
