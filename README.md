@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Growth Product Manager](https://jobright.ai/jobs/info/691428bd1465e02904e9ae6d?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 11 |
+| **[Shop Online New York](https://www.topofny.com)** | **[Non-Paid Internship for Product Owner](https://jobright.ai/jobs/info/69141e85e344172248f7712f?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 11 |
 | **[Kalepa](https://www.kalepa.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6913d7c7d1047e3565d068f4?utm_campaign=1047&utm_source=git)** | New York, NY | Remote | Nov 11 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6913ceaf1465e02904e97c6a?utm_campaign=1047&utm_source=git)** | New York, NY. Remote | Remote | Nov 11 |
 | **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Product Management Intern (Intern Program)](https://jobright.ai/jobs/info/6913c7e5e344172248f74124?utm_campaign=1047&utm_source=git)** | Beachwood, OH | On Site | Nov 11 |
@@ -127,8 +129,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Member Onboarding Product Management Undergraduate Intern](https://jobright.ai/jobs/info/691244dfd1047e3565cfac76?utm_campaign=1047&utm_source=git)** | AR, Working at Home -  Arkansas | Remote | Nov 10 |
 | ↳ | **[Summer 2026 Member Onboarding Product Management Undergraduate Intern](https://jobright.ai/jobs/info/691243dad1047e3565cfabee?utm_campaign=1047&utm_source=git)** | NH, Working at Home - New Hampshire | Remote | Nov 10 |
 | ↳ | **[Summer 2026 Member Onboarding Product Management Undergraduate Intern](https://jobright.ai/jobs/info/69125f94c98948514c47b191?utm_campaign=1047&utm_source=git)** | Erie-Meadville Area | On Site | Nov 10 |
-| ↳ | **[Summer 2026 Member Onboarding Product Management Undergraduate Intern](https://jobright.ai/jobs/info/6912557eea9ab01b82bf1817?utm_campaign=1047&utm_source=git)** | KY, Working at Home - Kentucky | Remote | Nov 10 |
 | ↳ | **[Summer 2026 Member Onboarding Product Management Undergraduate Intern](https://jobright.ai/jobs/info/69125933ea9ab01b82bf1ace?utm_campaign=1047&utm_source=git)** | MI, Working at Home - Michigan | Remote | Nov 10 |
+| ↳ | **[Summer 2026 Member Onboarding Product Management Undergraduate Intern](https://jobright.ai/jobs/info/6912557eea9ab01b82bf1817?utm_campaign=1047&utm_source=git)** | KY, Working at Home - Kentucky | Remote | Nov 10 |
 | ↳ | **[Summer 2026 Member Onboarding Product Management Undergraduate Intern](https://jobright.ai/jobs/info/69125439ea9ab01b82bf1735?utm_campaign=1047&utm_source=git)** | NV, Working at Home - Nevada | Remote | Nov 10 |
 | **[Root Inc.](https://www.root.com)** | **[Product Management Intern - Policyholder Experience](https://jobright.ai/jobs/info/691269f0d1047e3565cfc5bf?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 10 |
 | ↳ | **[Product Management Intern - Policyholder Experience](https://jobright.ai/jobs/info/691219f3ea9ab01b82bef839?utm_campaign=1047&utm_source=git)** | Remote (United States) | Remote | Nov 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Product Specialist](https://jobright.ai/jobs/info/690f6a21bc852e6dc187d483?utm_campaign=1047&utm_source=git)** | Maryland Heights, Missouri | On Site | Nov 08 |
 | **[Sparkcentral by Hootsuite](http://www.sparkcentral.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/690f2a89221b890c2781463e?utm_campaign=1047&utm_source=git)** | Location, WV | On Site | Nov 08 |
 | **[TikTok](https://www.tiktok.com)** | **[CRM Product Project Intern [TikTok-PGC-Creator Strategy]-2025 Start (BS/MS)](https://jobright.ai/jobs/info/68faee2f9e8e925ac6c878c2?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 08 |
-| ↳ | **[Product Operations Project Intern - SMB Industry Operations - 2025 Start (BS/ MS)](https://jobright.ai/jobs/info/68f223ddcb0abf15612f475e?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 08 |
-| **[Qualcomm](http://www.qualcomm.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68fcc9d2e04ac838fb5aca41?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
