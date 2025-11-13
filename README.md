@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[USAFacts](https://www.usafacts.org)** | **[AI Product Intern](https://jobright.ai/jobs/info/691566f89c388539cbdf3414?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Nov 12 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Data Science Product Manager Intern](https://jobright.ai/jobs/info/69152488286ccf0a1512ba25?utm_campaign=1047&utm_source=git)** | IL - Chicago | On Site | Nov 12 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/691517bb286ccf0a1512b291?utm_campaign=1047&utm_source=git)** | Nashua, NH | On Site | Nov 12 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Associate Technical Product Manager Intern](https://jobright.ai/jobs/info/6914e2129c388539cbdee3ee?utm_campaign=1047&utm_source=git)** | Cincinnati, OH (USA) | Hybrid | Nov 12 |
@@ -145,8 +146,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Member Onboarding Product Management Undergraduate Intern](https://jobright.ai/jobs/info/691243dad1047e3565cfabee?utm_campaign=1047&utm_source=git)** | NH, Working at Home - New Hampshire | Remote | Nov 10 |
 | ↳ | **[Summer 2026 Member Onboarding Product Management Undergraduate Intern](https://jobright.ai/jobs/info/69125f94c98948514c47b191?utm_campaign=1047&utm_source=git)** | Erie-Meadville Area | On Site | Nov 10 |
 | ↳ | **[Summer 2026 Member Onboarding Product Management Undergraduate Intern](https://jobright.ai/jobs/info/69125933ea9ab01b82bf1ace?utm_campaign=1047&utm_source=git)** | MI, Working at Home - Michigan | Remote | Nov 10 |
-| ↳ | **[Summer 2026 Member Onboarding Product Management Undergraduate Intern](https://jobright.ai/jobs/info/6912557eea9ab01b82bf1817?utm_campaign=1047&utm_source=git)** | KY, Working at Home - Kentucky | Remote | Nov 10 |
 | ↳ | **[Summer 2026 Member Onboarding Product Management Undergraduate Intern](https://jobright.ai/jobs/info/69125439ea9ab01b82bf1735?utm_campaign=1047&utm_source=git)** | NV, Working at Home - Nevada | Remote | Nov 10 |
+| ↳ | **[Summer 2026 Member Onboarding Product Management Undergraduate Intern](https://jobright.ai/jobs/info/6912557eea9ab01b82bf1817?utm_campaign=1047&utm_source=git)** | KY, Working at Home - Kentucky | Remote | Nov 10 |
 | **[Root Inc.](https://www.root.com)** | **[Product Management Intern - Policyholder Experience](https://jobright.ai/jobs/info/691269f0d1047e3565cfc5bf?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 10 |
 | ↳ | **[Product Management Intern - Policyholder Experience](https://jobright.ai/jobs/info/691219f3ea9ab01b82bef839?utm_campaign=1047&utm_source=git)** | Remote (United States) | Remote | Nov 10 |
 | ↳ | **[Product Management Intern - Distribution](https://jobright.ai/jobs/info/691233a2d1047e3565cfa3d3?utm_campaign=1047&utm_source=git)** | Remote (United States) | Remote | Nov 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[2026 Amazon Leadership Accelerator (ALA) Product Manager Internship](https://jobright.ai/jobs/info/68f061cb2e327452a0a4c9fc?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 10 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Product Manager)](https://jobright.ai/jobs/info/68cd1a57e23def7af55b55ab?utm_campaign=1047&utm_source=git)** | Vienna, VA | Hybrid | Nov 09 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern](https://jobright.ai/jobs/info/69057f64122e8474c78d96e6?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Nov 09 |
-| **[CNA Insurance](http://www.cna.com)** | **[Technology Internship Program (Agile Product Design)](https://jobright.ai/jobs/info/68bb72945f3832749186f3a0?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
