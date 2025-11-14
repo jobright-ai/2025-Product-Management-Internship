@@ -80,6 +80,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd18b31ad6b16f02894c64?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 14 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[New Product Development (NPD) Sourcing Intern - Ditch Witch](https://jobright.ai/jobs/info/68cd208f1ad6b16f0289550e?utm_campaign=1047&utm_source=git)** | Noble County, OK | On Site | Nov 14 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - MCBU NPI Manager](https://jobright.ai/jobs/info/68facb0267272b29af733936?utm_campaign=1047&utm_source=git)** | Boise, ID | On Site | Nov 14 |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Product Specialist](https://jobright.ai/jobs/info/691769853ea85638ae1ca679?utm_campaign=1047&utm_source=git)** | Maryland Heights, Missouri | On Site | Nov 14 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/6916a69f9c388539cbdfd8c5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 13 |
 | **[IBM](http://www.ibm.com)** | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/6916a323286ccf0a151381d2?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Nov 13 |
 | ↳ | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/6916a3146f36db06ef0588b9?utm_campaign=1047&utm_source=git)** | Research Park, CA | Hybrid | Nov 13 |
@@ -87,8 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69169d3c6f36db06ef058565?utm_campaign=1047&utm_source=git)** | Everett, WA | On Site | Nov 13 |
 | **[IBM](http://www.ibm.com)** | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/69169bf1286ccf0a15137e61?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Nov 13 |
 | ↳ | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/6916977a9c388539cbdfd039?utm_campaign=1047&utm_source=git)** | Houston, TX | Hybrid | Nov 13 |
-| **[Cisco](http://www.cisco.com)** | **[AI Engineering Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/691692156f36db06ef057e1d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 13 |
-| ↳ | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/6916a64f9c388539cbdfd89d?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Nov 13 |
+| **[Cisco](http://www.cisco.com)** | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/6916a64f9c388539cbdfd89d?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Nov 13 |
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/69168f4b286ccf0a151376ba?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 13 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Product Owner Graduate Intern](https://jobright.ai/jobs/info/691666cb286ccf0a1513567a?utm_campaign=1047&utm_source=git)** | Erie-Meadville Area | On Site | Nov 13 |
 | **[Tencent](https://www.tencent.com/)** | **[Data Product Intern](https://jobright.ai/jobs/info/691654819c388539cbdf9fea?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | On Site | Nov 13 |
@@ -124,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Credit Card Experiences Product Manager)](https://jobright.ai/jobs/info/68dbfa2f6f6c5c3fadf3586d?utm_campaign=1047&utm_source=git)** | Pensacola, FL | Hybrid | Nov 13 |
 | **[Dayforce](https://www.dayforce.com)** | **[Cybersecurity Product Manager Intern 4 Months - Winter 2026](https://jobright.ai/jobs/info/6916f38b9c388539cbe00aec?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 13 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691637a89c388539cbdf8c25?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Nov 13 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6916056c9c388539cbdf74e0?utm_campaign=1047&utm_source=git)** | Rochester, MN | Hybrid | Nov 13 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691638869c388539cbdf8ca7?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | Hybrid | Nov 13 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6916056c9c388539cbdf74e0?utm_campaign=1047&utm_source=git)** | Rochester, MN | Hybrid | Nov 13 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691639039c388539cbdf8cf0?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Nov 13 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Competitiveness Intern, Heavy Duty Gas Turbine Product Management - Summer 2026](https://jobright.ai/jobs/info/68d65114894705799a2eab01?utm_campaign=1047&utm_source=git)** | Greenville, SC | On Site | Nov 13 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Product Manager, Genetics Intern](https://jobright.ai/jobs/info/68f93be06de2db04dc3e701c?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Nov 13 |
