@@ -100,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691600789c388539cbdf7341?utm_campaign=1047&utm_source=git)** | Tucson, AZ | Hybrid | Nov 13 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Credit Card Experiences Product Manager)](https://jobright.ai/jobs/info/68dbfa2f6f6c5c3fadf3586d?utm_campaign=1047&utm_source=git)** | Pensacola, FL | Hybrid | Nov 13 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691637a89c388539cbdf8c25?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Nov 13 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691638869c388539cbdf8ca7?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | Hybrid | Nov 13 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6916056c9c388539cbdf74e0?utm_campaign=1047&utm_source=git)** | Rochester, MN | Hybrid | Nov 13 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691638869c388539cbdf8ca7?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | Hybrid | Nov 13 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691639039c388539cbdf8cf0?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Nov 13 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Competitiveness Intern, Heavy Duty Gas Turbine Product Management - Summer 2026](https://jobright.ai/jobs/info/68d65114894705799a2eab01?utm_campaign=1047&utm_source=git)** | Greenville, SC | On Site | Nov 13 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Product Manager, Genetics Intern](https://jobright.ai/jobs/info/68f93be06de2db04dc3e701c?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Nov 13 |
@@ -146,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68bf1907702aa35207aa31d6?utm_campaign=1047&utm_source=git)** | Mentor, OH | On Site | Nov 11 |
 | ↳ | **[Hair Color Product Development Intern - Fall 2026 - Summer 2027](https://jobright.ai/jobs/info/68c8fc8695f5211cd2cecbc8?utm_campaign=1047&utm_source=git)** | Darien, CT | Hybrid | Nov 11 |
 | **[Nestlé](https://www.nestle.com)** | **[Nestlé R&D Product Development Intern](https://jobright.ai/jobs/info/68f057c423b5702fba8ca19f?utm_campaign=1047&utm_source=git)** | Solon, OH | On Site | Nov 11 |
-| **[Tencent](https://www.tencent.com/)** | **[[Tencent Cloud 2026 Internship Program] Technical Product Management Intern (Shenzhen)](https://jobright.ai/jobs/info/6912dfb3c98948514c47f0c4?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Nov 11 |
 | **[Second Dinner](http://seconddinner.com)** | **[[2026] Product Manager Intern, Unannounced Super Fun Video Game](https://jobright.ai/jobs/info/68f6c88e76a51a4307bde40b?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Nov 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Intern [Global Monetization Product and Technology]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68db68d39f13662d20e4b0b9?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 11 |
 | ↳ | **[Global Product Strategist Intern-(MSO) 2026 Summer (MBA)](https://jobright.ai/jobs/info/68fab001b2c86843bf211022?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Nov 11 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 SAMI Intern - Product Manager, AI Experience](https://jobright.ai/jobs/info/6912df28d1047e3565cffd35?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 10 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Media Tech – Enterprise Product Internships – Summer 2026](https://jobright.ai/jobs/info/6912c43dc98948514c47de9a?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Product Management Internship](https://jobright.ai/jobs/info/6912e159c98948514c47f1dc?utm_campaign=1047&utm_source=git)** | California, United States | Hybrid | Nov 10 |
+| **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Personal Lines Product Intern CA Team](https://jobright.ai/jobs/info/6912c0d3c98948514c47dd20?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
