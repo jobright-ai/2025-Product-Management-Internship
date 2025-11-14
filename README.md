@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Technology, Data, AI & Ventures Summer Internship Program - Technical Product Management Intern](https://jobright.ai/jobs/info/68cd6041e23def7af55b9370?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 14 |
+| **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b463f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Nov 14 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Competitiveness Intern, Heavy Duty Gas Turbine Product Management - Summer 2026](https://jobright.ai/jobs/info/68d633cd4736ff202fdd0aa5?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Nov 14 |
 | **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Product Development](https://jobright.ai/jobs/info/68d748e0cb1d8e52c9766bbf?utm_campaign=1047&utm_source=git)** | Hunt Valley, MD | On Site | Nov 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Seller Risk/Performance Score Product) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/68cd7f4e1ad6b16f0289a3e0?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 14 |
@@ -122,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Credit Card Experiences Product Manager)](https://jobright.ai/jobs/info/68dbfa2f6f6c5c3fadf3586d?utm_campaign=1047&utm_source=git)** | Pensacola, FL | Hybrid | Nov 13 |
 | **[Dayforce](https://www.dayforce.com)** | **[Cybersecurity Product Manager Intern 4 Months - Winter 2026](https://jobright.ai/jobs/info/6916f38b9c388539cbe00aec?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 13 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691637a89c388539cbdf8c25?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Nov 13 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691638869c388539cbdf8ca7?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | Hybrid | Nov 13 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6916056c9c388539cbdf74e0?utm_campaign=1047&utm_source=git)** | Rochester, MN | Hybrid | Nov 13 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691638869c388539cbdf8ca7?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | Hybrid | Nov 13 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691639039c388539cbdf8cf0?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Nov 13 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Competitiveness Intern, Heavy Duty Gas Turbine Product Management - Summer 2026](https://jobright.ai/jobs/info/68d65114894705799a2eab01?utm_campaign=1047&utm_source=git)** | Greenville, SC | On Site | Nov 13 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Product Manager, Genetics Intern](https://jobright.ai/jobs/info/68f93be06de2db04dc3e701c?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Nov 13 |
@@ -132,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Product Manager, Genetics Intern](https://jobright.ai/jobs/info/68f93e75cadb2e5a06a62dd3?utm_campaign=1047&utm_source=git)** | Marshfield, WI | On Site | Nov 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd5bece23def7af55b8a98?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 13 |
 | ↳ | **[User Product Operations Intern [TikTok Local Services] - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ccf1795954791a1d7018f5?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Nov 13 |
-| **[HNI Workplace Furnishings, LLC](https://www.hnicorp.com/careers)** | **[Intern - Product Management - Summer 2026](https://jobright.ai/jobs/info/6916fc21bcdbf3560c9c3a4b?utm_campaign=1047&utm_source=git)** | Muscatine, IA | Hybrid | Nov 13 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2026 Product Management, Technology - Sunrise, FL](https://jobright.ai/jobs/info/691577766f36db06ef04f04b?utm_campaign=1047&utm_source=git)** | Sunrise, FL | Hybrid | Nov 12 |
 | ↳ | **[Campus Undergraduate Summer Internship Program - 2026 Product Management, Technology - New York, NY](https://jobright.ai/jobs/info/691571566f36db06ef04ed14?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 12 |
 | **[USAFacts](https://www.usafacts.org)** | **[AI Product Intern](https://jobright.ai/jobs/info/691566f89c388539cbdf3414?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Nov 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kalepa](https://www.kalepa.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6913d7c7d1047e3565d068f4?utm_campaign=1047&utm_source=git)** | New York, NY | Remote | Nov 11 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6913ceaf1465e02904e97c6a?utm_campaign=1047&utm_source=git)** | New York, NY. Remote | Remote | Nov 11 |
 | **[Nudura Insulated Concrete Forms](http://www.nudura.com/)** | **[Product Management Intern (Intern Program)](https://jobright.ai/jobs/info/6913c7e5e344172248f74124?utm_campaign=1047&utm_source=git)** | Beachwood, OH | On Site | Nov 11 |
-| **[ROCKWOOL Group](https://www.rockwoolgroup.com/)** | **[Product Management - Intern](https://jobright.ai/jobs/info/6913c4b8e344172248f73fc8?utm_campaign=1047&utm_source=git)** | Chicago, Illinois | On Site | Nov 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
