@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Product Owner Graduate Intern](https://jobright.ai/jobs/info/691666cb286ccf0a1513567a?utm_campaign=1047&utm_source=git)** | Erie-Meadville Area | On Site | Nov 13 |
+| **[Tencent](https://www.tencent.com/)** | **[Data Product Intern](https://jobright.ai/jobs/info/691654819c388539cbdf9fea?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | On Site | Nov 13 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/691645fd6f36db06ef0547b5?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 13 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Product Owner Graduate Intern](https://jobright.ai/jobs/info/691618086f36db06ef052e63?utm_campaign=1047&utm_source=git)** | WY, Working at Home - Wyoming | Remote | Nov 13 |
 | ↳ | **[Summer 2026 Product Owner Graduate Intern](https://jobright.ai/jobs/info/691617fb6f36db06ef052e57?utm_campaign=1047&utm_source=git)** | NE, Working at Home - Nebraska | Remote | Nov 13 |
@@ -87,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691600789c388539cbdf7341?utm_campaign=1047&utm_source=git)** | Tucson, AZ | Hybrid | Nov 13 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Credit Card Experiences Product Manager)](https://jobright.ai/jobs/info/68dbfa2f6f6c5c3fadf3586d?utm_campaign=1047&utm_source=git)** | Pensacola, FL | Hybrid | Nov 13 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691637a89c388539cbdf8c25?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Nov 13 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6916056c9c388539cbdf74e0?utm_campaign=1047&utm_source=git)** | Rochester, MN | Hybrid | Nov 13 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691638869c388539cbdf8ca7?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | Hybrid | Nov 13 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6916056c9c388539cbdf74e0?utm_campaign=1047&utm_source=git)** | Rochester, MN | Hybrid | Nov 13 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691639039c388539cbdf8cf0?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Nov 13 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Competitiveness Intern, Heavy Duty Gas Turbine Product Management - Summer 2026](https://jobright.ai/jobs/info/68d65114894705799a2eab01?utm_campaign=1047&utm_source=git)** | Greenville, SC | On Site | Nov 13 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Product Manager, Genetics Intern](https://jobright.ai/jobs/info/68f93be06de2db04dc3e701c?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Nov 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 SAMI Intern - Product Manager, AI Experience](https://jobright.ai/jobs/info/69128209d1047e3565cfd29f?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Nov 10 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Product Management Internship](https://jobright.ai/jobs/info/69127ba5d1047e3565cfcfc6?utm_campaign=1047&utm_source=git)** | Oakland, CA, United States | On Site | Nov 10 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Product Security Operations Specialist](https://jobright.ai/jobs/info/69127adbea9ab01b82bf305e?utm_campaign=1047&utm_source=git)** | California - San Francisco | Hybrid | Nov 10 |
-| **[Adobe](http://www.adobe.com)** | **[2026 SAMI Intern - Product Manager, Community Engagement](https://jobright.ai/jobs/info/691278dfea9ab01b82bf2f31?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Nov 10 |
-| **[iCapital](https://icapital.com)** | **[Product Management - Summer 2026 Intern](https://jobright.ai/jobs/info/6912604ed1047e3565cfbefa?utm_campaign=1047&utm_source=git)** | New York, New York, United States | On Site | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
