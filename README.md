@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate IT Product Intern - Summer 2026](https://jobright.ai/jobs/info/691791f145fb6f5ead89c24b?utm_campaign=1047&utm_source=git)** | Parsippany, NJ | On Site | Nov 14 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2026 - Business Systems Analyst/Product Analyst Internship](https://jobright.ai/jobs/info/68deb00da125e75c422b5c10?utm_campaign=1047&utm_source=git)** | Wichita, KS | On Site | Nov 14 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Technology, Data, AI & Ventures Summer Internship Program - Technical Product Management Intern](https://jobright.ai/jobs/info/68cd6041e23def7af55b9370?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 14 |
 | **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b463f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Nov 14 |
@@ -91,6 +92,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/6916977a9c388539cbdfd039?utm_campaign=1047&utm_source=git)** | Houston, TX | Hybrid | Nov 13 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/6916a64f9c388539cbdfd89d?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Nov 13 |
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/69168f4b286ccf0a151376ba?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 13 |
+| **[Nestlé Nespresso SA](http://www.nespresso.com)** | **[Nespresso B2B Commercial Development Internship](https://jobright.ai/jobs/info/69179ede15b4156367179a16?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 13 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Product Owner Graduate Intern](https://jobright.ai/jobs/info/691666cb286ccf0a1513567a?utm_campaign=1047&utm_source=git)** | Erie-Meadville Area | On Site | Nov 13 |
 | **[Tencent](https://www.tencent.com/)** | **[Data Product Intern](https://jobright.ai/jobs/info/691654819c388539cbdf9fea?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | On Site | Nov 13 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/691645fd6f36db06ef0547b5?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[7-Eleven](http://www.7-eleven.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68f797185dc1be601281694a?utm_campaign=1047&utm_source=git)** | Irving, TX | On Site | Nov 12 |
 | **[Ferrara](https://www.ferrara.com)** | **[Product Development Internship Program 2026](https://jobright.ai/jobs/info/68bf8d995c5d5f14f46d7eeb?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Nov 12 |
 | **[Epic Games](https://epicgames.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/68f08a71a6b9004b5e3212a1?utm_campaign=1047&utm_source=git)** | Cary, NC | On Site | Nov 12 |
-| **[Kalepa](https://www.kalepa.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6913d7c7d1047e3565d068f4?utm_campaign=1047&utm_source=git)** | New York, NY | Remote | Nov 11 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6913ceaf1465e02904e97c6a?utm_campaign=1047&utm_source=git)** | New York, NY. Remote | Remote | Nov 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
