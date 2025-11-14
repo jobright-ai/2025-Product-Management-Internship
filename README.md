@@ -85,6 +85,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Product Owner Graduate Intern](https://jobright.ai/jobs/info/69160bb49c388539cbdf76ce?utm_campaign=1047&utm_source=git)** | ME, Working at Home - Maine | Remote | Nov 13 |
 | ↳ | **[Summer 2026 Product Owner Graduate Intern](https://jobright.ai/jobs/info/69160af36f36db06ef0526df?utm_campaign=1047&utm_source=git)** | WI, Working at Home - Wisconsin | Remote | Nov 13 |
 | ↳ | **[Summer 2026 Product Owner Graduate Intern](https://jobright.ai/jobs/info/691609736f36db06ef052664?utm_campaign=1047&utm_source=git)** | PA, Working at Home - Pennsylvania | Remote | Nov 13 |
+| **[Pittsburgh Robotics Network](https://robopgh.org/)** | **[Intern - Product Management](https://jobright.ai/jobs/info/691671486f36db06ef0568fc?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Nov 13 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/6916469c9c388539cbdf9654?utm_campaign=1047&utm_source=git)** | Cincinnati, OH (USA) | Hybrid | Nov 13 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691600789c388539cbdf7341?utm_campaign=1047&utm_source=git)** | Tucson, AZ | Hybrid | Nov 13 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Credit Card Experiences Product Manager)](https://jobright.ai/jobs/info/68dbfa2f6f6c5c3fadf3586d?utm_campaign=1047&utm_source=git)** | Pensacola, FL | Hybrid | Nov 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ryan](http://ryan.com)** | **[Summer 2026 Intern, Product Management / Data Analysis](https://jobright.ai/jobs/info/69128452ea9ab01b82bf33fb?utm_campaign=1047&utm_source=git)** | Charlotte | On Site | Nov 10 |
 | **[Adobe](http://www.adobe.com)** | **[2026 SAMI Intern - Product Manager, AI Experience](https://jobright.ai/jobs/info/69128209d1047e3565cfd29f?utm_campaign=1047&utm_source=git)** | San Jose | On Site | Nov 10 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Product Management Internship](https://jobright.ai/jobs/info/69127ba5d1047e3565cfcfc6?utm_campaign=1047&utm_source=git)** | Oakland, CA, United States | On Site | Nov 10 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Product Security Operations Specialist](https://jobright.ai/jobs/info/69127adbea9ab01b82bf305e?utm_campaign=1047&utm_source=git)** | California - San Francisco | Hybrid | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
