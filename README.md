@@ -69,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Content and Service Lead Ads ) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd7bf4e23def7af55bab22?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 15 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Product Manager, Sales Platform](https://jobright.ai/jobs/info/68dffa52b99ec3563b0ca9cb?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Nov 15 |
 | ↳ | **[2026 Intern - Digital Imaging User Research](https://jobright.ai/jobs/info/68fc4f8993c49825ab10bd33?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 15 |
+| **[Sparkcentral by Hootsuite](http://www.sparkcentral.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/691871dc45fb6f5ead8a55fa?utm_campaign=1047&utm_source=git)** | Location, WV | On Site | Nov 15 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern - Content Creation](https://jobright.ai/jobs/info/6918005dbcdbf3560c9cd898?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Nov 14 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6917f7be45fb6f5ead8a079d?utm_campaign=1047&utm_source=git)** | Everett, WA | Hybrid | Nov 14 |
 | **[Gusto](https://www.gusto.com)** | **[Product Management Intern (Summer 2026) - Master’s/MBA](https://jobright.ai/jobs/info/6917f5ccbcdbf3560c9cd094?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 14 |
@@ -146,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691600789c388539cbdf7341?utm_campaign=1047&utm_source=git)** | Tucson, AZ | Hybrid | Nov 13 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Credit Card Experiences Product Manager)](https://jobright.ai/jobs/info/68dbfa2f6f6c5c3fadf3586d?utm_campaign=1047&utm_source=git)** | Pensacola, FL | Hybrid | Nov 13 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691637a89c388539cbdf8c25?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Nov 13 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691638869c388539cbdf8ca7?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | Hybrid | Nov 13 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6916056c9c388539cbdf74e0?utm_campaign=1047&utm_source=git)** | Rochester, MN | Hybrid | Nov 13 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691638869c388539cbdf8ca7?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | Hybrid | Nov 13 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691639039c388539cbdf8cf0?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Nov 13 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Competitiveness Intern, Heavy Duty Gas Turbine Product Management - Summer 2026](https://jobright.ai/jobs/info/68d65114894705799a2eab01?utm_campaign=1047&utm_source=git)** | Greenville, SC | On Site | Nov 13 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Product Manager, Genetics Intern](https://jobright.ai/jobs/info/68f93be06de2db04dc3e701c?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Nov 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Product Manager, Genetics Intern](https://jobright.ai/jobs/info/68f93e75cadb2e5a06a62dd3?utm_campaign=1047&utm_source=git)** | Marshfield, WI | On Site | Nov 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd5bece23def7af55b8a98?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 13 |
 | ↳ | **[User Product Operations Intern [TikTok Local Services] - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ccf1795954791a1d7018f5?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Nov 13 |
-| **[USAFacts](https://www.usafacts.org)** | **[AI Product Intern](https://jobright.ai/jobs/info/691566f89c388539cbdf3414?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
