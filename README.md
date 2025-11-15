@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Generac](https://www.generac.com/)** | **[Summer 2026 Product Management Intern](https://jobright.ai/jobs/info/6917ca8015b415636717b8e4?utm_campaign=1047&utm_source=git)** | Waukesha, WI - USA | On Site | Nov 14 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate IT Product Intern - Summer 2026](https://jobright.ai/jobs/info/691791f145fb6f5ead89c24b?utm_campaign=1047&utm_source=git)** | Parsippany, NJ | On Site | Nov 14 |
 | **[DormWay](https://www.dormway.app/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6917b89f45fb6f5ead89dfe6?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 14 |
 | **[Cisco](http://www.cisco.com)** | **[AI Product Management Engineer II (Intern) - United States](https://jobright.ai/jobs/info/6917a76d45fb6f5ead89d2bb?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State Street](http://www.statestreet.com)** | **[State Street Product Office - Summer Internship 2026](https://jobright.ai/jobs/info/6916310a286ccf0a1513329d?utm_campaign=1047&utm_source=git)** | Quincy, MA | On Site | Nov 12 |
 | **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Product](https://jobright.ai/jobs/info/68c54fb4c96a22563ece85d0?utm_campaign=1047&utm_source=git)** | Fort Mill, SC | Hybrid | Nov 12 |
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68c0786b702aa35207aad58a?utm_campaign=1047&utm_source=git)** | Springfield, TN | On Site | Nov 12 |
-| **[7-Eleven](http://www.7-eleven.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68f797185dc1be601281694a?utm_campaign=1047&utm_source=git)** | Irving, TX | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
