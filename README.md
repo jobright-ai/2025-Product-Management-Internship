@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern - Content Creation](https://jobright.ai/jobs/info/6918005dbcdbf3560c9cd898?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Nov 14 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6917f7be45fb6f5ead8a079d?utm_campaign=1047&utm_source=git)** | Everett, WA | Hybrid | Nov 14 |
 | **[Gusto](https://www.gusto.com)** | **[Product Management Intern (Summer 2026) - Master’s/MBA](https://jobright.ai/jobs/info/6917f5ccbcdbf3560c9cd094?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 14 |
+| ↳ | **[Product Management Intern (Summer 2026) - Master’s/MBA](https://jobright.ai/jobs/info/6918028f15b415636717dc5b?utm_campaign=1047&utm_source=git)** | San Francisco, CA - Hybrid | Hybrid | Nov 14 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern - Content Creation](https://jobright.ai/jobs/info/6917d896bcdbf3560c9cbf3a?utm_campaign=1047&utm_source=git)** | US-IL-Niles | Hybrid | Nov 14 |
 | **[Generac](https://www.generac.com/)** | **[Summer 2026 Product Management Intern](https://jobright.ai/jobs/info/6917ca8015b415636717b8e4?utm_campaign=1047&utm_source=git)** | Waukesha, WI - USA | On Site | Nov 14 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate IT Product Intern - Summer 2026](https://jobright.ai/jobs/info/691791f145fb6f5ead89c24b?utm_campaign=1047&utm_source=git)** | Parsippany, NJ | On Site | Nov 14 |
@@ -69,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Technology, Data, AI & Ventures Summer Internship Program - Technical Product Management Intern](https://jobright.ai/jobs/info/68cd6041e23def7af55b9370?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 14 |
 | **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b463f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Nov 14 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Competitiveness Intern, Heavy Duty Gas Turbine Product Management - Summer 2026](https://jobright.ai/jobs/info/68d633cd4736ff202fdd0aa5?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Nov 14 |
-| **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Product Development](https://jobright.ai/jobs/info/68d748e0cb1d8e52c9766bbf?utm_campaign=1047&utm_source=git)** | Hunt Valley, MD | On Site | Nov 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Seller Risk/Performance Score Product) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/68cd7f4e1ad6b16f0289a3e0?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 14 |
 | ↳ | **[Product Operations Manager Intern (TikTok Shop, Merchandise Growth) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd8d5e1ad6b16f0289b585?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 14 |
 | ↳ | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/6916c1fe286ccf0a15139296?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 14 |
@@ -133,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Credit Card Experiences Product Manager)](https://jobright.ai/jobs/info/68dbfa2f6f6c5c3fadf3586d?utm_campaign=1047&utm_source=git)** | Pensacola, FL | Hybrid | Nov 13 |
 | **[Dayforce](https://www.dayforce.com)** | **[Cybersecurity Product Manager Intern 4 Months - Winter 2026](https://jobright.ai/jobs/info/6916f38b9c388539cbe00aec?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 13 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691637a89c388539cbdf8c25?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Nov 13 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691638869c388539cbdf8ca7?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | Hybrid | Nov 13 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6916056c9c388539cbdf74e0?utm_campaign=1047&utm_source=git)** | Rochester, MN | Hybrid | Nov 13 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691638869c388539cbdf8ca7?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | Hybrid | Nov 13 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691639039c388539cbdf8cf0?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Nov 13 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Competitiveness Intern, Heavy Duty Gas Turbine Product Management - Summer 2026](https://jobright.ai/jobs/info/68d65114894705799a2eab01?utm_campaign=1047&utm_source=git)** | Greenville, SC | On Site | Nov 13 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Product Manager, Genetics Intern](https://jobright.ai/jobs/info/68f93be06de2db04dc3e701c?utm_campaign=1047&utm_source=git)** | Madison, WI | On Site | Nov 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Honeywell](http://www.honeywell.com)** | **[Product Management Summer Intern 2026 (Master's)](https://jobright.ai/jobs/info/6914f9799c388539cbdef184?utm_campaign=1047&utm_source=git)** | Des Plaines, IL | On Site | Nov 12 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Associate Technical Product Manager Intern](https://jobright.ai/jobs/info/6914d0ad286ccf0a1512897d?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 12 |
 | **[Allegiant](https://www.allegiantair.com/)** | **[Commercial Products Intern](https://jobright.ai/jobs/info/6914f108286ccf0a15129773?utm_campaign=1047&utm_source=git)** | Las Vegas, NV | On Site | Nov 12 |
-| **[WillowTree](http://www.willowtreeapps.com)** | **[Product Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6914ed969c388539cbdee9f7?utm_campaign=1047&utm_source=git)** | United States of America | Hybrid | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
