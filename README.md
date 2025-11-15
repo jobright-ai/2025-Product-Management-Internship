@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ServiceNow](http://www.servicenow.com)** | **[Sr. Inbound Product Manager Intern (MBA) - Summer 2026](https://jobright.ai/jobs/info/68cd4a671ad6b16f028978fa?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Nov 15 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6917e75fbcdbf3560c9cc70b?utm_campaign=1047&utm_source=git)** | Redwood City, CA | Hybrid | Nov 15 |
 | **[Generac](https://www.generac.com/)** | **[Summer 2026 Product Management Intern](https://jobright.ai/jobs/info/69189bf815b41563671830c6?utm_campaign=1047&utm_source=git)** | Waukesha, WI | On Site | Nov 15 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Product Development, Science, and Technology Intern](https://jobright.ai/jobs/info/691898dd45fb6f5ead8a612d?utm_campaign=1047&utm_source=git)** | North Chicago, IL | On Site | Nov 15 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Product Owner Graduate Intern](https://jobright.ai/jobs/info/69160bb49c388539cbdf76ce?utm_campaign=1047&utm_source=git)** | ME, Working at Home - Maine | Remote | Nov 13 |
 | ↳ | **[Summer 2026 Product Owner Graduate Intern](https://jobright.ai/jobs/info/69160af36f36db06ef0526df?utm_campaign=1047&utm_source=git)** | WI, Working at Home - Wisconsin | Remote | Nov 13 |
 | ↳ | **[Summer 2026 Product Owner Graduate Intern](https://jobright.ai/jobs/info/691609736f36db06ef052664?utm_campaign=1047&utm_source=git)** | PA, Working at Home - Pennsylvania | Remote | Nov 13 |
+| **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2026 Product Management, Technology - Sunrise, FL](https://jobright.ai/jobs/info/6918b22fbcdbf3560c9d3431?utm_campaign=1047&utm_source=git)** | Sunrise, FL | Hybrid | Nov 13 |
 | **[Pittsburgh Robotics Network](https://robopgh.org/)** | **[Intern - Product Management](https://jobright.ai/jobs/info/691671486f36db06ef0568fc?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Nov 13 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/6916469c9c388539cbdf9654?utm_campaign=1047&utm_source=git)** | Cincinnati, OH (USA) | Hybrid | Nov 13 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691600789c388539cbdf7341?utm_campaign=1047&utm_source=git)** | Tucson, AZ | Hybrid | Nov 13 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Credit Card Experiences Product Manager)](https://jobright.ai/jobs/info/68dbfa2f6f6c5c3fadf3586d?utm_campaign=1047&utm_source=git)** | Pensacola, FL | Hybrid | Nov 13 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691637a89c388539cbdf8c25?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Nov 13 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6916056c9c388539cbdf74e0?utm_campaign=1047&utm_source=git)** | Rochester, MN | Hybrid | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
