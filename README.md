@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trademarkia](http://www.trademarkia.com)** | **[Juris Doctorate Internship in AI Legal Product Design (Hybrid / $55–$65/hr / 15+ hrs/week)](https://jobright.ai/jobs/info/69199d99bcdbf3560c9d6c09?utm_campaign=1047&utm_source=git)** | Mountain View, CA | Hybrid | Nov 16 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Sr. Inbound Product Manager Intern (MBA) - Summer 2026](https://jobright.ai/jobs/info/68cd4a671ad6b16f028978fa?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Nov 15 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6917e75fbcdbf3560c9cc70b?utm_campaign=1047&utm_source=git)** | Redwood City, CA | Hybrid | Nov 15 |
 | **[Generac](https://www.generac.com/)** | **[Summer 2026 Product Management Intern](https://jobright.ai/jobs/info/69189bf815b41563671830c6?utm_campaign=1047&utm_source=git)** | Waukesha, WI | On Site | Nov 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Product Owner Graduate Intern](https://jobright.ai/jobs/info/69160af36f36db06ef0526df?utm_campaign=1047&utm_source=git)** | WI, Working at Home - Wisconsin | Remote | Nov 13 |
 | ↳ | **[Summer 2026 Product Owner Graduate Intern](https://jobright.ai/jobs/info/691609736f36db06ef052664?utm_campaign=1047&utm_source=git)** | PA, Working at Home - Pennsylvania | Remote | Nov 13 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2026 Product Management, Technology - Sunrise, FL](https://jobright.ai/jobs/info/6918b22fbcdbf3560c9d3431?utm_campaign=1047&utm_source=git)** | Sunrise, FL | Hybrid | Nov 13 |
-| **[Pittsburgh Robotics Network](https://robopgh.org/)** | **[Intern - Product Management](https://jobright.ai/jobs/info/691671486f36db06ef0568fc?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
