@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NexStratus](www.nexstratus.com)** | **[Product Strategy Intern – Financial Services & Banking](https://jobright.ai/jobs/info/6919f4d4bcdbf3560c9d790e?utm_campaign=1047&utm_source=git)** | Cary, NC | Hybrid | Nov 16 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Technical Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f70ece76a51a4307be08d2?utm_campaign=1047&utm_source=git)** | Middleton, WI | On Site | Nov 16 |
 | **[Trademarkia](http://www.trademarkia.com)** | **[Juris Doctorate Internship in AI Legal Product Design (Hybrid / $55–$65/hr / 15+ hrs/week)](https://jobright.ai/jobs/info/69199d99bcdbf3560c9d6c09?utm_campaign=1047&utm_source=git)** | Mountain View, CA | Hybrid | Nov 16 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Sr. Inbound Product Manager Intern (MBA) - Summer 2026](https://jobright.ai/jobs/info/68cd4a671ad6b16f028978fa?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Nov 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Product Owner Graduate Intern](https://jobright.ai/jobs/info/69160bb86f36db06ef052734?utm_campaign=1047&utm_source=git)** | TX, Working at Home - Texas | Remote | Nov 13 |
 | ↳ | **[Summer 2026 Product Owner Graduate Intern](https://jobright.ai/jobs/info/69160bb49c388539cbdf76ce?utm_campaign=1047&utm_source=git)** | ME, Working at Home - Maine | Remote | Nov 13 |
 | ↳ | **[Summer 2026 Product Owner Graduate Intern](https://jobright.ai/jobs/info/69160af36f36db06ef0526df?utm_campaign=1047&utm_source=git)** | WI, Working at Home - Wisconsin | Remote | Nov 13 |
-| ↳ | **[Summer 2026 Product Owner Graduate Intern](https://jobright.ai/jobs/info/691609736f36db06ef052664?utm_campaign=1047&utm_source=git)** | PA, Working at Home - Pennsylvania | Remote | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
