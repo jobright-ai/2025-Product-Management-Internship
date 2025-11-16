@@ -80,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Product Manager, Sales Platform](https://jobright.ai/jobs/info/68dffa52b99ec3563b0ca9cb?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Nov 15 |
 | ↳ | **[2026 Intern - Digital Imaging User Research](https://jobright.ai/jobs/info/68fc4f8993c49825ab10bd33?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 15 |
 | **[Sparkcentral by Hootsuite](http://www.sparkcentral.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/691871dc45fb6f5ead8a55fa?utm_campaign=1047&utm_source=git)** | Location, WV | On Site | Nov 15 |
+| **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Product Owner](https://jobright.ai/jobs/info/69197cd845fb6f5ead8a8e37?utm_campaign=1047&utm_source=git)** | Miami, FL | On Site | Nov 14 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern - Content Creation](https://jobright.ai/jobs/info/6918005dbcdbf3560c9cd898?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Nov 14 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6917f7be45fb6f5ead8a079d?utm_campaign=1047&utm_source=git)** | Everett, WA | Hybrid | Nov 14 |
 | **[Gusto](https://www.gusto.com)** | **[Product Management Intern (Summer 2026) - Master’s/MBA](https://jobright.ai/jobs/info/6917f5ccbcdbf3560c9cd094?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 14 |
@@ -115,6 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Micron Technology](http://www.micron.com)** | **[Intern - MCBU NPI Manager](https://jobright.ai/jobs/info/68facb0267272b29af733936?utm_campaign=1047&utm_source=git)** | Boise, ID | On Site | Nov 14 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Product Specialist](https://jobright.ai/jobs/info/6918266a15b415636717f17b?utm_campaign=1047&utm_source=git)** | Maryland Heights, MO | On Site | Nov 14 |
 | ↳ | **[Intern - Product Specialist](https://jobright.ai/jobs/info/691769853ea85638ae1ca679?utm_campaign=1047&utm_source=git)** | Maryland Heights, Missouri | On Site | Nov 14 |
+| **[Nestlé Nespresso SA](http://www.nespresso.com)** | **[Nespresso B2B Commercial Development Internship](https://jobright.ai/jobs/info/69197dbb15b4156367185d85?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 13 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/6916a69f9c388539cbdfd8c5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 13 |
 | **[IBM](http://www.ibm.com)** | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/6916a323286ccf0a151381d2?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Nov 13 |
 | ↳ | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/6916a3146f36db06ef0588b9?utm_campaign=1047&utm_source=git)** | Research Park, CA | Hybrid | Nov 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Product Owner Graduate Intern](https://jobright.ai/jobs/info/691609736f36db06ef052664?utm_campaign=1047&utm_source=git)** | PA, Working at Home - Pennsylvania | Remote | Nov 13 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2026 Product Management, Technology - Sunrise, FL](https://jobright.ai/jobs/info/6918b22fbcdbf3560c9d3431?utm_campaign=1047&utm_source=git)** | Sunrise, FL | Hybrid | Nov 13 |
 | **[Pittsburgh Robotics Network](https://robopgh.org/)** | **[Intern - Product Management](https://jobright.ai/jobs/info/691671486f36db06ef0568fc?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Nov 13 |
-| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/6916469c9c388539cbdf9654?utm_campaign=1047&utm_source=git)** | Cincinnati, OH (USA) | Hybrid | Nov 13 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691600789c388539cbdf7341?utm_campaign=1047&utm_source=git)** | Tucson, AZ | Hybrid | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
