@@ -57,11 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Product Development Intern](https://jobright.ai/jobs/info/691b1c32bcdbf3560c9dcb00?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 17 |
 | **[Crown Fund](Crownfund.co)** | **[Product Development Intern](https://jobright.ai/jobs/info/691af1d615b415636718c1f2?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Nov 17 |
 | **[ModMed](https://www.modmed.com)** | **[Product Development Summer 2026 Internship](https://jobright.ai/jobs/info/68eeb96ce0db92422580a57c?utm_campaign=1047&utm_source=git)** | Boca Raton, Florida | Hybrid | Nov 17 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Product Management Internship (MBA)](https://jobright.ai/jobs/info/68dc5fa9accfd24b67e54e45?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Nov 16 |
-| **[NexStratus](www.nexstratus.com)** | **[Product Strategy Intern – Financial Services & Banking](https://jobright.ai/jobs/info/6919f4d4bcdbf3560c9d790e?utm_campaign=1047&utm_source=git)** | Cary, NC | Hybrid | Nov 16 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Technical Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f70ece76a51a4307be08d2?utm_campaign=1047&utm_source=git)** | Middleton, WI | On Site | Nov 16 |
 | **[Trademarkia](http://www.trademarkia.com)** | **[Juris Doctorate Internship in AI Legal Product Design (Hybrid / $55–$65/hr / 15+ hrs/week)](https://jobright.ai/jobs/info/69199d99bcdbf3560c9d6c09?utm_campaign=1047&utm_source=git)** | Mountain View, CA | Hybrid | Nov 16 |
 | **[Nestlé](https://www.nestle.com)** | **[Nestlé Product Development Intern](https://jobright.ai/jobs/info/691acb9c45fb6f5ead8ada04?utm_campaign=1047&utm_source=git)** | Solon, OH | On Site | Nov 15 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Product Owner Graduate Intern](https://jobright.ai/jobs/info/69160f6a9c388539cbdf782e?utm_campaign=1047&utm_source=git)** | MO, Working at Home - Montana | Remote | Nov 13 |
 | ↳ | **[Summer 2026 Product Owner Graduate Intern](https://jobright.ai/jobs/info/69160e41286ccf0a151322ac?utm_campaign=1047&utm_source=git)** | MD, Working at Home - Maryland | Remote | Nov 13 |
 | ↳ | **[Summer 2026 Product Owner Graduate Intern](https://jobright.ai/jobs/info/69160e076f36db06ef0527a9?utm_campaign=1047&utm_source=git)** | CO, Working at Home - Colorado | Remote | Nov 13 |
+| ↳ | **[Summer 2026 Product Owner Graduate Intern](https://jobright.ai/jobs/info/69160d5f6f36db06ef052786?utm_campaign=1047&utm_source=git)** | UT, Working at Home - Utah | Remote | Nov 13 |
+| ↳ | **[Summer 2026 Product Owner Graduate Intern](https://jobright.ai/jobs/info/69160d5b286ccf0a1513224b?utm_campaign=1047&utm_source=git)** | OR, Working at Home - Oregon | Remote | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
