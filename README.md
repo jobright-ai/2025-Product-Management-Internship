@@ -57,18 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zoox](https://www.zoox.com/)** | **[Technical Product Management Intern, Agentic AI](https://jobright.ai/jobs/info/691be97622a2cb4b9bd176fd?utm_campaign=1047&utm_source=git)** | Foster City, CA | Hybrid | Nov 17 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Product Management](https://jobright.ai/jobs/info/691bc41cbcdbf3560c9e265e?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Nov 17 |
 | **[Oracle](https://www.oracle.com/)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/691bb6a215b4156367191f71?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 17 |
 | ↳ | **[Product Strategy Intern](https://jobright.ai/jobs/info/691baf5622a2cb4b9bd14f19?utm_campaign=1047&utm_source=git)** | Redwood City, CA | On Site | Nov 17 |
-| ↳ | **[Product Strategy Intern](https://jobright.ai/jobs/info/691bbfadbcdbf3560c9e223f?utm_campaign=1047&utm_source=git)** | Nashville, TN | On Site | Nov 17 |
+| **[First Quality](http://firstquality.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/691bd10d22a2cb4b9bd16644?utm_campaign=1047&utm_source=git)** | US PA McElhattan | On Site | Nov 17 |
+| **[Oracle](https://www.oracle.com/)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/691bbfadbcdbf3560c9e223f?utm_campaign=1047&utm_source=git)** | Nashville, TN | On Site | Nov 17 |
+| ↳ | **[Product Strategy Intern](https://jobright.ai/jobs/info/691bd54122a2cb4b9bd16a3c?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Nov 17 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc. Footwear Product Line Management Intern](https://jobright.ai/jobs/info/691bbc0fbcdbf3560c9e1f81?utm_campaign=1047&utm_source=git)** | Beaverton, Oregon | On Site | Nov 17 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/691bbde322a2cb4b9bd15854?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 17 |
 | **[Big Viking Games](https://www.bigvikinggames.com/)** | **[Product Intern (Hybrid)](https://jobright.ai/jobs/info/691bc74a15b4156367192b4b?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 17 |
 | **[Oracle](https://www.oracle.com/)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/691b908b22a2cb4b9bd139d4?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 17 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[ALM Product Management Intern](https://jobright.ai/jobs/info/691bbd4e15b4156367192319?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Nov 17 |
+| **[PayPal](https://www.paypal.com/home)** | **[Venmo Product Growth Intern - MBA](https://jobright.ai/jobs/info/691bd45522a2cb4b9bd16960?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Nov 17 |
 | **[Zoox](https://www.zoox.com/)** | **[Technical Product Management Intern, Agentic AI](https://jobright.ai/jobs/info/691ba38815b415636719132d?utm_campaign=1047&utm_source=git)** | Foster City, CA | Hybrid | Nov 17 |
 | **[First Chicago Insurance Company](https://www.firstchicagoinsurance.com/)** | **[Product Analysis Intern](https://jobright.ai/jobs/info/691b9c65bcdbf3560c9e0b7f?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Nov 17 |
 | **[Welldoc](https://www.welldoc.com)** | **[Bi-lingual Clinical Intern](https://jobright.ai/jobs/info/691b7ae415b415636718f68b?utm_campaign=1047&utm_source=git)** | Columbia, Maryland, United States | Hybrid | Nov 17 |
+| **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern  E&C Large](https://jobright.ai/jobs/info/691bd13322a2cb4b9bd1666d?utm_campaign=1047&utm_source=git)** | US-IL-Niles | Hybrid | Nov 17 |
 | **[IDEAL INDUSTRIES, INC](http://www.idealindustries.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/691b8ce922a2cb4b9bd1383b?utm_campaign=1047&utm_source=git)** | Sycamore, IL | On Site | Nov 17 |
 | **[Okta](http://www.okta.com)** | **[MBA Product Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/691b67f3bcdbf3560c9de98b?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | On Site | Nov 17 |
 | **[PayPal](https://www.paypal.com/home)** | **[Venmo Product Growth Intern - MBA](https://jobright.ai/jobs/info/691bbed022a2cb4b9bd15939?utm_campaign=1047&utm_source=git)** | San Jose, California, United States of America | Hybrid | Nov 17 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Product Owner Graduate Intern](https://jobright.ai/jobs/info/691666cb286ccf0a1513567a?utm_campaign=1047&utm_source=git)** | Erie-Meadville Area | On Site | Nov 13 |
 | **[Tencent](https://www.tencent.com/)** | **[Data Product Intern](https://jobright.ai/jobs/info/691654819c388539cbdf9fea?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | On Site | Nov 13 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2026 Product Management, Technology - New York, NY](https://jobright.ai/jobs/info/6918cf93bcdbf3560c9d39b5?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 13 |
-| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/691645fd6f36db06ef0547b5?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 13 |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Product Owner Graduate Intern](https://jobright.ai/jobs/info/691618086f36db06ef052e63?utm_campaign=1047&utm_source=git)** | WY, Working at Home - Wyoming | Remote | Nov 13 |
-| ↳ | **[Summer 2026 Product Owner Graduate Intern](https://jobright.ai/jobs/info/691617fb6f36db06ef052e57?utm_campaign=1047&utm_source=git)** | NE, Working at Home - Nebraska | Remote | Nov 13 |
-| ↳ | **[Summer 2026 Product Owner Graduate Intern](https://jobright.ai/jobs/info/691616956f36db06ef052da9?utm_campaign=1047&utm_source=git)** | VT, Working at Home - Vermont | Remote | Nov 13 |
-| ↳ | **[Summer 2026 Product Owner Graduate Intern](https://jobright.ai/jobs/info/691616306f36db06ef052d7f?utm_campaign=1047&utm_source=git)** | CT, Working at Home - Conneticut | Remote | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
