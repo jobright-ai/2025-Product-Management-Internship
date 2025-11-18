@@ -57,29 +57,33 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Technical Product Intern](https://jobright.ai/jobs/info/691cc918ff7024498416a5b8?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 18 |
+| **[Riot Games](http://www.riotgames.com)** | **[Insights Analyst Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69092852d046ab6061cd2427?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Remote | Nov 18 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Technical Product Intern](https://jobright.ai/jobs/info/691c985aff70244984168bfa?utm_campaign=1047&utm_source=git)** | Cincinnati, OH (USA) | Hybrid | Nov 18 |
 | **[Glean](https://www.glean.com)** | **[Product Management, Intern (Fall 2025)](https://jobright.ai/jobs/info/68e456f0b99ec3563b0e95fb?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Nov 18 |
 | **[Publicis Sapient](https://www.publicissapient.com)** | **[Product Manager Intern (Class of 2027)](https://jobright.ai/jobs/info/68f6d15176a51a4307bde66f?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Nov 18 |
+| **[KHAITE](https://khaite.com/)** | **[Product Development & Production, Non-Apparel Intern, Spring 2026](https://jobright.ai/jobs/info/68ffdddee0c73b3a1119f92f?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 18 |
+| **[Workato](http://www.workato.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/691cc14922a2cb4b9bd1cdd4?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Nov 18 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Product Strategy Intern](https://jobright.ai/jobs/info/68e47bd3b99ec3563b0eac15?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 18 |
 | **[Ubisoft](https://www.ubisoft.com)** | **[Communication - Publishing Product Intern](https://jobright.ai/jobs/info/691c8afebcdbf3560c9e7c70?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Nov 18 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Product Intern](https://jobright.ai/jobs/info/68e47b28b99ec3563b0eab75?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 18 |
 | **[Workato](http://www.workato.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/691c6c0d22a2cb4b9bd1aa9a?utm_campaign=1047&utm_source=git)** | Palo Alto, California | On Site | Nov 18 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Deposit Product Intern](https://jobright.ai/jobs/info/691c98be22a2cb4b9bd1b961?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Nov 18 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management/Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/69075ed8ff462851fe008ca8?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Nov 18 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Product Intern](https://jobright.ai/jobs/info/68e47db3b99ec3563b0eae11?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 18 |
+| **[Everspring](http://everspringpartners.com)** | **[Director of Product Portfolio Development](https://jobright.ai/jobs/info/68e467e21852e62f00805748?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Nov 18 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Video Product](https://jobright.ai/jobs/info/691ac00715b415636718a610?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Nov 18 |
 | **[Lumen Technologies](https://www.lumen.com)** | **[Intern - Product Management - Vyvx Operations - Summer 2026](https://jobright.ai/jobs/info/68f9bb7ecadb2e5a06a675df?utm_campaign=1047&utm_source=git)** | Tulsa, OK | On Site | Nov 18 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Product Management MBA Intern](https://jobright.ai/jobs/info/68e459351852e62f00804edf?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Nov 18 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc. Footwear Product Line Management Intern](https://jobright.ai/jobs/info/691c40c422a2cb4b9bd19ef4?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Nov 18 |
 | **[Amperity](https://amperity.com)** | **[Product Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/691bedb022a2cb4b9bd179ae?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Nov 17 |
-| **[Careers @ Graham Packaging](http://grahamishiring.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/691c42a6ff70244984167193?utm_campaign=1047&utm_source=git)** | York, PA | On Site | Nov 17 |
 | **[Zoox](https://www.zoox.com/)** | **[Technical Product Management Intern, Agentic AI](https://jobright.ai/jobs/info/691be97622a2cb4b9bd176fd?utm_campaign=1047&utm_source=git)** | Foster City, CA | Hybrid | Nov 17 |
 | **[HMH](https://hmhw.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/691bef1a22a2cb4b9bd17aac?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Nov 17 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Product Management](https://jobright.ai/jobs/info/691bc41cbcdbf3560c9e265e?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Nov 17 |
 | **[Oracle](https://www.oracle.com/)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/691bb6a215b4156367191f71?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 17 |
 | ↳ | **[Product Strategy Intern](https://jobright.ai/jobs/info/691baf5622a2cb4b9bd14f19?utm_campaign=1047&utm_source=git)** | Redwood City, CA | On Site | Nov 17 |
 | **[First Quality](http://firstquality.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/691bd10d22a2cb4b9bd16644?utm_campaign=1047&utm_source=git)** | US PA McElhattan | On Site | Nov 17 |
-| **[Oracle](https://www.oracle.com/)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/691bbfadbcdbf3560c9e223f?utm_campaign=1047&utm_source=git)** | Nashville, TN | On Site | Nov 17 |
-| ↳ | **[Product Strategy Intern](https://jobright.ai/jobs/info/691bd54122a2cb4b9bd16a3c?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Nov 17 |
+| **[Oracle](https://www.oracle.com/)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/691bd54122a2cb4b9bd16a3c?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Nov 17 |
+| ↳ | **[Product Strategy Intern](https://jobright.ai/jobs/info/691bbfadbcdbf3560c9e223f?utm_campaign=1047&utm_source=git)** | Nashville, TN | On Site | Nov 17 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc. Footwear Product Line Management Intern](https://jobright.ai/jobs/info/691bbc0fbcdbf3560c9e1f81?utm_campaign=1047&utm_source=git)** | Beaverton, Oregon | On Site | Nov 17 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/691bbde322a2cb4b9bd15854?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 17 |
 | **[Big Viking Games](https://www.bigvikinggames.com/)** | **[Product Intern (Hybrid)](https://jobright.ai/jobs/info/691bc74a15b4156367192b4b?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern [TikTok-Product-Privacy and Responsibility]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688f021de5cead4afd45fb3f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 14 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/6916d0709c388539cbdfed61?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 14 |
 | ↳ | **[Product Manager Intern (TikTok Shop IPR Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6916e6349c388539cbdff77c?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 14 |
-| ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd18b31ad6b16f02894c64?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 14 |
-| **[The Toro Company](https://www.thetorocompany.com)** | **[New Product Development (NPD) Sourcing Intern - Ditch Witch](https://jobright.ai/jobs/info/68cd208f1ad6b16f0289550e?utm_campaign=1047&utm_source=git)** | Noble County, OK | On Site | Nov 14 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern - MCBU NPI Manager](https://jobright.ai/jobs/info/68facb0267272b29af733936?utm_campaign=1047&utm_source=git)** | Boise, ID | On Site | Nov 14 |
-| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Product Specialist](https://jobright.ai/jobs/info/6918266a15b415636717f17b?utm_campaign=1047&utm_source=git)** | Maryland Heights, MO | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
