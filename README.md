@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Glean](https://www.glean.com)** | **[Product Management, Intern (Fall 2025)](https://jobright.ai/jobs/info/68e456f0b99ec3563b0e95fb?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Nov 18 |
+| **[Publicis Sapient](https://www.publicissapient.com)** | **[Product Manager Intern (Class of 2027)](https://jobright.ai/jobs/info/68f6d15176a51a4307bde66f?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Nov 18 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Product Strategy Intern](https://jobright.ai/jobs/info/68e47bd3b99ec3563b0eac15?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 18 |
-| ↳ | **[Summer 2026 Internship - Product Intern](https://jobright.ai/jobs/info/68e47b28b99ec3563b0eab75?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 18 |
+| **[Ubisoft](https://www.ubisoft.com)** | **[Communication - Publishing Product Intern](https://jobright.ai/jobs/info/691c8afebcdbf3560c9e7c70?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Nov 18 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Product Intern](https://jobright.ai/jobs/info/68e47b28b99ec3563b0eab75?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 18 |
 | **[Workato](http://www.workato.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/691c6c0d22a2cb4b9bd1aa9a?utm_campaign=1047&utm_source=git)** | Palo Alto, California | On Site | Nov 18 |
-| **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/68cd083db2a74e1837ed0ae4?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Nov 18 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management/Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/69075ed8ff462851fe008ca8?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Nov 18 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Video Product](https://jobright.ai/jobs/info/691ac00715b415636718a610?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Nov 18 |
 | **[Lumen Technologies](https://www.lumen.com)** | **[Intern - Product Management - Vyvx Operations - Summer 2026](https://jobright.ai/jobs/info/68f9bb7ecadb2e5a06a675df?utm_campaign=1047&utm_source=git)** | Tulsa, OK | On Site | Nov 18 |
@@ -69,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Amperity](https://amperity.com)** | **[Product Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/691bedb022a2cb4b9bd179ae?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Nov 17 |
 | **[Careers @ Graham Packaging](http://grahamishiring.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/691c42a6ff70244984167193?utm_campaign=1047&utm_source=git)** | York, PA | On Site | Nov 17 |
 | **[Zoox](https://www.zoox.com/)** | **[Technical Product Management Intern, Agentic AI](https://jobright.ai/jobs/info/691be97622a2cb4b9bd176fd?utm_campaign=1047&utm_source=git)** | Foster City, CA | Hybrid | Nov 17 |
-| **[Acuity](http://www.acuitybrands.com)** | **[Product Management Intern - Technology](https://jobright.ai/jobs/info/691c199b15b4156367195d7b?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Nov 17 |
 | **[HMH](https://hmhw.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/691bef1a22a2cb4b9bd17aac?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Nov 17 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Product Management](https://jobright.ai/jobs/info/691bc41cbcdbf3560c9e265e?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Nov 17 |
 | **[Oracle](https://www.oracle.com/)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/691bb6a215b4156367191f71?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 17 |
@@ -100,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[ServiceNow](http://www.servicenow.com)** | **[Sr. Inbound Product Manager Intern (MBA) - Summer 2026](https://jobright.ai/jobs/info/68cd4a671ad6b16f028978fa?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Nov 15 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6917e75fbcdbf3560c9cc70b?utm_campaign=1047&utm_source=git)** | Redwood City, CA | Hybrid | Nov 15 |
 | **[Generac](https://www.generac.com/)** | **[Summer 2026 Product Management Intern](https://jobright.ai/jobs/info/69189bf815b41563671830c6?utm_campaign=1047&utm_source=git)** | Waukesha, WI | On Site | Nov 15 |
-| **[BioSpace](http://www.biospace.com/)** | **[2026 Product Development, Science, and Technology Intern](https://jobright.ai/jobs/info/691898dd45fb6f5ead8a612d?utm_campaign=1047&utm_source=git)** | North Chicago, IL | On Site | Nov 15 |
 | **[Henkel](http://www.henkel.com)** | **[Pricing & Product Portfolio Intern – Summer 2026](https://jobright.ai/jobs/info/68cf03c3846f0b04af67e905?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ | Hybrid | Nov 15 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Product Manager Intern (Masters Degree) - Summer 2026](https://jobright.ai/jobs/info/68cd7963e23def7af55ba506?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Nov 15 |
 | **[Henkel](http://www.henkel.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68cb966dba798c1a501d2713?utm_campaign=1047&utm_source=git)** | Irvine, CA | Hybrid | Nov 15 |
