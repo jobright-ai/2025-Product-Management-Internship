@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Video Product](https://jobright.ai/jobs/info/691ac00715b415636718a610?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Nov 18 |
+| **[Lumen Technologies](https://www.lumen.com)** | **[Intern - Product Management - Vyvx Operations - Summer 2026](https://jobright.ai/jobs/info/68f9bb7ecadb2e5a06a675df?utm_campaign=1047&utm_source=git)** | Tulsa, OK | On Site | Nov 18 |
+| **[Nike](http://www.nike.com)** | **[NIKE, Inc. Footwear Product Line Management Intern](https://jobright.ai/jobs/info/691c40c422a2cb4b9bd19ef4?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Nov 18 |
 | **[Amperity](https://amperity.com)** | **[Product Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/691bedb022a2cb4b9bd179ae?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Nov 17 |
+| **[Careers @ Graham Packaging](http://grahamishiring.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/691c42a6ff70244984167193?utm_campaign=1047&utm_source=git)** | York, PA | On Site | Nov 17 |
 | **[Zoox](https://www.zoox.com/)** | **[Technical Product Management Intern, Agentic AI](https://jobright.ai/jobs/info/691be97622a2cb4b9bd176fd?utm_campaign=1047&utm_source=git)** | Foster City, CA | Hybrid | Nov 17 |
 | **[Acuity](http://www.acuitybrands.com)** | **[Product Management Intern - Technology](https://jobright.ai/jobs/info/691c199b15b4156367195d7b?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Nov 17 |
 | **[HMH](https://hmhw.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/691bef1a22a2cb4b9bd17aac?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Nov 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/69169fe96f36db06ef0586e7?utm_campaign=1047&utm_source=git)** | Tucson, AZ | Hybrid | Nov 13 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69169d3c6f36db06ef058565?utm_campaign=1047&utm_source=git)** | Everett, WA | On Site | Nov 13 |
 | **[IBM](http://www.ibm.com)** | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/69169bf1286ccf0a15137e61?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Nov 13 |
-| ↳ | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/6916977a9c388539cbdfd039?utm_campaign=1047&utm_source=git)** | Houston, TX | Hybrid | Nov 13 |
-| **[Cisco](http://www.cisco.com)** | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/6916a64f9c388539cbdfd89d?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Nov 13 |
-| **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/69168f4b286ccf0a151376ba?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 13 |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Product Owner Graduate Intern](https://jobright.ai/jobs/info/691666cb286ccf0a1513567a?utm_campaign=1047&utm_source=git)** | Erie-Meadville Area | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
