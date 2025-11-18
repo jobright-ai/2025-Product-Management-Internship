@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Technical Product Intern](https://jobright.ai/jobs/info/691c985aff70244984168bfa?utm_campaign=1047&utm_source=git)** | Cincinnati, OH (USA) | Hybrid | Nov 18 |
 | **[Glean](https://www.glean.com)** | **[Product Management, Intern (Fall 2025)](https://jobright.ai/jobs/info/68e456f0b99ec3563b0e95fb?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Nov 18 |
 | **[Publicis Sapient](https://www.publicissapient.com)** | **[Product Manager Intern (Class of 2027)](https://jobright.ai/jobs/info/68f6d15176a51a4307bde66f?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Nov 18 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Product Strategy Intern](https://jobright.ai/jobs/info/68e47bd3b99ec3563b0eac15?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 18 |
 | **[Ubisoft](https://www.ubisoft.com)** | **[Communication - Publishing Product Intern](https://jobright.ai/jobs/info/691c8afebcdbf3560c9e7c70?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Nov 18 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Product Intern](https://jobright.ai/jobs/info/68e47b28b99ec3563b0eab75?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 18 |
 | **[Workato](http://www.workato.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/691c6c0d22a2cb4b9bd1aa9a?utm_campaign=1047&utm_source=git)** | Palo Alto, California | On Site | Nov 18 |
+| **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Deposit Product Intern](https://jobright.ai/jobs/info/691c98be22a2cb4b9bd1b961?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Nov 18 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management/Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/69075ed8ff462851fe008ca8?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Nov 18 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Video Product](https://jobright.ai/jobs/info/691ac00715b415636718a610?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Nov 18 |
 | **[Lumen Technologies](https://www.lumen.com)** | **[Intern - Product Management - Vyvx Operations - Summer 2026](https://jobright.ai/jobs/info/68f9bb7ecadb2e5a06a675df?utm_campaign=1047&utm_source=git)** | Tulsa, OK | On Site | Nov 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Toro Company](https://www.thetorocompany.com)** | **[New Product Development (NPD) Sourcing Intern - Ditch Witch](https://jobright.ai/jobs/info/68cd208f1ad6b16f0289550e?utm_campaign=1047&utm_source=git)** | Noble County, OK | On Site | Nov 14 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - MCBU NPI Manager](https://jobright.ai/jobs/info/68facb0267272b29af733936?utm_campaign=1047&utm_source=git)** | Boise, ID | On Site | Nov 14 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Product Specialist](https://jobright.ai/jobs/info/6918266a15b415636717f17b?utm_campaign=1047&utm_source=git)** | Maryland Heights, MO | On Site | Nov 14 |
-| ↳ | **[Intern - Product Specialist](https://jobright.ai/jobs/info/691769853ea85638ae1ca679?utm_campaign=1047&utm_source=git)** | Maryland Heights, Missouri | On Site | Nov 14 |
-| **[Nestlé Nespresso SA](http://www.nespresso.com)** | **[Nespresso B2B Commercial Development Internship](https://jobright.ai/jobs/info/69197dbb15b4156367185d85?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
