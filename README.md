@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amperity](https://amperity.com)** | **[Product Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/691bedb022a2cb4b9bd179ae?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Nov 17 |
 | **[Zoox](https://www.zoox.com/)** | **[Technical Product Management Intern, Agentic AI](https://jobright.ai/jobs/info/691be97622a2cb4b9bd176fd?utm_campaign=1047&utm_source=git)** | Foster City, CA | Hybrid | Nov 17 |
+| **[HMH](https://hmhw.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/691bef1a22a2cb4b9bd17aac?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Nov 17 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Product Management](https://jobright.ai/jobs/info/691bc41cbcdbf3560c9e265e?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Nov 17 |
 | **[Oracle](https://www.oracle.com/)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/691bb6a215b4156367191f71?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 17 |
 | ↳ | **[Product Strategy Intern](https://jobright.ai/jobs/info/691baf5622a2cb4b9bd14f19?utm_campaign=1047&utm_source=git)** | Redwood City, CA | On Site | Nov 17 |
 | **[First Quality](http://firstquality.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/691bd10d22a2cb4b9bd16644?utm_campaign=1047&utm_source=git)** | US PA McElhattan | On Site | Nov 17 |
-| **[Oracle](https://www.oracle.com/)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/691bbfadbcdbf3560c9e223f?utm_campaign=1047&utm_source=git)** | Nashville, TN | On Site | Nov 17 |
-| ↳ | **[Product Strategy Intern](https://jobright.ai/jobs/info/691bd54122a2cb4b9bd16a3c?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Nov 17 |
+| **[Oracle](https://www.oracle.com/)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/691bd54122a2cb4b9bd16a3c?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Nov 17 |
+| ↳ | **[Product Strategy Intern](https://jobright.ai/jobs/info/691bbfadbcdbf3560c9e223f?utm_campaign=1047&utm_source=git)** | Nashville, TN | On Site | Nov 17 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc. Footwear Product Line Management Intern](https://jobright.ai/jobs/info/691bbc0fbcdbf3560c9e1f81?utm_campaign=1047&utm_source=git)** | Beaverton, Oregon | On Site | Nov 17 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/691bbde322a2cb4b9bd15854?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 17 |
 | **[Big Viking Games](https://www.bigvikinggames.com/)** | **[Product Intern (Hybrid)](https://jobright.ai/jobs/info/691bc74a15b4156367192b4b?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/6916a64f9c388539cbdfd89d?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Nov 13 |
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/69168f4b286ccf0a151376ba?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 13 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Product Owner Graduate Intern](https://jobright.ai/jobs/info/691666cb286ccf0a1513567a?utm_campaign=1047&utm_source=git)** | Erie-Meadville Area | On Site | Nov 13 |
-| **[Tencent](https://www.tencent.com/)** | **[Data Product Intern](https://jobright.ai/jobs/info/691654819c388539cbdf9fea?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | On Site | Nov 13 |
-| **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2026 Product Management, Technology - New York, NY](https://jobright.ai/jobs/info/6918cf93bcdbf3560c9d39b5?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
