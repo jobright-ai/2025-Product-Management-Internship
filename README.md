@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Amperity](https://amperity.com)** | **[Product Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/691bedb022a2cb4b9bd179ae?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Nov 17 |
 | **[Zoox](https://www.zoox.com/)** | **[Technical Product Management Intern, Agentic AI](https://jobright.ai/jobs/info/691be97622a2cb4b9bd176fd?utm_campaign=1047&utm_source=git)** | Foster City, CA | Hybrid | Nov 17 |
+| **[Acuity](http://www.acuitybrands.com)** | **[Product Management Intern - Technology](https://jobright.ai/jobs/info/691c199b15b4156367195d7b?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Nov 17 |
 | **[HMH](https://hmhw.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/691bef1a22a2cb4b9bd17aac?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Nov 17 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[2026 US Summer Internships - Product Management](https://jobright.ai/jobs/info/691bc41cbcdbf3560c9e265e?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Nov 17 |
 | **[Oracle](https://www.oracle.com/)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/691bb6a215b4156367191f71?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 17 |
@@ -84,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[ModMed](https://www.modmed.com)** | **[Product Development Summer 2026 Internship](https://jobright.ai/jobs/info/68eeb96ce0db92422580a57c?utm_campaign=1047&utm_source=git)** | Boca Raton, Florida | Hybrid | Nov 17 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Product Management Internship (MBA)](https://jobright.ai/jobs/info/68dc5fa9accfd24b67e54e45?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Nov 16 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Technical Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f70ece76a51a4307be08d2?utm_campaign=1047&utm_source=git)** | Middleton, WI | On Site | Nov 16 |
-| **[Trademarkia](http://www.trademarkia.com)** | **[Juris Doctorate Internship in AI Legal Product Design (Hybrid / $55–$65/hr / 15+ hrs/week)](https://jobright.ai/jobs/info/69199d99bcdbf3560c9d6c09?utm_campaign=1047&utm_source=git)** | Mountain View, CA | Hybrid | Nov 16 |
 | **[Nestlé](https://www.nestle.com)** | **[Nestlé Product Development Intern](https://jobright.ai/jobs/info/691acb9c45fb6f5ead8ada04?utm_campaign=1047&utm_source=git)** | Solon, OH | On Site | Nov 15 |
 | ↳ | **[Nestlé R&D Product Development Intern](https://jobright.ai/jobs/info/691abe0c45fb6f5ead8ad602?utm_campaign=1047&utm_source=git)** | Solon, OH | On Site | Nov 15 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Sr. Inbound Product Manager Intern (MBA) - Summer 2026](https://jobright.ai/jobs/info/68cd4a671ad6b16f028978fa?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Nov 15 |
