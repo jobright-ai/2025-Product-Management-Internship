@@ -57,9 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Santander](https://www.santander.com/)** | **[Digital Products Intern](https://jobright.ai/jobs/info/691dfc2ea49a885af9a233a3?utm_campaign=1047&utm_source=git)** | Boston | On Site | Nov 19 |
+| ↳ | **[Digital Products Intern](https://jobright.ai/jobs/info/691dfb06a49a885af9a2329f?utm_campaign=1047&utm_source=git)** | Miami Coconut Grove Corp | On Site | Nov 19 |
+| **[Schneider](https://schneider.com)** | **[Product Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69025195ff462851fefe1d32?utm_campaign=1047&utm_source=git)** | Green Bay, WI | On Site | Nov 19 |
+| **[Santander](https://www.santander.com/)** | **[Digital Products Intern](https://jobright.ai/jobs/info/691dfa2009cc522e8773457e?utm_campaign=1047&utm_source=git)** | New York | On Site | Nov 19 |
+| ↳ | **[Digital Products Intern](https://jobright.ai/jobs/info/691df7953f782d2f1afaf22b?utm_campaign=1047&utm_source=git)** | Madison Ave Corp | On Site | Nov 19 |
+| **[Ingredion Incorporated](http://ingredion.com)** | **[Global Product Portfolio Intern](https://jobright.ai/jobs/info/68cfc097dbd9fb154edeaa0d?utm_campaign=1047&utm_source=git)** | Westchester, IL | Hybrid | Nov 19 |
 | **[AQR Capital Management](https://www.aqr.com)** | **[2026 Research Product Specialist Summer Intern](https://jobright.ai/jobs/info/68e51f57ae2b894b1d70ae81?utm_campaign=1047&utm_source=git)** | Greenwich, CT | On Site | Nov 19 |
 | **[State Street](http://www.statestreet.com)** | **[State Street Product Management Team - Business Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/691dd959748c4e1301ec94ca?utm_campaign=1047&utm_source=git)** | Boston, Massachusetts | On Site | Nov 19 |
 | **[SageSure](https://www.sagesure.com)** | **[Software Product Management Intern](https://jobright.ai/jobs/info/6902278598707b2b0fe6cc8b?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | On Site | Nov 19 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Development Intern, Ninja (May to August)](https://jobright.ai/jobs/info/68ce190ee23def7af55c2356?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Nov 19 |
+| **[State Street](http://www.statestreet.com)** | **[State Street Product Management Team - Business Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/691dfec8a49a885af9a2362a?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Nov 19 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Engineering MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68cd683fe23def7af55b98fe?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Nov 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Intern [Global Monetization Product and Technology]-2026 Summer (MBA)](https://jobright.ai/jobs/info/690156bc4539ea1f2141f57c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 19 |
 | **[Q2](https://www.q2.com)** | **[2026 Summer Internship - Product Management](https://jobright.ai/jobs/info/68e587edae2b894b1d7109ba?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 19 |
@@ -77,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[lululemon](http://shop.lululemon.com)** | **[Product Development Intern - Women's / Contract June-August 2026](https://jobright.ai/jobs/info/691cef62bcdbf3560c9eb693?utm_campaign=1047&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Nov 18 |
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/691cda95bcdbf3560c9ea742?utm_campaign=1047&utm_source=git)** | Littleton, CO | On Site | Nov 18 |
 | **[Electronic Theatre Controls](http://www.etcconnect.com/)** | **[Product Assurance Specialist Intern - Austin, Texas](https://jobright.ai/jobs/info/691cf8d822a2cb4b9bd1f5bf?utm_campaign=1047&utm_source=git)** | South Carolina, United States | On Site | Nov 18 |
-| **[Workwear Outfitters](https://www.wwof.com)** | **[Product Team Intern](https://jobright.ai/jobs/info/691ccfadbcdbf3560c9ea04b?utm_campaign=1047&utm_source=git)** | Nashville, TN | On Site | Nov 18 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Technical Product Intern](https://jobright.ai/jobs/info/691cc918ff7024498416a5b8?utm_campaign=1047&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 18 |
+| **[Workwear Outfitters](https://www.wwof.com)** | **[Product Team Intern (Spring Semester)](https://jobright.ai/jobs/info/691ccfadbcdbf3560c9ea04b?utm_campaign=1047&utm_source=git)** | Nashville, TN | On Site | Nov 18 |
 | **[Emerson Collective](http://emersoncollective.com)** | **[Summer Intern, Technology: CRM Products](https://jobright.ai/jobs/info/691cea3422a2cb4b9bd1eab7?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 18 |
 | **[Riot Games](http://www.riotgames.com)** | **[Insights Analyst Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69092852d046ab6061cd2427?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Remote | Nov 18 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Technical Product Intern](https://jobright.ai/jobs/info/691c985aff70244984168bfa?utm_campaign=1047&utm_source=git)** | Cincinnati, OH (USA) | Hybrid | Nov 18 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sparkcentral by Hootsuite](http://www.sparkcentral.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/691871dc45fb6f5ead8a55fa?utm_campaign=1047&utm_source=git)** | Location, WV | On Site | Nov 15 |
 | **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Product Development](https://jobright.ai/jobs/info/691ae6f1bcdbf3560c9db78a?utm_campaign=1047&utm_source=git)** | Hunt Valley, MD | On Site | Nov 15 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Product Owner](https://jobright.ai/jobs/info/69197cd845fb6f5ead8a8e37?utm_campaign=1047&utm_source=git)** | Miami, FL | On Site | Nov 14 |
-| **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern - Content Creation](https://jobright.ai/jobs/info/6918005dbcdbf3560c9cd898?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Nov 14 |
-| **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6917f7be45fb6f5ead8a079d?utm_campaign=1047&utm_source=git)** | Everett, WA | Hybrid | Nov 14 |
-| **[Gusto](https://www.gusto.com)** | **[Product Management Intern (Summer 2026) - Master’s/MBA](https://jobright.ai/jobs/info/6917f5ccbcdbf3560c9cd094?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 14 |
-| ↳ | **[Product Management Intern (Summer 2026) - Master’s/MBA](https://jobright.ai/jobs/info/6918028f15b415636717dc5b?utm_campaign=1047&utm_source=git)** | San Francisco, CA - Hybrid | Hybrid | Nov 14 |
-| **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern - Content Creation](https://jobright.ai/jobs/info/6917d896bcdbf3560c9cbf3a?utm_campaign=1047&utm_source=git)** | US-IL-Niles | Hybrid | Nov 14 |
-| **[Generac](https://www.generac.com/)** | **[Summer 2026 Product Management Intern](https://jobright.ai/jobs/info/6917ca8015b415636717b8e4?utm_campaign=1047&utm_source=git)** | Waukesha, WI - USA | On Site | Nov 14 |
-| **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate IT Product Intern - Summer 2026](https://jobright.ai/jobs/info/691791f145fb6f5ead89c24b?utm_campaign=1047&utm_source=git)** | Parsippany, NJ | On Site | Nov 14 |
-| **[DormWay](https://www.dormway.app/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6917b89f45fb6f5ead89dfe6?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
