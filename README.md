@@ -77,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Workato](http://www.workato.com)** | **[Intern, Product Management](https://jobright.ai/jobs/info/691c6c0d22a2cb4b9bd1aa9a?utm_campaign=1047&utm_source=git)** | Palo Alto, California | On Site | Nov 18 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Deposit Product Intern](https://jobright.ai/jobs/info/691c98be22a2cb4b9bd1b961?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Nov 18 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management/Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/69075ed8ff462851fe008ca8?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Nov 18 |
+| **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/691d4f55bcdbf3560c9efc19?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Nov 18 |
 | **[Everspring](http://everspringpartners.com)** | **[Director of Product Portfolio Development](https://jobright.ai/jobs/info/68e467e21852e62f00805748?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Nov 18 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Video Product](https://jobright.ai/jobs/info/691ac00715b415636718a610?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Nov 18 |
 | **[Lumen Technologies](https://www.lumen.com)** | **[Intern - Product Management - Vyvx Operations - Summer 2026](https://jobright.ai/jobs/info/68f9bb7ecadb2e5a06a675df?utm_campaign=1047&utm_source=git)** | Tulsa, OK | On Site | Nov 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern [TikTok-Product-Search Growth]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cc67477342c7623ae64528?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 14 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/68fb2e543c99cc1d96029630?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 14 |
 | ↳ | **[Product Manager Intern [TikTok LIVE-Recommend Product]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cdc3ebe23def7af55bf226?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 14 |
-| ↳ | **[Product Solutions and Operations Project Intern - Content and Service Ads- Fall 2025 (BS/ MS)](https://jobright.ai/jobs/info/68ce2156e23def7af55c2737?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
