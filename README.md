@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Product Service Strategy Intern](https://jobright.ai/jobs/info/68cf4673846f0b04af6801b8?utm_campaign=1047&utm_source=git)** | Olathe, KS | On Site | Nov 20 |
+| **[Apex Fintech Solutions](https://apexfintechsolutions.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68cedd15846f0b04af67d7f9?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Nov 20 |
 | **[Fulton Bank](https://www.fultonbank.com/)** | **[Intern - Commercial Product & Strategy](https://jobright.ai/jobs/info/691efdc709cc522e8773cef1?utm_campaign=1047&utm_source=git)** | Lancaster, PA | On Site | Nov 20 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Product Manager Intern (Spring 2026)](https://jobright.ai/jobs/info/69026fa6ff462851fefe2fe8?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Nov 20 |
 | **[Typeface](https://www.typeface.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/691ef97b09cc522e8773ce61?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Nov 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[Pricing & Product Portfolio Intern – Summer 2026](https://jobright.ai/jobs/info/68cf03c3846f0b04af67e905?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ | Hybrid | Nov 15 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Product Manager Intern (Masters Degree) - Summer 2026](https://jobright.ai/jobs/info/68cd7963e23def7af55ba506?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Nov 15 |
 | **[Henkel](http://www.henkel.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68cb966dba798c1a501d2713?utm_campaign=1047&utm_source=git)** | Irvine, CA | Hybrid | Nov 15 |
-| **[ServiceNow](http://www.servicenow.com)** | **[Sr. Outbound Product Manager Intern (MBA) - Summer 2026](https://jobright.ai/jobs/info/68cd5c31e23def7af55b8b1c?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Nov 15 |
-| **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68cd8ab5e23def7af55bb715?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | Hybrid | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
