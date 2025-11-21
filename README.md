@@ -78,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Gen](https://www.gendigital.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/691f83153f782d2f1afbd347?utm_campaign=1047&utm_source=git)** | USA - New York, New York | On Site | Nov 20 |
 | **[Rivian](http://www.rivian.com)** | **[Technical Product Management, MBA Intern - Summer 2026](https://jobright.ai/jobs/info/691f7d5309cc522e87741fea?utm_campaign=1047&utm_source=git)** | Palo Alto, California | On Site | Nov 20 |
 | ↳ | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/691f7c1ca49a885af9a30a94?utm_campaign=1047&utm_source=git)** | Palo Alto, California | On Site | Nov 20 |
-| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Product Management Intern- Government](https://jobright.ai/jobs/info/691f7b6709cc522e87741d7d?utm_campaign=1047&utm_source=git)** | Alpharetta, GA | On Site | Nov 20 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Agriculture Product Management Intern](https://jobright.ai/jobs/info/691f95fd3f782d2f1afbe482?utm_campaign=1047&utm_source=git)** | Westminster, CO | On Site | Nov 20 |
 | **[Insight](https://www.insight.com)** | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/691f97293f782d2f1afbe5d5?utm_campaign=1047&utm_source=git)** | Chandler, AZ | On Site | Nov 20 |
 | **[Promega Corporation](http://www.promega.com/es)** | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/691f773fa49a885af9a304e0?utm_campaign=1047&utm_source=git)** | Madison, Wisconsin | On Site | Nov 20 |
@@ -93,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Alliance Laundry Systems LLC](https://alliancelaundry.com/)** | **[Product Innovation Intern](https://jobright.ai/jobs/info/691f5faa09cc522e87740415?utm_campaign=1047&utm_source=git)** | Ripon, WI | Hybrid | Nov 20 |
 | **[ServiceNow](http://www.servicenow.com)** | **[ServiceNow Security Organization (SSO) - Associate Security Product Business Analyst Intern](https://jobright.ai/jobs/info/68d76551295f8e37655d78ac?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Nov 20 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Electric Measurement Product Management Intern](https://jobright.ai/jobs/info/691f5151a49a885af9a2e2bc?utm_campaign=1047&utm_source=git)** | Everett, WA | On Site | Nov 20 |
+| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Product Management Intern- Government](https://jobright.ai/jobs/info/691f28d4a49a885af9a2ca2d?utm_campaign=1047&utm_source=git)** | Alpharetta, GA | On Site | Nov 20 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/690b8b114a1b456627b102ce?utm_campaign=1047&utm_source=git)** | Dallas, TX | Hybrid | Nov 20 |
 | **[AAR](http://aarcorp.com)** | **[Product Line Rep Intern: Parts Supply](https://jobright.ai/jobs/info/69024bf300a1816c41e9caed?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | Nov 20 |
 | ↳ | **[Product Line Rep Intern: Commercial Distribution](https://jobright.ai/jobs/info/690233a798707b2b0fe6d0d4?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | Nov 20 |
@@ -144,6 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Pentair](http://www.pentair.com)** | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68c82d06f9c6ff7aedf0badd?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | On Site | Nov 19 |
 | ↳ | **[Product Management Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68c663dcdb52c07d28848282?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | On Site | Nov 19 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[MBA Product Management Internship](https://jobright.ai/jobs/info/690bc3454a1b456627b12730?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Nov 19 |
+| **[Everspring](http://everspringpartners.com)** | **[Director of Product Portfolio Development](https://jobright.ai/jobs/info/692058b5a49a885af9a38f53?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Nov 19 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc. Footwear Product Line Management Undergraduate Internship](https://jobright.ai/jobs/info/691c40c422a2cb4b9bd19ef4?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Nov 18 |
 | **[Olin](http://www.olin.com/)** | **[Product Management Intern - 2026](https://jobright.ai/jobs/info/691d1fb87481340785ed40c3?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Nov 18 |
 | ↳ | **[Product Stewardship Intern - 2026](https://jobright.ai/jobs/info/691d1a290b7dff73414ffc10?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Nov 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Emerson Collective](http://emersoncollective.com)** | **[Summer Intern, Technology: CRM Products](https://jobright.ai/jobs/info/691cea3422a2cb4b9bd1eab7?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 18 |
 | **[Riot Games](http://www.riotgames.com)** | **[Insights Analyst Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69092852d046ab6061cd2427?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Remote | Nov 18 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Technical Product Intern](https://jobright.ai/jobs/info/691c985aff70244984168bfa?utm_campaign=1047&utm_source=git)** | Cincinnati, OH (USA) | Hybrid | Nov 18 |
-| **[Glean](https://www.glean.com)** | **[Product Management, Intern (Fall 2025)](https://jobright.ai/jobs/info/68e456f0b99ec3563b0e95fb?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
