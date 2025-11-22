@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Product Planning & PMO Atermarket (Winter 2026)](https://jobright.ai/jobs/info/691dc77461dc50590a64a313?utm_campaign=1047&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Nov 22 |
+| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Pricing Analytics & Product Development](https://jobright.ai/jobs/info/68cedbe0dbd9fb154ede3379?utm_campaign=1047&utm_source=git)** | Fort Worth, TX | Hybrid | Nov 22 |
+| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68ef6aadde50091dbfa4e978?utm_campaign=1047&utm_source=git)** | Northfield, IL | Hybrid | Nov 22 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Product Owner](https://jobright.ai/jobs/info/69050d55122e8474c78d5786?utm_campaign=1047&utm_source=git)** | Arlington, TX | Hybrid | Nov 22 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Product Planning](https://jobright.ai/jobs/info/691acbf345fb6f5ead8adb6f?utm_campaign=1047&utm_source=git)** | Kirkland, WA | On Site | Nov 22 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Product Management Intern 2026](https://jobright.ai/jobs/info/68cd9b061ad6b16f0289c24e?utm_campaign=1047&utm_source=git)** | Jupiter, FL | On Site | Nov 22 |
@@ -86,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Agropur](http://www.agropur.com/en/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6921020700c9ee50eaecaccd?utm_campaign=1047&utm_source=git)** | Wisconsin, United States | On Site | Nov 21 |
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[CX Product Management Intern](https://jobright.ai/jobs/info/6920f9d0a49a885af9a41abe?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
 | **[Appian](http://www.appian.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68ce7d8ddbd9fb154ede0196?utm_campaign=1047&utm_source=git)** | McLean, VA | On Site | Nov 21 |
-| **[American Greetings](http://americangreetings.com)** | **[Category/Product Management Internship (Hybrid) – Summer 2026](https://jobright.ai/jobs/info/6921b88ba49a885af9a474d4?utm_campaign=1047&utm_source=git)** | Westlake, OH | Hybrid | Nov 21 |
-| ↳ | **[Product Management Intern (Hybrid) – Summer 2026](https://jobright.ai/jobs/info/6921b1f4d1ec2c3565c45821?utm_campaign=1047&utm_source=git)** | Westlake, OH | Hybrid | Nov 21 |
+| **[American Greetings](http://americangreetings.com)** | **[Product Management Intern (Hybrid) – Summer 2026](https://jobright.ai/jobs/info/6921b1f4d1ec2c3565c45821?utm_campaign=1047&utm_source=git)** | Westlake, OH | Hybrid | Nov 21 |
+| ↳ | **[Category/Product Management Internship (Hybrid) – Summer 2026](https://jobright.ai/jobs/info/6921b88ba49a885af9a474d4?utm_campaign=1047&utm_source=git)** | Westlake, OH | Hybrid | Nov 21 |
 | ↳ | **[Category/Product Management Internship (Hybrid) – Summer 2026](https://jobright.ai/jobs/info/6921acf23f782d2f1afd34c7?utm_campaign=1047&utm_source=git)** | Westlake, OH | Hybrid | Nov 21 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Shorex Product Analysis](https://jobright.ai/jobs/info/68ccd77677add66568aba15d?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Nov 21 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product and Technology Analytics Intern, NYC](https://jobright.ai/jobs/info/6903cbd9d64a22104aa93374?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 21 |
@@ -153,8 +156,5 @@ For a complete list, click the following sortable link below:
 | **[The Depository Trust & Clearing Corporation (DTCC)](http://www.dtcc.com/)** | **[Product Owner Intern [2026 Internship Program]](https://jobright.ai/jobs/info/6921cb76d1ec2c3565c46004?utm_campaign=1047&utm_source=git)** | 18301 Bermuda Green Dr, Tampa, FL, 33647, US | Hybrid | Nov 19 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/691e341d3f782d2f1afb253a?utm_campaign=1047&utm_source=git)** | Santa Rosa, CA | On Site | Nov 19 |
 | **[Fulton Bank](https://www.fultonbank.com/)** | **[Intern - Commercial Product & Strategy](https://jobright.ai/jobs/info/691e316d3f782d2f1afb222b?utm_campaign=1047&utm_source=git)** | Corporate Headquarters | Hybrid | Nov 19 |
-| **[Textron](http://textron.com)** | **[2026 Product Mgmt Intern](https://jobright.ai/jobs/info/691e30d309cc522e8773737d?utm_campaign=1047&utm_source=git)** | Augusta, GA | On Site | Nov 19 |
-| **[Keysight Technologies](https://www.keysight.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/691e2ca8a49a885af9a25c5d?utm_campaign=1047&utm_source=git)** | Santa Rosa, California | On Site | Nov 19 |
-| **[Santander](https://www.santander.com/)** | **[Digital Products Intern](https://jobright.ai/jobs/info/691dfc2ea49a885af9a233a3?utm_campaign=1047&utm_source=git)** | Boston | On Site | Nov 19 |
-| ↳ | **[Digital Products Intern](https://jobright.ai/jobs/info/691dfb06a49a885af9a2329f?utm_campaign=1047&utm_source=git)** | Miami Coconut Grove Corp | On Site | Nov 19 |
+| **[Keysight Technologies](https://www.keysight.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/691e31533f782d2f1afb2209?utm_campaign=1047&utm_source=git)** | Santa Rosa, California | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
