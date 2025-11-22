@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Ralph Lauren CX Product Management Intern](https://jobright.ai/jobs/info/6921760d3f782d2f1afd2463?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Product Internship - Summer 2026](https://jobright.ai/jobs/info/69214bb500c9ee50eaecd98a?utm_campaign=1047&utm_source=git)** | Albuquerque, NM | Remote | Nov 21 |
 | **[Concordia Plans](https://www.concordiaplans.org/)** | **[Business Product Administration Intern](https://jobright.ai/jobs/info/69213eeaa49a885af9a44499?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Nov 21 |
 | **[Lumafield](https://www.lumafield.com)** | **[Product Intern, Software](https://jobright.ai/jobs/info/690a536e4a1b456627b06410?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Nov 21 |
@@ -77,8 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Agropur](http://www.agropur.com/en/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6921020700c9ee50eaecaccd?utm_campaign=1047&utm_source=git)** | Wisconsin, United States | On Site | Nov 21 |
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[CX Product Management Intern](https://jobright.ai/jobs/info/6920f9d0a49a885af9a41abe?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
 | **[Appian](http://www.appian.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68ce7d8ddbd9fb154ede0196?utm_campaign=1047&utm_source=git)** | McLean, VA | On Site | Nov 21 |
-| **[American Greetings](http://americangreetings.com)** | **[Category/Product Management Internship (Hybrid) – Summer 2026](https://jobright.ai/jobs/info/6920b3aa3f782d2f1afca704?utm_campaign=1047&utm_source=git)** | Westlake, OH | Hybrid | Nov 21 |
-| ↳ | **[Product Management Intern (Hybrid) – Summer 2026](https://jobright.ai/jobs/info/6920ba7b00c9ee50eaec751a?utm_campaign=1047&utm_source=git)** | Westlake, OH | Hybrid | Nov 21 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Shorex Product Analysis](https://jobright.ai/jobs/info/68ccd77677add66568aba15d?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Nov 21 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product and Technology Analytics Intern, NYC](https://jobright.ai/jobs/info/6903cbd9d64a22104aa93374?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 21 |
 | **[Tanium](http://www.tanium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68e8183cc4895107182c2223?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Nov 21 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[InComm Payments](https://www.incomm.com/)** | **[Product Implementation Intern](https://jobright.ai/jobs/info/69011b21d5259a1b3cff1743?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Nov 19 |
 | **[State Street](http://www.statestreet.com)** | **[State Street Product Management Team - Business Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/691dd959748c4e1301ec94ca?utm_campaign=1047&utm_source=git)** | Boston, Massachusetts | On Site | Nov 19 |
 | **[SageSure](https://www.sagesure.com)** | **[Software Product Management Intern](https://jobright.ai/jobs/info/6902278598707b2b0fe6cc8b?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | On Site | Nov 19 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Development Intern, Ninja (May to August)](https://jobright.ai/jobs/info/68ce190ee23def7af55c2356?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
