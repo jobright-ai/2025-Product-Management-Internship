@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate IT Product Intern - Summer 2026](https://jobright.ai/jobs/info/691791f145fb6f5ead89c24b?utm_campaign=1047&utm_source=git)** | Parsippany, NJ | On Site | Nov 24 |
+| **[Polaris Inc.](https://www.polaris.com)** | **[Digital & Information Technology - Digital Product Development Internship - Summer 2026](https://jobright.ai/jobs/info/68b2f859f4e41a61efd885f8?utm_campaign=1047&utm_source=git)** | Vermillion, SD | On Site | Nov 24 |
+| **[GiveDirectly](https://www.givedirectly.org/)** | **[Senior Product Manager, International Rapid Response Payment Systems](https://jobright.ai/jobs/info/68cba8d89e3a822f5d249d3c?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product Infrastructure]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6907e4b3ff462851fe00bc37?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 24 |
 | **[TD SYNNEX North America](http://www.techdata.com)** | **[Summer 2026 Internship Program / Commercial Track: • Vendor Management • Marketing • Business Development • Product Management • Sales](https://jobright.ai/jobs/info/69086e7ad046ab6061cc9496?utm_campaign=1047&utm_source=git)** | Greenville, SC | Hybrid | Nov 24 |
 | ↳ | **[Summer 2026 Internship Program / Commercial Track: • Vendor Management • Marketing • Business Development • Product Management • Sales](https://jobright.ai/jobs/info/69087a66d046ab6061ccaa23?utm_campaign=1047&utm_source=git)** | Clearwater, FL | Hybrid | Nov 24 |
@@ -100,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Agropur](http://www.agropur.com/en/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6921020700c9ee50eaecaccd?utm_campaign=1047&utm_source=git)** | Wisconsin, United States | On Site | Nov 21 |
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[CX Product Management Intern](https://jobright.ai/jobs/info/6920f9d0a49a885af9a41abe?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
 | **[Appian](http://www.appian.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68ce7d8ddbd9fb154ede0196?utm_campaign=1047&utm_source=git)** | McLean, VA | On Site | Nov 21 |
-| **[American Greetings](http://americangreetings.com)** | **[Product Management Intern (Hybrid) – Summer 2026](https://jobright.ai/jobs/info/6921b1f4d1ec2c3565c45821?utm_campaign=1047&utm_source=git)** | Westlake, OH | Hybrid | Nov 21 |
-| ↳ | **[Category/Product Management Internship (Hybrid) – Summer 2026](https://jobright.ai/jobs/info/6921b88ba49a885af9a474d4?utm_campaign=1047&utm_source=git)** | Westlake, OH | Hybrid | Nov 21 |
+| **[American Greetings](http://americangreetings.com)** | **[Category/Product Management Internship (Hybrid) – Summer 2026](https://jobright.ai/jobs/info/6921b88ba49a885af9a474d4?utm_campaign=1047&utm_source=git)** | Westlake, OH | Hybrid | Nov 21 |
+| ↳ | **[Product Management Intern (Hybrid) – Summer 2026](https://jobright.ai/jobs/info/6921b1f4d1ec2c3565c45821?utm_campaign=1047&utm_source=git)** | Westlake, OH | Hybrid | Nov 21 |
 | ↳ | **[Category/Product Management Internship (Hybrid) – Summer 2026](https://jobright.ai/jobs/info/6921acf23f782d2f1afd34c7?utm_campaign=1047&utm_source=git)** | Westlake, OH | Hybrid | Nov 21 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Shorex Product Analysis](https://jobright.ai/jobs/info/68ccd77677add66568aba15d?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Nov 21 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product and Technology Analytics Intern, NYC](https://jobright.ai/jobs/info/6903cbd9d64a22104aa93374?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 21 |
@@ -136,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Rivian](http://www.rivian.com)** | **[Technical Product Management, MBA Intern - Summer 2026](https://jobright.ai/jobs/info/691f7d5309cc522e87741fea?utm_campaign=1047&utm_source=git)** | Palo Alto, California | On Site | Nov 20 |
 | ↳ | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/691f7c1ca49a885af9a30a94?utm_campaign=1047&utm_source=git)** | Palo Alto, California | On Site | Nov 20 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Agriculture Product Management Intern](https://jobright.ai/jobs/info/691f95fd3f782d2f1afbe482?utm_campaign=1047&utm_source=git)** | Westminster, CO | On Site | Nov 20 |
-| **[Insight](https://www.insight.com)** | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/691f97293f782d2f1afbe5d5?utm_campaign=1047&utm_source=git)** | Chandler, AZ | On Site | Nov 20 |
 | **[Promega Corporation](http://www.promega.com/es)** | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/691f773fa49a885af9a304e0?utm_campaign=1047&utm_source=git)** | Madison, Wisconsin | On Site | Nov 20 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Agriculture Product Management Intern](https://jobright.ai/jobs/info/691f6cbe3f782d2f1afbbe9a?utm_campaign=1047&utm_source=git)** | US - CO, Westminster | On Site | Nov 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/691f62b23f782d2f1afbb3f5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[R&D Product Operations Intern](https://jobright.ai/jobs/info/6902d6ae98707b2b0fe73334?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Nov 20 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Product Service Strategy Intern](https://jobright.ai/jobs/info/68cf4673846f0b04af6801b8?utm_campaign=1047&utm_source=git)** | Olathe, KS | On Site | Nov 20 |
 | **[Apex Fintech Solutions](https://apexfintechsolutions.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68cedd15846f0b04af67d7f9?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Nov 20 |
-| **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Digital Products Intern](https://jobright.ai/jobs/info/691f3670a49a885af9a2d0e7?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Nov 20 |
-| **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[2026 Summer Intern: Product Development](https://jobright.ai/jobs/info/68cbfc2c128dc347fd91cda2?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
