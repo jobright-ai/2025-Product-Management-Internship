@@ -57,14 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Henkel](http://www.henkel.com)** | **[Product Innovation & Brand Management MBA Intern, DevaCurl - Spring 2026](https://jobright.ai/jobs/info/68b2395cbc187f64e1bd9f84?utm_campaign=1047&utm_source=git)** | Culver City, CA | Hybrid | Nov 24 |
+| ↳ | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68b1e671bc187f64e1bd799c?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | On Site | Nov 24 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate IT Product Intern - Summer 2026](https://jobright.ai/jobs/info/691791f145fb6f5ead89c24b?utm_campaign=1047&utm_source=git)** | Parsippany, NJ | On Site | Nov 24 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Digital & Information Technology - Digital Product Development Internship - Summer 2026](https://jobright.ai/jobs/info/68b2f859f4e41a61efd885f8?utm_campaign=1047&utm_source=git)** | Vermillion, SD | On Site | Nov 24 |
 | **[GiveDirectly](https://www.givedirectly.org/)** | **[Senior Product Manager, International Rapid Response Payment Systems](https://jobright.ai/jobs/info/68cba8d89e3a822f5d249d3c?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product Infrastructure]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6907e4b3ff462851fe00bc37?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 24 |
 | **[TD SYNNEX North America](http://www.techdata.com)** | **[Summer 2026 Internship Program / Commercial Track: • Vendor Management • Marketing • Business Development • Product Management • Sales](https://jobright.ai/jobs/info/69086e7ad046ab6061cc9496?utm_campaign=1047&utm_source=git)** | Greenville, SC | Hybrid | Nov 24 |
 | ↳ | **[Summer 2026 Internship Program / Commercial Track: • Vendor Management • Marketing • Business Development • Product Management • Sales](https://jobright.ai/jobs/info/69087a66d046ab6061ccaa23?utm_campaign=1047&utm_source=git)** | Clearwater, FL | Hybrid | Nov 24 |
-| **[GenPark](https://genpark.ai)** | **[Product Developer](https://jobright.ai/jobs/info/69244e2438cd5478a8d59f24?utm_campaign=1047&utm_source=git)** | LA Metro Area | Hybrid | Nov 24 |
-| **[Career Launch Recruitment Solutions](https://www.linkedin.com/company/104165626)** | **[Intern, Product Management](https://jobright.ai/jobs/info/6924534f38cd5478a8d59fab?utm_campaign=1047&utm_source=git)** | Chelmsford, MA | Hybrid | Nov 24 |
 | **[Align Technology](http://www.aligntech.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6923c8d47795cd460c83946c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 23 |
 | ↳ | **[Product Intern](https://jobright.ai/jobs/info/6923c87a7795cd460c839459?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 23 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Digital & Information Technology - Digital Product Development Internship - Summer 2026](https://jobright.ai/jobs/info/68b2f8b3f4e41a61efd88629?utm_campaign=1047&utm_source=git)** | Plymouth, MN | On Site | Nov 23 |
