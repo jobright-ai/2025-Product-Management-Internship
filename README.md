@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68ed1df381fdd1626d399178?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Nov 25 |
+| **[PennEngineering®](http://www.pemnet.com/)** | **[New Product Development Intern - Summer 2026](https://jobright.ai/jobs/info/690f43a044146d3b6ec5ae0c?utm_campaign=1047&utm_source=git)** | Danboro, PA | On Site | Nov 25 |
+| **[MLV Ignite](https://www.mlvignite.com)** | **[Product Management Associate Intern](https://jobright.ai/jobs/info/6925be5527bf2f41a2c4021d?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Nov 25 |
 | **[Ericsson](https://www.ericsson.com)** | **[Productization  Intern](https://jobright.ai/jobs/info/68edd20481fdd1626d39fc4a?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Nov 25 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Parts Product Management Intern Summer 2026](https://jobright.ai/jobs/info/691acd23bcdbf3560c9daa79?utm_campaign=1047&utm_source=git)** | Cranberry Township, PA | Hybrid | Nov 25 |
 | **[Oracle](https://www.oracle.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6919561115b4156367185167?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 25 |
@@ -67,7 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Ampliforce](https://qlytics.com/)** | **[AI Associate Product Manager Intern](https://jobright.ai/jobs/info/69258bcef0beb0723261e045?utm_campaign=1047&utm_source=git)** | Montréal, Canada | On Site | Nov 25 |
 | **[Wagner Spraytech Scandinavia A/S](https://www.wagner-group.com/en/industry/)** | **[Senior Product Manager](https://jobright.ai/jobs/info/692555bfd47de4798eccf4bb?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 24 |
 | **[ITW Food Equipment Group](https://www.itwfoodequipment.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/692542faf0beb0723261c7d6?utm_campaign=1047&utm_source=git)** | Troy, OH | On Site | Nov 24 |
-| **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, Autonomous Vehicles ADAS - Summer 2026](https://jobright.ai/jobs/info/69252c0c27bf2f41a2c3cce9?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Nov 24 |
+| **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, Autonomous Vehicles ADAS - Summer 2026](https://jobright.ai/jobs/info/69251b89c0cefa13343e69fa?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Nov 24 |
 | **[Invesco US](http://www.invesco.com/us)** | **[Summer 2026 Digital Asset Product Internship – Early Careers](https://jobright.ai/jobs/info/69250d88c0cefa13343e5ed1?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Nov 24 |
 | ↳ | **[Summer 2026 Digital Asset Product Internship – Early Careers](https://jobright.ai/jobs/info/6925027bc0cefa13343e5720?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 24 |
 | ↳ | **[Summer 2026 ETF Product Development Internship - Early Careers](https://jobright.ai/jobs/info/69250044c0cefa13343e54e2?utm_campaign=1047&utm_source=git)** | Downers Grove, IL | On Site | Nov 24 |
@@ -75,7 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Machina Labs](https://machinalabs.ai)** | **[Product Management, Intern](https://jobright.ai/jobs/info/6924dc4338cd5478a8d5ebf4?utm_campaign=1047&utm_source=git)** | Chatsworth, CA | On Site | Nov 24 |
 | **[McGraw Hill](http://www.mheducation.com)** | **[Sci-Tech Digital Product Internship](https://jobright.ai/jobs/info/692518bdec574f4265bbba11?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Nov 24 |
 | **[HAI Group](https://www.housingcenter.com/)** | **[IT Product Management Intern](https://jobright.ai/jobs/info/6924de76c0cefa13343e2f91?utm_campaign=1047&utm_source=git)** | Cheshire, CT | On Site | Nov 24 |
-| **[VF Corporation](http://www.vfc.com)** | **[Summer 2026 Product Intern](https://jobright.ai/jobs/info/6924db06ec574f4265bb7d18?utm_campaign=1047&utm_source=git)** | USCA > USA > California > Costa Mesa HQ Bldg2 - VFC | Hybrid | Nov 24 |
+| **[VF Corporation](http://www.vfc.com)** | **[Summer 2026 Product Intern](https://jobright.ai/jobs/info/6924daeeec574f4265bb7d10?utm_campaign=1047&utm_source=git)** | USCA > USA > California > Costa Mesa HQ Bldg2 - VFC | Hybrid | Nov 24 |
 | **[Altra Running](https://www.altrarunning.com/)** | **[Summer 2026 Product Intern](https://jobright.ai/jobs/info/6924d887ec574f4265bb7c2d?utm_campaign=1047&utm_source=git)** | USCA > USA > California > Costa Mesa HQ Bldg2 - VFC | Hybrid | Nov 24 |
 | **[Tapestry](http://www.tapestry.com/)** | **[Summer Supply Chain, Product Development, Procurement & Operations Internships](https://jobright.ai/jobs/info/6924d60038cd5478a8d5e58b?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Product Delivery Intern](https://jobright.ai/jobs/info/6924d2dc38cd5478a8d5e333?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | Hybrid | Nov 24 |
@@ -93,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Playfly Sports](https://www.playfly.com/)** | **[Insight Product & Strategy Intern](https://jobright.ai/jobs/info/6924b4c338cd5478a8d5ccb9?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691637a89c388539cbdf8c25?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Nov 24 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691638869c388539cbdf8ca7?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | Hybrid | Nov 24 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6908c1ead046ab6061ccdc07?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Nov 24 |
 | **[Machina Labs](https://machinalabs.ai)** | **[Product Management, Intern](https://jobright.ai/jobs/info/6924b253ec574f4265bb5daf?utm_campaign=1047&utm_source=git)** | Chatsworth, CA | On Site | Nov 24 |
 | **[IBM](http://www.ibm.com)** | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/691fc89a09cc522e87745531?utm_campaign=1047&utm_source=git)** | Houston, TX | Hybrid | Nov 24 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/690dbba7221b890c27809178?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Nov 24 |
@@ -104,6 +106,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6918609815b4156367181df7?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Nov 24 |
 | ↳ | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/6916a3146f36db06ef0588b9?utm_campaign=1047&utm_source=git)** | Research Park, CA | Hybrid | Nov 24 |
 | ↳ | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/6916a323286ccf0a151381d2?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Nov 24 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691639039c388539cbdf8cf0?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Nov 24 |
 | ↳ | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/69169bf1286ccf0a15137e61?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Nov 24 |
 | ↳ | **[Product Management Intern 2026](https://jobright.ai/jobs/info/691f8c2da49a885af9a31893?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Nov 24 |
 | **[SailPoint](http://www.sailpoint.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69249d7bec574f4265bb4f8a?utm_campaign=1047&utm_source=git)** | Headquarters (Austin, Texas, USA) | On Site | Nov 24 |
@@ -153,8 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Agropur](http://www.agropur.com/en/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6921020700c9ee50eaecaccd?utm_campaign=1047&utm_source=git)** | Wisconsin, United States | On Site | Nov 21 |
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[CX Product Management Intern](https://jobright.ai/jobs/info/6920f9d0a49a885af9a41abe?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
 | **[Appian](http://www.appian.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68ce7d8ddbd9fb154ede0196?utm_campaign=1047&utm_source=git)** | McLean, VA | On Site | Nov 21 |
-| **[American Greetings](http://americangreetings.com)** | **[Category/Product Management Internship (Hybrid) – Summer 2026](https://jobright.ai/jobs/info/6921b88ba49a885af9a474d4?utm_campaign=1047&utm_source=git)** | Westlake, OH | Hybrid | Nov 21 |
-| ↳ | **[Product Management Intern (Hybrid) – Summer 2026](https://jobright.ai/jobs/info/6921b1f4d1ec2c3565c45821?utm_campaign=1047&utm_source=git)** | Westlake, OH | Hybrid | Nov 21 |
-| ↳ | **[Category/Product Management Internship (Hybrid) – Summer 2026](https://jobright.ai/jobs/info/6921acf23f782d2f1afd34c7?utm_campaign=1047&utm_source=git)** | Westlake, OH | Hybrid | Nov 21 |
-| **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Shorex Product Analysis](https://jobright.ai/jobs/info/68ccd77677add66568aba15d?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Nov 21 |
+| **[American Greetings](http://americangreetings.com)** | **[Product Management Intern (Hybrid) – Summer 2026](https://jobright.ai/jobs/info/6921b1f4d1ec2c3565c45821?utm_campaign=1047&utm_source=git)** | Westlake, OH | Hybrid | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
