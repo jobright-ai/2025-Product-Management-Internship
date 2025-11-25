@@ -59,7 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Wagner Spraytech Scandinavia A/S](https://www.wagner-group.com/en/industry/)** | **[Senior Product Manager](https://jobright.ai/jobs/info/692555bfd47de4798eccf4bb?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 24 |
 | **[ITW Food Equipment Group](https://www.itwfoodequipment.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/692542faf0beb0723261c7d6?utm_campaign=1047&utm_source=git)** | Troy, OH | On Site | Nov 24 |
-| **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, Autonomous Vehicles ADAS - Summer 2026](https://jobright.ai/jobs/info/69251b89c0cefa13343e69fa?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Nov 24 |
+| **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, Autonomous Vehicles ADAS - Summer 2026](https://jobright.ai/jobs/info/69252c0c27bf2f41a2c3cce9?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Nov 24 |
 | **[Invesco US](http://www.invesco.com/us)** | **[Summer 2026 Digital Asset Product Internship – Early Careers](https://jobright.ai/jobs/info/69250d88c0cefa13343e5ed1?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Nov 24 |
 | ↳ | **[Summer 2026 Digital Asset Product Internship – Early Careers](https://jobright.ai/jobs/info/6925027bc0cefa13343e5720?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 24 |
 | ↳ | **[Summer 2026 ETF Product Development Internship - Early Careers](https://jobright.ai/jobs/info/69250044c0cefa13343e54e2?utm_campaign=1047&utm_source=git)** | Downers Grove, IL | On Site | Nov 24 |
@@ -85,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Playfly Sports](https://www.playfly.com/)** | **[Insight Product & Strategy Intern](https://jobright.ai/jobs/info/6924b4c338cd5478a8d5ccb9?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691637a89c388539cbdf8c25?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Nov 24 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691638869c388539cbdf8ca7?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | Hybrid | Nov 24 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6908c1ead046ab6061ccdc07?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Nov 24 |
 | **[Machina Labs](https://machinalabs.ai)** | **[Product Management, Intern](https://jobright.ai/jobs/info/6924b253ec574f4265bb5daf?utm_campaign=1047&utm_source=git)** | Chatsworth, CA | On Site | Nov 24 |
 | **[IBM](http://www.ibm.com)** | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/691fc89a09cc522e87745531?utm_campaign=1047&utm_source=git)** | Houston, TX | Hybrid | Nov 24 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/690dbba7221b890c27809178?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Nov 24 |
@@ -95,7 +96,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6918609815b4156367181df7?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Nov 24 |
 | ↳ | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/6916a3146f36db06ef0588b9?utm_campaign=1047&utm_source=git)** | Research Park, CA | Hybrid | Nov 24 |
 | ↳ | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/6916a323286ccf0a151381d2?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Nov 24 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691639039c388539cbdf8cf0?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Nov 24 |
 | ↳ | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/69169bf1286ccf0a15137e61?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Nov 24 |
 | ↳ | **[Product Management Intern 2026](https://jobright.ai/jobs/info/691f8c2da49a885af9a31893?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Nov 24 |
 | **[SailPoint](http://www.sailpoint.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69249d7bec574f4265bb4f8a?utm_campaign=1047&utm_source=git)** | Headquarters (Austin, Texas, USA) | On Site | Nov 24 |
