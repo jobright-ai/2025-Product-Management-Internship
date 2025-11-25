@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wagner Spraytech Scandinavia A/S](https://www.wagner-group.com/en/industry/)** | **[Senior Product Manager](https://jobright.ai/jobs/info/692555bfd47de4798eccf4bb?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 24 |
+| **[ITW Food Equipment Group](https://www.itwfoodequipment.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/692542faf0beb0723261c7d6?utm_campaign=1047&utm_source=git)** | Troy, OH | On Site | Nov 24 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, Autonomous Vehicles ADAS - Summer 2026](https://jobright.ai/jobs/info/69251b89c0cefa13343e69fa?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Nov 24 |
 | **[Invesco US](http://www.invesco.com/us)** | **[Summer 2026 Digital Asset Product Internship – Early Careers](https://jobright.ai/jobs/info/69250d88c0cefa13343e5ed1?utm_campaign=1047&utm_source=git)** | New York, New York | On Site | Nov 24 |
 | ↳ | **[Summer 2026 Digital Asset Product Internship – Early Careers](https://jobright.ai/jobs/info/6925027bc0cefa13343e5720?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 24 |
@@ -65,7 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Machina Labs](https://machinalabs.ai)** | **[Product Management, Intern](https://jobright.ai/jobs/info/6924dc4338cd5478a8d5ebf4?utm_campaign=1047&utm_source=git)** | Chatsworth, CA | On Site | Nov 24 |
 | **[McGraw Hill](http://www.mheducation.com)** | **[Sci-Tech Digital Product Internship](https://jobright.ai/jobs/info/692518bdec574f4265bbba11?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Nov 24 |
 | **[HAI Group](https://www.housingcenter.com/)** | **[IT Product Management Intern](https://jobright.ai/jobs/info/6924de76c0cefa13343e2f91?utm_campaign=1047&utm_source=git)** | Cheshire, CT | On Site | Nov 24 |
-| **[VF Corporation](http://www.vfc.com)** | **[Summer 2026 Product Intern](https://jobright.ai/jobs/info/6924db06ec574f4265bb7d18?utm_campaign=1047&utm_source=git)** | USCA > USA > California > Costa Mesa HQ Bldg2 - VFC | Hybrid | Nov 24 |
+| **[VF Corporation](http://www.vfc.com)** | **[Summer 2026 Product Intern](https://jobright.ai/jobs/info/6924daeeec574f4265bb7d10?utm_campaign=1047&utm_source=git)** | USCA > USA > California > Costa Mesa HQ Bldg2 - VFC | Hybrid | Nov 24 |
 | **[Altra Running](https://www.altrarunning.com/)** | **[Summer 2026 Product Intern](https://jobright.ai/jobs/info/6924d887ec574f4265bb7c2d?utm_campaign=1047&utm_source=git)** | USCA > USA > California > Costa Mesa HQ Bldg2 - VFC | Hybrid | Nov 24 |
 | **[Tapestry](http://www.tapestry.com/)** | **[Summer Supply Chain, Product Development, Procurement & Operations Internships](https://jobright.ai/jobs/info/6924d60038cd5478a8d5e58b?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Product Delivery Intern](https://jobright.ai/jobs/info/6924d2dc38cd5478a8d5e333?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | Hybrid | Nov 24 |
@@ -83,16 +85,17 @@ For a complete list, click the following sortable link below:
 | **[Playfly Sports](https://www.playfly.com/)** | **[Insight Product & Strategy Intern](https://jobright.ai/jobs/info/6924b4c338cd5478a8d5ccb9?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691637a89c388539cbdf8c25?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Nov 24 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691638869c388539cbdf8ca7?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | Hybrid | Nov 24 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6908c1ead046ab6061ccdc07?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Nov 24 |
 | **[Machina Labs](https://machinalabs.ai)** | **[Product Management, Intern](https://jobright.ai/jobs/info/6924b253ec574f4265bb5daf?utm_campaign=1047&utm_source=git)** | Chatsworth, CA | On Site | Nov 24 |
 | **[IBM](http://www.ibm.com)** | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/691fc89a09cc522e87745531?utm_campaign=1047&utm_source=git)** | Houston, TX | Hybrid | Nov 24 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/690dbba7221b890c27809178?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Nov 24 |
 | ↳ | **[Software Strategy and M&A Summer Intern - Cambridge, MA](https://jobright.ai/jobs/info/69211fefa49a885af9a43189?utm_campaign=1047&utm_source=git)** | Cambridge, MA | Hybrid | Nov 24 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Product Delivery Intern](https://jobright.ai/jobs/info/6924c9ba38cd5478a8d5dcc9?utm_campaign=1047&utm_source=git)** | Indianapolis | Hybrid | Nov 24 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/690dc52c44146d3b6ec4fb17?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Nov 24 |
+| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6916130a9c388539cbdf791b?utm_campaign=1047&utm_source=git)** | Research Park, CA | Hybrid | Nov 24 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/690dc52c44146d3b6ec4fb17?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Nov 24 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6918609815b4156367181df7?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Nov 24 |
 | ↳ | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/6916a3146f36db06ef0588b9?utm_campaign=1047&utm_source=git)** | Research Park, CA | Hybrid | Nov 24 |
 | ↳ | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/6916a323286ccf0a151381d2?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Nov 24 |
+| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691639039c388539cbdf8cf0?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Nov 24 |
 | ↳ | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/69169bf1286ccf0a15137e61?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Nov 24 |
 | ↳ | **[Product Management Intern 2026](https://jobright.ai/jobs/info/691f8c2da49a885af9a31893?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Nov 24 |
 | **[SailPoint](http://www.sailpoint.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69249d7bec574f4265bb4f8a?utm_campaign=1047&utm_source=git)** | Headquarters (Austin, Texas, USA) | On Site | Nov 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pegasystems](http://www.pega.com)** | **[Product Manager Intern - Low-Code Application Development - Summer 2026](https://jobright.ai/jobs/info/69038e73ff462851fefec235?utm_campaign=1047&utm_source=git)** | Waltham, MA | On Site | Nov 21 |
 | **[Lila Sciences](https://www.lila.ai)** | **[Product Strategy Intern, Physical Sciences](https://jobright.ai/jobs/info/68e7ff5dc4895107182c08b0?utm_campaign=1047&utm_source=git)** | Cambridge, MA | Hybrid | Nov 21 |
 | ↳ | **[Product Strategy Intern, Life Sciences](https://jobright.ai/jobs/info/68e80d2a09580a2fe57f2c8a?utm_campaign=1047&utm_source=git)** | Cambridge, MA | Hybrid | Nov 21 |
-| **[Dorman Products](https://www.dormanproducts.com/)** | **[Intern - Product](https://jobright.ai/jobs/info/691ae18615b415636718b862?utm_campaign=1047&utm_source=git)** | Colmar, PA | On Site | Nov 21 |
-| ↳ | **[Product Intern - Ideation](https://jobright.ai/jobs/info/691abc5115b415636718a46d?utm_campaign=1047&utm_source=git)** | Colmar, PA | On Site | Nov 21 |
-| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf7b99fb49c96ca6ea8e0c?utm_campaign=1047&utm_source=git)** | Downers Grove, IL | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
