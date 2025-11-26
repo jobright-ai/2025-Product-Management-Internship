@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Product Growth Intern](https://jobright.ai/jobs/info/69273d1ed47de4798ecdae91?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 26 |
+| **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Intern- Private Brand Hardgoods Product Development (In Office M-W)](https://jobright.ai/jobs/info/6927552491ceeb2e8a53e1a8?utm_campaign=1047&utm_source=git)** | US-MI-Livonia (Headquarters) | On Site | Nov 26 |
+| ↳ | **[Intern- Private Brand Hardgoods Product Development (In Office M-W)](https://jobright.ai/jobs/info/69275501f0beb072326291d9?utm_campaign=1047&utm_source=git)** | 17410 College Parkway | On Site | Nov 26 |
+| ↳ | **[Intern -Private Brand Consumables Product Development (M-W in office)](https://jobright.ai/jobs/info/692753dff0beb072326290e4?utm_campaign=1047&utm_source=git)** | 17410 College Parkway | On Site | Nov 26 |
+| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Internal AI Product Management Intern, NYC](https://jobright.ai/jobs/info/6927522df0beb07232628f86?utm_campaign=1047&utm_source=git)** | New York City | On Site | Nov 26 |
 | **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Private Brand Hardgoods Product Development Intern (In Office M-W)](https://jobright.ai/jobs/info/69273466d47de4798ecdab2d?utm_campaign=1047&utm_source=git)** | Livonia, MI | On Site | Nov 26 |
 | ↳ | **[Private Brand Consumables Product Development Intern (M-W in office)](https://jobright.ai/jobs/info/692731cbd47de4798ecda9ce?utm_campaign=1047&utm_source=git)** | Livonia, MI | On Site | Nov 26 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Product Internship - Summer 2026](https://jobright.ai/jobs/info/6921092e00c9ee50eaecafd3?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 26 |
@@ -85,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[American Greetings](http://americangreetings.com)** | **[Category/Product Management Internship (Hybrid) – Summer 2026](https://jobright.ai/jobs/info/6921acf23f782d2f1afd34c7?utm_campaign=1047&utm_source=git)** | Westlake, OH | Hybrid | Nov 25 |
 | **[Schneider Electric](https://www.se.com)** | **[Offer Management Intern](https://jobright.ai/jobs/info/69261676d47de4798ecd462b?utm_campaign=1047&utm_source=git)** | Morristown, NJ | Hybrid | Nov 25 |
 | **[Niterra North America, Inc.](https://niterranorthamerica.com)** | **[Intern - Product](https://jobright.ai/jobs/info/6925e2c4f0beb0723262013e?utm_campaign=1047&utm_source=git)** | Wixom, MI | On Site | Nov 25 |
+| **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Digital Product Manager Intern](https://jobright.ai/jobs/info/69274397d47de4798ecdb09b?utm_campaign=1047&utm_source=git)** | Plymouth, MN | Hybrid | Nov 25 |
 | **[Constellation Brands](http://cbrands.com)** | **[Integrated Business Planning (IBP) Product Intern](https://jobright.ai/jobs/info/6925e4f6f0beb07232620239?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Nov 25 |
 | **[Riot Games](http://www.riotgames.com)** | **[Insights Analyst Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69092852d046ab6061cd2427?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Remote | Nov 25 |
 | **[Constellation Brands New Zealand & Australia](https://www.constellationnz.com/)** | **[Integrated Business Planning (IBP) Product Intern](https://jobright.ai/jobs/info/6925db4ff0beb0723261fd28?utm_campaign=1047&utm_source=git)** | Rochester, New York | On Site | Nov 25 |
@@ -108,7 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Machina Labs](https://machinalabs.ai)** | **[Product Management, Intern](https://jobright.ai/jobs/info/6924dc4338cd5478a8d5ebf4?utm_campaign=1047&utm_source=git)** | Chatsworth, CA | On Site | Nov 24 |
 | **[McGraw Hill](http://www.mheducation.com)** | **[Sci-Tech Digital Product Internship](https://jobright.ai/jobs/info/692518bdec574f4265bbba11?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Nov 24 |
 | **[HAI Group](https://www.housingcenter.com/)** | **[IT Product Management Intern](https://jobright.ai/jobs/info/6924de76c0cefa13343e2f91?utm_campaign=1047&utm_source=git)** | Cheshire, CT | On Site | Nov 24 |
-| **[VF Corporation](http://www.vfc.com)** | **[Summer 2026 Product Intern](https://jobright.ai/jobs/info/6924db06ec574f4265bb7d18?utm_campaign=1047&utm_source=git)** | USCA > USA > California > Costa Mesa HQ Bldg2 - VFC | Hybrid | Nov 24 |
+| **[VF Corporation](http://www.vfc.com)** | **[Summer 2026 Product Intern](https://jobright.ai/jobs/info/6924daeeec574f4265bb7d10?utm_campaign=1047&utm_source=git)** | USCA > USA > California > Costa Mesa HQ Bldg2 - VFC | Hybrid | Nov 24 |
 | **[Altra Running](https://www.altrarunning.com/)** | **[Summer 2026 Product Intern](https://jobright.ai/jobs/info/6924d887ec574f4265bb7c2d?utm_campaign=1047&utm_source=git)** | USCA > USA > California > Costa Mesa HQ Bldg2 - VFC | Hybrid | Nov 24 |
 | **[Tapestry](http://www.tapestry.com/)** | **[Summer Supply Chain, Product Development, Procurement & Operations Internships](https://jobright.ai/jobs/info/6924d60038cd5478a8d5e58b?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Product Delivery Intern](https://jobright.ai/jobs/info/6924d2dc38cd5478a8d5e333?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | Hybrid | Nov 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Polaris Inc.](https://www.polaris.com)** | **[Digital & Information Technology - Digital Product Development Internship - Summer 2026](https://jobright.ai/jobs/info/68b2f8b3f4e41a61efd88629?utm_campaign=1047&utm_source=git)** | Plymouth, MN | On Site | Nov 23 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Digital Product Manager Intern](https://jobright.ai/jobs/info/68ea724b8369791ef7821fed?utm_campaign=1047&utm_source=git)** | Irving, TX | On Site | Nov 23 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - FinTech Product Management Intern, Palo Alto](https://jobright.ai/jobs/info/690567a8122e8474c78d8c4d?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Nov 22 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Product Planning & PMO Atermarket (Winter 2026)](https://jobright.ai/jobs/info/691dc77461dc50590a64a313?utm_campaign=1047&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Nov 22 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Pricing Analytics & Product Development](https://jobright.ai/jobs/info/68cedbe0dbd9fb154ede3379?utm_campaign=1047&utm_source=git)** | Fort Worth, TX | Hybrid | Nov 22 |
-| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68ef6aadde50091dbfa4e978?utm_campaign=1047&utm_source=git)** | Northfield, IL | Hybrid | Nov 22 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Product Owner](https://jobright.ai/jobs/info/69050d55122e8474c78d5786?utm_campaign=1047&utm_source=git)** | Arlington, TX | Hybrid | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
