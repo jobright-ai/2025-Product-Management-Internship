@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hootsuite](https://hootsuite.com/)** | **[Co-op/Intern, Product Management](https://jobright.ai/jobs/info/691e9c7f09cc522e8773b333?utm_campaign=1047&utm_source=git)** | Toronto, Canada | On Site | Nov 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern - SMB Industry Operations - 2025 Start (BS/ MS)](https://jobright.ai/jobs/info/69268d6127bf2f41a2c46f3f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 25 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management Intern, Enterprise Products - Summer 2026](https://jobright.ai/jobs/info/692681af27bf2f41a2c46a01?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Nov 25 |
 | ↳ | **[Product Management Intern, Enterprise Products - Summer 2026](https://jobright.ai/jobs/info/69264bf4d47de4798ecd62ff?utm_campaign=1047&utm_source=git)** | US, CA, Santa Clara | On Site | Nov 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Match](http://www.lifeatmatch.com)** | **[Product Intern](https://jobright.ai/jobs/info/69210dfd3f782d2f1afcea3c?utm_campaign=1047&utm_source=git)** | Los Angeles, California | Hybrid | Nov 21 |
 | **[FactSet](http://www.factset.com)** | **[Product Development Intern - Americas (Summer 2026))](https://jobright.ai/jobs/info/69210a5700c9ee50eaecb0df?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Nov 21 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Product Internship - Summer 2026](https://jobright.ai/jobs/info/6921092e00c9ee50eaecafd3?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 21 |
-| **[FactSet](http://www.factset.com)** | **[Product Development Intern - Americas (Summer 2026))](https://jobright.ai/jobs/info/692108343f782d2f1afce7fc?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
