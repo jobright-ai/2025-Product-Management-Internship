@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Product Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/6927ddae91ceeb2e8a543bca?utm_campaign=1047&utm_source=git)** | In-Office | On Site | Nov 26 |
+| **[Tinder](http://www.tinder.com)** | **[Product Intern](https://jobright.ai/jobs/info/6920fafa3f782d2f1afcdda5?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 26 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Product Manager Intern](https://jobright.ai/jobs/info/6927c41f91ceeb2e8a542e9d?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Nov 26 |
 | ↳ | **[Summer 2026 Product Manager Intern](https://jobright.ai/jobs/info/6927bc8af0beb0723262d8bd?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Nov 26 |
 | **[Agropur](http://www.agropur.com/en/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6921020700c9ee50eaecaccd?utm_campaign=1047&utm_source=git)** | Wisconsin, United States | On Site | Nov 26 |
@@ -145,7 +147,6 @@ For a complete list, click the following sortable link below:
 | **[Playfly Sports](https://www.playfly.com/)** | **[Insight Product & Strategy Intern](https://jobright.ai/jobs/info/6924b4c338cd5478a8d5ccb9?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691637a89c388539cbdf8c25?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Nov 24 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691638869c388539cbdf8ca7?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | Hybrid | Nov 24 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6908c1ead046ab6061ccdc07?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Nov 24 |
 | **[Machina Labs](https://machinalabs.ai)** | **[Product Management, Intern](https://jobright.ai/jobs/info/6924b253ec574f4265bb5daf?utm_campaign=1047&utm_source=git)** | Chatsworth, CA | On Site | Nov 24 |
 | **[IBM](http://www.ibm.com)** | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/691fc89a09cc522e87745531?utm_campaign=1047&utm_source=git)** | Houston, TX | Hybrid | Nov 24 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/690dbba7221b890c27809178?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Nov 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6918609815b4156367181df7?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Nov 24 |
 | ↳ | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/6916a3146f36db06ef0588b9?utm_campaign=1047&utm_source=git)** | Research Park, CA | Hybrid | Nov 24 |
 | ↳ | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/6916a323286ccf0a151381d2?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Nov 24 |
-| ↳ | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/69169bf1286ccf0a15137e61?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
