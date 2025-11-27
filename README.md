@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/691ff14d09cc522e87746cdf?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Nov 27 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69203a7ba49a885af9a37834?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Nov 27 |
+| **[Sezzle](https://sezzle.com)** | **[Product Intern](https://jobright.ai/jobs/info/691de103ad5a51703479776e?utm_campaign=1047&utm_source=git)** | Canada | Remote | Nov 27 |
 | **[Wipfli](http://www.wipfli.com)** | **[Product Implementation Internship-Summer 2026](https://jobright.ai/jobs/info/68c88e0095f5211cd2ce66fb?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 27 |
+| **[Sparkcentral by Hootsuite](http://www.sparkcentral.com)** | **[Co-Op/Intern, Product Management](https://jobright.ai/jobs/info/69285cb9d47de4798ece2981?utm_campaign=1047&utm_source=git)** | Location, WV | On Site | Nov 27 |
 | **[Red Hat](http://www.redhat.com)** | **[Product Training Analyst Intern](https://jobright.ai/jobs/info/68f01e809821486c423c8e3d?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Nov 27 |
 | **[Wipfli](http://www.wipfli.com)** | **[Product Implementation Internship-Summer 2026](https://jobright.ai/jobs/info/68f88822a628d10664e83a56?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 27 |
 | **[Oatey Company](https://www.oatey.com//)** | **[Product Management Intern](https://jobright.ai/jobs/info/68c8e25695f5211cd2ceac3e?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Nov 27 |
@@ -73,7 +77,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Product Manager Intern](https://jobright.ai/jobs/info/6927bc8af0beb0723262d8bd?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Nov 26 |
 | **[Agropur](http://www.agropur.com/en/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6921020700c9ee50eaecaccd?utm_campaign=1047&utm_source=git)** | Wisconsin, United States | On Site | Nov 26 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Product Specialist](https://jobright.ai/jobs/info/6927c34cd47de4798ece03b9?utm_campaign=1047&utm_source=git)** | Maryland Heights, MO | On Site | Nov 26 |
-| **[Crown Fund](Crownfund.co)** | **[Product Development Intern](https://jobright.ai/jobs/info/6927a36f91ceeb2e8a541d04?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Nov 26 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Product Management - Cytology and Pathology](https://jobright.ai/jobs/info/6927985fd47de4798ecdee33?utm_campaign=1047&utm_source=git)** | Marlborough, MA | On Site | Nov 26 |
 | **[Wisk](https://wisk.aero)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/692797b191ceeb2e8a54178a?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Nov 26 |
 | **[GitHub](https://github.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69279354d47de4798ecdeab2?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691600789c388539cbdf7341?utm_campaign=1047&utm_source=git)** | Tucson, AZ | Hybrid | Nov 24 |
 | **[Sycamore Tree Capital Partners, L.P.](https://www.sycamorelp.com/)** | **[Product Management Summer Intern](https://jobright.ai/jobs/info/6924b5b1ec574f4265bb60e6?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 24 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Insight Product & Strategy Intern](https://jobright.ai/jobs/info/6924b4c338cd5478a8d5ccb9?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691637a89c388539cbdf8c25?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Nov 24 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/691638869c388539cbdf8ca7?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | Hybrid | Nov 24 |
-| **[Machina Labs](https://machinalabs.ai)** | **[Product Management, Intern](https://jobright.ai/jobs/info/6924b253ec574f4265bb5daf?utm_campaign=1047&utm_source=git)** | Chatsworth, CA | On Site | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
