@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HeyGen](https://www.heygen.com)** | **[Product Manager, New Graduate Internship](https://jobright.ai/jobs/info/6928b4a2f0beb072326311ac?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 27 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Business Process Analyst, Summer FIS University Program 2026](https://jobright.ai/jobs/info/6911a811988c2b7b4ec55d48?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Nov 27 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Digital Technology (DT) - Inbound Product Manager Intern](https://jobright.ai/jobs/info/690c30394a1b456627b16d2b?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | Hybrid | Nov 27 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Manager MBA Intern, Enterprise AI - Summer 2026](https://jobright.ai/jobs/info/691b2196bcdbf3560c9dcd31?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Nov 27 |
@@ -99,8 +100,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Private Brand Consumables Product Development Intern (M-W in office)](https://jobright.ai/jobs/info/692731cbd47de4798ecda9ce?utm_campaign=1047&utm_source=git)** | Livonia, MI | On Site | Nov 26 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Product Internship - Summer 2026](https://jobright.ai/jobs/info/6921092e00c9ee50eaecafd3?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Tencent](https://www.tencent.com/)** | **[Product Intern](https://jobright.ai/jobs/info/691654819c388539cbdf9fea?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | On Site | Nov 26 |
+| **[Acuity Insurance](http://www.acuity.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/690abaf0bcccf20de59e5530?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Force Factor](https://forcefactor.com/)** | **[Winter/Spring Product Development Internship](https://jobright.ai/jobs/info/68d338b317554c2d9eeeed6b?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Nov 26 |
-| **[Acuity Insurance](http://www.acuity.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/690ac6174a1b456627b0b3ea?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Webull Financial](https://www.webullcorp.com)** | **[Webull 2026 Summer Internship - NY](https://jobright.ai/jobs/info/690111d4f8ce7a040fdbbb4d?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 26 |
 | **[Rippling](https://www.rippling.com)** | **[Product Lead Internship - Summer 2026](https://jobright.ai/jobs/info/690a98574a1b456627b098ea?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Nov 26 |
 | **[Phenomenex](http://www.phenomenex.com)** | **[Product Management & Strategy Intern](https://jobright.ai/jobs/info/68eeff9a20456578d5eb3d9f?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Nov 26 |
@@ -145,7 +146,7 @@ For a complete list, click the following sortable link below:
 | **[Machina Labs](https://machinalabs.ai)** | **[Product Management, Intern](https://jobright.ai/jobs/info/6924dc4338cd5478a8d5ebf4?utm_campaign=1047&utm_source=git)** | Chatsworth, CA | On Site | Nov 24 |
 | **[McGraw Hill](http://www.mheducation.com)** | **[Sci-Tech Digital Product Internship](https://jobright.ai/jobs/info/692518bdec574f4265bbba11?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Nov 24 |
 | **[HAI Group](https://www.housingcenter.com/)** | **[IT Product Management Intern](https://jobright.ai/jobs/info/6924de76c0cefa13343e2f91?utm_campaign=1047&utm_source=git)** | Cheshire, CT | On Site | Nov 24 |
-| **[VF Corporation](http://www.vfc.com)** | **[Summer 2026 Product Intern](https://jobright.ai/jobs/info/6924daeeec574f4265bb7d10?utm_campaign=1047&utm_source=git)** | USCA > USA > California > Costa Mesa HQ Bldg2 - VFC | Hybrid | Nov 24 |
+| **[VF Corporation](http://www.vfc.com)** | **[Summer 2026 Product Intern](https://jobright.ai/jobs/info/6924db06ec574f4265bb7d18?utm_campaign=1047&utm_source=git)** | USCA > USA > California > Costa Mesa HQ Bldg2 - VFC | Hybrid | Nov 24 |
 | **[Altra Running](https://www.altrarunning.com/)** | **[Summer 2026 Product Intern](https://jobright.ai/jobs/info/6924d887ec574f4265bb7c2d?utm_campaign=1047&utm_source=git)** | USCA > USA > California > Costa Mesa HQ Bldg2 - VFC | Hybrid | Nov 24 |
 | **[Tapestry](http://www.tapestry.com/)** | **[Summer Supply Chain, Product Development, Procurement & Operations Internships](https://jobright.ai/jobs/info/6924d60038cd5478a8d5e58b?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Product Delivery Intern](https://jobright.ai/jobs/info/6924d2dc38cd5478a8d5e333?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | Hybrid | Nov 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, Autonomous Vehicles ADAS - Summer 2026](https://jobright.ai/jobs/info/6924c789c0cefa13343e1cfd?utm_campaign=1047&utm_source=git)** | US, CA, Santa Clara | On Site | Nov 24 |
 | **[IBM](http://www.ibm.com)** | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/69169fe96f36db06ef0586e7?utm_campaign=1047&utm_source=git)** | Tucson, AZ | Hybrid | Nov 24 |
 | ↳ | **[Product Management Intern 2026](https://jobright.ai/jobs/info/691f8a483f782d2f1afbd8a6?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Nov 24 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/6916056c9c388539cbdf74e0?utm_campaign=1047&utm_source=git)** | Rochester, MN | Hybrid | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
