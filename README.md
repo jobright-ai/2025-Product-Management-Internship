@@ -66,7 +66,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69203a7ba49a885af9a37834?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Nov 27 |
 | **[Sezzle](https://sezzle.com)** | **[Product Intern](https://jobright.ai/jobs/info/691de103ad5a51703479776e?utm_campaign=1047&utm_source=git)** | Canada | Remote | Nov 27 |
 | **[Wipfli](http://www.wipfli.com)** | **[Product Implementation Internship-Summer 2026](https://jobright.ai/jobs/info/68c88e0095f5211cd2ce66fb?utm_campaign=1047&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 27 |
-| **[Sparkcentral by Hootsuite](http://www.sparkcentral.com)** | **[Co-Op/Intern, Product Management](https://jobright.ai/jobs/info/69285cb9d47de4798ece2981?utm_campaign=1047&utm_source=git)** | Location, WV | On Site | Nov 27 |
 | **[Red Hat](http://www.redhat.com)** | **[Product Training Analyst Intern](https://jobright.ai/jobs/info/68f01e809821486c423c8e3d?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Nov 27 |
 | **[Wipfli](http://www.wipfli.com)** | **[Product Implementation Internship-Summer 2026](https://jobright.ai/jobs/info/68f88822a628d10664e83a56?utm_campaign=1047&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 27 |
 | **[Oatey Company](https://www.oatey.com//)** | **[Product Management Intern](https://jobright.ai/jobs/info/68c8e25695f5211cd2ceac3e?utm_campaign=1047&utm_source=git)** | Cleveland, OH | On Site | Nov 27 |
@@ -101,8 +100,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Private Brand Consumables Product Development Intern (M-W in office)](https://jobright.ai/jobs/info/692731cbd47de4798ecda9ce?utm_campaign=1047&utm_source=git)** | Livonia, MI | On Site | Nov 26 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Product Internship - Summer 2026](https://jobright.ai/jobs/info/6921092e00c9ee50eaecafd3?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Tencent](https://www.tencent.com/)** | **[Product Intern](https://jobright.ai/jobs/info/691654819c388539cbdf9fea?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | On Site | Nov 26 |
-| **[Acuity Insurance](http://www.acuity.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/690abaf0bcccf20de59e5530?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Force Factor](https://forcefactor.com/)** | **[Winter/Spring Product Development Internship](https://jobright.ai/jobs/info/68d338b317554c2d9eeeed6b?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Nov 26 |
+| **[Acuity Insurance](http://www.acuity.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/690ac6174a1b456627b0b3ea?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Webull Financial](https://www.webullcorp.com)** | **[Webull 2026 Summer Internship - NY](https://jobright.ai/jobs/info/690111d4f8ce7a040fdbbb4d?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 26 |
 | **[Rippling](https://www.rippling.com)** | **[Product Lead Internship - Summer 2026](https://jobright.ai/jobs/info/690a98574a1b456627b098ea?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Nov 26 |
 | **[Phenomenex](http://www.phenomenex.com)** | **[Product Management & Strategy Intern](https://jobright.ai/jobs/info/68eeff9a20456578d5eb3d9f?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Nov 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Altra Running](https://www.altrarunning.com/)** | **[Summer 2026 Product Intern](https://jobright.ai/jobs/info/6924ea1cc0cefa13343e4090?utm_campaign=1047&utm_source=git)** | USCA > USA > Colorado > Denver HQ - VFC | Hybrid | Nov 24 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, Autonomous Vehicles ADAS - Summer 2026](https://jobright.ai/jobs/info/6924c789c0cefa13343e1cfd?utm_campaign=1047&utm_source=git)** | US, CA, Santa Clara | On Site | Nov 24 |
 | **[IBM](http://www.ibm.com)** | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/69169fe96f36db06ef0586e7?utm_campaign=1047&utm_source=git)** | Tucson, AZ | Hybrid | Nov 24 |
+| ↳ | **[Product Management Intern 2026](https://jobright.ai/jobs/info/691f8a483f782d2f1afbd8a6?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
