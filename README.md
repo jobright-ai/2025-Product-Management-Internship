@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tencent](https://www.tencent.com/)** | **[[Tencent Cloud 2026 Internship Program] Product Intern, Real-Time Interaction PaaS (Shenzhen)](https://jobright.ai/jobs/info/6914767e9c388539cbdec436?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Nov 27 |
 | **[HeyGen](https://www.heygen.com)** | **[Product Manager, New Graduate Internship](https://jobright.ai/jobs/info/6928b4a2f0beb072326311ac?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 27 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Business Process Analyst, Summer FIS University Program 2026](https://jobright.ai/jobs/info/6911a811988c2b7b4ec55d48?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Nov 27 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Digital Technology (DT) - Inbound Product Manager Intern](https://jobright.ai/jobs/info/690c30394a1b456627b16d2b?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | Hybrid | Nov 27 |
@@ -146,7 +147,7 @@ For a complete list, click the following sortable link below:
 | **[Machina Labs](https://machinalabs.ai)** | **[Product Management, Intern](https://jobright.ai/jobs/info/6924dc4338cd5478a8d5ebf4?utm_campaign=1047&utm_source=git)** | Chatsworth, CA | On Site | Nov 24 |
 | **[McGraw Hill](http://www.mheducation.com)** | **[Sci-Tech Digital Product Internship](https://jobright.ai/jobs/info/692518bdec574f4265bbba11?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Nov 24 |
 | **[HAI Group](https://www.housingcenter.com/)** | **[IT Product Management Intern](https://jobright.ai/jobs/info/6924de76c0cefa13343e2f91?utm_campaign=1047&utm_source=git)** | Cheshire, CT | On Site | Nov 24 |
-| **[VF Corporation](http://www.vfc.com)** | **[Summer 2026 Product Intern](https://jobright.ai/jobs/info/6924db06ec574f4265bb7d18?utm_campaign=1047&utm_source=git)** | USCA > USA > California > Costa Mesa HQ Bldg2 - VFC | Hybrid | Nov 24 |
+| **[VF Corporation](http://www.vfc.com)** | **[Summer 2026 Product Intern](https://jobright.ai/jobs/info/6924daeeec574f4265bb7d10?utm_campaign=1047&utm_source=git)** | USCA > USA > California > Costa Mesa HQ Bldg2 - VFC | Hybrid | Nov 24 |
 | **[Altra Running](https://www.altrarunning.com/)** | **[Summer 2026 Product Intern](https://jobright.ai/jobs/info/6924d887ec574f4265bb7c2d?utm_campaign=1047&utm_source=git)** | USCA > USA > California > Costa Mesa HQ Bldg2 - VFC | Hybrid | Nov 24 |
 | **[Tapestry](http://www.tapestry.com/)** | **[Summer Supply Chain, Product Development, Procurement & Operations Internships](https://jobright.ai/jobs/info/6924d60038cd5478a8d5e58b?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Product Delivery Intern](https://jobright.ai/jobs/info/6924d2dc38cd5478a8d5e333?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | Hybrid | Nov 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Altra Running](https://www.altrarunning.com/)** | **[Summer 2026 Product Intern](https://jobright.ai/jobs/info/6924ea1cc0cefa13343e4090?utm_campaign=1047&utm_source=git)** | USCA > USA > Colorado > Denver HQ - VFC | Hybrid | Nov 24 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, Autonomous Vehicles ADAS - Summer 2026](https://jobright.ai/jobs/info/6924c789c0cefa13343e1cfd?utm_campaign=1047&utm_source=git)** | US, CA, Santa Clara | On Site | Nov 24 |
 | **[IBM](http://www.ibm.com)** | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/69169fe96f36db06ef0586e7?utm_campaign=1047&utm_source=git)** | Tucson, AZ | Hybrid | Nov 24 |
-| ↳ | **[Product Management Intern 2026](https://jobright.ai/jobs/info/691f8a483f782d2f1afbd8a6?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | Hybrid | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
