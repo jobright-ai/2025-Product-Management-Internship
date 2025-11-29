@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Agropur](http://www.agropur.com/en/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6921020700c9ee50eaecaccd?utm_campaign=1047&utm_source=git)** | Wisconsin, United States | On Site | Nov 28 |
 | **[Crown Fund](Crownfund.co)** | **[Product Management Intern](https://jobright.ai/jobs/info/692a53df4c474121999cbf1f?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 28 |
 | **[McCain Foods](http://www.mccain.com)** | **[Research and Development Product Development Internship](https://jobright.ai/jobs/info/690d7970221b890c278070d0?utm_campaign=1047&utm_source=git)** | Appleton, WI | On Site | Nov 28 |
 | **[Skydio](https://www.skydio.com)** | **[Hardware Product Management Intern](https://jobright.ai/jobs/info/68efff76de50091dbfa5156b?utm_campaign=1047&utm_source=git)** | San Mateo, CA | On Site | Nov 28 |
@@ -92,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Tinder](http://www.tinder.com)** | **[Product Intern](https://jobright.ai/jobs/info/6920fafa3f782d2f1afcdda5?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 26 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Product Manager Intern](https://jobright.ai/jobs/info/6927c41f91ceeb2e8a542e9d?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Nov 26 |
 | ↳ | **[Summer 2026 Product Manager Intern](https://jobright.ai/jobs/info/6927bc8af0beb0723262d8bd?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Nov 26 |
-| **[Agropur](http://www.agropur.com/en/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6921020700c9ee50eaecaccd?utm_campaign=1047&utm_source=git)** | Wisconsin, United States | On Site | Nov 26 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Product Specialist](https://jobright.ai/jobs/info/6927c34cd47de4798ece03b9?utm_campaign=1047&utm_source=git)** | Maryland Heights, MO | On Site | Nov 26 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Product Management - Cytology and Pathology](https://jobright.ai/jobs/info/6927985fd47de4798ecdee33?utm_campaign=1047&utm_source=git)** | Marlborough, MA | On Site | Nov 26 |
 | **[Wisk](https://wisk.aero)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/692797b191ceeb2e8a54178a?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Nov 26 |
