@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Qualcomm](http://www.qualcomm.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68fcc9d2e04ac838fb5aca41?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Nov 29 |
+| **[ByteDance](http://bytedance.com)** | **[Product Manager Intern (Multi-Cloud CDN)- 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68f1bc32f462172a5a7dbdea?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-PGC)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6915a08b6f36db06ef0500a2?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 29 |
 | ↳ | **[Product Manager Intern (TikTok Shop Seller Platform) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6916cfe19c388539cbdfecf1?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 29 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern-Program/Product Development](https://jobright.ai/jobs/info/690e3b3fd046ab6061cfb778?utm_campaign=1047&utm_source=git)** | Detroit, MI | Hybrid | Nov 29 |
@@ -133,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern - SMB Industry Operations - 2025 Start (BS/ MS)](https://jobright.ai/jobs/info/69268d6127bf2f41a2c46f3f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 25 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management Intern, Enterprise Products - Summer 2026](https://jobright.ai/jobs/info/692681af27bf2f41a2c46a01?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Nov 25 |
 | ↳ | **[Product Management Intern, Enterprise Products - Summer 2026](https://jobright.ai/jobs/info/69264bf4d47de4798ecd62ff?utm_campaign=1047&utm_source=git)** | US, CA, Santa Clara | On Site | Nov 25 |
-| **[American Greetings](http://americangreetings.com)** | **[Category/Product Management Internship (Hybrid) – Summer 2026](https://jobright.ai/jobs/info/6921acf23f782d2f1afd34c7?utm_campaign=1047&utm_source=git)** | Westlake, OH | Hybrid | Nov 25 |
 | **[Schneider Electric](https://www.se.com)** | **[Offer Management Intern](https://jobright.ai/jobs/info/69261676d47de4798ecd462b?utm_campaign=1047&utm_source=git)** | Morristown, NJ | Hybrid | Nov 25 |
 | **[Niterra North America, Inc.](https://niterranorthamerica.com)** | **[Intern - Product](https://jobright.ai/jobs/info/6925e2c4f0beb0723262013e?utm_campaign=1047&utm_source=git)** | Wixom, MI | On Site | Nov 25 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Digital Product Manager Intern](https://jobright.ai/jobs/info/69274397d47de4798ecdb09b?utm_campaign=1047&utm_source=git)** | Plymouth, MN | Hybrid | Nov 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Digital Asset Product Internship – Early Careers](https://jobright.ai/jobs/info/6925027bc0cefa13343e5720?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 24 |
 | ↳ | **[Summer 2026 ETF Product Development Internship - Early Careers](https://jobright.ai/jobs/info/69250044c0cefa13343e54e2?utm_campaign=1047&utm_source=git)** | Downers Grove, IL | On Site | Nov 24 |
 | **[VF Corporation](http://www.vfc.com)** | **[Summer 2026 Product Intern](https://jobright.ai/jobs/info/6924fa57ec574f4265bba127?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Nov 24 |
-| **[Machina Labs](https://machinalabs.ai)** | **[Product Management, Intern](https://jobright.ai/jobs/info/6924dc4338cd5478a8d5ebf4?utm_campaign=1047&utm_source=git)** | Chatsworth, CA | On Site | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
