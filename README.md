@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crown Fund](Crownfund.co)** | **[Product Management Intern](https://jobright.ai/jobs/info/692a53df4c474121999cbf1f?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 28 |
 | **[McCain Foods](http://www.mccain.com)** | **[Research and Development Product Development Internship](https://jobright.ai/jobs/info/690d7970221b890c278070d0?utm_campaign=1047&utm_source=git)** | Appleton, WI | On Site | Nov 28 |
 | **[Skydio](https://www.skydio.com)** | **[Hardware Product Management Intern](https://jobright.ai/jobs/info/68efff76de50091dbfa5156b?utm_campaign=1047&utm_source=git)** | San Mateo, CA | On Site | Nov 28 |
 | **[Tyler Technologies](https://www.tylertech.com)** | **[Product Analyst Intern, Summer 2026](https://jobright.ai/jobs/info/68cda69db2a74e1837eda47a?utm_campaign=1047&utm_source=git)** | Plano, TX | On Site | Nov 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 ETF Product Development Internship - Early Careers](https://jobright.ai/jobs/info/69250044c0cefa13343e54e2?utm_campaign=1047&utm_source=git)** | Downers Grove, IL | On Site | Nov 24 |
 | **[VF Corporation](http://www.vfc.com)** | **[Summer 2026 Product Intern](https://jobright.ai/jobs/info/6924fa57ec574f4265bba127?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Nov 24 |
 | **[Machina Labs](https://machinalabs.ai)** | **[Product Management, Intern](https://jobright.ai/jobs/info/6924dc4338cd5478a8d5ebf4?utm_campaign=1047&utm_source=git)** | Chatsworth, CA | On Site | Nov 24 |
-| **[McGraw Hill](http://www.mheducation.com)** | **[Sci-Tech Digital Product Internship](https://jobright.ai/jobs/info/692518bdec574f4265bbba11?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
