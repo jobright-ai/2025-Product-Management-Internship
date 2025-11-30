@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brunswick Corporation](http://www.brunswick.com)** | **[Parts & Accessories Product Management Intern](https://jobright.ai/jobs/info/68f9d5c77b89366816034725?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI | On Site | Nov 30 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Sales Product Owner - 2026 Summer Internship (Chicago Hybrid)](https://jobright.ai/jobs/info/68d7493ce5293e3538af39dd?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Nov 30 |
 | **[American Greetings](http://americangreetings.com)** | **[Product Management Intern (Hybrid) – Summer 2026](https://jobright.ai/jobs/info/692258ffd1ec2c3565c47194?utm_campaign=1047&utm_source=git)** | Westlake, OH | Hybrid | Nov 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern - SMB Industry Operations - 2025 Start (BS/ MS)](https://jobright.ai/jobs/info/68f223ddcb0abf15612f475e?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 30 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[Ecommerce Development Intern](https://jobright.ai/jobs/info/68bb8d655f38327491870378?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Nov 30 |
@@ -134,8 +136,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Private Brand Consumables Product Development Intern (M-W in office)](https://jobright.ai/jobs/info/692731cbd47de4798ecda9ce?utm_campaign=1047&utm_source=git)** | Livonia, MI | On Site | Nov 26 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Product Internship - Summer 2026](https://jobright.ai/jobs/info/6921092e00c9ee50eaecafd3?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Tencent](https://www.tencent.com/)** | **[Product Intern](https://jobright.ai/jobs/info/691654819c388539cbdf9fea?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | On Site | Nov 26 |
+| **[Acuity Insurance](http://www.acuity.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/690abaf0bcccf20de59e5530?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Force Factor](https://forcefactor.com/)** | **[Winter/Spring Product Development Internship](https://jobright.ai/jobs/info/68d338b317554c2d9eeeed6b?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Nov 26 |
-| **[Acuity Insurance](http://www.acuity.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/690ac6174a1b456627b0b3ea?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Webull Financial](https://www.webullcorp.com)** | **[Webull 2026 Summer Internship - NY](https://jobright.ai/jobs/info/690111d4f8ce7a040fdbbb4d?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 26 |
 | **[Rippling](https://www.rippling.com)** | **[Product Lead Internship - Summer 2026](https://jobright.ai/jobs/info/690a98574a1b456627b098ea?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Nov 26 |
 | **[Phenomenex](http://www.phenomenex.com)** | **[Product Management & Strategy Intern](https://jobright.ai/jobs/info/68eeff9a20456578d5eb3d9f?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Nov 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Schneider Electric](https://www.se.com)** | **[Offer Management Intern](https://jobright.ai/jobs/info/69261676d47de4798ecd462b?utm_campaign=1047&utm_source=git)** | Morristown, NJ | Hybrid | Nov 25 |
 | **[Niterra North America, Inc.](https://niterranorthamerica.com)** | **[Intern - Product](https://jobright.ai/jobs/info/6925e2c4f0beb0723262013e?utm_campaign=1047&utm_source=git)** | Wixom, MI | On Site | Nov 25 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Digital Product Manager Intern](https://jobright.ai/jobs/info/69274397d47de4798ecdb09b?utm_campaign=1047&utm_source=git)** | Plymouth, MN | Hybrid | Nov 25 |
-| **[Constellation Brands](http://cbrands.com)** | **[Integrated Business Planning (IBP) Product Intern](https://jobright.ai/jobs/info/6925e4f6f0beb07232620239?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Nov 25 |
-| **[Riot Games](http://www.riotgames.com)** | **[Insights Analyst Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69092852d046ab6061cd2427?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Remote | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
