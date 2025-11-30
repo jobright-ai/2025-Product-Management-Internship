@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern E&C Large](https://jobright.ai/jobs/info/6922d1ab7795cd460c837493?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Nov 30 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Product Strategist)](https://jobright.ai/jobs/info/691d7dde7481340785ed80df?utm_campaign=1047&utm_source=git)** | Vienna, VA | Hybrid | Nov 30 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Parts & Accessories Product Management Intern](https://jobright.ai/jobs/info/68f9d5c77b89366816034725?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI | On Site | Nov 30 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Sales Product Owner - 2026 Summer Internship (Chicago Hybrid)](https://jobright.ai/jobs/info/68d7493ce5293e3538af39dd?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Nov 30 |
-| **[American Greetings](http://americangreetings.com)** | **[Product Management Intern (Hybrid) – Summer 2026](https://jobright.ai/jobs/info/692258ffd1ec2c3565c47194?utm_campaign=1047&utm_source=git)** | Westlake, OH | Hybrid | Nov 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern - SMB Industry Operations - 2025 Start (BS/ MS)](https://jobright.ai/jobs/info/68f223ddcb0abf15612f475e?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 30 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[Ecommerce Development Intern](https://jobright.ai/jobs/info/68bb8d655f38327491870378?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Nov 30 |
 | **[Lennox](http://www.lennox.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68f864b34bafad6d2d7622b0?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Nov 30 |
@@ -76,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Red Ventures](http://www.redventures.com)** | **[2026 LAUNCH Program: Data Science Product Manager Intern](https://jobright.ai/jobs/info/68f312cf9a63986de756ec54?utm_campaign=1047&utm_source=git)** | Charlotte, NC | Hybrid | Nov 29 |
 | **[ABB](https://global.abb/group/en)** | **[Internship Global Product Specialist](https://jobright.ai/jobs/info/692b0decfa28370be26982a3?utm_campaign=1047&utm_source=git)** | Location, WV | On Site | Nov 29 |
 | **[DRB](https://drb.com)** | **[Product Lifecycle Management Intern - Summer 2026](https://jobright.ai/jobs/info/690e6d1f221b890c2780de6c?utm_campaign=1047&utm_source=git)** | Akron, OH | Hybrid | Nov 29 |
-| **[CNH](http://www.cnhindustrial.com)** | **[Product Development Purchasing Intern - Large Tractors](https://jobright.ai/jobs/info/692af92b66796e3028f8fdb4?utm_campaign=1047&utm_source=git)** | Oak Brook, IL | On Site | Nov 29 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Product Management Intern (Summer 2026) - St. Louis, MO](https://jobright.ai/jobs/info/691ab472bcdbf3560c9d9c69?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Nov 29 |
 | **[Qualcomm](http://www.qualcomm.com)** | **[Product Management Internship - Summer 2026](https://jobright.ai/jobs/info/68fcc9d2e04ac838fb5aca41?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Nov 29 |
 | **[ByteDance](http://bytedance.com)** | **[Product Manager Intern (Multi-Cloud CDN)- 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68f1bc32f462172a5a7dbdea?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 29 |
