@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69100b7fbb519377733ea657?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Dec 01 |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Product Specialist](https://jobright.ai/jobs/info/692d6640fa28370be269cb60?utm_campaign=1047&utm_source=git)** | Maryland Heights, MO | On Site | Dec 01 |
 | **[Sparkcentral by Hootsuite](http://www.sparkcentral.com)** | **[Co-Op/Intern, Product Management](https://jobright.ai/jobs/info/692cc60a66796e3028f935a7?utm_campaign=1047&utm_source=git)** | Location, WV | On Site | Nov 30 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern E&C Large](https://jobright.ai/jobs/info/6922d1ab7795cd460c837493?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Nov 30 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Product Strategist)](https://jobright.ai/jobs/info/691d7dde7481340785ed80df?utm_campaign=1047&utm_source=git)** | Vienna, VA | Hybrid | Nov 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management Intern, Enterprise Products - Summer 2026](https://jobright.ai/jobs/info/692681af27bf2f41a2c46a01?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Nov 25 |
 | ↳ | **[Product Management Intern, Enterprise Products - Summer 2026](https://jobright.ai/jobs/info/69264bf4d47de4798ecd62ff?utm_campaign=1047&utm_source=git)** | US, CA, Santa Clara | On Site | Nov 25 |
 | **[American Greetings](http://americangreetings.com)** | **[Category/Product Management Internship (Hybrid) – Summer 2026](https://jobright.ai/jobs/info/6921acf23f782d2f1afd34c7?utm_campaign=1047&utm_source=git)** | Westlake, OH | Hybrid | Nov 25 |
-| **[Schneider Electric](https://www.se.com)** | **[Offer Management Intern](https://jobright.ai/jobs/info/69261676d47de4798ecd462b?utm_campaign=1047&utm_source=git)** | Morristown, NJ | Hybrid | Nov 25 |
-| **[Niterra North America, Inc.](https://niterranorthamerica.com)** | **[Intern - Product](https://jobright.ai/jobs/info/6925e2c4f0beb0723262013e?utm_campaign=1047&utm_source=git)** | Wixom, MI | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
