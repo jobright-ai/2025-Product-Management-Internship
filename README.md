@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern E&C Large](https://jobright.ai/jobs/info/6922d1ab7795cd460c837493?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Nov 30 |
+| **[Stratgroup International](https://www.linkedin.com/company/105868180)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/692cd43ffa28370be269b93d?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 30 |
+| **[Sparkcentral by Hootsuite](http://www.sparkcentral.com)** | **[Co-Op/Intern, Product Management](https://jobright.ai/jobs/info/692cc60a66796e3028f935a7?utm_campaign=1047&utm_source=git)** | Location, WV | On Site | Nov 30 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Product Strategist)](https://jobright.ai/jobs/info/691d7dde7481340785ed80df?utm_campaign=1047&utm_source=git)** | Vienna, VA | Hybrid | Nov 30 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Parts & Accessories Product Management Intern](https://jobright.ai/jobs/info/68f9d5c77b89366816034725?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI | On Site | Nov 30 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Sales Product Owner - 2026 Summer Internship (Chicago Hybrid)](https://jobright.ai/jobs/info/68d7493ce5293e3538af39dd?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Nov 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hootsuite](https://hootsuite.com/)** | **[Co-op/Intern, Product Management](https://jobright.ai/jobs/info/691e9c7f09cc522e8773b333?utm_campaign=1047&utm_source=git)** | Toronto, Canada | On Site | Nov 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern - SMB Industry Operations - 2025 Start (BS/ MS)](https://jobright.ai/jobs/info/69268d6127bf2f41a2c46f3f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 25 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management Intern, Enterprise Products - Summer 2026](https://jobright.ai/jobs/info/692681af27bf2f41a2c46a01?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Nov 25 |
-| ↳ | **[Product Management Intern, Enterprise Products - Summer 2026](https://jobright.ai/jobs/info/69264bf4d47de4798ecd62ff?utm_campaign=1047&utm_source=git)** | US, CA, Santa Clara | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
