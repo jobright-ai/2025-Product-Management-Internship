@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[SkyrisAI](https://www.linkedin.com/company/105658415)** | **[Product Manager](https://jobright.ai/jobs/info/692e7c3d4c474121999d9cc1?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 01 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Management Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/68e6cdb6ae2b894b1d71ddad?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 01 |
 | **[Lumafield](https://www.lumafield.com)** | **[Product Intern, Hardware](https://jobright.ai/jobs/info/692e6f48ef4b48533d13fd54?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Dec 01 |
 | **[Centric Brands](https://centricbrands.com)** | **[Production/Product Development Intern – Summer 2026 Internship Program](https://jobright.ai/jobs/info/692e69fb4c474121999d94ac?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Dec 01 |
@@ -92,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern - SMB Industry Operations - 2025 Start (BS/ MS)](https://jobright.ai/jobs/info/68f223ddcb0abf15612f475e?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 30 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[Ecommerce Development Intern](https://jobright.ai/jobs/info/68bb8d655f38327491870378?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Nov 30 |
 | **[Lennox](http://www.lennox.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68f864b34bafad6d2d7622b0?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Nov 30 |
+| **[Ampliwork](https://qlytics.com/)** | **[AI Associate Product Manager Intern](https://jobright.ai/jobs/info/692e7dc94c474121999d9d51?utm_campaign=1047&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 29 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68faf6c09e8e925ac6c87ec2?utm_campaign=1047&utm_source=git)** | Westchester, IL | Hybrid | Nov 29 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Credit Card Experiences Product Manager)](https://jobright.ai/jobs/info/691cfaa5bcdbf3560c9ebee4?utm_campaign=1047&utm_source=git)** | Vienna, VA | Hybrid | Nov 29 |
 | ↳ | **[Summer Associate Internship (Product Strategist)](https://jobright.ai/jobs/info/691ce03aff7024498416b426?utm_campaign=1047&utm_source=git)** | Vienna, VA | Hybrid | Nov 29 |
