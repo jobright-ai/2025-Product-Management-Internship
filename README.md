@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Product Development, Intern](https://jobright.ai/jobs/info/691a9f3315b415636718960e?utm_campaign=1047&utm_source=git)** | Hunt Valley, MD | On Site | Dec 02 |
+| **[Adobe](http://www.adobe.com)** | **[2026 SAMI Intern - Product Manager, Community Engagement](https://jobright.ai/jobs/info/6912da16c98948514c47ed07?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 02 |
+| ↳ | **[2026 SAMI Intern - Product Manager, AI Experience](https://jobright.ai/jobs/info/6912df28d1047e3565cffd35?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 02 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/692eb11c4c474121999da81f?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 02 |
 | **[Kyron Medical](https://www.kyronmedical.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/692ead84fa28370be26a5911?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 02 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Management Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/68e6cdb6ae2b894b1d71ddad?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 01 |
@@ -71,7 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692e088afa28370be26a088d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 01 |
 | ↳ | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692e0368fa28370be26a04a4?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Dec 01 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Food and Beverage Innovation](https://jobright.ai/jobs/info/692dfe924c474121999d511b?utm_campaign=1047&utm_source=git)** | 5508 Lonas Drive, Knoxville, TN | On Site | Dec 01 |
-| **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/692e2849ef4b48533d13d25c?utm_campaign=1047&utm_source=git)** | Elkhart, IN | On Site | Dec 01 |
+| **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/692e2726fa28370be26a1cdd?utm_campaign=1047&utm_source=git)** | Elkhart, IN | On Site | Dec 01 |
 | **[United Educators](https://www.ue.org/)** | **[Product Management Intern](https://jobright.ai/jobs/info/692e0a68fa28370be26a0a1f?utm_campaign=1047&utm_source=git)** | Bethesda, MD | Hybrid | Dec 01 |
 | **[TD SYNNEX North America](http://www.techdata.com)** | **[Summer 2026 Internship Program / Commercial Track: • Vendor Management • Marketing • Business Development • Product Management • Sales](https://jobright.ai/jobs/info/69087a66d046ab6061ccaa23?utm_campaign=1047&utm_source=git)** | Clearwater, FL | Hybrid | Dec 01 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Summer Intern, Advertising Product Management](https://jobright.ai/jobs/info/692dde204c474121999d3efb?utm_campaign=1047&utm_source=git)** | DC-Washington-TWP Headquarters | On Site | Dec 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Product Management - Cytology and Pathology](https://jobright.ai/jobs/info/6927872bd47de4798ecde105?utm_campaign=1047&utm_source=git)** | Marlborough, MA, United States | On Site | Nov 26 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Internal AI Product Management Intern, NYC](https://jobright.ai/jobs/info/692761ac91ceeb2e8a53e9ae?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Nov 26 |
 | **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Intern -Private Brand Consumables Product Development (M-W in office)](https://jobright.ai/jobs/info/69275d4191ceeb2e8a53e6f2?utm_campaign=1047&utm_source=git)** | US-MI-Livonia (Headquarters) | On Site | Nov 26 |
-| ↳ | **[Intern- Private Brand Hardgoods Product Development (In Office M-W)](https://jobright.ai/jobs/info/6927552491ceeb2e8a53e1a8?utm_campaign=1047&utm_source=git)** | US-MI-Livonia (Headquarters) | On Site | Nov 26 |
-| ↳ | **[Intern- Private Brand Hardgoods Product Development (In Office M-W)](https://jobright.ai/jobs/info/69275501f0beb072326291d9?utm_campaign=1047&utm_source=git)** | 17410 College Parkway | On Site | Nov 26 |
-| ↳ | **[Intern -Private Brand Consumables Product Development (M-W in office)](https://jobright.ai/jobs/info/692753dff0beb072326290e4?utm_campaign=1047&utm_source=git)** | 17410 College Parkway | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
