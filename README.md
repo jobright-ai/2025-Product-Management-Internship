@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Santander](https://www.santander.com/)** | **[Digital Product Management Intern](https://jobright.ai/jobs/info/692f1b4def4b48533d142c16?utm_campaign=1047&utm_source=git)** | Boston | On Site | Dec 02 |
+| **[PTC](http://ptc.co/VLED30oHtEh)** | **[ServiceMax Product Management Intern](https://jobright.ai/jobs/info/692f1144fa28370be26a7376?utm_campaign=1047&utm_source=git)** | San Ramon, CA | On Site | Dec 02 |
 | **[Henkel](http://www.henkel.com)** | **[Hair Color Product Development Intern - Fall 2026 - Summer 2027](https://jobright.ai/jobs/info/68c8fc8695f5211cd2cecbc8?utm_campaign=1047&utm_source=git)** | Darien, CT | Hybrid | Dec 02 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[ServiceMax Product Management Intern](https://jobright.ai/jobs/info/692eff04fa28370be26a6c1e?utm_campaign=1047&utm_source=git)** | USA-San Ramon, CA | On Site | Dec 02 |
 | **[Second Dinner](http://seconddinner.com)** | **[[2026] Product Manager Intern, Unannounced Super Fun Video Game](https://jobright.ai/jobs/info/68f6c88e76a51a4307bde40b?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Dec 02 |
@@ -68,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern [Global Monetization Product and Technology]-2026 Start (BS/MS)](https://jobright.ai/jobs/info/68db68d39f13662d20e4b0b9?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Dec 02 |
 | **[Adobe](http://www.adobe.com)** | **[2026 SAMI Intern - Product Manager, Community Engagement](https://jobright.ai/jobs/info/6912da16c98948514c47ed07?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 02 |
 | ↳ | **[2026 SAMI Intern - Product Manager, AI Experience](https://jobright.ai/jobs/info/6912df28d1047e3565cffd35?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 02 |
-| **[TalentAlly](http://www.prodivnet.com/)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/692eb11c4c474121999da81f?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 02 |
 | **[Kyron Medical](https://www.kyronmedical.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/692ead84fa28370be26a5911?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 02 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Management Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/68e6cdb6ae2b894b1d71ddad?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 01 |
 | **[Lumafield](https://www.lumafield.com)** | **[Product Intern, Hardware](https://jobright.ai/jobs/info/692e6f48ef4b48533d13fd54?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Dec 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate IT Product Intern - Summer 2026](https://jobright.ai/jobs/info/692e32f44c474121999d71d0?utm_campaign=1047&utm_source=git)** | Parsippany, NJ | On Site | Nov 26 |
 | **[GitHub](https://github.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69279354d47de4798ecdeab2?utm_campaign=1047&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Ferris State University College of Business](http://ferris.edu/business)** | **[KCAD Sponsored Project Intern – Product Development (Student Position)](https://jobright.ai/jobs/info/692789cb91ceeb2e8a540dc2?utm_campaign=1047&utm_source=git)** | Grand Rapids, MI | On Site | Nov 26 |
-| **[GoFundMe](http://www.gofundme.com)** | **[Product Management Internship (MBA)](https://jobright.ai/jobs/info/68dc5fa9accfd24b67e54e45?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
