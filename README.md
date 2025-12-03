@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zscaler](https://www.zscaler.com)** | **[Product Management Intern, AI](https://jobright.ai/jobs/info/692fc351ef4b48533d148b03?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Dec 02 |
+| **[CAS](http://www.cas.org)** | **[BU24IN- Product Management Intern](https://jobright.ai/jobs/info/692fb5a1fa28370be26ad05a?utm_campaign=1047&utm_source=git)** | Columbus, OH | Hybrid | Dec 02 |
 | **[Zscaler](https://www.zscaler.com)** | **[Product Management Intern, AI](https://jobright.ai/jobs/info/692fa543ef4b48533d147b8c?utm_campaign=1047&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 02 |
 | **[Okta](http://www.okta.com)** | **[MBA Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/692f9d36fa28370be26ac146?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 02 |
+| **[Visual Edge IT](https://visualedgeit.com/)** | **[Product Management Intern (Part Time)](https://jobright.ai/jobs/info/692f6e294c474121999dee7c?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 02 |
 | **[Teamworks](http://www.teamworks.com)** | **[Product Management MBA Intern (Remote)](https://jobright.ai/jobs/info/69046325ff462851feff4fe8?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 02 |
 | **[RR Donnelley](http://www.rrd.com)** | **[Product Management Summer Intern](https://jobright.ai/jobs/info/692f5e24ef4b48533d144934?utm_campaign=1047&utm_source=git)** | Warrenville, IL, USA | Hybrid | Dec 02 |
 | **[Panduit](http://www.panduit.com)** | **[Product Manager - Intern](https://jobright.ai/jobs/info/692f7fc94c474121999dfb56?utm_campaign=1047&utm_source=git)** | USA IL Tinley Park WHQ | Hybrid | Dec 02 |
@@ -83,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Centric Brands](https://centricbrands.com)** | **[Production/Product Development Intern – Summer 2026 Internship Program](https://jobright.ai/jobs/info/692e69fb4c474121999d94ac?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Dec 01 |
 | **[Cisco](http://www.cisco.com)** | **[AI Engineering Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692e78084c474121999d9bc5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 01 |
 | **[Centric Brands](https://centricbrands.com)** | **[Production/Product Development Intern – Summer 2026 Internship Program](https://jobright.ai/jobs/info/692e41dfef4b48533d13e0ad?utm_campaign=1047&utm_source=git)** | US-NY-New York | On Site | Dec 01 |
-| **[Visual Edge IT](https://visualedgeit.com/)** | **[Product Management Intern (Part Time)](https://jobright.ai/jobs/info/692f63abef4b48533d144d21?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 01 |
 | **[SailPoint](http://www.sailpoint.com)** | **[Product Operations, Intern](https://jobright.ai/jobs/info/692e15044c474121999d5f0d?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 01 |
 | **[Dometic](https://www.dometic.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/692e1271ef4b48533d13c4d2?utm_campaign=1047&utm_source=git)** | Troy, MI | On Site | Dec 01 |
 | **[The Washington Post](http://www.washingtonpost.com/)** | **[Summer Intern, Advertising Product Management](https://jobright.ai/jobs/info/692e0f584c474121999d5b2a?utm_campaign=1047&utm_source=git)** | Washington, DC | On Site | Dec 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Manager](https://jobright.ai/jobs/info/68d39e1217554c2d9eef38bd?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Nov 27 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68ccceeea77e5d7d744f5c50?utm_campaign=1047&utm_source=git)** | Westminster, CO | On Site | Nov 27 |
 | ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68c4e83f7d0db4114272ede8?utm_campaign=1047&utm_source=git)** | Dayton, OH | On Site | Nov 27 |
-| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6927ed45f0beb0723262edaa?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Nov 26 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[Product Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/6927ddae91ceeb2e8a543bca?utm_campaign=1047&utm_source=git)** | In-Office | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
