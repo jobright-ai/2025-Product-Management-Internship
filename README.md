@@ -60,7 +60,8 @@ For a complete list, click the following sortable link below:
 | **[Visual Edge IT](https://visualedgeit.com/)** | **[Product Management Intern (Part Time)](https://jobright.ai/jobs/info/692f6e294c474121999dee7c?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 02 |
 | **[Teamworks](http://www.teamworks.com)** | **[Product Management MBA Intern (Remote)](https://jobright.ai/jobs/info/69046325ff462851feff4fe8?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 02 |
 | **[RR Donnelley](http://www.rrd.com)** | **[Product Management Summer Intern](https://jobright.ai/jobs/info/692f5e24ef4b48533d144934?utm_campaign=1047&utm_source=git)** | Warrenville, IL, USA | Hybrid | Dec 02 |
-| ↳ | **[Product Management Summer Intern](https://jobright.ai/jobs/info/692f6165ef4b48533d144b97?utm_campaign=1047&utm_source=git)** | Warrenville, IL | Hybrid | Dec 02 |
+| **[Panduit](http://www.panduit.com)** | **[Product Manager - Intern](https://jobright.ai/jobs/info/692f7fc94c474121999dfb56?utm_campaign=1047&utm_source=git)** | USA IL Tinley Park WHQ | Hybrid | Dec 02 |
+| **[RR Donnelley](http://www.rrd.com)** | **[Product Management Summer Intern](https://jobright.ai/jobs/info/692f6165ef4b48533d144b97?utm_campaign=1047&utm_source=git)** | Warrenville, IL | Hybrid | Dec 02 |
 | **[AAWDC](www.aawdc.org)** | **[Product Associate Internship](https://jobright.ai/jobs/info/692f4f3f4c474121999ddb15?utm_campaign=1047&utm_source=git)** | North County | On Site | Dec 02 |
 | **[Pinnacle Private Credit](www.pinnacleprivatecredit.com)** | **[AI Product Intern](https://jobright.ai/jobs/info/692f5da8fa28370be26a9415?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 02 |
 | **[McGraw Hill](http://www.mheducation.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/692f5732fa28370be26a911b?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Dec 02 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[ServiceMax Product Management Intern](https://jobright.ai/jobs/info/692f1144fa28370be26a7376?utm_campaign=1047&utm_source=git)** | San Ramon, CA | On Site | Dec 02 |
 | ↳ | **[ServiceMax Product Management Intern](https://jobright.ai/jobs/info/692eff04fa28370be26a6c1e?utm_campaign=1047&utm_source=git)** | USA-San Ramon, CA | On Site | Dec 02 |
 | **[Second Dinner](http://seconddinner.com)** | **[[2026] Product Manager Intern, Unannounced Super Fun Video Game](https://jobright.ai/jobs/info/68f6c88e76a51a4307bde40b?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Dec 02 |
-| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Grid Automation Product Management Intern - Spring-Summer 2026](https://jobright.ai/jobs/info/689f34a779a9f96662554e28?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Dec 02 |
 | **[Root Inc.](https://www.root.com)** | **[Product Management Intern - Policyholder Experience](https://jobright.ai/jobs/info/691269f0d1047e3565cfc5bf?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 02 |
 | **[iCapital](https://icapital.com)** | **[Product Management - Summer 2026 Intern](https://jobright.ai/jobs/info/69125a3fd1047e3565cfba4b?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 02 |
 | **[Root Inc.](https://www.root.com)** | **[Product Management Intern - Distribution](https://jobright.ai/jobs/info/69124e73ea9ab01b82bf13c2?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 02 |
