@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Loyalty Products – Product Owner (Summer 2026)](https://jobright.ai/jobs/info/69309c424c474121999e690b?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Dec 03 |
+| **[Tinder](http://www.tinder.com)** | **[Product Intern](https://jobright.ai/jobs/info/6920fafa3f782d2f1afcdda5?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 03 |
 | **[Illumio](http://www.illumio.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Dec 03 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Product Management Internship (MBA)](https://jobright.ai/jobs/info/68dc5fa9accfd24b67e54e45?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Dec 03 |
 | **[OpenTable](http://opentable.com)** | **[Product Management Internship (Hybrid, Toronto)](https://jobright.ai/jobs/info/69172492370fde633d07db90?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 03 |
@@ -74,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Visual Edge IT](https://visualedgeit.com/)** | **[Product Management Intern (Part Time)](https://jobright.ai/jobs/info/692f6e294c474121999dee7c?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 02 |
 | **[Teamworks](http://www.teamworks.com)** | **[Product Management MBA Intern (Remote)](https://jobright.ai/jobs/info/69046325ff462851feff4fe8?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 02 |
 | **[Panduit](http://www.panduit.com)** | **[Product Manager - Intern](https://jobright.ai/jobs/info/692f7fc94c474121999dfb56?utm_campaign=1047&utm_source=git)** | USA IL Tinley Park WHQ | Hybrid | Dec 02 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern (Global Monetization Product and Technology) 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68db68d39f13662d20e4b0b9?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Dec 02 |
 | **[AAWDC](www.aawdc.org)** | **[Product Associate Internship](https://jobright.ai/jobs/info/692f4f3f4c474121999ddb15?utm_campaign=1047&utm_source=git)** | North County | On Site | Dec 02 |
 | **[McGraw Hill](http://www.mheducation.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/692f5732fa28370be26a911b?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Dec 02 |
 | **[Riot Games](http://www.riotgames.com)** | **[Insights Analyst Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69092852d046ab6061cd2427?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Remote | Dec 02 |
@@ -81,9 +84,7 @@ For a complete list, click the following sortable link below:
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[ServiceMax Product Management Intern](https://jobright.ai/jobs/info/692f1144fa28370be26a7376?utm_campaign=1047&utm_source=git)** | San Ramon, CA | On Site | Dec 02 |
 | ↳ | **[ServiceMax Product Management Intern](https://jobright.ai/jobs/info/692eff04fa28370be26a6c1e?utm_campaign=1047&utm_source=git)** | USA-San Ramon, CA | On Site | Dec 02 |
 | **[Second Dinner](http://seconddinner.com)** | **[[2026] Product Manager Intern, Unannounced Super Fun Video Game](https://jobright.ai/jobs/info/68f6c88e76a51a4307bde40b?utm_campaign=1047&utm_source=git)** | Irvine, CA | On Site | Dec 02 |
-| **[Root Inc.](https://www.root.com)** | **[Product Management Intern - Policyholder Experience](https://jobright.ai/jobs/info/691269f0d1047e3565cfc5bf?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 02 |
 | **[iCapital](https://icapital.com)** | **[Product Management - Summer 2026 Intern](https://jobright.ai/jobs/info/69125a3fd1047e3565cfba4b?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 02 |
-| **[Root Inc.](https://www.root.com)** | **[Product Management Intern - Distribution](https://jobright.ai/jobs/info/69124e73ea9ab01b82bf13c2?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 02 |
 | **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Product Development, Intern](https://jobright.ai/jobs/info/691a9f3315b415636718960e?utm_campaign=1047&utm_source=git)** | Hunt Valley, MD | On Site | Dec 02 |
 | **[Adobe](http://www.adobe.com)** | **[2026 SAMI Intern - Product Manager, Community Engagement](https://jobright.ai/jobs/info/6912da16c98948514c47ed07?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 02 |
 | ↳ | **[2026 SAMI Intern - Product Manager, AI Experience](https://jobright.ai/jobs/info/6912df28d1047e3565cffd35?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ServiceNow](http://www.servicenow.com)** | **[Digital Technology (DT) - Inbound Product Manager Intern](https://jobright.ai/jobs/info/690c30394a1b456627b16d2b?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | Hybrid | Nov 27 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/691ff14d09cc522e87746cdf?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Nov 27 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69203a7ba49a885af9a37834?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Nov 27 |
-| **[Sezzle](https://sezzle.com)** | **[Product Intern](https://jobright.ai/jobs/info/691de103ad5a51703479776e?utm_campaign=1047&utm_source=git)** | Canada | Remote | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
