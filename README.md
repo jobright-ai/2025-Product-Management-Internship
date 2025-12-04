@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Grid Automation Product Management Intern - Spring-Summer 2026](https://jobright.ai/jobs/info/693112594c474121999ebc87?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Dec 03 |
 | **[McGraw Hill](http://www.mheducation.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6930e4d8fa28370be26b502b?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Dec 03 |
+| **[La Ligne LLC](https://www.lalignenyc.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69310defef4b48533d151f8c?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 03 |
 | **[CommScope](http://www.commscope.com)** | **[Intern-Product Lifecyle Management](https://jobright.ai/jobs/info/6930e2be4c474121999e9f6c?utm_campaign=1047&utm_source=git)** | Shakopee, MN | On Site | Dec 03 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Product Specialist](https://jobright.ai/jobs/info/6930fdf6fa28370be26b5f0d?utm_campaign=1047&utm_source=git)** | Maryland Heights, MO | On Site | Dec 03 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Product Delivery Intern](https://jobright.ai/jobs/info/6924d2dc38cd5478a8d5e333?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 03 |
@@ -98,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Lumafield](https://www.lumafield.com)** | **[Product Intern, Hardware](https://jobright.ai/jobs/info/692e6f48ef4b48533d13fd54?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Dec 01 |
 | **[Centric Brands](https://centricbrands.com)** | **[Production/Product Development Intern – Summer 2026 Internship Program](https://jobright.ai/jobs/info/692e69fb4c474121999d94ac?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Dec 01 |
 | **[Cisco](http://www.cisco.com)** | **[AI Engineering Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692e78084c474121999d9bc5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 01 |
-| **[Centric Brands](https://centricbrands.com)** | **[Production/Product Development Intern – Summer 2026 Internship Program](https://jobright.ai/jobs/info/692e41dfef4b48533d13e0ad?utm_campaign=1047&utm_source=git)** | US-NY-New York | On Site | Dec 01 |
 | **[SailPoint](http://www.sailpoint.com)** | **[Product Operations, Intern](https://jobright.ai/jobs/info/692e15044c474121999d5f0d?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 01 |
 | **[Dometic](https://www.dometic.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/692e1271ef4b48533d13c4d2?utm_campaign=1047&utm_source=git)** | Troy, MI | On Site | Dec 01 |
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Summer 2026 Product Sourcing & Services Intern - New York](https://jobright.ai/jobs/info/692e3995fa28370be26a27fd?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PRODUCT MANAGEMENT INTERN](https://jobright.ai/jobs/info/69291e2391ceeb2e8a547042?utm_campaign=1047&utm_source=git)** | Middletown, PA | On Site | Nov 27 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69291d49f0beb07232631eb5?utm_campaign=1047&utm_source=git)** | Pennsylvania, United States | On Site | Nov 27 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69291b3bf0beb07232631e3b?utm_campaign=1047&utm_source=git)** | Troy, MI | On Site | Nov 27 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69291b2cf0beb07232631e35?utm_campaign=1047&utm_source=git)** | Fuquay-Varina, NC | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
