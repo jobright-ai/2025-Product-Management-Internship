@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Massey Services, Inc.](https://www.masseyservices.com/)** | **[Product Analyst Intern - Orlando](https://jobright.ai/jobs/info/6931f40ad0010831497bd5b6?utm_campaign=1047&utm_source=git)** | Orlando, FL | On Site | Dec 04 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2026 Product Management, Technology - Sunrise, FL](https://jobright.ai/jobs/info/6918b22fbcdbf3560c9d3431?utm_campaign=1047&utm_source=git)** | Sunrise, FL | Hybrid | Dec 04 |
-| ↳ | **[Campus Undergraduate Summer Internship Program - 2026 Product Management, Technology - New York, NY](https://jobright.ai/jobs/info/6918cf93bcdbf3560c9d39b5?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Dec 04 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Credit Card Experiences Product Manager)](https://jobright.ai/jobs/info/692293c1c0cefa13343d85c4?utm_campaign=1047&utm_source=git)** | Pensacola, FL | Hybrid | Dec 04 |
+| **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2026 Product Management, Technology - New York, NY](https://jobright.ai/jobs/info/6918cf93bcdbf3560c9d39b5?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Dec 04 |
 | ↳ | **[Campus Undergraduate Summer Internship Program - 2026 Product Management, Technology - Phoenix, AZ](https://jobright.ai/jobs/info/691584f1286ccf0a1512ee53?utm_campaign=1047&utm_source=git)** | Phoenix, AZ | Hybrid | Dec 04 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/691517bb286ccf0a1512b291?utm_campaign=1047&utm_source=git)** | Nashua, NH | On Site | Dec 04 |
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68c0786b702aa35207aad58a?utm_campaign=1047&utm_source=git)** | Springfield, TN | On Site | Dec 04 |
 | **[Epic Games](https://epicgames.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/68f08a71a6b9004b5e3212a1?utm_campaign=1047&utm_source=git)** | Cary, NC | On Site | Dec 04 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Data Product Intern, Summer 2026](https://jobright.ai/jobs/info/6931ae594c474121999f251d?utm_campaign=1047&utm_source=git)** | Bay Lake, FL | On Site | Dec 04 |
-| **[CommScope](http://www.commscope.com)** | **[Intern-Product Lifecyle Management](https://jobright.ai/jobs/info/69316e8b3b6d6f265f4e8d1e?utm_campaign=1047&utm_source=git)** | Shakopee, MN | On Site | Dec 04 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Data Product Intern, Summer 2026](https://jobright.ai/jobs/info/6931c259fa28370be26bdd1b?utm_campaign=1047&utm_source=git)** | Bay Lake, FL | On Site | Dec 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product-Comprehensive Search]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ccfd0677add66568abd2f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 04 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Digital Product Management Analyst Co-op - Fall 2026](https://jobright.ai/jobs/info/693160e6fa28370be26b88ac?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Dec 04 |
@@ -73,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Grid Automation Product Management Intern - Spring-Summer 2026](https://jobright.ai/jobs/info/693112594c474121999ebc87?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Dec 03 |
 | **[McGraw Hill](http://www.mheducation.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6930e4d8fa28370be26b502b?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Dec 03 |
 | **[La Ligne LLC](https://www.lalignenyc.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69310defef4b48533d151f8c?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 03 |
+| **[CommScope](http://www.commscope.com)** | **[Intern-Product Lifecyle Management](https://jobright.ai/jobs/info/6930e2be4c474121999e9f6c?utm_campaign=1047&utm_source=git)** | Shakopee, MN | On Site | Dec 03 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Product Specialist](https://jobright.ai/jobs/info/6930fdf6fa28370be26b5f0d?utm_campaign=1047&utm_source=git)** | Maryland Heights, MO | On Site | Dec 03 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Product Delivery Intern](https://jobright.ai/jobs/info/6924d2dc38cd5478a8d5e333?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 03 |
 | **[Textron](http://textron.com)** | **[2026 Product Mgmt Intern](https://jobright.ai/jobs/info/6930cd29fa28370be26b3f11?utm_campaign=1047&utm_source=git)** | Augusta, GA | On Site | Dec 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Product Manager Intern (Multi-Cloud CDN)- 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68f1bc32f462172a5a7dbdea?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-PGC)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6915a08b6f36db06ef0500a2?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Nov 29 |
 | ↳ | **[Product Manager Intern (TikTok Shop Seller Platform) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6916cfe19c388539cbdfecf1?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 29 |
-| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern-Program/Product Development](https://jobright.ai/jobs/info/690e3b3fd046ab6061cfb778?utm_campaign=1047&utm_source=git)** | Detroit, MI | Hybrid | Nov 29 |
-| **[Agropur](http://www.agropur.com/en/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6921020700c9ee50eaecaccd?utm_campaign=1047&utm_source=git)** | Wisconsin, United States | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
