@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McGraw Hill](http://www.mheducation.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6930e4d8fa28370be26b502b?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Dec 03 |
+| **[CommScope](http://www.commscope.com)** | **[Intern-Product Lifecyle Management](https://jobright.ai/jobs/info/6930e2be4c474121999e9f6c?utm_campaign=1047&utm_source=git)** | Shakopee, MN | On Site | Dec 03 |
+| **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Product Delivery Intern](https://jobright.ai/jobs/info/6924d2dc38cd5478a8d5e333?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 03 |
+| **[Textron](http://textron.com)** | **[2026 Product Mgmt Intern](https://jobright.ai/jobs/info/6930cd29fa28370be26b3f11?utm_campaign=1047&utm_source=git)** | Augusta, GA | On Site | Dec 03 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Loyalty Products – Product Owner (Summer 2026)](https://jobright.ai/jobs/info/69309c424c474121999e690b?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Dec 03 |
 | **[Tinder](http://www.tinder.com)** | **[Product Intern](https://jobright.ai/jobs/info/6920fafa3f782d2f1afcdda5?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 03 |
 | **[Illumio](http://www.illumio.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Dec 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69291b3bf0beb07232631e3b?utm_campaign=1047&utm_source=git)** | Troy, MI | On Site | Nov 27 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69291b2cf0beb07232631e35?utm_campaign=1047&utm_source=git)** | Fuquay-Varina, NC | On Site | Nov 27 |
 | **[Tencent](https://www.tencent.com/)** | **[[Tencent Cloud 2026 Internship Program] Product Intern, Real-Time Interaction PaaS (Shenzhen)](https://jobright.ai/jobs/info/6914767e9c388539cbdec436?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Nov 27 |
-| **[FIS](http://www.fisglobal.com)** | **[Intern, Business Process Analyst, Summer FIS University Program 2026](https://jobright.ai/jobs/info/6911a811988c2b7b4ec55d48?utm_campaign=1047&utm_source=git)** | Jacksonville, FL | On Site | Nov 27 |
-| **[ServiceNow](http://www.servicenow.com)** | **[Digital Technology (DT) - Inbound Product Manager Intern](https://jobright.ai/jobs/info/690c30394a1b456627b16d2b?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | Hybrid | Nov 27 |
-| **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/691ff14d09cc522e87746cdf?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Nov 27 |
-| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/69203a7ba49a885af9a37834?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
