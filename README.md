@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Business Risk Integrated Control) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fb306b9e8e925ac6c897d7?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 05 |
+| **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69169d3c6f36db06ef058565?utm_campaign=1047&utm_source=git)** | Everett, WA | On Site | Dec 05 |
+| **[Duolingo](https://www.duolingo.com)** | **[Product Manager, MBA Intern](https://jobright.ai/jobs/info/68dd8b3844d32141e0bf7d4a?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA | On Site | Dec 05 |
+| **[TikTok](https://www.tiktok.com)** | **[Product manager Intern (TikTok-Search-Comprehensive Search) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68cc52dd128dc347fd922a2d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 05 |
+| ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd18b31ad6b16f02894c64?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 05 |
+| ↳ | **[Product Manager Intern (TikTok Shop IPR Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6916e6349c388539cbdff77c?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Dec 05 |
+| ↳ | **[Product Manager Intern (TikTok-Business Risk Integrated Control) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fb306b9e8e925ac6c897d7?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 05 |
 | ↳ | **[Product Manager Intern [TikTok-Product-Search Growth]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cc67477342c7623ae64528?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 05 |
 | **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Product Development](https://jobright.ai/jobs/info/691ae6f1bcdbf3560c9db78a?utm_campaign=1047&utm_source=git)** | Hunt Valley, MD | On Site | Dec 05 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[New Product Development (NPD) Sourcing Intern - Ditch Witch](https://jobright.ai/jobs/info/68cd208f1ad6b16f0289550e?utm_campaign=1047&utm_source=git)** | Noble County, OK | On Site | Dec 05 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - MCBU NPI Manager](https://jobright.ai/jobs/info/68facb0267272b29af733936?utm_campaign=1047&utm_source=git)** | Boise, ID | On Site | Dec 05 |
 | **[American Society of Anesthesiologists®](https://www.asahq.org)** | **[Summer Intern - Product Management - Schaumburg, IL or Remote](https://jobright.ai/jobs/info/6932a32ba0dde7020e2e7e06?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | Remote | Dec 05 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Universal Studios Hollywood, Food Shared Services Internship – Summer 2026](https://jobright.ai/jobs/info/69326e27a0dde7020e2e6ecd?utm_campaign=1047&utm_source=git)** | Universal City, CA | On Site | Dec 04 |
 | **[griddable.io](https://griddable.io)** | **[Summer 2026 Intern - Product GTM Strategy](https://jobright.ai/jobs/info/69327904764507023d1aee88?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 04 |
@@ -134,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Summer 2026 Product Sourcing & Services Intern - New York](https://jobright.ai/jobs/info/692e3995fa28370be26a27fd?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 01 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692e088afa28370be26a088d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 01 |
 | ↳ | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692e0368fa28370be26a04a4?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Dec 01 |
+| **[SailPoint](http://www.sailpoint.com)** | **[Product Operations, Intern](https://jobright.ai/jobs/info/6932d2b3764507023d1b0a4b?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 01 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Food and Beverage Innovation](https://jobright.ai/jobs/info/692dfe924c474121999d511b?utm_campaign=1047&utm_source=git)** | 5508 Lonas Drive, Knoxville, TN | On Site | Dec 01 |
-| **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/692e2849ef4b48533d13d25c?utm_campaign=1047&utm_source=git)** | Elkhart, IN | On Site | Dec 01 |
 | **[United Educators](https://www.ue.org/)** | **[Product Management Intern](https://jobright.ai/jobs/info/692e0a68fa28370be26a0a1f?utm_campaign=1047&utm_source=git)** | Bethesda, MD | Hybrid | Dec 01 |
 | **[Cisco](http://www.cisco.com)** | **[AI Engineering Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692dd3a1fa28370be269eb7d?utm_campaign=1047&utm_source=git)** | San Jose, California, US | Hybrid | Dec 01 |
 | **[Phygtl, Inc](https://www.phygtl.xyz)** | **[Product Management / Intern (Summer 2026)](https://jobright.ai/jobs/info/692dcae84c474121999d3652?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 01 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern - SMB Industry Operations - 2025 Start (BS/ MS)](https://jobright.ai/jobs/info/68f223ddcb0abf15612f475e?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Nov 30 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[Ecommerce Development Intern](https://jobright.ai/jobs/info/68bb8d655f38327491870378?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Nov 30 |
 | **[Lennox](http://www.lennox.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68f864b34bafad6d2d7622b0?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Nov 30 |
-| **[Ampliwork](https://qlytics.com/)** | **[AI Associate Product Manager Intern](https://jobright.ai/jobs/info/692e7dc94c474121999d9d51?utm_campaign=1047&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 29 |
-| **[CNH](http://www.cnhindustrial.com)** | **[Product Development Purchasing Intern - Large Tractors](https://jobright.ai/jobs/info/693170633b6d6f265f4e90aa?utm_campaign=1047&utm_source=git)** | Oak Brook, IL | On Site | Nov 29 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Credit Card Experiences Product Manager)](https://jobright.ai/jobs/info/691cfaa5bcdbf3560c9ebee4?utm_campaign=1047&utm_source=git)** | Vienna, VA | Hybrid | Nov 29 |
-| ↳ | **[Summer Associate Internship (Product Strategist)](https://jobright.ai/jobs/info/691ce03aff7024498416b426?utm_campaign=1047&utm_source=git)** | Vienna, VA | Hybrid | Nov 29 |
-| ↳ | **[Summer Associate Internship (Product Strategist)](https://jobright.ai/jobs/info/691cbaf7ff70244984169bd7?utm_campaign=1047&utm_source=git)** | Pensacola, FL | Hybrid | Nov 29 |
-| **[Hootsuite](https://hootsuite.com/)** | **[Co-op/Intern, Product Management](https://jobright.ai/jobs/info/69170726bcdbf3560c9c43a6?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
