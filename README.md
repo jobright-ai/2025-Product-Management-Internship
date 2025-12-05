@@ -57,16 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Universal Studios Hollywood, Food Shared Services Internship – Summer 2026](https://jobright.ai/jobs/info/69326e27a0dde7020e2e6ecd?utm_campaign=1047&utm_source=git)** | Universal City, CA | On Site | Dec 04 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product Management Intern, US](https://jobright.ai/jobs/info/69324a4d764507023d1acaf9?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 04 |
 | **[Lezhure](Www.lezhure.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/69324a46a0dde7020e2e5431?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Dec 04 |
-| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product Management Intern, US](https://jobright.ai/jobs/info/6932469bf131d96e4845a7ba?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 04 |
+| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product Management Intern, US](https://jobright.ai/jobs/info/69326398f131d96e4845bcb8?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 04 |
 | **[Micron Technology](http://www.micron.com)** | **[CMBU Product Management Intern](https://jobright.ai/jobs/info/69322df0fa28370be26c2d12?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 04 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Product GTM Strategy](https://jobright.ai/jobs/info/69324962a0dde7020e2e539c?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Dec 04 |
 | **[Micron Technology](http://www.micron.com)** | **[CMBU Product Management Intern](https://jobright.ai/jobs/info/69321230d0010831497bf12c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 04 |
 | **[McMaster-Carr](http://www.mcmaster.com)** | **[MBA Internship: Leadership Strategy and Operations - Products & Publishing](https://jobright.ai/jobs/info/693224c14c474121999f75ef?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Dec 04 |
 | **[Micron Technology](http://www.micron.com)** | **[CMBU Product Management Intern](https://jobright.ai/jobs/info/693216d14c474121999f6d07?utm_campaign=1047&utm_source=git)** | Boise, ID - Main Site | On Site | Dec 04 |
 | **[Massey Services, Inc.](https://www.masseyservices.com/)** | **[Product Analyst Intern - Orlando](https://jobright.ai/jobs/info/6931f40ad0010831497bd5b6?utm_campaign=1047&utm_source=git)** | Orlando, FL | On Site | Dec 04 |
-| **[Sanofi](https://www.sanofi.com)** | **[Product Analyst Catalyst](https://jobright.ai/jobs/info/693219d2fa28370be26c1e22?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 04 |
+| **[Sanofi](https://www.sanofi.com)** | **[Product Analyst Catalyst](https://jobright.ai/jobs/info/69322b27d0010831497c0476?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 04 |
 | ↳ | **[Product Analyst Catalyst](https://jobright.ai/jobs/info/6932126afa28370be26c171c?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 04 |
 | ↳ | **[Product Analyst Catalyst](https://jobright.ai/jobs/info/6932117bfa28370be26c1632?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 04 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern-eCommerce Product](https://jobright.ai/jobs/info/69321e70fa28370be26c2291?utm_campaign=1047&utm_source=git)** | Fort Lauderdale, FL, United States | Hybrid | Dec 04 |
@@ -136,6 +137,7 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692e088afa28370be26a088d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 01 |
 | ↳ | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692e0368fa28370be26a04a4?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Dec 01 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Food and Beverage Innovation](https://jobright.ai/jobs/info/692dfe924c474121999d511b?utm_campaign=1047&utm_source=git)** | 5508 Lonas Drive, Knoxville, TN | On Site | Dec 01 |
+| **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/692e2849ef4b48533d13d25c?utm_campaign=1047&utm_source=git)** | Elkhart, IN | On Site | Dec 01 |
 | **[United Educators](https://www.ue.org/)** | **[Product Management Intern](https://jobright.ai/jobs/info/692e0a68fa28370be26a0a1f?utm_campaign=1047&utm_source=git)** | Bethesda, MD | Hybrid | Dec 01 |
 | **[Cisco](http://www.cisco.com)** | **[AI Engineering Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692dd3a1fa28370be269eb7d?utm_campaign=1047&utm_source=git)** | San Jose, California, US | Hybrid | Dec 01 |
 | **[Phygtl, Inc](https://www.phygtl.xyz)** | **[Product Management / Intern (Summer 2026)](https://jobright.ai/jobs/info/692dcae84c474121999d3652?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ampliwork](https://qlytics.com/)** | **[AI Associate Product Manager Intern](https://jobright.ai/jobs/info/692e7dc94c474121999d9d51?utm_campaign=1047&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 29 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Product Development Purchasing Intern - Large Tractors](https://jobright.ai/jobs/info/693170633b6d6f265f4e90aa?utm_campaign=1047&utm_source=git)** | Oak Brook, IL | On Site | Nov 29 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Credit Card Experiences Product Manager)](https://jobright.ai/jobs/info/691cfaa5bcdbf3560c9ebee4?utm_campaign=1047&utm_source=git)** | Vienna, VA | Hybrid | Nov 29 |
-| ↳ | **[Summer Associate Internship (Product Strategist)](https://jobright.ai/jobs/info/691ce03aff7024498416b426?utm_campaign=1047&utm_source=git)** | Vienna, VA | Hybrid | Nov 29 |
-| ↳ | **[Summer Associate Internship (Product Strategist)](https://jobright.ai/jobs/info/691cbaf7ff70244984169bd7?utm_campaign=1047&utm_source=git)** | Pensacola, FL | Hybrid | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
