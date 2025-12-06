@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Product Manager, Sales Platform](https://jobright.ai/jobs/info/68dffa52b99ec3563b0ca9cb?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 06 |
+| ↳ | **[2026 Intern - Digital Imaging User Research](https://jobright.ai/jobs/info/68fc4f8993c49825ab10bd33?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
+| **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/6917f7be45fb6f5ead8a079d?utm_campaign=1047&utm_source=git)** | Everett, WA | Hybrid | Dec 06 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Product Manager, ATS Digital Media](https://jobright.ai/jobs/info/68e04b26b99ec3563b0ce508?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Dec 06 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Project Intern - Content and Service Ads- Fall 2025 (BS/ MS)](https://jobright.ai/jobs/info/68ce2156e23def7af55c2737?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Dec 06 |
+| ↳ | **[Product Manager Intern (TikTok-Product-Content Ecosystem)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/6916d0709c388539cbdfed61?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
+| ↳ | **[Product Manager Intern [TikTok-Product-Privacy and Responsibility]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688f021de5cead4afd45fb3f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
+| ↳ | **[Product Operations Manager Intern (TikTok Shop, Merchandise Growth) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd8d5e1ad6b16f0289b585?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Dec 06 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Product Development Co-op, Ninja (February to July)](https://jobright.ai/jobs/info/6933f2f3764507023d1bae16?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Dec 06 |
 | **[GenPark](https://genpark.ai)** | **[Product Development Intern](https://jobright.ai/jobs/info/6933d4c6a0dde7020e2f23dd?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Dec 05 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Williams-Sonoma Corporate Internship - Technology Product Management](https://jobright.ai/jobs/info/69339815a0dde7020e2ef7d7?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 05 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Teamworks](http://www.teamworks.com)** | **[Product Management MBA Intern (Remote)](https://jobright.ai/jobs/info/69046325ff462851feff4fe8?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 02 |
 | **[Panduit](http://www.panduit.com)** | **[Product Manager - Intern](https://jobright.ai/jobs/info/692f7fc94c474121999dfb56?utm_campaign=1047&utm_source=git)** | USA IL Tinley Park WHQ | Hybrid | Dec 02 |
 | **[AAWDC](www.aawdc.org)** | **[Product Associate Internship](https://jobright.ai/jobs/info/692f4f3f4c474121999ddb15?utm_campaign=1047&utm_source=git)** | North County | On Site | Dec 02 |
-| **[McGraw Hill](http://www.mheducation.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/692f5732fa28370be26a911b?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Dec 02 |
-| **[Riot Games](http://www.riotgames.com)** | **[Insights Analyst Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69092852d046ab6061cd2427?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Remote | Dec 02 |
-| **[Santander](https://www.santander.com/)** | **[Digital Product Management Intern](https://jobright.ai/jobs/info/692f1b4def4b48533d142c16?utm_campaign=1047&utm_source=git)** | Boston | On Site | Dec 02 |
-| **[PTC](http://ptc.co/VLED30oHtEh)** | **[ServiceMax Product Management Intern](https://jobright.ai/jobs/info/692f1144fa28370be26a7376?utm_campaign=1047&utm_source=git)** | San Ramon, CA | On Site | Dec 02 |
-| ↳ | **[ServiceMax Product Management Intern](https://jobright.ai/jobs/info/692eff04fa28370be26a6c1e?utm_campaign=1047&utm_source=git)** | USA-San Ramon, CA | On Site | Dec 02 |
-| **[iCapital](https://icapital.com)** | **[Product Management - Summer 2026 Intern](https://jobright.ai/jobs/info/69125a3fd1047e3565cfba4b?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 02 |
-| **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Product Development, Intern](https://jobright.ai/jobs/info/691a9f3315b415636718960e?utm_campaign=1047&utm_source=git)** | Hunt Valley, MD | On Site | Dec 02 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern [Global Monetization Product and Technology]-2026 Start (BS/MS)](https://jobright.ai/jobs/info/68db68d39f13662d20e4b0b9?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Dec 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
