@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Williams-Sonoma Corporate Internship - Technology Product Management](https://jobright.ai/jobs/info/6933770da0dde7020e2ee442?utm_campaign=1047&utm_source=git)** | 3250 Van Ness Ave, San Francisco, CA, 94109, US | On Site | Dec 05 |
 | **[Verkada](https://www.verkada.com)** | **[MBA Intern - Product](https://jobright.ai/jobs/info/69336c4d764507023d1b578c?utm_campaign=1047&utm_source=git)** | San Mateo, CA United States | On Site | Dec 05 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/693352bef131d96e48461f2b?utm_campaign=1047&utm_source=git)** | Lowell, MA | On Site | Dec 05 |
 | **[PGP Title](https://www.pgptitle.com)** | **[Product Strategy Summer 2026 Intern (PGP Title & PIA))](https://jobright.ai/jobs/info/693351d5f131d96e48461e4e?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Dec 05 |
@@ -68,7 +69,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334d49764507023d1b3e86?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Dec 05 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334c97f131d96e48461929?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | Hybrid | Dec 05 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334c51f131d96e484618e9?utm_campaign=1047&utm_source=git)** | Lowell, MA | Hybrid | Dec 05 |
-| ↳ | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/693347eca0dde7020e2ec1cb?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Dec 05 |
+| **[Verkada](https://www.verkada.com)** | **[MBA Intern - Product](https://jobright.ai/jobs/info/693372a6764507023d1b5c48?utm_campaign=1047&utm_source=git)** | San Mateo, CA | On Site | Dec 05 |
+| **[IBM](http://www.ibm.com)** | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/693347eca0dde7020e2ec1cb?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Dec 05 |
+| **[Princess Cruises](http://www.princess.com)** | **[Intern, eCommerce Product](https://jobright.ai/jobs/info/69337335764507023d1b5cd4?utm_campaign=1047&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 05 |
+| **[IBM](http://www.ibm.com)** | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/6933716d764507023d1b5b50?utm_campaign=1047&utm_source=git)** | Tucson, AZ | Hybrid | Dec 05 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69335f33a0dde7020e2ed206?utm_campaign=1047&utm_source=git)** | Rochester, MN | Hybrid | Dec 05 |
 | ↳ | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/69336bd1a0dde7020e2edc80?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Dec 05 |
 | **[Universal Studios Hollywood](http://www.universalstudioshollywood.com)** | **[Universal Studios Hollywood, Food Shared Services Internship – Summer 2026](https://jobright.ai/jobs/info/69335902764507023d1b4942?utm_campaign=1047&utm_source=git)** | Universal City, CA | On Site | Dec 05 |
@@ -97,8 +101,9 @@ For a complete list, click the following sortable link below:
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product Management Intern, US](https://jobright.ai/jobs/info/6932469bf131d96e4845a7ba?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 04 |
 | ↳ | **[2026 - Product Management Intern, US](https://jobright.ai/jobs/info/6932525f764507023d1ad149?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 04 |
 | **[Micron Technology](http://www.micron.com)** | **[CMBU Product Management Intern](https://jobright.ai/jobs/info/69322df0fa28370be26c2d12?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 04 |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Product Specialist](https://jobright.ai/jobs/info/693376cea0dde7020e2ee40f?utm_campaign=1047&utm_source=git)** | Maryland Heights, MO | On Site | Dec 04 |
 | **[McMaster-Carr](http://www.mcmaster.com)** | **[MBA Internship: Leadership Strategy and Operations - Products & Publishing](https://jobright.ai/jobs/info/693224c14c474121999f75ef?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Dec 04 |
-| **[Sanofi](https://www.sanofi.com)** | **[Product Analyst Catalyst](https://jobright.ai/jobs/info/693219d2fa28370be26c1e22?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 04 |
+| **[Sanofi](https://www.sanofi.com)** | **[Product Analyst Catalyst](https://jobright.ai/jobs/info/69322b27d0010831497c0476?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 04 |
 | ↳ | **[Product Analyst Catalyst](https://jobright.ai/jobs/info/6932126afa28370be26c171c?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 04 |
 | ↳ | **[Product Analyst Catalyst](https://jobright.ai/jobs/info/6932117bfa28370be26c1632?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 04 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern-eCommerce Product](https://jobright.ai/jobs/info/69321e70fa28370be26c2291?utm_campaign=1047&utm_source=git)** | Fort Lauderdale, FL, United States | Hybrid | Dec 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[iCapital](https://icapital.com)** | **[Product Management - Summer 2026 Intern](https://jobright.ai/jobs/info/69125a3fd1047e3565cfba4b?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 02 |
 | **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Product Development, Intern](https://jobright.ai/jobs/info/691a9f3315b415636718960e?utm_campaign=1047&utm_source=git)** | Hunt Valley, MD | On Site | Dec 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern [Global Monetization Product and Technology]-2026 Start (BS/MS)](https://jobright.ai/jobs/info/68db68d39f13662d20e4b0b9?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Dec 02 |
-| **[Adobe](http://www.adobe.com)** | **[2026 SAMI Intern - Product Manager, Community Engagement](https://jobright.ai/jobs/info/6912da16c98948514c47ed07?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 02 |
-| ↳ | **[2026 SAMI Intern - Product Manager, AI Experience](https://jobright.ai/jobs/info/6912df28d1047e3565cffd35?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 02 |
-| **[Okta for Developers](https://developer.okta.com)** | **[MBA Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/693005b24c474121999e3a6b?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 02 |
-| **[Sigma](http://sigmacomputing.com)** | **[Product Management Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/68e6cdb6ae2b894b1d71ddad?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 01 |
-| **[Lumafield](https://www.lumafield.com)** | **[Product Intern, Hardware](https://jobright.ai/jobs/info/692e6f48ef4b48533d13fd54?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
