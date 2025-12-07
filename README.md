@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Databricks](https://www.databricks.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68cf575f846f0b04af68151e?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Dec 07 |
+| **[Generac](https://www.generac.com/)** | **[Summer 2026 Product Management Intern](https://jobright.ai/jobs/info/6933d7ccf131d96e48467b76?utm_campaign=1047&utm_source=git)** | Waukesha, WI | On Site | Dec 07 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Product Manager Intern (Masters Degree) - Summer 2026](https://jobright.ai/jobs/info/68cd7963e23def7af55ba506?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Dec 06 |
 | **[ModMed](https://www.modmed.com)** | **[Product Development Summer 2026 Internship](https://jobright.ai/jobs/info/68eeb96ce0db92422580a57c?utm_campaign=1047&utm_source=git)** | Boca Raton, Florida | Hybrid | Dec 06 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Sr. Outbound Product Manager Intern (MBA) - Summer 2026](https://jobright.ai/jobs/info/68cd5c31e23def7af55b8b1c?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Dec 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GoFundMe](http://www.gofundme.com)** | **[Product Management Internship (MBA)](https://jobright.ai/jobs/info/68dc5fa9accfd24b67e54e45?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Dec 03 |
 | **[OpenTable](http://opentable.com)** | **[Product Management Internship (Hybrid, Toronto)](https://jobright.ai/jobs/info/69172492370fde633d07db90?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 03 |
 | **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/68f003129821486c423c8a38?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Dec 03 |
-| **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Digital Product Management Intern](https://jobright.ai/jobs/info/69312fdcfa28370be26b76e5?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Dec 03 |
-| **[Ferrara](https://www.ferrara.com)** | **[Product Development Internship Program 2026](https://jobright.ai/jobs/info/691ab4f715b4156367189fcb?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
