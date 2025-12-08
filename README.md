@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Intern](https://jobright.ai/jobs/info/693747a5aabec14a727c5ed3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 08 |
+| **[KEEN](http://www.keenfootwear.com)** | **[Product Development Operations Intern](https://jobright.ai/jobs/info/69373ef7a0dde7020e3006aa?utm_campaign=1047&utm_source=git)** | Portland, OR | On Site | Dec 08 |
+| **[AccuWeather](http://www.accuweather.com)** | **[Product Analyst Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/69373e6b1c1c2161c13f1e92?utm_campaign=1047&utm_source=git)** | State College, PA | On Site | Dec 08 |
+| ↳ | **[Product Analyst Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/69372fdcaabec14a727c4d6c?utm_campaign=1047&utm_source=git)** | Remote or State College, PA | Remote | Dec 08 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Product - ETF](https://jobright.ai/jobs/info/693745efa0dde7020e300bff?utm_campaign=1047&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 08 |
+| ↳ | **[Summer Intern 2026 - Product - ETF](https://jobright.ai/jobs/info/69374081a0dde7020e3007eb?utm_campaign=1047&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Dec 08 |
 | **[Henkel](http://www.henkel.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69363d5ea0dde7020e2fa51a?utm_campaign=1047&utm_source=git)** | Culver City, CA | Hybrid | Dec 07 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Sr. Inbound Product Manager Intern (MBA) - Summer 2026](https://jobright.ai/jobs/info/68cd4a671ad6b16f028978fa?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Dec 07 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Merchandise Planning Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e04c60f758fe1f97e4c19d?utm_campaign=1047&utm_source=git)** | Reynoldsburg, OH | Hybrid | Dec 07 |
@@ -133,7 +139,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 - Product Management Intern, US](https://jobright.ai/jobs/info/6932525f764507023d1ad149?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 04 |
 | **[Micron Technology](http://www.micron.com)** | **[CMBU Product Management Intern](https://jobright.ai/jobs/info/69322df0fa28370be26c2d12?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 04 |
 | **[McMaster-Carr](http://www.mcmaster.com)** | **[MBA Internship: Leadership Strategy and Operations - Products & Publishing](https://jobright.ai/jobs/info/693224c14c474121999f75ef?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Dec 04 |
-| **[Sanofi](https://www.sanofi.com)** | **[Product Analyst Catalyst](https://jobright.ai/jobs/info/69322b27d0010831497c0476?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 04 |
+| **[Sanofi](https://www.sanofi.com)** | **[Product Analyst Catalyst](https://jobright.ai/jobs/info/6932126afa28370be26c171c?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 04 |
 | ↳ | **[Product Analyst Catalyst](https://jobright.ai/jobs/info/6932117bfa28370be26c1632?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 04 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern-eCommerce Product](https://jobright.ai/jobs/info/69321e70fa28370be26c2291?utm_campaign=1047&utm_source=git)** | Fort Lauderdale, FL, United States | Hybrid | Dec 04 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Intern-eCommerce Product](https://jobright.ai/jobs/info/6932202cfa28370be26c246c?utm_campaign=1047&utm_source=git)** | Fort Lauderdale, FL, United States | Hybrid | Dec 04 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 Product Mgmt Intern](https://jobright.ai/jobs/info/69314d4dfa28370be26b804f?utm_campaign=1047&utm_source=git)** | Augusta, GA | On Site | Dec 04 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/69364d08764507023d1c27fa?utm_campaign=1047&utm_source=git)** | Mentor, OH | On Site | Dec 03 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Grid Automation Product Management Intern - Spring-Summer 2026](https://jobright.ai/jobs/info/693112594c474121999ebc87?utm_campaign=1047&utm_source=git)** | Rochester, NY | On Site | Dec 03 |
-| **[McGraw Hill](http://www.mheducation.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6930e4d8fa28370be26b502b?utm_campaign=1047&utm_source=git)** | US-Remote | Remote | Dec 03 |
-| **[La Ligne LLC](https://www.lalignenyc.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69310defef4b48533d151f8c?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 03 |
-| **[CommScope](http://www.commscope.com)** | **[Intern-Product Lifecyle Management](https://jobright.ai/jobs/info/6930e2be4c474121999e9f6c?utm_campaign=1047&utm_source=git)** | Shakopee, MN | On Site | Dec 03 |
-| **[Textron](http://textron.com)** | **[2026 Product Mgmt Intern](https://jobright.ai/jobs/info/6930cd29fa28370be26b3f11?utm_campaign=1047&utm_source=git)** | Augusta, GA | On Site | Dec 03 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Loyalty Products – Product Owner (Summer 2026)](https://jobright.ai/jobs/info/69309c424c474121999e690b?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Dec 03 |
-| **[Tinder](http://www.tinder.com)** | **[Product Intern](https://jobright.ai/jobs/info/6920fafa3f782d2f1afcdda5?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
