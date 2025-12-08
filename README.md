@@ -62,7 +62,9 @@ For a complete list, click the following sortable link below:
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Merchandise Planning Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e04c60f758fe1f97e4c19d?utm_campaign=1047&utm_source=git)** | Reynoldsburg, OH | Hybrid | Dec 07 |
 | **[Databricks](https://www.databricks.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68cf575f846f0b04af68151e?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Dec 07 |
 | **[Generac](https://www.generac.com/)** | **[Summer 2026 Product Management Intern](https://jobright.ai/jobs/info/6933d7ccf131d96e48467b76?utm_campaign=1047&utm_source=git)** | Waukesha, WI | On Site | Dec 07 |
-| **[Henkel](http://www.henkel.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/6936670a764507023d1c32cb?utm_campaign=1047&utm_source=git)** | Irvine, CA | Hybrid | Dec 06 |
+| **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/69368324764507023d1c3dae?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | Hybrid | Dec 06 |
+| ↳ | **[Pricing & Product Portfolio Intern – Summer 2026](https://jobright.ai/jobs/info/69367c04a0dde7020e2fbdb5?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ | Hybrid | Dec 06 |
+| ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/6936670a764507023d1c32cb?utm_campaign=1047&utm_source=git)** | Irvine, CA | Hybrid | Dec 06 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Product Manager Intern (Masters Degree) - Summer 2026](https://jobright.ai/jobs/info/68cd7963e23def7af55ba506?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Dec 06 |
 | **[ModMed](https://www.modmed.com)** | **[Product Development Summer 2026 Internship](https://jobright.ai/jobs/info/68eeb96ce0db92422580a57c?utm_campaign=1047&utm_source=git)** | Boca Raton, Florida | Hybrid | Dec 06 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Sr. Outbound Product Manager Intern (MBA) - Summer 2026](https://jobright.ai/jobs/info/68cd5c31e23def7af55b8b1c?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Dec 06 |
@@ -133,7 +135,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 - Product Management Intern, US](https://jobright.ai/jobs/info/6932525f764507023d1ad149?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 04 |
 | **[Micron Technology](http://www.micron.com)** | **[CMBU Product Management Intern](https://jobright.ai/jobs/info/69322df0fa28370be26c2d12?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 04 |
 | **[McMaster-Carr](http://www.mcmaster.com)** | **[MBA Internship: Leadership Strategy and Operations - Products & Publishing](https://jobright.ai/jobs/info/693224c14c474121999f75ef?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Dec 04 |
-| **[Sanofi](https://www.sanofi.com)** | **[Product Analyst Catalyst](https://jobright.ai/jobs/info/69322b27d0010831497c0476?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 04 |
+| **[Sanofi](https://www.sanofi.com)** | **[Product Analyst Catalyst](https://jobright.ai/jobs/info/6932126afa28370be26c171c?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 04 |
 | ↳ | **[Product Analyst Catalyst](https://jobright.ai/jobs/info/6932117bfa28370be26c1632?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 04 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern-eCommerce Product](https://jobright.ai/jobs/info/69321e70fa28370be26c2291?utm_campaign=1047&utm_source=git)** | Fort Lauderdale, FL, United States | Hybrid | Dec 04 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Intern-eCommerce Product](https://jobright.ai/jobs/info/6932202cfa28370be26c246c?utm_campaign=1047&utm_source=git)** | Fort Lauderdale, FL, United States | Hybrid | Dec 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[La Ligne LLC](https://www.lalignenyc.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/69310defef4b48533d151f8c?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 03 |
 | **[CommScope](http://www.commscope.com)** | **[Intern-Product Lifecyle Management](https://jobright.ai/jobs/info/6930e2be4c474121999e9f6c?utm_campaign=1047&utm_source=git)** | Shakopee, MN | On Site | Dec 03 |
 | **[Textron](http://textron.com)** | **[2026 Product Mgmt Intern](https://jobright.ai/jobs/info/6930cd29fa28370be26b3f11?utm_campaign=1047&utm_source=git)** | Augusta, GA | On Site | Dec 03 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Loyalty Products – Product Owner (Summer 2026)](https://jobright.ai/jobs/info/69309c424c474121999e690b?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Dec 03 |
-| **[Tinder](http://www.tinder.com)** | **[Product Intern](https://jobright.ai/jobs/info/6920fafa3f782d2f1afcdda5?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
