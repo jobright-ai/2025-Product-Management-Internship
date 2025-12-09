@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Reshy.io](https://reshy.io/)** | **[Strategic Growth (Internship Consideration) - M&A AI Software](https://jobright.ai/jobs/info/69387245a0dde7020e3109ad?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 09 |
+| **[Riot Games](http://www.riotgames.com)** | **[Insights Analyst Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69092852d046ab6061cd2427?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Remote | Dec 09 |
 | **[Ubisoft](https://www.ubisoft.com)** | **[Communication - Publishing Product Intern](https://jobright.ai/jobs/info/691c8afebcdbf3560c9e7c70?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 09 |
+| **[IDEAL INDUSTRIES, INC](http://www.idealindustries.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/691b8ce922a2cb4b9bd1383b?utm_campaign=1047&utm_source=git)** | Sycamore, IL | On Site | Dec 09 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/691d4f55bcdbf3560c9efc19?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Dec 09 |
-| **[SkyrisAI](https://www.linkedin.com/company/105658415)** | **[Product Manager Intern (User Research Focused)](https://jobright.ai/jobs/info/693843dfb95c305f206d716a?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 09 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Product Manager I (APM) - Associate Product Manager Program](https://jobright.ai/jobs/info/69381bbab95c305f206d4d66?utm_campaign=1047&utm_source=git)** | Glendale, CA | On Site | Dec 09 |
 | **[Zoox](https://www.zoox.com/)** | **[Technical Product Management Intern, Agentic AI](https://jobright.ai/jobs/info/691be97622a2cb4b9bd176fd?utm_campaign=1047&utm_source=git)** | Foster City, CA | Hybrid | Dec 09 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[ALM Product Management Intern](https://jobright.ai/jobs/info/691bbd4e15b4156367192319?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Dec 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 - Product Management Intern, US](https://jobright.ai/jobs/info/6932525f764507023d1ad149?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 04 |
 | **[Micron Technology](http://www.micron.com)** | **[CMBU Product Management Intern](https://jobright.ai/jobs/info/69322df0fa28370be26c2d12?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 04 |
 | **[McMaster-Carr](http://www.mcmaster.com)** | **[MBA Internship: Leadership Strategy and Operations - Products & Publishing](https://jobright.ai/jobs/info/693224c14c474121999f75ef?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Dec 04 |
-| **[Sanofi](https://www.sanofi.com)** | **[Product Analyst Catalyst](https://jobright.ai/jobs/info/693219d2fa28370be26c1e22?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 04 |
-| ↳ | **[Product Analyst Catalyst](https://jobright.ai/jobs/info/6932117bfa28370be26c1632?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
