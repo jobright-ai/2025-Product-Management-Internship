@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Mobile Product](https://jobright.ai/jobs/info/6937df531c1c2161c13fa194?utm_campaign=1047&utm_source=git)** | Stamford, CT | On Site | Dec 09 |
+| **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[Product and Business Development Program Internship](https://jobright.ai/jobs/info/6937d6c81c1c2161c13f9f26?utm_campaign=1047&utm_source=git)** | Eden Prairie, MN | Hybrid | Dec 08 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Product Management - 2026 Summer Internship](https://jobright.ai/jobs/info/69378bd3aabec14a727c91f3?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | Hybrid | Dec 08 |
 | **[Corpay](https://payments.corpay.com)** | **[Product Intern](https://jobright.ai/jobs/info/6937a233a0dde7020e3050ef?utm_campaign=1047&utm_source=git)** | Peachtree Corners, GA | On Site | Dec 08 |
 | **[American Greetings](http://americangreetings.com)** | **[Category/Product Management Internship (Hybrid) – Summer 2026](https://jobright.ai/jobs/info/6921acf23f782d2f1afd34c7?utm_campaign=1047&utm_source=git)** | Westlake, OH | Hybrid | Dec 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/69331a08764507023d1b228f?utm_campaign=1047&utm_source=git)** | Springfield, TN | On Site | Dec 04 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/691517bb286ccf0a1512b291?utm_campaign=1047&utm_source=git)** | Nashua, NH | On Site | Dec 04 |
 | **[Epic Games](https://epicgames.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/68f08a71a6b9004b5e3212a1?utm_campaign=1047&utm_source=git)** | Cary, NC | On Site | Dec 04 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Data Product Intern, Summer 2026](https://jobright.ai/jobs/info/6931ae594c474121999f251d?utm_campaign=1047&utm_source=git)** | Bay Lake, FL | On Site | Dec 04 |
-| **[Disney Experiences](https://disneyconnect.com/)** | **[Data Product Intern, Summer 2026](https://jobright.ai/jobs/info/6931c259fa28370be26bdd1b?utm_campaign=1047&utm_source=git)** | Bay Lake, FL | On Site | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
