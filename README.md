@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ubisoft](https://www.ubisoft.com)** | **[Communication - Publishing Product Intern](https://jobright.ai/jobs/info/691c8afebcdbf3560c9e7c70?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 09 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/691d4f55bcdbf3560c9efc19?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Dec 09 |
+| **[SkyrisAI](https://www.linkedin.com/company/105658415)** | **[Product Manager Intern (User Research Focused)](https://jobright.ai/jobs/info/693843dfb95c305f206d716a?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 09 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Product Manager I (APM) - Associate Product Manager Program](https://jobright.ai/jobs/info/69381bbab95c305f206d4d66?utm_campaign=1047&utm_source=git)** | Glendale, CA | On Site | Dec 09 |
 | **[Zoox](https://www.zoox.com/)** | **[Technical Product Management Intern, Agentic AI](https://jobright.ai/jobs/info/691be97622a2cb4b9bd176fd?utm_campaign=1047&utm_source=git)** | Foster City, CA | Hybrid | Dec 09 |
+| **[PTC](http://ptc.co/VLED30oHtEh)** | **[ALM Product Management Intern](https://jobright.ai/jobs/info/691bbd4e15b4156367192319?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Dec 09 |
 | **[Career Launch Recruitment Solutions](https://www.linkedin.com/company/104165626)** | **[Intern, Product Management](https://jobright.ai/jobs/info/69381bbbb95c305f206d4d68?utm_campaign=1047&utm_source=git)** | Chelmsford, MA | Hybrid | Dec 09 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Mobile Product](https://jobright.ai/jobs/info/6937df531c1c2161c13fa194?utm_campaign=1047&utm_source=git)** | Stamford, CT | On Site | Dec 09 |
 | **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[Product and Business Development Program Internship](https://jobright.ai/jobs/info/6937d6c81c1c2161c13f9f26?utm_campaign=1047&utm_source=git)** | Eden Prairie, MN | Hybrid | Dec 08 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 - Product Management Intern, US](https://jobright.ai/jobs/info/6932525f764507023d1ad149?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 04 |
 | **[Micron Technology](http://www.micron.com)** | **[CMBU Product Management Intern](https://jobright.ai/jobs/info/69322df0fa28370be26c2d12?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 04 |
 | **[McMaster-Carr](http://www.mcmaster.com)** | **[MBA Internship: Leadership Strategy and Operations - Products & Publishing](https://jobright.ai/jobs/info/693224c14c474121999f75ef?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Dec 04 |
-| **[Sanofi](https://www.sanofi.com)** | **[Product Analyst Catalyst](https://jobright.ai/jobs/info/69322b27d0010831497c0476?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 04 |
+| **[Sanofi](https://www.sanofi.com)** | **[Product Analyst Catalyst](https://jobright.ai/jobs/info/6932126afa28370be26c171c?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 04 |
 | ↳ | **[Product Analyst Catalyst](https://jobright.ai/jobs/info/6932117bfa28370be26c1632?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 04 |
-| **[Princess Cruises](http://www.princess.com)** | **[Intern-eCommerce Product](https://jobright.ai/jobs/info/69321e70fa28370be26c2291?utm_campaign=1047&utm_source=git)** | Fort Lauderdale, FL, United States | Hybrid | Dec 04 |
-| **[Carnival Corporation](http://carnivalcorp.com)** | **[Intern-eCommerce Product](https://jobright.ai/jobs/info/6932202cfa28370be26c246c?utm_campaign=1047&utm_source=git)** | Fort Lauderdale, FL, United States | Hybrid | Dec 04 |
-| **[Tanium](http://www.tanium.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/693213a64c474121999f6a9c?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
