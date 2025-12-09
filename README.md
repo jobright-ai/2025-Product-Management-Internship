@@ -58,10 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Product Management - 2026 Summer Internship](https://jobright.ai/jobs/info/69378bd3aabec14a727c91f3?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | Hybrid | Dec 08 |
+| **[Corpay](https://payments.corpay.com)** | **[Product Intern](https://jobright.ai/jobs/info/6937a233a0dde7020e3050ef?utm_campaign=1047&utm_source=git)** | Peachtree Corners, GA | On Site | Dec 08 |
 | **[American Greetings](http://americangreetings.com)** | **[Category/Product Management Internship (Hybrid) – Summer 2026](https://jobright.ai/jobs/info/6921acf23f782d2f1afd34c7?utm_campaign=1047&utm_source=git)** | Westlake, OH | Hybrid | Dec 08 |
 | **[Corpay](https://payments.corpay.com)** | **[Product Intern](https://jobright.ai/jobs/info/6937941da0dde7020e3045be?utm_campaign=1047&utm_source=git)** | Peachtree Corners, GA 30092, USA | Remote | Dec 08 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Product Management - 2026 Summer Internship](https://jobright.ai/jobs/info/6937651faabec14a727c76b8?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | On Site | Dec 08 |
-| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Product and Program Manager Intern (Unpaid)](https://jobright.ai/jobs/info/69375cc71c1c2161c13f357e?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Dec 08 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Product Management Internship (MBA)](https://jobright.ai/jobs/info/68dc5fa9accfd24b67e54e45?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Dec 08 |
 | **[KEEN](http://www.keenfootwear.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69374bf8aabec14a727c61dd?utm_campaign=1047&utm_source=git)** | Portland, OR | On Site | Dec 08 |
 | **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Intern](https://jobright.ai/jobs/info/693747a5aabec14a727c5ed3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 08 |
