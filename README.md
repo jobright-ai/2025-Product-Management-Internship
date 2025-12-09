@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Relay](https://relaypro.com)** | **[Relay Launchpad Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/68d68b5dd3fe025a3015a4f4?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Dec 09 |
 | **[Reshy.io](https://reshy.io/)** | **[Strategic Growth (Internship Consideration) - M&A AI Software](https://jobright.ai/jobs/info/69387245a0dde7020e3109ad?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 09 |
 | **[Riot Games](http://www.riotgames.com)** | **[Insights Analyst Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69092852d046ab6061cd2427?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Remote | Dec 09 |
 | **[Ubisoft](https://www.ubisoft.com)** | **[Communication - Publishing Product Intern](https://jobright.ai/jobs/info/691c8afebcdbf3560c9e7c70?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 09 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Product Manager I (APM) - Associate Product Manager Program](https://jobright.ai/jobs/info/69381bbab95c305f206d4d66?utm_campaign=1047&utm_source=git)** | Glendale, CA | On Site | Dec 09 |
 | **[Zoox](https://www.zoox.com/)** | **[Technical Product Management Intern, Agentic AI](https://jobright.ai/jobs/info/691be97622a2cb4b9bd176fd?utm_campaign=1047&utm_source=git)** | Foster City, CA | Hybrid | Dec 09 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[ALM Product Management Intern](https://jobright.ai/jobs/info/691bbd4e15b4156367192319?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Dec 09 |
-| **[Career Launch Recruitment Solutions](https://www.linkedin.com/company/104165626)** | **[Intern, Product Management](https://jobright.ai/jobs/info/69381bbbb95c305f206d4d68?utm_campaign=1047&utm_source=git)** | Chelmsford, MA | Hybrid | Dec 09 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Mobile Product](https://jobright.ai/jobs/info/6937df531c1c2161c13fa194?utm_campaign=1047&utm_source=git)** | Stamford, CT | On Site | Dec 09 |
 | **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[Product and Business Development Program Internship](https://jobright.ai/jobs/info/6937d6c81c1c2161c13f9f26?utm_campaign=1047&utm_source=git)** | Eden Prairie, MN | Hybrid | Dec 08 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Product Management - 2026 Summer Internship](https://jobright.ai/jobs/info/69378bd3aabec14a727c91f3?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | Hybrid | Dec 08 |
@@ -81,8 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/6937712baabec14a727c8209?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 08 |
 | **[American Society of Anesthesiologists®](https://www.asahq.org)** | **[Summer Intern - Product Management - Schaumburg, IL or Remote](https://jobright.ai/jobs/info/6932a32ba0dde7020e2e7e06?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | Remote | Dec 08 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Product Analyst Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/69372fdcaabec14a727c4d6c?utm_campaign=1047&utm_source=git)** | Remote or State College, PA | Remote | Dec 08 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Product - ETF](https://jobright.ai/jobs/info/693745efa0dde7020e300bff?utm_campaign=1047&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 08 |
-| ↳ | **[Summer Intern 2026 - Product - ETF](https://jobright.ai/jobs/info/69374081a0dde7020e3007eb?utm_campaign=1047&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Dec 08 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Product - ETF](https://jobright.ai/jobs/info/69374081a0dde7020e3007eb?utm_campaign=1047&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Dec 08 |
 | **[Henkel](http://www.henkel.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69363d5ea0dde7020e2fa51a?utm_campaign=1047&utm_source=git)** | Culver City, CA | Hybrid | Dec 07 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Sr. Inbound Product Manager Intern (MBA) - Summer 2026](https://jobright.ai/jobs/info/68cd4a671ad6b16f028978fa?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Dec 07 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Merchandise Planning Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e04c60f758fe1f97e4c19d?utm_campaign=1047&utm_source=git)** | Reynoldsburg, OH | Hybrid | Dec 07 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 - Product Management Intern, US](https://jobright.ai/jobs/info/6932525f764507023d1ad149?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 04 |
 | **[Micron Technology](http://www.micron.com)** | **[CMBU Product Management Intern](https://jobright.ai/jobs/info/69322df0fa28370be26c2d12?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 04 |
 | **[McMaster-Carr](http://www.mcmaster.com)** | **[MBA Internship: Leadership Strategy and Operations - Products & Publishing](https://jobright.ai/jobs/info/693224c14c474121999f75ef?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Dec 04 |
+| **[Sanofi](https://www.sanofi.com)** | **[Product Analyst Catalyst](https://jobright.ai/jobs/info/69322b27d0010831497c0476?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
