@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/691d4f55bcdbf3560c9efc19?utm_campaign=1047&utm_source=git)** | Mansfield, TX | On Site | Dec 09 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Product Manager I (APM) - Associate Product Manager Program](https://jobright.ai/jobs/info/69381bbab95c305f206d4d66?utm_campaign=1047&utm_source=git)** | Glendale, CA | On Site | Dec 09 |
+| **[Zoox](https://www.zoox.com/)** | **[Technical Product Management Intern, Agentic AI](https://jobright.ai/jobs/info/691be97622a2cb4b9bd176fd?utm_campaign=1047&utm_source=git)** | Foster City, CA | Hybrid | Dec 09 |
+| **[Career Launch Recruitment Solutions](https://www.linkedin.com/company/104165626)** | **[Intern, Product Management](https://jobright.ai/jobs/info/69381bbbb95c305f206d4d68?utm_campaign=1047&utm_source=git)** | Chelmsford, MA | Hybrid | Dec 09 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Mobile Product](https://jobright.ai/jobs/info/6937df531c1c2161c13fa194?utm_campaign=1047&utm_source=git)** | Stamford, CT | On Site | Dec 09 |
 | **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[Product and Business Development Program Internship](https://jobright.ai/jobs/info/6937d6c81c1c2161c13f9f26?utm_campaign=1047&utm_source=git)** | Eden Prairie, MN | Hybrid | Dec 08 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Product Management - 2026 Summer Internship](https://jobright.ai/jobs/info/69378bd3aabec14a727c91f3?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | Hybrid | Dec 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Princess Cruises](http://www.princess.com)** | **[Intern-eCommerce Product](https://jobright.ai/jobs/info/69321e70fa28370be26c2291?utm_campaign=1047&utm_source=git)** | Fort Lauderdale, FL, United States | Hybrid | Dec 04 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Intern-eCommerce Product](https://jobright.ai/jobs/info/6932202cfa28370be26c246c?utm_campaign=1047&utm_source=git)** | Fort Lauderdale, FL, United States | Hybrid | Dec 04 |
 | **[Tanium](http://www.tanium.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/693213a64c474121999f6a9c?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Dec 04 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Credit Card Experiences Product Manager)](https://jobright.ai/jobs/info/692293c1c0cefa13343d85c4?utm_campaign=1047&utm_source=git)** | Pensacola, FL | Hybrid | Dec 04 |
-| **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/69331a08764507023d1b228f?utm_campaign=1047&utm_source=git)** | Springfield, TN | On Site | Dec 04 |
-| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/691517bb286ccf0a1512b291?utm_campaign=1047&utm_source=git)** | Nashua, NH | On Site | Dec 04 |
-| **[Epic Games](https://epicgames.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/68f08a71a6b9004b5e3212a1?utm_campaign=1047&utm_source=git)** | Cary, NC | On Site | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
