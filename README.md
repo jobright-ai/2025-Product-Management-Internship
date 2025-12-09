@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Greetings](http://americangreetings.com)** | **[Category/Product Management Internship (Hybrid) – Summer 2026](https://jobright.ai/jobs/info/6921acf23f782d2f1afd34c7?utm_campaign=1047&utm_source=git)** | Westlake, OH | Hybrid | Dec 08 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Product Management - 2026 Summer Internship](https://jobright.ai/jobs/info/6937651faabec14a727c76b8?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | On Site | Dec 08 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Product and Program Manager Intern (Unpaid)](https://jobright.ai/jobs/info/69375cc71c1c2161c13f357e?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Dec 08 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Product Management Internship (MBA)](https://jobright.ai/jobs/info/68dc5fa9accfd24b67e54e45?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Dec 08 |
 | **[KEEN](http://www.keenfootwear.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/69374bf8aabec14a727c61dd?utm_campaign=1047&utm_source=git)** | Portland, OR | On Site | Dec 08 |
 | **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Intern](https://jobright.ai/jobs/info/693747a5aabec14a727c5ed3?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 08 |
 | **[KEEN](http://www.keenfootwear.com)** | **[Product Development Operations Intern](https://jobright.ai/jobs/info/69373ef7a0dde7020e3006aa?utm_campaign=1047&utm_source=git)** | Portland, OR | On Site | Dec 08 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Product Analyst Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/69373e6b1c1c2161c13f1e92?utm_campaign=1047&utm_source=git)** | State College, PA | On Site | Dec 08 |
+| **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/6937712baabec14a727c8209?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 08 |
 | **[American Society of Anesthesiologists®](https://www.asahq.org)** | **[Summer Intern - Product Management - Schaumburg, IL or Remote](https://jobright.ai/jobs/info/6932a32ba0dde7020e2e7e06?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | Remote | Dec 08 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Product Analyst Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/69372fdcaabec14a727c4d6c?utm_campaign=1047&utm_source=git)** | Remote or State College, PA | Remote | Dec 08 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Product - ETF](https://jobright.ai/jobs/info/693745efa0dde7020e300bff?utm_campaign=1047&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 08 |
@@ -85,8 +88,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (Content and Service Lead Ads ) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd7bf4e23def7af55bab22?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
 | ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ccd909d11b445e0bee2c44?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Dec 06 |
 | ↳ | **[Content Operations Intern (TikTok-Product-Content Ecosystem)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688e2c42e5cead4afd45bf2f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
-| **[Databricks](https://www.databricks.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd6359b2a74e1837ed6556?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 06 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Seller Risk/Performance Score Product) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/68cd7f4e1ad6b16f0289a3e0?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Dec 06 |
+| ↳ | **[Product Manager Intern (TikTok Shop Seller Risk/Performance Score Product) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/68cd7f4e1ad6b16f0289a3e0?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Dec 06 |
 | ↳ | **[Product Strategist Intern [TikTok-Product-Business Analytics]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cfa93edbd9fb154ede985a?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Product Manager, Sales Platform](https://jobright.ai/jobs/info/68dffa52b99ec3563b0ca9cb?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 06 |
 | ↳ | **[2026 Intern - Digital Imaging User Research](https://jobright.ai/jobs/info/68fc4f8993c49825ab10bd33?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
@@ -121,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69335476764507023d1b44f7?utm_campaign=1047&utm_source=git)** | Tucson, AZ | Hybrid | Dec 05 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69335fe3764507023d1b4f1d?utm_campaign=1047&utm_source=git)** | Research Park, CA | Hybrid | Dec 05 |
 | **[Workday](http://www.workday.com)** | **[AI Product Manager Intern](https://jobright.ai/jobs/info/69374f6caabec14a727c644c?utm_campaign=1047&utm_source=git)** | Canada, ON, Toronto | Hybrid | Dec 05 |
-| **[American Greetings](http://americangreetings.com)** | **[Category/Product Management Internship (Hybrid) – Summer 2026](https://jobright.ai/jobs/info/6921acf23f782d2f1afd34c7?utm_campaign=1047&utm_source=git)** | Westlake, OH | Hybrid | Dec 05 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Product Strategy Summer 2026 Intern (PGP Title & PIA))](https://jobright.ai/jobs/info/69333d6ea0dde7020e2ebbf5?utm_campaign=1047&utm_source=git)** | Coppell, TX | Hybrid | Dec 05 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern Poughkeepsie New York 2026](https://jobright.ai/jobs/info/69331c78764507023d1b2449?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | On Site | Dec 05 |
 | **[American Greetings](http://americangreetings.com)** | **[Product Management Intern (Hybrid) – Summer 2026](https://jobright.ai/jobs/info/692258ffd1ec2c3565c47194?utm_campaign=1047&utm_source=git)** | Westlake, OH | Hybrid | Dec 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Data Product Intern, Summer 2026](https://jobright.ai/jobs/info/6931c259fa28370be26bdd1b?utm_campaign=1047&utm_source=git)** | Bay Lake, FL | On Site | Dec 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product-Comprehensive Search]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ccfd0677add66568abd2f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 04 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Product Delivery Intern](https://jobright.ai/jobs/info/69341892a0dde7020e2f4409?utm_campaign=1047&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 04 |
-| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Digital Product Management Analyst Co-op - Fall 2026](https://jobright.ai/jobs/info/69315cf84c474121999ed6c1?utm_campaign=1047&utm_source=git)** | Quincy, MA | Hybrid | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
