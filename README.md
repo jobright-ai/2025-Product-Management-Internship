@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Associate Product Manager Internship](https://jobright.ai/jobs/info/6938ed3db95c305f206e2dbf?utm_campaign=1047&utm_source=git)** | Frisco, TX | On Site | Dec 09 |
+| ↳ | **[Summer 2026 Product Development Intern, Peace of Mind](https://jobright.ai/jobs/info/6938ea05a0dde7020e3188f1?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Dec 09 |
+| ↳ | **[Summer 2026 AI Product Strategy Internship](https://jobright.ai/jobs/info/6938e877aabec14a727ddcef?utm_campaign=1047&utm_source=git)** | Frisco, TX | On Site | Dec 09 |
+| ↳ | **[Summer 2026 AI Product Strategy Internship](https://jobright.ai/jobs/info/6938e782aabec14a727ddc37?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Dec 09 |
+| ↳ | **[Summer 2026 AI Product Strategy Internship](https://jobright.ai/jobs/info/6938e62aaabec14a727ddb76?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Dec 09 |
+| ↳ | **[AI Product Innovation Intern](https://jobright.ai/jobs/info/6938e184a0dde7020e317fab?utm_campaign=1047&utm_source=git)** | Frisco, TX | On Site | Dec 09 |
+| **[Force Factor](https://forcefactor.com/)** | **[Winter/Spring Product Development Internship](https://jobright.ai/jobs/info/68d338b317554c2d9eeeed6b?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Dec 09 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Product Management Intern](https://jobright.ai/jobs/info/6938b9e9aabec14a727da64b?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT, United States | On Site | Dec 09 |
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[ETF Product Strategy - Undergrad Intern](https://jobright.ai/jobs/info/6938b54eb95c305f206df0d5?utm_campaign=1047&utm_source=git)** | San Mateo, California, United States of America | Hybrid | Dec 09 |
 | ↳ | **[ETF Product Strategy - Undergrad Intern](https://jobright.ai/jobs/info/6938b2a3aabec14a727da1fb?utm_campaign=1047&utm_source=git)** | San Ramon, California, United States of America | Hybrid | Dec 09 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product manager Intern (TikTok-Search-Comprehensive Search) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68cc52dd128dc347fd922a2d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 05 |
 | ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd18b31ad6b16f02894c64?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 05 |
 | ↳ | **[Product Manager Intern (TikTok Shop IPR Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6916e6349c388539cbdff77c?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Dec 05 |
-| ↳ | **[Product Manager Intern [TikTok-Product-Search Growth]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cc67477342c7623ae64528?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 05 |
-| **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Product Development](https://jobright.ai/jobs/info/691ae6f1bcdbf3560c9db78a?utm_campaign=1047&utm_source=git)** | Hunt Valley, MD | On Site | Dec 05 |
-| **[The Toro Company](https://www.thetorocompany.com)** | **[New Product Development (NPD) Sourcing Intern - Ditch Witch](https://jobright.ai/jobs/info/68cd208f1ad6b16f0289550e?utm_campaign=1047&utm_source=git)** | Noble County, OK | On Site | Dec 05 |
-| **[Dover Food Retail](https://www.dovercorporation.com/our-markets/refrigeration-and-food-equipment/)** | **[Product Manager, Aftermarket Parts Intern](https://jobright.ai/jobs/info/6932e52a764507023d1b0fc0?utm_campaign=1047&utm_source=git)** | Conyers, GA | On Site | Dec 05 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern - MCBU NPI Manager](https://jobright.ai/jobs/info/68facb0267272b29af733936?utm_campaign=1047&utm_source=git)** | Boise, ID | On Site | Dec 05 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Universal Studios Hollywood, Food Shared Services Internship – Summer 2026](https://jobright.ai/jobs/info/69326e27a0dde7020e2e6ecd?utm_campaign=1047&utm_source=git)** | Universal City, CA | On Site | Dec 04 |
-| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Product Specialist](https://jobright.ai/jobs/info/69365956a0dde7020e2fb0d6?utm_campaign=1047&utm_source=git)** | Maryland Heights, MO | On Site | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
