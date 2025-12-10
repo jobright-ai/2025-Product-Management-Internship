@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Everspring](http://everspringpartners.com)** | **[Director of Product Portfolio Development](https://jobright.ai/jobs/info/692058b5a49a885af9a38f53?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Dec 10 |
+| **[Olin](http://www.olin.com/)** | **[Product Management Intern - 2026](https://jobright.ai/jobs/info/691d1fb87481340785ed40c3?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Dec 10 |
+| **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - ACS Portfolio Product Management](https://jobright.ai/jobs/info/69010b30d5259a1b3cff0bbb?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 10 |
+| **[Q2](https://www.q2.com)** | **[2026 Summer Internship - Product Management](https://jobright.ai/jobs/info/6933f333a0dde7020e2f3268?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 10 |
+| **[Publicis Sapient](https://www.publicissapient.com)** | **[Product Manager Intern (Class of 2027)](https://jobright.ai/jobs/info/6939603348a8ce22990d73aa?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Dec 10 |
+| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Digital Product Analyst Internship](https://jobright.ai/jobs/info/6939602648a8ce22990d73a5?utm_campaign=1047&utm_source=git)** | Columbus, OH | On Site | Dec 10 |
+| **[Intuitive](https://www.intuitive.com/)** | **[Product Management MBA Intern](https://jobright.ai/jobs/info/68e459351852e62f00804edf?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Dec 10 |
 | **[Beautynbrushes](http://www.beautynbrushes.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6939441056b68f3dc4e6c6f2?utm_campaign=1047&utm_source=git)** | Canada | Remote | Dec 09 |
 | **[LA Clippers](http://www.clippers.com)** | **[Product Intern](https://jobright.ai/jobs/info/69391e3756b68f3dc4e699b3?utm_campaign=1047&utm_source=git)** | Inglewood, CA | On Site | Dec 09 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Product Management Intern](https://jobright.ai/jobs/info/6938f04ab95c305f206e3010?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Dec 09 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, eCommerce Product](https://jobright.ai/jobs/info/69337335764507023d1b5cd4?utm_campaign=1047&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 05 |
 | **[IBM](http://www.ibm.com)** | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/6933716d764507023d1b5b50?utm_campaign=1047&utm_source=git)** | Tucson, AZ | Hybrid | Dec 05 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69339421f131d96e484648e4?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | On Site | Dec 05 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69335f33a0dde7020e2ed206?utm_campaign=1047&utm_source=git)** | Rochester, MN | Hybrid | Dec 05 |
-| ↳ | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/69336bd1a0dde7020e2edc80?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Dec 05 |
-| **[Universal Studios Hollywood](http://www.universalstudioshollywood.com)** | **[Universal Studios Hollywood, Food Shared Services Internship – Summer 2026](https://jobright.ai/jobs/info/69335902764507023d1b4942?utm_campaign=1047&utm_source=git)** | Universal City, CA | On Site | Dec 05 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69335476764507023d1b44f7?utm_campaign=1047&utm_source=git)** | Tucson, AZ | Hybrid | Dec 05 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69335fe3764507023d1b4f1d?utm_campaign=1047&utm_source=git)** | Research Park, CA | Hybrid | Dec 05 |
-| **[Workday](http://www.workday.com)** | **[AI Product Manager Intern](https://jobright.ai/jobs/info/69374f6caabec14a727c644c?utm_campaign=1047&utm_source=git)** | Canada, ON, Toronto | Hybrid | Dec 05 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Product Strategy Summer 2026 Intern (PGP Title & PIA))](https://jobright.ai/jobs/info/69333d6ea0dde7020e2ebbf5?utm_campaign=1047&utm_source=git)** | Coppell, TX | Hybrid | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
