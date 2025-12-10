@@ -77,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Product Manager Intern, Summer 2026](https://jobright.ai/jobs/info/6939947856b68f3dc4e6f64c?utm_campaign=1047&utm_source=git)** | Glendale, CA | On Site | Dec 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Product Manager Intern, Summer 2026](https://jobright.ai/jobs/info/693984e056b68f3dc4e6eff9?utm_campaign=1047&utm_source=git)** | Glendale, CA | On Site | Dec 10 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Product Management MBA Intern](https://jobright.ai/jobs/info/68e459351852e62f00804edf?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Dec 10 |
-| **[Beautynbrushes](http://www.beautynbrushes.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6939441056b68f3dc4e6c6f2?utm_campaign=1047&utm_source=git)** | Canada | Remote | Dec 09 |
 | **[LA Clippers](http://www.clippers.com)** | **[Product Intern](https://jobright.ai/jobs/info/69391e3756b68f3dc4e699b3?utm_campaign=1047&utm_source=git)** | Inglewood, CA | On Site | Dec 09 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Product Management Intern](https://jobright.ai/jobs/info/6938f04ab95c305f206e3010?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Dec 09 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Associate Product Manager Internship](https://jobright.ai/jobs/info/6938efc0aabec14a727de249?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Dec 09 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Verkada](https://www.verkada.com)** | **[MBA Intern - Product](https://jobright.ai/jobs/info/69336c4d764507023d1b578c?utm_campaign=1047&utm_source=git)** | San Mateo, CA United States | On Site | Dec 05 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/693352bef131d96e48461f2b?utm_campaign=1047&utm_source=git)** | Lowell, MA | On Site | Dec 05 |
 | **[PGP Title](https://www.pgptitle.com)** | **[Product Strategy Summer 2026 Intern (PGP Title & PIA))](https://jobright.ai/jobs/info/693351d5f131d96e48461e4e?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Dec 05 |
+| **[IBM](http://www.ibm.com)** | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/69335064f131d96e48461ce9?utm_campaign=1047&utm_source=git)** | Research Park, CA | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
