@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Crown Fund](www.crownfund.co)** | **[Product Management Intern](https://jobright.ai/jobs/info/69391e91ac80bb5492bbbd2c?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Dec 09 |
+| **[Beautynbrushes](http://www.beautynbrushes.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6939441056b68f3dc4e6c6f2?utm_campaign=1047&utm_source=git)** | Canada | Remote | Dec 09 |
 | **[LA Clippers](http://www.clippers.com)** | **[Product Intern](https://jobright.ai/jobs/info/69391e3756b68f3dc4e699b3?utm_campaign=1047&utm_source=git)** | Inglewood, CA | On Site | Dec 09 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Product Management Intern](https://jobright.ai/jobs/info/6938f04ab95c305f206e3010?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Dec 09 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Associate Product Manager Internship](https://jobright.ai/jobs/info/6938efc0aabec14a727de249?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Dec 09 |
