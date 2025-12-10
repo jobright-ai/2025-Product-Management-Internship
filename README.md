@@ -57,12 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Associate Product Manager Internship](https://jobright.ai/jobs/info/6938ed3db95c305f206e2dbf?utm_campaign=1047&utm_source=git)** | Frisco, TX | On Site | Dec 09 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Product Management Intern](https://jobright.ai/jobs/info/6938f04ab95c305f206e3010?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Dec 09 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Associate Product Manager Internship](https://jobright.ai/jobs/info/6938efc0aabec14a727de249?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Dec 09 |
+| ↳ | **[Summer 2026 Product Development Intern, Peace of Mind](https://jobright.ai/jobs/info/6938eee8b95c305f206e2f2a?utm_campaign=1047&utm_source=git)** | Frisco, TX | On Site | Dec 09 |
+| ↳ | **[AI Product Innovation Intern](https://jobright.ai/jobs/info/6938edcfa0dde7020e318b7e?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Dec 09 |
+| ↳ | **[Summer 2026 Associate Product Manager Internship](https://jobright.ai/jobs/info/6938ed3db95c305f206e2dbf?utm_campaign=1047&utm_source=git)** | Frisco, TX | On Site | Dec 09 |
 | ↳ | **[Summer 2026 Product Development Intern, Peace of Mind](https://jobright.ai/jobs/info/6938ea05a0dde7020e3188f1?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Dec 09 |
 | ↳ | **[Summer 2026 AI Product Strategy Internship](https://jobright.ai/jobs/info/6938e877aabec14a727ddcef?utm_campaign=1047&utm_source=git)** | Frisco, TX | On Site | Dec 09 |
 | ↳ | **[Summer 2026 AI Product Strategy Internship](https://jobright.ai/jobs/info/6938e782aabec14a727ddc37?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Dec 09 |
 | ↳ | **[Summer 2026 AI Product Strategy Internship](https://jobright.ai/jobs/info/6938e62aaabec14a727ddb76?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Dec 09 |
 | ↳ | **[AI Product Innovation Intern](https://jobright.ai/jobs/info/6938e184a0dde7020e317fab?utm_campaign=1047&utm_source=git)** | Frisco, TX | On Site | Dec 09 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Product Management Intern](https://jobright.ai/jobs/info/6938faeaa0dde7020e31985f?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Dec 09 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[AI Product Innovation Intern](https://jobright.ai/jobs/info/693902a2a0dde7020e319e34?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Dec 09 |
+| ↳ | **[Summer 2026 Associate Product Manager Internship](https://jobright.ai/jobs/info/6938f869b95c305f206e34b6?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Dec 09 |
+| ↳ | **[Summer 2026 Product Development Intern, Peace of Mind](https://jobright.ai/jobs/info/6938f68cb95c305f206e342c?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Dec 09 |
 | **[Force Factor](https://forcefactor.com/)** | **[Winter/Spring Product Development Internship](https://jobright.ai/jobs/info/68d338b317554c2d9eeeed6b?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Dec 09 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Product Management Intern](https://jobright.ai/jobs/info/6938b9e9aabec14a727da64b?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT, United States | On Site | Dec 09 |
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[ETF Product Strategy - Undergrad Intern](https://jobright.ai/jobs/info/6938b54eb95c305f206df0d5?utm_campaign=1047&utm_source=git)** | San Mateo, California, United States of America | Hybrid | Dec 09 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69335fe3764507023d1b4f1d?utm_campaign=1047&utm_source=git)** | Research Park, CA | Hybrid | Dec 05 |
 | **[Workday](http://www.workday.com)** | **[AI Product Manager Intern](https://jobright.ai/jobs/info/69374f6caabec14a727c644c?utm_campaign=1047&utm_source=git)** | Canada, ON, Toronto | Hybrid | Dec 05 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Product Strategy Summer 2026 Intern (PGP Title & PIA))](https://jobright.ai/jobs/info/69333d6ea0dde7020e2ebbf5?utm_campaign=1047&utm_source=git)** | Coppell, TX | Hybrid | Dec 05 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern Poughkeepsie New York 2026](https://jobright.ai/jobs/info/69331c78764507023d1b2449?utm_campaign=1047&utm_source=git)** | Poughkeepsie, AR | On Site | Dec 05 |
-| **[American Greetings](http://americangreetings.com)** | **[Product Management Intern (Hybrid) – Summer 2026](https://jobright.ai/jobs/info/692258ffd1ec2c3565c47194?utm_campaign=1047&utm_source=git)** | Westlake, OH | Hybrid | Dec 05 |
-| **[Koch](https://www.kochinc.com)** | **[Summer 2026 - Business Systems Analyst Internship](https://jobright.ai/jobs/info/6933054f764507023d1b1abc?utm_campaign=1047&utm_source=git)** | Wichita, KS | On Site | Dec 05 |
-| **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b463f?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Dec 05 |
-| **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/69169d3c6f36db06ef058565?utm_campaign=1047&utm_source=git)** | Everett, WA | On Site | Dec 05 |
-| **[TikTok](https://www.tiktok.com)** | **[Product manager Intern (TikTok-Search-Comprehensive Search) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68cc52dd128dc347fd922a2d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 05 |
-| ↳ | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd18b31ad6b16f02894c64?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 05 |
-| ↳ | **[Product Manager Intern (TikTok Shop IPR Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6916e6349c388539cbdff77c?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
