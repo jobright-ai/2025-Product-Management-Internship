@@ -108,8 +108,7 @@ For a complete list, click the following sortable link below:
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Merchandise Planning Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e04c60f758fe1f97e4c19d?utm_campaign=1047&utm_source=git)** | Reynoldsburg, OH | Hybrid | Dec 07 |
 | **[Databricks](https://www.databricks.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68cf575f846f0b04af68151e?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Dec 07 |
 | **[Generac](https://www.generac.com/)** | **[Summer 2026 Product Management Intern](https://jobright.ai/jobs/info/6933d7ccf131d96e48467b76?utm_campaign=1047&utm_source=git)** | Waukesha, WI | On Site | Dec 07 |
-| **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/69368324764507023d1c3dae?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | Hybrid | Dec 06 |
-| ↳ | **[Pricing & Product Portfolio Intern – Summer 2026](https://jobright.ai/jobs/info/69367c04a0dde7020e2fbdb5?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ | Hybrid | Dec 06 |
+| **[Henkel](http://www.henkel.com)** | **[Pricing & Product Portfolio Intern – Summer 2026](https://jobright.ai/jobs/info/69367c04a0dde7020e2fbdb5?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ | Hybrid | Dec 06 |
 | ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/6936670a764507023d1c32cb?utm_campaign=1047&utm_source=git)** | Irvine, CA | Hybrid | Dec 06 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Sr. Outbound Product Manager Intern (MBA) - Summer 2026](https://jobright.ai/jobs/info/6937b91caabec14a727cc6ba?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Dec 06 |
 | ↳ | **[Product Manager Intern (Masters Degree) - Summer 2026](https://jobright.ai/jobs/info/68cd7963e23def7af55ba506?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Dec 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69335476764507023d1b44f7?utm_campaign=1047&utm_source=git)** | Tucson, AZ | Hybrid | Dec 05 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69335fe3764507023d1b4f1d?utm_campaign=1047&utm_source=git)** | Research Park, CA | Hybrid | Dec 05 |
 | **[Workday](http://www.workday.com)** | **[AI Product Manager Intern](https://jobright.ai/jobs/info/69374f6caabec14a727c644c?utm_campaign=1047&utm_source=git)** | Canada, ON, Toronto | Hybrid | Dec 05 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Product Strategy Summer 2026 Intern (PGP Title & PIA))](https://jobright.ai/jobs/info/69333d6ea0dde7020e2ebbf5?utm_campaign=1047&utm_source=git)** | Coppell, TX | Hybrid | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
