@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Franklin Templeton](http://www.franklintempleton.com)** | **[ETF Product Strategy - Undergrad Intern](https://jobright.ai/jobs/info/6938b54eb95c305f206df0d5?utm_campaign=1047&utm_source=git)** | San Mateo, California, United States of America | Hybrid | Dec 09 |
+| ↳ | **[ETF Product Strategy - Undergrad Intern](https://jobright.ai/jobs/info/6938b2a3aabec14a727da1fb?utm_campaign=1047&utm_source=git)** | San Ramon, California, United States of America | Hybrid | Dec 09 |
 | **[Relay](https://relaypro.com)** | **[Relay Launchpad Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/68d68b5dd3fe025a3015a4f4?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Dec 09 |
+| **[Schneider Electric](https://www.se.com)** | **[Product Management Graduate Intern](https://jobright.ai/jobs/info/6938a787b95c305f206de76c?utm_campaign=1047&utm_source=git)** | Franklin, TN | Hybrid | Dec 09 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Product Manager Intern, Summer 2026](https://jobright.ai/jobs/info/69389989b95c305f206dcb80?utm_campaign=1047&utm_source=git)** | Glendale, CA, USA | Hybrid | Dec 09 |
 | **[Reshy.io](https://reshy.io/)** | **[Strategic Growth (Internship Consideration) - M&A AI Software](https://jobright.ai/jobs/info/69387245a0dde7020e3109ad?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 09 |
 | **[Riot Games](http://www.riotgames.com)** | **[Insights Analyst Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69092852d046ab6061cd2427?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Remote | Dec 09 |
 | **[Ubisoft](https://www.ubisoft.com)** | **[Communication - Publishing Product Intern](https://jobright.ai/jobs/info/691c8afebcdbf3560c9e7c70?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Universal Studios Hollywood, Food Shared Services Internship – Summer 2026](https://jobright.ai/jobs/info/69326e27a0dde7020e2e6ecd?utm_campaign=1047&utm_source=git)** | Universal City, CA | On Site | Dec 04 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - Product Specialist](https://jobright.ai/jobs/info/69365956a0dde7020e2fb0d6?utm_campaign=1047&utm_source=git)** | Maryland Heights, MO | On Site | Dec 04 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product Management Intern, US](https://jobright.ai/jobs/info/6932469bf131d96e4845a7ba?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 04 |
-| ↳ | **[2026 - Product Management Intern, US](https://jobright.ai/jobs/info/6932525f764507023d1ad149?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 04 |
-| **[Micron Technology](http://www.micron.com)** | **[CMBU Product Management Intern](https://jobright.ai/jobs/info/69322df0fa28370be26c2d12?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 04 |
-| **[McMaster-Carr](http://www.mcmaster.com)** | **[MBA Internship: Leadership Strategy and Operations - Products & Publishing](https://jobright.ai/jobs/info/693224c14c474121999f75ef?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Dec 04 |
-| **[Sanofi](https://www.sanofi.com)** | **[Product Analyst Catalyst](https://jobright.ai/jobs/info/69322b27d0010831497c0476?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
