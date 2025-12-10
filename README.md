@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Development Intern, Ninja (May to August)](https://jobright.ai/jobs/info/68ce190ee23def7af55c2356?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Dec 10 |
+| **[PTC](http://ptc.co/VLED30oHtEh)** | **[Arena Product Management Intern](https://jobright.ai/jobs/info/69399e5148a8ce22990da0c6?utm_campaign=1047&utm_source=git)** | Foster City, CA, USA | On Site | Dec 10 |
+| **[Glean](https://www.glean.com)** | **[Product Management, Intern (Fall 2025)](https://jobright.ai/jobs/info/68e456f0b99ec3563b0e95fb?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Dec 10 |
+| **[Agropur](http://www.agropur.com/en/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6921020700c9ee50eaecaccd?utm_campaign=1047&utm_source=git)** | Wisconsin, United States | On Site | Dec 10 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management/Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/69075ed8ff462851fe008ca8?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Dec 10 |
 | ↳ | **[Product Management Engineering MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68cd683fe23def7af55b98fe?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Dec 10 |
 | ↳ | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/69354c0ca0dde7020e2f8473?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Dec 10 |
+| **[Workwear Outfitters](https://www.wwof.com)** | **[Product Team Intern (Spring Semester)](https://jobright.ai/jobs/info/691ccfadbcdbf3560c9ea04b?utm_campaign=1047&utm_source=git)** | Nashville, TN | On Site | Dec 10 |
 | **[Everspring](http://everspringpartners.com)** | **[Director of Product Portfolio Development](https://jobright.ai/jobs/info/692058b5a49a885af9a38f53?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Dec 10 |
 | **[Olin](http://www.olin.com/)** | **[Product Management Intern - 2026](https://jobright.ai/jobs/info/691d1fb87481340785ed40c3?utm_campaign=1047&utm_source=git)** | Houston, TX | On Site | Dec 10 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - ACS Portfolio Product Management](https://jobright.ai/jobs/info/69010b30d5259a1b3cff0bbb?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 10 |
@@ -67,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Publicis Sapient](https://www.publicissapient.com)** | **[Product Manager Intern (Class of 2027)](https://jobright.ai/jobs/info/6939603348a8ce22990d73aa?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Dec 10 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Digital Product Analyst Internship](https://jobright.ai/jobs/info/6939602648a8ce22990d73a5?utm_campaign=1047&utm_source=git)** | Columbus, OH | On Site | Dec 10 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Product Manager Intern, Summer 2026](https://jobright.ai/jobs/info/6939947856b68f3dc4e6f64c?utm_campaign=1047&utm_source=git)** | Glendale, CA | On Site | Dec 10 |
-| **[Boost Mobile](http://www.boostmobile.com/)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/691cda95bcdbf3560c9ea742?utm_campaign=1047&utm_source=git)** | Littleton, CO | On Site | Dec 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Product Manager Intern, Summer 2026](https://jobright.ai/jobs/info/693984e056b68f3dc4e6eff9?utm_campaign=1047&utm_source=git)** | Glendale, CA | On Site | Dec 10 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Product Management MBA Intern](https://jobright.ai/jobs/info/68e459351852e62f00804edf?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Dec 10 |
 | **[Beautynbrushes](http://www.beautynbrushes.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6939441056b68f3dc4e6c6f2?utm_campaign=1047&utm_source=git)** | Canada | Remote | Dec 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/69335064f131d96e48461ce9?utm_campaign=1047&utm_source=git)** | Research Park, CA | On Site | Dec 05 |
 | ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334fdd764507023d1b40c9?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Dec 05 |
 | ↳ | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/69334e63a0dde7020e2ec6c8?utm_campaign=1047&utm_source=git)** | Houston, TX | Hybrid | Dec 05 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334e0e764507023d1b3f06?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Dec 05 |
-| ↳ | **[Software Strategy and M&A Summer Intern - Cambridge, MA](https://jobright.ai/jobs/info/69334db8f131d96e48461a2c?utm_campaign=1047&utm_source=git)** | Cambridge, MA | Hybrid | Dec 05 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334d49764507023d1b3e86?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Dec 05 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334c97f131d96e48461929?utm_campaign=1047&utm_source=git)** | Sandy Springs, GA | Hybrid | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
