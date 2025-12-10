@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OpenSesame](http://www.OpenSesame.com)** | **[Product Internship - Summer 2026](https://jobright.ai/jobs/info/6921092e00c9ee50eaecafd3?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 10 |
+| **[InComm Payments](https://www.incomm.com/)** | **[Product Implementation Intern](https://jobright.ai/jobs/info/69011b21d5259a1b3cff1743?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Dec 10 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Development Intern, Ninja (May to August)](https://jobright.ai/jobs/info/68ce190ee23def7af55c2356?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Dec 10 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Arena Product Management Intern](https://jobright.ai/jobs/info/69399e5148a8ce22990da0c6?utm_campaign=1047&utm_source=git)** | Foster City, CA, USA | On Site | Dec 10 |
 | **[Glean](https://www.glean.com)** | **[Product Management, Intern (Fall 2025)](https://jobright.ai/jobs/info/68e456f0b99ec3563b0e95fb?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Dec 10 |
+| **[KHAITE](https://khaite.com/)** | **[Product Development & Production, Non-Apparel Intern, Spring 2026](https://jobright.ai/jobs/info/68ffdddee0c73b3a1119f92f?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 10 |
 | **[Agropur](http://www.agropur.com/en/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6921020700c9ee50eaecaccd?utm_campaign=1047&utm_source=git)** | Wisconsin, United States | On Site | Dec 10 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management/Engineering Internship (Summer 2026)](https://jobright.ai/jobs/info/69075ed8ff462851fe008ca8?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Dec 10 |
 | ↳ | **[Product Management Engineering MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68cd683fe23def7af55b98fe?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Dec 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Verkada](https://www.verkada.com)** | **[MBA Intern - Product](https://jobright.ai/jobs/info/69336c4d764507023d1b578c?utm_campaign=1047&utm_source=git)** | San Mateo, CA United States | On Site | Dec 05 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/693352bef131d96e48461f2b?utm_campaign=1047&utm_source=git)** | Lowell, MA | On Site | Dec 05 |
 | **[PGP Title](https://www.pgptitle.com)** | **[Product Strategy Summer 2026 Intern (PGP Title & PIA))](https://jobright.ai/jobs/info/693351d5f131d96e48461e4e?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Dec 05 |
-| **[IBM](http://www.ibm.com)** | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/69335064f131d96e48461ce9?utm_campaign=1047&utm_source=git)** | Research Park, CA | On Site | Dec 05 |
-| ↳ | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/69334fdd764507023d1b40c9?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Dec 05 |
-| ↳ | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/69334e63a0dde7020e2ec6c8?utm_campaign=1047&utm_source=git)** | Houston, TX | Hybrid | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
