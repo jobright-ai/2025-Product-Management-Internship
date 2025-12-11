@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Product Internship - Summer 2026](https://jobright.ai/jobs/info/6921092e00c9ee50eaecafd3?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 10 |
+| **[Dorman Products](https://www.dormanproducts.com/)** | **[Product Intern - GROWTH](https://jobright.ai/jobs/info/6939ebd3ac80bb5492bc658e?utm_campaign=1047&utm_source=git)** | Colmar, PA | On Site | Dec 10 |
 | **[InComm Payments](https://www.incomm.com/)** | **[Product Implementation Intern](https://jobright.ai/jobs/info/69011b21d5259a1b3cff1743?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Dec 10 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Development Intern, Ninja (May to August)](https://jobright.ai/jobs/info/68ce190ee23def7af55c2356?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Dec 10 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Arena Product Management Intern](https://jobright.ai/jobs/info/69399e5148a8ce22990da0c6?utm_campaign=1047&utm_source=git)** | Foster City, CA, USA | On Site | Dec 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Verkada](https://www.verkada.com)** | **[MBA Intern - Product](https://jobright.ai/jobs/info/69336c4d764507023d1b578c?utm_campaign=1047&utm_source=git)** | San Mateo, CA United States | On Site | Dec 05 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2026](https://jobright.ai/jobs/info/693352bef131d96e48461f2b?utm_campaign=1047&utm_source=git)** | Lowell, MA | On Site | Dec 05 |
 | **[PGP Title](https://www.pgptitle.com)** | **[Product Strategy Summer 2026 Intern (PGP Title & PIA))](https://jobright.ai/jobs/info/693351d5f131d96e48461e4e?utm_campaign=1047&utm_source=git)** | Coppell, TX | On Site | Dec 05 |
-| **[IBM](http://www.ibm.com)** | **[Product Management Intern - IBM Storage 2026](https://jobright.ai/jobs/info/69335064f131d96e48461ce9?utm_campaign=1047&utm_source=git)** | Research Park, CA | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
