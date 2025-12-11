@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: WiFi Product Team](https://jobright.ai/jobs/info/693aa633b309e3780086781a?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Dec 11 |
 | **[Zscaler](https://www.zscaler.com)** | **[Product Manager Intern, Cybersecurity](https://jobright.ai/jobs/info/693a352648a8ce22990e2d5e?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Dec 10 |
 | ↳ | **[Product Manager Intern, ZPA](https://jobright.ai/jobs/info/693a411048a8ce22990e3f96?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Dec 10 |
 | **[American Greetings](http://americangreetings.com)** | **[Product Management Intern (Hybrid) – Summer 2026](https://jobright.ai/jobs/info/692258ffd1ec2c3565c47194?utm_campaign=1047&utm_source=git)** | Westlake, OH | Hybrid | Dec 10 |
@@ -143,6 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Merchandise Planning Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e04c60f758fe1f97e4c19d?utm_campaign=1047&utm_source=git)** | Reynoldsburg, OH | Hybrid | Dec 07 |
 | **[Databricks](https://www.databricks.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/68cf575f846f0b04af68151e?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Dec 07 |
 | **[Generac](https://www.generac.com/)** | **[Summer 2026 Product Management Intern](https://jobright.ai/jobs/info/6933d7ccf131d96e48467b76?utm_campaign=1047&utm_source=git)** | Waukesha, WI | On Site | Dec 07 |
+| **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/693a9715d4054a2bc024a53b?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | Hybrid | Dec 07 |
 | **[Henkel](http://www.henkel.com)** | **[Pricing & Product Portfolio Intern – Summer 2026](https://jobright.ai/jobs/info/69367c04a0dde7020e2fbdb5?utm_campaign=1047&utm_source=git)** | Bridgewater, NJ | Hybrid | Dec 06 |
 | ↳ | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/6936670a764507023d1c32cb?utm_campaign=1047&utm_source=git)** | Irvine, CA | Hybrid | Dec 06 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Sr. Outbound Product Manager Intern (MBA) - Summer 2026](https://jobright.ai/jobs/info/6937b91caabec14a727cc6ba?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Dec 06 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[AI Product Management Engineer II (Intern) - United States](https://jobright.ai/jobs/info/693171dd4c474121999ef465?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Operations Intern [TikTok-Product-Governance Efficiency]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689128fbf47efe21139533d5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
 | ↳ | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/68cc486f16d00d2beeb1ce12?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
-| ↳ | **[Product Manager, Ads Attribution and Measurement Intern (Measurement Signal and Privacy Product) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fb564ff55bb021a88995c5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
-| ↳ | **[Product Manager Intern (Content and Service Lead Ads ) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd7bf4e23def7af55bab22?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
-| ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ccd909d11b445e0bee2c44?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Dec 06 |
 | ↳ | **[Content Operations Intern (TikTok-Product-Content Ecosystem)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688e2c42e5cead4afd45bf2f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
 | ↳ | **[Product Manager Intern (TikTok Shop Seller Risk/Performance Score Product) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/68cd7f4e1ad6b16f0289a3e0?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Dec 06 |
+| ↳ | **[Product Strategist Intern [TikTok-Product-Business Analytics]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cfa93edbd9fb154ede985a?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
