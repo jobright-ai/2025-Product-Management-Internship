@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Zscaler](https://www.zscaler.com)** | **[Product Manager Intern, Cybersecurity](https://jobright.ai/jobs/info/693a352648a8ce22990e2d5e?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Dec 10 |
+| ↳ | **[Product Manager Intern, ZPA](https://jobright.ai/jobs/info/693a411048a8ce22990e3f96?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Dec 10 |
 | **[American Greetings](http://americangreetings.com)** | **[Product Management Intern (Hybrid) – Summer 2026](https://jobright.ai/jobs/info/692258ffd1ec2c3565c47194?utm_campaign=1047&utm_source=git)** | Westlake, OH | Hybrid | Dec 10 |
 | **[Too Lost](https://www.toolost.com)** | **[Commercial Product Intern (Spring 2026)](https://jobright.ai/jobs/info/693a377556b68f3dc4e78c0d?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Dec 10 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Product Management Internship (MBA)](https://jobright.ai/jobs/info/693a0c6656b68f3dc4e76b46?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Dec 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ccd909d11b445e0bee2c44?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Dec 06 |
 | ↳ | **[Content Operations Intern (TikTok-Product-Content Ecosystem)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688e2c42e5cead4afd45bf2f?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
 | ↳ | **[Product Manager Intern (TikTok Shop Seller Risk/Performance Score Product) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/68cd7f4e1ad6b16f0289a3e0?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Dec 06 |
-| ↳ | **[Product Strategist Intern [TikTok-Product-Business Analytics]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cfa93edbd9fb154ede985a?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
