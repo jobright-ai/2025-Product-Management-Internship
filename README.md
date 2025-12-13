@@ -57,13 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital Blue Cross](https://capbluecross.com)** | **[Product & Innovation Intern](https://jobright.ai/jobs/info/693cc3e149a7695fbd0380b0?utm_campaign=1047&utm_source=git)** | US-PA-Harrisburg | Hybrid | Dec 12 |
+| ↳ | **[Product & Innovation Intern](https://jobright.ai/jobs/info/693cc1f949a7695fbd037fc1?utm_campaign=1047&utm_source=git)** | Harrisburg, PA | Hybrid | Dec 12 |
+| **[GoFundMe](http://www.gofundme.com)** | **[Product Management Internship (MBA)](https://jobright.ai/jobs/info/68dc5fa9accfd24b67e54e45?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Dec 12 |
+| **[J. Jill](http://www.jjill.com/)** | **[Product Development Internship - Summer 2026](https://jobright.ai/jobs/info/693cbffcaa598a08c3ed94d7?utm_campaign=1047&utm_source=git)** | Quincy, MA | On Site | Dec 12 |
+| **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Global Product Management - Women's Health](https://jobright.ai/jobs/info/693cb5d850bbaf76504ff267?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Dec 12 |
+| **[Cisco](http://www.cisco.com)** | **[AI Product Management Engineer II (Intern)](https://jobright.ai/jobs/info/693cb341aa598a08c3ed9005?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 12 |
+| **[Cortif Technologies](https://cortif.ai/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/693cb23250bbaf76504ff09b?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Dec 12 |
+| **[Azazie, Inc.](http://www.azazie.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6918e648bcdbf3560c9d3d0b?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 12 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Global Product Management - Women's Health](https://jobright.ai/jobs/info/693ca8acaa598a08c3ed8b3a?utm_campaign=1047&utm_source=git)** | San Diego, CA, United States | On Site | Dec 12 |
 | **[Agropur](http://www.agropur.com/en/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6921020700c9ee50eaecaccd?utm_campaign=1047&utm_source=git)** | Wisconsin, United States | On Site | Dec 12 |
 | **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Intern](https://jobright.ai/jobs/info/693c99a050bbaf76504fe2e2?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 12 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Technical Product Management Intern, Enterprise Products - Summer 2026](https://jobright.ai/jobs/info/693c96ec49a7695fbd03635b?utm_campaign=1047&utm_source=git)** | US, CA, Santa Clara | On Site | Dec 12 |
 | **[Zscaler](https://www.zscaler.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/693c8ed749a7695fbd034abb?utm_campaign=1047&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 12 |
 | **[State Street](http://www.statestreet.com)** | **[Product Management Support, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/693c8c1e50bbaf76504fc2ca?utm_campaign=1047&utm_source=git)** | Stamford, CT | On Site | Dec 12 |
-| **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Global Product Management - Women's Health](https://jobright.ai/jobs/info/693ca4d849a7695fbd037139?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Dec 12 |
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Product Commercialization Intern](https://jobright.ai/jobs/info/693c825950bbaf76504fbaf7?utm_campaign=1047&utm_source=git)** | Littleton, CO | On Site | Dec 12 |
 | **[State Street](http://www.statestreet.com)** | **[Product Management Support, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/693c820349a7695fbd0341d8?utm_campaign=1047&utm_source=git)** | Stamford, Connecticut | On Site | Dec 12 |
 | **[Zscaler](https://www.zscaler.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/693c81e649a7695fbd0341b6?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Dec 12 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 AI Product Strategy Internship](https://jobright.ai/jobs/info/6938e782aabec14a727ddc37?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Dec 09 |
 | ↳ | **[Summer 2026 AI Product Strategy Internship](https://jobright.ai/jobs/info/6938e62aaabec14a727ddb76?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Dec 09 |
 | ↳ | **[AI Product Innovation Intern](https://jobright.ai/jobs/info/6938e184a0dde7020e317fab?utm_campaign=1047&utm_source=git)** | Frisco, TX | On Site | Dec 09 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Product Management Intern](https://jobright.ai/jobs/info/6938faeaa0dde7020e31985f?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Dec 09 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[AI Product Innovation Intern](https://jobright.ai/jobs/info/693902a2a0dde7020e319e34?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Dec 09 |
-| ↳ | **[Summer 2026 Associate Product Manager Internship](https://jobright.ai/jobs/info/6938f869b95c305f206e34b6?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Dec 09 |
-| ↳ | **[Summer 2026 Product Development Intern, Peace of Mind](https://jobright.ai/jobs/info/6938f68cb95c305f206e342c?utm_campaign=1047&utm_source=git)** | Overland Park, KS | On Site | Dec 09 |
-| **[Force Factor](https://forcefactor.com/)** | **[Winter/Spring Product Development Internship](https://jobright.ai/jobs/info/68d338b317554c2d9eeeed6b?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Dec 09 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Product Management Intern](https://jobright.ai/jobs/info/6938b9e9aabec14a727da64b?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT, United States | On Site | Dec 09 |
-| **[Franklin Templeton](http://www.franklintempleton.com)** | **[ETF Product Strategy - Undergrad Intern](https://jobright.ai/jobs/info/6938b54eb95c305f206df0d5?utm_campaign=1047&utm_source=git)** | San Mateo, California, United States of America | Hybrid | Dec 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
