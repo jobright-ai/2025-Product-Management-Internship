@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Product Development Internship - Summer 2026](https://jobright.ai/jobs/info/693d240b50bbaf7650503f2a?utm_campaign=1047&utm_source=git)** | Framingham, MA | Hybrid | Dec 13 |
+| **[Dexcom](http://www.dexcom.com)** | **[Intern I - Clinical Services Product Management](https://jobright.ai/jobs/info/693d1fa749a7695fbd03c6d5?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Dec 13 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - Clinical Services Product Management](https://jobright.ai/jobs/info/693ceff150bbaf7650501583?utm_campaign=1047&utm_source=git)** | Remote - United States | Remote | Dec 12 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern](https://jobright.ai/jobs/info/693ce723aa598a08c3edaa91?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Dec 12 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Technical Product Management Intern, Enterprise Products - Summer 2026](https://jobright.ai/jobs/info/693ce24a49a7695fbd039166?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Dec 12 |
@@ -92,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/691f62b23f782d2f1afbb3f5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 12 |
 | **[A10 Networks, Inc](http://www.a10networks.com)** | **[Product Manager Intern - Cybersecurity and AI](https://jobright.ai/jobs/info/6920350fa49a885af9a37746?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | Hybrid | Dec 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Social and Creation)- 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/693c5a1249a7695fbd032cf0?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 12 |
+| **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/693d347a49a7695fbd03e62d?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Dec 12 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Agriculture Product Management Intern](https://jobright.ai/jobs/info/691f95fd3f782d2f1afbe482?utm_campaign=1047&utm_source=git)** | Westminster, CO | On Site | Dec 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok LIVE-Ecosystem Governance) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/693c5a5549a7695fbd032d3b?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 12 |
 | **[Xpansiv](https://www.xpansiv.com)** | **[Product Management Intern (Spring)](https://jobright.ai/jobs/info/693b8f43d4054a2bc0256d67?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Dec 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Product Development Intern, Peace of Mind](https://jobright.ai/jobs/info/6938eee8b95c305f206e2f2a?utm_campaign=1047&utm_source=git)** | Frisco, TX | On Site | Dec 09 |
 | ↳ | **[AI Product Innovation Intern](https://jobright.ai/jobs/info/6938edcfa0dde7020e318b7e?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Dec 09 |
 | ↳ | **[Summer 2026 Associate Product Manager Internship](https://jobright.ai/jobs/info/6938ed3db95c305f206e2dbf?utm_campaign=1047&utm_source=git)** | Frisco, TX | On Site | Dec 09 |
-| ↳ | **[Summer 2026 Product Development Intern, Peace of Mind](https://jobright.ai/jobs/info/6938ea05a0dde7020e3188f1?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Dec 09 |
-| ↳ | **[Summer 2026 AI Product Strategy Internship](https://jobright.ai/jobs/info/6938e877aabec14a727ddcef?utm_campaign=1047&utm_source=git)** | Frisco, TX | On Site | Dec 09 |
-| ↳ | **[Summer 2026 AI Product Strategy Internship](https://jobright.ai/jobs/info/6938e782aabec14a727ddc37?utm_campaign=1047&utm_source=git)** | Bellevue, WA | On Site | Dec 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
