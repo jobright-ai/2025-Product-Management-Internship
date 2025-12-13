@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Global Product Management - Women's Health](https://jobright.ai/jobs/info/693ca8acaa598a08c3ed8b3a?utm_campaign=1047&utm_source=git)** | San Diego, CA, United States | On Site | Dec 12 |
 | **[Agropur](http://www.agropur.com/en/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6921020700c9ee50eaecaccd?utm_campaign=1047&utm_source=git)** | Wisconsin, United States | On Site | Dec 12 |
 | **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Intern](https://jobright.ai/jobs/info/693c99a050bbaf76504fe2e2?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 12 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Technical Product Management Intern, Enterprise Products - Summer 2026](https://jobright.ai/jobs/info/693c96ec49a7695fbd03635b?utm_campaign=1047&utm_source=git)** | US, CA, Santa Clara | On Site | Dec 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Force Factor](https://forcefactor.com/)** | **[Winter/Spring Product Development Internship](https://jobright.ai/jobs/info/68d338b317554c2d9eeeed6b?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Dec 09 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Product Management Intern](https://jobright.ai/jobs/info/6938b9e9aabec14a727da64b?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT, United States | On Site | Dec 09 |
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[ETF Product Strategy - Undergrad Intern](https://jobright.ai/jobs/info/6938b54eb95c305f206df0d5?utm_campaign=1047&utm_source=git)** | San Mateo, California, United States of America | Hybrid | Dec 09 |
-| ↳ | **[ETF Product Strategy - Undergrad Intern](https://jobright.ai/jobs/info/6938b2a3aabec14a727da1fb?utm_campaign=1047&utm_source=git)** | San Ramon, California, United States of America | Hybrid | Dec 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
