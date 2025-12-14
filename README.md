@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Auvra by Hormone Insight](https://www.hormoneinsight.ai)** | **[Product Management Intern](https://jobright.ai/jobs/info/693e257649a7695fbd046d99?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | Hybrid | Dec 13 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Product Planning](https://jobright.ai/jobs/info/691acbf345fb6f5ead8adb6f?utm_campaign=1047&utm_source=git)** | Kirkland, WA | On Site | Dec 13 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product and Technology Analytics Intern, NYC](https://jobright.ai/jobs/info/6903cbd9d64a22104aa93374?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 13 |
 | **[Tanium](http://www.tanium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68e8183cc4895107182c2223?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Dec 13 |
@@ -83,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - Clinical Services Product Management](https://jobright.ai/jobs/info/693ceff150bbaf7650501583?utm_campaign=1047&utm_source=git)** | Remote - United States | Remote | Dec 12 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern](https://jobright.ai/jobs/info/693ce723aa598a08c3edaa91?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Dec 12 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Technical Product Management Intern, Enterprise Products - Summer 2026](https://jobright.ai/jobs/info/693ce24a49a7695fbd039166?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Dec 12 |
+| **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Technical Product Management, MBA Intern - Summer 2026](https://jobright.ai/jobs/info/693e2dc549a7695fbd0470d5?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Dec 12 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[IT Intern-AI Product Management](https://jobright.ai/jobs/info/693cd1f0aa598a08c3ed9f24?utm_campaign=1047&utm_source=git)** | Greeley, CO | On Site | Dec 12 |
 | **[Capital Blue Cross](https://capbluecross.com)** | **[Product & Innovation Intern](https://jobright.ai/jobs/info/693cc3e149a7695fbd0380b0?utm_campaign=1047&utm_source=git)** | US-PA-Harrisburg | Hybrid | Dec 12 |
 | ↳ | **[Product & Innovation Intern](https://jobright.ai/jobs/info/693cc1f949a7695fbd037fc1?utm_campaign=1047&utm_source=git)** | Harrisburg, PA | Hybrid | Dec 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Development Intern, Ninja (May to August)](https://jobright.ai/jobs/info/68ce190ee23def7af55c2356?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Dec 10 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Arena Product Management Intern](https://jobright.ai/jobs/info/69399e5148a8ce22990da0c6?utm_campaign=1047&utm_source=git)** | Foster City, CA, USA | On Site | Dec 10 |
 | **[Glean](https://www.glean.com)** | **[Product Management, Intern (Fall 2025)](https://jobright.ai/jobs/info/68e456f0b99ec3563b0e95fb?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | Hybrid | Dec 10 |
-| **[Nike](https://www.nike.com)** | **[NIKE, Inc. Footwear Product Line Management Undergraduate Internship](https://jobright.ai/jobs/info/691c40c422a2cb4b9bd19ef4?utm_campaign=1047&utm_source=git)** | Beaverton, OR | On Site | Dec 10 |
-| **[KHAITE](https://khaite.com/)** | **[Product Development & Production, Non-Apparel Intern, Spring 2026](https://jobright.ai/jobs/info/68ffdddee0c73b3a1119f92f?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
