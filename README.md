@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Auvra by Hormone Insight](https://www.hormoneinsight.ai)** | **[Product Management Intern](https://jobright.ai/jobs/info/693e257649a7695fbd046d99?utm_campaign=1047&utm_source=git)** | San Francisco Bay Area | Hybrid | Dec 13 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Product Planning](https://jobright.ai/jobs/info/691acbf345fb6f5ead8adb6f?utm_campaign=1047&utm_source=git)** | Kirkland, WA | On Site | Dec 13 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product and Technology Analytics Intern, NYC](https://jobright.ai/jobs/info/6903cbd9d64a22104aa93374?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 13 |
 | **[Tanium](http://www.tanium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68e8183cc4895107182c2223?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Dec 13 |
@@ -82,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Product Development Internship - Summer 2026](https://jobright.ai/jobs/info/693d240b50bbaf7650503f2a?utm_campaign=1047&utm_source=git)** | Framingham, MA | Hybrid | Dec 13 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - Clinical Services Product Management](https://jobright.ai/jobs/info/693d1fa749a7695fbd03c6d5?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Dec 13 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - Clinical Services Product Management](https://jobright.ai/jobs/info/693ceff150bbaf7650501583?utm_campaign=1047&utm_source=git)** | Remote - United States | Remote | Dec 12 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/693e412950bbaf7650510630?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Dec 12 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern](https://jobright.ai/jobs/info/693ce723aa598a08c3edaa91?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Dec 12 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Technical Product Management Intern, Enterprise Products - Summer 2026](https://jobright.ai/jobs/info/693ce24a49a7695fbd039166?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Dec 12 |
 | **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Technical Product Management, MBA Intern - Summer 2026](https://jobright.ai/jobs/info/693e2dc549a7695fbd0470d5?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Dec 12 |
@@ -147,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Creative Product Operations Project Intern (Monetization Product) 2026 Start (BS/MS)](https://jobright.ai/jobs/info/693b0865d4054a2bc024e909?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Dec 10 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Product Owner AI/Agentic Automation](https://jobright.ai/jobs/info/693a2b29ac80bb5492bcb09e?utm_campaign=1047&utm_source=git)** | Boise, ID | On Site | Dec 10 |
 | **[Zscaler](https://www.zscaler.com)** | **[Product Manager Intern, Cybersecurity](https://jobright.ai/jobs/info/693a105a56b68f3dc4e76da6?utm_campaign=1047&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 10 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern - Product Owner AI/Agentic Automation](https://jobright.ai/jobs/info/693a019e56b68f3dc4e75697?utm_campaign=1047&utm_source=git)** | Boise, ID - Main Site | On Site | Dec 10 |
-| ↳ | **[Intern - Product Owner AI/Agentic Automation](https://jobright.ai/jobs/info/693a021fac80bb5492bc815c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 10 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - Product Owner AI/Agentic Automation](https://jobright.ai/jobs/info/693a021fac80bb5492bc815c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 10 |
+| ↳ | **[Intern - Product Owner AI/Agentic Automation](https://jobright.ai/jobs/info/693a019e56b68f3dc4e75697?utm_campaign=1047&utm_source=git)** | Boise, ID - Main Site | On Site | Dec 10 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Arena Product Management Intern](https://jobright.ai/jobs/info/6939f7e156b68f3dc4e746aa?utm_campaign=1047&utm_source=git)** | Foster City, CA | On Site | Dec 10 |
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/693a0353ac80bb5492bc846b?utm_campaign=1047&utm_source=git)** | Littleton, CO | On Site | Dec 10 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Product Internship - Summer 2026](https://jobright.ai/jobs/info/6921092e00c9ee50eaecafd3?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 10 |
