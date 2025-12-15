@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Controls Advanced Software Product Launch Intern - Summer 2026](https://jobright.ai/jobs/info/69400a47aa598a08c3efc746?utm_campaign=1047&utm_source=git)** | Longmont | On Site | Dec 15 |
+| **[ModMed](https://www.modmed.com)** | **[Product Development Summer 2026 Internship](https://jobright.ai/jobs/info/68eeb96ce0db92422580a57c?utm_campaign=1047&utm_source=git)** | Boca Raton, Florida | Hybrid | Dec 15 |
+| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Controls Advanced Software Product Launch Intern - Summer 2026](https://jobright.ai/jobs/info/694004bf50bbaf765052284c?utm_campaign=1047&utm_source=git)** | Atlanta | On Site | Dec 15 |
+| **[7-Eleven](http://www.7-eleven.com)** | **[Digital Product Manager Intern](https://jobright.ai/jobs/info/68ea724b8369791ef7821fed?utm_campaign=1047&utm_source=git)** | Irving, TX | On Site | Dec 15 |
 | **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/693ff044aa598a08c3efa8cd?utm_campaign=1047&utm_source=git)** | Cary, NC | Hybrid | Dec 15 |
 | ↳ | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/693fef6749a7695fbd058c86?utm_campaign=1047&utm_source=git)** | Brookfield, WI | Hybrid | Dec 15 |
 | ↳ | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/693fcb1749a7695fbd057048?utm_campaign=1047&utm_source=git)** | Brookfield, WI, US | Hybrid | Dec 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zscaler](https://www.zscaler.com)** | **[Product Manager Intern, Cybersecurity](https://jobright.ai/jobs/info/693a105a56b68f3dc4e76da6?utm_campaign=1047&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 10 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Product Owner AI/Agentic Automation](https://jobright.ai/jobs/info/693a019e56b68f3dc4e75697?utm_campaign=1047&utm_source=git)** | Boise, ID - Main Site | On Site | Dec 10 |
 | ↳ | **[Intern - Product Owner AI/Agentic Automation](https://jobright.ai/jobs/info/693a021fac80bb5492bc815c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 10 |
-| **[PTC](http://ptc.co/VLED30oHtEh)** | **[Arena Product Management Intern](https://jobright.ai/jobs/info/6939f7e156b68f3dc4e746aa?utm_campaign=1047&utm_source=git)** | Foster City, CA | On Site | Dec 10 |
-| **[Boost Mobile](http://www.boostmobile.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/693a0353ac80bb5492bc846b?utm_campaign=1047&utm_source=git)** | Littleton, CO | On Site | Dec 10 |
-| **[OpenSesame](http://www.OpenSesame.com)** | **[Product Internship - Summer 2026](https://jobright.ai/jobs/info/6921092e00c9ee50eaecafd3?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 10 |
-| **[Dorman Products](https://www.dormanproducts.com/)** | **[Product Intern - GROWTH](https://jobright.ai/jobs/info/6939ebd3ac80bb5492bc658e?utm_campaign=1047&utm_source=git)** | Colmar, PA | On Site | Dec 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
