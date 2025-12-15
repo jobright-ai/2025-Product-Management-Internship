@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/693fcb1749a7695fbd057048?utm_campaign=1047&utm_source=git)** | Brookfield, WI, US | Hybrid | Dec 15 |
+| **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/693ff044aa598a08c3efa8cd?utm_campaign=1047&utm_source=git)** | Cary, NC | Hybrid | Dec 15 |
+| ↳ | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/693fef6749a7695fbd058c86?utm_campaign=1047&utm_source=git)** | Brookfield, WI | Hybrid | Dec 15 |
+| ↳ | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/693fcb1749a7695fbd057048?utm_campaign=1047&utm_source=git)** | Brookfield, WI, US | Hybrid | Dec 15 |
 | ↳ | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/693fcce650bbaf765051f94f?utm_campaign=1047&utm_source=git)** | Cary, NC, US | Hybrid | Dec 15 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68ef6aadde50091dbfa4e978?utm_campaign=1047&utm_source=git)** | Northfield, IL | Hybrid | Dec 14 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Product Owner](https://jobright.ai/jobs/info/69050d55122e8474c78d5786?utm_campaign=1047&utm_source=git)** | Arlington, TX | Hybrid | Dec 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Product Operations Intern](https://jobright.ai/jobs/info/693a0353ac80bb5492bc846b?utm_campaign=1047&utm_source=git)** | Littleton, CO | On Site | Dec 10 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Product Internship - Summer 2026](https://jobright.ai/jobs/info/6921092e00c9ee50eaecafd3?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 10 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[Product Intern - GROWTH](https://jobright.ai/jobs/info/6939ebd3ac80bb5492bc658e?utm_campaign=1047&utm_source=git)** | Colmar, PA | On Site | Dec 10 |
-| **[InComm Payments](https://www.incomm.com/)** | **[Product Implementation Intern](https://jobright.ai/jobs/info/69011b21d5259a1b3cff1743?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Dec 10 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Development Intern, Ninja (May to August)](https://jobright.ai/jobs/info/68ce190ee23def7af55c2356?utm_campaign=1047&utm_source=git)** | Needham, MA | On Site | Dec 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
