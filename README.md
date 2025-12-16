@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68b1e671bc187f64e1bd799c?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | On Site | Dec 16 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, Autonomous Vehicles ADAS - Summer 2026](https://jobright.ai/jobs/info/6932b9edf131d96e4845dce1?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Dec 16 |
 | **[Tapestry](http://www.tapestry.com/)** | **[Summer Supply Chain, Product Development, Procurement & Operations Internships](https://jobright.ai/jobs/info/6924d60038cd5478a8d5e58b?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Dec 16 |
 | **[VF Corporation](http://www.vfc.com)** | **[Summer 2026 Product Intern](https://jobright.ai/jobs/info/6933ac7a764507023d1b80fb?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Dec 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product Infrastructure]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6907e4b3ff462851fe00bc37?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 16 |
-| **[GenPark](https://genpark.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6941367faa598a08c3f0ceb4?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Dec 16 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Management Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/68e6cdb6ae2b894b1d71ddad?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Dec 15 |
 | **[Skydio](https://www.skydio.com)** | **[Hardware Product Management Intern](https://jobright.ai/jobs/info/6940b13d50bbaf765052b587?utm_campaign=1047&utm_source=git)** | San Mateo, CA | Hybrid | Dec 15 |
 | **[Numerix](http://www.numerix.com)** | **[INTERN - Risk Product Specialist](https://jobright.ai/jobs/info/69409ba549a7695fbd062965?utm_campaign=1047&utm_source=git)** | New York, New York, United States | On Site | Dec 15 |
@@ -77,6 +77,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Systems Product Intern](https://jobright.ai/jobs/info/69406da449a7695fbd05ef6a?utm_campaign=1047&utm_source=git)** | Miami, FL | On Site | Dec 15 |
 | ↳ | **[Software Product Manager Intern](https://jobright.ai/jobs/info/69406d22aa598a08c3f00be4?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Dec 15 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - New Product Development](https://jobright.ai/jobs/info/69406c97aa598a08c3f00b74?utm_campaign=1047&utm_source=git)** | Cumberland, RI | On Site | Dec 15 |
+| **[American Society of Anesthesiologists®](https://www.asahq.org)** | **[Summer Intern - Product Management - Schaumburg, IL or Remote](https://jobright.ai/jobs/info/69417ac1bdcf884a5add4198?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | Remote | Dec 15 |
 | **[Corsair](http://www.corsair.com)** | **[AI/ML Product Management Intern – E-commerce](https://jobright.ai/jobs/info/69407e8650bbaf7650528269?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Dec 15 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - Product Development, Home & Accessories](https://jobright.ai/jobs/info/6940772b49a7695fbd05f641?utm_campaign=1047&utm_source=git)** | New York, NY | Remote | Dec 15 |
 | **[Corsair](http://www.corsair.com)** | **[AI/ML Product Management Intern – E-commerce](https://jobright.ai/jobs/info/69406be9aa598a08c3f00adc?utm_campaign=1047&utm_source=git)** | 115 North McCarthy Blvd., Milpitas, CA, 95035, US | On Site | Dec 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Bancorp](http://www.thebancorp.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/693b2fb5d4054a2bc0251f40?utm_campaign=1047&utm_source=git)** | US-SD-Sioux Falls | On Site | Dec 11 |
 | **[AAR](http://aarcorp.com)** | **[Product Line Rep Intern: Parts Supply](https://jobright.ai/jobs/info/69024bf300a1816c41e9caed?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | Dec 11 |
 | **[Apex Fintech Solutions](https://apexfintechsolutions.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68cedd15846f0b04af67d7f9?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Dec 11 |
-| **[SageSure](https://www.sagesure.com)** | **[Software Product Management Intern](https://jobright.ai/jobs/info/6902278598707b2b0fe6cc8b?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | On Site | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
