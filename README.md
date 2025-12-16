@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Skydio](https://www.skydio.com)** | **[Hardware Product Management Intern](https://jobright.ai/jobs/info/6940b13d50bbaf765052b587?utm_campaign=1047&utm_source=git)** | San Mateo, CA | Hybrid | Dec 15 |
 | **[Numerix](http://www.numerix.com)** | **[INTERN - Risk Product Specialist](https://jobright.ai/jobs/info/69409ba549a7695fbd062965?utm_campaign=1047&utm_source=git)** | New York, New York, United States | On Site | Dec 15 |
 | ↳ | **[INTERN - Risk Product Specialist](https://jobright.ai/jobs/info/69409a54aa598a08c3f04496?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 15 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Product Manager Intern (Masters Degree) - Summer 2026](https://jobright.ai/jobs/info/68cd7963e23def7af55ba506?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Dec 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Bancorp](http://www.thebancorp.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/693b2fb5d4054a2bc0251f40?utm_campaign=1047&utm_source=git)** | US-SD-Sioux Falls | On Site | Dec 11 |
 | **[AAR](http://aarcorp.com)** | **[Product Line Rep Intern: Parts Supply](https://jobright.ai/jobs/info/69024bf300a1816c41e9caed?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | Dec 11 |
 | **[Apex Fintech Solutions](https://apexfintechsolutions.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68cedd15846f0b04af67d7f9?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Dec 11 |
-| **[SageSure](https://www.sagesure.com)** | **[Software Product Management Intern](https://jobright.ai/jobs/info/6902278598707b2b0fe6cc8b?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | On Site | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
