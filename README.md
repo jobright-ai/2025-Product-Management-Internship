@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, Autonomous Vehicles ADAS - Summer 2026](https://jobright.ai/jobs/info/6932b9edf131d96e4845dce1?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Dec 16 |
+| **[Tapestry](http://www.tapestry.com/)** | **[Summer Supply Chain, Product Development, Procurement & Operations Internships](https://jobright.ai/jobs/info/6924d60038cd5478a8d5e58b?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Dec 16 |
+| **[VF Corporation](http://www.vfc.com)** | **[Summer 2026 Product Intern](https://jobright.ai/jobs/info/6933ac7a764507023d1b80fb?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Dec 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product Infrastructure]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6907e4b3ff462851fe00bc37?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 16 |
 | **[GenPark](https://genpark.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6941367faa598a08c3f0ceb4?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Dec 16 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Management Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/68e6cdb6ae2b894b1d71ddad?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Dec 15 |
@@ -130,7 +133,7 @@ For a complete list, click the following sortable link below:
 | **[Zscaler](https://www.zscaler.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/693c81e649a7695fbd0341b6?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Dec 12 |
 | **[Airbus](https://us.airbus.com)** | **[Summer Internship -  Market Product Management](https://jobright.ai/jobs/info/693c801550bbaf76504fb8fb?utm_campaign=1047&utm_source=git)** | Herndon Area, VA | On Site | Dec 12 |
 | **[Pearl West](https://www.pearlwestgroup.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/693c741e50bbaf76504fb2bf?utm_campaign=1047&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Dec 12 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Product Manager Intern, Summer 2026](https://jobright.ai/jobs/info/693984e056b68f3dc4e6eff9?utm_campaign=1047&utm_source=git)** | Glendale, CA | On Site | Dec 12 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Product Manager Intern, Summer 2026](https://jobright.ai/jobs/info/693984e056b68f3dc4e6eff9?utm_campaign=1047&utm_source=git)** | Glendale, CA | On Site | Dec 12 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026, Product Management Intern - Toronto](https://jobright.ai/jobs/info/691fe6313f782d2f1afc146e?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 12 |
 | **[RaceTrac](http://www.racetrac.com/)** | **[MarTech Digital Guest Experience Intern (Summer 2026)](https://jobright.ai/jobs/info/6902bc2000a1816c41ea0fdc?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Dec 12 |
 | **[Insight](https://www.insight.com)** | **[Associate Product Manager Intern](https://jobright.ai/jobs/info/693174fd3b6d6f265f4e9caa?utm_campaign=1047&utm_source=git)** | Chandler, AZ | On Site | Dec 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AAR](http://aarcorp.com)** | **[Product Line Rep Intern: Parts Supply](https://jobright.ai/jobs/info/69024bf300a1816c41e9caed?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | Dec 11 |
 | **[Apex Fintech Solutions](https://apexfintechsolutions.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68cedd15846f0b04af67d7f9?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Dec 11 |
 | **[SageSure](https://www.sagesure.com)** | **[Software Product Management Intern](https://jobright.ai/jobs/info/6902278598707b2b0fe6cc8b?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | On Site | Dec 11 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Product Management MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68cea171846f0b04af67bbb1?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Dec 11 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Strategist Intern [Global Monetization Product and Technology]-2026 Summer (MBA)](https://jobright.ai/jobs/info/690156bc4539ea1f2141f57c?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 11 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[Product Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/690276d698707b2b0fe6fa45?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
