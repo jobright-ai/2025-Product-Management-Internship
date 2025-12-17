@@ -59,7 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Design System Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/6942204a50bbaf765053fda9?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 16 |
 | **[SkyrisAI](https://www.linkedin.com/company/105658415)** | **[Product Manager Intern (User Research Focused)](https://jobright.ai/jobs/info/69421c10bdcf884a5adde119?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 16 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[MBA Product Operations / Pricing & Monetization Intern](https://jobright.ai/jobs/info/6942052c14ee092a690021e8?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Dec 16 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[MBA Product Operations / Pricing & Monetization Intern](https://jobright.ai/jobs/info/69423e7cbdcf884a5ade0afc?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Dec 16 |
+| ↳ | **[MBA Product Operations / Pricing & Monetization Intern](https://jobright.ai/jobs/info/6942052c14ee092a690021e8?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Dec 16 |
 | ↳ | **[MBA Product Operations / Pricing & Monetization Intern](https://jobright.ai/jobs/info/69421dd914ee092a6900477c?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Dec 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6941f14d14ee092a69000e01?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Dec 16 |
 | ↳ | **[Product Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6941ef8914ee092a69000aed?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Dec 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AAR](http://aarcorp.com)** | **[Product Line Intern: Business and General Aviation](https://jobright.ai/jobs/info/690233a798707b2b0fe6d0d4?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | Dec 12 |
 | ↳ | **[Product Line Rep Intern: Defense Distribution](https://jobright.ai/jobs/info/69024dfeff462851fefe1c3b?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | Dec 12 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Software Product Management Intern](https://jobright.ai/jobs/info/691fe6be3f782d2f1afc14bc?utm_campaign=1047&utm_source=git)** | Everett, WA | On Site | Dec 12 |
-| ↳ | **[Electric Measurement Product Management Intern](https://jobright.ai/jobs/info/691f5151a49a885af9a2e2bc?utm_campaign=1047&utm_source=git)** | Everett, WA | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
