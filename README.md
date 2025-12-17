@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sigma](http://sigmacomputing.com)** | **[Product Design System Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/6942204a50bbaf765053fda9?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 16 |
 | **[SkyrisAI](https://www.linkedin.com/company/105658415)** | **[Product Manager Intern (User Research Focused)](https://jobright.ai/jobs/info/69421c10bdcf884a5adde119?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 16 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[MBA Product Operations / Pricing & Monetization Intern](https://jobright.ai/jobs/info/69423e7cbdcf884a5ade0afc?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Dec 16 |
 | ↳ | **[MBA Product Operations / Pricing & Monetization Intern](https://jobright.ai/jobs/info/6942052c14ee092a690021e8?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Dec 16 |
@@ -71,11 +70,13 @@ For a complete list, click the following sortable link below:
 | **[ServiceNow](http://www.servicenow.com)** | **[Product Portfolio Associate Intern](https://jobright.ai/jobs/info/6941f1a914ee092a69000ea4?utm_campaign=1047&utm_source=git)** | 12900 Science Drive Suite 100, Orlando, Florida, United States | Remote | Dec 16 |
 | ↳ | **[Product Portfolio Associate Intern](https://jobright.ai/jobs/info/6942059250bbaf765053d688?utm_campaign=1047&utm_source=git)** | Orlando, FL | Hybrid | Dec 16 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Product Manager](https://jobright.ai/jobs/info/69421f8a14ee092a69004978?utm_campaign=1047&utm_source=git)** | Holtsville, NY | On Site | Dec 16 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 – Product Strategy Intern (Master's)](https://jobright.ai/jobs/info/6942494a50bbaf7650544089?utm_campaign=1047&utm_source=git)** | Cary, NC | Hybrid | Dec 16 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68b1e671bc187f64e1bd799c?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | On Site | Dec 16 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, Autonomous Vehicles ADAS - Summer 2026](https://jobright.ai/jobs/info/6932b9edf131d96e4845dce1?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Dec 16 |
 | **[Tapestry](http://www.tapestry.com/)** | **[Summer Supply Chain, Product Development, Procurement & Operations Internships](https://jobright.ai/jobs/info/6924d60038cd5478a8d5e58b?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Dec 16 |
 | **[VF Corporation](http://www.vfc.com)** | **[Summer 2026 Product Intern](https://jobright.ai/jobs/info/6933ac7a764507023d1b80fb?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Dec 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product Infrastructure]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6907e4b3ff462851fe00bc37?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 16 |
+| **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/69425973bdcf884a5ade3d1f?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Dec 15 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Management Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/68e6cdb6ae2b894b1d71ddad?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Dec 15 |
 | **[Skydio](https://www.skydio.com)** | **[Hardware Product Management Intern](https://jobright.ai/jobs/info/6940b13d50bbaf765052b587?utm_campaign=1047&utm_source=git)** | San Mateo, CA | Hybrid | Dec 15 |
 | **[Numerix](http://www.numerix.com)** | **[INTERN - Risk Product Specialist](https://jobright.ai/jobs/info/69409ba549a7695fbd062965?utm_campaign=1047&utm_source=git)** | New York, New York, United States | On Site | Dec 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/690b8b114a1b456627b102ce?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Dec 12 |
 | **[AAR](http://aarcorp.com)** | **[Product Line Intern: Business and General Aviation](https://jobright.ai/jobs/info/690233a798707b2b0fe6d0d4?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | Dec 12 |
 | ↳ | **[Product Line Rep Intern: Defense Distribution](https://jobright.ai/jobs/info/69024dfeff462851fefe1c3b?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | Dec 12 |
-| **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Software Product Management Intern](https://jobright.ai/jobs/info/691fe6be3f782d2f1afc14bc?utm_campaign=1047&utm_source=git)** | Everett, WA | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
