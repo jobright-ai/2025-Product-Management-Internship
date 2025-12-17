@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Illumio](http://www.illumio.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Dec 16 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6941ef8914ee092a69000aed?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Dec 16 |
+| **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Intern](https://jobright.ai/jobs/info/6941e27950bbaf765053aa5c?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 16 |
+| **[Illumio](http://www.illumio.com)** | **[Technical Product Management Intern](https://jobright.ai/jobs/info/68f003129821486c423c8a38?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Dec 16 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/68f19b63f462172a5a7da897?utm_campaign=1047&utm_source=git)** | Sunnyvale, CA | On Site | Dec 16 |
 | **[Riot Games](http://www.riotgames.com)** | **[Insights Analyst Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69092852d046ab6061cd2427?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Remote | Dec 16 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68b1e671bc187f64e1bd799c?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | On Site | Dec 16 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, Autonomous Vehicles ADAS - Summer 2026](https://jobright.ai/jobs/info/6932b9edf131d96e4845dce1?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Dec 16 |
@@ -136,6 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Zscaler](https://www.zscaler.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/693c81e649a7695fbd0341b6?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Dec 12 |
 | **[Airbus](https://us.airbus.com)** | **[Summer Internship -  Market Product Management](https://jobright.ai/jobs/info/693c801550bbaf76504fb8fb?utm_campaign=1047&utm_source=git)** | Herndon Area, VA | On Site | Dec 12 |
 | **[Pearl West](https://www.pearlwestgroup.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/693c741e50bbaf76504fb2bf?utm_campaign=1047&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Dec 12 |
+| **[State Street](http://www.statestreet.com)** | **[Product Management Support, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6941eca8bdcf884a5adda6cb?utm_campaign=1047&utm_source=git)** | Stamford, Connecticut | On Site | Dec 12 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Product Manager Intern, Summer 2026](https://jobright.ai/jobs/info/693984e056b68f3dc4e6eff9?utm_campaign=1047&utm_source=git)** | Glendale, CA | On Site | Dec 12 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026, Product Management Intern - Toronto](https://jobright.ai/jobs/info/691fe6313f782d2f1afc146e?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 12 |
 | **[RaceTrac](http://www.racetrac.com/)** | **[MarTech Digital Guest Experience Intern (Summer 2026)](https://jobright.ai/jobs/info/6902bc2000a1816c41ea0fdc?utm_campaign=1047&utm_source=git)** | Atlanta, GA | On Site | Dec 12 |
@@ -152,9 +156,5 @@ For a complete list, click the following sortable link below:
 | **[J. Jill](http://www.jjill.com/)** | **[Product Development Internship - Summer 2026](https://jobright.ai/jobs/info/693b79825f2c001987ed7027?utm_campaign=1047&utm_source=git)** | US-MA-Quincy | On Site | Dec 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Creative Product Operations Project Intern (Monetization Product) 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/693c5913aa598a08c3ed4325?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 11 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Product Development Internship - Summer 2026](https://jobright.ai/jobs/info/693b5383b309e3780087145e?utm_campaign=1047&utm_source=git)** | Framingham, MA 01701 | Hybrid | Dec 11 |
-| **[The Bancorp](http://www.thebancorp.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/693b4202b309e3780086f7fa?utm_campaign=1047&utm_source=git)** | Greater Sioux Falls Area | On Site | Dec 11 |
-| **[Xpansiv](https://www.xpansiv.com)** | **[Product Management Intern (Spring)](https://jobright.ai/jobs/info/693b363db309e3780086ef6c?utm_campaign=1047&utm_source=git)** | New York | On Site | Dec 11 |
-| **[Too Lost](https://www.toolost.com)** | **[Commercial Product Intern (Spring 2026)](https://jobright.ai/jobs/info/693b4ac7d4054a2bc025385a?utm_campaign=1047&utm_source=git)** | NYC Metro Area | On Site | Dec 11 |
-| **[The Bancorp](http://www.thebancorp.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/693b2fb5d4054a2bc0251f40?utm_campaign=1047&utm_source=git)** | US-SD-Sioux Falls | On Site | Dec 11 |
-| **[AAR](http://aarcorp.com)** | **[Product Line Rep Intern: Parts Supply](https://jobright.ai/jobs/info/69024bf300a1816c41e9caed?utm_campaign=1047&utm_source=git)** | Wood Dale, IL | On Site | Dec 11 |
+| **[GlobalFoundries](https://gf.com/)** | **[Product Management Intern, Feature-Rich CMOS (Summer 2026)](https://jobright.ai/jobs/info/6941ed9850bbaf765053bb34?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
