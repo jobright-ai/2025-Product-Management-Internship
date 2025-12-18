@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Internal AI Product Management Intern, NYC](https://jobright.ai/jobs/info/692761ac91ceeb2e8a53e9ae?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 18 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Product Management - Cytology and Pathology](https://jobright.ai/jobs/info/693cf65549a7695fbd03b46f?utm_campaign=1047&utm_source=git)** | Marlborough, MA | On Site | Dec 18 |
 | **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Intern -Private Brand Consumables Product Development (M-W in office)](https://jobright.ai/jobs/info/692731cbd47de4798ecda9ce?utm_campaign=1047&utm_source=git)** | Livonia, MI | On Site | Dec 18 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6927ed45f0beb0723262edaa?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Dec 18 |
 | **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Intern- Private Brand Hardgoods Product Development (In Office M-W)](https://jobright.ai/jobs/info/69273466d47de4798ecdab2d?utm_campaign=1047&utm_source=git)** | Livonia, MI | On Site | Dec 18 |
 | **[Wisk](https://wisk.aero)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/692797b191ceeb2e8a54178a?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Dec 18 |
 | **[Rippling](https://www.rippling.com)** | **[Product Lead Internship - Summer 2026](https://jobright.ai/jobs/info/690a98574a1b456627b098ea?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Dec 18 |
-| ↳ | **[Product Lead Internship - Summer 2026](https://jobright.ai/jobs/info/690a8cfa4a1b456627b0922c?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Dec 18 |
+| **[SkyrisAI](https://www.linkedin.com/company/105658415)** | **[Product Manager Intern (User Research Focused)](https://jobright.ai/jobs/info/6944043950bbaf7650560789?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 18 |
+| **[Rippling](https://www.rippling.com)** | **[Product Lead Internship - Summer 2026](https://jobright.ai/jobs/info/690a8cfa4a1b456627b0922c?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Dec 18 |
 | **[Lennox](http://www.lennox.com)** | **[Category Analyst Intern](https://jobright.ai/jobs/info/68d34dc4f0d9af73038e0eac?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Dec 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Apps and API) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68fb5fa34129dd33cd131cbb?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Dec 18 |
 | **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/690d0ab0221b890c278023e8?utm_campaign=1047&utm_source=git)** | Quincy, IL | On Site | Dec 18 |
@@ -77,9 +79,9 @@ For a complete list, click the following sortable link below:
 | **[Dayton Parts Driven By Dorman](http://www.daytonparts.com)** | **[HD Product Intern](https://jobright.ai/jobs/info/69431ec450bbaf765054f6c4?utm_campaign=1047&utm_source=git)** | Colmar, PA | On Site | Dec 17 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Summer 2026 Product Development Internship](https://jobright.ai/jobs/info/694306ab50bbaf765054e23e?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 17 |
 | **[Constellation Brands](http://cbrands.com)** | **[Integrated Business Planning (IBP) Product Intern](https://jobright.ai/jobs/info/6925e4f6f0beb07232620239?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Dec 17 |
-| **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68f47f969a63986de7575d8d?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Dec 17 |
 | **[Niterra North America, Inc.](https://niterranorthamerica.com)** | **[Intern - Product](https://jobright.ai/jobs/info/6925e2c4f0beb0723262013e?utm_campaign=1047&utm_source=git)** | Wixom, MI | On Site | Dec 17 |
 | **[PennEngineering®](http://www.pemnet.com/)** | **[New Product Development Intern - Summer 2026](https://jobright.ai/jobs/info/690f43a044146d3b6ec5ae0c?utm_campaign=1047&utm_source=git)** | Danboro, PA | On Site | Dec 17 |
+| **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/693f9eff49a7695fbd055d4e?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Dec 17 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69047d1fff462851feff5b0f?utm_campaign=1047&utm_source=git)** | Paso Robles, CA | On Site | Dec 17 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Parts Product Management Intern Summer 2026](https://jobright.ai/jobs/info/691acd23bcdbf3560c9daa79?utm_campaign=1047&utm_source=git)** | Cranberry Township, PA | Hybrid | Dec 17 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68db7278e19b9e63ba20c2d1?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Dec 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Concordia Plans](https://www.concordiaplans.org/)** | **[Business Product Administration Intern](https://jobright.ai/jobs/info/69213eeaa49a885af9a44499?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Dec 13 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Product Development Internship - Summer 2026](https://jobright.ai/jobs/info/693d240b50bbaf7650503f2a?utm_campaign=1047&utm_source=git)** | Framingham, MA | Hybrid | Dec 13 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - Clinical Services Product Management](https://jobright.ai/jobs/info/693d1fa749a7695fbd03c6d5?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Dec 13 |
-| **[Dexcom](http://www.dexcom.com)** | **[Intern I - Clinical Services Product Management](https://jobright.ai/jobs/info/693ceff150bbaf7650501583?utm_campaign=1047&utm_source=git)** | Remote - United States | Remote | Dec 12 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/693e412950bbaf7650510630?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
