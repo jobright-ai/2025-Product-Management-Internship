@@ -57,12 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xometry](https://www.xometry.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/69446f67dd382f5f566a9272?utm_campaign=1047&utm_source=git)** | Waltham, MA | Hybrid | Dec 18 |
+| ↳ | **[Product Analytics Intern](https://jobright.ai/jobs/info/69446e2cdd382f5f566a8eed?utm_campaign=1047&utm_source=git)** | Waltham, Massachusetts | On Site | Dec 18 |
+| **[Accredo Specialty Pharmacy](http://www.accredo.com/)** | **[Accredo Product  - Summer Intern](https://jobright.ai/jobs/info/69446e2c94730b7398779630?utm_campaign=1047&utm_source=git)** | St Louis, MO | Hybrid | Dec 18 |
+| **[Xometry](https://www.xometry.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/69446de6dd382f5f566a8e40?utm_campaign=1047&utm_source=git)** | North Bethesda, Maryland | On Site | Dec 18 |
+| **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Product Validation - Data (Acquisition, Analytics, Science) Intern](https://jobright.ai/jobs/info/69446d8494730b73987795b3?utm_campaign=1047&utm_source=git)** | Portland, OR | Hybrid | Dec 18 |
+| **[Xometry](https://www.xometry.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/69446b8bdd382f5f566a8c88?utm_campaign=1047&utm_source=git)** | North Bethesda, MD | Hybrid | Dec 18 |
+| **[Cook Medical](http://www.cookmedical.com)** | **[Product Management/Marketing Internship - Aortic Medical Devices](https://jobright.ai/jobs/info/69445ed750bbaf7650565bd9?utm_campaign=1047&utm_source=git)** | US-IN-Bloomington | Hybrid | Dec 18 |
+| **[Crestron Electronics](http://www.crestron.com)** | **[Co-Op - Jan-Aug '26 - Product Management](https://jobright.ai/jobs/info/69445ed650bbaf7650565bd6?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Dec 18 |
+| **[Cook Medical](http://www.cookmedical.com)** | **[Product Management/Marketing Internship - Aortic Medical Devices](https://jobright.ai/jobs/info/69445b7494730b7398778436?utm_campaign=1047&utm_source=git)** | Bloomington IN United States | Hybrid | Dec 18 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2026 Summer Intern, FedNow Product Management, Fraud Prevention](https://jobright.ai/jobs/info/6944551e50bbaf7650565285?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Dec 18 |
 | **[Cook Medical](http://www.cookmedical.com)** | **[Product Management/Marketing Internship - Aortic Medical Devices](https://jobright.ai/jobs/info/6944525add382f5f566a6d59?utm_campaign=1047&utm_source=git)** | Bloomington, IN | Hybrid | Dec 18 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern-Product Architecture & Operations](https://jobright.ai/jobs/info/6944525add382f5f566a6d58?utm_campaign=1047&utm_source=git)** | Detroit, MI | Hybrid | Dec 18 |
-| ↳ | **[2026 Summer Intern-Product Architecture & Operations](https://jobright.ai/jobs/info/694439c394730b7398775565?utm_campaign=1047&utm_source=git)** | 441 E Jefferson, Detroit, MI, 48226, US | On Site | Dec 18 |
-| **[Crown Fund](www.crownfund.co)** | **[Product Management Intern](https://jobright.ai/jobs/info/694429a8dd382f5f566a3b80?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Dec 18 |
-| ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/694446acdd382f5f566a4c0b?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Dec 18 |
+| **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Product Validation - Data (Acquisition, Analytics, Science) Intern](https://jobright.ai/jobs/info/6944739e94730b739877a3d3?utm_campaign=1047&utm_source=git)** | Portland, OR US | Hybrid | Dec 18 |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern-Product Architecture & Operations](https://jobright.ai/jobs/info/694439c394730b7398775565?utm_campaign=1047&utm_source=git)** | 441 E Jefferson, Detroit, MI, 48226, US | On Site | Dec 18 |
+| **[Crown Fund](www.crownfund.co)** | **[Product Development Intern](https://jobright.ai/jobs/info/694446acdd382f5f566a4c0b?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Dec 18 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Deposit Product Strategy Intern](https://jobright.ai/jobs/info/69440d1950bbaf7650560eeb?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Dec 18 |
 | **[GitHub](https://github.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69279354d47de4798ecdeab2?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 18 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Internal AI Product Management Intern, NYC](https://jobright.ai/jobs/info/692761ac91ceeb2e8a53e9ae?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 18 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Product Planning](https://jobright.ai/jobs/info/691acbf345fb6f5ead8adb6f?utm_campaign=1047&utm_source=git)** | Kirkland, WA | On Site | Dec 13 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product and Technology Analytics Intern, NYC](https://jobright.ai/jobs/info/6903cbd9d64a22104aa93374?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 13 |
 | **[Tanium](http://www.tanium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68e8183cc4895107182c2223?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Dec 13 |
-| **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Shorex Product Analysis](https://jobright.ai/jobs/info/68ccd77677add66568aba15d?utm_campaign=1047&utm_source=git)** | Seattle, WA | Hybrid | Dec 13 |
-| **[Ahlstrom](http://www.ahlstrom.com)** | **[2026 Product Development Intern or Co-op](https://jobright.ai/jobs/info/68cc63db16d00d2beeb1ecdf?utm_campaign=1047&utm_source=git)** | Stevens Point, WI | On Site | Dec 13 |
-| **[Airbus](https://us.airbus.com)** | **[Summer Internship -  Market Product Management](https://jobright.ai/jobs/info/693d6a2849a7695fbd040aea?utm_campaign=1047&utm_source=git)** | Herndon, VA | On Site | Dec 13 |
-| **[TekniPlex](http://www.tekni-plex.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/6903ce1f63502c0aded6cb8c?utm_campaign=1047&utm_source=git)** | Dublin, VA | On Site | Dec 13 |
-| **[Dart Container](https://www.dartcontainer.com)** | **[Product Line and Trade Management Intern](https://jobright.ai/jobs/info/68dcd21faccfd24b67e5a621?utm_campaign=1047&utm_source=git)** | Mason, MI | On Site | Dec 13 |
-| **[Appian](http://www.appian.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68ce7d8ddbd9fb154ede0196?utm_campaign=1047&utm_source=git)** | McLean, VA | On Site | Dec 13 |
-| **[Pegasystems](http://www.pega.com)** | **[Product Manager Intern - Low-Code Application Development - Summer 2026](https://jobright.ai/jobs/info/6933daeea0dde7020e2f277b?utm_campaign=1047&utm_source=git)** | Waltham, MA | On Site | Dec 13 |
-| **[Coach USA](http://www.coachusa.com)** | **[Commercial Intern](https://jobright.ai/jobs/info/693d57e5aa598a08c3ee0674?utm_campaign=1047&utm_source=git)** | Paramus, NJ | On Site | Dec 13 |
-| **[Boost Mobile](http://www.boostmobile.com/)** | **[Product Launch Intern](https://jobright.ai/jobs/info/693c825950bbaf76504fbaf7?utm_campaign=1047&utm_source=git)** | Littleton, CO | On Site | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
