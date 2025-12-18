@@ -57,19 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boost Mobile](http://www.boostmobile.com/)** | **[Product Innovation Intern](https://jobright.ai/jobs/info/6943338ddd382f5f566925ae?utm_campaign=1047&utm_source=git)** | Littleton, CO | On Site | Dec 17 |
 | **[CRH](http://crh.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69430191dd382f5f5668fa6c?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Dec 17 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 Product Manager Intern](https://jobright.ai/jobs/info/6942e0bc50bbaf765054b6d3?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Dec 17 |
 | **[Dayton Parts Driven By Dorman](http://www.daytonparts.com)** | **[HD Product Intern](https://jobright.ai/jobs/info/69431ec450bbaf765054f6c4?utm_campaign=1047&utm_source=git)** | Colmar, PA | On Site | Dec 17 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Summer 2026 Product Development Internship](https://jobright.ai/jobs/info/694306ab50bbaf765054e23e?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 17 |
 | **[Constellation Brands](http://cbrands.com)** | **[Integrated Business Planning (IBP) Product Intern](https://jobright.ai/jobs/info/6925e4f6f0beb07232620239?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Dec 17 |
-| **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68f47f969a63986de7575d8d?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Dec 17 |
 | **[Niterra North America, Inc.](https://niterranorthamerica.com)** | **[Intern - Product](https://jobright.ai/jobs/info/6925e2c4f0beb0723262013e?utm_campaign=1047&utm_source=git)** | Wixom, MI | On Site | Dec 17 |
 | **[PennEngineering®](http://www.pemnet.com/)** | **[New Product Development Intern - Summer 2026](https://jobright.ai/jobs/info/690f43a044146d3b6ec5ae0c?utm_campaign=1047&utm_source=git)** | Danboro, PA | On Site | Dec 17 |
+| **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/693f9eff49a7695fbd055d4e?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Dec 17 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69047d1fff462851feff5b0f?utm_campaign=1047&utm_source=git)** | Paso Robles, CA | On Site | Dec 17 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Parts Product Management Intern Summer 2026](https://jobright.ai/jobs/info/691acd23bcdbf3560c9daa79?utm_campaign=1047&utm_source=git)** | Cranberry Township, PA | Hybrid | Dec 17 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68db7278e19b9e63ba20c2d1?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Dec 17 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Product Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/690925ef4a1b456627afd3d9?utm_campaign=1047&utm_source=git)** | Neenah, WI | Hybrid | Dec 17 |
-| **[SkyrisAI](https://www.linkedin.com/company/105658415)** | **[Product Manager Intern (User Research Focused)](https://jobright.ai/jobs/info/69421c10bdcf884a5adde119?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 16 |
+| **[Sigma](http://sigmacomputing.com)** | **[Product Design System Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/6942204a50bbaf765053fda9?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 16 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[MBA Product Operations / Pricing & Monetization Intern](https://jobright.ai/jobs/info/69423e7cbdcf884a5ade0afc?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Dec 16 |
 | ↳ | **[MBA Product Operations / Pricing & Monetization Intern](https://jobright.ai/jobs/info/6942052c14ee092a690021e8?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Dec 16 |
 | ↳ | **[MBA Product Operations / Pricing & Monetization Intern](https://jobright.ai/jobs/info/69421dd914ee092a6900477c?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Dec 16 |
@@ -133,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Pegasystems](http://www.pega.com)** | **[Product Manager Intern - Low-Code Application Development - Summer 2026](https://jobright.ai/jobs/info/6933daeea0dde7020e2f277b?utm_campaign=1047&utm_source=git)** | Waltham, MA | On Site | Dec 13 |
 | **[Coach USA](http://www.coachusa.com)** | **[Commercial Intern](https://jobright.ai/jobs/info/693d57e5aa598a08c3ee0674?utm_campaign=1047&utm_source=git)** | Paramus, NJ | On Site | Dec 13 |
 | **[Zscaler](https://www.zscaler.com)** | **[Product Manager Intern, Zscaler Internet Access](https://jobright.ai/jobs/info/6921201b3f782d2f1afcf69e?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Dec 13 |
-| **[Lila Sciences](https://www.lila.ai)** | **[Product Strategy Intern, Life Sciences](https://jobright.ai/jobs/info/68e80d2a09580a2fe57f2c8a?utm_campaign=1047&utm_source=git)** | Cambridge, MA | Hybrid | Dec 13 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[Intern - Product CORE](https://jobright.ai/jobs/info/691ab475bcdbf3560c9d9c93?utm_campaign=1047&utm_source=git)** | Colmar, PA | On Site | Dec 13 |
 | ↳ | **[Intern - Product](https://jobright.ai/jobs/info/691ae18615b415636718b862?utm_campaign=1047&utm_source=git)** | Colmar, PA | On Site | Dec 13 |
 | ↳ | **[Product Intern - Ideation](https://jobright.ai/jobs/info/691abc5115b415636718a46d?utm_campaign=1047&utm_source=git)** | Colmar, PA | On Site | Dec 13 |
