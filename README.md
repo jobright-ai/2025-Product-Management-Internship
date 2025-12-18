@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Product Management - Cytology and Pathology](https://jobright.ai/jobs/info/693cf65549a7695fbd03b46f?utm_campaign=1047&utm_source=git)** | Marlborough, MA | On Site | Dec 18 |
+| **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Intern -Private Brand Consumables Product Development (M-W in office)](https://jobright.ai/jobs/info/692731cbd47de4798ecda9ce?utm_campaign=1047&utm_source=git)** | Livonia, MI | On Site | Dec 18 |
+| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6927ed45f0beb0723262edaa?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Dec 18 |
+| **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Intern- Private Brand Hardgoods Product Development (In Office M-W)](https://jobright.ai/jobs/info/69273466d47de4798ecdab2d?utm_campaign=1047&utm_source=git)** | Livonia, MI | On Site | Dec 18 |
+| **[Wisk](https://wisk.aero)** | **[Product Strategy Intern](https://jobright.ai/jobs/info/692797b191ceeb2e8a54178a?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Dec 18 |
 | **[Rippling](https://www.rippling.com)** | **[Product Lead Internship - Summer 2026](https://jobright.ai/jobs/info/690a98574a1b456627b098ea?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Dec 18 |
+| ↳ | **[Product Lead Internship - Summer 2026](https://jobright.ai/jobs/info/690a8cfa4a1b456627b0922c?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Dec 18 |
 | **[Lennox](http://www.lennox.com)** | **[Category Analyst Intern](https://jobright.ai/jobs/info/68d34dc4f0d9af73038e0eac?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Dec 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Apps and API) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68fb5fa34129dd33cd131cbb?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Dec 18 |
 | **[Ingersoll Rand](https://www.irco.com/en-us/)** | **[Product Management Intern](https://jobright.ai/jobs/info/690d0ab0221b890c278023e8?utm_campaign=1047&utm_source=git)** | Quincy, IL | On Site | Dec 18 |
@@ -78,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Parts Product Management Intern Summer 2026](https://jobright.ai/jobs/info/691acd23bcdbf3560c9daa79?utm_campaign=1047&utm_source=git)** | Cranberry Township, PA | Hybrid | Dec 17 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68db7278e19b9e63ba20c2d1?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Dec 17 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Product Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/690925ef4a1b456627afd3d9?utm_campaign=1047&utm_source=git)** | Neenah, WI | Hybrid | Dec 17 |
-| **[Sigma](http://sigmacomputing.com)** | **[Product Design System Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/6942204a50bbaf765053fda9?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 16 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[MBA Product Operations / Pricing & Monetization Intern](https://jobright.ai/jobs/info/69423e7cbdcf884a5ade0afc?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Dec 16 |
 | ↳ | **[MBA Product Operations / Pricing & Monetization Intern](https://jobright.ai/jobs/info/6942052c14ee092a690021e8?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Dec 16 |
 | ↳ | **[MBA Product Operations / Pricing & Monetization Intern](https://jobright.ai/jobs/info/69421dd914ee092a6900477c?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Dec 16 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - Clinical Services Product Management](https://jobright.ai/jobs/info/693d1fa749a7695fbd03c6d5?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Dec 13 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - Clinical Services Product Management](https://jobright.ai/jobs/info/693ceff150bbaf7650501583?utm_campaign=1047&utm_source=git)** | Remote - United States | Remote | Dec 12 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Internship (Summer 2026)](https://jobright.ai/jobs/info/693e412950bbaf7650510630?utm_campaign=1047&utm_source=git)** | Delaware, OH | On Site | Dec 12 |
-| **[Shure Incorporated](http://www.shure.com)** | **[Global Product Management Intern](https://jobright.ai/jobs/info/693ce723aa598a08c3edaa91?utm_campaign=1047&utm_source=git)** | Niles, IL | Hybrid | Dec 12 |
-| **[NVIDIA](https://www.nvidia.com)** | **[Technical Product Management Intern, Enterprise Products - Summer 2026](https://jobright.ai/jobs/info/693ce24a49a7695fbd039166?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Dec 12 |
-| **[Capital Blue Cross](https://capbluecross.com)** | **[Product & Innovation Intern](https://jobright.ai/jobs/info/693cc1f949a7695fbd037fc1?utm_campaign=1047&utm_source=git)** | Harrisburg, PA | Hybrid | Dec 12 |
-| **[GoFundMe](http://www.gofundme.com)** | **[Product Management Internship (MBA)](https://jobright.ai/jobs/info/68dc5fa9accfd24b67e54e45?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Dec 12 |
-| **[J. Jill](http://www.jjill.com/)** | **[Product Development Internship - Summer 2026](https://jobright.ai/jobs/info/693cbffcaa598a08c3ed94d7?utm_campaign=1047&utm_source=git)** | Quincy, MA | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
