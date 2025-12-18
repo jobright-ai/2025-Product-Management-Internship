@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern-Product Architecture & Operations](https://jobright.ai/jobs/info/694439c394730b7398775565?utm_campaign=1047&utm_source=git)** | 441 E Jefferson, Detroit, MI, 48226, US | On Site | Dec 18 |
+| **[Crown Fund](www.crownfund.co)** | **[Product Management Intern](https://jobright.ai/jobs/info/694429a8dd382f5f566a3b80?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Dec 18 |
+| **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Deposit Product Strategy Intern](https://jobright.ai/jobs/info/69440d1950bbaf7650560eeb?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Dec 18 |
+| **[GitHub](https://github.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69279354d47de4798ecdeab2?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 18 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Internal AI Product Management Intern, NYC](https://jobright.ai/jobs/info/692761ac91ceeb2e8a53e9ae?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 18 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Product Management - Cytology and Pathology](https://jobright.ai/jobs/info/693cf65549a7695fbd03b46f?utm_campaign=1047&utm_source=git)** | Marlborough, MA | On Site | Dec 18 |
 | **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Intern -Private Brand Consumables Product Development (M-W in office)](https://jobright.ai/jobs/info/692731cbd47de4798ecda9ce?utm_campaign=1047&utm_source=git)** | Livonia, MI | On Site | Dec 18 |
@@ -79,9 +83,9 @@ For a complete list, click the following sortable link below:
 | **[Dayton Parts Driven By Dorman](http://www.daytonparts.com)** | **[HD Product Intern](https://jobright.ai/jobs/info/69431ec450bbaf765054f6c4?utm_campaign=1047&utm_source=git)** | Colmar, PA | On Site | Dec 17 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Summer 2026 Product Development Internship](https://jobright.ai/jobs/info/694306ab50bbaf765054e23e?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 17 |
 | **[Constellation Brands](http://cbrands.com)** | **[Integrated Business Planning (IBP) Product Intern](https://jobright.ai/jobs/info/6925e4f6f0beb07232620239?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Dec 17 |
+| **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68f47f969a63986de7575d8d?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Dec 17 |
 | **[Niterra North America, Inc.](https://niterranorthamerica.com)** | **[Intern - Product](https://jobright.ai/jobs/info/6925e2c4f0beb0723262013e?utm_campaign=1047&utm_source=git)** | Wixom, MI | On Site | Dec 17 |
 | **[PennEngineering®](http://www.pemnet.com/)** | **[New Product Development Intern - Summer 2026](https://jobright.ai/jobs/info/690f43a044146d3b6ec5ae0c?utm_campaign=1047&utm_source=git)** | Danboro, PA | On Site | Dec 17 |
-| **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/693f9eff49a7695fbd055d4e?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Dec 17 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69047d1fff462851feff5b0f?utm_campaign=1047&utm_source=git)** | Paso Robles, CA | On Site | Dec 17 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Parts Product Management Intern Summer 2026](https://jobright.ai/jobs/info/691acd23bcdbf3560c9daa79?utm_campaign=1047&utm_source=git)** | Cranberry Township, PA | Hybrid | Dec 17 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68db7278e19b9e63ba20c2d1?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Dec 17 |
@@ -136,7 +140,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/693fcce650bbaf765051f94f?utm_campaign=1047&utm_source=git)** | Cary, NC, US | Hybrid | Dec 15 |
 | **[Agropur](http://www.agropur.com/en/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6921020700c9ee50eaecaccd?utm_campaign=1047&utm_source=git)** | Wisconsin, United States | On Site | Dec 14 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68ef6aadde50091dbfa4e978?utm_campaign=1047&utm_source=git)** | Northfield, IL | Hybrid | Dec 14 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Product Owner](https://jobright.ai/jobs/info/69050d55122e8474c78d5786?utm_campaign=1047&utm_source=git)** | Arlington, TX | Hybrid | Dec 14 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Product Planning](https://jobright.ai/jobs/info/691acbf345fb6f5ead8adb6f?utm_campaign=1047&utm_source=git)** | Kirkland, WA | On Site | Dec 13 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product and Technology Analytics Intern, NYC](https://jobright.ai/jobs/info/6903cbd9d64a22104aa93374?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 13 |
 | **[Tanium](http://www.tanium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68e8183cc4895107182c2223?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Dec 13 |
@@ -148,13 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Appian](http://www.appian.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/68ce7d8ddbd9fb154ede0196?utm_campaign=1047&utm_source=git)** | McLean, VA | On Site | Dec 13 |
 | **[Pegasystems](http://www.pega.com)** | **[Product Manager Intern - Low-Code Application Development - Summer 2026](https://jobright.ai/jobs/info/6933daeea0dde7020e2f277b?utm_campaign=1047&utm_source=git)** | Waltham, MA | On Site | Dec 13 |
 | **[Coach USA](http://www.coachusa.com)** | **[Commercial Intern](https://jobright.ai/jobs/info/693d57e5aa598a08c3ee0674?utm_campaign=1047&utm_source=git)** | Paramus, NJ | On Site | Dec 13 |
+| **[Boost Mobile](http://www.boostmobile.com/)** | **[Product Launch Intern](https://jobright.ai/jobs/info/693c825950bbaf76504fbaf7?utm_campaign=1047&utm_source=git)** | Littleton, CO | On Site | Dec 13 |
 | **[Zscaler](https://www.zscaler.com)** | **[Product Manager Intern, Zscaler Internet Access](https://jobright.ai/jobs/info/6921201b3f782d2f1afcf69e?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Dec 13 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Video Product](https://jobright.ai/jobs/info/6943e494dd382f5f5669fec3?utm_campaign=1047&utm_source=git)** | Greenwood Village, CO | On Site | Dec 13 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[Intern - Product CORE](https://jobright.ai/jobs/info/691ab475bcdbf3560c9d9c93?utm_campaign=1047&utm_source=git)** | Colmar, PA | On Site | Dec 13 |
 | ↳ | **[Intern - Product](https://jobright.ai/jobs/info/691ae18615b415636718b862?utm_campaign=1047&utm_source=git)** | Colmar, PA | On Site | Dec 13 |
 | ↳ | **[Product Intern - Ideation](https://jobright.ai/jobs/info/691abc5115b415636718a46d?utm_campaign=1047&utm_source=git)** | Colmar, PA | On Site | Dec 13 |
-| **[OpenTable](http://opentable.com)** | **[Product Management Internship (Hybrid, Toronto)](https://jobright.ai/jobs/info/69436e5f94730b7398768975?utm_campaign=1047&utm_source=git)** | Toronto, Canada | Hybrid | Dec 13 |
-| **[Concordia Plans](https://www.concordiaplans.org/)** | **[Business Product Administration Intern](https://jobright.ai/jobs/info/69213eeaa49a885af9a44499?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Dec 13 |
-| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Product Development Internship - Summer 2026](https://jobright.ai/jobs/info/693d240b50bbaf7650503f2a?utm_campaign=1047&utm_source=git)** | Framingham, MA | Hybrid | Dec 13 |
-| **[Dexcom](http://www.dexcom.com)** | **[Intern I - Clinical Services Product Management](https://jobright.ai/jobs/info/693d1fa749a7695fbd03c6d5?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
