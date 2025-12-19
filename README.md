@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First American](http://www.firstam.com)** | **[Technical Product Manager Intern](https://jobright.ai/jobs/info/6944ce9150bbaf765056e15d?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Dec 18 |
 | **[Enveda](https://enveda.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6944ac6d94730b739877f06d?utm_campaign=1047&utm_source=git)** | Boulder, CO | Remote | Dec 18 |
 | **[Federal Reserve Bank of Boston](http://www.bostonfed.org)** | **[2026 Summer Intern, FedNow Product Management, Fraud Prevention](https://jobright.ai/jobs/info/69449e8050bbaf765056a3f3?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Dec 18 |
-| **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Technical Product Management, MBA Intern - Summer 2026](https://jobright.ai/jobs/info/69449bdaa7227b3ece66360f?utm_campaign=1047&utm_source=git)** | Palo Alto, CA | On Site | Dec 18 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, New Product Planning, AIR - Summer 2026](https://jobright.ai/jobs/info/694496bb50bbaf7650569ff7?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Dec 18 |
 | **[CME Group](http://www.cmegroup.com)** | **[Research and Product Development PhD Student Intern (Part-Time, 12-Month Program)](https://jobright.ai/jobs/info/69448dc950bbaf7650569a8a?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 18 |
 | **[First American](http://www.firstam.com)** | **[Technical Product Manager Intern](https://jobright.ai/jobs/info/69448cf850bbaf76505699e2?utm_campaign=1047&utm_source=git)** | USA, California, Remote | Remote | Dec 18 |
@@ -106,9 +106,9 @@ For a complete list, click the following sortable link below:
 | **[Dayton Parts Driven By Dorman](http://www.daytonparts.com)** | **[HD Product Intern](https://jobright.ai/jobs/info/69431ec450bbaf765054f6c4?utm_campaign=1047&utm_source=git)** | Colmar, PA | On Site | Dec 17 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Summer 2026 Product Development Internship](https://jobright.ai/jobs/info/694306ab50bbaf765054e23e?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 17 |
 | **[Constellation Brands](http://cbrands.com)** | **[Integrated Business Planning (IBP) Product Intern](https://jobright.ai/jobs/info/6925e4f6f0beb07232620239?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Dec 17 |
+| **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/68f47f969a63986de7575d8d?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Dec 17 |
 | **[Niterra North America, Inc.](https://niterranorthamerica.com)** | **[Intern - Product](https://jobright.ai/jobs/info/6925e2c4f0beb0723262013e?utm_campaign=1047&utm_source=git)** | Wixom, MI | On Site | Dec 17 |
 | **[PennEngineering®](http://www.pemnet.com/)** | **[New Product Development Intern - Summer 2026](https://jobright.ai/jobs/info/690f43a044146d3b6ec5ae0c?utm_campaign=1047&utm_source=git)** | Danboro, PA | On Site | Dec 17 |
-| **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/693f9eff49a7695fbd055d4e?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Dec 17 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69047d1fff462851feff5b0f?utm_campaign=1047&utm_source=git)** | Paso Robles, CA | On Site | Dec 17 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Parts Product Management Intern Summer 2026](https://jobright.ai/jobs/info/691acd23bcdbf3560c9daa79?utm_campaign=1047&utm_source=git)** | Cranberry Township, PA | Hybrid | Dec 17 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68db7278e19b9e63ba20c2d1?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Dec 17 |
@@ -132,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product Infrastructure]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6907e4b3ff462851fe00bc37?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 16 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Management Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/68e6cdb6ae2b894b1d71ddad?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Dec 15 |
 | **[Skydio](https://www.skydio.com)** | **[Hardware Product Management Intern](https://jobright.ai/jobs/info/6940b13d50bbaf765052b587?utm_campaign=1047&utm_source=git)** | San Mateo, CA | Hybrid | Dec 15 |
-| **[Numerix](http://www.numerix.com)** | **[INTERN - Risk Product Specialist](https://jobright.ai/jobs/info/69409a54aa598a08c3f04496?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 15 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Product Manager Intern (Masters Degree) - Summer 2026](https://jobright.ai/jobs/info/68cd7963e23def7af55ba506?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Dec 15 |
 | ↳ | **[Sr. Outbound Product Manager Intern (MBA) - Summer 2026](https://jobright.ai/jobs/info/6937b91caabec14a727cc6ba?utm_campaign=1047&utm_source=git)** | San Diego, CA | Hybrid | Dec 15 |
 | ↳ | **[Digital Technology (DT) - Inbound Product Manager Intern](https://jobright.ai/jobs/info/6933b9e2f131d96e484664ae?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | Hybrid | Dec 15 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/693ff044aa598a08c3efa8cd?utm_campaign=1047&utm_source=git)** | Cary, NC | Hybrid | Dec 15 |
 | ↳ | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/693fef6749a7695fbd058c86?utm_campaign=1047&utm_source=git)** | Brookfield, WI | Hybrid | Dec 15 |
 | ↳ | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/693fcb1749a7695fbd057048?utm_campaign=1047&utm_source=git)** | Brookfield, WI, US | Hybrid | Dec 15 |
+| ↳ | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/693fcce650bbaf765051f94f?utm_campaign=1047&utm_source=git)** | Cary, NC, US | Hybrid | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
