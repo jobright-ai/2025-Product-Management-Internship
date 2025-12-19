@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Airbus](https://us.airbus.com)** | **[Summer Internship - Market Product Management](https://jobright.ai/jobs/info/6944f3dd50bbaf76505709b7?utm_campaign=1047&utm_source=git)** | Herndon, VA | Hybrid | Dec 18 |
 | **[First American](http://www.firstam.com)** | **[Technical Product Manager Intern](https://jobright.ai/jobs/info/6944ce9150bbaf765056e15d?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Dec 18 |
 | **[Enveda](https://enveda.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6944ac6d94730b739877f06d?utm_campaign=1047&utm_source=git)** | Boulder, CO | Remote | Dec 18 |
 | **[Federal Reserve Bank of Boston](http://www.bostonfed.org)** | **[2026 Summer Intern, FedNow Product Management, Fraud Prevention](https://jobright.ai/jobs/info/69449e8050bbaf765056a3f3?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Dec 18 |
@@ -113,6 +114,7 @@ For a complete list, click the following sortable link below:
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Parts Product Management Intern Summer 2026](https://jobright.ai/jobs/info/691acd23bcdbf3560c9daa79?utm_campaign=1047&utm_source=git)** | Cranberry Township, PA | Hybrid | Dec 17 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68db7278e19b9e63ba20c2d1?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Dec 17 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Product Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/690925ef4a1b456627afd3d9?utm_campaign=1047&utm_source=git)** | Neenah, WI | Hybrid | Dec 17 |
+| **[Sigma](http://sigmacomputing.com)** | **[Product Design System Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/6942204a50bbaf765053fda9?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 16 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[MBA Product Operations / Pricing & Monetization Intern](https://jobright.ai/jobs/info/69423e7cbdcf884a5ade0afc?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Dec 16 |
 | ↳ | **[MBA Product Operations / Pricing & Monetization Intern](https://jobright.ai/jobs/info/6942052c14ee092a690021e8?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Dec 16 |
 | ↳ | **[MBA Product Operations / Pricing & Monetization Intern](https://jobright.ai/jobs/info/69421dd914ee092a6900477c?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Dec 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[7-Eleven](http://www.7-eleven.com)** | **[Digital Product Manager Intern](https://jobright.ai/jobs/info/68ea724b8369791ef7821fed?utm_campaign=1047&utm_source=git)** | Irving, TX | On Site | Dec 15 |
 | **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/693ff044aa598a08c3efa8cd?utm_campaign=1047&utm_source=git)** | Cary, NC | Hybrid | Dec 15 |
 | ↳ | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/693fef6749a7695fbd058c86?utm_campaign=1047&utm_source=git)** | Brookfield, WI | Hybrid | Dec 15 |
-| ↳ | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/693fcb1749a7695fbd057048?utm_campaign=1047&utm_source=git)** | Brookfield, WI, US | Hybrid | Dec 15 |
-| ↳ | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/693fcce650bbaf765051f94f?utm_campaign=1047&utm_source=git)** | Cary, NC, US | Hybrid | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
