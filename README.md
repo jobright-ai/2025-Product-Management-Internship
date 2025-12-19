@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CME Group](http://www.cmegroup.com)** | **[Research and Product Development PhD Student Intern (Part-Time, 12-Month Program)](https://jobright.ai/jobs/info/69448dc950bbaf7650569a8a?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 18 |
+| **[First American](http://www.firstam.com)** | **[Technical Product Manager Intern](https://jobright.ai/jobs/info/69448cf850bbaf76505699e2?utm_campaign=1047&utm_source=git)** | USA, California, Remote | Remote | Dec 18 |
+| **[Zynga](http://www.zynga.com)** | **[Product Manager Intern - Harry Potter](https://jobright.ai/jobs/info/69448aad94730b739877c3cb?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Dec 18 |
+| **[Enveda](https://enveda.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/694486e6dd382f5f566ab181?utm_campaign=1047&utm_source=git)** | Boulder, CO. | Remote | Dec 18 |
+| **[CME Group](http://www.cmegroup.com)** | **[Research and Product Development PhD Student Intern (Part-Time, 12-Month Program)](https://jobright.ai/jobs/info/694481acdd382f5f566aae3e?utm_campaign=1047&utm_source=git)** | New York - 300 Vesey Street | Hybrid | Dec 18 |
 | **[Xometry](https://www.xometry.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/69446f67dd382f5f566a9272?utm_campaign=1047&utm_source=git)** | Waltham, MA | Hybrid | Dec 18 |
 | ↳ | **[Product Analytics Intern](https://jobright.ai/jobs/info/69446e2cdd382f5f566a8eed?utm_campaign=1047&utm_source=git)** | Waltham, Massachusetts | On Site | Dec 18 |
 | **[Accredo Specialty Pharmacy](http://www.accredo.com/)** | **[Accredo Product  - Summer Intern](https://jobright.ai/jobs/info/69446e2c94730b7398779630?utm_campaign=1047&utm_source=git)** | St Louis, MO | Hybrid | Dec 18 |
@@ -71,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern-Product Architecture & Operations](https://jobright.ai/jobs/info/6944525add382f5f566a6d58?utm_campaign=1047&utm_source=git)** | Detroit, MI | Hybrid | Dec 18 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Product Validation - Data (Acquisition, Analytics, Science) Intern](https://jobright.ai/jobs/info/6944739e94730b739877a3d3?utm_campaign=1047&utm_source=git)** | Portland, OR US | Hybrid | Dec 18 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern-Product Architecture & Operations](https://jobright.ai/jobs/info/694439c394730b7398775565?utm_campaign=1047&utm_source=git)** | 441 E Jefferson, Detroit, MI, 48226, US | On Site | Dec 18 |
-| **[Crown Fund](www.crownfund.co)** | **[Product Development Intern](https://jobright.ai/jobs/info/694446acdd382f5f566a4c0b?utm_campaign=1047&utm_source=git)** | California, United States | Remote | Dec 18 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Deposit Product Strategy Intern](https://jobright.ai/jobs/info/69440d1950bbaf7650560eeb?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Dec 18 |
 | **[GitHub](https://github.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/69279354d47de4798ecdeab2?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 18 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Internal AI Product Management Intern, NYC](https://jobright.ai/jobs/info/692761ac91ceeb2e8a53e9ae?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 18 |
@@ -92,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[Optum](https://www.optum.com/)** | **[AI Product Management Intern -  Master's/Ph.D. -Eden Prairie, MN](https://jobright.ai/jobs/info/69435ba650bbaf7650553c63?utm_campaign=1047&utm_source=git)** | Eden Prairie, MN | Hybrid | Dec 17 |
 | **[CUBEX](https://www.cubex.com/)** | **[Product Metrics & Analytics Intern](https://jobright.ai/jobs/info/6944457050bbaf765056305f?utm_campaign=1047&utm_source=git)** | Scottsdale, AZ | On Site | Dec 17 |
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Product Innovation Intern](https://jobright.ai/jobs/info/6943338ddd382f5f566925ae?utm_campaign=1047&utm_source=git)** | Littleton, CO | On Site | Dec 17 |
+| **[American Society of Anesthesiologists®](https://www.asahq.org)** | **[Summer Intern - Product Management - Schaumburg, IL or Remote](https://jobright.ai/jobs/info/69417ac1bdcf884a5add4198?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | Remote | Dec 17 |
 | **[CRH](http://crh.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69430191dd382f5f5668fa6c?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Dec 17 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 Product Manager Intern](https://jobright.ai/jobs/info/6942e0bc50bbaf765054b6d3?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Dec 17 |
 | **[Dayton Parts Driven By Dorman](http://www.daytonparts.com)** | **[HD Product Intern](https://jobright.ai/jobs/info/69431ec450bbaf765054f6c4?utm_campaign=1047&utm_source=git)** | Colmar, PA | On Site | Dec 17 |
@@ -115,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Riot Games](http://www.riotgames.com)** | **[Insights Analyst Intern, Teamfight Tactics - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69092852d046ab6061cd2427?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Remote | Dec 16 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Product Portfolio Associate Intern](https://jobright.ai/jobs/info/6941f1a914ee092a69000ea4?utm_campaign=1047&utm_source=git)** | 12900 Science Drive Suite 100, Orlando, Florida, United States | Remote | Dec 16 |
 | ↳ | **[Product Portfolio Associate Intern](https://jobright.ai/jobs/info/6942059250bbaf765053d688?utm_campaign=1047&utm_source=git)** | Orlando, FL | Hybrid | Dec 16 |
-| **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Product Manager](https://jobright.ai/jobs/info/69421f8a14ee092a69004978?utm_campaign=1047&utm_source=git)** | Holtsville, NY | On Site | Dec 16 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 – Product Strategy Intern (Master's)](https://jobright.ai/jobs/info/6942494a50bbaf7650544089?utm_campaign=1047&utm_source=git)** | Cary, NC | Hybrid | Dec 16 |
 | **[Henkel](http://www.henkel.com)** | **[Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/68b1e671bc187f64e1bd799c?utm_campaign=1047&utm_source=git)** | Rocky Hill, CT | On Site | Dec 16 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Product Management MBA Intern, Autonomous Vehicles ADAS - Summer 2026](https://jobright.ai/jobs/info/6932b9edf131d96e4845dce1?utm_campaign=1047&utm_source=git)** | Santa Clara, CA | On Site | Dec 16 |
@@ -136,8 +140,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Systems Product Intern](https://jobright.ai/jobs/info/69408065aa598a08c3f022a3?utm_campaign=1047&utm_source=git)** | 12021 SW 144th St., Miami, FL, 33186, US | On Site | Dec 15 |
 | ↳ | **[Systems Product Intern](https://jobright.ai/jobs/info/69406da449a7695fbd05ef6a?utm_campaign=1047&utm_source=git)** | Miami, FL | On Site | Dec 15 |
 | ↳ | **[Software Product Manager Intern](https://jobright.ai/jobs/info/69406d22aa598a08c3f00be4?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Dec 15 |
-| **[American Society of Anesthesiologists®](https://www.asahq.org)** | **[Summer Intern - Product Management - Schaumburg, IL or Remote](https://jobright.ai/jobs/info/69417ac1bdcf884a5add4198?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | Remote | Dec 15 |
-| **[Corsair](http://www.corsair.com)** | **[AI/ML Product Management Intern – E-commerce](https://jobright.ai/jobs/info/69407e8650bbaf7650528269?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Dec 15 |
+| ↳ | **[AI/ML Product Management Intern – E-commerce](https://jobright.ai/jobs/info/69407e8650bbaf7650528269?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Dec 15 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - Product Development, Home & Accessories](https://jobright.ai/jobs/info/6940772b49a7695fbd05f641?utm_campaign=1047&utm_source=git)** | New York, NY | Remote | Dec 15 |
 | **[Corsair](http://www.corsair.com)** | **[AI/ML Product Management Intern – E-commerce](https://jobright.ai/jobs/info/69406be9aa598a08c3f00adc?utm_campaign=1047&utm_source=git)** | 115 North McCarthy Blvd., Milpitas, CA, 95035, US | On Site | Dec 15 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - New Product Development](https://jobright.ai/jobs/info/6940300daa598a08c3efd23f?utm_campaign=1047&utm_source=git)** | Cumberland, RI, United States | On Site | Dec 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern, Product Management](https://jobright.ai/jobs/info/693fcce650bbaf765051f94f?utm_campaign=1047&utm_source=git)** | Cary, NC, US | Hybrid | Dec 15 |
 | **[Agropur](http://www.agropur.com/en/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6921020700c9ee50eaecaccd?utm_campaign=1047&utm_source=git)** | Wisconsin, United States | On Site | Dec 14 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68ef6aadde50091dbfa4e978?utm_campaign=1047&utm_source=git)** | Northfield, IL | Hybrid | Dec 14 |
-| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Product Planning](https://jobright.ai/jobs/info/691acbf345fb6f5ead8adb6f?utm_campaign=1047&utm_source=git)** | Kirkland, WA | On Site | Dec 13 |
-| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product and Technology Analytics Intern, NYC](https://jobright.ai/jobs/info/6903cbd9d64a22104aa93374?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 13 |
-| **[Tanium](http://www.tanium.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/68e8183cc4895107182c2223?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
