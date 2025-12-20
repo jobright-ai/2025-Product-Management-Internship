@@ -67,9 +67,9 @@ For a complete list, click the following sortable link below:
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Cloud Product Release Intern](https://jobright.ai/jobs/info/6945dac863141d1884557a4b?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Dec 19 |
 | **[Zynga](http://www.zynga.com)** | **[Product Manager Intern - Mobile Game Technology](https://jobright.ai/jobs/info/6945da179516540735380aae?utm_campaign=1047&utm_source=git)** | Toronto, Canada | On Site | Dec 19 |
 | **[Oracle](https://www.oracle.com/)** | **[Cloud Product Release Intern](https://jobright.ai/jobs/info/6945d121d1953b5d11bedac8?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Dec 19 |
-| **[Advance Auto Parts](https://shop.advanceautoparts.com)** | **[IT Product Intern](https://jobright.ai/jobs/info/6945c58f63141d188455535f?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Dec 19 |
 | **[Geotab](http://www.geotab.com/)** | **[Product Operations Intern (Summer/May 2026, 12 Months)](https://jobright.ai/jobs/info/6945be7763141d1884554b75?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | On Site | Dec 19 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/6945bd9a951654073537da1c?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Dec 19 |
+| **[Advance Auto Parts](https://shop.advanceautoparts.com)** | **[IT Product Intern](https://jobright.ai/jobs/info/69458601951654073537a00f?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Dec 19 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Technology & Product Strategy Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69457b0ed1953b5d11be7583?utm_campaign=1047&utm_source=git)** | Superior, MI | Hybrid | Dec 19 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/693143554c474121999ecda3?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Dec 19 |
 | **[Relay](https://relaypro.com)** | **[Relay Launchpad Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/68d68b5dd3fe025a3015a4f4?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Dec 19 |
@@ -129,6 +129,7 @@ For a complete list, click the following sortable link below:
 | **[PennEngineering®](http://www.pemnet.com/)** | **[New Product Development Intern - Summer 2026](https://jobright.ai/jobs/info/690f43a044146d3b6ec5ae0c?utm_campaign=1047&utm_source=git)** | Danboro, PA | On Site | Dec 17 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Parts Product Management Intern Summer 2026](https://jobright.ai/jobs/info/691acd23bcdbf3560c9daa79?utm_campaign=1047&utm_source=git)** | Cranberry Township, PA | Hybrid | Dec 17 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Product Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/690925ef4a1b456627afd3d9?utm_campaign=1047&utm_source=git)** | Neenah, WI | Hybrid | Dec 17 |
+| **[Sigma](http://sigmacomputing.com)** | **[Product Design System Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/6942204a50bbaf765053fda9?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 16 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[MBA Product Operations / Pricing & Monetization Intern](https://jobright.ai/jobs/info/69423e7cbdcf884a5ade0afc?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Dec 16 |
 | ↳ | **[MBA Product Operations / Pricing & Monetization Intern](https://jobright.ai/jobs/info/6942052c14ee092a690021e8?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Dec 16 |
 | ↳ | **[MBA Product Operations / Pricing & Monetization Intern](https://jobright.ai/jobs/info/69421dd914ee092a6900477c?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Dec 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Systems Product Intern](https://jobright.ai/jobs/info/69406da449a7695fbd05ef6a?utm_campaign=1047&utm_source=git)** | Miami, FL | On Site | Dec 15 |
 | ↳ | **[Software Product Manager Intern](https://jobright.ai/jobs/info/69406d22aa598a08c3f00be4?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Dec 15 |
 | ↳ | **[AI/ML Product Management Intern – E-commerce](https://jobright.ai/jobs/info/69407e8650bbaf7650528269?utm_campaign=1047&utm_source=git)** | Milpitas, CA | On Site | Dec 15 |
-| **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - Product Development, Home & Accessories](https://jobright.ai/jobs/info/6940772b49a7695fbd05f641?utm_campaign=1047&utm_source=git)** | New York, NY | Remote | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
