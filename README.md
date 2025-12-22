@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/6949848f63141d1884591e00?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 22 |
+| **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Project/Product Management Internship/Co-Op - Summer 2026](https://jobright.ai/jobs/info/69498fd27d506e3808f4b517?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 22 |
 | **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Intern](https://jobright.ai/jobs/info/6949421ad1953b5d11c24601?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 22 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Product Strategist)](https://jobright.ai/jobs/info/691d7dde7481340785ed80df?utm_campaign=1047&utm_source=git)** | Vienna, VA | Hybrid | Dec 22 |
 | **[Federal Home Loan Bank of Dallas](https://www.fhlb.com/)** | **[Product Operations and Member Services Intern-1](https://jobright.ai/jobs/info/690e3d12d046ab6061cfb8df?utm_campaign=1047&utm_source=git)** | Irving, TX | On Site | Dec 21 |
@@ -73,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Product Manager Intern (Multi-Cloud CDN)- 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68f1bc32f462172a5a7dbdea?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-PGC)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6915a08b6f36db06ef0500a2?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 21 |
 | ↳ | **[Product Manager Intern (TikTok Shop Seller Platform) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6916cfe19c388539cbdfecf1?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Dec 21 |
-| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern-Program/Product Development](https://jobright.ai/jobs/info/690e3b3fd046ab6061cfb778?utm_campaign=1047&utm_source=git)** | Detroit, MI | Hybrid | Dec 21 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[Ecommerce Development Intern](https://jobright.ai/jobs/info/68bb8d655f38327491870378?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Dec 21 |
 | **[Agropur](http://www.agropur.com/en/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6947c628d1953b5d11c0f81c?utm_campaign=1047&utm_source=git)** | Wisconsin, United States | On Site | Dec 21 |
 | **[Citi](https://www.citi.com)** | **[Internal Audit Technology Product Strategic Advisor Director](https://jobright.ai/jobs/info/6946bb4463141d188456774a?utm_campaign=1047&utm_source=git)** | Tampa, FL | Hybrid | Dec 20 |
@@ -88,10 +89,10 @@ For a complete list, click the following sortable link below:
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Cloud Product Release Intern](https://jobright.ai/jobs/info/6945dac863141d1884557a4b?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Dec 19 |
 | **[Oracle](https://www.oracle.com/)** | **[Cloud Product Release Intern](https://jobright.ai/jobs/info/6946d0db7d506e3808f22394?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Dec 19 |
 | **[Zynga](http://www.zynga.com)** | **[Product Manager Intern - Mobile Game Technology](https://jobright.ai/jobs/info/6945da179516540735380aae?utm_campaign=1047&utm_source=git)** | Toronto, Canada | On Site | Dec 19 |
-| **[Advance Auto Parts](https://shop.advanceautoparts.com)** | **[IT Product Intern](https://jobright.ai/jobs/info/6945c58f63141d188455535f?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Dec 19 |
 | **[Geotab](http://www.geotab.com/)** | **[Product Operations Intern (Summer/May 2026, 12 Months)](https://jobright.ai/jobs/info/6945be7763141d1884554b75?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | On Site | Dec 19 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/6945bd9a951654073537da1c?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Dec 19 |
 | **[Oracle](https://www.oracle.com/)** | **[Cloud Product Release Intern](https://jobright.ai/jobs/info/6946864cd1953b5d11bfb247?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Dec 19 |
+| **[Advance Auto Parts](https://shop.advanceautoparts.com)** | **[IT Product Intern](https://jobright.ai/jobs/info/69458601951654073537a00f?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Dec 19 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Technology & Product Strategy Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69457b0ed1953b5d11be7583?utm_campaign=1047&utm_source=git)** | Superior, MI | Hybrid | Dec 19 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/693143554c474121999ecda3?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Dec 19 |
 | **[Relay](https://relaypro.com)** | **[Relay Launchpad Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/68d68b5dd3fe025a3015a4f4?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Dec 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[MBA Product Operations / Pricing & Monetization Intern](https://jobright.ai/jobs/info/6942052c14ee092a690021e8?utm_campaign=1047&utm_source=git)** | New York, United States | Hybrid | Dec 16 |
 | ↳ | **[MBA Product Operations / Pricing & Monetization Intern](https://jobright.ai/jobs/info/69421dd914ee092a6900477c?utm_campaign=1047&utm_source=git)** | Austin, TX | Hybrid | Dec 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6941f14d14ee092a69000e01?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Dec 16 |
-| ↳ | **[Product Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6941ef8914ee092a69000aed?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Dec 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
