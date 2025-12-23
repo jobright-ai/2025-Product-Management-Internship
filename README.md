@@ -57,11 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dôen](https://shopdoen.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/694b0df24b53a1551f94bd9e?utm_campaign=1047&utm_source=git)** | Carson, CA | On Site | Dec 23 |
+| ↳ | **[Product Development  Intern](https://jobright.ai/jobs/info/694b0a3b3019f50a4fe60ff5?utm_campaign=1047&utm_source=git)** | Carson, CA | On Site | Dec 23 |
+| **[Tencent](https://www.tencent.com/)** | **[[Tencent Cloud 2026 Internship Program] Product Intern, Real-Time Interaction PaaS (Shenzhen)](https://jobright.ai/jobs/info/6914767e9c388539cbdec436?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Dec 23 |
+| **[IEEE](http://www.ieee.org)** | **[Summer Intern - Product Management](https://jobright.ai/jobs/info/694b02a33019f50a4fe609e2?utm_campaign=1047&utm_source=git)** | Piscataway, NJ | On Site | Dec 23 |
+| **[Oil-Dri Corporation of America](http://oildri.com)** | **[Division III Product Management Intern (Summer)](https://jobright.ai/jobs/info/694aff6b67a69734cac611ee?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Dec 23 |
+| **[Alstom](https://www.alstom.com/)** | **[Product Management Intern (Winter 2026)](https://jobright.ai/jobs/info/694afe143019f50a4fe605c0?utm_campaign=1047&utm_source=git)** | Saint-Bruno, Quebec, Canada | On Site | Dec 23 |
+| **[Seaman Corporation](http://www.seamancorp.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/694afcdf67a69734cac60fdc?utm_campaign=1047&utm_source=git)** | Wooster, OH | On Site | Dec 23 |
+| ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/694b004d3019f50a4fe607c4?utm_campaign=1047&utm_source=git)** | Wooster, OH 44691, USA | On Site | Dec 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Global Product Intern - Summer 2026](https://jobright.ai/jobs/info/694acac33019f50a4fe5dbde?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Dec 23 |
-| **[Tangify](https://tangify.co/)** | **[Business Intern](https://jobright.ai/jobs/info/694ae3ea3019f50a4fe5f606?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 23 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692e088afa28370be26a088d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 23 |
 | ↳ | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692e0368fa28370be26a04a4?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Dec 23 |
-| **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/692e2849ef4b48533d13d25c?utm_campaign=1047&utm_source=git)** | Elkhart, IN | Hybrid | Dec 23 |
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Summer 2026 Product Sourcing & Services Intern - New York](https://jobright.ai/jobs/info/692e3995fa28370be26a27fd?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[Centric Brands](https://centricbrands.com)** | **[Production/Product Development Intern – Summer 2026 Internship Program](https://jobright.ai/jobs/info/692e69fb4c474121999d94ac?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[Cisco](http://www.cisco.com)** | **[AI Engineering Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692e78084c474121999d9bc5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 23 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lennox](http://www.lennox.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/6922c48b7795cd460c83713f?utm_campaign=1047&utm_source=git)** | West Columbia, SC | On Site | Dec 18 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68ccceeea77e5d7d744f5c50?utm_campaign=1047&utm_source=git)** | Westminster, CO | On Site | Dec 18 |
 | **[Tencent](https://www.tencent.com/)** | **[[Tencent Cloud 2026 Internship Program] Technical Product Management Intern (Shenzhen)](https://jobright.ai/jobs/info/6912dfb3c98948514c47f0c4?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Dec 17 |
-| **[Optum](https://www.optum.com/)** | **[AI Product Management Intern -  Master's/Ph.D. -Eden Prairie, MN](https://jobright.ai/jobs/info/69435ba650bbaf7650553c63?utm_campaign=1047&utm_source=git)** | Eden Prairie, MN | Hybrid | Dec 17 |
-| **[Boost Mobile](http://www.boostmobile.com/)** | **[Product Innovation Intern](https://jobright.ai/jobs/info/6943338ddd382f5f566925ae?utm_campaign=1047&utm_source=git)** | Littleton, CO | On Site | Dec 17 |
-| **[American Society of Anesthesiologists®](https://www.asahq.org)** | **[Summer Intern - Product Management - Schaumburg, IL or Remote](https://jobright.ai/jobs/info/69417ac1bdcf884a5add4198?utm_campaign=1047&utm_source=git)** | Schaumburg, IL | Remote | Dec 17 |
-| **[CRH](http://crh.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/69430191dd382f5f5668fa6c?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Dec 17 |
-| **[Intuit](https://www.intuit.com)** | **[Summer 2026 Product Manager Intern](https://jobright.ai/jobs/info/6942e0bc50bbaf765054b6d3?utm_campaign=1047&utm_source=git)** | Mountain View, CA | On Site | Dec 17 |
-| **[Dayton Parts Driven By Dorman](http://www.daytonparts.com)** | **[HD Product Intern](https://jobright.ai/jobs/info/69431ec450bbaf765054f6c4?utm_campaign=1047&utm_source=git)** | Colmar, PA | On Site | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
