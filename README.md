@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/694a1b977d506e3808f55714?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Dec 22 |
+| **[SkyrisAI](https://www.linkedin.com/company/105658415)** | **[Product Manager Intern (User Research Focused)](https://jobright.ai/jobs/info/694a683931c12007d3b91c5c?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 22 |
 | **[People Inc.](https://www.people.inc/)** | **[Summer Intern, Product (D/Cipher)](https://jobright.ai/jobs/info/694a113a63141d188459b90b?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 22 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Product Manager (Growth Operations) - Summer 2026 Internship](https://jobright.ai/jobs/info/6949fc39c6f0e2546ceed4f0?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Dec 22 |
-| ↳ | **[Product Manager (Growth Operations) - Summer 2026 Internship](https://jobright.ai/jobs/info/694a06917d506e3808f529a7?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Dec 22 |
+| **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/694a076b63141d1884599f08?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Dec 22 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Product Manager (Growth Operations) - Summer 2026 Internship](https://jobright.ai/jobs/info/694a06917d506e3808f529a7?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Dec 22 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Summer Intern, Product (D/Cipher)](https://jobright.ai/jobs/info/694a143d63141d188459c094?utm_campaign=1047&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Dec 22 |
 | **[Acuity](http://www.acuitybrands.com)** | **[Intern - Product Management Technology](https://jobright.ai/jobs/info/694a032ec6f0e2546ceee7bc?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Dec 22 |
 | **[Norwood Medical](http://norwoodmedical.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/694a3624c6f0e2546cef4ab9?utm_campaign=1047&utm_source=git)** | Dayton, OH | Hybrid | Dec 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enovis](https://enovis.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/693f9eff49a7695fbd055d4e?utm_campaign=1047&utm_source=git)** | Greater Houston | On Site | Dec 17 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Parts Product Management Intern Summer 2026](https://jobright.ai/jobs/info/691acd23bcdbf3560c9daa79?utm_campaign=1047&utm_source=git)** | Cranberry Township, PA | Hybrid | Dec 17 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Product Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/690925ef4a1b456627afd3d9?utm_campaign=1047&utm_source=git)** | Neenah, WI | Hybrid | Dec 17 |
-| **[Sigma](http://sigmacomputing.com)** | **[Product Design System Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/6942204a50bbaf765053fda9?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
