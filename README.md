@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Grassroots Analytics](https://www.grassrootsanalytics.com/)** | **[Campaign Product Intern / Spring 2026](https://jobright.ai/jobs/info/694b11401224705e9002286e?utm_campaign=1047&utm_source=git)** | Washington, District of Columbia, United States | On Site | Dec 23 |
+| **[Grassroots Analytics](https://www.grassrootsanalytics.com/)** | **[Campaign Product Intern / Spring 2026](https://jobright.ai/jobs/info/694b37a84b53a1551f94ef6d?utm_campaign=1047&utm_source=git)** | Washington, DC | On Site | Dec 23 |
+| ↳ | **[Campaign Product Intern / Spring 2026](https://jobright.ai/jobs/info/694b11401224705e9002286e?utm_campaign=1047&utm_source=git)** | Washington, District of Columbia, United States | On Site | Dec 23 |
 | **[Dôen](https://shopdoen.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/694b0df24b53a1551f94bd9e?utm_campaign=1047&utm_source=git)** | Carson, CA | On Site | Dec 23 |
 | ↳ | **[Product Development  Intern](https://jobright.ai/jobs/info/694b0a3b3019f50a4fe60ff5?utm_campaign=1047&utm_source=git)** | Carson, CA | On Site | Dec 23 |
 | **[Tencent](https://www.tencent.com/)** | **[[Tencent Cloud 2026 Internship Program] Product Intern, Real-Time Interaction PaaS (Shenzhen)](https://jobright.ai/jobs/info/6914767e9c388539cbdec436?utm_campaign=1047&utm_source=git)** | California, United States | On Site | Dec 23 |
@@ -73,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[First PREMIER Bank/PREMIER Bankcard](http://www.firstpremier.com)** | **[PREMIER Digital Innovation & Strategy Internship](https://jobright.ai/jobs/info/694b157a3019f50a4fe626c3?utm_campaign=1047&utm_source=git)** | Sioux Falls, SD | On Site | Dec 23 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692e088afa28370be26a088d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 23 |
 | ↳ | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692e0368fa28370be26a04a4?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Dec 23 |
+| **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/692e2849ef4b48533d13d25c?utm_campaign=1047&utm_source=git)** | Elkhart, IN | Hybrid | Dec 23 |
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Summer 2026 Product Sourcing & Services Intern - New York](https://jobright.ai/jobs/info/692e3995fa28370be26a27fd?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[Centric Brands](https://centricbrands.com)** | **[Production/Product Development Intern – Summer 2026 Internship Program](https://jobright.ai/jobs/info/692e69fb4c474121999d94ac?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[Cisco](http://www.cisco.com)** | **[AI Engineering Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692e78084c474121999d9bc5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 23 |
@@ -115,10 +117,10 @@ For a complete list, click the following sortable link below:
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Insurance Operations Summer Intern](https://jobright.ai/jobs/info/6945dcead1953b5d11beeeee?utm_campaign=1047&utm_source=git)** | Hartford, CT | On Site | Dec 19 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Cloud Product Release Intern](https://jobright.ai/jobs/info/6945dac863141d1884557a4b?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Dec 19 |
 | **[Zynga](http://www.zynga.com)** | **[Product Manager Intern - Mobile Game Technology](https://jobright.ai/jobs/info/6945da179516540735380aae?utm_campaign=1047&utm_source=git)** | Toronto, Canada | On Site | Dec 19 |
-| **[Advance Auto Parts](https://shop.advanceautoparts.com)** | **[IT Product Intern](https://jobright.ai/jobs/info/6945c58f63141d188455535f?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Dec 19 |
 | **[Geotab](http://www.geotab.com/)** | **[Product Operations Intern (Summer/May 2026, 12 Months)](https://jobright.ai/jobs/info/6945be7763141d1884554b75?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | On Site | Dec 19 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/6945bd9a951654073537da1c?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Dec 19 |
 | **[Oracle](https://www.oracle.com/)** | **[Cloud Product Release Intern](https://jobright.ai/jobs/info/6946864cd1953b5d11bfb247?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Dec 19 |
+| **[Advance Auto Parts](https://shop.advanceautoparts.com)** | **[IT Product Intern](https://jobright.ai/jobs/info/69458601951654073537a00f?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Dec 19 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Technology & Product Strategy Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69457b0ed1953b5d11be7583?utm_campaign=1047&utm_source=git)** | Superior, MI | Hybrid | Dec 19 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/693143554c474121999ecda3?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Dec 19 |
 | **[Relay](https://relaypro.com)** | **[Relay Launchpad Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/68d68b5dd3fe025a3015a4f4?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Dec 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pet Supplies Plus](http://www.petsuppliesplus.com)** | **[Intern- Private Brand Hardgoods Product Development (In Office M-W)](https://jobright.ai/jobs/info/69273466d47de4798ecdab2d?utm_campaign=1047&utm_source=git)** | Livonia, MI | On Site | Dec 18 |
 | **[Rippling](https://www.rippling.com)** | **[Product Lead Internship - Summer 2026](https://jobright.ai/jobs/info/690a98574a1b456627b098ea?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Dec 18 |
 | ↳ | **[Product Lead Internship - Summer 2026](https://jobright.ai/jobs/info/690a8cfa4a1b456627b0922c?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Dec 18 |
-| **[Lennox](http://www.lennox.com)** | **[Category Analyst Intern](https://jobright.ai/jobs/info/68d34dc4f0d9af73038e0eac?utm_campaign=1047&utm_source=git)** | Richardson, TX | On Site | Dec 18 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok Shop Apps and API) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68fb5fa34129dd33cd131cbb?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
