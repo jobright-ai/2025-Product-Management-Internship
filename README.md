@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Okta](http://www.okta.com)** | **[MBA Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/692f9d36fa28370be26ac146?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 24 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[ServiceMax Product Management Intern](https://jobright.ai/jobs/info/692f1144fa28370be26a7376?utm_campaign=1047&utm_source=git)** | San Ramon, CA | On Site | Dec 24 |
 | **[Zscaler](https://www.zscaler.com)** | **[Product Management Intern, AI](https://jobright.ai/jobs/info/692fc351ef4b48533d148b03?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Dec 24 |
 | **[Adobe](http://www.adobe.com)** | **[2026 SAMI Intern - Product Manager, Community Engagement](https://jobright.ai/jobs/info/6912da16c98948514c47ed07?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cook Medical](http://www.cookmedical.com)** | **[Product Management/Marketing Internship - Aortic Medical Devices](https://jobright.ai/jobs/info/69445b7494730b7398778436?utm_campaign=1047&utm_source=git)** | Bloomington IN United States | Hybrid | Dec 18 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2026 Summer Intern, FedNow Product Management, Fraud Prevention](https://jobright.ai/jobs/info/6944551e50bbaf7650565285?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Dec 18 |
 | **[Cook Medical](http://www.cookmedical.com)** | **[Product Management/Marketing Internship - Aortic Medical Devices](https://jobright.ai/jobs/info/6944525add382f5f566a6d59?utm_campaign=1047&utm_source=git)** | Bloomington, IN | Hybrid | Dec 18 |
-| **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Product Validation - Data (Acquisition, Analytics, Science) Intern](https://jobright.ai/jobs/info/6944739e94730b739877a3d3?utm_campaign=1047&utm_source=git)** | Portland, OR US | Hybrid | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
