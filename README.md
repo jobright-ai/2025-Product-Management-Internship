@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Votely](https://getvotely.com)** | **[Product Manager Intern (Remote)](https://jobright.ai/jobs/info/694c1af5d64ebf28d821bded?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 24 |
+| **[Crown Fund](www.crownfund.co)** | **[Product Management Intern](https://jobright.ai/jobs/info/694c11cd1a572a617dde50ee?utm_campaign=1047&utm_source=git)** | New York, United States | Remote | Dec 24 |
 | **[Okta](http://www.okta.com)** | **[MBA Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/692f9d36fa28370be26ac146?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 24 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[ServiceMax Product Management Intern](https://jobright.ai/jobs/info/692f1144fa28370be26a7376?utm_campaign=1047&utm_source=git)** | San Ramon, CA | On Site | Dec 24 |
 | **[Zscaler](https://www.zscaler.com)** | **[Product Management Intern, AI](https://jobright.ai/jobs/info/692fc351ef4b48533d148b03?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Dec 24 |
@@ -101,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/6949848f63141d1884591e00?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 22 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Project/Product Management Internship/Co-Op - Summer 2026](https://jobright.ai/jobs/info/69498fd27d506e3808f4b517?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 22 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Product Strategist)](https://jobright.ai/jobs/info/691d7dde7481340785ed80df?utm_campaign=1047&utm_source=git)** | Vienna, VA | Hybrid | Dec 22 |
-| **[Federal Home Loan Bank of Dallas](https://www.fhlb.com/)** | **[Product Operations and Member Services Intern-1](https://jobright.ai/jobs/info/690e3d12d046ab6061cfb8df?utm_campaign=1047&utm_source=git)** | Irving, TX | On Site | Dec 21 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Credit Card Experiences Product Manager)](https://jobright.ai/jobs/info/691cfaa5bcdbf3560c9ebee4?utm_campaign=1047&utm_source=git)** | Vienna, VA | Hybrid | Dec 21 |
 | ↳ | **[Summer Associate Internship (Product Strategist)](https://jobright.ai/jobs/info/693554e9f131d96e4846df2d?utm_campaign=1047&utm_source=git)** | Vienna, VA | Hybrid | Dec 21 |
 | ↳ | **[Summer Associate Internship (Product Strategist)](https://jobright.ai/jobs/info/6947787a7d506e3808f2bbbe?utm_campaign=1047&utm_source=git)** | Pensacola, FL | Hybrid | Dec 21 |
@@ -141,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/68c4e83f7d0db4114272ede8?utm_campaign=1047&utm_source=git)** | Dayton, OH | On Site | Dec 19 |
 | **[Airbus](https://us.airbus.com)** | **[Summer Internship - Market Product Management](https://jobright.ai/jobs/info/6944f3dd50bbaf76505709b7?utm_campaign=1047&utm_source=git)** | Herndon, VA | Hybrid | Dec 18 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern-Product Architecture & Operations](https://jobright.ai/jobs/info/694791e463141d18845735ef?utm_campaign=1047&utm_source=git)** | Detroit, MI | Hybrid | Dec 18 |
-| **[Federal Reserve Bank of Boston](http://www.bostonfed.org)** | **[2026 Summer Intern, FedNow Product Management, Fraud Prevention](https://jobright.ai/jobs/info/69449e8050bbaf765056a3f3?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Dec 18 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, New Product Planning, AIR - Summer 2026](https://jobright.ai/jobs/info/694496bb50bbaf7650569ff7?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Dec 18 |
 | **[CME Group](http://www.cmegroup.com)** | **[Research and Product Development PhD Student Intern (Part-Time, 12-Month Program)](https://jobright.ai/jobs/info/69448dc950bbaf7650569a8a?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 18 |
 | **[Zynga](http://www.zynga.com)** | **[Product Manager Intern - Harry Potter](https://jobright.ai/jobs/info/69448aad94730b739877c3cb?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Dec 18 |
@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Cook Medical](http://www.cookmedical.com)** | **[Product Management/Marketing Internship - Aortic Medical Devices](https://jobright.ai/jobs/info/69445ed750bbaf7650565bd9?utm_campaign=1047&utm_source=git)** | US-IN-Bloomington | Hybrid | Dec 18 |
 | **[Crestron Electronics](http://www.crestron.com)** | **[Co-Op - Jan-Aug '26 - Product Management](https://jobright.ai/jobs/info/69445ed650bbaf7650565bd6?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Dec 18 |
 | **[Cook Medical](http://www.cookmedical.com)** | **[Product Management/Marketing Internship - Aortic Medical Devices](https://jobright.ai/jobs/info/69445b7494730b7398778436?utm_campaign=1047&utm_source=git)** | Bloomington IN United States | Hybrid | Dec 18 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2026 Summer Intern, FedNow Product Management, Fraud Prevention](https://jobright.ai/jobs/info/6944551e50bbaf7650565285?utm_campaign=1047&utm_source=git)** | Boston, MA | On Site | Dec 18 |
-| **[Cook Medical](http://www.cookmedical.com)** | **[Product Management/Marketing Internship - Aortic Medical Devices](https://jobright.ai/jobs/info/6944525add382f5f566a6d59?utm_campaign=1047&utm_source=git)** | Bloomington, IN | Hybrid | Dec 18 |
+| ↳ | **[Product Management/Marketing Internship - Aortic Medical Devices](https://jobright.ai/jobs/info/6944525add382f5f566a6d59?utm_campaign=1047&utm_source=git)** | Bloomington, IN | Hybrid | Dec 18 |
+| **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Product Validation - Data (Acquisition, Analytics, Science) Intern](https://jobright.ai/jobs/info/6944739e94730b739877a3d3?utm_campaign=1047&utm_source=git)** | Portland, OR US | Hybrid | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
