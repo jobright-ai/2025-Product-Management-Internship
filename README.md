@@ -58,7 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[TikTok](https://www.tiktok.com)** | **[Global Product Strategist Intern-(MSO) 2026 Summer (MBA)](https://jobright.ai/jobs/info/68fab001b2c86843bf211022?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Dec 25 |
+| **[Tinder](http://www.tinder.com)** | **[Product Intern](https://jobright.ai/jobs/info/6920fafa3f782d2f1afcdda5?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 25 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Digital Product Management Analyst Co-op - Fall 2026](https://jobright.ai/jobs/info/69315cf84c474121999ed6c1?utm_campaign=1047&utm_source=git)** | Quincy, MA | Hybrid | Dec 25 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Associate Product Analyst Intern](https://jobright.ai/jobs/info/694d58a5d4a7df7a06727906?utm_campaign=1047&utm_source=git)** | Texas, United States | On Site | Dec 25 |
 | **[Ferrara](https://www.ferrara.com)** | **[Product Development Internship Program 2026](https://jobright.ai/jobs/info/691ab4f715b4156367189fcb?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Dec 25 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Digital Product Management Analyst Co-op - Fall 2026](https://jobright.ai/jobs/info/69354a75f131d96e4846dd4a?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Dec 25 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Product Internship - Summer 2026](https://jobright.ai/jobs/info/6921092e00c9ee50eaecafd3?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 24 |
@@ -97,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[First PREMIER Bank/PREMIER Bankcard](http://www.firstpremier.com)** | **[PREMIER Digital Innovation & Strategy Internship](https://jobright.ai/jobs/info/694b157a3019f50a4fe626c3?utm_campaign=1047&utm_source=git)** | Sioux Falls, SD | On Site | Dec 23 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692e088afa28370be26a088d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 23 |
 | ↳ | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692e0368fa28370be26a04a4?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Dec 23 |
+| **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/692e2849ef4b48533d13d25c?utm_campaign=1047&utm_source=git)** | Elkhart, IN | Hybrid | Dec 23 |
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Summer 2026 Product Sourcing & Services Intern - New York](https://jobright.ai/jobs/info/692e3995fa28370be26a27fd?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[Centric Brands](https://centricbrands.com)** | **[Production/Product Development Intern – Summer 2026 Internship Program](https://jobright.ai/jobs/info/692e69fb4c474121999d94ac?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[Cisco](http://www.cisco.com)** | **[AI Engineering Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692e78084c474121999d9bc5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 23 |
@@ -152,7 +155,4 @@ For a complete list, click the following sortable link below:
 | **[Airbus](https://us.airbus.com)** | **[Summer Internship - Market Product Management](https://jobright.ai/jobs/info/6944f3dd50bbaf76505709b7?utm_campaign=1047&utm_source=git)** | Herndon, VA | Hybrid | Dec 18 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern-Product Architecture & Operations](https://jobright.ai/jobs/info/694791e463141d18845735ef?utm_campaign=1047&utm_source=git)** | Detroit, MI | Hybrid | Dec 18 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, New Product Planning, AIR - Summer 2026](https://jobright.ai/jobs/info/694496bb50bbaf7650569ff7?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Dec 18 |
-| **[CME Group](http://www.cmegroup.com)** | **[Research and Product Development PhD Student Intern (Part-Time, 12-Month Program)](https://jobright.ai/jobs/info/69448dc950bbaf7650569a8a?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 18 |
-| **[Zynga](http://www.zynga.com)** | **[Product Manager Intern - Harry Potter](https://jobright.ai/jobs/info/69448aad94730b739877c3cb?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Dec 18 |
-| **[CME Group](http://www.cmegroup.com)** | **[Research and Product Development PhD Student Intern (Part-Time, 12-Month Program)](https://jobright.ai/jobs/info/694481acdd382f5f566aae3e?utm_campaign=1047&utm_source=git)** | New York - 300 Vesey Street | Hybrid | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
