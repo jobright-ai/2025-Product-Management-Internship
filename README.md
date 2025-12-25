@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HeyGen](https://www.heygen.com)** | **[Product Manager, Internship - LiveAvatar](https://jobright.ai/jobs/info/694c591bd64ebf28d821f8eb?utm_campaign=1047&utm_source=git)** | Los Angeles | On Site | Dec 24 |
+| **[HeyGen](https://www.heygen.com)** | **[Product Manager, Internship - LiveAvatar](https://jobright.ai/jobs/info/694c71f7d64ebf28d82204c0?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Dec 24 |
+| ↳ | **[Product Manager, Internship - LiveAvatar](https://jobright.ai/jobs/info/694c591bd64ebf28d821f8eb?utm_campaign=1047&utm_source=git)** | Los Angeles | On Site | Dec 24 |
 | **[MasterControl](http://www.mastercontrol.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/694c588dd64ebf28d821f73d?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 24 |
 | **[Federal Home Loan Bank of Dallas](https://www.fhlb.com/)** | **[Product Operations and Member Services Intern-1](https://jobright.ai/jobs/info/694c5650d64ebf28d821f0c3?utm_campaign=1047&utm_source=git)** | Irving, TX | On Site | Dec 24 |
 | **[ModMed](https://www.modmed.com)** | **[Product Development Summer 2026 Internship](https://jobright.ai/jobs/info/68eeb96ce0db92422580a57c?utm_campaign=1047&utm_source=git)** | Boca Raton, Florida | Hybrid | Dec 24 |
@@ -95,10 +96,10 @@ For a complete list, click the following sortable link below:
 | **[Centric Brands](https://centricbrands.com)** | **[Production/Product Development Intern – Summer 2026 Internship Program](https://jobright.ai/jobs/info/692e69fb4c474121999d94ac?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[Cisco](http://www.cisco.com)** | **[AI Engineering Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692e78084c474121999d9bc5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 23 |
 | **[SkyrisAI](https://www.linkedin.com/company/105658415)** | **[Product Manager Intern (User Research Focused)](https://jobright.ai/jobs/info/694a683931c12007d3b91c5c?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 22 |
-| **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/694a1b977d506e3808f55714?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Dec 22 |
 | **[People Inc.](https://www.people.inc/)** | **[Summer Intern, Product (D/Cipher)](https://jobright.ai/jobs/info/694a113a63141d188459b90b?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 22 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Product Manager (Growth Operations) - Summer 2026 Internship](https://jobright.ai/jobs/info/6949fc39c6f0e2546ceed4f0?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Dec 22 |
 | **[KENT WORLDWIDE](https://kentww.com)** | **[PRODUCT DEVELOPMENT INTERN](https://jobright.ai/jobs/info/694b0ff54b53a1551f94c224?utm_campaign=1047&utm_source=git)** | Muscatine, IA | On Site | Dec 22 |
+| **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/694a076b63141d1884599f08?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Dec 22 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Product Manager (Growth Operations) - Summer 2026 Internship](https://jobright.ai/jobs/info/694a06917d506e3808f529a7?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Dec 22 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Summer Intern, Product (D/Cipher)](https://jobright.ai/jobs/info/694a143d63141d188459c094?utm_campaign=1047&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Dec 22 |
 | **[Acuity](http://www.acuitybrands.com)** | **[Intern - Product Management Technology](https://jobright.ai/jobs/info/694a032ec6f0e2546ceee7bc?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Dec 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Product Validation - Data (Acquisition, Analytics, Science) Intern](https://jobright.ai/jobs/info/69446d8494730b73987795b3?utm_campaign=1047&utm_source=git)** | Portland, OR | Hybrid | Dec 18 |
 | **[Xometry](https://www.xometry.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/69446b8bdd382f5f566a8c88?utm_campaign=1047&utm_source=git)** | North Bethesda, MD | Hybrid | Dec 18 |
 | **[Cook Medical](http://www.cookmedical.com)** | **[Product Management/Marketing Internship - Aortic Medical Devices](https://jobright.ai/jobs/info/69445ed750bbaf7650565bd9?utm_campaign=1047&utm_source=git)** | US-IN-Bloomington | Hybrid | Dec 18 |
-| **[Crestron Electronics](http://www.crestron.com)** | **[Co-Op - Jan-Aug '26 - Product Management](https://jobright.ai/jobs/info/69445ed650bbaf7650565bd6?utm_campaign=1047&utm_source=git)** | Boston, MA | Hybrid | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
