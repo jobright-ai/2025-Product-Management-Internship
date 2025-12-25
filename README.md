@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OpenSesame](http://www.OpenSesame.com)** | **[Product Internship - Summer 2026](https://jobright.ai/jobs/info/6921092e00c9ee50eaecafd3?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 24 |
 | **[MasterControl](http://www.mastercontrol.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/694ca94cd4a7df7a0671e1d4?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Dec 24 |
 | **[HeyGen](https://www.heygen.com)** | **[Product Manager, Internship - LiveAvatar](https://jobright.ai/jobs/info/694c71f7d64ebf28d82204c0?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Dec 24 |
 | ↳ | **[Product Manager, Internship - LiveAvatar](https://jobright.ai/jobs/info/694c591bd64ebf28d821f8eb?utm_campaign=1047&utm_source=git)** | Los Angeles | On Site | Dec 24 |
@@ -92,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[First PREMIER Bank/PREMIER Bankcard](http://www.firstpremier.com)** | **[PREMIER Digital Innovation & Strategy Internship](https://jobright.ai/jobs/info/694b157a3019f50a4fe626c3?utm_campaign=1047&utm_source=git)** | Sioux Falls, SD | On Site | Dec 23 |
 | **[Cisco](http://www.cisco.com)** | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692e088afa28370be26a088d?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 23 |
 | ↳ | **[Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692e0368fa28370be26a04a4?utm_campaign=1047&utm_source=git)** | Triangle, NC | On Site | Dec 23 |
+| **[Dometic](https://www.dometic.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/692e2849ef4b48533d13d25c?utm_campaign=1047&utm_source=git)** | Elkhart, IN | Hybrid | Dec 23 |
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Summer 2026 Product Sourcing & Services Intern - New York](https://jobright.ai/jobs/info/692e3995fa28370be26a27fd?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[Centric Brands](https://centricbrands.com)** | **[Production/Product Development Intern – Summer 2026 Internship Program](https://jobright.ai/jobs/info/692e69fb4c474121999d94ac?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[Cisco](http://www.cisco.com)** | **[AI Engineering Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692e78084c474121999d9bc5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Analytics Intern](https://jobright.ai/jobs/info/69446e2cdd382f5f566a8eed?utm_campaign=1047&utm_source=git)** | Waltham, Massachusetts | On Site | Dec 18 |
 | **[Accredo Specialty Pharmacy](http://www.accredo.com/)** | **[Accredo Product  - Summer Intern](https://jobright.ai/jobs/info/69446e2c94730b7398779630?utm_campaign=1047&utm_source=git)** | St Louis, MO | Hybrid | Dec 18 |
 | **[Xometry](https://www.xometry.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/69446de6dd382f5f566a8e40?utm_campaign=1047&utm_source=git)** | North Bethesda, Maryland | On Site | Dec 18 |
-| **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Product Validation - Data (Acquisition, Analytics, Science) Intern](https://jobright.ai/jobs/info/69446d8494730b73987795b3?utm_campaign=1047&utm_source=git)** | Portland, OR | Hybrid | Dec 18 |
-| **[Xometry](https://www.xometry.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/69446b8bdd382f5f566a8c88?utm_campaign=1047&utm_source=git)** | North Bethesda, MD | Hybrid | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
