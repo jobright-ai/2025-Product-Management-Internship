@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MasterControl](http://www.mastercontrol.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/694ca94cd4a7df7a0671e1d4?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Dec 24 |
 | **[HeyGen](https://www.heygen.com)** | **[Product Manager, Internship - LiveAvatar](https://jobright.ai/jobs/info/694c71f7d64ebf28d82204c0?utm_campaign=1047&utm_source=git)** | Los Angeles, CA | On Site | Dec 24 |
 | ↳ | **[Product Manager, Internship - LiveAvatar](https://jobright.ai/jobs/info/694c591bd64ebf28d821f8eb?utm_campaign=1047&utm_source=git)** | Los Angeles | On Site | Dec 24 |
 | **[MasterControl](http://www.mastercontrol.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/694c588dd64ebf28d821f73d?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 24 |
 | **[Federal Home Loan Bank of Dallas](https://www.fhlb.com/)** | **[Product Operations and Member Services Intern-1](https://jobright.ai/jobs/info/694c5650d64ebf28d821f0c3?utm_campaign=1047&utm_source=git)** | Irving, TX | On Site | Dec 24 |
 | **[ModMed](https://www.modmed.com)** | **[Product Development Summer 2026 Internship](https://jobright.ai/jobs/info/68eeb96ce0db92422580a57c?utm_campaign=1047&utm_source=git)** | Boca Raton, Florida | Hybrid | Dec 24 |
 | **[Votely](https://getvotely.com)** | **[Product Manager Intern (Remote)](https://jobright.ai/jobs/info/694c1af5d64ebf28d821bded?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 24 |
-| **[Crown Fund](www.crownfund.co)** | **[Product Management Intern](https://jobright.ai/jobs/info/694c11cd1a572a617dde50ee?utm_campaign=1047&utm_source=git)** | New York, United States | Remote | Dec 24 |
 | **[Okta](http://www.okta.com)** | **[MBA Product Management Intern (Summer 2026)](https://jobright.ai/jobs/info/692f9d36fa28370be26ac146?utm_campaign=1047&utm_source=git)** | San Francisco, CA | On Site | Dec 24 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[ServiceMax Product Management Intern](https://jobright.ai/jobs/info/692f1144fa28370be26a7376?utm_campaign=1047&utm_source=git)** | San Ramon, CA | On Site | Dec 24 |
 | **[Zscaler](https://www.zscaler.com)** | **[Product Management Intern, AI](https://jobright.ai/jobs/info/692fc351ef4b48533d148b03?utm_campaign=1047&utm_source=git)** | San Jose, CA | Hybrid | Dec 24 |
@@ -134,10 +134,10 @@ For a complete list, click the following sortable link below:
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Insurance Operations Summer Intern](https://jobright.ai/jobs/info/6945dcead1953b5d11beeeee?utm_campaign=1047&utm_source=git)** | Hartford, CT | On Site | Dec 19 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Cloud Product Release Intern](https://jobright.ai/jobs/info/6945dac863141d1884557a4b?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Dec 19 |
 | **[Zynga](http://www.zynga.com)** | **[Product Manager Intern - Mobile Game Technology](https://jobright.ai/jobs/info/6945da179516540735380aae?utm_campaign=1047&utm_source=git)** | Toronto, Canada | On Site | Dec 19 |
-| **[Advance Auto Parts](https://shop.advanceautoparts.com)** | **[IT Product Intern](https://jobright.ai/jobs/info/6945c58f63141d188455535f?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Dec 19 |
 | **[Geotab](http://www.geotab.com/)** | **[Product Operations Intern (Summer/May 2026, 12 Months)](https://jobright.ai/jobs/info/6945be7763141d1884554b75?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | On Site | Dec 19 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/6945bd9a951654073537da1c?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Dec 19 |
 | **[Oracle](https://www.oracle.com/)** | **[Cloud Product Release Intern](https://jobright.ai/jobs/info/6946864cd1953b5d11bfb247?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Dec 19 |
+| **[Advance Auto Parts](https://shop.advanceautoparts.com)** | **[IT Product Intern](https://jobright.ai/jobs/info/69458601951654073537a00f?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Dec 19 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Technology & Product Strategy Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69457b0ed1953b5d11be7583?utm_campaign=1047&utm_source=git)** | Superior, MI | Hybrid | Dec 19 |
 | **[Blackhawk Network](http://www.blackhawknetwork.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/693143554c474121999ecda3?utm_campaign=1047&utm_source=git)** | Pleasanton, CA | On Site | Dec 19 |
 | **[Relay](https://relaypro.com)** | **[Relay Launchpad Summer 2026 Intern - Product Management](https://jobright.ai/jobs/info/68d68b5dd3fe025a3015a4f4?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Dec 19 |
