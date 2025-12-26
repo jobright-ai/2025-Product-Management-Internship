@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Intern](https://jobright.ai/jobs/info/694e9dd4a2668b7f5451fa11?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 26 |
+| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product Management Intern, US](https://jobright.ai/jobs/info/6932469bf131d96e4845a7ba?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Dec 26 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Credit Card Experiences Product Manager)](https://jobright.ai/jobs/info/692293c1c0cefa13343d85c4?utm_campaign=1047&utm_source=git)** | Pensacola, FL | Hybrid | Dec 26 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product Management Intern, US](https://jobright.ai/jobs/info/6932525f764507023d1ad149?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Dec 26 |
 | **[Tanium](http://www.tanium.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/694202ad14ee092a69001f54?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Dec 26 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/691517bb286ccf0a1512b291?utm_campaign=1047&utm_source=git)** | Nashua, NH | On Site | Dec 26 |
@@ -111,10 +114,10 @@ For a complete list, click the following sortable link below:
 | **[Centric Brands](https://centricbrands.com)** | **[Production/Product Development Intern – Summer 2026 Internship Program](https://jobright.ai/jobs/info/692e69fb4c474121999d94ac?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[Cisco](http://www.cisco.com)** | **[AI Engineering Product Management Specialist I (Intern) - United States](https://jobright.ai/jobs/info/692e78084c474121999d9bc5?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Dec 23 |
 | **[SkyrisAI](https://www.linkedin.com/company/105658415)** | **[Product Manager Intern (User Research Focused)](https://jobright.ai/jobs/info/694a683931c12007d3b91c5c?utm_campaign=1047&utm_source=git)** | United States | Remote | Dec 22 |
+| **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/694a1b977d506e3808f55714?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Dec 22 |
 | **[People Inc.](https://www.people.inc/)** | **[Summer Intern, Product (D/Cipher)](https://jobright.ai/jobs/info/694a113a63141d188459b90b?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 22 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Product Manager (Growth Operations) - Summer 2026 Internship](https://jobright.ai/jobs/info/6949fc39c6f0e2546ceed4f0?utm_campaign=1047&utm_source=git)** | Chicago, IL | Hybrid | Dec 22 |
 | **[KENT WORLDWIDE](https://kentww.com)** | **[PRODUCT DEVELOPMENT INTERN](https://jobright.ai/jobs/info/694b0ff54b53a1551f94c224?utm_campaign=1047&utm_source=git)** | Muscatine, IA | On Site | Dec 22 |
-| **[BillionToOne](https://www.billiontoone.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/694a076b63141d1884599f08?utm_campaign=1047&utm_source=git)** | Menlo Park, CA | On Site | Dec 22 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Product Manager (Growth Operations) - Summer 2026 Internship](https://jobright.ai/jobs/info/694a06917d506e3808f529a7?utm_campaign=1047&utm_source=git)** | Chicago, IL | On Site | Dec 22 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Summer Intern, Product (D/Cipher)](https://jobright.ai/jobs/info/694a143d63141d188459c094?utm_campaign=1047&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Dec 22 |
 | **[Acuity](http://www.acuitybrands.com)** | **[Intern - Product Management Technology](https://jobright.ai/jobs/info/694a032ec6f0e2546ceee7bc?utm_campaign=1047&utm_source=git)** | Atlanta, GA | Hybrid | Dec 22 |
@@ -143,9 +146,4 @@ For a complete list, click the following sortable link below:
 | **[Electric Power Engineers](https://www.epeconsulting.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6945ff617d506e3808f1490d?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Dec 19 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Global Product Intern - Summer 2026](https://jobright.ai/jobs/info/6945fa157d506e3808f13d4d?utm_campaign=1047&utm_source=git)** | St. Louis - Brentwood, Richmond Heights, Clayton, Maplewood & central areas | On Site | Dec 19 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Digital Product Management](https://jobright.ai/jobs/info/6945eb6263141d18845586f2?utm_campaign=1047&utm_source=git)** | Morristown, NJ | On Site | Dec 19 |
-| **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Insurance Operations Summer Intern](https://jobright.ai/jobs/info/6945e7167d506e3808f12c2c?utm_campaign=1047&utm_source=git)** | Jersey City, NJ | Hybrid | Dec 19 |
-| **[Geotab](http://www.geotab.com/)** | **[Product Operations Intern - Core Team(Summer/May 2026, 12 Months)](https://jobright.ai/jobs/info/6945e07663141d1884557f2f?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | On Site | Dec 19 |
-| **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Insurance Operations Summer Intern](https://jobright.ai/jobs/info/6945dcead1953b5d11beeeee?utm_campaign=1047&utm_source=git)** | Hartford, CT | On Site | Dec 19 |
-| **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Cloud Product Release Intern](https://jobright.ai/jobs/info/6945dac863141d1884557a4b?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Dec 19 |
-| **[Zynga](http://www.zynga.com)** | **[Product Manager Intern - Mobile Game Technology](https://jobright.ai/jobs/info/6945da179516540735380aae?utm_campaign=1047&utm_source=git)** | Toronto, Canada | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
