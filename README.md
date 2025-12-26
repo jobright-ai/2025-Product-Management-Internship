@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product Management Intern, US](https://jobright.ai/jobs/info/6932525f764507023d1ad149?utm_campaign=1047&utm_source=git)** | San Francisco, CA | Hybrid | Dec 26 |
+| **[Tanium](http://www.tanium.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/694202ad14ee092a69001f54?utm_campaign=1047&utm_source=git)** | Durham, NC | Hybrid | Dec 26 |
+| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/691517bb286ccf0a1512b291?utm_campaign=1047&utm_source=git)** | Nashua, NH | On Site | Dec 26 |
+| **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/69331a08764507023d1b228f?utm_campaign=1047&utm_source=git)** | Springfield, TN | On Site | Dec 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern [TikTok-Product-Comprehensive Search]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68ccfd0677add66568abd2f4?utm_campaign=1047&utm_source=git)** | San Jose, CA | Remote | Dec 26 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[New Product Development (NPD) Sourcing Intern - Ditch Witch](https://jobright.ai/jobs/info/68cd208f1ad6b16f0289550e?utm_campaign=1047&utm_source=git)** | Noble County, OK | On Site | Dec 26 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Product Management Intern](https://jobright.ai/jobs/info/694d6b8cf5bef51c96eb082f?utm_campaign=1047&utm_source=git)** | Salt Lake City, UT | On Site | Dec 25 |
@@ -136,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Citi](https://www.citi.com)** | **[Internal Audit Technology Product Strategic Advisor Director](https://jobright.ai/jobs/info/6946bb4463141d188456774a?utm_campaign=1047&utm_source=git)** | Tampa, FL | Hybrid | Dec 20 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Product Management Intern](https://jobright.ai/jobs/info/691c8f4622a2cb4b9bd1b534?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL | On Site | Dec 20 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/690d712d4a1b456627b215e5?utm_campaign=1047&utm_source=git)** | Westminster, CO | On Site | Dec 20 |
-| **[BMO](http://www.bmo.com)** | **[Product Associate, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/694e203cd4a7df7a06730a0f?utm_campaign=1047&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 19 |
 | **[Electric Power Engineers](https://www.epeconsulting.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6945ff617d506e3808f1490d?utm_campaign=1047&utm_source=git)** | Austin, TX | On Site | Dec 19 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Global Product Intern - Summer 2026](https://jobright.ai/jobs/info/6945fa157d506e3808f13d4d?utm_campaign=1047&utm_source=git)** | St. Louis - Brentwood, Richmond Heights, Clayton, Maplewood & central areas | On Site | Dec 19 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Digital Product Management](https://jobright.ai/jobs/info/6945eb6263141d18845586f2?utm_campaign=1047&utm_source=git)** | Morristown, NJ | On Site | Dec 19 |
@@ -145,8 +148,4 @@ For a complete list, click the following sortable link below:
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Insurance Operations Summer Intern](https://jobright.ai/jobs/info/6945dcead1953b5d11beeeee?utm_campaign=1047&utm_source=git)** | Hartford, CT | On Site | Dec 19 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Cloud Product Release Intern](https://jobright.ai/jobs/info/6945dac863141d1884557a4b?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Dec 19 |
 | **[Zynga](http://www.zynga.com)** | **[Product Manager Intern - Mobile Game Technology](https://jobright.ai/jobs/info/6945da179516540735380aae?utm_campaign=1047&utm_source=git)** | Toronto, Canada | On Site | Dec 19 |
-| **[Advance Auto Parts](https://shop.advanceautoparts.com)** | **[IT Product Intern](https://jobright.ai/jobs/info/6945c58f63141d188455535f?utm_campaign=1047&utm_source=git)** | Raleigh, NC | On Site | Dec 19 |
-| **[Geotab](http://www.geotab.com/)** | **[Product Operations Intern (Summer/May 2026, 12 Months)](https://jobright.ai/jobs/info/6945be7763141d1884554b75?utm_campaign=1047&utm_source=git)** | Oakville, Ontario - Canada | On Site | Dec 19 |
-| **[Trimble Inc.](http://www.trimble.com)** | **[Product Management Intern - Summer 2026](https://jobright.ai/jobs/info/6945bd9a951654073537da1c?utm_campaign=1047&utm_source=git)** | San Diego, CA | On Site | Dec 19 |
-| **[Oracle](https://www.oracle.com/)** | **[Cloud Product Release Intern](https://jobright.ai/jobs/info/6946864cd1953b5d11bfb247?utm_campaign=1047&utm_source=git)** | United States | Hybrid | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
