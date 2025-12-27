@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coach USA](http://www.coachusa.com)** | **[Commercial Intern](https://jobright.ai/jobs/info/694f195fce13cd105657484f?utm_campaign=1047&utm_source=git)** | Paramus, NJ | Hybrid | Dec 26 |
 | **[Eugenia Kim](https://eugeniakim.com)** | **[Fashion Product Development Intern](https://jobright.ai/jobs/info/694e9dd4a2668b7f5451fa11?utm_campaign=1047&utm_source=git)** | New York, NY | On Site | Dec 26 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Product Management Intern, US](https://jobright.ai/jobs/info/6932469bf131d96e4845a7ba?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Dec 26 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Credit Card Experiences Product Manager)](https://jobright.ai/jobs/info/692293c1c0cefa13343d85c4?utm_campaign=1047&utm_source=git)** | Pensacola, FL | Hybrid | Dec 26 |
@@ -129,7 +130,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate Internship (Product Strategist)](https://jobright.ai/jobs/info/693554e9f131d96e4846df2d?utm_campaign=1047&utm_source=git)** | Vienna, VA | Hybrid | Dec 21 |
 | ↳ | **[Summer Associate Internship (Product Strategist)](https://jobright.ai/jobs/info/6947787a7d506e3808f2bbbe?utm_campaign=1047&utm_source=git)** | Pensacola, FL | Hybrid | Dec 21 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 LAUNCH Program: Data Science Product Manager Intern](https://jobright.ai/jobs/info/68f312cf9a63986de756ec54?utm_campaign=1047&utm_source=git)** | Charlotte, NC | On Site | Dec 21 |
-| **[Zscaler](https://www.zscaler.com)** | **[Product Manager Intern, Cybersecurity](https://jobright.ai/jobs/info/693a105a56b68f3dc4e76da6?utm_campaign=1047&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 21 |
 | **[Ibotta](https://home.ibotta.com)** | **[Product Analytics Intern](https://jobright.ai/jobs/info/68d7574b7a37c712687c9539?utm_campaign=1047&utm_source=git)** | Denver, CO | Hybrid | Dec 21 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Product Management Intern (Summer 2026) - St. Louis, MO](https://jobright.ai/jobs/info/691ab472bcdbf3560c9d9c69?utm_campaign=1047&utm_source=git)** | St Louis, MO | On Site | Dec 21 |
 | **[DRB](https://drb.com)** | **[Product Lifecycle Management Intern - Summer 2026](https://jobright.ai/jobs/info/690e6d1f221b890c2780de6c?utm_campaign=1047&utm_source=git)** | Akron, OH | Hybrid | Dec 21 |
