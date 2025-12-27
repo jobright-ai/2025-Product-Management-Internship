@@ -140,5 +140,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (TikTok Shop Seller Platform) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6916cfe19c388539cbdfecf1?utm_campaign=1047&utm_source=git)** | Seattle, WA | On Site | Dec 21 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[Ecommerce Development Intern](https://jobright.ai/jobs/info/68bb8d655f38327491870378?utm_campaign=1047&utm_source=git)** | Bismarck, ND | On Site | Dec 21 |
 | **[Agropur](http://www.agropur.com/en/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6947c628d1953b5d11c0f81c?utm_campaign=1047&utm_source=git)** | Wisconsin, United States | On Site | Dec 21 |
-| **[Citi](https://www.citi.com)** | **[Internal Audit Technology Product Strategic Advisor Director](https://jobright.ai/jobs/info/6946bb4463141d188456774a?utm_campaign=1047&utm_source=git)** | Tampa, FL | Hybrid | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
