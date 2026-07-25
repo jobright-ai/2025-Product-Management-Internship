@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Governance Strategy Intern (TikTok Product-Content Governance) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a390fcc6484fb75f2b2fce9?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Jul 24 |
 | **[Databricks](https://www.databricks.com)** | **[Product Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6a5908d763a8f619507bfd68?utm_campaign=1047&utm_source=git)** | Bellevue, Washington | On Site | Jul 24 |
 | **[1KOMMA5°](https://1komma5.com/)** | **[Internship Global Product Management (m/f/d)](https://jobright.ai/jobs/info/6a63ac8de8d8d22e3292a008?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 24 |
 | **[BMW Group](https://www.bmwgroup-werke.com)** | **[Product Planning Intern (12 Months)](https://jobright.ai/jobs/info/6a637a29979290281c702584?utm_campaign=1047&utm_source=git)** | Richmond Hill, ON, Canada | On Site | Jul 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Project Intern (Ads Interface and Platform Product) - 2026 Start](https://jobright.ai/jobs/info/6a62d7cf32abf9182432bedf?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Jul 23 |
 | **[University of Oklahoma](http://www.ou.edu)** | **[(FWS) Girl Scouts - Product Program Intern (FALL)](https://jobright.ai/jobs/info/6a62f6fe426d415f66361242?utm_campaign=1047&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jul 23 |
 | **[T. Rowe Price](http://www.troweprice.com)** | **[2027 Global Product Internship Program](https://jobright.ai/jobs/info/6a627e4ac28982326de97189?utm_campaign=1047&utm_source=git)** | Baltimore, MD, United States | Hybrid | Jul 23 |
-| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6a5343638576ec69c014f356?utm_campaign=1047&utm_source=git)** | Dallas, TX - Headquarters, United States of America | On Site | Jul 23 |
-| ↳ | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6a62228bc28982326de94d34?utm_campaign=1047&utm_source=git)** | Dallas, TX, United States | On Site | Jul 23 |
+| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6a62228bc28982326de94d34?utm_campaign=1047&utm_source=git)** | Dallas, TX, United States | On Site | Jul 23 |
+| ↳ | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6a5343638576ec69c014f356?utm_campaign=1047&utm_source=git)** | Dallas, TX - Headquarters, United States of America | On Site | Jul 23 |
 | **[Appian](http://www.appian.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a626314f805ef6ff4232944?utm_campaign=1047&utm_source=git)** | McLean, VA, United States | On Site | Jul 23 |
 | ↳ | **[Product Manager Intern](https://jobright.ai/jobs/info/6a62605ad5caab4af8bad904?utm_campaign=1047&utm_source=git)** | McLean, VA, United States | On Site | Jul 23 |
 | **[Gemini](https://gemini.com)** | **[Product Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a45227d4f64ba41dcb4c5ee?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
