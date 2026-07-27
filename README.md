@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Toshiba Global Commerce Solutions](https://commerce.toshiba.com)** | **[Product & Business Analytics Intern](https://jobright.ai/jobs/info/6a6765183b5e6b116a54e780?utm_campaign=1047&utm_source=git)** | Durham, NC, United States | On Site | Jul 27 |
+| ↳ | **[AI Product Management Intern](https://jobright.ai/jobs/info/6a67651a5d2a117fb9ceb26e?utm_campaign=1047&utm_source=git)** | Durham, NC, United States | On Site | Jul 27 |
 | **[Canada Goose](http://www.canadagoose.com)** | **[Digital Product Creation (3D CLO) Intern (12 Month Contract)](https://jobright.ai/jobs/info/6a6766745d2a117fb9ceb2c1?utm_campaign=1047&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 27 |
-| **[Toshiba Global Commerce Solutions](https://commerce.toshiba.com)** | **[AI Product Management Intern](https://jobright.ai/jobs/info/6a67651a5d2a117fb9ceb26e?utm_campaign=1047&utm_source=git)** | Durham, NC, United States | On Site | Jul 27 |
-| ↳ | **[Product & Business Analytics Intern](https://jobright.ai/jobs/info/6a6765183b5e6b116a54e780?utm_campaign=1047&utm_source=git)** | Durham, NC, United States | On Site | Jul 27 |
 | **[Docking Robotics](https://www.linkedin.com/company/101489811)** | **[Technical Product Manager Intern (Unpaid)](https://jobright.ai/jobs/info/6a6754975d2a117fb9ceaf8e?utm_campaign=1047&utm_source=git)** | Daytona Beach, FL, United States | On Site | Jul 27 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[Product Planning Intern (12 Months)](https://jobright.ai/jobs/info/6a637a29979290281c702584?utm_campaign=1047&utm_source=git)** | Richmond Hill, ON, Canada | On Site | Jul 27 |
 | **[Pendulum](https://www.pendulumintel.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a54a22ec8eb0843027b086a?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 26 |
@@ -73,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Global Product Strategy & Operation Project Intern (Ads Interface and Platform Product) - 2026 Start](https://jobright.ai/jobs/info/6a62d7431ed5b0056a938fff?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Jul 23 |
 | ↳ | **[Product Solutions and Operations Project Intern (Ads Interface and Platform Product) - 2026 Start](https://jobright.ai/jobs/info/6a62d7cf32abf9182432bedf?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Jul 23 |
 | **[University of Oklahoma](http://www.ou.edu)** | **[(FWS) Girl Scouts - Product Program Intern (FALL)](https://jobright.ai/jobs/info/6a62f6fe426d415f66361242?utm_campaign=1047&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jul 23 |
-| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6a62228bc28982326de94d34?utm_campaign=1047&utm_source=git)** | Dallas, TX, United States | On Site | Jul 23 |
-| ↳ | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6a5343638576ec69c014f356?utm_campaign=1047&utm_source=git)** | Dallas, TX - Headquarters, United States of America | On Site | Jul 23 |
+| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6a5e9d03270e3033b045ef06?utm_campaign=1047&utm_source=git)** | Dallas, TX - Headquarters, United States of America | On Site | Jul 23 |
+| ↳ | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6a62228bc28982326de94d34?utm_campaign=1047&utm_source=git)** | Dallas, TX, United States | On Site | Jul 23 |
 | **[Appian](http://www.appian.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a626314f805ef6ff4232944?utm_campaign=1047&utm_source=git)** | McLean, VA, United States | On Site | Jul 23 |
 | ↳ | **[Product Manager Intern](https://jobright.ai/jobs/info/6a62605ad5caab4af8bad904?utm_campaign=1047&utm_source=git)** | McLean, VA, United States | On Site | Jul 23 |
 | **[Gemini](https://gemini.com)** | **[Product Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a45227d4f64ba41dcb4c5ee?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
@@ -84,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Kensington](https://www.kensingtontours.com/ie-upgrade)** | **[Product Intern](https://jobright.ai/jobs/info/6a3ff4693bfa967791ebfb8d?utm_campaign=1047&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 22 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Product Analyst Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/6a51c599bf63b66c7997c6ff?utm_campaign=1047&utm_source=git)** | State College, PA, United States | On Site | Jul 22 |
 | **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[ThingsBook - Product Management Intern](https://jobright.ai/jobs/info/6a5546b0ae07d60a8d0101d7?utm_campaign=1047&utm_source=git)** | Redwood City, CA, United States | Hybrid | Jul 22 |
-| **[Trucker Path](https://truckerpath.com/)** | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/6a5f6cc1b0f20036bc630df0?utm_campaign=1047&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 22 |
-| ↳ | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/6a2d54e8f1751b183c81ac15?utm_campaign=1047&utm_source=git)** | Phoenix,AZ,US | On Site | Jul 22 |
+| **[Trucker Path](https://truckerpath.com/)** | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/6a2d54e8f1751b183c81ac15?utm_campaign=1047&utm_source=git)** | Phoenix,AZ,US | On Site | Jul 22 |
+| ↳ | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/6a58dab5856af468ab0003a0?utm_campaign=1047&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 22 |
 | **[OneEthos](https://www.oneethos.com)** | **[Product Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5a05883ac7627fe9001d02?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Art & Nature Category Management Project Intern (TikTok Shop - Art & Nature) - 2026 Start](https://jobright.ai/jobs/info/6a606444193c4d692385e07f?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Jul 21 |
 | ↳ | **[Product Strategy Analyst Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5fe2026e0c3c7c7d3d9b99?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 21 |
