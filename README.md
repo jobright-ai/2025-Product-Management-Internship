@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kensington](https://www.kensingtontours.com/ie-upgrade)** | **[Intern - Product](https://jobright.ai/jobs/info/6a546d92e726ec56126aa3b3?utm_campaign=1047&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 26 |
 | **[Databricks](https://www.databricks.com)** | **[Product Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6a5908d763a8f619507bfd68?utm_campaign=1047&utm_source=git)** | Bellevue, Washington | On Site | Jul 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Project Intern (Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a432c81c8bca56ab22459cb?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Jul 25 |
 | ↳ | **[Methodology Product Operations Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a651cf58d53603449607947?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Jul 25 |
@@ -79,7 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Kensington](https://www.kensingtontours.com/ie-upgrade)** | **[Product Intern](https://jobright.ai/jobs/info/6a3ff4693bfa967791ebfb8d?utm_campaign=1047&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 22 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Product Analyst Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/6a51c599bf63b66c7997c6ff?utm_campaign=1047&utm_source=git)** | State College, PA, United States | On Site | Jul 22 |
 | **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[ThingsBook - Product Management Intern](https://jobright.ai/jobs/info/6a5546b0ae07d60a8d0101d7?utm_campaign=1047&utm_source=git)** | Redwood City, CA, United States | Hybrid | Jul 22 |
-| **[Trucker Path](https://truckerpath.com/)** | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/6a58dab5856af468ab0003a0?utm_campaign=1047&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 22 |
+| **[Trucker Path](https://truckerpath.com/)** | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/6a564e76f7517b519ad54de8?utm_campaign=1047&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 22 |
 | ↳ | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/6a2d54e8f1751b183c81ac15?utm_campaign=1047&utm_source=git)** | Phoenix,AZ,US | On Site | Jul 22 |
 | **[OneEthos](https://www.oneethos.com)** | **[Product Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5a05883ac7627fe9001d02?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Art & Nature Category Management Project Intern (TikTok Shop - Art & Nature) - 2026 Start](https://jobright.ai/jobs/info/6a606444193c4d692385e07f?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Jul 21 |
