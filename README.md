@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canada Goose](http://www.canadagoose.com)** | **[Digital Product Creation (3D CLO) Intern (12 Month Contract)](https://jobright.ai/jobs/info/6a6766745d2a117fb9ceb2c1?utm_campaign=1047&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 27 |
+| **[Toshiba Global Commerce Solutions](https://commerce.toshiba.com)** | **[AI Product Management Intern](https://jobright.ai/jobs/info/6a67651a5d2a117fb9ceb26e?utm_campaign=1047&utm_source=git)** | Durham, NC, United States | On Site | Jul 27 |
+| ↳ | **[Product & Business Analytics Intern](https://jobright.ai/jobs/info/6a6765183b5e6b116a54e780?utm_campaign=1047&utm_source=git)** | Durham, NC, United States | On Site | Jul 27 |
+| **[Docking Robotics](https://www.linkedin.com/company/101489811)** | **[Technical Product Manager Intern (Unpaid)](https://jobright.ai/jobs/info/6a6754975d2a117fb9ceaf8e?utm_campaign=1047&utm_source=git)** | Daytona Beach, FL, United States | On Site | Jul 27 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[Product Planning Intern (12 Months)](https://jobright.ai/jobs/info/6a637a29979290281c702584?utm_campaign=1047&utm_source=git)** | Richmond Hill, ON, Canada | On Site | Jul 27 |
 | **[Pendulum](https://www.pendulumintel.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a54a22ec8eb0843027b086a?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 26 |
 | **[KHAITE](https://khaite.com/)** | **[Product Development, Non-Apparel Intern, Fall 2026](https://jobright.ai/jobs/info/6a66f184e8d8d22e32930ecd?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Jul 26 |
@@ -64,8 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Databricks](https://www.databricks.com)** | **[Product Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6a5908d763a8f619507bfd68?utm_campaign=1047&utm_source=git)** | Bellevue, Washington | On Site | Jul 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Project Intern (Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a432c81c8bca56ab22459cb?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Jul 25 |
 | ↳ | **[Methodology Product Operations Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a651cf58d53603449607947?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Jul 25 |
-| **[ROCKWOOL Group](https://www.rockwoolgroup.com/)** | **[Product Management - Intern](https://jobright.ai/jobs/info/6a5fa2f28c7fd835513ba0e6?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | On Site | Jul 25 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (TikTok-Product-Search Evaluation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a432c85cbf92c7bcd36e061?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Jul 25 |
+| ↳ | **[Product Manager Intern (TikTok-Product-Search Evaluation) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a432c85cbf92c7bcd36e061?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Jul 25 |
 | **[1KOMMA5°](https://1komma5.com/)** | **[Internship Global Product Management (m/f/d)](https://jobright.ai/jobs/info/6a63ac8de8d8d22e3292a008?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Global Product Strategy & Operation Project Intern (Ads Interface and Platform Product) - 2026 Start](https://jobright.ai/jobs/info/6a62d7431ed5b0056a938fff?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Jul 23 |
 | ↳ | **[Product Solutions and Operations Project Intern (Ads Interface and Platform Product) - 2026 Start](https://jobright.ai/jobs/info/6a62d7cf32abf9182432bedf?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Jul 23 |
