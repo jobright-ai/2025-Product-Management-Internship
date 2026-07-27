@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Instawork](https://www.instawork.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a07044e1f7fa33581c9ac2c?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 27 |
-| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/69bdbe95b10602456282d5fc?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 27 |
 | ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a56854d21f64463ad3552c5?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 27 |
+| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/69bdbe95b10602456282d5fc?utm_campaign=1047&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 27 |
 | **[Toshiba Global Commerce Solutions](https://commerce.toshiba.com)** | **[Product & Business Analytics Intern](https://jobright.ai/jobs/info/6a6765183b5e6b116a54e780?utm_campaign=1047&utm_source=git)** | Durham, NC, United States | On Site | Jul 27 |
 | ↳ | **[AI Product Management Intern](https://jobright.ai/jobs/info/6a67651a5d2a117fb9ceb26e?utm_campaign=1047&utm_source=git)** | Durham, NC, United States | On Site | Jul 27 |
 | **[Canada Goose](http://www.canadagoose.com)** | **[Digital Product Creation (3D CLO) Intern (12 Month Contract)](https://jobright.ai/jobs/info/6a6766745d2a117fb9ceb2c1?utm_campaign=1047&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 27 |
@@ -76,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Global Product Strategy & Operation Project Intern (Ads Interface and Platform Product) - 2026 Start](https://jobright.ai/jobs/info/6a62d7431ed5b0056a938fff?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Jul 23 |
 | ↳ | **[Product Solutions and Operations Project Intern (Ads Interface and Platform Product) - 2026 Start](https://jobright.ai/jobs/info/6a62d7cf32abf9182432bedf?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Jul 23 |
 | **[University of Oklahoma](http://www.ou.edu)** | **[(FWS) Girl Scouts - Product Program Intern (FALL)](https://jobright.ai/jobs/info/6a62f6fe426d415f66361242?utm_campaign=1047&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jul 23 |
-| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6a62228bc28982326de94d34?utm_campaign=1047&utm_source=git)** | Dallas, TX, United States | On Site | Jul 23 |
-| ↳ | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6a46324ec2d11a6a4666d067?utm_campaign=1047&utm_source=git)** | Dallas, TX - Headquarters, United States of America | On Site | Jul 23 |
+| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6a5343638576ec69c014f356?utm_campaign=1047&utm_source=git)** | Dallas, TX - Headquarters, United States of America | On Site | Jul 23 |
+| ↳ | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6a62228bc28982326de94d34?utm_campaign=1047&utm_source=git)** | Dallas, TX, United States | On Site | Jul 23 |
 | **[Appian](http://www.appian.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a626314f805ef6ff4232944?utm_campaign=1047&utm_source=git)** | McLean, VA, United States | On Site | Jul 23 |
 | ↳ | **[Product Manager Intern](https://jobright.ai/jobs/info/6a62605ad5caab4af8bad904?utm_campaign=1047&utm_source=git)** | McLean, VA, United States | On Site | Jul 23 |
 | **[Gemini](https://gemini.com)** | **[Product Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a45227d4f64ba41dcb4c5ee?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
