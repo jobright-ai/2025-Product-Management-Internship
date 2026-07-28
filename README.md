@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hector Kitchen](https://hectorkitchen.com)** | **[Founder’s Associate Intern](https://jobright.ai/jobs/info/6a67d94b2bda4d2842855ff5?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 27 |
 | **[Toshiba Global Commerce Solutions](https://commerce.toshiba.com)** | **[AI Product Management Intern](https://jobright.ai/jobs/info/6a67651a5d2a117fb9ceb26e?utm_campaign=1047&utm_source=git)** | Durham, NC, United States | Hybrid | Jul 27 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Digital Platforms Intern](https://jobright.ai/jobs/info/6a67c29f5d2a117fb9ced25a?utm_campaign=1047&utm_source=git)** | Atlanta, Georgia, United States | Hybrid | Jul 27 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6a67c25f2bda4d2842855984?utm_campaign=1047&utm_source=git)** | Woodbridge, NJ, United States | On Site | Jul 27 |
@@ -89,7 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Kensington](https://www.kensingtontours.com/ie-upgrade)** | **[Product Intern](https://jobright.ai/jobs/info/6a3ff4693bfa967791ebfb8d?utm_campaign=1047&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 22 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Product Analyst Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/6a51c599bf63b66c7997c6ff?utm_campaign=1047&utm_source=git)** | State College, PA, United States | On Site | Jul 22 |
 | **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[ThingsBook - Product Management Intern](https://jobright.ai/jobs/info/6a5546b0ae07d60a8d0101d7?utm_campaign=1047&utm_source=git)** | Redwood City, CA, United States | Hybrid | Jul 22 |
-| **[Trucker Path](https://truckerpath.com/)** | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/6a58dab5856af468ab0003a0?utm_campaign=1047&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 22 |
+| **[Trucker Path](https://truckerpath.com/)** | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/6a5f6cc1b0f20036bc630df0?utm_campaign=1047&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 22 |
 | ↳ | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/6a2d54e8f1751b183c81ac15?utm_campaign=1047&utm_source=git)** | Phoenix,AZ,US | On Site | Jul 22 |
 | **[OneEthos](https://www.oneethos.com)** | **[Product Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5a05883ac7627fe9001d02?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Art & Nature Category Management Project Intern (TikTok Shop - Art & Nature) - 2026 Start](https://jobright.ai/jobs/info/6a606444193c4d692385e07f?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Jul 21 |
