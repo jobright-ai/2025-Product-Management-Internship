@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Toshiba Global Commerce Solutions](https://commerce.toshiba.com)** | **[Product & Business Analytics Intern](https://jobright.ai/jobs/info/6a6765183b5e6b116a54e780?utm_campaign=1047&utm_source=git)** | Durham, NC, United States | Hybrid | Jul 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (TikTok-PGC) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a2f9ccf093df201d07ae28b?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Jul 29 |
 | **[Bosch](http://www.bosch.com)** | **[Product Management Internship (6-month)](https://jobright.ai/jobs/info/6a69fcf248355b3f12bee677?utm_campaign=1047&utm_source=git)** | Farmington Hills, MI, United States | Hybrid | Jul 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a69f308c63ba56308f507c7?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Jul 29 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Digital Platforms Intern](https://jobright.ai/jobs/info/6a67c29f5d2a117fb9ced25a?utm_campaign=1047&utm_source=git)** | Atlanta, Georgia, United States | Hybrid | Jul 27 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6a67c25f2bda4d2842855984?utm_campaign=1047&utm_source=git)** | Woodbridge, NJ, United States | On Site | Jul 27 |
 | **[Canada Goose](http://www.canadagoose.com)** | **[Digital Product Creation (3D CLO) Intern (12 Month Contract)](https://jobright.ai/jobs/info/6a6766745d2a117fb9ceb2c1?utm_campaign=1047&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 27 |
-| **[Toshiba Global Commerce Solutions](https://commerce.toshiba.com)** | **[Product & Business Analytics Intern](https://jobright.ai/jobs/info/6a6765183b5e6b116a54e780?utm_campaign=1047&utm_source=git)** | Durham, NC, United States | On Site | Jul 27 |
 | **[Docking Robotics](https://www.linkedin.com/company/101489811)** | **[Technical Product Manager Intern (Unpaid)](https://jobright.ai/jobs/info/6a6754975d2a117fb9ceaf8e?utm_campaign=1047&utm_source=git)** | Daytona Beach, FL, United States | On Site | Jul 27 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[Product Planning Intern (12 Months)](https://jobright.ai/jobs/info/6a637a29979290281c702584?utm_campaign=1047&utm_source=git)** | Richmond Hill, ON, Canada | On Site | Jul 27 |
 | **[Pendulum](https://www.pendulumintel.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a54a22ec8eb0843027b086a?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 26 |
