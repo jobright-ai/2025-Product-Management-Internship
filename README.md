@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (TikTok-PGC) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a2f9ccf093df201d07ae28b?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Jul 29 |
 | **[Bosch](http://www.bosch.com)** | **[Product Management Internship (6-month)](https://jobright.ai/jobs/info/6a69fcf248355b3f12bee677?utm_campaign=1047&utm_source=git)** | Farmington Hills, MI, United States | Hybrid | Jul 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a69f308c63ba56308f507c7?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Jul 29 |
 | **[Texas Instruments](http://www.ti.com)** | **[Product Operations Analyst - Encore Program Internship](https://jobright.ai/jobs/info/6a691a523b549b0b531d3f25?utm_campaign=1047&utm_source=git)** | Dallas, TX, United States | On Site | Jul 28 |
@@ -89,5 +90,4 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[OH Product Manager Intern - OVIP](https://jobright.ai/jobs/info/6a51c507ae4052672fe9a89e?utm_campaign=1047&utm_source=git)** | Kansas City, MO, United States | On Site | Jul 23 |
 | **[Kensington](https://www.kensingtontours.com/ie-upgrade)** | **[Product Intern](https://jobright.ai/jobs/info/6a3ff4693bfa967791ebfb8d?utm_campaign=1047&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 22 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Product Analyst Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/6a51c599bf63b66c7997c6ff?utm_campaign=1047&utm_source=git)** | State College, PA, United States | On Site | Jul 22 |
-| **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[ThingsBook - Product Management Intern](https://jobright.ai/jobs/info/6a5546b0ae07d60a8d0101d7?utm_campaign=1047&utm_source=git)** | Redwood City, CA, United States | Hybrid | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
