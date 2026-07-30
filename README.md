@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nerveli](https://www.getnerveli.com/)** | **[Product Strategy & Coordination Intern](https://jobright.ai/jobs/info/6a6b699f5c54bc4752ce8cfe?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 30 |
+| **[Jasper Engines & Transmissions](https://www.jasperengines.com)** | **[HS WBL Intern: Product Development](https://jobright.ai/jobs/info/6a6b689f5c54bc4752ce8cb9?utm_campaign=1047&utm_source=git)** | Jasper, IN, United States | On Site | Jul 30 |
+| **[McKesson](http://www.mckesson.com)** | **[Product Business Analyst Intern - Fall 2026](https://jobright.ai/jobs/info/6a4d3bf699523700cbff4e0c?utm_campaign=1047&utm_source=git)** | CAN, ON, Mississauga, Canada | Hybrid | Jul 30 |
+| **[Relay](https://relaypro.com)** | **[Product & Strategy Intern](https://jobright.ai/jobs/info/6a6b4f565c54bc4752ce83e2?utm_campaign=1047&utm_source=git)** | Raleigh, NC, United States | Hybrid | Jul 30 |
+| **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[New Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/6a29acd30c4972328e7e50df?utm_campaign=1047&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 30 |
 | **[Centerfield](http://www.centerfield.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a2b4d7f2cde2824469c6167?utm_campaign=1047&utm_source=git)** | Los Angeles, California | Hybrid | Jul 30 |
 | ↳ | **[Product Manager Intern](https://jobright.ai/jobs/info/6a56a5f2f7517b519ad5744b?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Jul 30 |
 | **[Trucker Path](https://truckerpath.com/)** | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/6a5f6cc1b0f20036bc630df0?utm_campaign=1047&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 30 |
