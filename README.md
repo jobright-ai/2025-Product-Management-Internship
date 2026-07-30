@@ -92,5 +92,4 @@ For a complete list, click the following sortable link below:
 | **[1KOMMA5°](https://1komma5.com/)** | **[Internship Global Product Management (m/f/d)](https://jobright.ai/jobs/info/6a63ac8de8d8d22e3292a008?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Global Product Strategy & Operation Project Intern (Ads Interface and Platform Product) - 2026 Start](https://jobright.ai/jobs/info/6a62d7431ed5b0056a938fff?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Jul 23 |
 | ↳ | **[Product Solutions and Operations Project Intern (Ads Interface and Platform Product) - 2026 Start](https://jobright.ai/jobs/info/6a62d7cf32abf9182432bedf?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Jul 23 |
-| **[University of Oklahoma](http://www.ou.edu)** | **[(FWS) Girl Scouts - Product Program Intern (FALL)](https://jobright.ai/jobs/info/6a62f6fe426d415f66361242?utm_campaign=1047&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
