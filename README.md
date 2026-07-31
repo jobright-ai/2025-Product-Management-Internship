@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[First Solar](http://www.firstsolar.com)** | **[Product and Technology Intern (Fall 2026)](https://jobright.ai/jobs/info/6a6cff9d57120971bf3ae623?utm_campaign=1047&utm_source=git)** | Perrysburg, OH, United States | On Site | Jul 31 |
+| **[Databricks](https://www.databricks.com)** | **[Product Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6a5908d763a8f619507bfd68?utm_campaign=1047&utm_source=git)** | Bellevue, Washington | On Site | Jul 31 |
 | **[New York Post](http://nypost.com/)** | **[Product Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a6cf6d932f9300c3a3e6461?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
+| **[First Solar](http://www.firstsolar.com)** | **[Product and Technology Intern (Fall 2026)](https://jobright.ai/jobs/info/6a6cff9d57120971bf3ae623?utm_campaign=1047&utm_source=git)** | Perrysburg, OH, United States | On Site | Jul 31 |
 | **[Skydio](https://www.skydio.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a6ceeaa5c54bc4752cf02e3?utm_campaign=1047&utm_source=git)** | San Mateo, CA, United States | On Site | Jul 31 |
 | **[Relay](https://relaypro.com)** | **[Product & Strategy Intern (Summer 2027 Opportunity)](https://jobright.ai/jobs/info/6a6ce98357120971bf3ade41?utm_campaign=1047&utm_source=git)** | Raleigh, NC, United States | On Site | Jul 31 |
 | **[Gemini](https://gemini.com)** | **[Product Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a50b9415165966a1161b4eb?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Jul 31 |
@@ -83,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Bosch](http://www.bosch.com)** | **[Product Management Internship (6-month)](https://jobright.ai/jobs/info/6a69fcf248355b3f12bee677?utm_campaign=1047&utm_source=git)** | Farmington Hills, MI, United States | Hybrid | Jul 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a69f308c63ba56308f507c7?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Jul 29 |
 | **[Texas Instruments](http://www.ti.com)** | **[Product Operations Analyst - Encore Program Internship](https://jobright.ai/jobs/info/6a691a523b549b0b531d3f25?utm_campaign=1047&utm_source=git)** | Dallas, TX, United States | On Site | Jul 28 |
-| **[Databricks](https://www.databricks.com)** | **[Product Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6a5908d763a8f619507bfd68?utm_campaign=1047&utm_source=git)** | Bellevue, Washington | On Site | Jul 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations project Intern (Ads Interface and Platform Product ) - 2026 Start](https://jobright.ai/jobs/info/6a6815202bf1fb2b71928606?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Jul 27 |
 | **[Hector Kitchen](https://hectorkitchen.com)** | **[Founder’s Associate Intern](https://jobright.ai/jobs/info/6a67d94b2bda4d2842855ff5?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 27 |
 | **[Toshiba Global Commerce Solutions](https://commerce.toshiba.com)** | **[AI Product Management Intern](https://jobright.ai/jobs/info/6a67651a5d2a117fb9ceb26e?utm_campaign=1047&utm_source=git)** | Durham, NC, United States | Hybrid | Jul 27 |
