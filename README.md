@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jacques Marie Mage](https://jacquesmariemage.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6a6d1e5eacb0a61f9dbc9094?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 31 |
+| **[Relay](https://relaypro.com)** | **[Product & Strategy Intern (Summer 2027 Opportunity)](https://jobright.ai/jobs/info/6a6ce98357120971bf3ade41?utm_campaign=1047&utm_source=git)** | Raleigh, NC, United States | On Site | Jul 31 |
 | **[Databricks](https://www.databricks.com)** | **[Product Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6a5908d763a8f619507bfd68?utm_campaign=1047&utm_source=git)** | Bellevue, Washington | On Site | Jul 31 |
 | **[New York Post](http://nypost.com/)** | **[Product Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a6cf6d932f9300c3a3e6461?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
 | **[First Solar](http://www.firstsolar.com)** | **[Product and Technology Intern (Fall 2026)](https://jobright.ai/jobs/info/6a6cff9d57120971bf3ae623?utm_campaign=1047&utm_source=git)** | Perrysburg, OH, United States | On Site | Jul 31 |
 | **[Skydio](https://www.skydio.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a6ceeaa5c54bc4752cf02e3?utm_campaign=1047&utm_source=git)** | San Mateo, CA, United States | On Site | Jul 31 |
-| **[Relay](https://relaypro.com)** | **[Product & Strategy Intern (Summer 2027 Opportunity)](https://jobright.ai/jobs/info/6a6ce98357120971bf3ade41?utm_campaign=1047&utm_source=git)** | Raleigh, NC, United States | On Site | Jul 31 |
 | **[Gemini](https://gemini.com)** | **[Product Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a50b9415165966a1161b4eb?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Jul 31 |
 | ↳ | **[Product Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a45227d4f64ba41dcb4c5ee?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jul 31 |
 | **[Denari](https://denari.ai)** | **[Summer '26 Product & Software Internship](https://jobright.ai/jobs/info/6a55c72b14f1040fa611baef?utm_campaign=1047&utm_source=git)** | Madison, WI, United States | Remote | Jul 30 |
