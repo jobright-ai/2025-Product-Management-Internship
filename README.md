@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Denari](https://denari.ai)** | **[Summer '26 Product & Software Internship](https://jobright.ai/jobs/info/6a55c72b14f1040fa611baef?utm_campaign=1047&utm_source=git)** | Madison, WI, United States | Remote | Jul 30 |
 | **[1KOMMA5°](https://1komma5.com/)** | **[Internship Product Management Energy Products & Tariffs (m/f/d)](https://jobright.ai/jobs/info/6a6b95c532f9300c3a3dfbb4?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Relay](https://relaypro.com)** | **[Product & Strategy Intern](https://jobright.ai/jobs/info/6a6b4f565c54bc4752ce83e2?utm_campaign=1047&utm_source=git)** | Raleigh, NC, United States | Hybrid | Jul 30 |
 | **[Nerveli](https://www.getnerveli.com/)** | **[Product Strategy & Coordination Intern](https://jobright.ai/jobs/info/6a6b699f5c54bc4752ce8cfe?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 30 |
