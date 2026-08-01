@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KHAITE](https://khaite.com/)** | **[Product Development, Non-Apparel Intern, Fall 2026](https://jobright.ai/jobs/info/6a66f184e8d8d22e32930ecd?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Aug 01 |
+| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6a5e9d03270e3033b045ef06?utm_campaign=1047&utm_source=git)** | Dallas, TX - Headquarters, United States of America | On Site | Aug 01 |
 | **[Jacques Marie Mage](https://jacquesmariemage.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6a6d1e5eacb0a61f9dbc9094?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 31 |
 | **[Relay](https://relaypro.com)** | **[Product & Strategy Intern (Summer 2027 Opportunity)](https://jobright.ai/jobs/info/6a6ce98357120971bf3ade41?utm_campaign=1047&utm_source=git)** | Raleigh, NC, United States | On Site | Jul 31 |
 | **[Databricks](https://www.databricks.com)** | **[Product Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6a5908d763a8f619507bfd68?utm_campaign=1047&utm_source=git)** | Bellevue, Washington | On Site | Jul 31 |
@@ -73,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Jasper Engines & Transmissions](https://www.jasperengines.com)** | **[HS WBL Intern: Product Development](https://jobright.ai/jobs/info/6a6b689f5c54bc4752ce8cb9?utm_campaign=1047&utm_source=git)** | Jasper, IN, United States | On Site | Jul 30 |
 | **[McKesson](http://www.mckesson.com)** | **[Product Business Analyst Intern - Fall 2026](https://jobright.ai/jobs/info/6a4d3bf699523700cbff4e0c?utm_campaign=1047&utm_source=git)** | CAN, ON, Mississauga, Canada | Hybrid | Jul 30 |
 | **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[New Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/6a29acd30c4972328e7e50df?utm_campaign=1047&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 30 |
-| **[Centerfield](http://www.centerfield.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a56a5f2f7517b519ad5744b?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Jul 30 |
-| ↳ | **[Product Manager Intern](https://jobright.ai/jobs/info/6a2b4d7f2cde2824469c6167?utm_campaign=1047&utm_source=git)** | Los Angeles, California | Hybrid | Jul 30 |
+| **[Centerfield](http://www.centerfield.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a2b4d7f2cde2824469c6167?utm_campaign=1047&utm_source=git)** | Los Angeles, California | Hybrid | Jul 30 |
+| ↳ | **[Product Manager Intern](https://jobright.ai/jobs/info/6a56a5f2f7517b519ad5744b?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Jul 30 |
 | **[Trucker Path](https://truckerpath.com/)** | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/6a5f6cc1b0f20036bc630df0?utm_campaign=1047&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategy Analyst Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a6b276a57120971bf3a5594?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Jul 30 |
 | **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[ThingsBook - Product Management Intern](https://jobright.ai/jobs/info/6a6b250057120971bf3a51a6?utm_campaign=1047&utm_source=git)** | Redwood City, CA, United States | Hybrid | Jul 30 |
@@ -93,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Product Analyst Intern](https://jobright.ai/jobs/info/6a67c25f2bda4d2842855984?utm_campaign=1047&utm_source=git)** | Woodbridge, NJ, United States | On Site | Jul 27 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[Product Planning Intern (12 Months)](https://jobright.ai/jobs/info/6a637a29979290281c702584?utm_campaign=1047&utm_source=git)** | Richmond Hill, ON, Canada | On Site | Jul 27 |
 | **[Pendulum](https://www.pendulumintel.com/)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a54a22ec8eb0843027b086a?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 26 |
-| **[KHAITE](https://khaite.com/)** | **[Product Development, Non-Apparel Intern, Fall 2026](https://jobright.ai/jobs/info/6a66f184e8d8d22e32930ecd?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Jul 26 |
 | **[Kensington](https://www.kensingtontours.com/ie-upgrade)** | **[Intern - Product](https://jobright.ai/jobs/info/6a546d92e726ec56126aa3b3?utm_campaign=1047&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Project Intern (Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a432c81c8bca56ab22459cb?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
