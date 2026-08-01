@@ -96,5 +96,4 @@ For a complete list, click the following sortable link below:
 | **[KHAITE](https://khaite.com/)** | **[Product Development, Non-Apparel Intern, Fall 2026](https://jobright.ai/jobs/info/6a66f184e8d8d22e32930ecd?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Jul 26 |
 | **[Kensington](https://www.kensingtontours.com/ie-upgrade)** | **[Intern - Product](https://jobright.ai/jobs/info/6a546d92e726ec56126aa3b3?utm_campaign=1047&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Project Intern (Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a432c81c8bca56ab22459cb?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Jul 25 |
-| ↳ | **[Methodology Product Operations Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a651cf58d53603449607947?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
