@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trucker Path](https://truckerpath.com/)** | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/6a58dab5856af468ab0003a0?utm_campaign=1047&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 02 |
 | **[Relay](https://relaypro.com)** | **[Product & Strategy Intern (Fall 2026 & Spring 2027 Opportunity)](https://jobright.ai/jobs/info/6a6b4f565c54bc4752ce83e2?utm_campaign=1047&utm_source=git)** | Raleigh, NC, United States | Hybrid | Aug 01 |
 | **[Enchanté Living](https://enchliving.com)** | **[Market Research & Product Development Intern – Home Products](https://jobright.ai/jobs/info/6a6e5113cd3bac13d3707012?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Aug 01 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/69c14cdf2c312363dcd411a8?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Aug 01 |
