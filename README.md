@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2027 Product Development, US Consumer Services - New York, NY](https://jobright.ai/jobs/info/6a70ad8b357dfc6ff2b3a51b?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Aug 03 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Manager: Internship Opportunities](https://jobright.ai/jobs/info/6a70a0d71003bd7b70d6b745?utm_campaign=1047&utm_source=git)** | Redmond, WA, United States | On Site | Aug 03 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2027 Product Development, US Consumer Services - New York, NY](https://jobright.ai/jobs/info/6a70a0d202d93145bf88b188?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Aug 03 |
 | **[Blidz](https://home.blidz.com)** | **[Product & Data Analytics (Full time) Intern](https://jobright.ai/jobs/info/6a704c1ed4735b7dbbccdc50?utm_campaign=1047&utm_source=git)** | Austin, TX, United States | Hybrid | Aug 02 |
@@ -94,5 +95,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a69f308c63ba56308f507c7?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Jul 29 |
 | **[Texas Instruments](http://www.ti.com)** | **[Product Operations Analyst - Encore Program Internship](https://jobright.ai/jobs/info/6a691a523b549b0b531d3f25?utm_campaign=1047&utm_source=git)** | Dallas, TX, United States | On Site | Jul 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations project Intern (Ads Interface and Platform Product ) - 2026 Start](https://jobright.ai/jobs/info/6a6815202bf1fb2b71928606?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Jul 27 |
-| **[Hector Kitchen](https://hectorkitchen.com)** | **[Founder’s Associate Intern](https://jobright.ai/jobs/info/6a67d94b2bda4d2842855ff5?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
