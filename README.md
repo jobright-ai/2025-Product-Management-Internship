@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2027 Product Development, US Consumer Services - New York, NY](https://jobright.ai/jobs/info/6a70ad8b357dfc6ff2b3a51b?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Aug 03 |
+| **[PNC](http://www.pnc.com)** | **[Product Innovation Undergraduate Intern](https://jobright.ai/jobs/info/6a70be63cb96192a368453ab?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 03 |
+| **[GenAIx](https://genaix.org)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a70bab9357dfc6ff2b3a989?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 03 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Manager: Internship Opportunities](https://jobright.ai/jobs/info/6a70a0d71003bd7b70d6b745?utm_campaign=1047&utm_source=git)** | Redmond, WA, United States | On Site | Aug 03 |
-| **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2027 Product Development, US Consumer Services - New York, NY](https://jobright.ai/jobs/info/6a70a0d202d93145bf88b188?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Aug 03 |
 | **[Blidz](https://home.blidz.com)** | **[Product & Data Analytics (Full time) Intern](https://jobright.ai/jobs/info/6a704c1ed4735b7dbbccdc50?utm_campaign=1047&utm_source=git)** | Austin, TX, United States | Hybrid | Aug 02 |
 | **[Littelfuse](http://www.littelfuse.com)** | **[Product Management Intern, Industrial Circuit Protection](https://jobright.ai/jobs/info/6a5773df21f64463ad359380?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | On Site | Aug 02 |
 | **[Relay](https://relaypro.com)** | **[Product & Strategy Intern (Fall 2026 & Spring 2027 Opportunity)](https://jobright.ai/jobs/info/6a6b4f565c54bc4752ce83e2?utm_campaign=1047&utm_source=git)** | Raleigh, NC, United States | Hybrid | Aug 01 |
@@ -78,7 +78,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a45227d4f64ba41dcb4c5ee?utm_campaign=1047&utm_source=git)** | New York, NY | Hybrid | Jul 31 |
 | **[Denari](https://denari.ai)** | **[Summer '26 Product & Software Internship](https://jobright.ai/jobs/info/6a55c72b14f1040fa611baef?utm_campaign=1047&utm_source=git)** | Madison, WI, United States | Remote | Jul 30 |
 | **[1KOMMA5°](https://1komma5.com/)** | **[Internship Product Management Energy Products & Tariffs (m/f/d)](https://jobright.ai/jobs/info/6a6b95c532f9300c3a3dfbb4?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 30 |
-| **[Nerveli](https://www.getnerveli.com/)** | **[Product Strategy & Coordination Intern](https://jobright.ai/jobs/info/6a6b699f5c54bc4752ce8cfe?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Jasper Engines & Transmissions](https://www.jasperengines.com)** | **[HS WBL Intern: Product Development](https://jobright.ai/jobs/info/6a6b689f5c54bc4752ce8cb9?utm_campaign=1047&utm_source=git)** | Jasper, IN, United States | On Site | Jul 30 |
 | **[McKesson](http://www.mckesson.com)** | **[Product Business Analyst Intern - Fall 2026](https://jobright.ai/jobs/info/6a4d3bf699523700cbff4e0c?utm_campaign=1047&utm_source=git)** | CAN, ON, Mississauga, Canada | Hybrid | Jul 30 |
 | **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[New Product Development Intern – Summer 2026](https://jobright.ai/jobs/info/6a29acd30c4972328e7e50df?utm_campaign=1047&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 30 |
