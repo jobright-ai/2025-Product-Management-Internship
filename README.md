@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Microsoft](https://www.microsoft.com)** | **[Product Manager: Internship Opportunities](https://jobright.ai/jobs/info/6a70303bf5953013637f7657?utm_campaign=1047&utm_source=git)** | Redmond, WA, United States | On Site | Aug 03 |
+| **[Microsoft](https://www.microsoft.com)** | **[Product Manager: Internship Opportunities](https://jobright.ai/jobs/info/6a70a0d71003bd7b70d6b745?utm_campaign=1047&utm_source=git)** | Redmond, WA, United States | On Site | Aug 03 |
+| **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2027 Product Development, US Consumer Services - New York, NY](https://jobright.ai/jobs/info/6a70a0d202d93145bf88b188?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Aug 03 |
 | **[Blidz](https://home.blidz.com)** | **[Product & Data Analytics (Full time) Intern](https://jobright.ai/jobs/info/6a704c1ed4735b7dbbccdc50?utm_campaign=1047&utm_source=git)** | Austin, TX, United States | Hybrid | Aug 02 |
 | **[Littelfuse](http://www.littelfuse.com)** | **[Product Management Intern, Industrial Circuit Protection](https://jobright.ai/jobs/info/6a5773df21f64463ad359380?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | On Site | Aug 02 |
 | **[Relay](https://relaypro.com)** | **[Product & Strategy Intern (Fall 2026 & Spring 2027 Opportunity)](https://jobright.ai/jobs/info/6a6b4f565c54bc4752ce83e2?utm_campaign=1047&utm_source=git)** | Raleigh, NC, United States | Hybrid | Aug 01 |
