@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[PNC](http://www.pnc.com)** | **[Product Innovation Undergraduate Intern](https://jobright.ai/jobs/info/6a70be63cb96192a368453ab?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 03 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2027 Product Management, Global Commercial Services - New York, NY](https://jobright.ai/jobs/info/6a7146599a0ca4480c7d3a63?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Aug 03 |
+| **[PNC](http://www.pnc.com)** | **[Product Innovation Undergraduate Intern](https://jobright.ai/jobs/info/6a70be63cb96192a368453ab?utm_campaign=1047&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 03 |
 | **[Azazie, Inc.](http://www.azazie.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a2a56800c4972328e7e8635?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | Hybrid | Aug 03 |
 | **[StudyFetch](https://www.studyfetch.com/)** | **[Product Intern](https://jobright.ai/jobs/info/6a70fa239a0ca4480c7d23b0?utm_campaign=1047&utm_source=git)** | Beverly Hills, CA, United States | On Site | Aug 03 |
 | **[R2](https://www.r2.co)** | **[Product Operations Intern (LatAm Only)](https://jobright.ai/jobs/info/6a70c438cb96192a3684564c?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 03 |
