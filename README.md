@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (TikTok Shop Apps and API) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a7284f8e2b7476e7b213b46?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Aug 04 |
+| ↳ | **[Data Science Intern (TikTok Product) - 2027 Summer](https://jobright.ai/jobs/info/6a7284f8ee751e0c793493e5?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 04 |
 | **[KI](http://www.ki.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/6a7254f771acd469eeda785f?utm_campaign=1047&utm_source=git)** | Green Bay, WI, United States | On Site | Aug 04 |
 | **[Sports Excitement](https://linktr.ee/sports_excitement)** | **[Job Posting 1: Product Manager, Go-To-Market (GTM) - Social Platform Internship](https://jobright.ai/jobs/info/6a728549ee751e0c793493fc?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Aug 04 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (TikTok Product) - 2027 Summer](https://jobright.ai/jobs/info/6a7284f8ee751e0c793493e5?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 04 |
-| ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a7284f8e2b7476e7b213b46?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Aug 04 |
 | **[Amazon](https://amazon.com)** | **[2027 Amazon Leadership Accelerator (ALA) Product Manager Internship](https://jobright.ai/jobs/info/6a722b0b71acd469eeda6576?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Aug 04 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2027 Product Development, US Consumer Services - New York, NY](https://jobright.ai/jobs/info/6a7243baee751e0c79347dc6?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Aug 04 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[AI Product Intern](https://jobright.ai/jobs/info/6a725458e2b7476e7b212d4a?utm_campaign=1047&utm_source=git)** | Miami, FL, United States | Remote | Aug 04 |
