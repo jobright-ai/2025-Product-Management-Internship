@@ -124,5 +124,4 @@ For a complete list, click the following sortable link below:
 | **[Liberated People](http://www.weareliberated.com)** | **[MBA Fashion Merchandise Management Internship](https://jobright.ai/jobs/info/6a5926824da96a42cfd8f6c7?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Jul 29 |
 | **[Toshiba Global Commerce Solutions](https://commerce.toshiba.com)** | **[Product & Business Analytics Intern](https://jobright.ai/jobs/info/6a6765183b5e6b116a54e780?utm_campaign=1047&utm_source=git)** | Durham, NC, United States | Hybrid | Jul 29 |
 | **[Fontaine Modification Company](https://www.fontainemodification.com/)** | **[Product Management/Marketing Intern – Summer 2026](https://jobright.ai/jobs/info/68cd0c5ce23def7af55b463f?utm_campaign=1047&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 29 |
-| **[Bosch](http://www.bosch.com)** | **[Product Management Internship (6-month)](https://jobright.ai/jobs/info/6a69fcf248355b3f12bee677?utm_campaign=1047&utm_source=git)** | Farmington Hills, MI, United States | Hybrid | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
