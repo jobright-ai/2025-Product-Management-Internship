@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[2027 Amazon Leadership Accelerator (ALA) Product Manager Internship](https://jobright.ai/jobs/info/6a722b0b71acd469eeda6576?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Aug 04 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2027 Product Development, US Consumer Services - New York, NY](https://jobright.ai/jobs/info/6a7243baee751e0c79347dc6?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Aug 04 |
 | **[KI](http://www.ki.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/6a7254f771acd469eeda785f?utm_campaign=1047&utm_source=git)** | Green Bay, WI, United States | On Site | Aug 04 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[AI Product Intern](https://jobright.ai/jobs/info/6a725458e2b7476e7b212d4a?utm_campaign=1047&utm_source=git)** | Miami, FL, United States | Remote | Aug 04 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2027 Product Management, Global Commercial Services - New York, NY](https://jobright.ai/jobs/info/6a7146599a0ca4480c7d3a63?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Aug 04 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2027 Summer Internship (US) - Product Security](https://jobright.ai/jobs/info/6a7216e271acd469eeda5e0c?utm_campaign=1047&utm_source=git)** | Lincolnshire, IL, United States | Hybrid | Aug 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategy Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a570c9110c4d945d864cbe7?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Aug 04 |
-| **[Amazon](https://amazon.com)** | **[2027 Amazon Leadership Accelerator (ALA) Product Manager Internship](https://jobright.ai/jobs/info/6a722b0b71acd469eeda6576?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Aug 04 |
 | **[Tuckernuck](http://tnuck.com/#)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a7215a6cb96192a3684be84?utm_campaign=1047&utm_source=git)** | Washington, DC, United States | On Site | Aug 04 |
 | **[Eko Health](https://www.ekohealth.com)** | **[Intern, Clinical Product](https://jobright.ai/jobs/info/6a71ef5de2b7476e7b210244?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 04 |
 | ↳ | **[Intern, Clinical Product](https://jobright.ai/jobs/info/6a71e91145b6af1c30dbb5be?utm_campaign=1047&utm_source=git)** | Emeryville, CA, United States | Remote | Aug 04 |
@@ -72,6 +72,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[AI Product Operations Project Intern (TikTok-Platform Responsibility-Teen Experience) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30cca789f8f147d3736d82?utm_campaign=1047&utm_source=git)** | San Jose, CA | On Site | Aug 04 |
 | ↳ | **[Product Solutions and Operations Project Intern (Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a32147fe7b7d514a3bd6d36?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 04 |
 | ↳ | **[Product Solutions and Operations Project Intern (Content and Service Ads- Search Ads) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30e05589f8f147d37371ed?utm_campaign=1047&utm_source=git)** | New York, United States | On Site | Aug 04 |
+| ↳ | **[TTS US Category Creator Strategy Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3cfa78d261407de97fec70?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Aug 04 |
 | ↳ | **[Platform Campaign Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2f9e5b43732c05812df422?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Aug 04 |
 | ↳ | **[Product Solutions and Operations project Intern (Ads Interface and Platform Product ) - 2026 Start](https://jobright.ai/jobs/info/6a6815202bf1fb2b71928606?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Aug 04 |
 | ↳ | **[Creator Operations Project Intern（TikTok LIVE-User Product-Lead Generation）- 2026 Start（BS/MS）](https://jobright.ai/jobs/info/6a4cc35899523700cbff393b?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 04 |
