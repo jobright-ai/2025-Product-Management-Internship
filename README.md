@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Creator Operations Project Intern（TikTok LIVE-User Product-Lead Generation）- 2026 Start（BS/MS）](https://jobright.ai/jobs/info/6a5c8ac0686b4755d1e1bf97?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Aug 06 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Operations Intern（TikTok-Platform Responsibility-Teen Experiences）- 2027 Summer](https://jobright.ai/jobs/info/6a73f26532ebbc14ffb516df?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 05 |
 | ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a7284f8e2b7476e7b213b46?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Aug 05 |
 | ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a73f27132ebbc14ffb516e4?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Aug 05 |
@@ -120,5 +121,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a6da416ca1f9338466047ab?utm_campaign=1047&utm_source=git)** | San Mateo, CA, United States | On Site | Jul 31 |
 | **[Denari](https://denari.ai)** | **[Summer '26 Product & Software Internship](https://jobright.ai/jobs/info/6a55c72b14f1040fa611baef?utm_campaign=1047&utm_source=git)** | Madison, WI, United States | Remote | Jul 30 |
 | **[1KOMMA5°](https://1komma5.com/)** | **[Internship Product Management Energy Products & Tariffs (m/f/d)](https://jobright.ai/jobs/info/6a6b95c532f9300c3a3dfbb4?utm_campaign=1047&utm_source=git)** | United States | Remote | Jul 30 |
-| **[Jasper Engines & Transmissions](https://www.jasperengines.com)** | **[HS WBL Intern: Product Development](https://jobright.ai/jobs/info/6a6b689f5c54bc4752ce8cb9?utm_campaign=1047&utm_source=git)** | Jasper, IN, United States | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
