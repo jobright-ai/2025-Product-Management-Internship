@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TikTok](https://www.tiktok.com)** | **[Creator Operations Project Intern（TikTok LIVE-User Product-Lead Generation）- 2026 Start（BS/MS）](https://jobright.ai/jobs/info/6a5c8ac0686b4755d1e1bf97?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Aug 06 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Strategy Analyst Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a747e54b17cba569035605e?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 06 |
+| ↳ | **[Creator Operations Project Intern（TikTok LIVE-User Product-Lead Generation）- 2026 Start（BS/MS）](https://jobright.ai/jobs/info/6a5c8ac0686b4755d1e1bf97?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Aug 06 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Operations Intern（TikTok-Platform Responsibility-Teen Experiences）- 2027 Summer](https://jobright.ai/jobs/info/6a73f26532ebbc14ffb516df?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 05 |
-| ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a73f27132ebbc14ffb516e4?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Aug 05 |
 | ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a7284f8e2b7476e7b213b46?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Aug 05 |
+| ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a73f27132ebbc14ffb516e4?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Aug 05 |
 | ↳ | **[Product Manager Intern (TikTok-Product Infrastructure-Account) - 2027 Summer](https://jobright.ai/jobs/info/6a73f25e8dc3d52d8eda1dfe?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 05 |
 | ↳ | **[Strategy Product Manager Intern (TikTok-Platform Responsibility) - 2027 Summer](https://jobright.ai/jobs/info/6a73f2648dc3d52d8eda1e01?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 05 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Manager: Internship Opportunities](https://jobright.ai/jobs/info/6a70a0d71003bd7b70d6b745?utm_campaign=1047&utm_source=git)** | Redmond, WA, United States | On Site | Aug 05 |
@@ -107,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Azazie, Inc.](http://www.azazie.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a2a56800c4972328e7e8635?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | Hybrid | Aug 03 |
 | **[StudyFetch](https://www.studyfetch.com/)** | **[Product Intern](https://jobright.ai/jobs/info/6a70fa239a0ca4480c7d23b0?utm_campaign=1047&utm_source=git)** | Beverly Hills, CA, United States | On Site | Aug 03 |
 | **[R2](https://www.r2.co)** | **[Product Operations Intern (LatAm Only)](https://jobright.ai/jobs/info/6a70c438cb96192a3684564c?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 03 |
-| **[Blidz](https://home.blidz.com)** | **[Product & Data Analytics (Full time) Intern](https://jobright.ai/jobs/info/6a704c1ed4735b7dbbccdc50?utm_campaign=1047&utm_source=git)** | Austin, TX, United States | Hybrid | Aug 02 |
 | **[Littelfuse](http://www.littelfuse.com)** | **[Product Management Intern, Industrial Circuit Protection](https://jobright.ai/jobs/info/6a5773df21f64463ad359380?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | On Site | Aug 02 |
 | **[Relay](https://relaypro.com)** | **[Product & Strategy Intern (Fall 2026 & Spring 2027 Opportunity)](https://jobright.ai/jobs/info/6a6b4f565c54bc4752ce83e2?utm_campaign=1047&utm_source=git)** | Raleigh, NC, United States | Hybrid | Aug 01 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/69c14cdf2c312363dcd411a8?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Aug 01 |
