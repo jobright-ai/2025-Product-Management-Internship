@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Fannin](http://fannininnovation.com/)** | **[AI Product Development Intern](https://jobright.ai/jobs/info/6a74e608972ac843c6997d55?utm_campaign=1047&utm_source=git)** | Houston, TX, United States | On Site | Aug 06 |
 | **[Eko Health](https://www.ekohealth.com)** | **[Intern, Clinical Product](https://jobright.ai/jobs/info/6a74d3cbb17cba5690357b1f?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategy Analyst Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a747e54b17cba569035605e?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 06 |
 | ↳ | **[Creator Operations Project Intern（TikTok LIVE-User Product-Lead Generation）- 2026 Start（BS/MS）](https://jobright.ai/jobs/info/6a5c8ac0686b4755d1e1bf97?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Aug 06 |
@@ -114,7 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Relay](https://relaypro.com)** | **[Product & Strategy Intern (Fall 2026 & Spring 2027 Opportunity)](https://jobright.ai/jobs/info/6a6b4f565c54bc4752ce83e2?utm_campaign=1047&utm_source=git)** | Raleigh, NC, United States | Hybrid | Aug 01 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/69c14cdf2c312363dcd411a8?utm_campaign=1047&utm_source=git)** | Dallas, TX | On Site | Aug 01 |
 | **[KHAITE](https://khaite.com/)** | **[Product Development, Non-Apparel Intern, Fall 2026](https://jobright.ai/jobs/info/6a66f184e8d8d22e32930ecd?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Aug 01 |
-| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6a46324ec2d11a6a4666d067?utm_campaign=1047&utm_source=git)** | Dallas, TX - Headquarters, United States of America | On Site | Aug 01 |
+| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6a5e9d03270e3033b045ef06?utm_campaign=1047&utm_source=git)** | Dallas, TX - Headquarters, United States of America | On Site | Aug 01 |
 | **[Jacques Marie Mage](https://jacquesmariemage.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6a6d1e5eacb0a61f9dbc9094?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 31 |
 | **[Relay](https://relaypro.com)** | **[Product & Strategy Intern (Summer 2027 Opportunity)](https://jobright.ai/jobs/info/6a6ce98357120971bf3ade41?utm_campaign=1047&utm_source=git)** | Raleigh, NC, United States | On Site | Jul 31 |
 | **[New York Post](http://nypost.com/)** | **[Product Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a6cf6d932f9300c3a3e6461?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
@@ -122,5 +121,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product and Technology Intern (Fall 2026)](https://jobright.ai/jobs/info/6a74dd6b20b26a6e93f49556?utm_campaign=1047&utm_source=git)** | Perrysburg, OH, United States | On Site | Jul 31 |
 | **[Skydio](https://www.skydio.com)** | **[Product Management Intern](https://jobright.ai/jobs/info/6a6ceeaa5c54bc4752cf02e3?utm_campaign=1047&utm_source=git)** | San Mateo, CA, United States | On Site | Jul 31 |
 | ↳ | **[Product Management Intern](https://jobright.ai/jobs/info/6a6da416ca1f9338466047ab?utm_campaign=1047&utm_source=git)** | San Mateo, CA, United States | On Site | Jul 31 |
-| **[Denari](https://denari.ai)** | **[Summer '26 Product & Software Internship](https://jobright.ai/jobs/info/6a55c72b14f1040fa611baef?utm_campaign=1047&utm_source=git)** | Madison, WI, United States | Remote | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
