@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eko Health](https://www.ekohealth.com)** | **[Product Intern, Clinical Technology](https://jobright.ai/jobs/info/6a74d3cbb17cba5690357b1f?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Methodology Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a58ced3686b4755d1e0c5bd?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Aug 08 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Insights, Strategy & Analytics, Product Management – Data Science – Fall 2026](https://jobright.ai/jobs/info/6a7614b17b3417772ade6a95?utm_campaign=1047&utm_source=git)** | Culver City, CA, United States | On Site | Aug 08 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Product Management](https://jobright.ai/jobs/info/6a7745f9b17cba5690360081?utm_campaign=1047&utm_source=git)** | El Segundo, CA, United States | On Site | Aug 08 |
@@ -77,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Signify](https://www.signify.com)** | **[Product Management Intern - Fall 2026](https://jobright.ai/jobs/info/6a591374856af468ab001ad7?utm_campaign=1047&utm_source=git)** | Menlo Park, CA, United States | On Site | Aug 07 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2027 Product Management, Global Merchant & Network Services - Phoenix, AZ](https://jobright.ai/jobs/info/6a73b8b2e55c73319eb190b5?utm_campaign=1047&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 06 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[MBA Intern, Product Management - Summer 2027](https://jobright.ai/jobs/info/6a76de64b17cba569035f697?utm_campaign=1047&utm_source=git)** | Northfield, IL, United States | Hybrid | Aug 06 |
-| **[Eko Health](https://www.ekohealth.com)** | **[Intern, Clinical Product](https://jobright.ai/jobs/info/6a74d3cbb17cba5690357b1f?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategy Analyst Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a747e54b17cba569035605e?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 06 |
 | ↳ | **[Creator Operations Project Intern（TikTok LIVE-User Product-Lead Generation）- 2026 Start（BS/MS）](https://jobright.ai/jobs/info/6a5c8ac0686b4755d1e1bf97?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Aug 06 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Product Operations Intern（TikTok-Platform Responsibility-Teen Experiences）- 2027 Summer](https://jobright.ai/jobs/info/6a73f26532ebbc14ffb516df?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 05 |
