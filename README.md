@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sol de Janeiro](https://soldejaneiro.com/)** | **[Fragrance Product Development Intern](https://jobright.ai/jobs/info/6a7a3261b17cba5690365ddd?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Aug 10 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Product Management Internship](https://jobright.ai/jobs/info/6a7a0a0c67a1ad0bc53d13cd?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 10 |
 | **[Midea Canada](https://www.midea.com/ca)** | **[Product Operations Coordinator](https://jobright.ai/jobs/info/6a7a04c7ab1385611f8fce97?utm_campaign=1047&utm_source=git)** | Markham, ON, Canada | Hybrid | Aug 10 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6a79df04a26ccc369f83b25e?utm_campaign=1047&utm_source=git)** | Westerville, OH, United States | On Site | Aug 10 |
@@ -93,8 +94,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Strategy Product Manager Intern (TikTok-Platform Responsibility) - 2027 Summer](https://jobright.ai/jobs/info/6a73f2648dc3d52d8eda1e01?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 05 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2027 Product Management, Global Merchant & Network Services - Phoenix, AZ](https://jobright.ai/jobs/info/6a73b41e6a034212ea029324?utm_campaign=1047&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 05 |
 | **[Virtuozzo](https://virtuozzo.com/)** | **[Intern in Product Management](https://jobright.ai/jobs/info/6a739f7c6a034212ea028b45?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 05 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Strategy Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a570c99e9b77f668bd667e3?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 05 |
-| ↳ | **[Product Strategy Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a570c9110c4d945d864cbe7?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Aug 05 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Strategy Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a570c9110c4d945d864cbe7?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Aug 05 |
+| ↳ | **[Product Strategy Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a570c99e9b77f668bd667e3?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (TikTok Product) - 2027 Summer](https://jobright.ai/jobs/info/6a7284f8ee751e0c793493e5?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 04 |
 | **[KI](http://www.ki.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/6a7254f771acd469eeda785f?utm_campaign=1047&utm_source=git)** | Green Bay, WI, United States | On Site | Aug 04 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2027 Product Development, US Consumer Services - New York, NY](https://jobright.ai/jobs/info/6a7243baee751e0c79347dc6?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Aug 04 |
