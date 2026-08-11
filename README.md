@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Sparrow](https://www.sparrowup.com)** | **[AI Product Management Internship (Computer Science Background)](https://jobright.ai/jobs/info/6a7b4ae8b933773d16be6560?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
+| **[Marketeq Talent](http://marketeqdigtial.com)** | **[Technical Product Management Associate (Internship)](https://jobright.ai/jobs/info/6a7b68fe3b399d106e4d62c9?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 11 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6a46324ec2d11a6a4666d067?utm_campaign=1047&utm_source=git)** | Dallas, TX - Headquarters, United States of America | On Site | Aug 11 |
 | **[Tessera Labs](https://www.tesseralabs.ai)** | **[Product Manager, Intern](https://jobright.ai/jobs/info/6a569b71efb06a45240d6e7f?utm_campaign=1047&utm_source=git)** | New York City, NY, United States | Remote | Aug 11 |
 | **[Crown Fund](https://crownfund.co)** | **[Product Development Intern](https://jobright.ai/jobs/info/6a7b0d4877e6b569c61be31b?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | Remote | Aug 11 |
@@ -107,5 +108,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Strategy Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a570c99e9b77f668bd667e3?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 05 |
 | ↳ | **[Product Strategy Project Intern (TikTok-Product-Business Analytics) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a570c9110c4d945d864cbe7?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Aug 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (TikTok Product) - 2027 Summer](https://jobright.ai/jobs/info/6a7284f8ee751e0c793493e5?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 04 |
-| **[KI](http://www.ki.com)** | **[Intern - Product Management](https://jobright.ai/jobs/info/6a7254f771acd469eeda785f?utm_campaign=1047&utm_source=git)** | Green Bay, WI, United States | On Site | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
