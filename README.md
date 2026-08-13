@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Vertiv](https://www.Vertiv.com)** | **[IT Systems Product Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6a7ce29dd77e8156a8e34d95?utm_campaign=1047&utm_source=git)** | Westerville, OH, United States | On Site | Aug 12 |
+| **[TikTok](https://www.tiktok.com)** | **[Open Platform Product Project Intern (TikTok-Product-Open Platform) - 2026 Start](https://jobright.ai/jobs/info/6a7d10d5dc3dff2d1c0ca93b?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 12 |
+| ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2027 Summer](https://jobright.ai/jobs/info/6a7d10d4a346cb6c8d5f18ab?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Aug 12 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Product Management Intern - MBA (Summer 2027)](https://jobright.ai/jobs/info/6a7ca02983621355407aaa90?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 12 |
+| ↳ | **[IT Systems Product Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6a7ce29dd77e8156a8e34d95?utm_campaign=1047&utm_source=git)** | Westerville, OH, United States | On Site | Aug 12 |
 | ↳ | **[Product Management Intern - MBA (Summer 2027)](https://jobright.ai/jobs/info/6a7ca006d77e8156a8e3301a?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 12 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6a7ce336dc3dff2d1c0c9b77?utm_campaign=1047&utm_source=git)** | Durham, NC, United States | On Site | Aug 12 |
 | ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6a7cdde477d5f033c4b9112b?utm_campaign=1047&utm_source=git)** | Austin, TX, United States | On Site | Aug 12 |
@@ -66,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Technical Product Manager Intern](https://jobright.ai/jobs/info/6a7cc7e1a346cb6c8d5f00df?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 12 |
 | **[Databricks](https://www.databricks.com)** | **[Product Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6a5908d763a8f619507bfd68?utm_campaign=1047&utm_source=git)** | Bellevue, WA, United States | On Site | Aug 12 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2027 Product Management, Global Merchant & Network Services - Phoenix, AZ](https://jobright.ai/jobs/info/6a73b8b2e55c73319eb190b5?utm_campaign=1047&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 12 |
-| ↳ | **[Campus Undergraduate Summer Internship Program - 2027 Product Management, Global Merchant & Network Services - New York, NY](https://jobright.ai/jobs/info/6a73b8b38dc3d52d8eda1269?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Aug 12 |
 | ↳ | **[Campus Undergraduate Summer Internship Program - 2027 Product Management, Global Commercial Services - New York, NY](https://jobright.ai/jobs/info/6a7142569a0ca4480c7d3a14?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Aug 12 |
+| ↳ | **[Campus Undergraduate Summer Internship Program - 2027 Product Management, Global Merchant & Network Services - New York, NY](https://jobright.ai/jobs/info/6a73b8b38dc3d52d8eda1269?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Aug 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Art & Nature Category Management Project Intern (TikTok Shop - Art & Nature) - 2026 Start](https://jobright.ai/jobs/info/6a5fe09e193b51130967b5b4?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 12 |
 | ↳ | **[Product Manager Intern (Commerce Ads) - 2027 Summer](https://jobright.ai/jobs/info/6a7c2fc877d5f033c4b8dbd3?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 12 |
 | ↳ | **[Product Manager Intern (Signal and Identity Product) - 2027 Summer](https://jobright.ai/jobs/info/6a7c2fc8a346cb6c8d5ed2d0?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 12 |
