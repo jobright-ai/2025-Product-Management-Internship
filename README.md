@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Flagright](https://flagright.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a511b3e02522b5b722e77ff?utm_campaign=1047&utm_source=git)** | Santa Clara, CA, United States | On Site | Aug 13 |
-| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a3256420ff23769fdb22385?utm_campaign=1047&utm_source=git)** | San Francisco, USA | On Site | Aug 13 |
+| **[Oracle](https://www.oracle.com/)** | **[OH Product Manager Intern - OVIP](https://jobright.ai/jobs/info/6a51c507ae4052672fe9a89e?utm_campaign=1047&utm_source=git)** | Kansas City, MO, United States | On Site | Aug 13 |
+| **[Flagright](https://flagright.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a3256420ff23769fdb22385?utm_campaign=1047&utm_source=git)** | San Francisco, USA | On Site | Aug 13 |
+| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a511b3e02522b5b722e77ff?utm_campaign=1047&utm_source=git)** | Santa Clara, CA, United States | On Site | Aug 13 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Product Manager Intern – Technology](https://jobright.ai/jobs/info/6a7d46547c52154b59f5e3a0?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Open Platform Product Project Intern (TikTok-Product-Open Platform) - 2026 Start](https://jobright.ai/jobs/info/6a7d10d5dc3dff2d1c0ca93b?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 12 |
 | ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a7284f8e2b7476e7b213b46?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Aug 12 |
@@ -78,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Art & Nature Category Management Project Intern (TikTok Shop - Art & Nature) - 2026 Start](https://jobright.ai/jobs/info/6a5fe09e193b51130967b5b4?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 12 |
 | ↳ | **[Product Manager Intern (Commerce Ads) - 2027 Summer](https://jobright.ai/jobs/info/6a7c2fc877d5f033c4b8dbd3?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 12 |
 | ↳ | **[Product Manager Intern (Signal and Identity Product) - 2027 Summer](https://jobright.ai/jobs/info/6a7c2fc8a346cb6c8d5ed2d0?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 12 |
-| ↳ | **[Product Manager Intern (Ads Interface and Platform) - 2027 Summer](https://jobright.ai/jobs/info/6a7c2fcfd77e8156a8e3155f?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Aug 12 |
 | ↳ | **[Product Manager Intern (Ads Interface and Platform) - 2027 Summer](https://jobright.ai/jobs/info/6a7c2fc1d77e8156a8e3155c?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 12 |
+| ↳ | **[Product Manager Intern (Ads Interface and Platform) - 2027 Summer](https://jobright.ai/jobs/info/6a7c2fcfd77e8156a8e3155f?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Aug 12 |
 | **[Jacques Marie Mage](https://jacquesmariemage.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6a6d1e5eacb0a61f9dbc9094?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 11 |
 | **[Sanctuary AI](https://www.sanctuary.ai)** | **[Product Management Internship - Dexterity (September 2026)](https://jobright.ai/jobs/info/6a7bc075bc05d77f2bde0cec?utm_campaign=1047&utm_source=git)** | Vancouver, BC, Canada | On Site | Aug 11 |
 | **[Trucker Path](https://truckerpath.com/)** | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/6a5f6cc1b0f20036bc630df0?utm_campaign=1047&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 11 |
