@@ -60,8 +60,8 @@ For a complete list, click the following sortable link below:
 | **[BSH Home Appliances Corporation - North America](https://www.bsh-group.com/us)** | **[Intern - Category Management](https://jobright.ai/jobs/info/6a7dd87bb56bea5779c02093?utm_campaign=1047&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Aug 13 |
 | **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[ThingsBook - Product Management Intern](https://jobright.ai/jobs/info/6a6b250057120971bf3a51a6?utm_campaign=1047&utm_source=git)** | Redwood City, CA, United States | Hybrid | Aug 13 |
 | **[Oracle](https://www.oracle.com/)** | **[OH Product Manager Intern - OVIP](https://jobright.ai/jobs/info/6a51c507ae4052672fe9a89e?utm_campaign=1047&utm_source=git)** | Kansas City, MO, United States | On Site | Aug 13 |
-| **[Flagright](https://flagright.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a3256420ff23769fdb22385?utm_campaign=1047&utm_source=git)** | San Francisco, USA | On Site | Aug 13 |
-| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a511b3e02522b5b722e77ff?utm_campaign=1047&utm_source=git)** | Santa Clara, CA, United States | On Site | Aug 13 |
+| **[Flagright](https://flagright.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a511b3e02522b5b722e77ff?utm_campaign=1047&utm_source=git)** | Santa Clara, CA, United States | On Site | Aug 13 |
+| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a3256420ff23769fdb22385?utm_campaign=1047&utm_source=git)** | San Francisco, USA | On Site | Aug 13 |
 | **[First Solar](http://www.firstsolar.com)** | **[Product and Technology Intern (Fall 2026)](https://jobright.ai/jobs/info/6a6cff9d57120971bf3ae623?utm_campaign=1047&utm_source=git)** | Perrysburg, OH, United States | On Site | Aug 12 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Product Manager Intern – Technology](https://jobright.ai/jobs/info/6a7d46547c52154b59f5e3a0?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Open Platform Product Project Intern (TikTok-Product-Open Platform) - 2026 Start](https://jobright.ai/jobs/info/6a7d10d5dc3dff2d1c0ca93b?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 12 |
@@ -124,5 +124,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[AI Product Intern](https://jobright.ai/jobs/info/6a760a457b3417772ade6526?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 07 |
 | **[1KOMMA5°](https://1komma5.com/)** | **[Internship Product Management - Heatpump (m/w/d)](https://jobright.ai/jobs/info/6a75d0d367a1ad0bc53c7382?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 07 |
 | **[Signify](https://www.signify.com)** | **[Product Management Intern - Fall 2026](https://jobright.ai/jobs/info/6a591374856af468ab001ad7?utm_campaign=1047&utm_source=git)** | Menlo Park, CA, United States | On Site | Aug 07 |
-| **[Medline](http://www.medline.com/home.jsp)** | **[MBA Intern, Product Management - Summer 2027](https://jobright.ai/jobs/info/6a76de64b17cba569035f697?utm_campaign=1047&utm_source=git)** | Northfield, IL, United States | Remote | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
