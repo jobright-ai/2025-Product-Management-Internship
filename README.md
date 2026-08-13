@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[ThingsBook - Product Management Intern](https://jobright.ai/jobs/info/6a6b250057120971bf3a51a6?utm_campaign=1047&utm_source=git)** | Redwood City, CA, United States | Hybrid | Aug 13 |
 | **[Oracle](https://www.oracle.com/)** | **[OH Product Manager Intern - OVIP](https://jobright.ai/jobs/info/6a51c507ae4052672fe9a89e?utm_campaign=1047&utm_source=git)** | Kansas City, MO, United States | On Site | Aug 13 |
-| **[Flagright](https://flagright.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a511b3e02522b5b722e77ff?utm_campaign=1047&utm_source=git)** | Santa Clara, CA, United States | On Site | Aug 13 |
-| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a3256420ff23769fdb22385?utm_campaign=1047&utm_source=git)** | San Francisco, USA | On Site | Aug 13 |
+| **[Flagright](https://flagright.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a3256420ff23769fdb22385?utm_campaign=1047&utm_source=git)** | San Francisco, USA | On Site | Aug 13 |
+| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a511b3e02522b5b722e77ff?utm_campaign=1047&utm_source=git)** | Santa Clara, CA, United States | On Site | Aug 13 |
+| **[First Solar](http://www.firstsolar.com)** | **[Product and Technology Intern (Fall 2026)](https://jobright.ai/jobs/info/6a6cff9d57120971bf3ae623?utm_campaign=1047&utm_source=git)** | Perrysburg, OH, United States | On Site | Aug 12 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Product Manager Intern – Technology](https://jobright.ai/jobs/info/6a7d46547c52154b59f5e3a0?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Open Platform Product Project Intern (TikTok-Product-Open Platform) - 2026 Start](https://jobright.ai/jobs/info/6a7d10d5dc3dff2d1c0ca93b?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 12 |
 | ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a7284f8e2b7476e7b213b46?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Aug 12 |
