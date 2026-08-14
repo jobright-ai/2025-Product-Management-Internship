@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Intern (Content and Services) - 2027 Summer](https://jobright.ai/jobs/info/6a7ed2e2179e4f7b7e8d8aff?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 14 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Project Intern (Scaled Growth) - 2026 Start](https://jobright.ai/jobs/info/6a7ed1bbb56bea5779c073cc?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 14 |
 | ↳ | **[Product Manager Intern (Content and Services) - 2027 Summer](https://jobright.ai/jobs/info/6a7ed2e1179e4f7b7e8d8afe?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 14 |
+| ↳ | **[Product Solutions and Operations Intern (Content and Services) - 2027 Summer](https://jobright.ai/jobs/info/6a7ed2e2179e4f7b7e8d8aff?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 14 |
 | ↳ | **[Product Solutions and Operations Intern (Commerce Ads) - 2027 Summer](https://jobright.ai/jobs/info/6a7ed2b8e51a1e18a240f201?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 14 |
 | ↳ | **[Product Manager Intern (Scaled Growth) - 2027 Summer](https://jobright.ai/jobs/info/6a7ed2afe2030208f276aafe?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 14 |
-| ↳ | **[Product Solutions and Operations Project Intern (Scaled Growth) - 2026 Start](https://jobright.ai/jobs/info/6a7ed1bbb56bea5779c073cc?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 14 |
 | **[Texas Instruments](http://www.ti.com)** | **[Product Operations Analyst - Encore Program Internship](https://jobright.ai/jobs/info/6a691a523b549b0b531d3f25?utm_campaign=1047&utm_source=git)** | Dallas, TX, United States | On Site | Aug 14 |
 | **[Grange Insurance](https://www.grangeinsurance.com/)** | **[Product Analyst Intern (hybrid)](https://jobright.ai/jobs/info/6a7e0dbcb56bea5779c034ec?utm_campaign=1047&utm_source=git)** | Columbus, OH, United States | Hybrid | Aug 13 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Product Management & Engineering Internship](https://jobright.ai/jobs/info/6a7e17e219ce4e6e9d93152d?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 13 |
@@ -70,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[RJ Schinner Co., Inc.](http://rjschinner.com)** | **[Pricing & Product Intern](https://jobright.ai/jobs/info/6a7e0571e2030208f2766f89?utm_campaign=1047&utm_source=git)** | Menomonee Falls, WI, United States | On Site | Aug 13 |
 | **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[ThingsBook - Product Management Intern](https://jobright.ai/jobs/info/6a6b250057120971bf3a51a6?utm_campaign=1047&utm_source=git)** | Redwood City, CA, United States | Hybrid | Aug 13 |
 | **[Oracle](https://www.oracle.com/)** | **[OH Product Manager Intern - OVIP](https://jobright.ai/jobs/info/6a51c507ae4052672fe9a89e?utm_campaign=1047&utm_source=git)** | Kansas City, MO, United States | On Site | Aug 13 |
-| **[Flagright](https://flagright.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a511b3e02522b5b722e77ff?utm_campaign=1047&utm_source=git)** | Santa Clara, CA, United States | On Site | Aug 13 |
-| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a3256420ff23769fdb22385?utm_campaign=1047&utm_source=git)** | San Francisco, USA | On Site | Aug 13 |
+| **[Flagright](https://flagright.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a3256420ff23769fdb22385?utm_campaign=1047&utm_source=git)** | San Francisco, USA | On Site | Aug 13 |
+| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a511b3e02522b5b722e77ff?utm_campaign=1047&utm_source=git)** | Santa Clara, CA, United States | On Site | Aug 13 |
 | **[First Solar](http://www.firstsolar.com)** | **[Product and Technology Intern (Fall 2026)](https://jobright.ai/jobs/info/6a6cff9d57120971bf3ae623?utm_campaign=1047&utm_source=git)** | Perrysburg, OH, United States | On Site | Aug 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Open Platform Product Project Intern (TikTok-Product-Open Platform) - 2026 Start](https://jobright.ai/jobs/info/6a7d10d5dc3dff2d1c0ca93b?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 12 |
 | ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a7284f8e2b7476e7b213b46?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Aug 12 |
@@ -126,6 +126,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[AI Agent Product Manager Intern (TikTok-Product Infrastructure-Customer Service Platform) - 2027 Summer](https://jobright.ai/jobs/info/6a765d6267a1ad0bc53ca0d3?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 07 |
 | ↳ | **[AI Agent Product Manager Intern (TikTok-Product Infrastructure-Customer Service Platform) - 2027 Summer](https://jobright.ai/jobs/info/6a764df44817aa4307047cfe?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 07 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[MBA Intern, Product Management - Summer 2027](https://jobright.ai/jobs/info/6a7635637b3417772ade7430?utm_campaign=1047&utm_source=git)** | Northfield, IL, United States | On Site | Aug 07 |
-| **[Threekit](https://www.threekit.com/?utm_source=crunchbase&utm_medium=directory&utm_campaign=directory_placements&utm_content=blastra)** | **[AI Product Intern](https://jobright.ai/jobs/info/6a760a6b67a1ad0bc53c85b6?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 07 |
-| ↳ | **[AI Product Intern](https://jobright.ai/jobs/info/6a760a457b3417772ade6526?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
