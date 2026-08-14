@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Saalt](https://saalt.com)** | **[Product Development Intern -- Fall 2026](https://jobright.ai/jobs/info/6a7f7d4fad9ff00c26bae8aa?utm_campaign=1047&utm_source=git)** | Boise, ID, United States | On Site | Aug 14 |
+| **[AInvest Fintech Inc.](www.ainvest.com)** | **[Product Operation Intern (Finance & AI)](https://jobright.ai/jobs/info/6a7f7738b56bea5779c0b97e?utm_campaign=1047&utm_source=git)** | New York City metropolitan area, United States | On Site | Aug 14 |
 | **[Databricks](https://www.databricks.com)** | **[Product Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6a5908d763a8f619507bfd68?utm_campaign=1047&utm_source=git)** | Bellevue, WA, United States | On Site | Aug 14 |
 | **[Amazon](https://amazon.com)** | **[2027 Amazon Leadership Accelerator (ALA) Product Manager Internship](https://jobright.ai/jobs/info/6a722b0b71acd469eeda6576?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Aug 14 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2027 Product Management, Global Merchant & Network Services - Phoenix, AZ](https://jobright.ai/jobs/info/6a73b8b2e55c73319eb190b5?utm_campaign=1047&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 14 |
@@ -79,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[BSH Home Appliances Corporation - North America](https://www.bsh-group.com/us)** | **[Intern - Category Management](https://jobright.ai/jobs/info/6a7dd87bb56bea5779c02093?utm_campaign=1047&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Aug 13 |
 | **[RJ Schinner Co., Inc.](http://rjschinner.com)** | **[Pricing & Product Intern](https://jobright.ai/jobs/info/6a7e0571e2030208f2766f89?utm_campaign=1047&utm_source=git)** | Menomonee Falls, WI, United States | On Site | Aug 13 |
 | **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[ThingsBook - Product Management Intern](https://jobright.ai/jobs/info/6a6b250057120971bf3a51a6?utm_campaign=1047&utm_source=git)** | Redwood City, CA, United States | Hybrid | Aug 13 |
-| **[Flagright](https://flagright.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a3256420ff23769fdb22385?utm_campaign=1047&utm_source=git)** | San Francisco, USA | On Site | Aug 13 |
-| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a511b3e02522b5b722e77ff?utm_campaign=1047&utm_source=git)** | Santa Clara, CA, United States | On Site | Aug 13 |
+| **[Flagright](https://flagright.com)** | **[Product Operations Intern](https://jobright.ai/jobs/info/6a511b3e02522b5b722e77ff?utm_campaign=1047&utm_source=git)** | Santa Clara, CA, United States | On Site | Aug 13 |
+| ↳ | **[Product Operations Intern](https://jobright.ai/jobs/info/6a3256420ff23769fdb22385?utm_campaign=1047&utm_source=git)** | San Francisco, USA | On Site | Aug 13 |
 | **[First Solar](http://www.firstsolar.com)** | **[Product and Technology Intern (Fall 2026)](https://jobright.ai/jobs/info/6a6cff9d57120971bf3ae623?utm_campaign=1047&utm_source=git)** | Perrysburg, OH, United States | On Site | Aug 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Open Platform Product Project Intern (TikTok-Product-Open Platform) - 2026 Start](https://jobright.ai/jobs/info/6a7d10d5dc3dff2d1c0ca93b?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 12 |
 | ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a7284f8e2b7476e7b213b46?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Aug 12 |
