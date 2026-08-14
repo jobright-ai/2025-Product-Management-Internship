@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grange Insurance](https://www.grangeinsurance.com/)** | **[Product Analyst Intern (hybrid)](https://jobright.ai/jobs/info/6a7e0dbcb56bea5779c034ec?utm_campaign=1047&utm_source=git)** | Columbus, OH, United States | Hybrid | Aug 13 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Product Management & Engineering Internship](https://jobright.ai/jobs/info/6a7e17e219ce4e6e9d93152d?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 13 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2027 Product Management, Global Merchant & Network Services - New York, NY](https://jobright.ai/jobs/info/6a73b433e55c73319eb18f51?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Aug 13 |
-| **[Grange Insurance](https://www.grangeinsurance.com/)** | **[Product Analyst Intern (hybrid)](https://jobright.ai/jobs/info/6a7e0dbcb56bea5779c034ec?utm_campaign=1047&utm_source=git)** | Columbus, OH, United States | Hybrid | Aug 13 |
 | **[BSH Home Appliances Corporation - North America](https://www.bsh-group.com/us)** | **[Intern - Category Management](https://jobright.ai/jobs/info/6a7dd87bb56bea5779c02093?utm_campaign=1047&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Aug 13 |
 | **[RJ Schinner Co., Inc.](http://rjschinner.com)** | **[Pricing & Product Intern](https://jobright.ai/jobs/info/6a7e0571e2030208f2766f89?utm_campaign=1047&utm_source=git)** | Menomonee Falls, WI, United States | On Site | Aug 13 |
 | **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[ThingsBook - Product Management Intern](https://jobright.ai/jobs/info/6a6b250057120971bf3a51a6?utm_campaign=1047&utm_source=git)** | Redwood City, CA, United States | Hybrid | Aug 13 |
@@ -123,5 +123,4 @@ For a complete list, click the following sortable link below:
 | **[Threekit](https://www.threekit.com/?utm_source=crunchbase&utm_medium=directory&utm_campaign=directory_placements&utm_content=blastra)** | **[AI Product Intern](https://jobright.ai/jobs/info/6a760a6b67a1ad0bc53c85b6?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 07 |
 | ↳ | **[AI Product Intern](https://jobright.ai/jobs/info/6a760a457b3417772ade6526?utm_campaign=1047&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 07 |
 | **[1KOMMA5°](https://1komma5.com/)** | **[Internship Product Management - Heatpump (m/w/d)](https://jobright.ai/jobs/info/6a75d0d367a1ad0bc53c7382?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 07 |
-| **[Signify](https://www.signify.com)** | **[Product Management Intern - Fall 2026](https://jobright.ai/jobs/info/6a591374856af468ab001ad7?utm_campaign=1047&utm_source=git)** | Menlo Park, CA, United States | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
