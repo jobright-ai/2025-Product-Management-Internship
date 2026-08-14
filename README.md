@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marketeq Talent](http://marketeqdigtial.com)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a7f09ffe51a1e18a240ffae?utm_campaign=1047&utm_source=git)** | Miami, FL, United States | Remote | Aug 14 |
 | **[Oracle](https://www.oracle.com/)** | **[OH Product Manager Intern - OVIP](https://jobright.ai/jobs/info/6a51c507ae4052672fe9a89e?utm_campaign=1047&utm_source=git)** | Kansas City, MO, United States | On Site | Aug 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Project Intern (Scaled Growth) - 2026 Start](https://jobright.ai/jobs/info/6a7ed1bbb56bea5779c073cc?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 14 |
 | ↳ | **[Product Manager Intern (Content and Services) - 2027 Summer](https://jobright.ai/jobs/info/6a7ed2e1179e4f7b7e8d8afe?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 14 |
@@ -125,5 +126,4 @@ For a complete list, click the following sortable link below:
 | **[Amcor](http://www.amcor.com)** | **[Product Development Intern](https://jobright.ai/jobs/info/6a762a3e67a1ad0bc53c916b?utm_campaign=1047&utm_source=git)** | Evansville, IN, United States | On Site | Aug 07 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Agent Product Manager Intern (TikTok-Product Infrastructure-Customer Service Platform) - 2027 Summer](https://jobright.ai/jobs/info/6a765d6267a1ad0bc53ca0d3?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 07 |
 | ↳ | **[AI Agent Product Manager Intern (TikTok-Product Infrastructure-Customer Service Platform) - 2027 Summer](https://jobright.ai/jobs/info/6a764df44817aa4307047cfe?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 07 |
-| **[Medline](http://www.medline.com/home.jsp)** | **[MBA Intern, Product Management - Summer 2027](https://jobright.ai/jobs/info/6a7635637b3417772ade7430?utm_campaign=1047&utm_source=git)** | Northfield, IL, United States | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
