@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Texas Instruments](http://www.ti.com)** | **[Product Operations Analyst - Encore Program Internship](https://jobright.ai/jobs/info/6a691a523b549b0b531d3f25?utm_campaign=1047&utm_source=git)** | Dallas, TX, United States | On Site | Aug 14 |
 | **[Grange Insurance](https://www.grangeinsurance.com/)** | **[Product Analyst Intern (hybrid)](https://jobright.ai/jobs/info/6a7e0dbcb56bea5779c034ec?utm_campaign=1047&utm_source=git)** | Columbus, OH, United States | Hybrid | Aug 13 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Product Management & Engineering Internship](https://jobright.ai/jobs/info/6a7e17e219ce4e6e9d93152d?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 13 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2027 Product Management, Global Merchant & Network Services - New York, NY](https://jobright.ai/jobs/info/6a73b433e55c73319eb18f51?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Aug 13 |
@@ -84,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Art & Nature Category Management Project Intern (TikTok Shop - Art & Nature) - 2026 Start](https://jobright.ai/jobs/info/6a5fe09e193b51130967b5b4?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 12 |
 | ↳ | **[Product Manager Intern (Commerce Ads) - 2027 Summer](https://jobright.ai/jobs/info/6a7c2fc877d5f033c4b8dbd3?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 12 |
 | ↳ | **[Product Manager Intern (Signal and Identity Product) - 2027 Summer](https://jobright.ai/jobs/info/6a7c2fc8a346cb6c8d5ed2d0?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 12 |
-| ↳ | **[Product Manager Intern (Ads Interface and Platform) - 2027 Summer](https://jobright.ai/jobs/info/6a7c2fcfd77e8156a8e3155f?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Aug 12 |
 | ↳ | **[Product Manager Intern (Ads Interface and Platform) - 2027 Summer](https://jobright.ai/jobs/info/6a7c2fc1d77e8156a8e3155c?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 12 |
+| ↳ | **[Product Manager Intern (Ads Interface and Platform) - 2027 Summer](https://jobright.ai/jobs/info/6a7c2fcfd77e8156a8e3155f?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Aug 12 |
 | **[Jacques Marie Mage](https://jacquesmariemage.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6a6d1e5eacb0a61f9dbc9094?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 11 |
 | **[Sanctuary AI](https://www.sanctuary.ai)** | **[Product Management Internship - Dexterity (September 2026)](https://jobright.ai/jobs/info/6a7bc075bc05d77f2bde0cec?utm_campaign=1047&utm_source=git)** | Vancouver, BC, Canada | On Site | Aug 11 |
 | **[Trucker Path](https://truckerpath.com/)** | **[AI-Native Product Management Intern (Marketplace & Growth)](https://jobright.ai/jobs/info/6a5f6cc1b0f20036bc630df0?utm_campaign=1047&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 11 |
