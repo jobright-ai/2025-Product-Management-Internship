@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2027 Product Management, Global Commercial Services - New York, NY](https://jobright.ai/jobs/info/6a7146599a0ca4480c7d3a63?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Aug 15 |
-| ↳ | **[Campus Undergraduate Summer Internship Program - 2027 Product Management, Global Merchant & Network Services - New York, NY](https://jobright.ai/jobs/info/6a73b433e55c73319eb18f51?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Aug 15 |
+| **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2027 Product Management, Global Merchant & Network Services - New York, NY](https://jobright.ai/jobs/info/6a73b433e55c73319eb18f51?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Aug 15 |
+| ↳ | **[Campus Undergraduate Summer Internship Program - 2027 Product Management, Global Commercial Services - New York, NY](https://jobright.ai/jobs/info/6a7146599a0ca4480c7d3a63?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Aug 15 |
 | **[1KOMMA5°](https://1komma5.com/)** | **[Internship Product Portfolio Management (m/f/d)](https://jobright.ai/jobs/info/6a8026a6e51a1e18a2417fa9?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 15 |
 | **[Dedalus Labs](https://www.dedaluslabs.ai)** | **[Product Manager Intern](https://jobright.ai/jobs/info/6a7fcc19e2030208f2771846?utm_campaign=1047&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 15 |
 | **[First Solar](http://www.firstsolar.com)** | **[Product and Technology Intern (Fall 2026)](https://jobright.ai/jobs/info/6a74dd6b20b26a6e93f49556?utm_campaign=1047&utm_source=git)** | Perrysburg, OH, United States | On Site | Aug 14 |
