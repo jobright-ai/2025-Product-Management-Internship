@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eudia](https://www.eudia.com)** | **[Product Intern](https://jobright.ai/jobs/info/6a88d503cde3717f9e9b76e3?utm_campaign=1047&utm_source=git)** | Palo Alto, CA, United States | On Site | Aug 21 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Digital Product Operations Intern](https://jobright.ai/jobs/info/6a88b794d34f700f87fca19f?utm_campaign=1047&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 21 |
 | **[Amazon](https://amazon.com)** | **[Product Manager Technical (PMT) Intern - Summer 2027](https://jobright.ai/jobs/info/6a87975925fc4e7ae3daddd7?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Aug 21 |
 | **[Too Lost](https://www.toolost.com)** | **[Product Management / Commercial Partnerships Intern](https://jobright.ai/jobs/info/6a886722e8b6601d12906837?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Aug 21 |
@@ -113,8 +114,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Solutions and Operations Project Intern (Scaled Growth) - 2026 Start](https://jobright.ai/jobs/info/6a7ed1bbb56bea5779c073cc?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 18 |
 | ↳ | **[Product Manager Intern (Scaled Growth) - 2027 Summer](https://jobright.ai/jobs/info/6a7ed2afe2030208f276aafe?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 18 |
 | ↳ | **[Product Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30d179093df201d07b2c30?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Aug 18 |
-| ↳ | **[Product Manager Intern (Ads Interface and Platform) - 2027 Summer](https://jobright.ai/jobs/info/6a7c2fcfd77e8156a8e3155f?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Aug 18 |
 | ↳ | **[Product Manager Intern (Ads Interface and Platform) - 2027 Summer](https://jobright.ai/jobs/info/6a7c2fc1d77e8156a8e3155c?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 18 |
+| ↳ | **[Product Manager Intern (Ads Interface and Platform) - 2027 Summer](https://jobright.ai/jobs/info/6a7c2fcfd77e8156a8e3155f?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Aug 18 |
 | ↳ | **[TTS US Category Creator Strategy Project Intern (TikTok Shop - Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3cfa78d261407de97fec70?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Aug 18 |
 | ↳ | **[Product Solutions and Operations Intern (Content and Services) - 2027 Summer](https://jobright.ai/jobs/info/6a7ed2e2179e4f7b7e8d8aff?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 18 |
 | ↳ | **[PGC Creator Experience & Product Operations Project Intern (TikTok-PGC-Creator Strategy) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3f3f544d047136e0939145?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | Hybrid | Aug 18 |
