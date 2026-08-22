@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Jacques Marie Mage](https://jacquesmariemage.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6a6d1e5eacb0a61f9dbc9094?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 21 |
-| ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/6a88ea05cde3717f9e9b7abc?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 21 |
+| **[Jacques Marie Mage](https://jacquesmariemage.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6a88ea05cde3717f9e9b7abc?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 21 |
+| ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/6a6d1e5eacb0a61f9dbc9094?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Content and Service Ads) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a88ee484afae74a0834e21a?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 21 |
+| ↳ | **[AI Product Manager Intern (TikTok-Product-Social) - 2027 Summer](https://jobright.ai/jobs/info/6a8970254afae74a0834eb47?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 21 |
 | **[Eudia](https://www.eudia.com)** | **[Product Intern](https://jobright.ai/jobs/info/6a88d503cde3717f9e9b76e3?utm_campaign=1047&utm_source=git)** | Palo Alto, CA, United States | On Site | Aug 21 |
 | **[Nationwide](https://www.nationwide.com)** | **[Summer 2027 State Product Analyst Intern - Personal Lines](https://jobright.ai/jobs/info/6a88ac2bcde3717f9e9b67d0?utm_campaign=1047&utm_source=git)** | Columbus, OH, United States | Hybrid | Aug 21 |
 | **[Too Lost](https://www.toolost.com)** | **[Product Management / Commercial Partnerships Intern](https://jobright.ai/jobs/info/6a886722e8b6601d12906837?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Aug 21 |
