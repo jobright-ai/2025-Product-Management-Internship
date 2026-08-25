@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenAIx](https://genaix.org)** | **[Product Intern](https://jobright.ai/jobs/info/6a8de48447679c68bf5e564e?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Remote | Aug 25 |
+| **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine: Product Management Intern – Oils & Lubricants](https://jobright.ai/jobs/info/6a8daac2cc0cf2706852456b?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI, United States | On Site | Aug 25 |
+| ↳ | **[Merucry Marine: Product Management Intern – Parts & Accessories](https://jobright.ai/jobs/info/6a8ddaba47679c68bf5e523d?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI, United States | Hybrid | Aug 25 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2027 Product Management, Global Commercial Services - New York, NY](https://jobright.ai/jobs/info/6a7142569a0ca4480c7d3a14?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Aug 25 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Controls Product Management Intern - Summer 2027](https://jobright.ai/jobs/info/6a8dae3cd34f700f87fd5363?utm_campaign=1047&utm_source=git)** | Greenville, South Carolina, United States | On Site | Aug 25 |
 | **[Vertiv](https://www.Vertiv.com)** | **[DC Power Product Management MBA Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8dc2e5cc0cf27068524f37?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
-| **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine: Product Management Intern – Oils & Lubricants](https://jobright.ai/jobs/info/6a8daac2cc0cf2706852456b?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI, United States | On Site | Aug 25 |
 | **[1KOMMA5°](https://1komma5.com/)** | **[Internship Global Product Management (m/f/d)](https://jobright.ai/jobs/info/6a63ac8de8d8d22e3292a008?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 25 |
 | **[StudyFetch](https://www.studyfetch.com/)** | **[Product Intern](https://jobright.ai/jobs/info/6a70fa239a0ca4480c7d23b0?utm_campaign=1047&utm_source=git)** | Beverly Hills, CA, United States | On Site | Aug 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Menu Planning Intern, Spring 2027](https://jobright.ai/jobs/info/6a8c9bfacde3717f9e9be2e6?utm_campaign=1047&utm_source=git)** | Glendale, CA, United States | Hybrid | Aug 24 |
@@ -71,7 +73,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern (PGC) - 2027 Summer](https://jobright.ai/jobs/info/6a8ce2d11d96e6541c8c3612?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 24 |
 | ↳ | **[Product Manager Intern (PGC) - 2027 Summer](https://jobright.ai/jobs/info/6a8ce2c3d34f700f87fd30a1?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Aug 24 |
 | ↳ | **[Product Operations Intern (PGC) - 2027 Summer](https://jobright.ai/jobs/info/6a8ce2c7cde3717f9e9bf983?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Aug 24 |
-| **[Brunswick Corporation](http://www.brunswick.com)** | **[Merucry Marine: Product Management Intern – Parts & Accessories](https://jobright.ai/jobs/info/6a8ddaba47679c68bf5e523d?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI, United States | Hybrid | Aug 24 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8cb5a225fc4e7ae3dba124?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 24 |
 | **[Procter & Gamble](https://us.pg.com)** | **[IT Project & Product Manager Internship](https://jobright.ai/jobs/info/6a8ca1e025fc4e7ae3db9886?utm_campaign=1047&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 24 |
 | **[BNY](https://www.bny.com)** | **[2027 BNY Summer Internship Program - Product Management (New York, NY)](https://jobright.ai/jobs/info/6a8c77f6d34f700f87fd0b19?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Aug 24 |
