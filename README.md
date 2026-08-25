@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Freddie Mac](https://www.freddiemac.com/)** | **[Multifamily Digital Product Analysis Intern – Summer 2027](https://jobright.ai/jobs/info/6a8cac2dcde3717f9e9be8ed?utm_campaign=1047&utm_source=git)** | McLean, VA, United States | On Site | Aug 24 |
+| **[Retensa Employee Retention](http://www.retensa.com)** | **[AI Product Intern: Fall 2026](https://jobright.ai/jobs/info/6a8ccb1525fc4e7ae3dba7fa?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Remote | Aug 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern (TikTok-Platform Responsibility-Teen Experiences) - 2026 Start](https://jobright.ai/jobs/info/6a8ce2d51d96e6541c8c3613?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 24 |
+| ↳ | **[Product Manager Intern (PGC) - 2027 Summer](https://jobright.ai/jobs/info/6a8ce2c3d34f700f87fd30a1?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Aug 24 |
 | ↳ | **[Product Manager Intern (PGC) - 2027 Summer](https://jobright.ai/jobs/info/6a8ce2d11d96e6541c8c3612?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 24 |
 | ↳ | **[Product Operations Intern (PGC) - 2027 Summer](https://jobright.ai/jobs/info/6a8ce2c7cde3717f9e9bf983?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Aug 24 |
-| ↳ | **[Product Manager Intern (PGC) - 2027 Summer](https://jobright.ai/jobs/info/6a8ce2c3d34f700f87fd30a1?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Aug 24 |
-| **[Retensa Employee Retention](http://www.retensa.com)** | **[AI Product Intern: Fall 2026](https://jobright.ai/jobs/info/6a8ccb1525fc4e7ae3dba7fa?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Remote | Aug 24 |
+| **[Freddie Mac](https://www.freddiemac.com/)** | **[Multifamily Digital Product Analysis Intern – Summer 2027](https://jobright.ai/jobs/info/6a8cac2dcde3717f9e9be8ed?utm_campaign=1047&utm_source=git)** | McLean, VA, United States | On Site | Aug 24 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8cb5a225fc4e7ae3dba124?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 24 |
 | **[Procter & Gamble](https://us.pg.com)** | **[IT Project & Product Manager Internship](https://jobright.ai/jobs/info/6a8ca1e025fc4e7ae3db9886?utm_campaign=1047&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 24 |
 | **[BNY](https://www.bny.com)** | **[2027 BNY Summer Internship Program - Product Management (New York, NY)](https://jobright.ai/jobs/info/6a8c77f6d34f700f87fd0b19?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Aug 24 |
@@ -120,7 +120,4 @@ For a complete list, click the following sortable link below:
 | **[First Solar](http://www.firstsolar.com)** | **[Product and Technology Intern (Fall 2026)](https://jobright.ai/jobs/info/6a6cff9d57120971bf3ae623?utm_campaign=1047&utm_source=git)** | Perrysburg, OH, United States | On Site | Aug 18 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2027 Product Development, Global Servicing- New York, NY](https://jobright.ai/jobs/info/6a8477c4d34f700f87fb8c98?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Aug 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations project Intern (Ads Interface and Platform Product ) - 2026 Start](https://jobright.ai/jobs/info/6a6815202bf1fb2b71928606?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Aug 18 |
-| ↳ | **[Global Product Strategy & Operation Project Intern (Ads Interface and Platform Product) - 2026 Start](https://jobright.ai/jobs/info/6a843474e459fa3baa85d49d?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 18 |
-| ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a73f27132ebbc14ffb516e4?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Aug 18 |
-| ↳ | **[Product Operations Intern (TikTok Shop Apps and API) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a7284f8e2b7476e7b213b46?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
