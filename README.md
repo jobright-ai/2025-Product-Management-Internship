@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[Product Strategy Intern, Spectrum Reach Fall 2026](https://jobright.ai/jobs/info/6a8f4ac4f841e649a71919a0?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Aug 26 |
 | **[Xpansiv](https://www.xpansiv.com)** | **[Product Management Intern – AI Products](https://jobright.ai/jobs/info/6a8df9e347679c68bf5e5e48?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Aug 26 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2027 Product Development, US Consumer Services - New York, NY](https://jobright.ai/jobs/info/6a7243baee751e0c79347dc6?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Aug 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (PGC) - 2027 Summer](https://jobright.ai/jobs/info/6a8ec0f0382b237ac80c2b7f?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 26 |
@@ -66,7 +67,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern - RTP 2027](https://jobright.ai/jobs/info/6a8e7c80eb0ee5374a47d44f?utm_campaign=1047&utm_source=git)** | Durham, NC, United States | Hybrid | Aug 25 |
 | ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6a86f7b84afae74a08345e64?utm_campaign=1047&utm_source=git)** | Lowell, Massachusetts, United States | Hybrid | Aug 25 |
 | **[Synoptek](https://synoptek.com/)** | **[AI Product Development Intern](https://jobright.ai/jobs/info/6a8e41e9eb0ee5374a47ce58?utm_campaign=1047&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 25 |
-| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6a8e09b2581f2d7bfdfeabcc?utm_campaign=1047&utm_source=git)** | Dallas, TX, United States | On Site | Aug 25 |
+| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6a46324ec2d11a6a4666d067?utm_campaign=1047&utm_source=git)** | Dallas, TX, United States | On Site | Aug 25 |
 | **[EPL Group](https://eplgroup.co)** | **[Product Owner Intern - AI Venture Studio](https://jobright.ai/jobs/info/6a8e3980a5639a4810329f4d?utm_campaign=1047&utm_source=git)** | Miami, FL, United States | Remote | Aug 25 |
 | **[Vertiv](https://www.Vertiv.com)** | **[DC Power Product Management MBA Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8dc2e5cc0cf27068524f37?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Merucry Marine: Product Management Intern – Parts & Accessories](https://jobright.ai/jobs/info/6a8ddaba47679c68bf5e523d?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI, United States | Hybrid | Aug 25 |
