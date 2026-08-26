@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xpansiv](https://www.xpansiv.com)** | **[Product Management Intern – AI Products](https://jobright.ai/jobs/info/6a8df9e347679c68bf5e5e48?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Aug 26 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2027 Product Development, US Consumer Services - New York, NY](https://jobright.ai/jobs/info/6a7243baee751e0c79347dc6?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Aug 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (PGC) - 2027 Summer](https://jobright.ai/jobs/info/6a8ec0f0382b237ac80c2b7f?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 26 |
 | ↳ | **[Product Operations Intern (PGC) - 2027 Summer](https://jobright.ai/jobs/info/6a8ce2c7cde3717f9e9bf983?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Aug 26 |
@@ -70,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Vertiv](https://www.Vertiv.com)** | **[DC Power Product Management MBA Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8dc2e5cc0cf27068524f37?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Merucry Marine: Product Management Intern – Parts & Accessories](https://jobright.ai/jobs/info/6a8ddaba47679c68bf5e523d?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI, United States | Hybrid | Aug 25 |
 | **[The Depository Trust & Clearing Corporation (DTCC)](http://www.dtcc.com/)** | **[Product Management Intern [2027 Internship Program]](https://jobright.ai/jobs/info/6a8dfaa425fc4e7ae3dbef70?utm_campaign=1047&utm_source=git)** | Jersey City, NJ, United States | Hybrid | Aug 25 |
-| **[Xpansiv](https://www.xpansiv.com)** | **[Product Management Intern – AI Products](https://jobright.ai/jobs/info/6a8df9e347679c68bf5e5e48?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Aug 25 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine: Product Management Intern – Oils & Lubricants](https://jobright.ai/jobs/info/6a8daac2cc0cf2706852456b?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI, United States | On Site | Aug 25 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2027 Product Management, Global Commercial Services - New York, NY](https://jobright.ai/jobs/info/6a7142569a0ca4480c7d3a14?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Aug 25 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Controls Product Management Intern - Summer 2027](https://jobright.ai/jobs/info/6a8dae3cd34f700f87fd5363?utm_campaign=1047&utm_source=git)** | Greenville, South Carolina, United States | On Site | Aug 25 |
