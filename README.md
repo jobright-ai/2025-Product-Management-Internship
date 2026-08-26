@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TikTok](https://www.tiktok.com)** | **[Product Strategist Project Intern (Advertisement Team) - 2026 Start (MBA)](https://jobright.ai/jobs/info/6a8ea4c78f361f0a533d6929?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 26 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Operations Intern (PGC) - 2027 Summer](https://jobright.ai/jobs/info/6a8ce2c7cde3717f9e9bf983?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Aug 26 |
+| ↳ | **[Product Strategist Project Intern (Advertisement Team) - 2026 Start (MBA)](https://jobright.ai/jobs/info/6a8ea4c78f361f0a533d6929?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 26 |
 | **[IBM](http://www.ibm.com)** | **[Product Manager Intern - RTP 2027](https://jobright.ai/jobs/info/6a8e7f29e3efd719bf57d490?utm_campaign=1047&utm_source=git)** | Research Park, CA | Hybrid | Aug 25 |
 | ↳ | **[Product Manager Intern - RTP 2027](https://jobright.ai/jobs/info/6a8e7c80eb0ee5374a47d44f?utm_campaign=1047&utm_source=git)** | Durham, NC, United States | Hybrid | Aug 25 |
 | ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6a86f7b84afae74a08345e64?utm_campaign=1047&utm_source=git)** | Lowell, Massachusetts, United States | Hybrid | Aug 25 |
@@ -78,9 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Freddie Mac](https://www.freddiemac.com/)** | **[Multifamily Digital Product Analysis Intern – Summer 2027](https://jobright.ai/jobs/info/6a8cac2dcde3717f9e9be8ed?utm_campaign=1047&utm_source=git)** | McLean, VA, United States | On Site | Aug 24 |
 | **[Retensa Employee Retention](http://www.retensa.com)** | **[AI Product Intern: Fall 2026](https://jobright.ai/jobs/info/6a8ccb1525fc4e7ae3dba7fa?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Remote | Aug 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern (TikTok-Platform Responsibility-Teen Experiences) - 2026 Start](https://jobright.ai/jobs/info/6a8ce2d51d96e6541c8c3613?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 24 |
-| ↳ | **[Product Manager Intern (PGC) - 2027 Summer](https://jobright.ai/jobs/info/6a8ce2c3d34f700f87fd30a1?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Aug 24 |
 | ↳ | **[Product Manager Intern (PGC) - 2027 Summer](https://jobright.ai/jobs/info/6a8ce2d11d96e6541c8c3612?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 24 |
-| ↳ | **[Product Operations Intern (PGC) - 2027 Summer](https://jobright.ai/jobs/info/6a8ce2c7cde3717f9e9bf983?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Aug 24 |
+| ↳ | **[Product Manager Intern (PGC) - 2027 Summer](https://jobright.ai/jobs/info/6a8ce2c3d34f700f87fd30a1?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Aug 24 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8cb5a225fc4e7ae3dba124?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 24 |
 | **[Procter & Gamble](https://us.pg.com)** | **[IT Project & Product Manager Internship](https://jobright.ai/jobs/info/6a8ca1e025fc4e7ae3db9886?utm_campaign=1047&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 24 |
 | **[BNY](https://www.bny.com)** | **[2027 BNY Summer Internship Program - Product Management (New York, NY)](https://jobright.ai/jobs/info/6a8c77f6d34f700f87fd0b19?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Aug 24 |
@@ -122,5 +122,4 @@ For a complete list, click the following sortable link below:
 | **[Texas Instruments](http://www.ti.com)** | **[Product Operations Analyst - Encore Program Internship](https://jobright.ai/jobs/info/6a691a523b549b0b531d3f25?utm_campaign=1047&utm_source=git)** | Dallas, TX, United States | On Site | Aug 19 |
 | **[U.S. News & World Report](https://usnews.com)** | **[Yearlong Product Intern, Senior Care](https://jobright.ai/jobs/info/6a85baeed34f700f87fbdc63?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Aug 19 |
 | **[Goldman Sachs](https://www.goldmansachs.com)** | **[2027 / Americas / New York City Area/ AWM Management, Product Management / Summer Analyst](https://jobright.ai/jobs/info/6a85ea34d34f700f87fbf175?utm_campaign=1047&utm_source=git)** | New York, NY, United States | On Site | Aug 19 |
-| ↳ | **[2027 / Americas / Dallas Metro Area / AWM Management, Product Management / Summer Analyst](https://jobright.ai/jobs/info/6a85deef74e02153f1458fac?utm_campaign=1047&utm_source=git)** | Dallas, TX, United States | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
