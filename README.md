@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Product Manager Intern - RTP 2027](https://jobright.ai/jobs/info/6a8e7f29e3efd719bf57d490?utm_campaign=1047&utm_source=git)** | Research Park, CA | Hybrid | Aug 25 |
+| ↳ | **[Product Manager Intern - RTP 2027](https://jobright.ai/jobs/info/6a8e7c80eb0ee5374a47d44f?utm_campaign=1047&utm_source=git)** | Durham, NC, United States | Hybrid | Aug 25 |
+| ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6a86f7b84afae74a08345e64?utm_campaign=1047&utm_source=git)** | Lowell, Massachusetts, United States | Hybrid | Aug 25 |
 | **[Synoptek](https://synoptek.com/)** | **[AI Product Development Intern](https://jobright.ai/jobs/info/6a8e41e9eb0ee5374a47ce58?utm_campaign=1047&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 25 |
 | **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6a46324ec2d11a6a4666d067?utm_campaign=1047&utm_source=git)** | Dallas, TX, United States | On Site | Aug 25 |
 | **[EPL Group](https://eplgroup.co)** | **[Product Owner Intern - AI Venture Studio](https://jobright.ai/jobs/info/6a8e3980a5639a4810329f4d?utm_campaign=1047&utm_source=git)** | Miami, FL, United States | Remote | Aug 25 |
@@ -83,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Enercare Inc.](http://enercareinc.com)** | **[Associate Product Owner - Intern](https://jobright.ai/jobs/info/6a8c71dd581f2d7bfdfe394e?utm_campaign=1047&utm_source=git)** | Markham, ON, Canada | Hybrid | Aug 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Solutions and Operations Project Intern (Scaled Growth, Paid Search) - 2026 Start](https://jobright.ai/jobs/info/6a8c01c525fc4e7ae3db6b65?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 24 |
 | **[Grainger](https://www.grainger.com)** | **[Brand, Online Experience and Assortment Intern Job Details / Grainger Businesses](https://jobright.ai/jobs/info/6a8bcbfee8b6601d1290ca61?utm_campaign=1047&utm_source=git)** | Lake Forest, IL, United States | Hybrid | Aug 23 |
-| **[IBM](http://www.ibm.com)** | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6a86f7b84afae74a08345e64?utm_campaign=1047&utm_source=git)** | Lowell, Massachusetts, United States | Hybrid | Aug 23 |
 | **[Goldman Sachs](https://www.goldmansachs.com)** | **[2027 / Americas / Dallas Metro Area / AWM Management, Product Management / Summer Analyst](https://jobright.ai/jobs/info/6a85dbfecc81eb647e9efbed?utm_campaign=1047&utm_source=git)** | Dallas, TX, United States | On Site | Aug 23 |
 | **[Databricks](https://www.databricks.com)** | **[Product Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6a5908d763a8f619507bfd68?utm_campaign=1047&utm_source=git)** | Bellevue, WA, United States | On Site | Aug 23 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2027 Product Management, Global Merchant & Network Services - Phoenix, AZ](https://jobright.ai/jobs/info/6a73b8b2e55c73319eb190b5?utm_campaign=1047&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 23 |
@@ -97,8 +99,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Internship - Summer 2027](https://jobright.ai/jobs/info/6a89b3c625fc4e7ae3db3d68?utm_campaign=1047&utm_source=git)** | Long Island City, NY, United States | On Site | Aug 22 |
 | **[Skydio](https://www.skydio.com)** | **[Hardware Product Management Intern](https://jobright.ai/jobs/info/6a6ceeaa5c54bc4752cf02e3?utm_campaign=1047&utm_source=git)** | San Mateo, CA, United States | On Site | Aug 22 |
 | **[Relay](https://relaypro.com)** | **[Product & Strategy Intern (Summer 2027 Opportunity)](https://jobright.ai/jobs/info/6a6ce98357120971bf3ade41?utm_campaign=1047&utm_source=git)** | Raleigh, NC, United States | On Site | Aug 22 |
-| **[Jacques Marie Mage](https://jacquesmariemage.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6a88ea05cde3717f9e9b7abc?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 21 |
-| ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/6a6d1e5eacb0a61f9dbc9094?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 21 |
+| **[Jacques Marie Mage](https://jacquesmariemage.com/)** | **[Product Development Intern](https://jobright.ai/jobs/info/6a6d1e5eacb0a61f9dbc9094?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 21 |
+| ↳ | **[Product Development Intern](https://jobright.ai/jobs/info/6a88ea05cde3717f9e9b7abc?utm_campaign=1047&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Intern (Content and Service Ads) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a88ee484afae74a0834e21a?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 21 |
 | ↳ | **[AI Product Manager Intern (TikTok-Product-Social) - 2027 Summer](https://jobright.ai/jobs/info/6a8970254afae74a0834eb47?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 21 |
 | **[Eudia](https://www.eudia.com)** | **[Product Intern](https://jobright.ai/jobs/info/6a88d503cde3717f9e9b76e3?utm_campaign=1047&utm_source=git)** | Palo Alto, CA, United States | On Site | Aug 21 |
