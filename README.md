@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marketeq Talent](http://marketeqdigtial.com)** | **[Technical Product Management Associate (Internship)](https://jobright.ai/jobs/info/6a8fa0a72e254e06fb9ede10?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 26 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2027 Merchandise Planning Internship with Victoria's Secret](https://jobright.ai/jobs/info/6a8f85688ffa38557e6c98d0?utm_campaign=1047&utm_source=git)** | Reynoldsburg, OH, United States | Hybrid | Aug 26 |
 | **[Amazon](https://amazon.com)** | **[2027 Amazon Leadership Accelerator (ALA) Product Manager Internship](https://jobright.ai/jobs/info/6a722b0b71acd469eeda6576?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Aug 26 |
 | **[Spectrum Reach](https://www.spectrumreach.com)** | **[Product Strategy Intern, Spectrum Reach Fall 2026](https://jobright.ai/jobs/info/6a8f6df5a19886486675d930?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Aug 26 |
