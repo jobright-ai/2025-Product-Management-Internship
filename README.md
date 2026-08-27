@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PIMCO](http://www.pimco.com)** | **[2027 Summer Intern - Product Strategy Analyst, US](https://jobright.ai/jobs/info/6a9013217c32860d14cf77b3?utm_campaign=1047&utm_source=git)** | Newport Beach, CA, United States | On Site | Aug 27 |
 | **[Delta Air Lines](https://www.delta.com)** | **[Co-op, Product and Brand Experience (Spring 2027)](https://jobright.ai/jobs/info/6a9003362e254e06fb9eeec5?utm_campaign=1047&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 27 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Technical Product Management Associate (Internship)](https://jobright.ai/jobs/info/6a8fa0a72e254e06fb9ede10?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 26 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2027 Merchandise Planning Internship with Victoria's Secret](https://jobright.ai/jobs/info/6a8f85688ffa38557e6c98d0?utm_campaign=1047&utm_source=git)** | Reynoldsburg, OH, United States | Hybrid | Aug 26 |
@@ -74,7 +75,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Intern - RTP 2027](https://jobright.ai/jobs/info/6a8e7c80eb0ee5374a47d44f?utm_campaign=1047&utm_source=git)** | Durham, NC, United States | Hybrid | Aug 25 |
 | ↳ | **[Product Manager Intern 2027](https://jobright.ai/jobs/info/6a86f7b84afae74a08345e64?utm_campaign=1047&utm_source=git)** | Lowell, Massachusetts, United States | Hybrid | Aug 25 |
 | **[Synoptek](https://synoptek.com/)** | **[AI Product Development Intern](https://jobright.ai/jobs/info/6a8e41e9eb0ee5374a47ce58?utm_campaign=1047&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 25 |
-| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6a46324ec2d11a6a4666d067?utm_campaign=1047&utm_source=git)** | Dallas, TX, United States | On Site | Aug 25 |
+| **[Copart](http://www.copart.com)** | **[Technology Product Analyst Intern](https://jobright.ai/jobs/info/6a8e09b2581f2d7bfdfeabcc?utm_campaign=1047&utm_source=git)** | Dallas, TX, United States | On Site | Aug 25 |
 | **[EPL Group](https://eplgroup.co)** | **[Product Owner Intern - AI Venture Studio](https://jobright.ai/jobs/info/6a8e3980a5639a4810329f4d?utm_campaign=1047&utm_source=git)** | Miami, FL, United States | Remote | Aug 25 |
 | **[Vertiv](https://www.Vertiv.com)** | **[DC Power Product Management MBA Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8dc2e5cc0cf27068524f37?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Merucry Marine: Product Management Intern – Parts & Accessories](https://jobright.ai/jobs/info/6a8ddaba47679c68bf5e523d?utm_campaign=1047&utm_source=git)** | Fond du Lac, WI, United States | Hybrid | Aug 25 |
@@ -88,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Freddie Mac](https://www.freddiemac.com/)** | **[Multifamily Digital Product Analysis Intern – Summer 2027](https://jobright.ai/jobs/info/6a8cac2dcde3717f9e9be8ed?utm_campaign=1047&utm_source=git)** | McLean, VA, United States | On Site | Aug 24 |
 | **[Retensa Employee Retention](http://www.retensa.com)** | **[AI Product Intern: Fall 2026](https://jobright.ai/jobs/info/6a8ccb1525fc4e7ae3dba7fa?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Remote | Aug 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Project Intern (TikTok-Platform Responsibility-Teen Experiences) - 2026 Start](https://jobright.ai/jobs/info/6a8ce2d51d96e6541c8c3613?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 24 |
-| ↳ | **[Product Manager Intern (PGC) - 2027 Summer](https://jobright.ai/jobs/info/6a8ce2c3d34f700f87fd30a1?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Aug 24 |
 | ↳ | **[Product Manager Intern (PGC) - 2027 Summer](https://jobright.ai/jobs/info/6a8ce2d11d96e6541c8c3612?utm_campaign=1047&utm_source=git)** | San Jose, CA, United States | On Site | Aug 24 |
+| ↳ | **[Product Manager Intern (PGC) - 2027 Summer](https://jobright.ai/jobs/info/6a8ce2c3d34f700f87fd30a1?utm_campaign=1047&utm_source=git)** | Los Angeles, United States | On Site | Aug 24 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Product Management Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8cb5a225fc4e7ae3dba124?utm_campaign=1047&utm_source=git)** | Delaware, OH, United States | On Site | Aug 24 |
 | **[Procter & Gamble](https://us.pg.com)** | **[IT Project & Product Manager Internship](https://jobright.ai/jobs/info/6a8ca1e025fc4e7ae3db9886?utm_campaign=1047&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 24 |
 | **[BNY](https://www.bny.com)** | **[2027 BNY Summer Internship Program - Product Management (New York, NY)](https://jobright.ai/jobs/info/6a8c77f6d34f700f87fd0b19?utm_campaign=1047&utm_source=git)** | New York, NY, United States | Hybrid | Aug 24 |
