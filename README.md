@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Air Lines](https://www.delta.com)** | **[Co-op, Product and Brand Experience (Spring 2027)](https://jobright.ai/jobs/info/6a9003362e254e06fb9eeec5?utm_campaign=1047&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 27 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[Technical Product Management Associate (Internship)](https://jobright.ai/jobs/info/6a8fa0a72e254e06fb9ede10?utm_campaign=1047&utm_source=git)** | United States | Remote | Aug 26 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2027 Merchandise Planning Internship with Victoria's Secret](https://jobright.ai/jobs/info/6a8f85688ffa38557e6c98d0?utm_campaign=1047&utm_source=git)** | Reynoldsburg, OH, United States | Hybrid | Aug 26 |
 | **[Amazon](https://amazon.com)** | **[2027 Amazon Leadership Accelerator (ALA) Product Manager Internship](https://jobright.ai/jobs/info/6a722b0b71acd469eeda6576?utm_campaign=1047&utm_source=git)** | Seattle, WA, United States | On Site | Aug 26 |
@@ -116,6 +117,4 @@ For a complete list, click the following sortable link below:
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Digital Product Operations Intern](https://jobright.ai/jobs/info/6a88b794d34f700f87fca19f?utm_campaign=1047&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 21 |
 | **[Sezzle](https://sezzle.com)** | **[Product Intern](https://jobright.ai/jobs/info/6a876e00680f314a29d38d9c?utm_campaign=1047&utm_source=git)** | Canada | Remote | Aug 20 |
 | **[BMO](http://www.bmo.com)** | **[Product Control Analyst, Winter 2027 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6a875bd625fc4e7ae3dacc85?utm_campaign=1047&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 20 |
-| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Product Owner Intern - AI Solutions](https://jobright.ai/jobs/info/6a872f8ecde3717f9e9b0afa?utm_campaign=1047&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 20 |
-| **[Annie Mac Home Mortgages](https://www.uhm.com/)** | **[Product Owner Intern - AI Solutions](https://jobright.ai/jobs/info/6a872ee44afae74a08347164?utm_campaign=1047&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
